@@ -7,7 +7,7 @@ invoke_url = "https://api.nvcf.nvidia.com/v2/nvcf/pexec/functions/8f4118ba-60a8-
 fetch_url_format = "https://api.nvcf.nvidia.com/v2/nvcf/pexec/status/"
 
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "your api key",
     "Accept": "application/json",
 }
 def get_triplet(news_prompt):
