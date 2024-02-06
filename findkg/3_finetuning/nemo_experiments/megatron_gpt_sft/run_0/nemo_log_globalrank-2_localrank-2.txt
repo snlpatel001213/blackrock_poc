@@ -1,0 +1,171 @@
+[NeMo W 2024-02-02 08:14:13 nemo_logging:349] /usr/local/lib/python3.10/dist-packages/pandas/core/computation/expressions.py:20: UserWarning: Pandas requires version '2.7.3' or newer of 'numexpr' (version '2.7.2' currently installed).
+      from pandas.core.computation.check import NUMEXPR_INSTALLED
+    
+[NeMo W 2024-02-02 08:14:22 nemo_logging:349] /usr/local/lib/python3.10/dist-packages/hydra/_internal/hydra.py:119: UserWarning: Future Hydra versions will no longer change working directory at job runtime by default.
+    See https://hydra.cc/docs/next/upgrades/1.1_to_1.2/changes_to_job_working_dir/ for more information.
+      ret = run_job(
+    
+[NeMo I 2024-02-02 08:14:22 megatron_gpt_sft:150] 
+    
+    ************** Experiment configuration ***********
+[NeMo I 2024-02-02 08:14:23 megatron_gpt_sft:151] 
+    name: megatron_gpt_sft
+    trainer:
+      devices: 1
+      accelerator: gpu
+      num_nodes: 1
+      precision: 16
+      logger: false
+      enable_checkpointing: false
+      use_distributed_sampler: false
+      max_epochs: 9999
+      max_steps: 20000
+      log_every_n_steps: 10
+      val_check_interval: 200
+      gradient_clip_val: 1.0
+    exp_manager:
+      explicit_log_dir: null
+      exp_dir: null
+      name: ${name}
+      create_wandb_logger: false
+      wandb_logger_kwargs:
+        project: null
+        name: null
+      resume_if_exists: true
+      resume_ignore_no_checkpoint: true
+      create_checkpoint_callback: true
+      checkpoint_callback_params:
+        monitor: validation_${model.data.validation_ds.metric.name}
+        save_top_k: 2
+        mode: max
+        save_nemo_on_train_end: false
+        filename: megatron_gpt_sft--{${exp_manager.checkpoint_callback_params.monitor}:.3f}-{step}-{consumed_samples}
+        model_parallel_size: ${model.tensor_model_parallel_size}
+        save_best_model: true
+    model:
+      seed: 1234
+      tensor_model_parallel_size: 1
+      pipeline_model_parallel_size: 1
+      global_batch_size: 128
+      micro_batch_size: 4
+      restore_from_path: ???
+      resume_from_checkpoint: null
+      save_nemo_on_validation_end: true
+      sync_batch_comm: false
+      megatron_amp_O2: false
+      sequence_parallel: false
+      activations_checkpoint_granularity: null
+      activations_checkpoint_method: null
+      activations_checkpoint_num_layers: null
+      activations_checkpoint_layers_per_pipeline: null
+      answer_only_loss: false
+      gradient_as_bucket_view: false
+      seq_len_interpolation_factor: null
+      use_flash_attention: null
+      hidden_dropout: 0.0
+      attention_dropout: 0.0
+      ffn_dropout: 0.0
+      data:
+        chat: false
+        train_ds:
+          file_names: ???
+          global_batch_size: ${model.global_batch_size}
+          micro_batch_size: ${model.micro_batch_size}
+          shuffle: true
+          num_workers: 4
+          memmap_workers: null
+          pin_memory: true
+          max_seq_length: 2048
+          min_seq_length: 1
+          drop_last: true
+          concat_sampling_probabilities: null
+          label_key: output
+          add_eos: true
+          add_sep: false
+          add_bos: false
+          truncation_field: input
+          index_mapping_dir: null
+          prompt_template: '{input} {output}'
+          hf_dataset: false
+          truncation_method: right
+        validation_ds:
+          file_names: ???
+          names: null
+          global_batch_size: ${model.global_batch_size}
+          micro_batch_size: ${model.micro_batch_size}
+          shuffle: false
+          num_workers: 4
+          memmap_workers: ${model.data.train_ds.memmap_workers}
+          pin_memory: true
+          max_seq_length: ${model.data.train_ds.max_seq_length}
+          min_seq_length: 1
+          drop_last: false
+          label_key: ${model.data.train_ds.label_key}
+          add_eos: ${model.data.train_ds.add_eos}
+          add_sep: ${model.data.train_ds.add_sep}
+          add_bos: ${model.data.train_ds.add_bos}
+          write_predictions_to_file: false
+          output_file_path_prefix: null
+          truncation_field: ${model.data.train_ds.truncation_field}
+          index_mapping_dir: null
+          prompt_template: ${model.data.train_ds.prompt_template}
+          tokens_to_generate: 32
+          hf_dataset: false
+          truncation_method: right
+          metric:
+            name: loss
+            average: null
+            num_classes: null
+        test_ds:
+          file_names: ???
+          names: null
+          global_batch_size: ${model.global_batch_size}
+          micro_batch_size: ${model.micro_batch_size}
+          shuffle: false
+          num_workers: 4
+          memmap_workers: ${model.data.train_ds.memmap_workers}
+          pin_memory: true
+          max_seq_length: ${model.data.train_ds.max_seq_length}
+          min_seq_length: 1
+          drop_last: false
+          label_key: ${model.data.train_ds.label_key}
+          add_eos: ${model.data.train_ds.add_eos}
+          add_sep: ${model.data.train_ds.add_sep}
+          add_bos: ${model.data.train_ds.add_bos}
+          write_predictions_to_file: false
+          output_file_path_prefix: null
+          truncation_field: ${model.data.train_ds.truncation_field}
+          index_mapping_dir: null
+          prompt_template: ${model.data.train_ds.prompt_template}
+          tokens_to_generate: 32
+          hf_dataset: false
+          truncation_method: right
+          metric:
+            name: loss
+            average: null
+            num_classes: null
+      optim:
+        name: fused_adam
+        lr: 3.0e-05
+        weight_decay: 0.01
+        betas:
+        - 0.9
+        - 0.98
+    inference:
+      greedy: true
+      top_k: 0
+      top_p: 0.9
+      temperature: 1.0
+      all_probs: false
+      repetition_penalty: 1.2
+      min_tokens_to_generate: 0
+      compute_logprob: false
+      compute_attention_mask: true
+    
+[NeMo W 2024-02-02 08:14:23 exp_manager:744] No version folders would be created under the log folder as 'resume_if_exists' is enabled.
+[NeMo W 2024-02-02 08:14:23 exp_manager:601] There were no checkpoints found in checkpoint_dir or no checkpoint folder at checkpoint_dir :/workspace/findkg/3_finetuning/nemo_experiments/megatron_gpt_sft/checkpoints. Training from scratch.
+[NeMo I 2024-02-02 08:14:23 exp_manager:386] Experiments will be logged at /workspace/findkg/3_finetuning/nemo_experiments/megatron_gpt_sft
+[NeMo I 2024-02-02 08:14:23 exp_manager:825] TensorboardLogger has been set up
+[NeMo W 2024-02-02 08:14:23 exp_manager:921] The checkpoint callback was told to monitor a validation value and trainer's max_steps was set to 20000. Please ensure that max_steps will run for at least 1 epochs to ensure that checkpointing will not error out.
+[NeMo W 2024-02-02 08:14:23 nemo_model_checkpoint:56] Found save_best_model is True and save_nemo_on_train_end is False. Set save_nemo_on_train_end to True to automatically save the best model.
+[NeMo I 2024-02-02 08:14:23 megatron_gpt_sft:188] Resuming training from checkpoint: None

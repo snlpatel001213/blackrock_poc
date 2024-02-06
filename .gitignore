@@ -1,0 +1,7 @@
+*.zip
+*.gz
+*.json
+*.safetensors
+*.model
+*.nemo
+*.bin
