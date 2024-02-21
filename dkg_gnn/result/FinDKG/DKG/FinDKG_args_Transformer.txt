@@ -1,0 +1,11 @@
+############################### Config ###############################
+graph_mode = "FinDKG"   # specify the dataset: "FinDKG" "ICEWS18"  #"ICEWS14"  #"ICEWS_500"  #"GDELT"  #"WIKI"  #"YAGO"
+
+model_ver = "KGTransformer"   # Mode name: "GraphTransformer"
+model_type ='KGT+RNN'  # 'KGT+RNN' for GraphTransformer | 'RGCN+RNN' for GraphRNN
+epoch_times = 150
+random_seed = 41
+data_root_path = './data'   # output data path
+
+flag_train = True    # Traing the model
+flag_eval = True     # Evaluate the model
