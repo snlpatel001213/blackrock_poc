@@ -1,4 +1,2 @@
-dkg_gnn/result/FinDKG/DKG/FinDKG_KGTransformer_overall_best_checkpoint_opt_edge.pt filter=lfs diff=lfs merge=lfs -text
 . filter=lfs diff=lfs merge=lfs -text
 dkg_gnn/result/FinDKG filter=lfs diff=lfs merge=lfs -text
-dkg_gnn/result/FinDKG/DKG/FinDKG_KGTransformer_run_best_checkpoint_opt_edge.pt filter=lfs diff=lfs merge=lfs -text
