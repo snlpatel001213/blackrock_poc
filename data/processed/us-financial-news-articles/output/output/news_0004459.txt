@@ -1,0 +1,1 @@
+{'output': [['U.S. Government', 'ORG/GOV', 'Block', 'MoneyGram', 'ORG'], ['Ant Financial', 'ORG', 'Participates_In', 'MoneyGram', 'ORG'], ['MoneyGram', 'ORG', 'Operate_In', 'U.S.', 'GPE'], ['U.S. Government', 'ORG/GOV', 'Negative_Impact_On', 'Ant Financial-MoneyGram deal', 'EVENT'], ['Ant Financial-MoneyGram deal', 'EVENT', 'Relate_To', 'National Security Concerns', 'CONCEPT']]}

@@ -1,0 +1,1 @@
+{'output': [['CNBC', 'ORG', 'Announce', "Cramer's Stop Trading", 'EVENT'], ['Jim Cramer', 'PERSON', 'Participates_In', "Cramer's Stop Trading", 'EVENT'], ['Micron Technology', 'COMP', 'Relate_To', "Cramer's Stop Trading", 'EVENT'], ['Micron Technology', 'COMP', 'Control', 'Shares', 'FIN_INSTRUMENT'], ['Micron Technology', 'COMP', 'Impact', 'Numbers', 'ECON_INDICATOR']]}
