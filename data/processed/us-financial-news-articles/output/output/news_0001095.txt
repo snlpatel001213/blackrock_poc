@@ -1,0 +1,1 @@
+{'output': [['Peru', 'GPE', 'Has', 'Bus Crash', 'EVENT'], ['Bus Crash', 'EVENT', 'Impact', 'At Least 36 People', 'CONCEPT'], ['At Least 36 People', 'CONCEPT', 'Negative_Impact_On', 'People', 'PERSON'], ['Bus Crash', 'EVENT', 'Relate_To', 'Panamericana Norte Highway', 'COMP'], ['Panamericana Norte Highway', 'COMP', 'Locate_In', 'Peru', 'GPE']]}
