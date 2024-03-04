@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Steinhoff",
+            "ORG",
+            "Operate_In",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Operate_In",
+            "Frankfurt",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Has",
+            "2.4 billion euro hole",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Operate_In",
+            "Retail sector",
+            "SECTOR"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Has",
+            "10.7 billion euros debts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Impact",
+            "More than $10 billion loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Raise",
+            "$400 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Relate_To",
+            "Germany",
+            "GPE"
+        ]
+    ]
+}

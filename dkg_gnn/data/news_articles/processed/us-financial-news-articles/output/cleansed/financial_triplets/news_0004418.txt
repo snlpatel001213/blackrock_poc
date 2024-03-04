@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Manchester City",
+            "COMP",
+            "Has",
+            "Gabriel Jesus",
+            "PERSON"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Premier League",
+            "SECTOR",
+            "Has",
+            "Crystal Palace",
+            "COMP"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Has",
+            "Pep Guardiola",
+            "PERSON"
+        ],
+        [
+            "Watford",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Global Companies",
+            "ORG",
+            "Announce",
+            "$3.6 trln Merger Spree",
+            "EVENT"
+        ],
+        [
+            "$3.6 trln Merger Spree",
+            "EVENT",
+            "Relate_To",
+            "Global Companies",
+            "ORG"
+        ],
+        [
+            "Global Companies",
+            "ORG",
+            "Operate_In",
+            "Global Market",
+            "SECTOR"
+        ],
+        [
+            "Global Companies",
+            "ORG",
+            "Impact",
+            "Jobs",
+            "GPE"
+        ],
+        [
+            "Global Companies",
+            "ORG",
+            "Impact",
+            "Wages",
+            "GPE"
+        ],
+        [
+            "Global Companies",
+            "ORG",
+            "Operate_In",
+            "M&A Dilemma",
+            "EVENT"
+        ]
+    ]
+}

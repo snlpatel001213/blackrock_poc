@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Alphabet Inc",
+            "ORG",
+            "Has",
+            "Google",
+            "COMP"
+        ],
+        [
+            "Amended Complaint",
+            "EVENT",
+            "Relate_To",
+            "Pay and Promotions",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Operate_In",
+            "California",
+            "GPE"
+        ]
+    ]
+}

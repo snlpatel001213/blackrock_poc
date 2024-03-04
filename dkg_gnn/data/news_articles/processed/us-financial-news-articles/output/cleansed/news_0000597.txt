@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "U.S. airport immigration computers",
+            "COMP",
+            "Go_Down_Temporarily",
+            "U.S. airport",
+            "GPE"
+        ],
+        [
+            "Customs and Border Protection",
+            "ORG/GOV",
+            "Announce",
+            "system disruption",
+            "CONCEPT"
+        ],
+        [
+            "Customs and Border Protection",
+            "ORG/GOV",
+            "Give",
+            "no explanation",
+            "CONCEPT"
+        ],
+        [
+            "Customs and Border Protection",
+            "ORG/GOV",
+            "Say",
+            "travellers were processed",
+            "VERB",
+            "using alternative procedures",
+            "CONCEPT"
+        ],
+        [
+            "John F. Kennedy International Airport",
+            "GPE",
+            "Have",
+            "long lines",
+            "CONCEPT"
+        ],
+        [
+            "Hartsfield-Jackson Atlanta International Airport",
+            "GPE",
+            "Have",
+            "long lines",
+            "CONCEPT"
+        ],
+        [
+            "Denver International Airport",
+            "GPE",
+            "Affected",
+            "computer issue",
+            "CONCEPT"
+        ],
+        [
+            "Miami International Airport",
+            "GPE",
+            "Twitter post",
+            "operations returning to normal",
+            "CONCEPT"
+        ]
+    ]
+}

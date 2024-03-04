@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "Announce",
+            "Facebook fourth quarter and full year 2017 financial results",
+            "EVENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "ORG"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "NASDAQ: FB",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Regulation FD",
+            "CONCEPT"
+        ]
+    ]
+}

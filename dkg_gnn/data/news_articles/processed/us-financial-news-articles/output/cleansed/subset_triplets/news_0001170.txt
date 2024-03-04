@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Federal Regulators",
+            "ORG/GOV"
+        ],
+        [
+            "Ant Financials",
+            "ORG/REG",
+            "Relate_To",
+            "Alibaba",
+            "ORG"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Possible National Security Risks",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Announce",
+            "Sell Side Indicator",
+            "CONCEPT"
+        ],
+        [
+            "Sell Side Indicator",
+            "CONCEPT",
+            "Relate_To",
+            "Wall Street bank peers equity allocation",
+            "COMP"
+        ],
+        [
+            "Sell Side Indicator",
+            "CONCEPT",
+            "Impact",
+            "Stocks performance",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Operate_In",
+            "Financial sector",
+            "SECTOR"
+        ],
+        [
+            "Bank of America",
+            "ORG",
+            "Is_Member_Of",
+            "Bank of America Merrill Lynch",
+            "ORG"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Participates_In",
+            "Wall Street strategists recommendations",
+            "CONCEPT"
+        ],
+        [
+            "Savita Subramanian",
+            "PERSON",
+            "Is_Member_Of",
+            "Bank of America Merrill Lynch",
+            "ORG"
+        ]
+    ]
+}

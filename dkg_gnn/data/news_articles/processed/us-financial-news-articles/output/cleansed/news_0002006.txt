@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Announce",
+            "expanded its operations team",
+            "ORG"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Hire",
+            "Gordon Kropp",
+            "PERSON"
+        ],
+        [
+            "Gordon Kropp",
+            "PERSON",
+            "Work_Experience_At",
+            "The Lubrizol Corporation",
+            "ORG"
+        ],
+        [
+            "Gordon Kropp",
+            "PERSON",
+            "Education",
+            "Bachelor of Science degree in supply chain management",
+            "CONCEPT"
+        ],
+        [
+            "Gordon Kropp",
+            "PERSON",
+            "Joins_As",
+            "Supply Chain Analyst",
+            "ORG"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Hire",
+            "Stephen Coburn",
+            "PERSON"
+        ],
+        [
+            "Stephen Coburn",
+            "PERSON",
+            "Work_Experience_At",
+            "PPG Industries, Inc.",
+            "ORG"
+        ],
+        [
+            "Stephen Coburn",
+            "PERSON",
+            "Education",
+            "Bachelor of Science degree in biology",
+            "CONCEPT"
+        ],
+        [
+            "Stephen Coburn",
+            "PERSON",
+            "Joins_As",
+            "Customer Service Specialist",
+            "ORG"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Operate_In",
+            "Cleveland, Ohio",
+            "GPE"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Founded_In",
+            "1964",
+            "TIME"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Industry",
+            "specialty chemicals",
+            "SECTOR"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Employ",
+            "technically adept sales professionals",
+            "ORG"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Subsidiaries",
+            "Canada and Europe",
+            "GPE"
+        ],
+        [
+            "Sea-Land Chemical Company",
+            "COMP",
+            "Location",
+            "eight strategically located warehouses in North America and two warehouses in Europe",
+            "FAC"
+        ]
+    ]
+}

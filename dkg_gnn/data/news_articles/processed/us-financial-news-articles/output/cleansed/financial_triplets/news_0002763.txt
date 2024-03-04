@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Produce",
+            "Oprx-106",
+            "PRODUCT"
+        ],
+        [
+            "Oprx-106",
+            "PRODUCT",
+            "Impact",
+            "Patients with Ulcerative Colitis",
+            "GPE"
+        ],
+        [
+            "Oprx-106",
+            "PRODUCT",
+            "Relate_To",
+            "Adverse Events",
+            "CONCEPT"
+        ]
+    ]
+}

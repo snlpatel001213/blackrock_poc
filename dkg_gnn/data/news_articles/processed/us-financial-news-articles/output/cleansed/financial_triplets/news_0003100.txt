@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Odisha",
+            "GPE",
+            "Produce",
+            "100 million tonnes of ore",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Operate_In",
+            "Iron Ore State",
+            "GPE"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Impact",
+            "India\u2019s total 192 million tonnes of iron ore",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Has",
+            "78 million tonnes of iron ore",
+            "ECON_INDICATOR"
+        ],
+        [
+            "7 mines",
+            "ORG",
+            "Operate_In",
+            "Odisha",
+            "GPE"
+        ],
+        [
+            "7 mines",
+            "ORG",
+            "Control",
+            "14.57 million tonnes of iron ore",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Relate_To",
+            "Supreme Court",
+            "ORG/GOV"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Impact",
+            "Penalties for illegally extracting ore",
+            "CONCEPT"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Invests_In",
+            "131 miners",
+            "ORG"
+        ],
+        [
+            "Odisha",
+            "GPE",
+            "Raise",
+            "190 billion rupees",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Fire and Fury",
+            "EVENT",
+            "Announce",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Participates_In",
+            "Fire and Fury",
+            "EVENT"
+        ]
+    ]
+}

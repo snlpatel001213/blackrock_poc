@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Liam Fox",
+            "PERSON",
+            "Is_Member_Of",
+            "UK Trade Minister",
+            "ORG"
+        ],
+        [
+            "UK Trade Minister",
+            "ORG",
+            "Negative_Impact_On",
+            "Seek Membership",
+            "ORG"
+        ],
+        [
+            "Seek Membership",
+            "ORG",
+            "Relate_To",
+            "Trans-Pacific Partnership",
+            "GPE"
+        ],
+        [
+            "Trans-Pacific Partnership",
+            "GPE",
+            "Operate_In",
+            "Trade Pact",
+            "ORG/GOV"
+        ]
+    ]
+}

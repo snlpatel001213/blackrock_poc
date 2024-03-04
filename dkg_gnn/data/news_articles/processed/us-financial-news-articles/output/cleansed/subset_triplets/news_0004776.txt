@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "American Express Co",
+            "COMP",
+            "Announce",
+            "4th-qtr loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "American Express Co",
+            "COMP",
+            "Relate_To",
+            "tax legislation",
+            "CONCEPT"
+        ],
+        [
+            "tax legislation",
+            "CONCEPT",
+            "Control",
+            "U.S. companies",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. companies",
+            "ORG/GOV",
+            "Impact",
+            "profits repatriation",
+            "CONCEPT"
+        ],
+        [
+            "American Express Co",
+            "COMP",
+            "Raise",
+            "full-year 2017 earnings",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

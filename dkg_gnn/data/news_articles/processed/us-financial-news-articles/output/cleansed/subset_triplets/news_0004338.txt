@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Operate_In",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Control",
+            "Russian Metrojet",
+            "ORG"
+        ],
+        [
+            "Bombing",
+            "EVENT",
+            "Negative_Impact_On",
+            "Tourism Industry",
+            "SECTOR"
+        ],
+        [
+            "Tourism Industry",
+            "SECTOR",
+            "Operate_In",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Suspension",
+            "EVENT",
+            "Negative_Impact_On",
+            "Tourism Industry",
+            "SECTOR"
+        ]
+    ]
+}

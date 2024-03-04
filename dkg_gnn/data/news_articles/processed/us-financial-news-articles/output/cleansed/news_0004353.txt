@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Control",
+            "Postbank",
+            "COMP"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Sue",
+            "Investors",
+            "ORG"
+        ],
+        [
+            "Investors",
+            "ORG",
+            "Participates_In",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Has",
+            "Shareholders",
+            "ORG"
+        ],
+        [
+            "Shareholders",
+            "ORG",
+            "Receive",
+            "25 Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shareholders",
+            "ORG",
+            "Deserve",
+            "64 Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Impact",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Relate_To",
+            "WirtschaftsWoche",
+            "COMP"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Change",
+            "Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Drop",
+            "Riskier Forms of Business",
+            "CONCEPT"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Agree",
+            "Capital Increase",
+            "CONCEPT"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Agree",
+            "Board Changes",
+            "CONCEPT"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Agree",
+            "Elimination of Dividend",
+            "CONCEPT"
+        ]
+    ]
+}

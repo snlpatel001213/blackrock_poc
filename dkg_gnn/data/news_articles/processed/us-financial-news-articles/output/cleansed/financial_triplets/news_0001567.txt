@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Dentsu Aegis Network",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "Dentsu Aegis Network",
+            "ORG",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "HelloWorld",
+            "ORG",
+            "Is_Member_Of",
+            "Dentsu Aegis Network",
+            "ORG"
+        ],
+        [
+            "HelloWorld",
+            "ORG",
+            "Produce",
+            "Digital Marketing Solutions",
+            "ORG"
+        ],
+        [
+            "HelloWorld",
+            "ORG",
+            "Relate_To",
+            "Promotion and Loyalty Solutions",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Operate_In",
+            "Dentsu Aegis Network",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Operate_In",
+            "Columbia, Maryland",
+            "GPE"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "People-based Marketing Disciplines",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "Loyalty Solutions",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "Performance Media",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "Customer Relationship Marketing",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "Customer Experience",
+            "ORG"
+        ],
+        [
+            "Merkle",
+            "ORG",
+            "Participates_In",
+            "Enterprise Technology Services",
+            "ORG"
+        ],
+        [
+            "Coca Cola",
+            "COMP",
+            "Participates_In",
+            "HelloWorld",
+            "ORG"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Participates_In",
+            "HelloWorld",
+            "ORG"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Participates_In",
+            "HelloWorld",
+            "ORG"
+        ]
+    ]
+}

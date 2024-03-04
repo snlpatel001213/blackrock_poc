@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "TruStone Home Mortgage, LLC",
+            "ORG",
+            "Operate_In",
+            "Minnesota",
+            "GPE"
+        ],
+        [
+            "TruStone Home Mortgage, LLC",
+            "ORG",
+            "Operate_In",
+            "Wisconsin",
+            "GPE"
+        ],
+        [
+            "TruStone Home Mortgage, LLC",
+            "ORG",
+            "Has",
+            "over 30 mortgage originators",
+            "CONCEPT"
+        ],
+        [
+            "TruStone Home Mortgage, LLC",
+            "ORG",
+            "Has",
+            "in-house underwriting, processing and servicing team",
+            "CONCEPT"
+        ],
+        [
+            "TruStone Home Mortgage, LLC",
+            "ORG",
+            "Is_Member_Of",
+            "TruStone Financial",
+            "ORG"
+        ],
+        [
+            "TruStone Financial",
+            "ORG",
+            "Has",
+            "assets of $1.24 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TruStone Financial",
+            "ORG",
+            "Has",
+            "14 branches",
+            "CONCEPT"
+        ],
+        [
+            "TruStone Financial",
+            "ORG",
+            "Has",
+            "Katie Grindeland",
+            "PERSON"
+        ],
+        [
+            "Katie Grindeland",
+            "PERSON",
+            "Has",
+            "phone number 763.595.4002",
+            "CONCEPT"
+        ],
+        [
+            "Katie Grindeland",
+            "PERSON",
+            "Has",
+            "email Katie.Grindeland@TruStone.org",
+            "CONCEPT"
+        ]
+    ]
+}

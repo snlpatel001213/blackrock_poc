@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ethiopia",
+            "GPE",
+            "Announce",
+            "Release thousands of political prisoners",
+            "CONCEPT"
+        ],
+        [
+            "Ethiopia",
+            "GPE",
+            "Announce",
+            "Shut down detention center",
+            "CONCEPT"
+        ],
+        [
+            "Detention center",
+            "COMP",
+            "Known for",
+            "Torture and abuses",
+            "CONCEPT"
+        ],
+        [
+            "Ethiopian Prime Minister",
+            "PERSON",
+            "Leads",
+            "EPRDF",
+            "ORG"
+        ],
+        [
+            "EPRDF",
+            "ORG",
+            "Drop charges against political",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

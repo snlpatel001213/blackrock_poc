@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Dan Lydiate",
+            "PERSON",
+            "Suffer",
+            "Biceps Injury",
+            "CONCEPT"
+        ],
+        [
+            "Dan Lydiate",
+            "PERSON",
+            "Belong_To",
+            "Ospreys",
+            "ORG"
+        ],
+        [
+            "Ospreys",
+            "ORG",
+            "Defence_Coach",
+            "Brad Davis",
+            "PERSON"
+        ],
+        [
+            "Dan Lydiate",
+            "PERSON",
+            "May_Need",
+            "Surgery",
+            "CONCEPT"
+        ],
+        [
+            "Dan Lydiate",
+            "PERSON",
+            "Possibly_Out",
+            "12 to 16 weeks",
+            "DURATION"
+        ],
+        [
+            "Wales",
+            "GPE",
+            "Without",
+            "Sam Warburton",
+            "PERSON"
+        ],
+        [
+            "Sam Warburton",
+            "PERSON",
+            "Undergo",
+            "Knee Surgery",
+            "CONCEPT"
+        ],
+        [
+            "Wales",
+            "GPE",
+            "Also_Without",
+            "Taulupe Faletau",
+            "PERSON"
+        ],
+        [
+            "Taulupe Faletau",
+            "PERSON",
+            "Doubtful",
+            "Knee Ligament Injury",
+            "CONCEPT"
+        ],
+        [
+            "Wales",
+            "GPE",
+            "Kick_Off",
+            "Their Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Wales",
+            "GPE",
+            "Against",
+            "Scotland",
+            "GPE"
+        ]
+    ]
+}

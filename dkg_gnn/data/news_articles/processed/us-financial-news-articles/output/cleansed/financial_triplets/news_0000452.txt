@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "BP",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Positive_Impact_On",
+            "U.S. Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Decrease",
+            "Deferred Tax Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Decrease",
+            "Deferred Tax Liabilities",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shell",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

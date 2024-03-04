@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "University of Oxford",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Cristina Dondi",
+            "PERSON",
+            "Participates_In",
+            "Research",
+            "CONCEPT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Books",
+            "PRODUCT"
+        ],
+        [
+            "Books",
+            "PRODUCT",
+            "Has",
+            "Printed Word",
+            "CONCEPT"
+        ],
+        [
+            "Printed Word",
+            "CONCEPT",
+            "Impact",
+            "Power",
+            "CONCEPT"
+        ]
+    ]
+}

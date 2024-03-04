@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Munich Re",
+            "COMP",
+            "Announce",
+            "Total 2017 losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Has",
+            "2nd-highest on record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Is_Member_Of",
+            "Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Hurricanes",
+            "CONCEPT"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Fires",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Participates_In",
+            "Claims payment",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Hurricanes",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Fires",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Operate_In",
+            "Munich",
+            "GPE"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Has",
+            "Corporate Climate Centre",
+            "ORG"
+        ],
+        [
+            "Corporate Climate Centre",
+            "ORG",
+            "Has",
+            "Ernst Rauch",
+            "PERSON"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Thin margins",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Stiff competition",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Falling prices",
+            "CONCEPT"
+        ]
+    ]
+}

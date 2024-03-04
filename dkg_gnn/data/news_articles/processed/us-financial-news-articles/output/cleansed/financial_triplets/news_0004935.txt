@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Individuals",
+            "PERSON",
+            "Relate_To",
+            "Groups",
+            "PERSON"
+        ],
+        [
+            "Groups",
+            "PERSON",
+            "Relate_To",
+            "Government",
+            "GPE"
+        ]
+    ]
+}

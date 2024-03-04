@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Key Information",
+            "CONCEPT",
+            "Relate_To",
+            "Russia Probe",
+            "EVENT"
+        ],
+        [
+            "Inquiry",
+            "EVENT",
+            "Relate_To",
+            "Russian Meddling",
+            "CONCEPT"
+        ],
+        [
+            "Russian Meddling",
+            "CONCEPT",
+            "Relate_To",
+            "Election",
+            "EVENT"
+        ],
+        [
+            "Election",
+            "EVENT",
+            "Relate_To",
+            "Trump Campaign",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Control",
+            "Bond Buying",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Raise",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Has",
+            "Two Percent Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Participates_In",
+            "European Central Bank",
+            "ORG/REG"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Participates_In",
+            "European Central Bank",
+            "ORG/REG"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Impact",
+            "Cheaper Imports",
+            "CONCEPT"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Impact",
+            "Dearer Exports",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Has",
+            "Next Policy Meeting",
+            "EVENT"
+        ]
+    ]
+}

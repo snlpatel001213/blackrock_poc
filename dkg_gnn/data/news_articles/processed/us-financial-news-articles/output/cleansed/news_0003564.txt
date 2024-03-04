@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Economic Hardships",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Alleged Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "High Unemployment",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Savings Losses",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran\u2019s Foreign Policy",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Financial Support for Palestinians",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Lebanese Shi\u2018ite group Hezbollah",
+            "ORG"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Impact",
+            "Government Response",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Security Apparatus",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Blocking Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Messaging Apps Restriction",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Backed_Down",
+            "Fuel Prices Increase",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Promised",
+            "Cash Handouts to Poor",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Promised",
+            "Job Creation",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "CONCEPT",
+            "Want",
+            "Higher Wages",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "CONCEPT",
+            "Want",
+            "End to Alleged Graft",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "CONCEPT",
+            "Question",
+            "Iran\u2019s Foreign Policy",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "CONCEPT",
+            "Shouted",
+            "Reza Shah Blessing",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Similar Uprisings",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Small-Scale Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Nationwide Political Uprising",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "2009 Uprising",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Arab Revolts",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Protests Leaders under House Arrest",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "New Wave of Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Unrest",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Calls for Economic Hardship End",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Economic Hardship",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Tensions with United States",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Had",
+            "Sanctions Possibility",
+            "CONCEPT"
+        ],
+        [
+            "West",
+            "CONCEPT",
+            "Reacted",
+            "Trump Tweet",
+            "CONCEPT"
+        ],
+        [
+            "West",
+            "CONCEPT",
+            "Reacted",
+            "Canada Encouragement",
+            "CONCEPT"
+        ],
+        [
+            "West",
+            "CONCEPT",
+            "Reacted",
+            "Boris Johnson Twitter Page",
+            "CONCEPT"
+        ]
+    ]
+}

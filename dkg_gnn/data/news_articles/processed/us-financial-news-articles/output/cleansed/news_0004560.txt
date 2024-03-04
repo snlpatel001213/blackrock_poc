@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Batting .633",
+            "CONCEPT",
+            "Relate_To",
+            "Predictions",
+            "CONCEPT"
+        ],
+        [
+            "Jan. 4",
+            "DATE",
+            "Occur_On",
+            "Predictions",
+            "CONCEPT"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Make",
+            "Predictions",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "DATE",
+            "Be_Predicted_By",
+            "Predictions",
+            "CONCEPT"
+        ],
+        [
+            "Nineteen",
+            "NUMBER",
+            "Be_Correct",
+            "Predictions",
+            "CONCEPT"
+        ],
+        [
+            "A gimme",
+            "CONCEPT",
+            "Be",
+            "Prediction",
+            "CONCEPT"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Tweeted",
+            "Often",
+            "CONCEPT"
+        ],
+        [
+            "More than 2,300 times",
+            "NUMBER",
+            "Be_Number_Of",
+            "Trump`s Tweets",
+            "CONCEPT"
+        ],
+        [
+            "He held",
+            "PERSON",
+            "Hold",
+            "Press Conference",
+            "EVENT"
+        ],
+        [
+            "One full-scale solo press conference",
+            "EVENT",
+            "Be_Held_By",
+            "President Trump",
+            "PERSON"
+        ],
+        [
+            "A hefty number of senior aides",
+            "NUMBER",
+            "Resign_Or_Be_Fired",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "Michael Flynn",
+            "PERSON",
+            "Be_Among",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "Reince Priebus",
+            "PERSON",
+            "Be_Among",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Be_Among",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "Sean Spicer",
+            "PERSON",
+            "Be_Among",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "Neil Gorsuch",
+            "PERSON",
+            "Be_Confirmed",
+            "Constitutionalist",
+            "CONCEPT"
+        ],
+        [
+            "To the Supreme Court",
+            "ORG",
+            "Be_Confirmed_In",
+            "Neil Gorsuch",
+            "PERSON"
+        ],
+        [
+            "Tax reform",
+            "CONCEPT",
+            "Pass",
+            "Under",
+            "CONCEPT"
+        ],
+        [
+            "Budget reconciliation",
+            "CONCEPT",
+            "Be_Passed_Under",
+            "Tax Reform",
+            "CONCEPT"
+        ]
+    ]
+}

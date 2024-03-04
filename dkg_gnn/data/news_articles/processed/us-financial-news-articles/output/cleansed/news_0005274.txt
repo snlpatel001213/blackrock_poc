@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "France Gall",
+            "PERSON",
+            "Die",
+            "70",
+            "AGE"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Operate_In",
+            "French Pop Music",
+            "SECTOR"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Relate_To",
+            "Edith Piaf",
+            "PERSON"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Relate_To",
+            "Charles Aznavour",
+            "PERSON"
+        ],
+        [
+            "Serge Gainsbourg",
+            "PERSON",
+            "Collaborate_With",
+            "France Gall",
+            "PERSON"
+        ],
+        [
+            "Serge Gainsbourg",
+            "PERSON",
+            "Produce",
+            "Poupee de cire, poupee de son",
+            "PRODUCT"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Participates_In",
+            "Eurovision Song Contest",
+            "EVENT"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Negative_Impact_On",
+            "France Gall",
+            "PERSON"
+        ],
+        [
+            "Michel Berger",
+            "PERSON",
+            "Collaborate_With",
+            "France Gall",
+            "PERSON"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Operate_In",
+            "French-Canadian Musical",
+            "SECTOR"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Has",
+            "Two Children",
+            "CONCEPT"
+        ],
+        [
+            "France Gall",
+            "PERSON",
+            "Halt_Career",
+            "1990s",
+            "TIME"
+        ],
+        [
+            "Johnny Hallyday",
+            "PERSON",
+            "Die",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Johnny Hallyday",
+            "PERSON",
+            "Dubbed",
+            "French Elvis",
+            "PERSON"
+        ]
+    ]
+}

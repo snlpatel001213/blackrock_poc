@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Bosch",
+            "ORG",
+            "Relate_To",
+            "Data-based services",
+            "CONCEPT"
+        ],
+        [
+            "Bosch",
+            "ORG",
+            "Relate_To",
+            "Smart homes",
+            "CONCEPT"
+        ],
+        [
+            "Bosch",
+            "ORG",
+            "Relate_To",
+            "Smart cities",
+            "CONCEPT"
+        ],
+        [
+            "HERE",
+            "ORG",
+            "Control",
+            "High-definition maps",
+            "PRODUCT"
+        ],
+        [
+            "BMW",
+            "ORG",
+            "Participates_In",
+            "HERE",
+            "ORG"
+        ],
+        [
+            "Daimler",
+            "ORG",
+            "Participates_In",
+            "HERE",
+            "ORG"
+        ],
+        [
+            "Audi",
+            "ORG",
+            "Participates_In",
+            "HERE",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Invests_In",
+            "HERE",
+            "ORG"
+        ],
+        [
+            "Bosch",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Volkmar Denner",
+            "PERSON",
+            "Is_Member_Of",
+            "Bosch",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "output": [
+        [
+            "Washington State",
+            "GPE",
+            "Sue",
+            "Monsanto",
+            "ORG"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Produce",
+            "PCBs",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Protected Salmon and Orcas",
+            "GPE"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Operate_In",
+            "St. Louis",
+            "GPE"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Use_In",
+            "Paint",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Use_In",
+            "Coolants",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Use_In",
+            "Sealants",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Use_In",
+            "Hydraulic Fluids",
+            "PRODUCT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Buyout",
+            "Bayer",
+            "ORG"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Cause",
+            "Health Problems",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Cause",
+            "Cancer",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Immune System",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Nervous System",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Reproductive Systems",
+            "CONCEPT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Say",
+            "Case_Lacks_Merit",
+            "CONCEPT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Produced",
+            "PCBs",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Banned",
+            "Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Sued",
+            "City of Spokane",
+            "GPE"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Sold",
+            "Third Parties",
+            "ORG"
+        ],
+        [
+            "Third Parties",
+            "ORG",
+            "Responsible",
+            "Clean_Up_Costs",
+            "CONCEPT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Infuriate",
+            "Ferguson",
+            "PERSON"
+        ],
+        [
+            "Ferguson",
+            "PERSON",
+            "Great_Grandparents",
+            "Settle",
+            "VERB"
+        ],
+        [
+            "Skagit River",
+            "GPE",
+            "Contaminated",
+            "PCBs",
+            "PRODUCT"
+        ],
+        [
+            "Washington State",
+            "GPE",
+            "Sue",
+            "Monsanto",
+            "ORG",
+            "On_Grounds",
+            "Product_Liability"
+        ],
+        [
+            "Washington State",
+            "GPE",
+            "Sue",
+            "Monsanto",
+            "ORG",
+            "On_Grounds",
+            "Negligence"
+        ],
+        [
+            "Washington State",
+            "GPE",
+            "Sue",
+            "Monsanto",
+            "ORG",
+            "On_Grounds",
+            "Trespass"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Produce",
+            "Luxturna",
+            "PRODUCT"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "U.S. Food and Drug Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Operate_In",
+            "Biotechnology",
+            "SECTOR"
+        ],
+        [
+            "Luxturna",
+            "PRODUCT",
+            "Impact",
+            "Price Tag",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Control",
+            "Discounts",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Participates_In",
+            "Inherited Retinal Disease",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Raise",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Operate_In",
+            "Healthcare",
+            "SECTOR"
+        ]
+    ]
+}

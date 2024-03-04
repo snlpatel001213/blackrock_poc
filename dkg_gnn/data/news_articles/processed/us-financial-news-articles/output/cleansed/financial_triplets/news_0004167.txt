@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "PCM Inc",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "PCM UK",
+            "ORG",
+            "Is_Member_Of",
+            "PCM Inc",
+            "ORG"
+        ]
+    ]
+}

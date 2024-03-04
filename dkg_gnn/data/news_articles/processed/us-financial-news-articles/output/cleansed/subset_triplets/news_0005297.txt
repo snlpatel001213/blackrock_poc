@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Positive_Impact_On",
+            "2016 Melbourne Park title",
+            "EVENT"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Dominika Cibulkova",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ]
+    ]
+}

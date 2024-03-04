@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "CareFirst",
+            "ORG",
+            "Introduce",
+            "Data Breach Class Action",
+            "EVENT"
+        ],
+        [
+            "CareFirst",
+            "ORG",
+            "Operate_In",
+            "Health Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "CareFirst",
+            "ORG",
+            "Participates_In",
+            "Supreme Court Petition",
+            "EVENT"
+        ],
+        [
+            "Cybersecurity Insurers",
+            "ORG",
+            "Relate_To",
+            "Data Breach Cases",
+            "EVENT"
+        ],
+        [
+            "Corporate America",
+            "ORG",
+            "Relate_To",
+            "Data Breach Cases",
+            "EVENT"
+        ]
+    ]
+}

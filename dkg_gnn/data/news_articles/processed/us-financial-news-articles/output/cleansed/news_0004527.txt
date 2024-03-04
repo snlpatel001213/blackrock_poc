@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Adient",
+            "ORG",
+            "Host",
+            "Call",
+            "EVENT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Discuss",
+            "First Quarter Fiscal 2018 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "R. Bruce McDonald",
+            "PERSON",
+            "Is_Member_Of",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "R. Bruce McDonald",
+            "PERSON",
+            "Chairman",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "R. Bruce McDonald",
+            "PERSON",
+            "CEO",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Jeff Stafeil",
+            "PERSON",
+            "Is_Member_Of",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Jeff Stafeil",
+            "PERSON",
+            "EVP",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Jeff Stafeil",
+            "PERSON",
+            "CFO",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Operate_In",
+            "Automotive Seating Industry",
+            "SECTOR"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Produce",
+            "Automotive Seating",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Have",
+            "85000 Employees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Have",
+            "238 Manufacturing/Assembly Plants",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Operate_In",
+            "34 Countries Worldwide",
+            "GPE"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Deliver",
+            "Automotive Seating",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Deliver",
+            "Automotive Seating for All Vehicle Classes",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Deliver",
+            "Automotive Seating for All Major OEMs",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Have",
+            "Integrated In-House Skills",
+            "CONCEPT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Take",
+            "Products from Research and Design to Engineering and Manufacturing",
+            "CONCEPT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Have",
+            "More than 25 Million Vehicles Every Year",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

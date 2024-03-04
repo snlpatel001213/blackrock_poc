@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "General Motors Co",
+            "COMP",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "Ford Motor Co",
+            "COMP",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "Fiat Chrysler Automobiles NV",
+            "COMP",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "GM",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "GM",
+            "COMP",
+            "Has",
+            "Inventory of unsold vehicles",
+            "PRODUCT"
+        ],
+        [
+            "GM",
+            "COMP",
+            "Impact",
+            "Industry",
+            "SECTOR"
+        ]
+    ]
+}

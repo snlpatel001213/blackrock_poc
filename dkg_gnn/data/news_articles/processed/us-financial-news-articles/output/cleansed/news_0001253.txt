@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Beijing",
+            "GPE",
+            "Meet",
+            "Air Quality Targets",
+            "CONCEPT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Ordered_By",
+            "2013 Action Plan",
+            "CONCEPT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Reduce",
+            "PM2.5 Concentrations",
+            "CONCEPT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Close",
+            "Factories",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Shut_Down",
+            "Coal-Fired Power Plants",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Eliminate",
+            "High-Emission Vehicles",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Participates_In",
+            "Government Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Phase_Out",
+            "Coal-Fired Boilers",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Switch_To",
+            "Gas- or Electric-Powered Equipment",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Shut_Or_Curb",
+            "Production at Heavy Industrial Plants",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Acknowledge",
+            "Role of Weather Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Hebei",
+            "GPE",
+            "Decline",
+            "PM2.5 Concentrations",
+            "CONCEPT"
+        ],
+        [
+            "Hebei",
+            "GPE",
+            "Major_Source",
+            "Smog",
+            "CONCEPT"
+        ],
+        [
+            "Hebei",
+            "GPE",
+            "Standard",
+            "PM2.5 of 35 Micrograms",
+            "ECON_INDICATOR"
+        ],
+        [
+            "World Health Organization",
+            "ORG",
+            "Recommend",
+            "PM2.5 Levels of No More Than 10 Micrograms",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beijing Municipal Environmental Protection Bureau",
+            "ORG",
+            "State",
+            "Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beijing Municipal Environmental Protection Bureau",
+            "ORG",
+            "Say",
+            "In_Statement",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Estimate",
+            "PM2.5 Concentrations",
+            "CONCEPT"
+        ]
+    ]
+}

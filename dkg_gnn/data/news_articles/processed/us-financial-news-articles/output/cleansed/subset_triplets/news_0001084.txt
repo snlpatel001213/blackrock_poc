@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Powerball",
+            "EVENT",
+            "Control",
+            "U.S. Lottery",
+            "ORG/GOV"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Control",
+            "U.S. Lottery",
+            "ORG/GOV"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Impact",
+            "Jackpot Winners",
+            "PERSON"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Impact",
+            "Jackpot Winners",
+            "PERSON"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Relate_To",
+            "U.S. Lottery History",
+            "CONCEPT"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Relate_To",
+            "U.S. Lottery History",
+            "CONCEPT"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Relate_To",
+            "Lottery Records",
+            "CONCEPT"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Relate_To",
+            "Lottery Records",
+            "CONCEPT"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Relate_To",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Relate_To",
+            "Illinois",
+            "GPE"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Decrease",
+            "Federal Tax Withholding",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Decrease",
+            "Federal Tax Withholding",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Decrease",
+            "State Taxes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Decrease",
+            "State Taxes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Markets",
+            "SECTOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Has",
+            "24 percent return",
+            "ECON_INDICATOR",
+            "for",
+            "2017"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Underlying_Trend_Line",
+            "CONCEPT",
+            "which",
+            "Started",
+            "in",
+            "2016",
+            "GPE",
+            "February"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Historical_Support_Level",
+            "CONCEPT",
+            "near",
+            "20,400"
+        ]
+    ]
+}

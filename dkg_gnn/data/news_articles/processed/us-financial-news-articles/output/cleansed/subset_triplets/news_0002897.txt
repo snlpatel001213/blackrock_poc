@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "PG&E Corp",
+            "ORG",
+            "Announce",
+            "PG&E Statement",
+            "CONCEPT"
+        ],
+        [
+            "PG&E",
+            "ORG",
+            "Relate_To",
+            "Northern California Wildfires",
+            "EVENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Relate_To",
+            "Impacts of Climate Change",
+            "CONCEPT"
+        ]
+    ]
+}

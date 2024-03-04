@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Salomi Pogu",
+            "PERSON",
+            "Is_Member_Of",
+            "Chibok Students",
+            "PERSON"
+        ],
+        [
+            "Boko Haram",
+            "ORG",
+            "Operate_In",
+            "Nigeria",
+            "GPE"
+        ],
+        [
+            "Bring Back Our Girls",
+            "CONCEPT",
+            "Relate_To",
+            "Chibok Students",
+            "PERSON"
+        ]
+    ]
+}

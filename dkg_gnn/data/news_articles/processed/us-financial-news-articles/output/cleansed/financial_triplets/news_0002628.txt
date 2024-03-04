@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "AT&T Inc.",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "5G",
+            "EVENT",
+            "Relate_To",
+            "Higher Speeds",
+            "CONCEPT"
+        ],
+        [
+            "5G",
+            "EVENT",
+            "Relate_To",
+            "More Capacity",
+            "CONCEPT"
+        ],
+        [
+            "5G",
+            "EVENT",
+            "Relate_To",
+            "Lower Response Times",
+            "CONCEPT"
+        ],
+        [
+            "5G",
+            "EVENT",
+            "Relate_To",
+            "Autonomous Cars",
+            "CONCEPT"
+        ],
+        [
+            "5G",
+            "EVENT",
+            "Relate_To",
+            "5G Capable Mobile Devices",
+            "PRODUCT"
+        ],
+        [
+            "AT&T Inc.",
+            "COMP",
+            "Has",
+            "5G Capable Mobile Devices",
+            "PRODUCT"
+        ],
+        [
+            "Andre Fuetsch",
+            "PERSON",
+            "Is_Member_Of",
+            "AT&T Labs",
+            "ORG"
+        ],
+        [
+            "Andre Fuetsch",
+            "PERSON",
+            "Is_Member_Of",
+            "AT&T",
+            "COMP"
+        ],
+        [
+            "AT&T Labs",
+            "ORG",
+            "Control",
+            "5G Broadband Service",
+            "EVENT"
+        ],
+        [
+            "5G Broadband Service",
+            "EVENT",
+            "Operate_In",
+            "Wireless Spectrum",
+            "SECTOR"
+        ],
+        [
+            "5G Broadband Service",
+            "EVENT",
+            "Operate_In",
+            "Millimeter Wave",
+            "CONCEPT"
+        ],
+        [
+            "Verizon Communications Inc.",
+            "COMP",
+            "Operate_In",
+            "Three to Five Markets",
+            "GPE"
+        ]
+    ]
+}

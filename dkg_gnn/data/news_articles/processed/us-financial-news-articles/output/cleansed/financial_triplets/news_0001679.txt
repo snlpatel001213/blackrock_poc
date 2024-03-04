@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nike",
+            "ORG",
+            "Relate_To",
+            "Barcelona",
+            "GPE"
+        ],
+        [
+            "Coutinho",
+            "PERSON",
+            "Operate_In",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Control",
+            "Coutinho",
+            "PERSON"
+        ]
+    ]
+}

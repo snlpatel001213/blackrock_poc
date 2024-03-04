@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Brussels",
+            "GPE",
+            "Has",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Has",
+            "Kingdoms",
+            "ORG/REG"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Has",
+            "Principalities",
+            "ORG/REG"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Tesla",
+            "PERSON",
+            "Control",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Control",
+            "Model X",
+            "PRODUCT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Control",
+            "Tesla Semi",
+            "PRODUCT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Control",
+            "Roadster",
+            "PRODUCT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Control",
+            "Model Y",
+            "PRODUCT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Announce",
+            "delivery and production numbers",
+            "EVENT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Raise",
+            "concerns",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Relate_To",
+            "federal electric vehicle tax credit",
+            "CONCEPT"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Has",
+            "analyst Ryan Brinkman",
+            "PERSON"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Announce",
+            "note",
+            "EVENT"
+        ],
+        [
+            "Cowen",
+            "ORG",
+            "Has",
+            "analyst Jeffrey Osborne",
+            "PERSON"
+        ],
+        [
+            "Baird",
+            "ORG",
+            "Has",
+            "analyst Ben Kallo",
+            "PERSON"
+        ],
+        [
+            "Baird",
+            "ORG",
+            "Positive_Impact_On",
+            "Tesla ability to expand gross margins",
+            "CONCEPT"
+        ]
+    ]
+}

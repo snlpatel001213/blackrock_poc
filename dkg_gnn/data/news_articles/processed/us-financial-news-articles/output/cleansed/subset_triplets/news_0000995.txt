@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Beijing",
+            "GPE",
+            "Has",
+            "Crackdown on Pollution",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Japan",
+            "GPE",
+            "Negative_Impact_On",
+            "Worlds Biggest Importer of Natural Gas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Domestic Production",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Natural Gas Imports",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Participates_In",
+            "Worlds Third Biggest User of Natural Gas",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ]
+    ]
+}

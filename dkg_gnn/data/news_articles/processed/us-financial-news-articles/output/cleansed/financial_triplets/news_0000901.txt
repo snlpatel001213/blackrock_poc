@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "Techlash",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "Brexit Developments",
+            "EVENT"
+        ],
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "China Economic Reform",
+            "EVENT"
+        ],
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "America Mid-term Elections",
+            "EVENT"
+        ],
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "Global Investors",
+            "ORG"
+        ],
+        [
+            "Techlash",
+            "CONCEPT",
+            "Impact",
+            "Tech Behemoths",
+            "ORG"
+        ],
+        [
+            "Techlash",
+            "CONCEPT",
+            "Relate_To",
+            "Lawmakers",
+            "ORG"
+        ],
+        [
+            "Tech Behemoths",
+            "ORG",
+            "Operate_In",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Daniel Franklin",
+            "PERSON",
+            "Relate_To",
+            "General Data Protection Regulation",
+            "EVENT"
+        ]
+    ]
+}

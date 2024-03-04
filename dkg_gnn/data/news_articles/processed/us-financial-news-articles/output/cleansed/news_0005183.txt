@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "Kala Pharmaceuticals",
+            "ORG",
+            "Announce",
+            "NDA for Inveltys",
+            "PRODUCT"
+        ],
+        [
+            "Kala Pharmaceuticals",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "NDA for Inveltys",
+            "PRODUCT",
+            "Relate_To",
+            "FDA",
+            "ORG/GOV"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Control",
+            "Drug Approval",
+            "CONCEPT"
+        ],
+        [
+            "Kala Pharmaceuticals",
+            "ORG",
+            "Control",
+            "Inveltys",
+            "PRODUCT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Impact",
+            "Kala Pharmaceuticals",
+            "ORG"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Set",
+            "PDUFA Target Action Date",
+            "CONCEPT"
+        ],
+        [
+            "PDUFA Target Action Date",
+            "CONCEPT",
+            "August 24,2018",
+            "DATE"
+        ]
+    ]
+}

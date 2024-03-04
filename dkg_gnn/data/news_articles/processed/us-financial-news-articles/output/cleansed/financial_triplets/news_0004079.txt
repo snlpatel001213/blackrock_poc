@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Raise",
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR",
+            "Has",
+            "Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Layoffs",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Labor Department",
+            "ORG/GOV"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Announce",
+            "Initial Jobless Claims",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

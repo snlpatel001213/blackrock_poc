@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "products",
+            "COMP",
+            "Relate_To",
+            "Spectre chip flaw",
+            "CONCEPT"
+        ],
+        [
+            "Spectre chip flaw",
+            "CONCEPT",
+            "Impact",
+            "nearly every modern computing device",
+            "GPE"
+        ]
+    ]
+}

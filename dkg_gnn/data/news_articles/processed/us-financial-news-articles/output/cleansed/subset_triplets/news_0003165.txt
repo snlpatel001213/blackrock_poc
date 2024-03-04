@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S. Bank",
+            "ORG/GOV",
+            "Has",
+            "Great Run",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Banks",
+            "ORG",
+            "Operate_In",
+            "Continental",
+            "GPE"
+        ],
+        [
+            "European Banks",
+            "ORG",
+            "Control",
+            "Negative",
+            "CONCEPT"
+        ]
+    ]
+}

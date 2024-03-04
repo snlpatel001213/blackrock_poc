@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Rite Aid",
+            "COMP",
+            "Operate_In",
+            "8 Key States",
+            "GPE"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Has",
+            "6 Distribution Centers",
+            "ORG"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Control",
+            "2,569 Stores",
+            "COMP"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Control",
+            "500,000 Total Med D Enrollment",
+            "CONCEPT"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Sell",
+            "97 Stores",
+            "COMP"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Receive",
+            "Proceeds from Asset Sale",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Expect",
+            "Stores Transaction to Complete",
+            "EVENT"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Use",
+            "Proceeds to Pay Off Net Liabilities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Expect",
+            "Reimbursement Rate Headwinds",
+            "CONCEPT"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Do Not Plan",
+            "Provide Guidance for Remainder of Fiscal 2018",
+            "CONCEPT"
+        ],
+        [
+            "Network Loss",
+            "CONCEPT",
+            "Impact",
+            "Script Count",
+            "CONCEPT"
+        ]
+    ]
+}

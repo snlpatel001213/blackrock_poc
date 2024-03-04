@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Indian Prime Minister Narendra Modi",
+            "PERSON",
+            "Vow",
+            "Act against illegal Muslim immigrants",
+            "CONCEPT"
+        ],
+        [
+            "Modi",
+            "PERSON",
+            "Operate_In",
+            "Nationalist Party",
+            "ORG"
+        ],
+        [
+            "Nationalist Party",
+            "ORG",
+            "Participates_In",
+            "Assam State Elections",
+            "EVENT"
+        ],
+        [
+            "Assam State Elections",
+            "EVENT",
+            "In_Year",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Muslims",
+            "PERSON",
+            "Fret over",
+            "Citizen List",
+            "CONCEPT"
+        ],
+        [
+            "Muslims",
+            "PERSON",
+            "Petrified",
+            "Become Stateless",
+            "CONCEPT"
+        ]
+    ]
+}

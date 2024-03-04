@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "BP",
+            "COMP",
+            "Operate_In",
+            "U.S",
+            "GPE"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Has",
+            "large operations",
+            "CONCEPT",
+            "in",
+            "Gulf of Mexico"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Has",
+            "onshore shale operations",
+            "CONCEPT"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Has",
+            "refineries",
+            "CONCEPT",
+            "that can process",
+            "Noun",
+            "per day",
+            "Noun"
+        ],
+        [
+            "U.S",
+            "GPE",
+            "Has",
+            "new tax rules",
+            "CONCEPT"
+        ],
+        [
+            "U.S",
+            "GPE",
+            "Has",
+            "corporate-friendly tax rates",
+            "CONCEPT"
+        ],
+        [
+            "U.S",
+            "GPE",
+            "Has",
+            "massive $1.5 trillion tax overhaul",
+            "CONCEPT"
+        ],
+        [
+            "U.S tax changes",
+            "CONCEPT",
+            "Impact",
+            "BP",
+            "COMP"
+        ],
+        [
+            "U.S tax changes",
+            "CONCEPT",
+            "Impact",
+            "BP",
+            "COMP",
+            "Positive_Impact_On",
+            "U.S earnings",
+            "CONCEPT"
+        ]
+    ]
+}

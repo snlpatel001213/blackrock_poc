@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Call_For",
+            "U.N.",
+            "ORG/GOV"
+        ],
+        [
+            "U.N.",
+            "ORG/GOV",
+            "Act_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "World Leaders",
+            "PERSON",
+            "Express_Solidarity_With",
+            "Iranians",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Call_For",
+            "Emergency Meetings",
+            "EVENT",
+            "Security Council",
+            "ORG/GOV"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Call_For",
+            "Emergency Meetings",
+            "EVENT",
+            "Human Rights Council",
+            "ORG/GOV",
+            "Geneva",
+            "GPE"
+        ]
+    ]
+}

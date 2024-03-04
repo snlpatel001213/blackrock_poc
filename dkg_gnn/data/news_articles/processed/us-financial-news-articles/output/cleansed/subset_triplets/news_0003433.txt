@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Coveris",
+            "ORG",
+            "Announce",
+            "Markus Petersen",
+            "PERSON"
+        ],
+        [
+            "Coveris",
+            "ORG",
+            "Operate_In",
+            "Packaging Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Markus Petersen",
+            "PERSON",
+            "Has",
+            "German Diploma",
+            "CONCEPT"
+        ],
+        [
+            "Markus Petersen",
+            "PERSON",
+            "Has",
+            "PhD in Finance",
+            "CONCEPT"
+        ]
+    ]
+}

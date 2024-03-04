@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Corey Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "New York City Council",
+            "ORG/GOV"
+        ],
+        [
+            "Corey Johnson",
+            "PERSON",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "New York City Council",
+            "ORG/GOV",
+            "Control",
+            "City\u2019s Massive Budget",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

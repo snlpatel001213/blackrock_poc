@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Next",
+            "COMP",
+            "Operate_In",
+            "British Clothing Retailer",
+            "ORG"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Participates_In",
+            "Full-Year Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Simon Wolfson",
+            "PERSON",
+            "Is_Member_Of",
+            "Next",
+            "COMP"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Raise",
+            "Midpoint of Full-Year Profit Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Has",
+            "High-Street Stores",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Announce",
+            "United States may withhold payments",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "U.S. Coast Guard",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "Trump International Golf Club",
+            "COMP"
+        ],
+        [
+            "Palestinians",
+            "GPE",
+            "Relate_To",
+            "Israel",
+            "GPE"
+        ]
+    ]
+}

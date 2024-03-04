@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Announce",
+            "Full-year and Fourth-quarter 2017 Earnings",
+            "EVENT"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Operate_In",
+            "Professional Markets",
+            "SECTOR"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Listed_On",
+            "New York Stock Exchange",
+            "ORG/EXCH"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Listed_On",
+            "Toronto Stock Exchange",
+            "ORG/EXCH"
+        ],
+        [
+            "Jim Smith",
+            "PERSON",
+            "Is_Member_Of",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Stephane Bello",
+            "PERSON",
+            "Is_Member_Of",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Jim Smith",
+            "PERSON",
+            "Role",
+            "Chief Executive Officer",
+            "POSITION"
+        ],
+        [
+            "Stephane Bello",
+            "PERSON",
+            "Role",
+            "Executive Vice President and Chief Financial Officer",
+            "POSITION"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Host",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Produce",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Location",
+            "Investor Relations Section",
+            "SECTION"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Access",
+            "Website",
+            "WEB"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Archive",
+            "Following Presentation",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Convict",
+            "Mehmet Hakan Atilla",
+            "PERSON"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Convicted",
+            "Halkbank",
+            "ORG"
+        ],
+        [
+            "Halkbank",
+            "ORG",
+            "Majority_Owned_By",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Convicted_Of",
+            "Bank_Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Convicted_Of",
+            "Conspiracy_To_Violate",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Convicted_Of",
+            "U.S._Sanctions_Law",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Blames",
+            "Fethullah Gulen\u2019,s Network",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Cooperates_With",
+            "Fethullah Gulen\u2019,s Network",
+            "CONCEPT"
+        ],
+        [
+            "Central Intelligence Agency (CIA)",
+            "ORG/GOV",
+            "Cooperates_With",
+            "Fethullah Gulen\u2019,s Network",
+            "CONCEPT"
+        ],
+        [
+            "Federal Bureau of Investigation (FBI)",
+            "ORG/GOV",
+            "Cooperates_With",
+            "Fethullah Gulen\u2019,s Network",
+            "CONCEPT"
+        ]
+    ]
+}

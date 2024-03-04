@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Derek Halpenny",
+            "PERSON",
+            "Announce",
+            "Tweek",
+            "CONCEPT"
+        ],
+        [
+            "MUFG",
+            "ORG",
+            "Has",
+            "Global Markets Research",
+            "SECTOR"
+        ],
+        [
+            "Tweek",
+            "CONCEPT",
+            "Relate_To",
+            "Language",
+            "CONCEPT"
+        ],
+        [
+            "Tweek",
+            "CONCEPT",
+            "Relate_To",
+            "ECB",
+            "ORG/REG"
+        ]
+    ]
+}

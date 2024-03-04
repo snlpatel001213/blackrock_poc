@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S. Government Bonds",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S. Government Bonds",
+            "COMP",
+            "Decrease",
+            "Prices",
+            "CONCEPT"
+        ],
+        [
+            "10-year U.S. Treasury Note",
+            "COMP",
+            "Raise",
+            "Yield",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

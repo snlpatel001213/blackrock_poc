@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "OncoResponse",
+            "ORG",
+            "Expand",
+            "Anil Singhal",
+            "PERSON"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Expand",
+            "Kamal D. Puri",
+            "PERSON"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Join",
+            "OncoResponse",
+            "ORG"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Join",
+            "OncoResponse",
+            "ORG"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Appointed",
+            "Chief Scientific Officer",
+            "TITLE"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Appointed",
+            "Vice President of Research and Development",
+            "TITLE"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Increase",
+            "Success Rate",
+            "CONCEPT"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Oversee",
+            "Global Regulatory Approvals",
+            "CONCEPT"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Build",
+            "Leading Portfolio",
+            "CONCEPT"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Oversee",
+            "Key Translational Science Capabilities",
+            "CONCEPT"
+        ],
+        [
+            "Anil Singhal",
+            "PERSON",
+            "Held",
+            "Senior Roles",
+            "CONCEPT"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Discover",
+            "New Molecular Entities",
+            "CONCEPT"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Identify",
+            "New Indications",
+            "CONCEPT"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Contribute",
+            "Approval",
+            "CONCEPT"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Lead",
+            "Teams",
+            "CONCEPT"
+        ],
+        [
+            "Kamal D. Puri",
+            "PERSON",
+            "Direct",
+            "Research Efforts",
+            "CONCEPT"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Develop",
+            "ONCR-201",
+            "PRODUCT"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Working",
+            "Discovery Engine",
+            "CONCEPT"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Identify",
+            "Novel Antibody Drug Candidates",
+            "CONCEPT"
+        ],
+        [
+            "OncoResponse",
+            "ORG",
+            "Across",
+            "Multiple Cancer Types",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "US small car production",
+            "GPE",
+            "Negative_Impact_On",
+            "Domestic Auto Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Phil LeBeau",
+            "PERSON",
+            "Announce",
+            "Slowing Sales",
+            "EVENT"
+        ],
+        [
+            "Small Cars",
+            "PRODUCT",
+            "Relate_To",
+            "US Small Car Production",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Spot Gold",
+            "PRODUCT",
+            "Decrease",
+            "Dollar Index",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Spot Gold",
+            "PRODUCT",
+            "Relate_To",
+            "14-day Relative Strength Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spot Gold",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Commodity Overbought",
+            "CONCEPT"
+        ],
+        [
+            "Dollar Index",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Basket of Six Major Currencies",
+            "GPE"
+        ],
+        [
+            "Dollar Index",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Gold Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Inflationary Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Returns in Commodities",
+            "CONCEPT"
+        ]
+    ]
+}

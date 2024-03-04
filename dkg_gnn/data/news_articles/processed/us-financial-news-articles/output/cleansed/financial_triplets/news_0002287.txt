@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Rafa Mir",
+            "PERSON",
+            "Operate_In",
+            "Valencia",
+            "GPE"
+        ],
+        [
+            "Wolves",
+            "COMP",
+            "Has",
+            "Molineux Stadium",
+            "GPE"
+        ],
+        [
+            "Wolves",
+            "COMP",
+            "Participates_In",
+            "English Championship",
+            "SECTOR"
+        ]
+    ]
+}

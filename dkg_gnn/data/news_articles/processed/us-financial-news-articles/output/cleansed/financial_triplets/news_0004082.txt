@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "confidential internal large bank rating system",
+            "CONCEPT",
+            "Relate_To",
+            "CAMELs",
+            "CONCEPT"
+        ],
+        [
+            "new rules",
+            "CONCEPT",
+            "Relate_To",
+            "Fed",
+            "ORG/REG"
+        ]
+    ]
+}

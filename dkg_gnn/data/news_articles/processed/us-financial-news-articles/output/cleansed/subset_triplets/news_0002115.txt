@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Model 3",
+            "PRODUCT",
+            "Relate_To",
+            "Tesla Inc",
+            "COMP"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Produce",
+            "260 Units of Model 3 Sedan",
+            "PRODUCT"
+        ]
+    ]
+}

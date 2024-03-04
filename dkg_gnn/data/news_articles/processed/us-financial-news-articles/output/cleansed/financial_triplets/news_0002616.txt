@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ezzeya Daraghmeh",
+            "PERSON",
+            "Has",
+            "multi-colored hair",
+            "CONCEPT"
+        ],
+        [
+            "Ezzeya Daraghmeh",
+            "PERSON",
+            "Operate_In",
+            "Tubas",
+            "GPE"
+        ],
+        [
+            "hair clumps",
+            "PRODUCT",
+            "Relate_To",
+            "multi-colored hair",
+            "CONCEPT"
+        ],
+        [
+            "hair clumps",
+            "PRODUCT",
+            "Produce",
+            "three big pillows",
+            "PRODUCT"
+        ]
+    ]
+}

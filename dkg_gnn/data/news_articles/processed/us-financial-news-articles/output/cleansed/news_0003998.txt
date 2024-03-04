@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S. Service Sector",
+            "SECTOR",
+            "Lose",
+            "Momentum",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Service Sector",
+            "SECTOR",
+            "Expand",
+            "Healthy Pace",
+            "CONCEPT"
+        ],
+        [
+            "Institute for Supply Management",
+            "ORG",
+            "Announce",
+            "Nonmanufacturing Index",
+            "CONCEPT"
+        ],
+        [
+            "Nonmanufacturing Index",
+            "CONCEPT",
+            "Fall",
+            "1.5 Percentage Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nonmanufacturing Index",
+            "CONCEPT",
+            "Equal",
+            "55.9",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Expect",
+            "December Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December Reading",
+            "ECON_INDICATOR",
+            "Equal",
+            "57.6",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

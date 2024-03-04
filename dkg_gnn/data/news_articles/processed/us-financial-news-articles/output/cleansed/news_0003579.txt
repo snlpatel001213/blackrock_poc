@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Long Branch police",
+            "ORG",
+            "Respond",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Monmouth County Sheriff\u2019s Office",
+            "ORG",
+            "Respond",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Monmouth County Prosecutor\u2019s Office",
+            "ORG",
+            "Announce",
+            "Statement",
+            "PRODUCT"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Arrested",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Use",
+            "Century Arms semi-automatic rifle",
+            "PRODUCT"
+        ],
+        [
+            "Steven Kologi",
+            "PERSON",
+            "Identified",
+            "Victim",
+            "PERSON"
+        ],
+        [
+            "Linda Kologi",
+            "PERSON",
+            "Identified",
+            "Victim",
+            "PERSON"
+        ],
+        [
+            "Brittany Kologi",
+            "PERSON",
+            "Identified",
+            "Victim",
+            "PERSON"
+        ],
+        [
+            "Mary Schultz",
+            "PERSON",
+            "Identified",
+            "Victim",
+            "PERSON"
+        ],
+        [
+            "Monmouth County Prosecutor Christopher Gramiccioni",
+            "PERSON",
+            "Make",
+            "Statement",
+            "PRODUCT"
+        ]
+    ]
+}

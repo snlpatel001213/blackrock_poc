@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "LeEco",
+            "COMP",
+            "Has",
+            "Jia Yueting",
+            "PERSON"
+        ],
+        [
+            "LeEco",
+            "COMP",
+            "Has",
+            "Shenzhen-listed unit",
+            "COMP"
+        ],
+        [
+            "Shenzhen-listed unit",
+            "COMP",
+            "Has",
+            "Leshi Internet Information & Technology",
+            "COMP"
+        ],
+        [
+            "Leshi Internet Information & Technology",
+            "COMP",
+            "Has",
+            "related companies",
+            "COMP"
+        ],
+        [
+            "LeEco",
+            "COMP",
+            "Has",
+            "debt crisis",
+            "CONCEPT"
+        ],
+        [
+            "LeEco",
+            "COMP",
+            "Has",
+            "Faraday Future",
+            "COMP"
+        ]
+    ]
+}

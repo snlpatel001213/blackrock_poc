@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "US",
+            "GPE",
+            "Impact",
+            "Mid-term Congressional elections",
+            "EVENT"
+        ],
+        [
+            "Democratic base",
+            "PERSON",
+            "Participates_In",
+            "Mid-term Congressional elections",
+            "EVENT"
+        ],
+        [
+            "Democratic base",
+            "PERSON",
+            "Motivated",
+            "null",
+            "null"
+        ],
+        [
+            "Democratic Party",
+            "ORG",
+            "Do well",
+            "Mid-term Congressional elections",
+            "EVENT"
+        ],
+        [
+            "Todd Eberly",
+            "PERSON",
+            "Of",
+            "St. Mary's College",
+            "ORG"
+        ],
+        [
+            "St. Mary's College",
+            "ORG",
+            "Of",
+            "Maryland",
+            "GPE"
+        ]
+    ]
+}

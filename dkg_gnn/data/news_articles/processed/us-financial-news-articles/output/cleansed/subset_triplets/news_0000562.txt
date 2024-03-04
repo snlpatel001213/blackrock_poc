@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bret Griess",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Randy Wiese",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "1-888-587-0615",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Liz Bauer",
+            "PERSON",
+            "Is_Member_Of",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "CSG Systems International",
+            "ORG",
+            "Has",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CSG Systems International",
+            "ORG",
+            "Operate_In",
+            "Communications Sector",
+            "SECTOR"
+        ]
+    ]
+}

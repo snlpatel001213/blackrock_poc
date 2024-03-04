@@ -1,0 +1,115 @@
+{
+    "output": [
+        [
+            "Schwartz Investment Counsel, Inc.",
+            "ORG",
+            "Announce",
+            "Two Portfolio Manager Promotions",
+            "EVENT"
+        ],
+        [
+            "Schwartz Investment Counsel, Inc.",
+            "ORG",
+            "Has",
+            "Ave Maria Mutual Funds",
+            "ORG"
+        ],
+        [
+            "Ave Maria Mutual Funds",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Ave Maria Value Fund",
+            "ORG",
+            "Has",
+            "Chadd M. Garcia",
+            "PERSON",
+            "Named",
+            "Co-Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Value Fund",
+            "ORG",
+            "Has",
+            "Timothy S. Schwartz",
+            "PERSON",
+            "Role",
+            "Lead Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Value Fund",
+            "ORG",
+            "Has",
+            "Joseph W. Skornicka",
+            "PERSON",
+            "Named",
+            "Co-Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Bond Fund",
+            "ORG",
+            "Has",
+            "Adam P. Gaglio",
+            "PERSON",
+            "Named",
+            "Co-Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Bond Fund",
+            "ORG",
+            "Has",
+            "Brandon S. Scheitler",
+            "PERSON",
+            "Role",
+            "Lead Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Bond Fund",
+            "ORG",
+            "Has",
+            "Richard L. Platte, Jr.",
+            "PERSON",
+            "Named",
+            "Co-Portfolio Manager",
+            "ROLE"
+        ],
+        [
+            "Schwartz Investment Counsel, Inc.",
+            "ORG",
+            "Has",
+            "George P. Schwartz",
+            "PERSON",
+            "Role",
+            "Chairman and Chief Executive Officer",
+            "ROLE"
+        ],
+        [
+            "Ave Maria Mutual Funds",
+            "ORG",
+            "Impact",
+            "Ave Maria Value Fund",
+            "ORG",
+            "Positive_Impact_On",
+            "Chadd M. Garcia",
+            "PERSON"
+        ],
+        [
+            "Ave Maria Mutual Funds",
+            "ORG",
+            "Impact",
+            "Ave Maria Bond Fund",
+            "ORG",
+            "Positive_Impact_On",
+            "Adam P. Gaglio",
+            "PERSON"
+        ]
+    ]
+}

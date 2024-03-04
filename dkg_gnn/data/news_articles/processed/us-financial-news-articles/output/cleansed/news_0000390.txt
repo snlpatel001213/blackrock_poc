@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Impact",
+            "Market Participants",
+            "PERSON"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Win",
+            "null",
+            "null"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ],
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Operate_In",
+            "Stock, Bond, Commodity and Derivatives Trading",
+            "SECTOR"
+        ]
+    ]
+}

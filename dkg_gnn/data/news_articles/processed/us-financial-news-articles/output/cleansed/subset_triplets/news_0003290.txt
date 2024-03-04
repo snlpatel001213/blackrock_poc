@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Produce",
+            "Heart Device",
+            "PRODUCT"
+        ],
+        [
+            "Heart Device",
+            "PRODUCT",
+            "Control",
+            "Valve",
+            "PRODUCT"
+        ],
+        [
+            "Valve",
+            "PRODUCT",
+            "Impact",
+            "Serious Injury or Death",
+            "CONCEPT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Relate_To",
+            "Class I",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Class I",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Patient Health",
+            "CONCEPT"
+        ]
+    ]
+}

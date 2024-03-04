@@ -1,0 +1,185 @@
+{
+    "output": [
+        [
+            "Disney-Lucasfilm",
+            "ORG",
+            "Has",
+            "Star Wars: The Last Jedi",
+            "PRODUCT"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Has",
+            "$52.4M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Has",
+            "$68M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Top 8 Highest Grossing Domestic Movies",
+            "CONCEPT"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Top 24 Highest Grossing Worldwide Movies",
+            "CONCEPT"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Relate_To",
+            "Disneys Beauty and the Beast",
+            "PRODUCT"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "PRODUCT",
+            "Control",
+            "Domestic Box Office Crown",
+            "CONCEPT"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Has",
+            "$186.3M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Has",
+            "$107M",
+            "ECON_INDICATOR",
+            "INTL"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Has",
+            "$90M",
+            "ECON_INDICATOR",
+            "BUDGET"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Control",
+            "Domestic Box Office Crown",
+            "CONCEPT"
+        ],
+        [
+            "Domestic Box Office",
+            "CONCEPT",
+            "Has",
+            "$11.12B",
+            "ECON_INDICATOR",
+            "YEAR"
+        ],
+        [
+            "Domestic Box Office",
+            "CONCEPT",
+            "Relate_To",
+            "2017 Titles",
+            "CONCEPT"
+        ],
+        [
+            "Domestic Box Office",
+            "CONCEPT",
+            "Relate_To",
+            "2018",
+            "CONCEPT"
+        ],
+        [
+            "The Greatest Showman",
+            "PRODUCT",
+            "Has",
+            "$53.8M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Ferdinand",
+            "PRODUCT",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Ferdinand",
+            "PRODUCT",
+            "Has",
+            "$57.3M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Coco",
+            "PRODUCT",
+            "Has",
+            "$181.1M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "All the Money in the World",
+            "PRODUCT",
+            "Has",
+            "$14.4M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Darkest Hour",
+            "PRODUCT",
+            "Has",
+            "$19.8M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Downsizing",
+            "PRODUCT",
+            "Has",
+            "$18.5M",
+            "ECON_INDICATOR",
+            "GPE"
+        ],
+        [
+            "Father Figures",
+            "PRODUCT",
+            "Has",
+            "$14M",
+            "ECON_INDICATOR",
+            "GPE"
+        ]
+    ]
+}

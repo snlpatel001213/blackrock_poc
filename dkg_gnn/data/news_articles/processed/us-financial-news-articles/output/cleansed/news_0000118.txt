@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Microsoft",
+            "COMP",
+            "Reach",
+            "$100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Is_Member_Of",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Ray Wang",
+            "PERSON",
+            "Announce",
+            "Microsoft to reach $100 a share by year end",
+            "EVENT"
+        ],
+        [
+            "Ray Wang",
+            "PERSON",
+            "Participates_In",
+            "Constellation Research",
+            "ORG"
+        ]
+    ]
+}

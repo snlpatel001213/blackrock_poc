@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Amazon.com Inc.",
+            "COMP",
+            "Participates_In",
+            "CES Technology Show",
+            "EVENT"
+        ],
+        [
+            "Alphabet Inc.\u2019s Google",
+            "COMP",
+            "Participates_In",
+            "CES Technology Show",
+            "EVENT"
+        ],
+        [
+            "Amazon",
+            "PERSON",
+            "Operate_In",
+            "Voice-Operated Platform",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "PERSON",
+            "Support",
+            "Partners",
+            "ORG"
+        ],
+        [
+            "Amazon Alexa",
+            "PRODUCT",
+            "Relate_To",
+            "Voice-Operated Platform",
+            "CONCEPT"
+        ],
+        [
+            "Alphabet Inc.\u2019s Google",
+            "COMP",
+            "Support",
+            "Partners",
+            "ORG"
+        ],
+        [
+            "Google Assistant",
+            "PRODUCT",
+            "Relate_To",
+            "Voice-Operated Platform",
+            "CONCEPT"
+        ],
+        [
+            "Android",
+            "PRODUCT",
+            "Compete_With",
+            "iOS",
+            "PRODUCT"
+        ],
+        [
+            "Mac",
+            "PRODUCT",
+            "Compete_With",
+            "PC",
+            "PRODUCT"
+        ]
+    ]
+}

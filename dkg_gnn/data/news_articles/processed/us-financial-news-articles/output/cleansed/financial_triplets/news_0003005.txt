@@ -1,0 +1,34 @@
+{
+    "output": [
+        [
+            "Arsenal",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Arsenal",
+            "GPE",
+            "Has",
+            "14",
+            "ECON_INDICATOR",
+            "Goal Attempts"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Has",
+            "19",
+            "ECON_INDICATOR",
+            "Goal Attempts"
+        ]
+    ]
+}

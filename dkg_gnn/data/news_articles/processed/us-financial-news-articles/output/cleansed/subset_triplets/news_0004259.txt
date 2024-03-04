@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Emergency Nurses Association",
+            "ORG",
+            "Announce",
+            "Jeff Solheim",
+            "PERSON"
+        ],
+        [
+            "Jeff Solheim",
+            "PERSON",
+            "Operate_In",
+            "Emergency Nurses Association",
+            "ORG"
+        ],
+        [
+            "Jeff Solheim",
+            "PERSON",
+            "Is_Member_Of",
+            "Emergency Nurses Association Board of Directors",
+            "ORG"
+        ],
+        [
+            "Emergency Nurses Association",
+            "ORG",
+            "Has",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Jeff Solheim",
+            "PERSON",
+            "Control",
+            "Trauma Nursing Core Course",
+            "PRODUCT"
+        ],
+        [
+            "Jeff Solheim",
+            "PERSON",
+            "Control",
+            "Emergency Nursing Pediatric Course",
+            "PRODUCT"
+        ],
+        [
+            "ENA",
+            "ORG",
+            "Has",
+            "Mission",
+            "CONCEPT"
+        ],
+        [
+            "ENA",
+            "ORG",
+            "Has",
+            "Vision",
+            "CONCEPT"
+        ],
+        [
+            "ENA",
+            "ORG",
+            "Has",
+            "Goals",
+            "CONCEPT"
+        ]
+    ]
+}

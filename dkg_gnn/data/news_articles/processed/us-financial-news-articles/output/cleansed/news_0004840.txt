@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Simona Halep",
+            "PERSON",
+            "Has",
+            "World number one",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Tamed",
+            "Irina-Camelia Begu",
+            "PERSON"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Reached",
+            "Shenzhen Open final",
+            "EVENT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Hit",
+            "15 winners",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "WTA Tour",
+            "CONCEPT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Romania",
+            "GPE"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Irina-Camelia Begu",
+            "PERSON"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Relate_To",
+            "Friday",
+            "DATE"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Participates_In",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Operate_In",
+            "Romania",
+            "GPE"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Relate_To",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Relate_To",
+            "WTA Tour",
+            "CONCEPT"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Irina-Camelia Begu",
+            "PERSON",
+            "Relate_To",
+            "Friday",
+            "DATE"
+        ],
+        [
+            "Shenzhen Open",
+            "EVENT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Shenzhen Open",
+            "EVENT",
+            "Relate_To",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Shenzhen Open",
+            "EVENT",
+            "Relate_To",
+            "WTA Tour",
+            "CONCEPT"
+        ],
+        [
+            "Shenzhen Open",
+            "EVENT",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Shenzhen Open",
+            "EVENT",
+            "Relate_To",
+            "Friday",
+            "DATE"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Relate_To",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Relate_To",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Relate_To",
+            "WTA Tour",
+            "CONCEPT"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "World number one",
+            "ECON_INDICATOR",
+            "Has",
+            "Simona Halep",
+            "PERSON"
+        ],
+        [
+            "World number one",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "World number one",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "WTA Tour",
+            "CONCEPT"
+        ],
+        [
+            "World number one",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "World number one",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Friday",
+            "DATE"
+        ]
+    ]
+}

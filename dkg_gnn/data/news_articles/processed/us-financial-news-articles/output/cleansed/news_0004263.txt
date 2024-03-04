@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Maria Sharapova",
+            "PERSON",
+            "Participates_In",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Maria Sharapova",
+            "PERSON",
+            "Beat",
+            "Alison Riske",
+            "PERSON"
+        ],
+        [
+            "Alison Riske",
+            "PERSON",
+            "Unseeded",
+            "null",
+            "null"
+        ],
+        [
+            "Maria Sharapova",
+            "PERSON",
+            "Set_Up",
+            "Quarter_Final_Clash",
+            "null"
+        ],
+        [
+            "Zarina Diyas",
+            "PERSON",
+            "Quarter_Final_Opponent",
+            "null",
+            "null"
+        ],
+        [
+            "Zarina Diyas",
+            "PERSON",
+            "Beat",
+            "Zhang Shuai",
+            "PERSON"
+        ],
+        [
+            "Zhang Shuai",
+            "PERSON",
+            "Local_Hope",
+            "null",
+            "null"
+        ],
+        [
+            "Riske",
+            "PERSON",
+            "Twice",
+            "Finalist",
+            "null"
+        ],
+        [
+            "Riske",
+            "PERSON",
+            "Used",
+            "Power_and_Precision",
+            "null"
+        ],
+        [
+            "Sharapova",
+            "PERSON",
+            "Five_Times",
+            "Grand_Slam_Champion",
+            "null"
+        ],
+        [
+            "Sharapova",
+            "PERSON",
+            "Reeled_Off",
+            "Five_of_the_Next_Six_Games",
+            "null"
+        ],
+        [
+            "Sharapova",
+            "PERSON",
+            "Prevailed",
+            "Two_Hours_and_22_Minutes",
+            "null"
+        ],
+        [
+            "Kristyna Pliskova",
+            "PERSON",
+            "Stunned",
+            "Jelena Ostapenko",
+            "PERSON"
+        ],
+        [
+            "Jelena Ostapenko",
+            "PERSON",
+            "French_Open_Champion",
+            "null",
+            "null"
+        ],
+        [
+            "Kristyna Pliskova",
+            "PERSON",
+            "Top_10_Opponent",
+            "null",
+            "null"
+        ],
+        [
+            "Kristyna Pliskova",
+            "PERSON",
+            "Next_Takes_On",
+            "Ana Bogdan",
+            "PERSON"
+        ],
+        [
+            "Ana Bogdan",
+            "PERSON",
+            "Comfortably_Defeated",
+            "Camila Giorgi",
+            "PERSON"
+        ]
+    ]
+}

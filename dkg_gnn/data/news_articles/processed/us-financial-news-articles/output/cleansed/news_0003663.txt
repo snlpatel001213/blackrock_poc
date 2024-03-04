@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Exxon Mobil",
+            "COMP",
+            "Cut",
+            "Spending on oil and gas exploration",
+            "ACTIVITY"
+        ],
+        [
+            "Royal Dutch Shell",
+            "COMP",
+            "Cut",
+            "Spending on oil and gas exploration",
+            "ACTIVITY"
+        ],
+        [
+            "Total",
+            "COMP",
+            "Cut",
+            "Spending on oil and gas exploration",
+            "ACTIVITY"
+        ],
+        [
+            "World\u2019s top oil companies",
+            "ORG",
+            "Cut",
+            "Spending on oil and gas exploration",
+            "ACTIVITY"
+        ],
+        [
+            "Wood Mackenzie",
+            "ORG",
+            "Estimate",
+            "Global investment in exploration",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wood Mackenzie",
+            "ORG",
+            "Estimate",
+            "Spending on oil and gas exploration",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Majors",
+            "ORG",
+            "Spending",
+            "Collectively drop",
+            "ACTIVITY"
+        ],
+        [
+            "Majors",
+            "ORG",
+            "Spending",
+            "A tenth of investment in oil and gas production",
+            "ACTIVITY"
+        ],
+        [
+            "WoodMac",
+            "ORG",
+            "Analyst",
+            "Predict",
+            "Modest uptick in drilling activity"
+        ],
+        [
+            "Firms",
+            "ORG",
+            "Do",
+            "More with their money",
+            "ACTIVITY"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Still need to",
+            "Increase their resources",
+            "ACTIVITY"
+        ],
+        [
+            "Analysts at RBC Capital Markets",
+            "ORG",
+            "Predict",
+            "Exploration spending to remain low",
+            "ACTIVITY"
+        ],
+        [
+            "Analysts at RBC Capital Markets",
+            "ORG",
+            "Predict",
+            "More merger and acquisition activity",
+            "ACTIVITY"
+        ],
+        [
+            "Oil Majors",
+            "ORG",
+            "Expected to",
+            "Continue to make bolt-on purchases",
+            "ACTIVITY"
+        ],
+        [
+            "WoodMac\u2019s Latham",
+            "PERSON",
+            "Said",
+            "Stronger balance sheets compared with smaller rivals",
+            "ACTIVITY"
+        ],
+        [
+            "Exploration",
+            "ACTIVITY",
+            "Focus",
+            "Deepwater basins",
+            "LOCATION"
+        ],
+        [
+            "Exploration",
+            "ACTIVITY",
+            "Focus",
+            "Areas where they already operate",
+            "LOCATION"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Vie",
+            "Blocks in Brazil\u2019s first deepwater oil auction",
+            "ACTIVITY"
+        ],
+        [
+            "Shell",
+            "COMP",
+            "Awarded",
+            "Half of the blocks",
+            "ACTIVITY"
+        ]
+    ]
+}

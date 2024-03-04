@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Peter Martins",
+            "PERSON",
+            "Announce",
+            "Retire",
+            "ORG"
+        ],
+        [
+            "Peter Martins",
+            "PERSON",
+            "Operate_In",
+            "New York City Ballet",
+            "ORG"
+        ],
+        [
+            "Peter Martins",
+            "PERSON",
+            "Operate_In",
+            "School of American Ballet",
+            "ORG"
+        ],
+        [
+            "Peter Martins",
+            "PERSON",
+            "Deny",
+            "Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Peter Martins",
+            "PERSON",
+            "Impact",
+            "Disruption",
+            "CONCEPT"
+        ],
+        [
+            "New York City Ballet",
+            "ORG",
+            "Participates_In",
+            "Disruption",
+            "CONCEPT"
+        ],
+        [
+            "School of American Ballet",
+            "ORG",
+            "Participates_In",
+            "Disruption",
+            "CONCEPT"
+        ]
+    ]
+}

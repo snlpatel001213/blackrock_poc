@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Thousands",
+            "CONCEPT",
+            "Participates_In",
+            "Protest",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Control",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Impact",
+            "Autonomy",
+            "CONCEPT"
+        ]
+    ]
+}

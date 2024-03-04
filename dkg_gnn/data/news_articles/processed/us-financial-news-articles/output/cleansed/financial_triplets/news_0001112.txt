@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Announce",
+            "Corporate Tax Cuts",
+            "ORG/GOV"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Has",
+            "94%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Raise",
+            "220 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Invests_In",
+            "Mergers and Acquisitions",
+            "SECTOR"
+        ]
+    ]
+}

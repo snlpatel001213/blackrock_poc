@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Wolf Popper LLP",
+            "ORG",
+            "Investigate",
+            "Claims",
+            "CONCEPT"
+        ],
+        [
+            "Wolf Popper LLP",
+            "ORG",
+            "Represent",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Sucampo Pharmaceuticals Inc.",
+            "COMP",
+            "Proposed_Acquisition",
+            "Mallinckrodt plc",
+            "COMP"
+        ],
+        [
+            "Sucampo Pharmaceuticals Inc.",
+            "COMP",
+            "Shareholders_Receive",
+            "$18.00",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sucampo Pharmaceuticals Inc.",
+            "COMP",
+            "Total_Transaction_Value",
+            "$1.2 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sucampo Pharmaceuticals Inc.",
+            "COMP",
+            "Phase_2_Assets_Worth",
+            "$29",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wolf Popper LLP",
+            "ORG",
+            "Contact",
+            "Mr. Stine",
+            "PERSON"
+        ],
+        [
+            "Wolf Popper",
+            "ORG",
+            "Extensive_Experience",
+            "Mergers_and_Acquisition_Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Wolf Popper",
+            "ORG",
+            "Ensure",
+            "Investors_Receive",
+            "CONCEPT"
+        ],
+        [
+            "Wolf Popper Attorneys",
+            "ORG",
+            "Named",
+            "Super_Lawyers_or_Rising_Stars",
+            "CONCEPT"
+        ],
+        [
+            "Wolf Popper LLP",
+            "ORG",
+            "Location",
+            "New_York",
+            "GPE"
+        ],
+        [
+            "Wolf Popper LLP",
+            "ORG",
+            "Contact",
+            "cstine@wolfpopper.com",
+            "EMAIL"
+        ]
+    ]
+}

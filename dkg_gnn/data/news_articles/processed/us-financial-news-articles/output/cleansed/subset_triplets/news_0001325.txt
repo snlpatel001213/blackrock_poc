@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Costa Rican investigators",
+            "PERSON",
+            "Announce",
+            "crash",
+            "EVENT"
+        ],
+        [
+            "crash",
+            "EVENT",
+            "Impact",
+            "two crew members",
+            "PERSON"
+        ],
+        [
+            "crash",
+            "EVENT",
+            "Impact",
+            "10 U.S. citizens",
+            "PERSON"
+        ],
+        [
+            "families from New York",
+            "GPE",
+            "Participates_In",
+            "tour",
+            "EVENT"
+        ],
+        [
+            "families from Florida",
+            "GPE",
+            "Participates_In",
+            "tour",
+            "EVENT"
+        ],
+        [
+            "tour",
+            "EVENT",
+            "Is_Member_Of",
+            "Backroads",
+            "ORG"
+        ],
+        [
+            "Backroads",
+            "ORG",
+            "Operate_In",
+            "Berkeley",
+            "GPE"
+        ]
+    ]
+}

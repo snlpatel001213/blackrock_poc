@@ -1,0 +1,159 @@
+{
+    "output": [
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Declare",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Payable",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Record",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Ex-date",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Anticipate",
+            "Return_of_Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Determine",
+            "Earnings_and_Profits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Report",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Trade",
+            "New_York_Stock_Exchange",
+            "ORG/GOV"
+        ],
+        [
+            "Cushing \u00ae Renaissance Fund",
+            "ORG/REG",
+            "Managed",
+            "Cushing \u00ae Asset Management",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Subsidiary",
+            "Swank_Capital",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Registered",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Serve",
+            "Affiliated_Funds",
+            "ORG/REG"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Manage",
+            "Accounts",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Assets",
+            "Under_Management",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Headquartered",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Cushing \u00ae Asset Management",
+            "ORG",
+            "Invest",
+            "Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cushing",
+            "ORG",
+            "Board_of_Trustees",
+            "Declare",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Cushing",
+            "ORG",
+            "Change",
+            "Distribution_Policy",
+            "EVENT"
+        ],
+        [
+            "Cushing",
+            "ORG",
+            "Establish",
+            "Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Funds",
+            "ORG/REG",
+            "File",
+            "Securities_and_Exchange_Commission",
+            "ORG/REG"
+        ],
+        [
+            "Funds",
+            "ORG/REG",
+            "Assume",
+            "Duty",
+            "EVENT"
+        ],
+        [
+            "Funds",
+            "ORG/REG",
+            "Update",
+            "Forward-looking_Statement",
+            "EVENT"
+        ]
+    ]
+}

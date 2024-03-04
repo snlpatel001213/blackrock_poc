@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Northern China",
+            "GPE"
+        ],
+        [
+            "Tianjin",
+            "GPE",
+            "Has",
+            "Acting Mayor",
+            "PERSON"
+        ],
+        [
+            "Tianjin",
+            "GPE",
+            "Has",
+            "Deputy Mayor",
+            "PERSON"
+        ],
+        [
+            "Zhang Guoqing",
+            "PERSON",
+            "Operate_In",
+            "Tianjin",
+            "GPE"
+        ],
+        [
+            "Zhang Guoqing",
+            "PERSON",
+            "Operate_In",
+            "Chongqing",
+            "GPE"
+        ],
+        [
+            "Huang Xingguo",
+            "PERSON",
+            "Control",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Yan Qingmin",
+            "PERSON",
+            "Participates_In",
+            "China Securities Regulatory Commission",
+            "ORG/REG"
+        ]
+    ]
+}

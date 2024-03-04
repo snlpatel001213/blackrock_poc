@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Has",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Operate_In",
+            "Austria\u2019s Graz Technical University",
+            "ORG"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Intel Corp.",
+            "ORG"
+        ],
+        [
+            "Intel Corp.",
+            "ORG",
+            "Produce",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Relate_To",
+            "CPU",
+            "PRODUCT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Relate_To",
+            "Kernel Memory",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "AMD",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "ARM Holdings",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,217 @@
+{
+    "output": [
+        [
+            "CAIRO",
+            "GPE",
+            "Reported",
+            "Two people",
+            "PERSON"
+        ],
+        [
+            "Two people",
+            "PERSON",
+            "Detained",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Has",
+            "Conservative Muslim country",
+            "GPE"
+        ],
+        [
+            "Two people",
+            "PERSON",
+            "Allegedly",
+            "Wave",
+            "Verb",
+            "Rainbow flag",
+            "PRODUCT",
+            "At",
+            "Concert",
+            "PRODUCT"
+        ],
+        [
+            "Rainbow flag",
+            "PRODUCT",
+            "Symbol of",
+            "Same-sex rights",
+            "CONCEPT"
+        ],
+        [
+            "Lawyer representing them",
+            "PERSON",
+            "Said",
+            "Tuesday",
+            "EVENT"
+        ],
+        [
+            "Sarah Hegazy",
+            "PERSON",
+            "Released",
+            "Fined",
+            "Verb",
+            "2,000 Egyptian pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ahmed Alaa",
+            "PERSON",
+            "Released",
+            "Fined",
+            "Verb",
+            "2,000 Egyptian pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arabic Network for Human Rights Information",
+            "ORG",
+            "Reported",
+            "Release",
+            "Verb",
+            "Twitter account",
+            "PRODUCT"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Unclear",
+            "Resume",
+            "Verb"
+        ],
+        [
+            "Hegazy",
+            "PERSON",
+            "Alaa",
+            "PERSON",
+            "Among",
+            "Dozens",
+            "Misc",
+            "Detained",
+            "Verb",
+            "Charges",
+            "CONCEPT",
+            "Including",
+            "Promoting",
+            "Verb",
+            "Sexual deviancy",
+            "CONCEPT"
+        ],
+        [
+            "Crackdown",
+            "EVENT",
+            "Response",
+            "Rare show",
+            "EVENT",
+            "Public support",
+            "Verb",
+            "LGBT",
+            "CONCEPT",
+            "Rights",
+            "CONCEPT",
+            "In Egypt",
+            "GPE"
+        ],
+        [
+            "Mashrou\u2019 Leila",
+            "ORG",
+            "Headlined",
+            "Concert",
+            "PRODUCT"
+        ],
+        [
+            "Lead singer",
+            "PERSON",
+            "Openly gay",
+            "CONCEPT"
+        ],
+        [
+            "Small group",
+            "Misc",
+            "Concertgoers",
+            "PERSON",
+            "Raise",
+            "Rainbow flag",
+            "PRODUCT"
+        ],
+        [
+            "Local media",
+            "ORG",
+            "Said",
+            "Homosexuals",
+            "PERSON",
+            "Receiving",
+            "Verb",
+            "Foreign funding",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hosted",
+            "Verb",
+            "Callers",
+            "PERSON",
+            "Who compare",
+            "Verb",
+            "Their threat",
+            "CONCEPT",
+            "To",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Key Western ally",
+            "ORG",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "Under fire",
+            "Verb",
+            "Internationally",
+            "ADV",
+            "Human rights record",
+            "CONCEPT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "State-aligned media",
+            "ORG",
+            "Religious establishment",
+            "ORG",
+            "Regard",
+            "Verb",
+            "Public duty",
+            "CONCEPT",
+            "Combat",
+            "Verb",
+            "Spread",
+            "Verb",
+            "Homosexuality",
+            "CONCEPT"
+        ],
+        [
+            "113",
+            "ECON_INDICATOR",
+            "=",
+            "17.6900",
+            "ECON_INDICATOR",
+            "Egyptian pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Writing",
+            "Verb",
+            "John Davison",
+            "PERSON",
+            "Editing",
+            "Verb",
+            "Mark Heinrich",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iranian Army",
+            "ORG/GOV"
+        ],
+        [
+            "Iranian Army",
+            "ORG/GOV",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Pro-government rallies",
+            "EVENT",
+            "Participates_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Elite Revolutionary Guards Corps",
+            "ORG",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protester Reza",
+            "PERSON",
+            "Has",
+            "Children",
+            "PERSON"
+        ]
+    ]
+}

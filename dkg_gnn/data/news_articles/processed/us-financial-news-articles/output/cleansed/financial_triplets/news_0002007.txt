@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "New York Governor Andrew Cuomo",
+            "PERSON",
+            "Announce",
+            "plan to restructure",
+            "CONCEPT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Operate_In",
+            "current income and payroll tax system",
+            "CONCEPT"
+        ],
+        [
+            "new law",
+            "CONCEPT",
+            "Introduce",
+            "cap on deductions of state and local income and property taxes",
+            "CONCEPT"
+        ]
+    ]
+}

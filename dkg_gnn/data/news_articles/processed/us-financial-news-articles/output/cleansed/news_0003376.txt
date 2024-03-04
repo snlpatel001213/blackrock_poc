@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Announce",
+            "Triumvira Immunologics",
+            "ORG"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Operate_In",
+            "Biotechnology Industry",
+            "SECTOR"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Introduce",
+            "T-Cell Antigen Coupler",
+            "PRODUCT"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Participates_In",
+            "Clinical Testing",
+            "EVENT"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Control",
+            "T-Cell Therapy Programs",
+            "PRODUCT"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Raise",
+            "Significant Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Invests_In",
+            "Triumvira Immunologics",
+            "ORG"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Relate_To",
+            "T-Cell Therapy Approaches",
+            "CONCEPT"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Impact",
+            "Striking Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Positive_Impact_On",
+            "Blood-Borne Cancers Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Impact",
+            "Solid Tumors Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Triumvira Immunologics",
+            "ORG",
+            "Impact",
+            "Other Therapeutic Areas",
+            "CONCEPT"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Previous_Position",
+            "Mirna Therapeutics",
+            "ORG"
+        ],
+        [
+            "Mirna Therapeutics",
+            "ORG",
+            "Location",
+            "Texas",
+            "GPE"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Previous_Position",
+            "Repros Therapeutics",
+            "ORG"
+        ],
+        [
+            "Repros Therapeutics",
+            "ORG",
+            "Location",
+            "The Woodlands",
+            "GPE"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Previous_Position",
+            "EMD Serono Inc.",
+            "ORG"
+        ],
+        [
+            "EMD Serono Inc.",
+            "ORG",
+            "Subsidiary_Of",
+            "Merck KgA",
+            "ORG"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Previous_Position",
+            "Organon International",
+            "ORG"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Current_Position",
+            "ImmunoMet Board Member",
+            "ORG"
+        ],
+        [
+            "Paul Lammers",
+            "PERSON",
+            "Current_Position",
+            "Cristal Therapeutics Scientific Advisor",
+            "ORG"
+        ]
+    ]
+}

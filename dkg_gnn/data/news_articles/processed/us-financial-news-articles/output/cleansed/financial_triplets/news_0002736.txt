@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "Eylea",
+            "PRODUCT"
+        ],
+        [
+            "Momenta Pharmaceuticals Inc",
+            "ORG",
+            "Operate_In",
+            "Biotechnology Sector",
+            "SECTOR"
+        ],
+        [
+            "Mylan NV",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Sector",
+            "SECTOR"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "US Patent Protection",
+            "CONCEPT"
+        ],
+        [
+            "Momenta Pharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "M710",
+            "PRODUCT"
+        ]
+    ]
+}

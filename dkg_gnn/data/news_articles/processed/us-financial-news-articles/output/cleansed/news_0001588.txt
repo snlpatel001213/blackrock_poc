@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Appoint",
+            "Renier Vree",
+            "PERSON"
+        ],
+        [
+            "Arcadis NV",
+            "COMP",
+            "Is_Member_Of",
+            "Dutch Engineering Company",
+            "ORG"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Resign",
+            null,
+            null
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Participates_In",
+            "CFO",
+            "ORG"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Operate_In",
+            "Chemicals Business",
+            "ORG"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "COMP",
+            "Produce",
+            "Speciality Chemicals",
+            "PRODUCT"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Control",
+            "Dulux Paint",
+            "PRODUCT"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Reject",
+            "PPG Industries",
+            "COMP"
+        ],
+        [
+            "Shareholders",
+            "COMP",
+            "Approve",
+            "Split",
+            "EVENT"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Promote",
+            "Thierry Vanlancker",
+            "PERSON"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Prior",
+            "Philips",
+            "COMP"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "CFO",
+            "Philips Lighting",
+            "COMP"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "COMP",
+            "CEO",
+            "Werner Fuhrmann",
+            "PERSON"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "COMP",
+            "Ambitious Growth Plans",
+            null,
+            null
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Separation Process",
+            "April 2018",
+            "DATE"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "CFO",
+            "AkzoNobel Specialty Chemicals",
+            "COMP"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "COMP",
+            "Effective",
+            "March 1",
+            "DATE"
+        ]
+    ]
+}

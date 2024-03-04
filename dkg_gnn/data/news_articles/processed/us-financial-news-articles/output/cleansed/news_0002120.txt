@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Essa Pharma Inc.",
+            "COMP",
+            "Announce",
+            "Filing of Amended and Restated Prospectus Supplement",
+            "EVENT"
+        ],
+        [
+            "Essa Pharma Inc.",
+            "COMP",
+            "Announce",
+            "Update to Previously Announced Equity Offering",
+            "EVENT"
+        ],
+        [
+            "Essa Pharma Inc.",
+            "COMP",
+            "Intends_To_Issue",
+            "125,000,000 Common Shares",
+            "PRODUCT"
+        ],
+        [
+            "125,000,000 Common Shares",
+            "PRODUCT",
+            "Control",
+            "Essa Pharma Inc.",
+            "COMP"
+        ],
+        [
+            "Essa Pharma Inc.",
+            "COMP",
+            "Raise",
+            "US$25 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

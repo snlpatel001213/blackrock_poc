@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ]
+    ]
+}

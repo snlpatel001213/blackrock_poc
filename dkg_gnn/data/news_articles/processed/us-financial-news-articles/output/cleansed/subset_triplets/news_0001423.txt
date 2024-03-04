@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "Operate_In",
+            "New York Mercantile Exchange",
+            "ORG"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Relate_To",
+            "Potential supply disruptions",
+            "CONCEPT"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Raise",
+            "Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

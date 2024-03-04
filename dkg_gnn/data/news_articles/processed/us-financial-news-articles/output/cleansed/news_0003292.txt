@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Immune cells",
+            "ORG",
+            "Linked_To",
+            "Breast Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Play_Part_In",
+            "Dissemination",
+            "CONCEPT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Trigger",
+            "Chain_Reaction",
+            "CONCEPT"
+        ],
+        [
+            "Early Cancer Cells",
+            "ORG",
+            "Leave",
+            "Breast",
+            "GPE"
+        ],
+        [
+            "Disruption",
+            "ORG",
+            "Prevent",
+            "Early Dissemination",
+            "CONCEPT"
+        ],
+        [
+            "Dissemination",
+            "ORG",
+            "Lead_To",
+            "Deadly Metastasis",
+            "CONCEPT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Assist_In",
+            "Early Metastases",
+            "CONCEPT"
+        ],
+        [
+            "Patients",
+            "ORG",
+            "Not_Necessarily_Cured",
+            "Early Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Metastases",
+            "ORG",
+            "Happen",
+            "Before_Screening_Test",
+            "CONCEPT"
+        ]
+    ]
+}

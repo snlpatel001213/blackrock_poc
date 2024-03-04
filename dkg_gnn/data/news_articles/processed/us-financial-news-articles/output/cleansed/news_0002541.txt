@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "PricewaterhouseCoopers LLP",
+            "ORG",
+            "Negligent",
+            "Colonial Bank",
+            "ORG/GOV"
+        ],
+        [
+            "Colonial Bank",
+            "ORG/GOV",
+            "Fail",
+            "null",
+            "null"
+        ],
+        [
+            "PwC",
+            "ORG",
+            "Violate",
+            "Auditing Rules",
+            "null"
+        ],
+        [
+            "PwC",
+            "ORG",
+            "Not_Take",
+            "Steps",
+            "null"
+        ],
+        [
+            "Steps",
+            "null",
+            "Could_Detect",
+            "Fraud Scheme",
+            "null"
+        ],
+        [
+            "Fraud Scheme",
+            "null",
+            "Contribute",
+            "Colonial Bank Failure",
+            "null"
+        ],
+        [
+            "Colonial Bank",
+            "ORG/GOV",
+            "Bankruptcy",
+            "null",
+            "null"
+        ],
+        [
+            "FDIC",
+            "ORG/REG",
+            "Sue",
+            "PwC",
+            "ORG"
+        ],
+        [
+            "Judge Barbara Jacobs Rothstein",
+            "PERSON",
+            "Rule",
+            "PwC Negligent",
+            "null"
+        ],
+        [
+            "Judge Barbara Jacobs Rothstein",
+            "PERSON",
+            "Consider",
+            "Impose Damages",
+            "null"
+        ],
+        [
+            "PwC",
+            "ORG",
+            "Look_Forward",
+            "Damages Phase",
+            "null"
+        ],
+        [
+            "FDIC",
+            "ORG/REG",
+            "Have",
+            "Burden_Of_Proof",
+            "null"
+        ],
+        [
+            "PwC",
+            "ORG",
+            "Dismiss",
+            "Other Claims",
+            "null"
+        ]
+    ]
+}

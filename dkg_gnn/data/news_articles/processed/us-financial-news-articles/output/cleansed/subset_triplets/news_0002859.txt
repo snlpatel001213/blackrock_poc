@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "David Bach",
+            "PERSON",
+            "Is_Member_Of",
+            "Self-made Millionaires",
+            "CONCEPT"
+        ],
+        [
+            "AE Wealth Management",
+            "ORG",
+            "Operate_In",
+            "Financial Services",
+            "SECTOR"
+        ],
+        [
+            "David Bach",
+            "PERSON",
+            "Announce",
+            "Biggest Mistake",
+            "CONCEPT"
+        ],
+        [
+            "Not Buying Home",
+            "CONCEPT",
+            "Relate_To",
+            "Millennials",
+            "PERSON"
+        ],
+        [
+            "Buying Home",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Wealth",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Air Force One",
+            "GPE",
+            "Has",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump's private legal team",
+            "ORG",
+            "Has",
+            "Spokesman",
+            "PERSON"
+        ],
+        [
+            "Donald Trump Jr.",
+            "PERSON",
+            "Relate_To",
+            "Trump's eldest son",
+            "PERSON"
+        ],
+        [
+            "Initial Statement",
+            "CONCEPT",
+            "Raise",
+            "Questions",
+            "CONCEPT"
+        ]
+    ]
+}

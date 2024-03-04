@@ -1,0 +1,1 @@
+{'output': [['Cramer', 'PERSON', 'Announce', 'Retail number', 'ECON_INDICATOR'], ['Retail number', 'ECON_INDICATOR', 'Relate_To', 'Jobs report', 'EVENT'], ['Jobs report', 'EVENT', 'Impact', 'Amazon', 'COMP'], ['Amazon', 'COMP', 'Control', 'Grip', 'CONCEPT']]}

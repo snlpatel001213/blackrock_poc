@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "R1 RCM Inc",
+            "PERSON",
+            "Explore",
+            "TCP-ASC ACHI SERIES LLLP",
+            "ORG"
+        ],
+        [
+            "TCP-ASC ACHI SERIES LLLP",
+            "ORG",
+            "Possible_Provision",
+            "Debt, Equity Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "TCP-ASC ACHI SERIES LLLP",
+            "ORG",
+            "Potential_Acquisition",
+            "R1 RCM Inc",
+            "PERSON"
+        ]
+    ]
+}

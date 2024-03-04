@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Sanction",
+            "five entities",
+            "ORG"
+        ],
+        [
+            "five entities",
+            "ORG",
+            "Operate_In",
+            "Iran's missiles program",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Shahid Bakeri Industrial Group",
+            "ORG"
+        ],
+        [
+            "Shahid Bakeri Industrial Group",
+            "ORG",
+            "Produce",
+            "Iran\u2019s solid-propellant ballistic missiles",
+            "ORG"
+        ],
+        [
+            "U.S. Treasury Secretary",
+            "PERSON",
+            "Announce",
+            "Sanctions",
+            "ORG"
+        ],
+        [
+            "Sanctions",
+            "ORG",
+            "Freeze",
+            "Entities property",
+            "ORG"
+        ],
+        [
+            "Entities",
+            "ORG",
+            "Prohibit",
+            "Americans from dealing with them",
+            "PERSON"
+        ]
+    ]
+}

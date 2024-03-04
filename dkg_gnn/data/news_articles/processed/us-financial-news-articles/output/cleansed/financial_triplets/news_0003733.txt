@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "ImmunoGen Inc",
+            "ORG",
+            "Announce",
+            "Phase 1 Study",
+            "EVENT"
+        ],
+        [
+            "IMGN632",
+            "PRODUCT",
+            "Participates_In",
+            "Phase 1 Study",
+            "EVENT"
+        ],
+        [
+            "IMGN632",
+            "PRODUCT",
+            "Relate_To",
+            "Hematological Malignancies",
+            "CONCEPT"
+        ]
+    ]
+}

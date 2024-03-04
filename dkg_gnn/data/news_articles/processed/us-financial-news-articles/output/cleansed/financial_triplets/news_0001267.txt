@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Spectrum Brands Holding Inc",
+            "COMP",
+            "Has",
+            "unit",
+            "ORG",
+            "that",
+            "Sells",
+            "brands",
+            "COMP",
+            "such",
+            "as",
+            "George Foreman cookware",
+            "COMP",
+            "and",
+            "Rayovac batteries"
+        ],
+        [
+            "George Foreman cookware",
+            "COMP",
+            "Relate_To",
+            "Rayovac batteries",
+            "COMP"
+        ],
+        [
+            "Spectrum Brands Holding Inc",
+            "COMP",
+            "Operate_In",
+            "Global Battery and Appliances Unit",
+            "ORG"
+        ],
+        [
+            "Spectrum Brands Holding Inc",
+            "COMP",
+            "Has",
+            "market capitalization",
+            "ECON_INDICATOR",
+            "of",
+            "$6.30 billion"
+        ]
+    ]
+}

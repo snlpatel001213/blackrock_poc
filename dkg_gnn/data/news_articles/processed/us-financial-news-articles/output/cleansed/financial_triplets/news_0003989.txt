@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "National Football League",
+            "ORG",
+            "Decrease",
+            "TV Ratings",
+            "CONCEPT"
+        ],
+        [
+            "National Football League",
+            "ORG",
+            "Operate_In",
+            "Regular Season",
+            "EVENT"
+        ],
+        [
+            "National Football League",
+            "ORG",
+            "Has",
+            "Average Audience",
+            "CONCEPT"
+        ],
+        [
+            "14.9 Million",
+            "ECON_INDICATOR",
+            "Decrease",
+            "9.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2016 Regular Season",
+            "EVENT",
+            "Has",
+            "16.5 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

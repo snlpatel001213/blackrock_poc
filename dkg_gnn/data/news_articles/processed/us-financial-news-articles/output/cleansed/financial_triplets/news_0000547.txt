@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Rouhani",
+            "PERSON",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Rouhani",
+            "PERSON",
+            "Is_Member_Of",
+            "Chatham House",
+            "ORG"
+        ],
+        [
+            "Chatham House",
+            "ORG",
+            "Announce",
+            "Iran protests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "crisis of social capital and confidence",
+            "CONCEPT"
+        ],
+        [
+            "Iran protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Imperialism",
+            "CONCEPT"
+        ],
+        [
+            "Regime",
+            "ORG/GOV",
+            "Has",
+            "Legitimacy",
+            "CONCEPT"
+        ]
+    ]
+}

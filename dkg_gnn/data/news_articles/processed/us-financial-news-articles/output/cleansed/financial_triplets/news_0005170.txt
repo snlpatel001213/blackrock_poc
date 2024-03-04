@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "WASHINGTON/SEOUL",
+            "GPE",
+            "Announce",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Goods trade deficit with South Korea",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Two major automakers",
+            "SECTOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Vehicle emissions targets",
+            "CONCEPT"
+        ],
+        [
+            "Pyongyang",
+            "GPE",
+            "Has",
+            "Long history of seeking to play off Seoul and Washington",
+            "GPE"
+        ]
+    ]
+}

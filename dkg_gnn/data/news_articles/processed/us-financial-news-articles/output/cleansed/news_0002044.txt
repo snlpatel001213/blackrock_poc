@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Expand",
+            "Services Sector Activity",
+            "CONCEPT"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Increase",
+            "New Business",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Improve",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Caixin/Markit",
+            "ORG",
+            "Produce",
+            "Services PMI",
+            "PRODUCT"
+        ],
+        [
+            "December",
+            "EVENT",
+            "Show",
+            "Highest Reading",
+            "CONCEPT"
+        ],
+        [
+            "Reading",
+            "CONCEPT",
+            "Above",
+            "50",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reading",
+            "CONCEPT",
+            "Below",
+            "50",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Firms",
+            "ORG",
+            "Experience",
+            "Input Price Inflation",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Count",
+            "Growth in Services",
+            "CONCEPT"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Rebalance",
+            "Economic Expansion",
+            "CONCEPT"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Account",
+            "Over Half",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Rising Wages",
+            "CONCEPT"
+        ],
+        [
+            "Chinese Consumers",
+            "PERSON",
+            "Have",
+            "More Spending Power",
+            "CONCEPT"
+        ],
+        [
+            "Survey",
+            "ORG",
+            "Show",
+            "Input Price Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Pass",
+            "Higher Input Costs",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Implement",
+            "Tougher Pollution Measures",
+            "CONCEPT"
+        ],
+        [
+            "Manufacturing Sector",
+            "SECTOR",
+            "Expand",
+            "Fastest Pace",
+            "CONCEPT"
+        ],
+        [
+            "Caixin China Composite PMI",
+            "PRODUCT",
+            "Rise",
+            "December",
+            "EVENT"
+        ],
+        [
+            "Expansions",
+            "CONCEPT",
+            "Support",
+            "Optimism",
+            "CONCEPT"
+        ],
+        [
+            "Manufacturers",
+            "ORG",
+            "Have",
+            "Business Outlook for Next Year",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Remain",
+            "Resilient",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Defy",
+            "Market Expectations",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "6.9 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "First Nine Months",
+            "EVENT",
+            "of",
+            "2017",
+            "DATE"
+        ],
+        [
+            "Chinese Leaders",
+            "PERSON",
+            "Likely",
+            "Stick with Growth Target",
+            "CONCEPT"
+        ],
+        [
+            "Growth Target",
+            "CONCEPT",
+            "Same",
+            "Last Year",
+            "DATE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Ratchet up",
+            "Efforts",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Prevent",
+            "Destabilizing Build-up of Debt",
+            "CONCEPT"
+        ]
+    ]
+}

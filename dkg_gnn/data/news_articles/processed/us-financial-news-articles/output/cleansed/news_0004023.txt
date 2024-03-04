@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "MoneyGram",
+            "COMP",
+            "Terminate",
+            "Alibaba",
+            "ORG"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Is_Member_Of",
+            "Ant Financial",
+            "ORG"
+        ],
+        [
+            "Ant Financial",
+            "ORG",
+            "Announce",
+            "Termination",
+            "EVENT"
+        ]
+    ]
+}

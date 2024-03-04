@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Introduce",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Operate_In",
+            "Men Skating",
+            "SECTOR"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Produce",
+            "Seven Clean Quads",
+            "CONCEPT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Control",
+            "U.S Championships",
+            "EVENT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Participates_In",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Operate_In",
+            "Men Skating",
+            "SECTOR"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Produce",
+            "Quad Flip",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Control",
+            "International Competition",
+            "EVENT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Impact",
+            "Shoma Uno",
+            "PERSON"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Yuzuru Hanyu",
+            "PERSON",
+            "Control",
+            "Olympic Gold",
+            "CONCEPT"
+        ],
+        [
+            "Evan Lysacek",
+            "PERSON",
+            "Control",
+            "Olympic Gold",
+            "CONCEPT"
+        ],
+        [
+            "Evan Lysacek",
+            "PERSON",
+            "Relate_To",
+            "Dance",
+            "CONCEPT"
+        ],
+        [
+            "Yevgeny Plushenko",
+            "PERSON",
+            "Relate_To",
+            "Skating Like a Man",
+            "CONCEPT"
+        ],
+        [
+            "Johnny Weir",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Chan",
+            "PERSON",
+            "Relate_To",
+            "Experience",
+            "CONCEPT"
+        ],
+        [
+            "Miki Ando",
+            "PERSON",
+            "Control",
+            "Junior Level Competition",
+            "EVENT"
+        ],
+        [
+            "Evgenia Medvedeva",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Mikhail Kolyada",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ],
+        [
+            "Adam Rippon",
+            "PERSON",
+            "Relate_To",
+            "Quad Jumps",
+            "CONCEPT"
+        ]
+    ]
+}

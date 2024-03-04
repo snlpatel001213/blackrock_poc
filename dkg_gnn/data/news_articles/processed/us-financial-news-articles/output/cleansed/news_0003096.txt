@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Venezuela",
+            "GPE",
+            "Control",
+            "National Guard",
+            "ORG"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Arrest",
+            "First Sergeant David Rebolledo",
+            "PERSON"
+        ],
+        [
+            "First Sergeant David Rebolledo",
+            "PERSON",
+            "Shoot",
+            "Alexandra Colopoy",
+            "PERSON"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Pregnant",
+            "null",
+            "null"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Operate_In",
+            "Oil-rich Country",
+            "GPE"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Melee",
+            "CONCEPT"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Scarce Pork",
+            "PRODUCT"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Queues",
+            "CONCEPT"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Soldiers",
+            "ORG"
+        ],
+        [
+            "Soldiers",
+            "ORG",
+            "Drunk",
+            "null",
+            "null"
+        ],
+        [
+            "Soldiers",
+            "ORG",
+            "Order",
+            "Venezuelans",
+            "PERSON"
+        ],
+        [
+            "Venezuelans",
+            "PERSON",
+            "Refuse",
+            "null",
+            "null"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Fire",
+            "null",
+            "null"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Spouse",
+            "Bernab\u00e9",
+            "PERSON"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Filmed Interview",
+            "null",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Wife Fall",
+            "PERSON"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Wife Five Month Pregnant",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Food Riots",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Rowdy Queues",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Have",
+            "OPEC Membership",
+            "ORG"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Recession",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Have",
+            "Salaries",
+            "CONCEPT"
+        ],
+        [
+            "Salaries",
+            "CONCEPT",
+            "Add Up",
+            "Few U.S. Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salaries",
+            "CONCEPT",
+            "Make",
+            "Difficult to Obtain Food",
+            "CONCEPT"
+        ],
+        [
+            "Opposition Lawmaker Delsa Solorzano",
+            "PERSON",
+            "Tweet",
+            "null",
+            "null"
+        ],
+        [
+            "Opposition Lawmaker Delsa Solorzano",
+            "PERSON",
+            "Say",
+            "Sorrow",
+            "CONCEPT"
+        ]
+    ]
+}

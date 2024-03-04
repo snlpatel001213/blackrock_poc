@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Sell",
+            "Intel",
+            "COMP"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Operate_In",
+            "Computer Processors Industry",
+            "SECTOR"
+        ],
+        [
+            "Krzanich",
+            "PERSON",
+            "Own",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Krzanich",
+            "PERSON",
+            "Net",
+            "$25 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Krzanich",
+            "PERSON",
+            "Create",
+            "10b5-1 Plan",
+            "CONCEPT"
+        ],
+        [
+            "Security Researchers",
+            "PERSON",
+            "Release",
+            "Documentation",
+            "CONCEPT"
+        ],
+        [
+            "Modern Processors",
+            "COMP",
+            "Has",
+            "Security Vulnerabilities",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Affect",
+            "Intel Processors",
+            "COMP"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Affect",
+            "Intel, AMD and ARM Processors",
+            "COMP"
+        ],
+        [
+            "Computer Industry",
+            "SECTOR",
+            "Scramble",
+            "Patch Vulnerabilities",
+            "CONCEPT"
+        ],
+        [
+            "Krzanich",
+            "PERSON",
+            "Work",
+            "Fixes",
+            "CONCEPT"
+        ],
+        [
+            "Krzanich",
+            "PERSON",
+            "Confident",
+            "Security Issue Not Exploited",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "SECTOR",
+            "Work",
+            "Address Security Issue",
+            "CONCEPT"
+        ],
+        [
+            "Somebody",
+            "PERSON",
+            "Improperly Post",
+            "Flaw",
+            "CONCEPT"
+        ]
+    ]
+}

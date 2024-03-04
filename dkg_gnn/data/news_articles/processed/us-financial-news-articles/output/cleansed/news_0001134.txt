@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Corruption trials",
+            "EVENT",
+            "Relate_To",
+            "Albany\u2019s 2018 legislative session",
+            "EVENT"
+        ],
+        [
+            "Presidential intrigue",
+            "EVENT",
+            "Relate_To",
+            "Albany\u2019s 2018 legislative session",
+            "EVENT"
+        ],
+        [
+            "A plan to flip the Senate",
+            "EVENT",
+            "Relate_To",
+            "Albany\u2019s 2018 legislative session",
+            "EVENT"
+        ],
+        [
+            "Albany\u2019s 2018 legislative session",
+            "EVENT",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Assemblyman Daniel O\u2019Donnell",
+            "PERSON",
+            "Is_Member_Of",
+            "Democrat",
+            "ORG"
+        ],
+        [
+            "Assemblyman Daniel O\u2019Donnell",
+            "PERSON",
+            "Represent",
+            "Manhattan",
+            "GPE"
+        ],
+        [
+            "Assemblyman Daniel O\u2019Donnell",
+            "PERSON",
+            "Predict",
+            "Albany\u2019s 2018 legislative session",
+            "EVENT"
+        ]
+    ]
+}

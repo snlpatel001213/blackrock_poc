@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Emily Hawthorne",
+            "PERSON",
+            "Relate_To",
+            "Protesters",
+            "GPE"
+        ],
+        [
+            "Emily Hawthorne",
+            "PERSON",
+            "Relate_To",
+            "Iran Protests",
+            "EVENT"
+        ],
+        [
+            "Iran Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Protesters",
+            "GPE"
+        ]
+    ]
+}

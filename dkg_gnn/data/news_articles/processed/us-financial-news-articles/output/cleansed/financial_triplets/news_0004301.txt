@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Philippines",
+            "GPE",
+            "Has",
+            "Fined",
+            "ORG"
+        ],
+        [
+            "Sanofi",
+            "ORG",
+            "Produce",
+            "Dengvaxia",
+            "PRODUCT"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "Relate_To",
+            "Dengue",
+            "CONCEPT"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Some Cases",
+            "CONCEPT"
+        ]
+    ]
+}

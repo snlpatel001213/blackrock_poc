@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Heavy snowfall shuts three China airports, delays at nine others",
+            "EVENT"
+        ],
+        [
+            "Hefei Xinqiao Airport",
+            "GPE",
+            "Has",
+            "been shut",
+            "EVENT"
+        ],
+        [
+            "Fuyang Xiguan Airport",
+            "GPE",
+            "Has",
+            "been shut",
+            "EVENT"
+        ],
+        [
+            "Jining Qufu Airport",
+            "GPE",
+            "Has",
+            "been shut",
+            "EVENT"
+        ],
+        [
+            "Beijing Capital",
+            "GPE",
+            "Participates_In",
+            "Delays",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "National Meteorological Center",
+            "ORG"
+        ],
+        [
+            "National Meteorological Center",
+            "ORG",
+            "Impact",
+            "Domestic authorities",
+            "GPE"
+        ],
+        [
+            "Domestic authorities",
+            "GPE",
+            "Relate_To",
+            "Precautions regarding roads, railways, electricity supplies and telecommunications",
+            "CONCEPT"
+        ],
+        [
+            "Shaanxi province",
+            "GPE",
+            "Relate_To",
+            "High-speed trains delay",
+            "EVENT"
+        ]
+    ]
+}

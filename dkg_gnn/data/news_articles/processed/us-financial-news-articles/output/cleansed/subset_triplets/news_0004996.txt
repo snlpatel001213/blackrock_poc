@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Entegra Financial Corp.",
+            "ORG",
+            "Announce",
+            "fourth quarter 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Entegra Financial Corp.",
+            "ORG",
+            "Operate_In",
+            "Western North Carolina counties, Upstate South Carolina counties, Northern Georgia counties",
+            "GPE"
+        ],
+        [
+            "Entegra Bank",
+            "COMP",
+            "Operate_In",
+            "Entegra Financial Corp.",
+            "ORG"
+        ],
+        [
+            "David Bright",
+            "PERSON",
+            "Is_Member_Of",
+            "Entegra Financial Corp.",
+            "ORG"
+        ]
+    ]
+}

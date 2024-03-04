@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "ChIPs",
+            "ORG",
+            "Is_Member_Of",
+            "Michelle K. Lee",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Has",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Board of Directors",
+            "ORG",
+            "Vote",
+            "Michelle K. Lee",
+            "PERSON"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Founding_Member_Of",
+            "ChIPs",
+            "ORG"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Role",
+            "Patent office",
+            "ORG/GOV"
+        ],
+        [
+            "Patent office",
+            "ORG/GOV",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Appointment",
+            "Undersecretary of Commerce",
+            "ORG/GOV"
+        ],
+        [
+            "Undersecretary of Commerce",
+            "ORG/GOV",
+            "Director",
+            "USPTO",
+            "ORG/GOV"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Step_Down",
+            "PTO",
+            "ORG/GOV"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Volunteer",
+            "ChIPs",
+            "ORG"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Honor",
+            "Hall of Fame",
+            "ORG"
+        ],
+        [
+            "Michelle K. Lee",
+            "PERSON",
+            "Teach",
+            "Stanford Law School",
+            "ORG"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Honor",
+            "Michelle K. Lee",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Leave_Board",
+            "Julie Mar-Spinola",
+            "PERSON"
+        ],
+        [
+            "Julie Mar-Spinola",
+            "PERSON",
+            "Board_Chair_Emeritus",
+            "ChIPs",
+            "ORG"
+        ],
+        [
+            "Julie Mar-Spinola",
+            "PERSON",
+            "Work",
+            "ChIPs",
+            "ORG"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Addition",
+            "Dorian Daley",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Number_of_Members",
+            "Seven",
+            "CONCEPT"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Advance",
+            "Women",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Connect",
+            "Women",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Accelerate",
+            "Innovation",
+            "CONCEPT"
+        ]
+    ]
+}

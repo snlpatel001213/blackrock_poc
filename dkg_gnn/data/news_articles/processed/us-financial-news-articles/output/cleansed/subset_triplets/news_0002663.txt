@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Study",
+            "EVENT",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Impact",
+            "Heart Disease Risk",
+            "CONCEPT"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Impact",
+            "Type 2 Diabetes Risk",
+            "CONCEPT"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Relate_To",
+            "Coronary Heart Disease Risk",
+            "CONCEPT"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Relate_To",
+            "Type 2 Diabetes Risk",
+            "CONCEPT"
+        ],
+        [
+            "Consumption",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Children\u2019s Health",
+            "CONCEPT"
+        ]
+    ]
+}

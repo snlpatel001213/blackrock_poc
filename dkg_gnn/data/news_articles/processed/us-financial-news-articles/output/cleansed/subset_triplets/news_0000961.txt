@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Cascade Water Services",
+            "ORG",
+            "Operate_In",
+            "U.S. Institutional Market",
+            "SECTOR"
+        ],
+        [
+            "Ecolab Inc.",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Has",
+            "Twitter Account",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Has",
+            "Facebook Account",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Has",
+            "LinkedIn Account",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Has",
+            "Instagram Account",
+            "PRODUCT"
+        ]
+    ]
+}

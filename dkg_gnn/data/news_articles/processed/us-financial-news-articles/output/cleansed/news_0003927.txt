@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "US Private Sector",
+            "ORG",
+            "Add",
+            "250,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Private Sector",
+            "ORG",
+            "Exceed",
+            "190,000 jobs estimate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Private Sector",
+            "ORG",
+            "Operate_In",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Announce",
+            "250,000 jobs addition",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Announce",
+            "190,000 jobs estimate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December",
+            "EVENT",
+            "Relate_To",
+            "250,000 jobs addition",
+            "ECON_INDICATOR"
+        ],
+        [
+            "March",
+            "EVENT",
+            "Relate_To",
+            "Best job creation month",
+            "EVENT"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Hire",
+            "250,000 new workers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Exceed",
+            "190,000 jobs estimate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2017",
+            "EVENT",
+            "Has",
+            "2.54 million private payroll growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Professional and business services",
+            "SECTOR",
+            "Add",
+            "72,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Education and health services sector",
+            "SECTOR",
+            "Add",
+            "50,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trade, transportation and utilities",
+            "SECTOR",
+            "Contribute",
+            "45,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wall Street-related payrolls",
+            "SECTOR",
+            "Grow",
+            "19,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Information services sector",
+            "SECTOR",
+            "Lose",
+            "4,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Businesses with between 50 and 499 employees",
+            "ORG",
+            "Add",
+            "100,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Small firms",
+            "ORG",
+            "Hire",
+            "94,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Large companies",
+            "ORG",
+            "Contribute",
+            "56,000 to the total",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Service-related companies",
+            "SECTOR",
+            "Responsible for",
+            "222,000 new hires",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Goods-producing industries",
+            "SECTOR",
+            "Add",
+            "25,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Construction",
+            "SECTOR",
+            "Grow",
+            "16,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manufacturing",
+            "SECTOR",
+            "Grow",
+            "9,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Release",
+            "Nonfarm payrolls report",
+            "EVENT"
+        ],
+        [
+            "Economists",
+            "ORG",
+            "Expect",
+            "189,000 jobs addition",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment rate",
+            "ECON_INDICATOR",
+            "Likely stay",
+            "4.1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Watch",
+            "Wages component",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salaries",
+            "ECON_INDICATOR",
+            "Slow to rise",
+            "Despite full employment",
+            "CONCEPT"
+        ],
+        [
+            "Average hourly earnings",
+            "ECON_INDICATOR",
+            "Projected to rise",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

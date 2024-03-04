@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Caitlin Coleman",
+            "PERSON",
+            "Relate_To",
+            "Joshua Boyle",
+            "PERSON"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Has",
+            "Three_Children",
+            "CONCEPT"
+        ],
+        [
+            "Justin Trudeau",
+            "PERSON",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ]
+    ]
+}

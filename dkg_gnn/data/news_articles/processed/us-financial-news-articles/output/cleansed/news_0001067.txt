@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "German police",
+            "ORG/GOV",
+            "Accuse",
+            "AfD lawmaker",
+            "PERSON"
+        ],
+        [
+            "AfD lawmaker",
+            "PERSON",
+            "Participates_In",
+            "Incitement",
+            "CONCEPT"
+        ],
+        [
+            "Incitement",
+            "CONCEPT",
+            "Relate_To",
+            "Hatred",
+            "CONCEPT"
+        ],
+        [
+            "AfD lawmaker",
+            "PERSON",
+            "Investigated_For",
+            "Possible incitement to hatred",
+            "CONCEPT"
+        ],
+        [
+            "Police force",
+            "ORG",
+            "Tweet",
+            "In Arabic",
+            "LANGUAGE"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "ORG",
+            "Has",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "ORG",
+            "Has",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "ORG",
+            "Control",
+            "INC.",
+            "ORG/GOV"
+        ],
+        [
+            "Intel Corp",
+            "ORG",
+            "Impact",
+            "Security Issues",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "Security Research",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "ORG",
+            "Relate_To",
+            "Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Produce",
+            "Patches",
+            "CONCEPT"
+        ]
+    ]
+}

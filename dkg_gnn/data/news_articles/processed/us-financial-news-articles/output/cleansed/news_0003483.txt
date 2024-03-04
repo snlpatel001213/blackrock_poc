@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "ServiceNow",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Operate_In",
+            "NYSE",
+            "ORG"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Begin",
+            "2 p.m.",
+            "TIME"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Listen",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Access",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Available",
+            "Two Hours",
+            "TIME"
+        ],
+        [
+            "Audio Replay",
+            "EVENT",
+            "Accessible",
+            "30 Days",
+            "TIME"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Make",
+            "Work Better",
+            "CONCEPT"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Automate",
+            "Business Processes",
+            "CONCEPT"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Predict",
+            "Digitize",
+            "CONCEPT"
+        ],
+        [
+            "ServiceNow",
+            "COMP",
+            "Optimize",
+            "Business Tasks",
+            "CONCEPT"
+        ]
+    ]
+}

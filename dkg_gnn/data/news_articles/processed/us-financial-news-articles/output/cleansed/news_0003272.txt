@@ -1,0 +1,234 @@
+{
+    "output": [
+        [
+            "Small business owners",
+            "PERSON",
+            "Participates_In",
+            "2018",
+            "GPE"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Have",
+            "Taxes questions",
+            "CONCEPT"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Optimistic",
+            "Profiting",
+            "CONCEPT"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Mindful",
+            "Sexual harassment issue",
+            "CONCEPT"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Need to know",
+            "Taxes impact",
+            "CONCEPT"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Need to know",
+            "Sexual harassment policies",
+            "CONCEPT"
+        ],
+        [
+            "Small business owners",
+            "PERSON",
+            "Need to know",
+            "Minimum wage rises",
+            "CONCEPT"
+        ],
+        [
+            "Taxes",
+            "CONCEPT",
+            "Changes rates",
+            "Small business owners",
+            "PERSON"
+        ],
+        [
+            "Taxes",
+            "CONCEPT",
+            "Benefits",
+            "Not across the board",
+            "CONCEPT"
+        ],
+        [
+            "Taxes",
+            "CONCEPT",
+            "Affect",
+            "Some owners",
+            "PERSON"
+        ],
+        [
+            "IRS",
+            "ORG",
+            "Must write",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Section 179 deduction",
+            "CONCEPT",
+            "Double",
+            "$1 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IRS",
+            "ORG",
+            "Set",
+            "Standard mileage rate",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Maintain",
+            "Robust expansion",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Affect",
+            "Small business owners profits",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Affect",
+            "Small business owners optimism",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "May not translate",
+            "More jobs",
+            "CONCEPT"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Stick",
+            "Conservative hiring patterns",
+            "CONCEPT"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Plan to add",
+            "Staffers",
+            "PERSON"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Need significant revenue increase",
+            "Hire",
+            "CONCEPT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Feel fine",
+            "Spending",
+            "CONCEPT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Affect",
+            "Small businesses",
+            "PERSON"
+        ],
+        [
+            "Stock market",
+            "CONCEPT",
+            "Extend big 2017 advance",
+            "Affect",
+            "Consumers"
+        ],
+        [
+            "Unpredictable events",
+            "CONCEPT",
+            "Hurt spending",
+            "Affect",
+            "Small businesses"
+        ],
+        [
+            "Health care plans",
+            "CONCEPT",
+            "Set",
+            "2018",
+            "GPE"
+        ],
+        [
+            "Companies",
+            "PERSON",
+            "Sign up",
+            "Group insurance",
+            "CONCEPT"
+        ],
+        [
+            "Small Business Health Options Program",
+            "ORG",
+            "No longer able",
+            "Sign up",
+            "CONCEPT"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Have",
+            "Employee handbooks",
+            "CONCEPT"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Update",
+            "Employee handbooks",
+            "CONCEPT"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Create",
+            "Employee handbooks",
+            "CONCEPT"
+        ],
+        [
+            "Minimum wage rises",
+            "CONCEPT",
+            "Affect",
+            "Small businesses",
+            "PERSON"
+        ],
+        [
+            "Minimum wage rises",
+            "CONCEPT",
+            "Three-fifths",
+            "Workers",
+            "PERSON"
+        ],
+        [
+            "Minimum wage rises",
+            "CONCEPT",
+            "Restaurants or food service businesses",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Iyah Romm",
+            "PERSON",
+            "Is_Member_Of",
+            "Cityblock Health",
+            "ORG"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Raise",
+            "$20 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Operate_In",
+            "Brooklyn, New York",
+            "GPE"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Operate_In",
+            "Urban Hubs",
+            "GPE"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Introduce",
+            "Commons",
+            "PRODUCT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Participates_In",
+            "Medicaid",
+            "SECTOR"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Control",
+            "Low-income Patients",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Has",
+            "Technologists",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Has",
+            "Nonprofit Experts",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Has",
+            "Community Health Experts",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Named_To_Board",
+            "Andy Slavitt",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Named_To_Board",
+            "Halle Tecco",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Named_To_Board",
+            "Jeff Hammerbacher",
+            "PERSON"
+        ],
+        [
+            "Alphabet",
+            "ORG",
+            "Has_Subsidiary",
+            "Sidewalk Labs",
+            "ORG"
+        ],
+        [
+            "Sidewalk Labs",
+            "ORG",
+            "Operate_In",
+            "Toronto Waterfront",
+            "GPE"
+        ],
+        [
+            "Sidewalk Labs",
+            "ORG",
+            "Invest_In",
+            "Cityblock Health",
+            "ORG"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Will_Treat",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Provide",
+            "Social Services",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Provide",
+            "Affordable Housing",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Relate_To",
+            "Emergency Room",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Impact_On",
+            "Healthcare Costs",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Make_Money",
+            "Risk",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Deliver",
+            "Affordable Care",
+            "CONCEPT"
+        ],
+        [
+            "Cityblock Health",
+            "ORG",
+            "Improve",
+            "Outcomes",
+            "CONCEPT"
+        ],
+        [
+            "Maverick Capital Ventures",
+            "ORG",
+            "Invest_In",
+            "Cityblock Health",
+            "ORG"
+        ],
+        [
+            "Thrive Capital",
+            "ORG",
+            "Invest_In",
+            "Cityblock Health",
+            "ORG"
+        ]
+    ]
+}

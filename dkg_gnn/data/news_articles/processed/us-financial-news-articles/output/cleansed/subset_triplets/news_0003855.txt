@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Krystal Company",
+            "ORG",
+            "Announce",
+            "Berry L. Epley",
+            "PERSON"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Operate_In",
+            "Food & Beverage Industry",
+            "SECTOR"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Has",
+            "Omar Janjua",
+            "PERSON"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Impact",
+            "Quality and Value",
+            "CONCEPT"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Impact",
+            "Guest Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Positive_Impact_On",
+            "Krystal Company",
+            "ORG"
+        ]
+    ]
+}

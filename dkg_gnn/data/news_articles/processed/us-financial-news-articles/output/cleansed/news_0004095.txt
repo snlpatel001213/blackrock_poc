@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Abigail Marsh",
+            "PERSON",
+            "Is_Member_Of",
+            "Georgetown University",
+            "ORG"
+        ],
+        [
+            "Abigail Marsh",
+            "PERSON",
+            "Author",
+            "The Fear Factor",
+            "PRODUCT"
+        ],
+        [
+            "Abigail Marsh",
+            "PERSON",
+            "Spoken_With",
+            "Marc Myers",
+            "PERSON"
+        ]
+    ]
+}

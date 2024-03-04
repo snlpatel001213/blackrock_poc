@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Relate_To",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Announce",
+            "Benefits of Tax Cuts",
+            "CONCEPT"
+        ]
+    ]
+}

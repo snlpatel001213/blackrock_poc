@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Announce",
+            "Dividend Distributions",
+            "EVENT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Daily Prices",
+            "CONCEPT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Net Asset Values",
+            "CONCEPT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Shares",
+            "CONCEPT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Shareholder_Servicing_Agent",
+            "(855) 456-9683",
+            "ORG"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Rename",
+            "MainStay MacKay DefinedTerm Municipal Opportunities Fund",
+            "COMP"
+        ],
+        [
+            "MainStay",
+            "ORG",
+            "Own",
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP"
+        ],
+        [
+            "MainStay",
+            "ORG",
+            "Indirect_Wholly_Owned_Subsidiary",
+            "New York Life Insurance Company",
+            "ORG/GOV"
+        ],
+        [
+            "New York Life Insurance Company",
+            "ORG/GOV",
+            "Wholly_Own",
+            "MacKay Shields LLC",
+            "ORG"
+        ],
+        [
+            "MacKay Shields LLC",
+            "ORG",
+            "Serve",
+            "Fund\u2019s Investment Sub-Advisor",
+            "ORG"
+        ],
+        [
+            "MacKay Shields LLC",
+            "ORG",
+            "Manage",
+            "Fixed Income and Equity Strategies",
+            "CONCEPT"
+        ],
+        [
+            "MacKay Shields LLC",
+            "ORG",
+            "Has",
+            "Assets Under Management",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allison Scott",
+            "PERSON",
+            "Media_Contact",
+            "New York Life",
+            "ORG"
+        ],
+        [
+            "Investors",
+            "CONCEPT",
+            "Contact",
+            "(855) 456-9683",
+            "ORG"
+        ]
+    ]
+}

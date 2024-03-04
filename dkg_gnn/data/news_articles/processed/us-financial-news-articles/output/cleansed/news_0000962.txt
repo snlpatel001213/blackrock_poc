@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "People's Bank of China (PBOC)",
+            "ORG/GOV",
+            "Set",
+            "Yuan",
+            "CURRENCY"
+        ],
+        [
+            "People's Bank of China (PBOC)",
+            "ORG/GOV",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Raise",
+            "6.5 per dollar level",
+            "CURRENCY"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Impact",
+            "Corporate demand for dollar",
+            "CURRENCY"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Market sentiment",
+            "CONCEPT"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Central bank policy",
+            "CONCEPT"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Export",
+            "SECTOR"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Foreign exchange market",
+            "SECTOR"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Thomson Reuters/HKEX Global CNH index",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Global dollar index",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Offshore yuan",
+            "CURRENCY",
+            "Trade",
+            "0.01 percent firmer than onshore spot",
+            "CURRENCY"
+        ],
+        [
+            "Offshore yuan",
+            "CURRENCY",
+            "Relate_To",
+            "One-year non-deliverable forwards contracts",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

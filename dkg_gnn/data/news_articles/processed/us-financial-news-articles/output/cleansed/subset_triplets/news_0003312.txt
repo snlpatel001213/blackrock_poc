@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Compass Group Plc",
+            "ORG",
+            "Control",
+            "Richard Cousins",
+            "PERSON"
+        ],
+        [
+            "Richard Cousins",
+            "PERSON",
+            "Is_Member_Of",
+            "Compass Group Plc",
+            "ORG"
+        ],
+        [
+            "Sydney Seaplanes",
+            "ORG",
+            "Operate_In",
+            "Sydney",
+            "GPE"
+        ],
+        [
+            "Sydney Seaplanes",
+            "ORG",
+            "Produce",
+            "Seaplane",
+            "PRODUCT"
+        ],
+        [
+            "Seaplane",
+            "PRODUCT",
+            "Raise",
+            "Investigation",
+            "CONCEPT"
+        ]
+    ]
+}

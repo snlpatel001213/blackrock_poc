@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Cramer",
+            "PERSON",
+            "Raise",
+            "Ametek",
+            "COMP"
+        ],
+        [
+            "Ametek",
+            "COMP",
+            "Is_Member_Of",
+            "Stock Market",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

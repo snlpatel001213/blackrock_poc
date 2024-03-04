@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "University of Oregon",
+            "GPE",
+            "Has",
+            "Improvised message",
+            "CONCEPT"
+        ],
+        [
+            "Improvised message",
+            "CONCEPT",
+            "Relate_To",
+            "Buy bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Request",
+            "CONCEPT",
+            "Relate_To",
+            "List bitcoin-related ETFs",
+            "CONCEPT"
+        ],
+        [
+            "ETFs",
+            "PRODUCT",
+            "Operate_In",
+            "Underlying market",
+            "SECTOR"
+        ],
+        [
+            "Filings",
+            "CONCEPT",
+            "Relate_To",
+            "Bitcoin market",
+            "CONCEPT"
+        ]
+    ]
+}

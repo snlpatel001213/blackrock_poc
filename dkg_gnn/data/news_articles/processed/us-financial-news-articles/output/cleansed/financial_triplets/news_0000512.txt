@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sinclair Broadcast Group, Inc.",
+            "ORG",
+            "Announce",
+            "Robert Truman",
+            "PERSON"
+        ],
+        [
+            "Robert Truman",
+            "PERSON",
+            "Operate_In",
+            "Portland, Oregon",
+            "GPE"
+        ],
+        [
+            "Robert Truman",
+            "PERSON",
+            "Is_Member_Of",
+            "Sinclair",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,187 @@
+{
+    "output": [
+        [
+            "Emma Hinchliffe",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Decision",
+            "Marijuana Legalization",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General Jeff Sessions",
+            "PERSON",
+            "Announce",
+            "Marijuana Policy",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Cory Gardner",
+            "PERSON",
+            "Criticize",
+            "Sessions\u2019 Marijuana Policy",
+            "CONCEPT"
+        ],
+        [
+            "Then-Sen. Sessions",
+            "PERSON",
+            "Promise",
+            "Colleague",
+            "PERSON"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Agenda",
+            "Marijuana",
+            "CONCEPT"
+        ],
+        [
+            "DOJ Nominees",
+            "ORG/GOV",
+            "Hold",
+            "Sen. Cory Gardner",
+            "PERSON"
+        ],
+        [
+            "Federal Prosecutors",
+            "ORG/GOV",
+            "Enforce",
+            "Federal Laws",
+            "CONCEPT"
+        ],
+        [
+            "Department of Justice",
+            "ORG/GOV",
+            "Decline",
+            "Enforce Federal Drug Law",
+            "CONCEPT"
+        ],
+        [
+            "Cole Memo",
+            "CONCEPT",
+            "Directive",
+            "Federal Prosecutors",
+            "ORG/GOV"
+        ],
+        [
+            "Sen. Kirsten Gillibrand",
+            "PERSON",
+            "Criticize",
+            "Sessions\u2019 Decision",
+            "ACT"
+        ],
+        [
+            "Medical Marijuana",
+            "PRODUCT",
+            "Legal",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Recreational Marijuana",
+            "PRODUCT",
+            "Not Legal",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Patients",
+            "PERSON",
+            "Rely",
+            "Medical Marijuana",
+            "PRODUCT"
+        ],
+        [
+            "Sen. Lisa Murkowski",
+            "PERSON",
+            "Criticize",
+            "Sessions\u2019 Legal Marijuana Decision",
+            "CONCEPT"
+        ],
+        [
+            "Vermont Representatives",
+            "ORG",
+            "Vote",
+            "Legalize Recreational Marijuana",
+            "CONCEPT"
+        ],
+        [
+            "State Senate",
+            "ORG",
+            "Proposal",
+            "Sent",
+            "Republican Governor",
+            "PERSON"
+        ],
+        [
+            "Vermont",
+            "GPE",
+            "Steps",
+            "Legalize Weed",
+            "PRODUCT"
+        ],
+        [
+            "Sen. Bernie Sanders",
+            "PERSON",
+            "Add",
+            "Chorus of Voices",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana",
+            "PRODUCT",
+            "Not Same",
+            "Heroin",
+            "PRODUCT"
+        ],
+        [
+            "Marijuana Laws",
+            "CONCEPT",
+            "Violate",
+            "Principles",
+            "CONCEPT"
+        ],
+        [
+            "Ideals of Equal Justice",
+            "CONCEPT",
+            "Dash",
+            "Marijuana Enforcement",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana Justice Act",
+            "CONCEPT",
+            "Introduce",
+            "Sen. Cory Booker",
+            "PERSON"
+        ],
+        [
+            "Jeff Sessions",
+            "PERSON",
+            "Revive",
+            "War on Drugs",
+            "CONCEPT"
+        ],
+        [
+            "Low-Income Americans",
+            "PERSON",
+            "Devastate",
+            "War on Drugs",
+            "CONCEPT"
+        ],
+        [
+            "Communities of Color",
+            "PERSON",
+            "Impact",
+            "War on Drugs",
+            "CONCEPT"
+        ]
+    ]
+}

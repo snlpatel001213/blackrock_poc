@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Greenpeace",
+            "ORG",
+            "Participates_In",
+            "Lawsuit",
+            "ORG"
+        ],
+        [
+            "Nature and Youth Group",
+            "ORG",
+            "Participates_In",
+            "Lawsuit",
+            "ORG"
+        ],
+        [
+            "Statoil",
+            "COMP",
+            "Control",
+            "Oil Exploration",
+            "ORG"
+        ],
+        [
+            "Chevron",
+            "COMP",
+            "Control",
+            "Oil Exploration",
+            "ORG"
+        ]
+    ]
+}

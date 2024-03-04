@@ -1,0 +1,112 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Medical Device Tax",
+            "ORG/REG"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Back_in_Effect",
+            "2018-01-02",
+            "DATE"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Suspended",
+            "2015",
+            "DATE"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Relate_To",
+            "Affordable Care Act",
+            "ORG/GOV"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Raise",
+            "30 billion",
+            "ECON_INDICATOR",
+            "over",
+            "10 years",
+            "TIME"
+        ],
+        [
+            "U.S. Congress",
+            "ORG/GOV",
+            "Approve",
+            "Suspension",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Congress",
+            "ORG/GOV",
+            "Failed",
+            "Last-ditch efforts",
+            "CONCEPT"
+        ],
+        [
+            "Republicans",
+            "ORG/GOV",
+            "Crafted",
+            "Tax legislation",
+            "ORG/REG"
+        ],
+        [
+            "Republicans",
+            "ORG/GOV",
+            "Kill",
+            "Tax",
+            "ORG/REG",
+            "if",
+            "Repeal",
+            "Obamacare",
+            "ORG/GOV"
+        ],
+        [
+            "Supporters",
+            "ORG/GOV",
+            "Say",
+            "Help",
+            "PRODUCT",
+            "provide",
+            "health insurance",
+            "PRODUCT"
+        ],
+        [
+            "Critics",
+            "ORG/GOV",
+            "Vowed",
+            "Keep fighting",
+            "CONCEPT",
+            "levy"
+        ],
+        [
+            "Advanced Medical Technology Association",
+            "ORG",
+            "Lobbying group",
+            "Say",
+            "Significant negative impact",
+            "CONCEPT",
+            "on medical innovation",
+            "CONCEPT"
+        ],
+        [
+            "Advanced Medical Technology Association",
+            "ORG",
+            "Lobbying group",
+            "Result",
+            "Loss or deferred creation",
+            "CONCEPT",
+            "of jobs",
+            "CONCEPT"
+        ]
+    ]
+}

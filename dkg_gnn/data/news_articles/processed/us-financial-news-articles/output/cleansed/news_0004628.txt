@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Ships",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Automobiles",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Electronics",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Foreign Exchange Authorities",
+            "ORG"
+        ],
+        [
+            "Foreign Exchange Authorities",
+            "ORG",
+            "Look_Into",
+            "Ways to spur investment abroad",
+            "CONCEPT"
+        ],
+        [
+            "Foreign Exchange Authorities",
+            "ORG",
+            "Conduct",
+            "Market operations to curb volatility",
+            "CONCEPT"
+        ],
+        [
+            "Finance Ministry",
+            "ORG",
+            "Responsible_For",
+            "Foreign exchange regulation",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Offer",
+            "Tax exemptions on investment gains",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Expire",
+            "Tax exemptions scheme",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Posted",
+            "Current account surpluses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Kept",
+            "On a monitoring list",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Memory chips",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Cars",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Petrochemical products",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "$573.9 billion",
+            "VALUE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Goods",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Value of goods sold",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Highest on record",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Slowing from 15.8% growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Exports growing 4% this year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Export",
+            "Point of pain for local manufacturers",
+            "CONCEPT"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Rise",
+            "13% last year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Rise",
+            "Best annual gain in 13 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Weaken",
+            "0.3% against the dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Snap",
+            "Six days of gains",
+            "CONCEPT"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Close",
+            "Just below its three-year high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Hurt",
+            "Demand for South Korean cars",
+            "CONCEPT"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Compared",
+            "With Honda\u2019s Accord",
+            "PRODUCT"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Level",
+            "10% in 2011",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Won",
+            "CURRENCY",
+            "Level",
+            "2% cheaper than Honda\u2019s Accord",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Think tank",
+            "ORG"
+        ],
+        [
+            "Think tank",
+            "ORG",
+            "Flag",
+            "Risks from the won\u2019s strength",
+            "CONCEPT"
+        ],
+        [
+            "Think tank",
+            "ORG",
+            "Warn",
+            "Current levels could hurt demand",
+            "CONCEPT"
+        ],
+        [
+            "Think tank",
+            "ORG",
+            "Cite",
+            "Hyundai Sonata sedan",
+            "PRODUCT"
+        ],
+        [
+            "Think tank",
+            "ORG",
+            "Director",
+            "Lee Bo-sung",
+            "PERSON"
+        ]
+    ]
+}

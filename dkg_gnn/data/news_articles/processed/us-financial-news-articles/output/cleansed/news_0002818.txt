@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "Vale S.A.",
+            "COMP",
+            "Negotiate",
+            "BHP Billiton Ltd",
+            "COMP"
+        ],
+        [
+            "Vale S.A.",
+            "COMP",
+            "Consider",
+            "Buy out",
+            "null",
+            "PARTNER",
+            "Samarco Minera\u00e7\u00e3o SA",
+            "ORG"
+        ],
+        [
+            "Samarco Minera\u00e7\u00e3o SA",
+            "ORG",
+            "Operate_In",
+            "Iron-ore",
+            "SECTOR"
+        ],
+        [
+            "Samarco Minera\u00e7\u00e3o SA",
+            "ORG",
+            "Not_Operate",
+            "null",
+            "null"
+        ],
+        [
+            "Vale S.A.",
+            "COMP",
+            "Think",
+            "Samarco Can Return",
+            "null",
+            "OWNER",
+            "Sole",
+            "null"
+        ],
+        [
+            "Samarco Minera\u00e7\u00e3o SA",
+            "ORG",
+            "Win",
+            "Preliminary Permits",
+            "null"
+        ],
+        [
+            "Samarco Minera\u00e7\u00e3o SA",
+            "ORG",
+            "Not_Allowed",
+            "Restart",
+            "null"
+        ]
+    ]
+}

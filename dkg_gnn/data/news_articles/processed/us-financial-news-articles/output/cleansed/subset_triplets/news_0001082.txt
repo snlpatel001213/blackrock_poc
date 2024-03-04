@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Next",
+            "COMP",
+            "Operate_In",
+            "UK Clothing Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Raise",
+            "Full-year Profit Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Has",
+            "500 Stores",
+            "COMP"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Operate_In",
+            "UK and Ireland",
+            "GPE"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Operate_In",
+            "Directory Internet and Home Shopping Business",
+            "PRODUCT"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Has",
+            "Online Sales",
+            "SECTOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Has",
+            "Store Sales",
+            "SECTOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Impact",
+            "Cost Price Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Impact",
+            "Profit Decline",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Impact",
+            "Share Buyback",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Next",
+            "COMP",
+            "Impact",
+            "Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Lewis",
+            "COMP",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ]
+    ]
+}

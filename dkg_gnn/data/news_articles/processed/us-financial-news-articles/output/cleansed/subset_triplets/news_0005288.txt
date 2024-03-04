@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "John Young",
+            "PERSON",
+            "Has",
+            "NASA",
+            "ORG/GOV"
+        ],
+        [
+            "NASA",
+            "ORG/GOV",
+            "Operate_In",
+            "Space",
+            "GPE"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Moon Walk",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Impact",
+            "NASA",
+            "ORG/GOV"
+        ]
+    ]
+}

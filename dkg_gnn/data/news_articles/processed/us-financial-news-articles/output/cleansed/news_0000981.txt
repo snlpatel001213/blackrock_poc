@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Imperva Inc.",
+            "COMP",
+            "Appoint",
+            "Mike Burns",
+            "PERSON"
+        ],
+        [
+            "Mike Burns",
+            "PERSON",
+            "Be",
+            "CFO",
+            "ORG/REG"
+        ],
+        [
+            "Imperva Inc.",
+            "COMP",
+            "Operate_In",
+            "Cybersecurity Sector",
+            "SECTOR"
+        ]
+    ]
+}

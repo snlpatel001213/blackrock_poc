@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Announce",
+            "Open up nearly all the country\u2019s offshore areas for oil drilling",
+            "EVENT"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Is_Member_Of",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Announce",
+            "Plan to open 90% of offshore areas for drilling starting in 2019",
+            "EVENT"
+        ],
+        [
+            "Interior Department",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

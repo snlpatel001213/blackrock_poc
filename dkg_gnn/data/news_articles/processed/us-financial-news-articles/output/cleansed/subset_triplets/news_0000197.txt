@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Announce",
+            "Pricing",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Produce",
+            "7000000 Shares",
+            "COMP"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Control",
+            "Common Stock",
+            "PRODUCT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Operate_In",
+            "Nasdaq:ATRA",
+            "COMP"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Control",
+            "30-day Option",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Has",
+            "Shelf Registration Statement",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Has",
+            "Base Prospectus",
+            "EVENT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Has",
+            "Preliminary Prospectus Supplement",
+            "EVENT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Has",
+            "Final Prospectus Supplement",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Operate_In",
+            "Cancer, Autoimmune and Viral Diseases Sector",
+            "SECTOR"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Relate_To",
+            "Market Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Relate_To",
+            "Customary Closing Conditions",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Has",
+            "Risk Factors",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Has",
+            "Quarterly Report on Form 10-Q",
+            "EVENT"
+        ],
+        [
+            "Atara Biotherapeutics",
+            "ORG",
+            "Has",
+            "Preliminary Prospectus Supplement",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,1 @@
+{'output': [['FDA', 'ORG/GOV', 'Has', 'Gottlieb', 'PERSON'], ['Gottlieb', 'PERSON', 'Is_Member_Of', 'FDA', 'ORG/GOV'], ['FDA', 'ORG/GOV', 'Announce', 'goal', 'CONCEPT'], ['goal', 'CONCEPT', 'Relate_To', 'get generic drugs approved faster', 'CONCEPT']]}

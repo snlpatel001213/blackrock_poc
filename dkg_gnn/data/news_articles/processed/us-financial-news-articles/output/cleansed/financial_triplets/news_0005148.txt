@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Announce",
+            "preliminary, unaudited revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Operate_In",
+            "San Diego",
+            "GPE"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Produce",
+            "NASDAQ:OBLN",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Introduce",
+            "swallowable, gas-filled intragastric balloon system",
+            "PRODUCT"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Control",
+            "Obesity Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Relate_To",
+            "William Plovanic",
+            "PERSON"
+        ],
+        [
+            "Obalon Therapeutics, Inc.",
+            "ORG",
+            "Relate_To",
+            "Megan Driscoll",
+            "PERSON"
+        ]
+    ]
+}

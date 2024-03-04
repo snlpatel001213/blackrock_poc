@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "ZS",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Forecasting",
+            "SECTOR"
+        ],
+        [
+            "BASES Pharmaceutical Forecasting",
+            "ORG",
+            "Has",
+            "Pharmaceutical Launch Product",
+            "PRODUCT"
+        ],
+        [
+            "BASES Pharmaceutical Forecasting",
+            "ORG",
+            "Has",
+            "Direct-to-consumer Forecasting Tools",
+            "PRODUCT"
+        ],
+        [
+            "BASES Pharmaceutical Forecasting",
+            "ORG",
+            "Has",
+            "Proprietary Normative Databases",
+            "PRODUCT"
+        ],
+        [
+            "BASES Pharmaceutical Forecasting",
+            "ORG",
+            "Participates_In",
+            "Pharmaceutical Forecasting",
+            "SECTOR"
+        ],
+        [
+            "ZS",
+            "ORG",
+            "Positive_Impact_On",
+            "Clients",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Ant Financial",
+            "COMP",
+            "Announce",
+            "MoneyGram Acquisition",
+            "ORG"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "MoneyGram",
+            "ORG",
+            "Operate_In",
+            "Financial Services",
+            "SECTOR"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Control",
+            "MoneyGram",
+            "ORG"
+        ],
+        [
+            "MoneyGram",
+            "ORG",
+            "Participates_In",
+            "Remittance Business",
+            "CONCEPT"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Impact",
+            "Remittance Business",
+            "CONCEPT"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Negative_Impact_On",
+            "MoneyGram Stock Value",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

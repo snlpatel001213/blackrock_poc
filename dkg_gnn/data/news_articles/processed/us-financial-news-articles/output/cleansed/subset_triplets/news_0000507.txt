@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Logan Paul",
+            "PERSON",
+            "Operate_In",
+            "YouTube",
+            "ORG"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Produce",
+            "Video",
+            "PRODUCT"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Negative_Impact_On",
+            "Followers",
+            "PERSON"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Negative_Impact_On",
+            "YouTube",
+            "ORG"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Relate_To",
+            "Suicide",
+            "CONCEPT"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Relate_To",
+            "Aokigahara forest",
+            "GPE"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Is_Member_Of",
+            "Social Media Influencers",
+            "SECTOR"
+        ]
+    ]
+}

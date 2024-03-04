@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Brian Gaiser",
+            "PERSON",
+            "Participates_In",
+            "Director of International Sales",
+            "ORG"
+        ],
+        [
+            "FrontRow",
+            "ORG",
+            "Operate_In",
+            "Ed Tech Sector",
+            "SECTOR"
+        ],
+        [
+            "FrontRow",
+            "ORG",
+            "Invests_In",
+            "International Business",
+            "ORG"
+        ],
+        [
+            "FrontRow",
+            "ORG",
+            "Introduce",
+            "Localized Versions of ezRoom",
+            "PRODUCT"
+        ],
+        [
+            "Brian Gaiser",
+            "PERSON",
+            "Relate_To",
+            "Customer Relationships",
+            "ORG"
+        ]
+    ]
+}

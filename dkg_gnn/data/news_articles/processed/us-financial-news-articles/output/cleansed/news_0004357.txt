@@ -1,0 +1,77 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Economic_Expansion",
+            "null",
+            "null"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Inflation-Targetting",
+            "null",
+            "null"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Labor_Markets",
+            "null",
+            "null"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Labor_Markets",
+            "null"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Return",
+            "2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Expects",
+            "Three_More_Hikes",
+            "null"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Backed",
+            "Three_Hikes",
+            "null",
+            "in",
+            "2017",
+            "GPE"
+        ]
+    ]
+}

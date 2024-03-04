@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Monsanto Co",
+            "ORG",
+            "Has",
+            "Roundup",
+            "PRODUCT"
+        ],
+        [
+            "Monsanto Co",
+            "ORG",
+            "Operate_In",
+            "Glyphosate Market",
+            "SECTOR"
+        ],
+        [
+            "California",
+            "GPE",
+            "Operate_In",
+            "Glyphosate Market",
+            "SECTOR"
+        ]
+    ]
+}

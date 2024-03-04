@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Hospital",
+            "ORG"
+        ],
+        [
+            "New Report",
+            "EVENT",
+            "Announce",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Report",
+            "EVENT",
+            "Relate_To",
+            "Minnesota Department of Health",
+            "ORG/GOV"
+        ]
+    ]
+}

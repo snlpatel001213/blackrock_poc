@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Analyst",
+            "PERSON",
+            "Raise",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "API",
+            "ORG",
+            "Announce",
+            "US crude inventories fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Control",
+            "Output cuts",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "Freezing weather",
+            "EVENT",
+            "Impact",
+            "Short-term demand",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Cold weather",
+            "CONCEPT"
+        ]
+    ]
+}

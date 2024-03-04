@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "I",
+            "PERSON",
+            "Participates_In",
+            "Laundry Camp",
+            "EVENT"
+        ],
+        [
+            "Ten of her friends and relatives",
+            "PERSON",
+            "Participates_In",
+            "Laundry Camp",
+            "EVENT"
+        ],
+        [
+            "Myself",
+            "PERSON",
+            "Participates_In",
+            "Laundry Camp",
+            "EVENT"
+        ],
+        [
+            "Mona Williams",
+            "COMP",
+            "Operate_In",
+            "Mall of America",
+            "GPE"
+        ],
+        [
+            "Patric Richardson",
+            "PERSON",
+            "Is_Member_Of",
+            "Monas Williams",
+            "COMP"
+        ]
+    ]
+}

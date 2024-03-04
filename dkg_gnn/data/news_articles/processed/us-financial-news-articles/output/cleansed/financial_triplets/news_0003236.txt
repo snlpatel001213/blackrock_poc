@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Cyberinc",
+            "ORG",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Cyberinc",
+            "ORG",
+            "Has",
+            "IAM business",
+            "ORG"
+        ],
+        [
+            "IAM business",
+            "ORG",
+            "Is_Member_Of",
+            "Cyberinc",
+            "ORG"
+        ],
+        [
+            "IAM business",
+            "ORG",
+            "Has",
+            "190-person global team",
+            "PERSON"
+        ],
+        [
+            "IAM business",
+            "ORG",
+            "Has",
+            "Significant presence",
+            "GPE",
+            "and",
+            "Extensive experience",
+            "PERSON"
+        ]
+    ]
+}

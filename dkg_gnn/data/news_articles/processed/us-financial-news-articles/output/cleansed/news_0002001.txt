@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "IPsoft",
+            "ORG",
+            "Announce",
+            "Anurag Harsh",
+            "PERSON"
+        ],
+        [
+            "Anurag Harsh",
+            "PERSON",
+            "Operate_In",
+            "Technology Industry",
+            "SECTOR"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Control",
+            "Amelia",
+            "PRODUCT"
+        ],
+        [
+            "Amelia",
+            "PRODUCT",
+            "Is_Member_Of",
+            "AI Technology",
+            "CONCEPT"
+        ],
+        [
+            "Anurag Harsh",
+            "PERSON",
+            "Raise",
+            "Understanding of AI",
+            "CONCEPT"
+        ],
+        [
+            "Anurag Harsh",
+            "PERSON",
+            "Lead",
+            "Global Marketing Efforts",
+            "CONCEPT"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Trusted_By",
+            "1 in 5 of the Fortune 100",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Provide",
+            "Platform",
+            "CONCEPT"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Serve",
+            "Leading Brands",
+            "COMP"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Headquartered_In",
+            "New York City",
+            "GPE"
+        ]
+    ]
+}

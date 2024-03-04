@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Senate Democratic Leader Chuck Schumer",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Congressional Democratic Leaders",
+            "ORG"
+        ],
+        [
+            "House Democratic Leader Nancy Pelosi",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Congressional Democratic Leaders",
+            "ORG"
+        ],
+        [
+            "Senate Majority Leader Mitch McConnell",
+            "PERSON",
+            "Is_Member_Of",
+            "Leaders of Republican Majority",
+            "ORG"
+        ],
+        [
+            "House Speaker Paul Ryan",
+            "PERSON",
+            "Is_Member_Of",
+            "Leaders of Republican Majority",
+            "ORG"
+        ],
+        [
+            "Marc Short",
+            "PERSON",
+            "Is_Member_Of",
+            "White House Officials",
+            "ORG"
+        ],
+        [
+            "Mick Mulvaney",
+            "PERSON",
+            "Is_Member_Of",
+            "White House Officials",
+            "ORG"
+        ],
+        [
+            "Productive Meeting",
+            "EVENT",
+            "Relate_To",
+            "Spending Issues",
+            "CONCEPT"
+        ]
+    ]
+}

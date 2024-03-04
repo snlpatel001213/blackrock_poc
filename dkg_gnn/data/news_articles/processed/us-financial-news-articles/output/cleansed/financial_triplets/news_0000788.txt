@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "10 million barrel per day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Raise",
+            "Oil Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Oil Sector",
+            "SECTOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Produce",
+            "10.98 million bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Operate_In",
+            "Oil Sector",
+            "SECTOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Control",
+            "300,000 bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Relate_To",
+            "OPEC",
+            "ORG"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Participates_In",
+            "Oil Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "300,000 bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Oil Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Negative_Impact_On",
+            "Oil Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "Saxo Bank Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

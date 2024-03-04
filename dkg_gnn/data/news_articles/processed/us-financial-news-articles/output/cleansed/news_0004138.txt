@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "At least a dozen",
+            "CONCEPT",
+            "Impact",
+            "Dead",
+            "PERSON"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Located_In",
+            "Level Crossing",
+            "GPE"
+        ],
+        [
+            "Passenger Train",
+            "PRODUCT",
+            "Hit",
+            "Truck",
+            "PRODUCT"
+        ],
+        [
+            "At least a dozen",
+            "CONCEPT",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Involved_In",
+            "Train Crash",
+            "EVENT"
+        ]
+    ]
+}

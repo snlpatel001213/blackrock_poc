@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Sigmar Gabriel",
+            "PERSON",
+            "Express",
+            "Concern",
+            "CONCEPT"
+        ],
+        [
+            "German Foreign Minister",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Sigmar Gabriel",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Protesters Death",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Iranian Government",
+            "ORG/GOV",
+            "Respect",
+            "Rights",
+            "CONCEPT"
+        ],
+        [
+            "Iranian Government",
+            "ORG/GOV",
+            "Respect",
+            "Peaceful Voices",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "CONCEPT",
+            "Have",
+            "Tens Of Thousands",
+            "QUANTITY"
+        ],
+        [
+            "Protests",
+            "CONCEPT",
+            "Biggest",
+            "Since",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Have",
+            "Unrest",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Followed",
+            "Re-Election",
+            "CONCEPT"
+        ],
+        [
+            "Mahmoud Ahmadinejad",
+            "PERSON",
+            "Re-Election",
+            "President",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Confrontations",
+            "Recent Days",
+            "TIME"
+        ],
+        [
+            "Sides",
+            "CONCEPT",
+            "Refrain",
+            "Violent Actions",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Andrea Shalal",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "By",
+            "Robin Pomeroy",
+            "PERSON"
+        ]
+    ]
+}

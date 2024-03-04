@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Design Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Processor Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Participates_In",
+            "Smartphone Manufacturers",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Chancellor Angela Merkel",
+            "PERSON",
+            "Relate_To",
+            "German parties",
+            "GPE"
+        ],
+        [
+            "Chancellor Angela Merkel",
+            "PERSON",
+            "Participates_In",
+            "Coalition talks",
+            "EVENT"
+        ],
+        [
+            "Social Democrats (SPD)",
+            "GPE",
+            "Relate_To",
+            "German parties",
+            "GPE"
+        ],
+        [
+            "Social Democrats (SPD)",
+            "GPE",
+            "Participates_In",
+            "Coalition talks",
+            "EVENT"
+        ],
+        [
+            "grand coalition",
+            "CONCEPT",
+            "Participates_In",
+            "Coalition talks",
+            "EVENT"
+        ],
+        [
+            "grand coalition",
+            "CONCEPT",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "grand coalition",
+            "CONCEPT",
+            "Control",
+            "Germany",
+            "GPE"
+        ]
+    ]
+}

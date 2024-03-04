@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Veterans advocates",
+            "PERSON",
+            "Participates_In",
+            "Fight over aid for homeless vets",
+            "EVENT"
+        ],
+        [
+            "Lawmakers",
+            "PERSON",
+            "Participates_In",
+            "Fight over aid for homeless vets",
+            "EVENT"
+        ],
+        [
+            "Department of Veterans Affairs",
+            "ORG/GOV",
+            "Operate_In",
+            "WASHINGTON",
+            "GPE"
+        ],
+        [
+            "David Shulkin",
+            "PERSON",
+            "Control",
+            "Department of Veterans Affairs",
+            "ORG/GOV"
+        ],
+        [
+            "Program designed to help disabled vets",
+            "PRODUCT",
+            "Relate_To",
+            "Veterans programs",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "First Financial Bankshares, Inc.",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "First Financial Bankshares, Inc.",
+            "ORG",
+            "Operate_In",
+            "Texas",
+            "GPE"
+        ],
+        [
+            "First Financial Bankshares, Inc.",
+            "ORG",
+            "Issue",
+            "Shares of Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Commercial Bancshares, Inc.",
+            "ORG",
+            "Be_Acquired_By",
+            "First Financial Bankshares, Inc.",
+            "ORG"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Be_Acquired_By",
+            "First Financial Bankshares, Inc.",
+            "ORG"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Located_In",
+            "Kingwood",
+            "GPE"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Have",
+            "Total Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Have",
+            "Total Loans",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Have",
+            "Total Deposits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "F. Scott Dueser",
+            "PERSON",
+            "Is_Member_Of",
+            "First Financial Bankshares, Inc.",
+            "ORG"
+        ],
+        [
+            "F. Scott Dueser",
+            "PERSON",
+            "Say",
+            "Welcome",
+            "CONCEPT"
+        ],
+        [
+            "Harry J. Brooks",
+            "PERSON",
+            "Is_Member_Of",
+            "Commercial State Bank",
+            "ORG"
+        ],
+        [
+            "Harry J. Brooks",
+            "PERSON",
+            "Say",
+            "Larger Size",
+            "CONCEPT"
+        ],
+        [
+            "Harry J. Brooks",
+            "PERSON",
+            "Say",
+            "Successful Track Record",
+            "CONCEPT"
+        ],
+        [
+            "First Financial",
+            "ORG",
+            "Offer",
+            "New and Expanded Services",
+            "CONCEPT"
+        ],
+        [
+            "First Financial",
+            "ORG",
+            "Create",
+            "More Opportunity for Employees",
+            "CONCEPT"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Offer",
+            "Broader Range of Banking Products and Services",
+            "CONCEPT"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Continue",
+            "Same Friendly, Local Employees",
+            "CONCEPT"
+        ],
+        [
+            "Commercial State Bank",
+            "ORG",
+            "Continue",
+            "Same Strong Commitment to Local Community",
+            "CONCEPT"
+        ]
+    ]
+}

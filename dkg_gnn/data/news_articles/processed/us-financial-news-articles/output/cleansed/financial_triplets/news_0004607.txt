@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "nuclear program",
+            "CONCEPT"
+        ],
+        [
+            "Pyeongchang Winter Olympics",
+            "EVENT",
+            "Relate_To",
+            "talks",
+            "EVENT"
+        ],
+        [
+            "Tension",
+            "CONCEPT",
+            "Impact",
+            "North Korea and U.N. Security Council resolutions",
+            "ORG/REG"
+        ]
+    ]
+}

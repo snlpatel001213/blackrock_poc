@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "South Florida spec home",
+            "GPE",
+            "Listing",
+            "38 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Has",
+            "Glass-enclosed gym",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Has",
+            "Meditation garden",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Located_In",
+            "Gated community",
+            "ORG"
+        ],
+        [
+            "Gated community",
+            "ORG",
+            "Operate_In",
+            "La Gorce Island",
+            "GPE"
+        ],
+        [
+            "La Gorce Island",
+            "GPE",
+            "Located_In",
+            "Miami Beach",
+            "GPE"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Measures",
+            "About 11000 Square Feet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Has",
+            "7 Bedrooms",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Has",
+            "Swimming pool",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Has",
+            "Dock",
+            "CONCEPT"
+        ],
+        [
+            "Dock",
+            "CONCEPT",
+            "Located_On",
+            "Florida\u2019s Biscayne Bay",
+            "GPE"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Operate_In",
+            "Contemporary house",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Sold",
+            "Fully furnished",
+            "CONCEPT"
+        ],
+        [
+            "South Florida spec home",
+            "GPE",
+            "Developed_By",
+            "Thomas R. Danluck",
+            "PERSON"
+        ],
+        [
+            "Thomas R. Danluck",
+            "PERSON",
+            "Involved_In",
+            "Number of projects",
+            "CONCEPT"
+        ],
+        [
+            "Number of projects",
+            "CONCEPT",
+            "On",
+            "La Gorce Island",
+            "GPE"
+        ]
+    ]
+}

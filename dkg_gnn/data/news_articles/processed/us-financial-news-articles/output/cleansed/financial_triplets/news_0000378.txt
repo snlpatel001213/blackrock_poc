@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Impact",
+            "denuclearizing North Korea",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "United States",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "Japan",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Travelers",
+            "PERSON",
+            "Frustrated",
+            "Computers",
+            "ORG/GOV"
+        ],
+        [
+            "Computers",
+            "ORG/GOV",
+            "Go_Down",
+            "U.S. Airports",
+            "GPE"
+        ],
+        [
+            "U.S. Airports",
+            "GPE",
+            "Cause",
+            "Long Lines",
+            "CONCEPT"
+        ],
+        [
+            "Long Lines",
+            "CONCEPT",
+            "For",
+            "Travelers",
+            "PERSON"
+        ],
+        [
+            "Travelers",
+            "PERSON",
+            "Entering",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Country",
+            "GPE",
+            "After",
+            "Year-end Holidays",
+            "CONCEPT"
+        ],
+        [
+            "Customs and Border Protection",
+            "ORG/GOV",
+            "According",
+            "Narration",
+            "CONCEPT"
+        ]
+    ]
+}

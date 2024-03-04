@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Two held in Egyptian anti-gay crackdown are freed on bail",
+            "EVENT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Has",
+            "Conservative Muslim country",
+            "CONCEPT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Participates_In",
+            "Rare show of public support for LGBT rights",
+            "CONCEPT"
+        ]
+    ]
+}

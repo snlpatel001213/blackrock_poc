@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Report",
+            "Brokerage Metrics",
+            "EVENT"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Operate_In",
+            "December 2017",
+            "GPE"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Has",
+            "699 Thousand Daily Average Revenue Trades",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Has",
+            "124.8 Billion Dollars Client Equity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Has",
+            "29.5 Billion Dollars Client Margin Loan Balances",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Has",
+            "483 Thousand Client Accounts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interactive Brokers Group Inc.",
+            "ORG",
+            "Has",
+            "47.1 Billion Dollars Client Credit Balances",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

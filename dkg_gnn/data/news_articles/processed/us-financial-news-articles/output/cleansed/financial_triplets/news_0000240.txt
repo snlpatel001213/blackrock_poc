@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "BlackBerry",
+            "PERSON",
+            "Produce",
+            "QNX Hypervisor 2.0",
+            "PRODUCT"
+        ],
+        [
+            "Baidu",
+            "ORG",
+            "Participates_In",
+            "Apollo",
+            "PRODUCT"
+        ],
+        [
+            "Delphi",
+            "ORG",
+            "Relate_To",
+            "Autonomous Driving Software",
+            "PRODUCT"
+        ]
+    ]
+}

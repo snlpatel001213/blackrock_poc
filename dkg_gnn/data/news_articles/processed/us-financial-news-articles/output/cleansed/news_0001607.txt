@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Charge",
+            "$850,000",
+            "ECON_INDICATOR",
+            "a",
+            "patient",
+            "PERSON"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Offer",
+            "alternative payment arrangements",
+            "CONCEPT",
+            "to",
+            "health insurers",
+            "ORG"
+        ],
+        [
+            "Spark Therapeutics Inc.",
+            "COMP",
+            "Seek",
+            "U.S. government",
+            "ORG/GOV"
+        ],
+        [
+            "Luxturna",
+            "PRODUCT",
+            "Relate_To",
+            "hereditary form of vision loss",
+            "CONCEPT"
+        ],
+        [
+            "Luxturna",
+            "PRODUCT",
+            "Impact",
+            "cost of the drug",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

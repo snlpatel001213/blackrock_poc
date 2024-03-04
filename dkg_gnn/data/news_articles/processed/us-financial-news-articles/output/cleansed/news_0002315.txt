@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Comfort Research",
+            "ORG",
+            "Produce",
+            "Ultra Lounge bean bag chair covers",
+            "PRODUCT"
+        ],
+        [
+            "Ultra Lounge bean bag chair covers",
+            "PRODUCT",
+            "Hazard",
+            "Entrapment, Suffocation",
+            "CONCEPT"
+        ],
+        [
+            "Comfort Research",
+            "ORG",
+            "Refund",
+            "Consumers",
+            "PERSON"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Contact",
+            "Comfort Research",
+            "ORG"
+        ],
+        [
+            "Ultra Lounge bean bag chair covers",
+            "PRODUCT",
+            "Sold At",
+            "Kroger, Meijer, Shopko",
+            "GPE"
+        ],
+        [
+            "Comfort Research",
+            "ORG",
+            "Manufactured in",
+            "U.S., China",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "First full trading week of 2018",
+            "EVENT",
+            "Operate_In",
+            "Year 2018",
+            "TIME"
+        ],
+        [
+            "Euro zone business climate index",
+            "CONCEPT",
+            "Hit",
+            "Highest since 1985",
+            "TIME"
+        ],
+        [
+            "Euro zone periphery govt bond yields",
+            "FIN_INSTRUMENT",
+            "Update",
+            " ",
+            " "
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Sell",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Austria",
+            "GPE",
+            "Sell",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Sell",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Sell",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Control",
+            "German Bund yield",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Euro zone economy",
+            "ECON_INDICATOR",
+            "Show",
+            "Signs of strength",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone retail sales",
+            "CONCEPT",
+            "Rise",
+            "2.8 percent year-on-year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Set",
+            "Date to end asset-buying programme",
+            "CONCEPT"
+        ],
+        [
+            "Jens Weidmann",
+            "PERSON",
+            "Tell",
+            "Spanish newspaper El Mundo",
+            "ORG"
+        ],
+        [
+            "ECB policymakers",
+            "PERSON",
+            "Make",
+            "Hawkish comments",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Pledge",
+            "Continue buying bonds",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Wind down",
+            "Programme after September",
+            "TIME"
+        ]
+    ]
+}

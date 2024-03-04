@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ralph Acampora",
+            "PERSON",
+            "Has",
+            "Bullish Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Ralph Acampora",
+            "PERSON",
+            "Participates_In",
+            "Altaria Capital Partners",
+            "ORG"
+        ],
+        [
+            "Altaria Capital Partners",
+            "ORG",
+            "Impact",
+            "Dow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "ECON_INDICATOR",
+            "Can_Move",
+            "A Lot Higher",
+            "CONCEPT"
+        ]
+    ]
+}

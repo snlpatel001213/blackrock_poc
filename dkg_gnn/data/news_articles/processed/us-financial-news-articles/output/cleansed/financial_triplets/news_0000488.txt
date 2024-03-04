@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Detention Warrants",
+            "ORG",
+            "Relate_To",
+            "68 Shareholders",
+            "ORG"
+        ],
+        [
+            "68 Shareholders",
+            "ORG",
+            "Is_Member_Of",
+            "Bank Asya",
+            "COMP"
+        ]
+    ]
+}

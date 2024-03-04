@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Union Bankshares Corporation",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Full Year 2017 Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Union Bankshares Corporation",
+            "ORG",
+            "Operate_In",
+            "Virginia, Maryland and North Carolina",
+            "GPE"
+        ],
+        [
+            "Conference_Call",
+            "EVENT",
+            "Has",
+            "Conference_ID",
+            "CONCEPT"
+        ]
+    ]
+}

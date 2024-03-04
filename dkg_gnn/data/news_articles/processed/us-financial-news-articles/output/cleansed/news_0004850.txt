@@ -1,0 +1,134 @@
+{
+    "output": [
+        [
+            "Liverpool",
+            "COMP",
+            "Co-operate",
+            "FA",
+            "ORG/REG"
+        ],
+        [
+            "Liverpool",
+            "COMP",
+            "Operate_In",
+            "England",
+            "GPE"
+        ],
+        [
+            "Roberto Firmino",
+            "PERSON",
+            "Clash",
+            "Mason Holgate",
+            "PERSON"
+        ],
+        [
+            "Mason Holgate",
+            "PERSON",
+            "Push",
+            "Roberto Firmino",
+            "PERSON"
+        ],
+        [
+            "Roberto Firmino",
+            "PERSON",
+            "React",
+            "Verbally",
+            "ADV"
+        ],
+        [
+            "Roberto Firmino",
+            "PERSON",
+            "Abuse",
+            "Mason Holgate",
+            "PERSON"
+        ],
+        [
+            "Liverpool",
+            "COMP",
+            "Co-operate",
+            "Relevant Authorities",
+            "ORG"
+        ],
+        [
+            "Liverpool",
+            "COMP",
+            "Make",
+            "Further Comment",
+            "COMMUNICATION_ACT"
+        ],
+        [
+            "Mason Holgate",
+            "PERSON",
+            "Complain",
+            "Referee",
+            "PERSON"
+        ],
+        [
+            "Mason Holgate",
+            "PERSON",
+            "Accuse",
+            "Roberto Firmino",
+            "PERSON",
+            "Of",
+            "Racist Term",
+            "CONCEPT"
+        ],
+        [
+            "Sam Allardyce",
+            "PERSON",
+            "Strike",
+            "Similar Tone",
+            "CONCEPT"
+        ],
+        [
+            "Sam Allardyce",
+            "PERSON",
+            "Refuse",
+            "Discuss",
+            "Matter",
+            "CONCEPT"
+        ],
+        [
+            "Sam Allardyce",
+            "PERSON",
+            "Director of Football",
+            "PERSON",
+            "Sort",
+            "Out",
+            "EVENT"
+        ],
+        [
+            "Referee",
+            "PERSON",
+            "Submit",
+            "Match Report",
+            "DOCUMENT",
+            "To",
+            "FA",
+            "ORG/REG"
+        ],
+        [
+            "FA",
+            "ORG/REG",
+            "Make",
+            "Decision",
+            "DECISION",
+            "On",
+            "Disciplinary Proceedings",
+            "PROCEEDINGS"
+        ],
+        [
+            "Liverpool",
+            "COMP",
+            "Win",
+            "Game",
+            "GAME"
+        ],
+        [
+            "Sam Allardyce",
+            "PERSON",
+            "Press Conference",
+            "COMMUNICATION_ACT"
+        ]
+    ]
+}

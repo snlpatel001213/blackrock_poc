@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "Expand",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Operate_In",
+            "US Government",
+            "ORG/GOV"
+        ],
+        [
+            "Expand",
+            "ORG",
+            "Relate_To",
+            "Offshore Oil Drilling",
+            "CONCEPT"
+        ],
+        [
+            "Offshore Oil Drilling",
+            "CONCEPT",
+            "Operate_In",
+            "Atlantic",
+            "GPE"
+        ],
+        [
+            "Offshore Oil Drilling",
+            "CONCEPT",
+            "Operate_In",
+            "Pacific",
+            "GPE"
+        ]
+    ]
+}

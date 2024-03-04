@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "MSCI",
+            "ORG",
+            "Operate_In",
+            "World Shares",
+            "COMP"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "2017",
+            "YEAR"
+        ],
+        [
+            "Chinese Manufacturing Data",
+            "EVENT",
+            "Impact_On",
+            "World Shares",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Olive Branch",
+            "CONCEPT"
+        ],
+        [
+            "MSCI",
+            "ORG",
+            "Climb",
+            "1.4%",
+            "PERCENT"
+        ],
+        [
+            "Caixin Index",
+            "EVENT",
+            "Rise",
+            "4-month high",
+            "TIME"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "3-month low",
+            "TIME"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Jetted",
+            "3-month top",
+            "TIME"
+        ],
+        [
+            "Euro Zone Manufacturers",
+            "ORG",
+            "Ramp up",
+            "Activity",
+            "CONCEPT"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Up",
+            "Solidly",
+            "ADVERB"
+        ],
+        [
+            "Bond Yields",
+            "FIN_INSTRUMENT",
+            "Push",
+            "Stock Markets",
+            "COMP"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Release",
+            "Minutes",
+            "EVENT"
+        ],
+        [
+            "U.S. Currency",
+            "FIN_INSTRUMENT",
+            "Underloved",
+            "Oversold",
+            "ADJECTIVE"
+        ],
+        [
+            "Copper",
+            "PRODUCT",
+            "Dip",
+            "Back",
+            "ADVERB"
+        ],
+        [
+            "Copper",
+            "PRODUCT",
+            "Rise",
+            "31%",
+            "PERCENT"
+        ],
+        [
+            "Aluminium",
+            "PRODUCT",
+            "Gain",
+            "34%",
+            "PERCENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Firmer",
+            "0.37%",
+            "PERCENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Advance",
+            "13%",
+            "PERCENT"
+        ],
+        [
+            "Brent Crude Oil Futures",
+            "PRODUCT",
+            "End",
+            "Year",
+            "TIME"
+        ],
+        [
+            "U.S. Crude",
+            "PRODUCT",
+            "Climb",
+            "12%",
+            "PERCENT"
+        ]
+    ]
+}

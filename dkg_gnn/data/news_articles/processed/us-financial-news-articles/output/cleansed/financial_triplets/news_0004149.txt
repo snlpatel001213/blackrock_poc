@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Toronto Real Estate Board",
+            "ORG",
+            "Operate_In",
+            "Toronto",
+            "GPE"
+        ],
+        [
+            "Real Estate Board of Greater Vancouver",
+            "ORG",
+            "Operate_In",
+            "Vancouver",
+            "GPE"
+        ],
+        [
+            "Toronto Real Estate Board",
+            "ORG",
+            "Announce",
+            "12.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toronto Real Estate Board",
+            "ORG",
+            "Announce",
+            "23.1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toronto Real Estate Board",
+            "ORG",
+            "Announce",
+            "12.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real Estate Board of Greater Vancouver",
+            "ORG",
+            "Announce",
+            "15.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real Estate Board of Greater Vancouver",
+            "ORG",
+            "Announce",
+            "25.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real Estate Board of Greater Vancouver",
+            "ORG",
+            "Announce",
+            "7.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Impact",
+            "Mortgage stress test requirements",
+            "EVENT"
+        ],
+        [
+            "Vancouver",
+            "GPE",
+            "Impact",
+            "Foreign buyers tax",
+            "EVENT"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Relate_To",
+            "Vancouver",
+            "GPE"
+        ],
+        [
+            "Toronto Real Estate Board",
+            "ORG",
+            "Is_Member_Of",
+            "Toronto",
+            "GPE"
+        ],
+        [
+            "Real Estate Board of Greater Vancouver",
+            "ORG",
+            "Is_Member_Of",
+            "Vancouver",
+            "GPE"
+        ]
+    ]
+}

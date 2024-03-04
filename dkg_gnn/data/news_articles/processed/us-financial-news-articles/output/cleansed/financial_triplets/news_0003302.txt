@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Announce",
+            "250,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Relate_To",
+            "ADP National Employment Report",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Labor Department",
+            "ORG/GOV"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Produce",
+            "non-farm payrolls report",
+            "EVENT"
+        ]
+    ]
+}

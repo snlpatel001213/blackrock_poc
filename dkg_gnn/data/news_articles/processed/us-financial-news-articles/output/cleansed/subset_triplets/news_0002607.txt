@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Announce",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "SCANA",
+            "ORG",
+            "Participates_In",
+            "Proposed Buyout",
+            "CONCEPT"
+        ],
+        [
+            "Dominion Energy, Inc.",
+            "ORG",
+            "Control",
+            "Proposed Buyout",
+            "CONCEPT"
+        ],
+        [
+            "SCANA",
+            "ORG",
+            "Has",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SCANA",
+            "ORG",
+            "Has",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Operate_In",
+            "Wilmington, Delaware",
+            "GPE"
+        ],
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Operate_In",
+            "Garden City, New York",
+            "GPE"
+        ]
+    ]
+}

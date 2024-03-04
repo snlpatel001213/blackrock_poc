@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "France",
+            "GPE",
+            "Relate_To",
+            "Trans-Atlantic Trade",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Relate_To",
+            "Trade Relations",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Relate_To",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Relate_To",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Bruno Le Maire",
+            "PERSON",
+            "Relate_To",
+            "France",
+            "GPE"
+        ],
+        [
+            "Bruno Le Maire",
+            "PERSON",
+            "Relate_To",
+            "European Powers",
+            "CONCEPT"
+        ]
+    ]
+}

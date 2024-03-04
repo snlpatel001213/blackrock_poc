@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Announce",
+            "Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bad Daddy\u2019s",
+            "ORG",
+            "Announce",
+            "Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Operate_In",
+            "Quick-Service Restaurant",
+            "SECTOR"
+        ],
+        [
+            "Bad Daddy\u2019s",
+            "ORG",
+            "Operate_In",
+            "Full-Service Restaurant",
+            "SECTOR"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Introduce",
+            "Expanded Kids Meals",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Control",
+            "Natural Cut Fries",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Control",
+            "Fresh Lemonades",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Produce",
+            "Fresh Frozen Custard",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Control",
+            "All Natural Chicken Tenderloins",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Control",
+            "High Quality All Natural Hamburgers",
+            "PRODUCT"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Open",
+            "Bad Daddy\u2019s",
+            "ORG"
+        ],
+        [
+            "Bad Daddy\u2019s",
+            "ORG",
+            "Located_In",
+            "Atlanta Metro Area",
+            "GPE"
+        ],
+        [
+            "Good Times Restaurants Inc.",
+            "ORG",
+            "Invest_In",
+            "Six Bad Daddy\u2019s",
+            "ORG"
+        ]
+    ]
+}

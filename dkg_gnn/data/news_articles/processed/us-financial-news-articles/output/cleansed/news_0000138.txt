@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "BancorpSouth",
+            "COMP",
+            "Announce",
+            "Fourth Quarter Earnings",
+            "EVENT"
+        ],
+        [
+            "BancorpSouth",
+            "COMP",
+            "Release",
+            "Fourth Quarter 2017 Earnings",
+            "EVENT"
+        ],
+        [
+            "BancorpSouth",
+            "COMP",
+            "Operate_In",
+            "Mississippi",
+            "GPE"
+        ],
+        [
+            "BancorpSouth",
+            "COMP",
+            "Has",
+            "$14.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BancorpSouth",
+            "COMP",
+            "Operate_In",
+            "Alabama, Arkansas, Florida, Louisiana, Mississippi, Missouri, Tennessee, Texas",
+            "GPE"
+        ],
+        [
+            "BancorpSouth",
+            "COMP",
+            "Operate_In",
+            "Illinois",
+            "GPE"
+        ]
+    ]
+}

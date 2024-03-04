@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Indian shares little changed in quiet start to new year",
+            "EVENT"
+        ],
+        [
+            "NSE index",
+            "INDEX",
+            "Down",
+            "0.02 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BSE index",
+            "INDEX",
+            "Up",
+            "0.03 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Indian shares",
+            "COMP",
+            "Operate_In",
+            "Indian market",
+            "SECTOR"
+        ],
+        [
+            "NSE index",
+            "INDEX",
+            "Ended",
+            "2017 higher",
+            "EVENT"
+        ],
+        [
+            "BSE index",
+            "INDEX",
+            "Ended",
+            "2017 higher",
+            "EVENT"
+        ],
+        [
+            "Indian shares",
+            "COMP",
+            "Had",
+            "biggest annual gain since 2014",
+            "EVENT"
+        ],
+        [
+            "Equities",
+            "COMP",
+            "Had",
+            "record-setting run last year",
+            "EVENT"
+        ],
+        [
+            "Sun Pharmaceutical Industries Ltd",
+            "COMP",
+            "Up",
+            "1.8 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pharma stocks",
+            "SECTOR",
+            "Edged higher",
+            null,
+            null
+        ],
+        [
+            "IT stocks",
+            "SECTOR",
+            "Fell",
+            null,
+            null
+        ],
+        [
+            "Nifty IT index",
+            "INDEX",
+            "Down",
+            "0.4 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global markets",
+            "SECTOR",
+            "Shut",
+            null,
+            null
+        ],
+        [
+            "Tanvi Mehta",
+            "PERSON",
+            "Reporting",
+            null,
+            null
+        ],
+        [
+            "Bengaluru",
+            "GPE",
+            null,
+            null,
+            null
+        ],
+        [
+            "Editing by Biju Dwarakanath",
+            "PERSON",
+            "Editing",
+            null,
+            null
+        ]
+    ]
+}

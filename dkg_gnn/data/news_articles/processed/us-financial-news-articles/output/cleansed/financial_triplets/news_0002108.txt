@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Interested Parties",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Preliminary Fourth Quarter 2017 Earnings Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Murphy USA Inc.",
+            "COMP",
+            "Operate_In",
+            "Southwest, Southeast and Midwest United States",
+            "GPE"
+        ],
+        [
+            "Murphy USA Inc.",
+            "COMP",
+            "Operate_In",
+            "26 States",
+            "GPE"
+        ],
+        [
+            "Murphy USA Inc.",
+            "COMP",
+            "Operate_In",
+            "Standalone Stores",
+            "COMP"
+        ]
+    ]
+}

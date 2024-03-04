@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "CLSA",
+            "ORG",
+            "Raise",
+            "iPhone X Volume Expectations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CLSA",
+            "ORG",
+            "Decrease",
+            "Expectations on Apple Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Taiwans Economic Daily",
+            "ORG",
+            "Announce",
+            "iPhone X Forecast Cut",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Control",
+            "iPhone X",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Negative_Impact_On",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nicolas Baratte",
+            "PERSON",
+            "Relate_To",
+            "CLSA",
+            "ORG"
+        ],
+        [
+            "Nicolas Baratte",
+            "PERSON",
+            "Impact",
+            "iPhone X Volume Expectations",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

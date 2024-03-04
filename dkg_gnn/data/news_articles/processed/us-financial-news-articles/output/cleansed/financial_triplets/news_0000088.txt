@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Hulk",
+            "PERSON",
+            "Operate_In",
+            "Shanghai SIPG",
+            "ORG"
+        ],
+        [
+            "Shanghai SIPG",
+            "ORG",
+            "Participates_In",
+            "Chinese Super League",
+            "ORG"
+        ],
+        [
+            "Shanghai SIPG",
+            "ORG",
+            "Participates_In",
+            "Chinese FA Cup",
+            "ORG"
+        ],
+        [
+            "Shanghai SIPG",
+            "ORG",
+            "Participates_In",
+            "Asian Champions League",
+            "ORG"
+        ],
+        [
+            "Shanghai SIPG",
+            "ORG",
+            "Impact",
+            "Upcoming_Campaign",
+            "CONCEPT"
+        ]
+    ]
+}

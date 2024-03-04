@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Lowest Level Ever",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Control",
+            "$231.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Total Value of all Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "37.6 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Raise",
+            "1,300 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Bitcoin Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "55 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Control",
+            "14 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Operate_In",
+            "Market Capitalization",
+            "CONCEPT"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Relate_To",
+            "Second-Largest Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Relate_To",
+            "Rising Interest",
+            "CONCEPT"
+        ],
+        [
+            "Litecoin",
+            "CONCEPT",
+            "Relate_To",
+            "Rising Interest",
+            "CONCEPT"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Negative_Impact_On",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Dennis Gartman",
+            "PERSON",
+            "Negative_Impact_On",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Dave Chapman",
+            "PERSON",
+            "Positive_Impact_On",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrency Trading Firm",
+            "ORG",
+            "Operate_In",
+            "Industry",
+            "SECTOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Biggest Bubble in History",
+            "CONCEPT"
+        ]
+    ]
+}

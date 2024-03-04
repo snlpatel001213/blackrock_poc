@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Impact",
+            "Market Participants",
+            "PERSON"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Win",
+            "null",
+            "null"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ],
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Relate_To",
+            "Stock Trading",
+            "CONCEPT"
+        ],
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Relate_To",
+            "Bond Trading",
+            "CONCEPT"
+        ],
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Relate_To",
+            "Commodity Trading",
+            "CONCEPT"
+        ],
+        [
+            "MiFID II",
+            "ORG/REG",
+            "Relate_To",
+            "Derivatives Trading",
+            "CONCEPT"
+        ]
+    ]
+}

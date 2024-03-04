@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Verdict",
+            "Turkish banker",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Negative_Impact_On",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Turkish banker",
+            "PERSON",
+            "Convict",
+            null,
+            null
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Has",
+            "Turkish banker",
+            "PERSON"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Operate_In",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Deputy Prime Minister",
+            "PERSON",
+            "Bekir Bozdag",
+            null,
+            null
+        ],
+        [
+            "Deputy Prime Minister",
+            "PERSON",
+            "Said",
+            null,
+            null
+        ],
+        [
+            "Case",
+            "CONCEPT",
+            "Political",
+            null,
+            null
+        ],
+        [
+            "Verdict",
+            "CONCEPT",
+            "No chance",
+            "Possible economic damage",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Strong economy",
+            null,
+            null
+        ]
+    ]
+}

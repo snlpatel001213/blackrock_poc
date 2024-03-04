@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Accept",
+            "Wildcard",
+            "ORG"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Operate_In",
+            "WTA Tour",
+            "SECTOR"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Receive",
+            "Garbine Muguruza",
+            "PERSON"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Hope",
+            "Play",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "ORG"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Feature",
+            "Grand Slam Holders",
+            "PERSON"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Include",
+            "Venus Williams",
+            "PERSON"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Include",
+            "Petra Kvitova",
+            "PERSON"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Include",
+            "Angelique Kerber",
+            "PERSON"
+        ],
+        [
+            "Sydney International",
+            "ORG",
+            "Include",
+            "Sam Stosur",
+            "PERSON"
+        ],
+        [
+            "Australian Open",
+            "ORG",
+            "Follow",
+            "Sydney International",
+            "ORG"
+        ]
+    ]
+}

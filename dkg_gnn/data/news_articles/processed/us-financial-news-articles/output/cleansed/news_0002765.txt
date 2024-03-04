@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Jon Najarian",
+            "PERSON",
+            "Spot",
+            "Unusual Activity",
+            "ACT"
+        ],
+        [
+            "Blackberry",
+            "COMP",
+            "Relate_To",
+            "Unusual Activity",
+            "ACT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Relate_To",
+            "Unusual Activity",
+            "ACT"
+        ],
+        [
+            "Waste Management",
+            "COMP",
+            "Relate_To",
+            "Unusual Activity",
+            "ACT"
+        ],
+        [
+            "Constellation Brands",
+            "COMP",
+            "Relate_To",
+            "Update",
+            "ACT"
+        ]
+    ]
+}

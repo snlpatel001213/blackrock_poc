@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Regulators",
+            "ORG/REG",
+            "Grant",
+            "open-access waiver",
+            "RELATE_TO"
+        ],
+        [
+            "Regulators",
+            "ORG/REG",
+            "Operate_In",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Regulators",
+            "ORG/REG",
+            "Impact_On",
+            "Markets in Financial Instruments Directive",
+            "EVENT"
+        ],
+        [
+            "Markets in Financial Instruments Directive",
+            "EVENT",
+            "Has",
+            "open access rule",
+            "CONCEPT"
+        ],
+        [
+            "open access rule",
+            "CONCEPT",
+            "Relate_To",
+            "exchange group",
+            "ORG"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Participates_In",
+            "open-access waiver",
+            "RELATE_TO"
+        ],
+        [
+            "London Metal Exchange",
+            "COMP",
+            "Participates_In",
+            "open-access waiver",
+            "RELATE_TO"
+        ],
+        [
+            "Britains Financial Conduct Authority",
+            "ORG/GOV",
+            "Grant",
+            "transitional arrangements",
+            "CONCEPT"
+        ],
+        [
+            "Britains Financial Conduct Authority",
+            "ORG/GOV",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "London Metal Exchange",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Britains Financial Conduct Authority",
+            "ORG/GOV",
+            "Impact_On",
+            "orderly functioning market",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Has",
+            "Eurex Clearing arm",
+            "COMP"
+        ],
+        [
+            "BaFin",
+            "ORG/GOV",
+            "Grant",
+            "time-limited waiver",
+            "CONCEPT"
+        ],
+        [
+            "BaFin",
+            "ORG/GOV",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Has",
+            "Eurex Clearing arm",
+            "COMP"
+        ],
+        [
+            "open access",
+            "CONCEPT",
+            "Has",
+            "financial stability risks",
+            "CONCEPT"
+        ],
+        [
+            "open access",
+            "CONCEPT",
+            "Relate_To",
+            "competition",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Relate_To",
+            "critics",
+            "PERSON"
+        ]
+    ]
+}

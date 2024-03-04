@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "BeyondSpring Inc.",
+            "ORG",
+            "Announce",
+            "Mr. Patrick Fabbio",
+            "PERSON"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Participates_In",
+            "Company\u2019s Board of Directors",
+            "ORG"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Operate_In",
+            "Audit Committee",
+            "ORG"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Is_Member_Of",
+            "Audit Committee",
+            "ORG"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Control",
+            "Chair of that committee",
+            "ORG"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Has",
+            "more than 20 years of financial leadership experience",
+            "CONCEPT"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Operate_In",
+            "Progenics Pharmaceuticals",
+            "COMP"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Operate_In",
+            "ElectroCore LLP",
+            "COMP"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Operate_In",
+            "NPS Pharmaceuticals, Inc.",
+            "COMP"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Operate_In",
+            "Shire",
+            "COMP"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Produce",
+            "B.B.A. in Accounting",
+            "PRODUCT"
+        ],
+        [
+            "Mr. Patrick Fabbio",
+            "PERSON",
+            "Produce",
+            "Master\u2019s Degree in Finance",
+            "PRODUCT"
+        ],
+        [
+            "BeyondSpring",
+            "ORG",
+            "Positive_Impact_On",
+            "Plinabulin\u2019, a lead asset",
+            "PRODUCT"
+        ],
+        [
+            "BeyondSpring",
+            "ORG",
+            "Has",
+            "seasoned management team",
+            "CONCEPT"
+        ]
+    ]
+}

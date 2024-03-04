@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Spends",
+            "Billions of Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Domestic Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Chant",
+            "Leave Syria",
+            "GPE"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Chant",
+            "Think of Us",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Cornerstone of Its Foreign Policy",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Use",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "New Leadership",
+            "PERSON"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Aggressive Approach",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Shift",
+            "Balance of Power",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Have",
+            "Huge Repercussions",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Warn",
+            "Saudi Arabia",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Warn",
+            "Hawkishness",
+            "CONCEPT"
+        ]
+    ]
+}

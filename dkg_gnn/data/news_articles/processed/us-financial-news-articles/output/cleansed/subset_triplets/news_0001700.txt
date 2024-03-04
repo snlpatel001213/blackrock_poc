@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Vincent Au",
+            "PERSON",
+            "Raise",
+            "valuations in the US market",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vincent Au",
+            "PERSON",
+            "Participates_In",
+            "Gondor Capital Management",
+            "ORG"
+        ],
+        [
+            "Gondor Capital Management",
+            "ORG",
+            "Operate_In",
+            "US market",
+            "GPE"
+        ]
+    ]
+}

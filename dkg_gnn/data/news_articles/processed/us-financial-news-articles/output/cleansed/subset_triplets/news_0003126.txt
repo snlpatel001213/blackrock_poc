@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Selective Insurance Group, Inc.",
+            "ORG",
+            "Announce",
+            "George (Chip) Dufala, Jr.",
+            "PERSON"
+        ],
+        [
+            "George (Chip) Dufala, Jr.",
+            "PERSON",
+            "Operate_In",
+            "Insurance Industry",
+            "SECTOR"
+        ],
+        [
+            "Selective Insurance Company of America",
+            "COMP",
+            "Is_Member_Of",
+            "Selective Insurance Group, Inc.",
+            "ORG"
+        ],
+        [
+            "John Marchioni",
+            "PERSON",
+            "Control",
+            "Selective Insurance Company of America",
+            "COMP"
+        ]
+    ]
+}

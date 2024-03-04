@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Alexandria Real Estate Equities, Inc.",
+            "ORG",
+            "Announce",
+            "Public Offering",
+            "EVENT"
+        ],
+        [
+            "Alexandria Real Estate Equities, Inc.",
+            "ORG",
+            "Operate_In",
+            "Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Bank of America, N.A.",
+            "ORG",
+            "Participates_In",
+            "Forward Sale Agreements",
+            "EVENT"
+        ],
+        [
+            "JPMorgan Chase Bank, N.A.",
+            "ORG",
+            "Participates_In",
+            "Forward Sale Agreements",
+            "EVENT"
+        ],
+        [
+            "Citibank, N.A.",
+            "ORG",
+            "Participates_In",
+            "Forward Sale Agreements",
+            "EVENT"
+        ]
+    ]
+}

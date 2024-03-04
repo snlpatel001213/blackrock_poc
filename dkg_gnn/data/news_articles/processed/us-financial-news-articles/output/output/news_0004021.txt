@@ -1,0 +1,1 @@
+{'output': [['Orlando', 'GPE', 'Affects', 'Cold Weather', 'CONCEPT'], ['Orlando', 'GPE', 'Participates_In', 'Florida', 'GPE'], ['Florida', 'GPE', 'Affects', 'Water Parks', 'PRODUCT'], ['Water Parks', 'PRODUCT', 'Locate_In', 'Orlando', 'GPE'], ['Winter Storm Grayson', 'EVENT', 'Impact', 'Cold Weather', 'CONCEPT']]}

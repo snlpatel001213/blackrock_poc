@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Department of Justice",
+            "ORG/GOV",
+            "Cough_Up",
+            "Records",
+            "ORG/REG"
+        ],
+        [
+            "Department of Justice",
+            "ORG/GOV",
+            "Use",
+            "Clinton-funded dossier",
+            "ORG"
+        ],
+        [
+            "Clinton-funded dossier",
+            "ORG",
+            "Investigate",
+            "2016 investigation",
+            "EVENT"
+        ],
+        [
+            "Party out of power",
+            "GPE",
+            "Relate_To",
+            "2016 investigation",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Question",
+            "Use of fake news",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Turn",
+            "Surveillance apparatus",
+            "CONCEPT"
+        ],
+        [
+            "Surveillance apparatus",
+            "CONCEPT",
+            "Relate_To",
+            "Federal government",
+            "ORG/GOV"
+        ],
+        [
+            "House Intelligence Committee Chairman",
+            "PERSON",
+            "Seek",
+            "Documents",
+            "ORG"
+        ],
+        [
+            "Devin Nunes",
+            "PERSON",
+            "Chairman",
+            "House Intelligence Committee",
+            "ORG"
+        ]
+    ]
+}

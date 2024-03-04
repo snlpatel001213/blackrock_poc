@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Trump's Jerusalem move",
+            "EVENT"
+        ],
+        [
+            "Canice Leung",
+            "PERSON",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ]
+    ]
+}

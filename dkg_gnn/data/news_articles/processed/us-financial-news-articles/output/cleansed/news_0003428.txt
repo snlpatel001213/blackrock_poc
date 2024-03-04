@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Deport",
+            "Alleged Gang Members",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Surge",
+            "Deportation",
+            "COMP"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Receive",
+            "Deported Gang Members",
+            "PERSON"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Arrest",
+            "Ninety Individuals",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Implement",
+            "Crackdown",
+            "COMP"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Raid",
+            "Illegal Immigrants",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Arrest",
+            "Teenagers",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Suspect",
+            "Gang Members",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Nationwide",
+            "COMP"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Plagued",
+            "Violence",
+            "CONCEPT"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Attribute",
+            "Violence",
+            "CONCEPT"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Has",
+            "High Murder Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Tout",
+            "Drop In Homicides",
+            "ECON_INDICATOR"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Fight",
+            "Gangs",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Didi Chuxing",
+            "COMP",
+            "Operate_In",
+            "Latin America",
+            "GPE"
+        ],
+        [
+            "Didi Chuxing",
+            "COMP",
+            "Control",
+            "Brazilian app 99",
+            "COMP"
+        ],
+        [
+            "99",
+            "COMP",
+            "Has",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Riverwood",
+            "ORG",
+            "Is_Member_Of",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Monashees",
+            "ORG",
+            "Is_Member_Of",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Qualcomm Ventures",
+            "ORG",
+            "Is_Member_Of",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Tiger Global",
+            "ORG",
+            "Is_Member_Of",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Softbank Group",
+            "ORG",
+            "Is_Member_Of",
+            "current shareholders",
+            "ORG"
+        ],
+        [
+            "Didi Chuxing",
+            "COMP",
+            "Raise",
+            "$5.5 billion",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

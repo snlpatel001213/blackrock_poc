@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Baptize",
+            "34 Infants",
+            "GPE"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Say",
+            "Breastfeed Here",
+            "GPE"
+        ],
+        [
+            "Mothers",
+            "PERSON",
+            "Feel_Free",
+            "Breastfeed",
+            "GPE"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Make_Similar_Comments",
+            "Past_Ceremonies",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Face_Harassment",
+            "Breastfeed",
+            "CONCEPT"
+        ],
+        [
+            "Attitudes",
+            "CONCEPT",
+            "Change",
+            "null",
+            "null"
+        ],
+        [
+            "Television Pictures",
+            "PRODUCT",
+            "Show",
+            "Mother",
+            "PERSON"
+        ],
+        [
+            "Mother",
+            "PERSON",
+            "Bottle_Feed",
+            "Child",
+            "PERSON"
+        ],
+        [
+            "Papal Baptism",
+            "EVENT",
+            "Yearly_Event",
+            "Restricted",
+            "GPE"
+        ],
+        [
+            "Children",
+            "PERSON",
+            "Employees",
+            "Vatican",
+            "ORG"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Bishop",
+            "Rome",
+            "GPE"
+        ],
+        [
+            "Sistine Chapel",
+            "GPE",
+            "Have",
+            "Famous_Frescoes",
+            "CONCEPT"
+        ],
+        [
+            "Michelangelo",
+            "PERSON",
+            "Paint",
+            "Frescoes",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Federated National Holding Company",
+            "ORG",
+            "Announce",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federated National Holding Company",
+            "ORG",
+            "Operate_In",
+            "Insurance",
+            "SECTOR"
+        ],
+        [
+            "Twelve Capital",
+            "ORG",
+            "Invests_In",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Athene Asset Management L.P.",
+            "ORG",
+            "Invests_In",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aon Securities Inc.",
+            "ORG",
+            "Participates_In",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

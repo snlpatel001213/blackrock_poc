@@ -1,0 +1,195 @@
+{
+    "output": [
+        [
+            "Northeastern U.S.",
+            "GPE",
+            "Gripped_By",
+            "Record Cold",
+            "CONCEPT"
+        ],
+        [
+            "Northeastern U.S.",
+            "GPE",
+            "Impact",
+            "Travel",
+            "SECTOR"
+        ],
+        [
+            "2018",
+            "DATE",
+            "First_Business_Day_Of",
+            "null",
+            "null"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "Tie",
+            "7 Consecutive Days Below 20 Degrees Fahrenheit",
+            "CONCEPT"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "Record",
+            "100-Year-Old",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Struggle",
+            "Keep_Warm",
+            "CONCEPT"
+        ],
+        [
+            "Northeastern U.S.",
+            "GPE",
+            "Urge",
+            "Residents",
+            "PERSON"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Alert",
+            "Social_Services",
+            "ORG"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Mayor",
+            "Muriel Bowser",
+            "PERSON"
+        ],
+        [
+            "Bitter Cold",
+            "CONCEPT",
+            "Blamed",
+            "4 Deaths",
+            "CARDINAL"
+        ],
+        [
+            "Frigid Weather",
+            "CONCEPT",
+            "Break",
+            "Temperature_Records",
+            "CONCEPT"
+        ],
+        [
+            "Omaha",
+            "GPE",
+            "Nebraska",
+            "null",
+            "null"
+        ],
+        [
+            "Aberdeen",
+            "GPE",
+            "South Dakota",
+            "null",
+            "null"
+        ],
+        [
+            "National Weather Service",
+            "ORG",
+            "Forecast",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Expect",
+            "2 to 4 Inches of Snow",
+            "QUANTITY"
+        ],
+        [
+            "Southeast Maine",
+            "GPE",
+            "Experience",
+            "12 to 15 Inches of Snow",
+            "QUANTITY"
+        ],
+        [
+            "Northern Florida",
+            "GPE",
+            "Experience",
+            "Freezing Rain",
+            "CONCEPT"
+        ],
+        [
+            "Coastal Areas",
+            "GPE",
+            "Georgia",
+            "South Carolina",
+            "GPE",
+            "Start",
+            "Small Amounts of Snow",
+            "QUANTITY"
+        ],
+        [
+            "Iowa",
+            "GPE",
+            "Massachusetts",
+            "Indiana",
+            "Ohio",
+            "North Carolina",
+            "GPE",
+            "Cancel",
+            "Classes",
+            "SECTOR"
+        ],
+        [
+            "Cold",
+            "CONCEPT",
+            "Blamed",
+            "2 Deaths",
+            "CARDINAL"
+        ],
+        [
+            "Homeless Man",
+            "PERSON",
+            "Found",
+            "Dead",
+            "DIE"
+        ],
+        [
+            "Detroit",
+            "GPE",
+            "Man",
+            "Found",
+            "Dead",
+            "DIE"
+        ],
+        [
+            "Great Plains",
+            "GPE",
+            "Midwest",
+            "null",
+            "null"
+        ],
+        [
+            "Temperatures",
+            "CONCEPT",
+            "Average",
+            "null",
+            "null"
+        ],
+        [
+            "Cold Blast",
+            "CONCEPT",
+            "Come",
+            "null",
+            "null"
+        ],
+        [
+            "Warm Spell",
+            "CONCEPT",
+            "Short Respite",
+            "Severely Cold Weather",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Announce",
+            "250,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Relate_To",
+            "ADP National Employment Report",
+            "EVENT"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Collaborate_With",
+            "Moody\u2019s Analytics",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Labor Department",
+            "ORG/GOV"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Produce",
+            "non-farm payrolls report",
+            "EVENT"
+        ],
+        [
+            "non-farm payrolls report",
+            "EVENT",
+            "Include",
+            "public and private-sector employment",
+            "CONCEPT"
+        ],
+        [
+            "non-farm payrolls report",
+            "EVENT",
+            "Impact_On",
+            "U.S. private payroll employment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "non-farm payrolls report",
+            "EVENT",
+            "Impact_On",
+            "total non-farm employment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "total non-farm employment",
+            "ECON_INDICATOR",
+            "Expected_To_Change_By",
+            "190,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. private payroll employment",
+            "ECON_INDICATOR",
+            "Expected_To_Change_By",
+            "185,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "unemployment rate",
+            "ECON_INDICATOR",
+            "Forecast_To_Stay_Steady_At",
+            "4.1 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

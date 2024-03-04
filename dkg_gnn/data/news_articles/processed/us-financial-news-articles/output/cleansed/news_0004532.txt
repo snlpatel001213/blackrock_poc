@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Hakan Atilla",
+            "PERSON",
+            "Convicted",
+            "US",
+            "ORG/GOV"
+        ],
+        [
+            "Hakan Atilla",
+            "PERSON",
+            "Work_For",
+            "Halkbank",
+            "COMP"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Located_In",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Violate",
+            "International Law",
+            "CONCEPT"
+        ]
+    ]
+}

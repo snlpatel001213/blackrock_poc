@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "BioNTech",
+            "ORG",
+            "Raise",
+            "$270 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Has",
+            "war chest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Go_Public_In",
+            "stock market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Participates_In",
+            "cancer treatment",
+            "CONCEPT"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Control",
+            "personalized cancer vaccine",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Enter_Into",
+            "Strategic Collaboration",
+            "CONCEPT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Enter_Into",
+            "Strategic Collaboration",
+            "CONCEPT"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Collaborate_With",
+            "Curevac AG",
+            "COMP"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Discover",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Discover",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Develop",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Develop",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Commercialize",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Commercialize",
+            "Novel Messenger RNA Therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Share",
+            "Development Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Share",
+            "Development Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Co-Commercialize",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Co-Commercialize",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Arcturus Therapeutics Ltd",
+            "COMP",
+            "Have",
+            "Profit Sharing Arrangement",
+            "CONCEPT"
+        ],
+        [
+            "Curevac AG",
+            "COMP",
+            "Have",
+            "Profit Sharing Arrangement",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Nav Canada",
+            "ORG",
+            "Announce",
+            "Ratification",
+            "EVENT"
+        ],
+        [
+            "Nav Canada",
+            "ORG",
+            "Control",
+            "CFPA",
+            "ORG"
+        ],
+        [
+            "Ratification",
+            "EVENT",
+            "Relate_To",
+            "Collective Agreement",
+            "EVENT"
+        ],
+        [
+            "Collective Agreement",
+            "EVENT",
+            "Relate_To",
+            "CFPA",
+            "ORG"
+        ],
+        [
+            "Nav Canada",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Agreement",
+            "EVENT",
+            "Impact",
+            "Wage Increases",
+            "ECON_INDICATOR",
+            "Each",
+            "QUANTITY",
+            "Two",
+            "QUANTITY",
+            "Years",
+            "TIME"
+        ]
+    ]
+}

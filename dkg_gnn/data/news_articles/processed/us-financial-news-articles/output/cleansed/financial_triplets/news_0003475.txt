@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Swansea",
+            "GPE",
+            "Has",
+            "Kyle Naughton",
+            "PERSON"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Participates_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Operate_In",
+            "League Games",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Operate_In",
+            "FA Cup",
+            "SECTOR"
+        ]
+    ]
+}

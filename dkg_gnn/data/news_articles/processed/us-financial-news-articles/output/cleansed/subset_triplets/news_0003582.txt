@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "King Abdullah",
+            "PERSON",
+            "Relate_To",
+            "Jordan royal palace",
+            "GPE"
+        ],
+        [
+            "Prince Ali",
+            "PERSON",
+            "Has",
+            "High military ranks",
+            "SECTOR"
+        ],
+        [
+            "Prince Faisal",
+            "PERSON",
+            "Has",
+            "High military ranks",
+            "SECTOR"
+        ],
+        [
+            "Prince Talal",
+            "PERSON",
+            "Has",
+            "High military ranks",
+            "SECTOR"
+        ],
+        [
+            "Prince Faisal",
+            "PERSON",
+            "Operate_In",
+            "Royal air force",
+            "ORG"
+        ],
+        [
+            "Prince Ali",
+            "PERSON",
+            "Operate_In",
+            "Royal guards",
+            "ORG"
+        ],
+        [
+            "Talal Bin Mohammad",
+            "PERSON",
+            "Operate_In",
+            "Elite special forces",
+            "ORG"
+        ],
+        [
+            "Jordan",
+            "GPE",
+            "Has",
+            "Relatively unscathed",
+            "CONCEPT"
+        ]
+    ]
+}

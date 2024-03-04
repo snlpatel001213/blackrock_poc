@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "US Natural Gas",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Relate_To",
+            "Harsh Cold Snap",
+            "CONCEPT"
+        ],
+        [
+            "Shortage",
+            "ECON_INDICATOR",
+            "Impact",
+            "Higher Prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

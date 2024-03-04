@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Delta Air Lines Inc.",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Relate_To",
+            "Religion",
+            "CONCEPT"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Relate_To",
+            "Nationality",
+            "CONCEPT"
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Operate_In",
+            "Delta Air Lines Inc.",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Loss of Life",
+            "CONCEPT",
+            "Relate_To",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "CONCEPT",
+            "Participates_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Respect",
+            "CONCEPT",
+            "Relate_To",
+            "Rights",
+            "CONCEPT"
+        ],
+        [
+            "Avoid",
+            "CONCEPT",
+            "Relate_To",
+            "Further Violence",
+            "CONCEPT"
+        ]
+    ]
+}

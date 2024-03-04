@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Egypt\u2019s public prosecutor",
+            "ORG/GOV",
+            "File",
+            "Murder Charges",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Accused of",
+            "Killing 11 People",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Accused of",
+            "Attempted Murder",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Accused of",
+            "Possession of an Unlicensed Weapon",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Accused of",
+            "Using it for Terrorist Activity",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Arrested after",
+            "Attack on a Coptic Church",
+            "ORG"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Arrested after",
+            "Attack on a Christian-Owned Shop",
+            "COMP"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Received",
+            "Medical Treatment in Custody",
+            "COMP"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Detained",
+            "Pending Investigations",
+            "CONCEPT"
+        ],
+        [
+            "Islamic State",
+            "ORG/REG",
+            "Claimed Responsibility for",
+            "Attacks",
+            "EVENT"
+        ],
+        [
+            "Islamic State",
+            "ORG/REG",
+            "Carried out",
+            "Statement by",
+            "ORG"
+        ],
+        [
+            "Islamist Militants",
+            "ORG/REG",
+            "Claimed Several Attacks on",
+            "Egypt\u2019s Large Christian Minority",
+            "CONCEPT"
+        ],
+        [
+            "Two Bombings",
+            "EVENT",
+            "On",
+            "Palm Sunday",
+            "DATE"
+        ],
+        [
+            "Blast",
+            "EVENT",
+            "At",
+            "Cairo\u2019s Largest Coptic Cathedral",
+            "ORG"
+        ],
+        [
+            "Blast",
+            "EVENT",
+            "Killed",
+            "28 People",
+            "CONCEPT"
+        ]
+    ]
+}

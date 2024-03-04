@@ -1,0 +1,199 @@
+{
+    "output": [
+        [
+            "Sears",
+            "COMP",
+            "Close",
+            "over 100 more stores",
+            "QUANTITY"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Kmart",
+            "COMP",
+            "Is_Member_Of",
+            "Sears Holdings",
+            "ORG"
+        ],
+        [
+            "Sears Holdings",
+            "ORG",
+            "Announce",
+            "closing more than 100 additional stores",
+            "QUANTITY"
+        ],
+        [
+            "64 Kmart stores",
+            "QUANTITY",
+            "Participates_In",
+            "closing",
+            "ACTION"
+        ],
+        [
+            "64 Kmart stores",
+            "QUANTITY",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "39 Sears stores",
+            "QUANTITY",
+            "Participates_In",
+            "closing",
+            "ACTION"
+        ],
+        [
+            "39 Sears stores",
+            "QUANTITY",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Sears Holdings",
+            "ORG",
+            "Expect",
+            "closing between early March and April",
+            "TIME"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Liquidation_Sales",
+            "begin as early as Jan. 12",
+            "TIME"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Eliminate",
+            "majority of the jobs",
+            "QUANTITY"
+        ],
+        [
+            "Eligible associates",
+            "QUANTITY",
+            "Receive",
+            "severance",
+            "BENEFIT"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Control",
+            "Seritage Growth Properties",
+            "ORG"
+        ],
+        [
+            "Seritage Growth Properties",
+            "ORG",
+            "File",
+            "SEC filing",
+            "DOCUMENT"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Exercise",
+            "its right to terminate the leases on 19 unprofitable stores",
+            "QUANTITY"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Announce",
+            "handfuls of additional closures",
+            "QUANTITY"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Pay",
+            "$407 million",
+            "AMOUNT",
+            "toward its pension plan"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Unlock",
+            "and allow for the sale of 140 properties",
+            "QUANTITY"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Report",
+            "a narrower net loss",
+            "ECON_INDICATOR",
+            "for its fiscal third quarter"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Test",
+            "smaller store formats",
+            "CONCEPT",
+            "across the U.S."
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Sell",
+            "two of its brands",
+            "QUANTITY",
+            "on Amazon.com"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Close",
+            "11 stores",
+            "QUANTITY",
+            "in 2018"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Whittle down",
+            "its real estate portfolio",
+            "ACTION"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Focus",
+            "on its best assets",
+            "QUANTITY"
+        ],
+        [
+            "Department stores",
+            "COMP",
+            "Rethink",
+            "their strategies"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Tumble",
+            "more than 60 percent",
+            "PERCENT",
+            "over the past 12 months"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Stock",
+            "falling close to 4.5 percent",
+            "PERCENT",
+            "Thursday afternoon"
+        ]
+    ]
+}

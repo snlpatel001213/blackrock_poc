@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Palatin Technologies",
+            "ORG",
+            "Announce",
+            "FDA has notified Palatin",
+            "ORG/GOV"
+        ],
+        [
+            "Palatin Technologies",
+            "ORG",
+            "Operate_In",
+            "Biopharmaceutical Company",
+            "ORG"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Has",
+            "Notice to Proceed",
+            "CONCEPT"
+        ],
+        [
+            "PL-8177",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Clinical Development Candidates",
+            "CONCEPT"
+        ]
+    ]
+}

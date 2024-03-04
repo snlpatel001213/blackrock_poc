@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Announce",
+            "Completed Acquisition",
+            "ORG"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Operate_In",
+            "Energy Service",
+            "SECTOR"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Control",
+            "Stallion Remote Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Basin Wastewater Solutions",
+            "ORG",
+            "Acquired_By",
+            "Stallion Oilfield Services Ltd.",
+            "COMP"
+        ],
+        [
+            "Basin Wastewater Solutions",
+            "ORG",
+            "Provide",
+            "Rig Site Potable Water",
+            "PRODUCT"
+        ],
+        [
+            "Basin Wastewater Solutions",
+            "ORG",
+            "Provide",
+            "Wastewater Recycling Services",
+            "PRODUCT"
+        ],
+        [
+            "Basin Wastewater Solutions",
+            "ORG",
+            "Located_In",
+            "Carlsbad, NM",
+            "GPE"
+        ],
+        [
+            "Basin Wastewater Solutions",
+            "ORG",
+            "Service",
+            "Permian Market",
+            "GPE"
+        ],
+        [
+            "Stallion Remote Treatment",
+            "PRODUCT",
+            "Relate_To",
+            "Industry Leading Services",
+            "CONCEPT"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Rebrand",
+            "Basin Service",
+            "PRODUCT"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Include",
+            "Stallion Remote Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Provide",
+            "Services",
+            "PRODUCT"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Have",
+            "Deep Customer Relationships",
+            "CONCEPT"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Have",
+            "Seasoned Management Team",
+            "CONCEPT"
+        ]
+    ]
+}

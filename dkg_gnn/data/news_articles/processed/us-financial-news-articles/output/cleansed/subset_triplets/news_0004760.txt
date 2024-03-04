@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Study",
+            "CONCEPT",
+            "Announce",
+            "Fat Cat Thursday",
+            "CONCEPT"
+        ],
+        [
+            "UK CEOs",
+            "PERSON",
+            "Relate_To",
+            "Fat Cat Thursday",
+            "CONCEPT"
+        ],
+        [
+            "Typical Worker",
+            "PERSON",
+            "Negative_Impact_On",
+            "Fat Cat Thursday",
+            "CONCEPT"
+        ],
+        [
+            "Top 13 UK Banks",
+            "COMP",
+            "Participates_In",
+            "Fat Cat Thursday",
+            "CONCEPT"
+        ]
+    ]
+}

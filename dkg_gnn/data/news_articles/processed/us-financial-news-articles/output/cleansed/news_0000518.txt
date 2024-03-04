@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "National Bank Holdings Corporation",
+            "ORG",
+            "Announce",
+            "Closing of acquisition of Peoples",
+            "EVENT"
+        ],
+        [
+            "National Bank Holdings Corporation",
+            "ORG",
+            "Operate_In",
+            "Colorado, Kansas, New Mexico, and Missouri",
+            "GPE"
+        ],
+        [
+            "Peoples",
+            "ORG",
+            "Acquire",
+            "National Bank Holdings Corporation",
+            "ORG"
+        ],
+        [
+            "Peoples",
+            "ORG",
+            "Has",
+            "Assets of 905.4 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peoples",
+            "ORG",
+            "Has",
+            "Loans held for investment of 543.2 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peoples",
+            "ORG",
+            "Has",
+            "Deposits of 732.9 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Bank Holdings Corporation",
+            "ORG",
+            "Participates_In",
+            "Community bank franchise expansion",
+            "CONCEPT"
+        ],
+        [
+            "National Bank Holdings Corporation",
+            "ORG",
+            "Operate_In",
+            "Colorado Springs, Overland Park, Lawrence, Taos, and Albuquerque",
+            "GPE"
+        ],
+        [
+            "Peoples",
+            "ORG",
+            "Contribute",
+            "Residential mortgage platform",
+            "PRODUCT"
+        ],
+        [
+            "Brendan Zahl",
+            "PERSON",
+            "Introduce",
+            "Residential mortgage platform",
+            "PRODUCT"
+        ],
+        [
+            "Brendan Zahl",
+            "PERSON",
+            "Appoint",
+            "Executive Vice President, Residential Banking and Market President for the Colorado Springs area",
+            "POSITION"
+        ],
+        [
+            "Ruth Stevenson",
+            "PERSON",
+            "Appoint",
+            "Executive Vice President, leading a key client experience initiative for NBH and overseeing the Companys deposit operations",
+            "POSITION"
+        ],
+        [
+            "Ruth Stevenson",
+            "PERSON",
+            "Appoint",
+            "Market President for the Companys newly-acquired Kansas locations",
+            "POSITION"
+        ],
+        [
+            "Tim Laney",
+            "PERSON",
+            "Quote",
+            "Statement about the acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Peoples shareholders",
+            "PERSON",
+            "Receive",
+            "Cash consideration and NBH common stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Keefe, Bruyette & Woods",
+            "ORG",
+            "Serve",
+            "Financial advisor to NBH",
+            "CONCEPT"
+        ],
+        [
+            "Wachtell, Lipton, Rosen & Katz",
+            "ORG",
+            "Serve",
+            "Legal counsel for NBH",
+            "CONCEPT"
+        ],
+        [
+            "The Capital Corporation",
+            "ORG",
+            "Serve",
+            "Financial advisor to Peoples",
+            "CONCEPT"
+        ],
+        [
+            "Lathrop Gage LLP",
+            "ORG",
+            "Serve",
+            "Legal counsel for Peoples",
+            "CONCEPT"
+        ],
+        [
+            "National Bank Holdings Corporation",
+            "ORG",
+            "Control",
+            "Bank Midwest, Community Banks of Colorado, Hillcrest Bank",
+            "COMP"
+        ],
+        [
+            "Bank Midwest",
+            "COMP",
+            "Operate_In",
+            "Kansas and Missouri",
+            "GPE"
+        ],
+        [
+            "Community Banks of Colorado",
+            "COMP",
+            "Operate_In",
+            "Colorado",
+            "GPE"
+        ],
+        [
+            "Hillcrest Bank",
+            "COMP",
+            "Operate_In",
+            "Texas and New Mexico",
+            "GPE"
+        ]
+    ]
+}

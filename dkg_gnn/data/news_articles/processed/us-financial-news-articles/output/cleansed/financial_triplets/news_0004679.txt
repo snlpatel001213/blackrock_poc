@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Gangs",
+            "ORG"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Elections",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Visits",
+            "Nino\u2019s",
+            "ORG"
+        ],
+        [
+            "Nino\u2019s",
+            "ORG",
+            "Located_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Tries",
+            "Pasta Making",
+            "CONCEPT"
+        ],
+        [
+            "Nino\u2019s",
+            "ORG",
+            "Owned_By",
+            "Gaetano Ciccone",
+            "PERSON"
+        ],
+        [
+            "Nino\u2019s",
+            "ORG",
+            "Owned_By",
+            "Carl Mazzone",
+            "PERSON"
+        ]
+    ]
+}

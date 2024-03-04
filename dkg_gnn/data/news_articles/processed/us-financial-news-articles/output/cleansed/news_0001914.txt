@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Stellar",
+            "COMP",
+            "Control",
+            "Digital Currency Stellar",
+            "PRODUCT"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Control",
+            "Digital Currency Ripple",
+            "PRODUCT"
+        ],
+        [
+            "Jed McCaleb",
+            "PERSON",
+            "Found",
+            "Stellar",
+            "COMP"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Similar_To",
+            "Ripple",
+            "COMP"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Optimized_For",
+            "Fast and Cheap Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Optimized_For",
+            "Fast and Cheap Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Participates_In",
+            "Efficient Cross-Border Payments",
+            "CONCEPT"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Participates_In",
+            "Efficient Cross-Border Payments",
+            "CONCEPT"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Ranked",
+            "Sixth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Ranked",
+            "Second",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "Largest",
+            "Digital Currency",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "Underperforming",
+            "Other Digital Currencies",
+            "COMP"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "Traded",
+            "About 9.5 Percent Higher",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "About 23 Percent Below",
+            "Record High",
+            "CONCEPT"
+        ],
+        [
+            "BitBull Capital",
+            "ORG",
+            "Track",
+            "Crypto Hedge Fund Managers",
+            "COMP"
+        ],
+        [
+            "BitBull Capital",
+            "ORG",
+            "Reducing",
+            "Bitcoin Weighting",
+            "CONCEPT"
+        ],
+        [
+            "BitBull Capital",
+            "ORG",
+            "About 20 Million",
+            "Assets Under Management",
+            "CONCEPT"
+        ]
+    ]
+}

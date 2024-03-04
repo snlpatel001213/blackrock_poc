@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Orrin Hatch",
+            "PERSON",
+            "Announce",
+            "Retire",
+            "CONCEPT"
+        ],
+        [
+            "Orrin Hatch",
+            "PERSON",
+            "Is_Member_Of",
+            "Republican Party",
+            "ORG/POL"
+        ],
+        [
+            "Republican Party",
+            "ORG/POL",
+            "Control",
+            "Senator Hatch Seat",
+            "SECTOR"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Raise",
+            "Bid",
+            "CONCEPT"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Criticize",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Potential",
+            "Senate Bid",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "President",
+            "null",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "U.S. Stocks",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Correction",
+            "CONCEPT"
+        ],
+        [
+            "Wall Street",
+            "SECTOR",
+            "Participates_In",
+            "Correction",
+            "CONCEPT"
+        ],
+        [
+            "Byron Wien",
+            "PERSON",
+            "Announce",
+            "Correction",
+            "CONCEPT"
+        ],
+        [
+            "Byron Wien",
+            "PERSON",
+            "Announce",
+            "Regulation",
+            "CONCEPT",
+            "Of",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Trump Family",
+            "PERSON",
+            "Relate_To",
+            "Mueller Investigation",
+            "EVENT"
+        ],
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Impact",
+            "S&P 500",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mueller Investigation",
+            "EVENT",
+            "Relate_To",
+            "U.S. Election",
+            "EVENT"
+        ]
+    ]
+}

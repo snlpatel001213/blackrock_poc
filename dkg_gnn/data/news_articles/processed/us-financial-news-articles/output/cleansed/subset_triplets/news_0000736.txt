@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "India",
+            "GPE",
+            "Operate_In",
+            "Gold Sector",
+            "SECTOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Control",
+            "Gold Imports",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GFMS",
+            "ORG",
+            "Announce",
+            "Gold Imports Data",
+            "EVENT"
+        ],
+        [
+            "GFMS",
+            "ORG",
+            "Operate_In",
+            "Gold Sector",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "One-legged soccer aces",
+            "PERSON",
+            "Participates_In",
+            "Amputee Football League",
+            "EVENT"
+        ],
+        [
+            "Amputee Football League",
+            "EVENT",
+            "Relate_To",
+            "Special Needs",
+            "CONCEPT"
+        ]
+    ]
+}

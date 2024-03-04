@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Dale F. Bohn",
+            "PERSON",
+            "Has",
+            "Product Quality Manager",
+            "ORG"
+        ],
+        [
+            "Flint Hills Resources LP",
+            "ORG",
+            "Operate_In",
+            "St. Paul",
+            "GPE"
+        ],
+        [
+            "ASTM International",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "25 Leaders",
+            "PERSON"
+        ],
+        [
+            "ASTM International",
+            "ORG/GOV",
+            "Positive_Impact_On",
+            "Public Health and Safety",
+            "CONCEPT"
+        ],
+        [
+            "ASTM International",
+            "ORG/GOV",
+            "Positive_Impact_On",
+            "Consumer Confidence",
+            "CONCEPT"
+        ],
+        [
+            "ASTM International",
+            "ORG/GOV",
+            "Positive_Impact_On",
+            "Quality of Life",
+            "CONCEPT"
+        ]
+    ]
+}

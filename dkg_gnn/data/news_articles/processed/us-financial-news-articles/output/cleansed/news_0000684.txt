@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Place",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "On_List_For",
+            "Severe_Violations_Of_Religious_Freedom",
+            "CONCEPT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Re-Designate",
+            "10_Other_Nations",
+            "GPE"
+        ],
+        [
+            "10_Other_Nations",
+            "GPE",
+            "Engage_In_Or_Tolerate",
+            "Egregious_Violations_Of_Religious_Freedom",
+            "CONCEPT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Operate_In",
+            "International_Religious_Freedom_Act",
+            "CONCEPT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Criticize",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "U.S. Administration",
+            "ORG/GOV",
+            "Inform",
+            "Members_Of_Congress",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Administration",
+            "ORG/GOV",
+            "End",
+            "Security_Assistance_Payments",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Do",
+            "A_Lot_To_Fight_Militants",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Summon",
+            "U.S. Ambassador",
+            "PERSON"
+        ],
+        [
+            "U.S. Ambassador",
+            "PERSON",
+            "Explain",
+            "Tweet_By_Trump",
+            "PERSON"
+        ]
+    ]
+}

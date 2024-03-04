@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Tech Giants",
+            "ORG",
+            "Announce",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Tech Giants",
+            "ORG",
+            "Announce",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Produce",
+            "Meltdown-affected Chips",
+            "COMP"
+        ],
+        [
+            "Advanced Micro Devices",
+            "COMP",
+            "Produce",
+            "Spectre-affected Chips",
+            "COMP"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Produce",
+            "Spectre-affected Chips",
+            "COMP"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Participates_In",
+            "Addressing Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Participates_In",
+            "Addressing Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Participates_In",
+            "Addressing Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "Addressing Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Cloud Computing Giants",
+            "ORG",
+            "Participates_In",
+            "Addressing Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Control",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "ARM",
+            "COMP",
+            "Control",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Raise",
+            "Awareness of Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Raise",
+            "Awareness of Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Raise",
+            "Awareness of Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Raise",
+            "Awareness of Meltdown",
+            "CONCEPT"
+        ]
+    ]
+}

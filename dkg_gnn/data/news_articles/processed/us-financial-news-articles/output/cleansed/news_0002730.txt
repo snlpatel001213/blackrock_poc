@@ -1,0 +1,148 @@
+{
+    "output": [
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Hit",
+            "Fresh Two-and-a-half Year Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "At",
+            "Levels Last Seen at Start of Commodity Slump in 2014/2015",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Markets",
+            "SECTOR",
+            "Tightening",
+            null,
+            null
+        ],
+        [
+            "Tensions in Iran",
+            "CONCEPT",
+            "Contribute",
+            "To Tightening Markets",
+            "SECTOR"
+        ],
+        [
+            "OPEC-led Production Cuts",
+            "CONCEPT",
+            "Contribute",
+            "To Tightening Markets",
+            "SECTOR"
+        ],
+        [
+            "Asia's Stock Markets",
+            "SECTOR",
+            "Flirt",
+            "With 10-Year Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Strong Data",
+            "CONCEPT",
+            "From Leading Economies",
+            "Include",
+            "United States, Japan and Germany",
+            "GPE"
+        ],
+        [
+            "U.S. West Texas Intermediate (WTI) Crude Futures",
+            "FIN_INSTRUMENT",
+            "At",
+            "$62.10 a Barrel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent Crude Futures",
+            "FIN_INSTRUMENT",
+            "At",
+            "$68.13 a Barrel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Freezing Weather",
+            "CONCEPT",
+            "Spur",
+            "Short-Term Demand",
+            "CONCEPT"
+        ],
+        [
+            "Short-Term Demand",
+            "CONCEPT",
+            "Especially",
+            "For Heating Oil",
+            "PRODUCT"
+        ],
+        [
+            "William O'Loughlin",
+            "PERSON",
+            "Said",
+            "Market is Getting More Bullish on Oil",
+            "CONCEPT"
+        ],
+        [
+            "Inventory Levels",
+            "CONCEPT",
+            "Get Closer",
+            "To Five-Year Average",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran's Elite Revolutionary Guards",
+            "ORG",
+            "Deploy",
+            "Forces to Three Provinces",
+            "GPE"
+        ],
+        [
+            "Anti-Government Unrest",
+            "CONCEPT",
+            "Has Been Ongoing for a Week",
+            "TIME",
+            "TEMPORAL"
+        ],
+        [
+            "U.S. Crude Oil Inventories",
+            "CONCEPT",
+            "Fell by 5 Million Barrels",
+            "QUANTITY",
+            "NUMERICAL"
+        ],
+        [
+            "U.S. Crude Oil Inventories",
+            "CONCEPT",
+            "To",
+            "427.8 Million Barrels",
+            "QUANTITY",
+            "NUMERICAL"
+        ],
+        [
+            "U.S. Oil Production",
+            "CONCEPT",
+            "Has Risen by Almost 16 Percent",
+            "PERCENTAGE",
+            "NUMERICAL"
+        ],
+        [
+            "U.S. Oil Production",
+            "CONCEPT",
+            "Hit",
+            "9.75 Million Barrels per Day (bpd)",
+            "QUANTITY",
+            "NUMERICAL"
+        ],
+        [
+            "Official U.S. Energy Information Administration (EIA)",
+            "ORG",
+            "Storage and Production Data",
+            "Is Due",
+            "THURSDAY",
+            "TEMPORAL"
+        ]
+    ]
+}

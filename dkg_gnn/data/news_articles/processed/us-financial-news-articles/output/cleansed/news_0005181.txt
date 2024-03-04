@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Palestinian defense attorney",
+            "PERSON",
+            "Is_Member_Of",
+            "Palestine",
+            "GPE"
+        ],
+        [
+            "Palestinian defense attorney",
+            "PERSON",
+            "Participates_In",
+            "In Between",
+            "EVENT"
+        ],
+        [
+            "Laila",
+            "PERSON",
+            "Is_Same_As",
+            "Palestinian defense attorney",
+            "PERSON"
+        ],
+        [
+            "Laila",
+            "PERSON",
+            "Operate_In",
+            "Tel Aviv",
+            "GPE"
+        ],
+        [
+            "Laila",
+            "PERSON",
+            "Participates_In",
+            "In Between",
+            "EVENT"
+        ],
+        [
+            "Two other Palestinian women",
+            "PERSON",
+            "Operate_In",
+            "Tel Aviv",
+            "GPE"
+        ],
+        [
+            "Two other Palestinian women",
+            "PERSON",
+            "Participates_In",
+            "In Between",
+            "EVENT"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Negative_Impact_On",
+            "Two other Palestinian women",
+            "PERSON"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Negative_Impact_On",
+            "Laila",
+            "PERSON"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Relate_To",
+            "Imprisoning traditions",
+            "CONCEPT"
+        ],
+        [
+            "Israelis",
+            "PERSON",
+            "Not_Relate_To",
+            "Two other Palestinian women",
+            "PERSON"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Not_Relate_To",
+            "Two other Palestinian women",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Announce",
+            "cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Impact",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Security Assistance",
+            "ORG"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "U.S. Aid",
+            "ORG"
+        ],
+        [
+            "State Department",
+            "ORG",
+            "Call",
+            "Congressional Aides",
+            "PERSON"
+        ],
+        [
+            "State Department",
+            "ORG",
+            "Announce",
+            "cut off",
+            "ECON_INDICATOR"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Decline",
+            "Say",
+            "VERB"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Accuse",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Reject",
+            "U.S. Comments",
+            "VERB"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Signal",
+            "cut aid",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Help",
+            "or turn a blind eye",
+            "VERB"
+        ],
+        [
+            "Haqqani network militants",
+            "ORG",
+            "Cross",
+            "border",
+            "GPE"
+        ],
+        [
+            "U.S. Congress",
+            "ORG",
+            "Criticize",
+            "Pakistani government",
+            "ORG"
+        ],
+        [
+            "U.S. Congress",
+            "ORG",
+            "Call for",
+            "cuts in military aid",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

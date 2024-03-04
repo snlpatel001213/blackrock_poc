@@ -1,0 +1,54 @@
+{
+    "output": [
+        [
+            "JP Morgan",
+            "ORG",
+            "Has",
+            "David Kelly",
+            "PERSON"
+        ],
+        [
+            "David Kelly",
+            "PERSON",
+            "Position",
+            "JP Morgan Asset Management",
+            "ORG"
+        ],
+        [
+            "JP Morgan",
+            "ORG",
+            "Announce",
+            "3% growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "David Kelly",
+            "PERSON",
+            "State",
+            "rally",
+            "EVENT"
+        ],
+        [
+            "rally",
+            "EVENT",
+            "Occur",
+            "first day of trading",
+            "EVENT",
+            "for",
+            "2018",
+            "TIME"
+        ],
+        [
+            "David Kelly",
+            "PERSON",
+            "Discuss",
+            "state",
+            "CONCEPT",
+            "of",
+            "domestic economy",
+            "SECTOR",
+            "this year",
+            "TIME"
+        ]
+    ]
+}

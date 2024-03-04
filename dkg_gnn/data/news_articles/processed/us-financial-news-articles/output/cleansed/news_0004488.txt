@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Simon Dudley",
+            "PERSON",
+            "Leader_Of",
+            "Royal Borough of Windsor and Maidenhead council",
+            "ORG"
+        ],
+        [
+            "Royal Borough of Windsor and Maidenhead council",
+            "ORG",
+            "Operate_In",
+            "Windsor",
+            "GPE"
+        ],
+        [
+            "Windsor",
+            "GPE",
+            "Attract",
+            "Seven million tourists",
+            "PERSON"
+        ],
+        [
+            "Simon Dudley",
+            "PERSON",
+            "Write",
+            "Letter",
+            "PRODUCT"
+        ],
+        [
+            "Simon Dudley",
+            "PERSON",
+            "Call",
+            "Police",
+            "ORG"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Invests_In",
+            "Powers",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Simon Dudley",
+            "PERSON",
+            "Cite",
+            "Royal Wedding",
+            "EVENT"
+        ],
+        [
+            "Windsor Homelessness Project",
+            "ORG",
+            "Manager",
+            "Murphy James",
+            "PERSON"
+        ],
+        [
+            "Murphy James",
+            "PERSON",
+            "Say",
+            "Views abhorrent",
+            "CONCEPT"
+        ]
+    ]
+}

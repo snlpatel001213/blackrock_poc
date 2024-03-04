@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Close",
+            "7000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy and tech stocks",
+            "SECTOR",
+            "Drive",
+            "Markets",
+            "SECTOR"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Provide",
+            "News",
+            "SECTOR"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Own",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Reuters Staff",
+            "PERSON",
+            "Announce",
+            "European shares advance",
+            "EVENT"
+        ],
+        [
+            "European shares",
+            "COMP",
+            "Rise",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail stocks",
+            "COMP",
+            "Lead",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Implement",
+            "new financial market rules",
+            "EVENT"
+        ],
+        [
+            "Pan-European STOXX 600 index",
+            "COMP",
+            "Increase",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro zone blue chips",
+            "COMP",
+            "Gain",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Germany DAX",
+            "COMP",
+            "Rise",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain FTSE 100",
+            "COMP",
+            "Stay Flat",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health care firms",
+            "COMP",
+            "Support",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tech",
+            "SECTOR",
+            "Support",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Materials",
+            "COMP",
+            "Support",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trading",
+            "COMP",
+            "Cautious",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "British retailer Next",
+            "COMP",
+            "Shares Jump",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company Next",
+            "COMP",
+            "Upped",
+            "profit forecast",
+            "EVENT"
+        ],
+        [
+            "Company Next",
+            "COMP",
+            "Beat",
+            "expectations for Christmas sales",
+            "EVENT"
+        ],
+        [
+            "Shares in peer Marks & Spencer",
+            "COMP",
+            "Rise",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Europe\u2019s retail index",
+            "COMP",
+            "Best-performing sector",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Europe\u2019s retail index",
+            "COMP",
+            "Loss",
+            "3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shares in semiconductor maker AMS",
+            "COMP",
+            "Buoyant",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. tech peers",
+            "COMP",
+            "Strong gains",
+            null,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shares in British builder Carillion",
+            "COMP",
+            "Tumble",
+            "5.4 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain\u2019s markets watchdog",
+            "ORG",
+            "Open",
+            "investigation into the firm",
+            "EVENT"
+        ]
+    ]
+}

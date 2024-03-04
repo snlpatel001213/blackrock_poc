@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "European markets",
+            "GPE",
+            "Close_Higher",
+            "Thursday",
+            "DATE"
+        ],
+        [
+            "Stoxx 600",
+            "GPE",
+            "Close",
+            "0.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Automotive stocks",
+            "SECTOR",
+            "Lead_Gains",
+            "Better-than-expected U.S. car sales data",
+            "EVENT"
+        ],
+        [
+            "FIAT Chrysler",
+            "COMP",
+            "Top_Performer",
+            "Up 8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FTSE",
+            "GPE",
+            "Hit_Record_High",
+            "7,701.93",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Extend_Recovery",
+            "Shares_Skyrocketed_21%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Remy Cointreau",
+            "COMP",
+            "Slump",
+            "Shares_Slipped_3.6%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services PMI",
+            "EVENT",
+            "Show",
+            "Euro_Zone_Best_Growth_7_Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spain",
+            "GPE",
+            "Beat_Previous_Flash_Estimates",
+            "Services_PMI",
+            "EVENT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Beat_Previous_Flash_Estimates",
+            "Services_PMI",
+            "EVENT"
+        ],
+        [
+            "Dow Jones industrial average",
+            "GPE",
+            "Break_Above_25,000",
+            "First_Time",
+            "EVENT"
+        ],
+        [
+            "U.S. factory activity",
+            "SECTOR",
+            "Stronger-than-anticipated",
+            "December",
+            "DATE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Unemployment_Rate",
+            "Record_Low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil prices",
+            "FIN_INSTRUMENT",
+            "Flirt_with_2.5_Year_Highs",
+            "Iran_Unrest",
+            "EVENT"
+        ],
+        [
+            "Brent crude",
+            "FIN_INSTRUMENT",
+            "Trade",
+            "Around_$67.87",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude",
+            "FIN_INSTRUMENT",
+            "Seen_at",
+            "$61.94",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Announce",
+            "Dividend Distributions",
+            "EVENT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Daily Prices",
+            "CONCEPT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Net Asset Values",
+            "CONCEPT"
+        ],
+        [
+            "MainStay DefinedTerm Municipal Opportunities Fund",
+            "COMP",
+            "Has",
+            "Shares",
+            "CONCEPT"
+        ],
+        [
+            "MacKay Shields LLC",
+            "ORG",
+            "Has",
+            "Assets Under Management",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

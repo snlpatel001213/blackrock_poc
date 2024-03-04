@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Lamar Advertising Company",
+            "COMP",
+            "Announce",
+            "fourth quarter ended December 31, 2017 earnings report",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lamar Advertising Company",
+            "COMP",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "Company operations",
+            "CONCEPT"
+        ],
+        [
+            "All Callers",
+            "PERSON",
+            "Dial",
+            "1-334-323-0520 or 1-334-323-9871",
+            "COMP"
+        ],
+        [
+            "Passcode",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Lamar",
+            "COMP"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Available_Through",
+            "Tuesday, March 6, 2018 at 11:59 p.m. eastern time",
+            "DATE"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Available_Through",
+            "Tuesday, March 6, 2018 at 11:59 p.m. eastern time",
+            "DATE"
+        ],
+        [
+            "Company Contact",
+            "PERSON",
+            "Buster Kantrow",
+            "Director of Investor Relations",
+            "TITLE"
+        ],
+        [
+            "Buster Kantrow",
+            "PERSON",
+            "Email",
+            "bkantrow@lamar.com",
+            "EMAIL"
+        ]
+    ]
+}

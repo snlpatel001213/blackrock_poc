@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Control",
+            "Postbank",
+            "COMP"
+        ],
+        [
+            "Investors",
+            "ORG",
+            "Participates_In",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Postbank",
+            "COMP",
+            "Has",
+            "Shareholders",
+            "ORG"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Impact",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Relate_To",
+            "WirtschaftsWoche",
+            "COMP"
+        ]
+    ]
+}

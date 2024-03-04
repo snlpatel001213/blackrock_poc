@@ -1,0 +1,131 @@
+{
+    "output": [
+        [
+            "Amazon.com",
+            "ORG",
+            "Operate_In",
+            "Emerging Market",
+            "GPE"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Operate_In",
+            "Emerging Market",
+            "GPE"
+        ],
+        [
+            "Amazon Echo Dot",
+            "PRODUCT",
+            "Has",
+            "Superior Sound Quality",
+            "CONCEPT",
+            "Negative"
+        ],
+        [
+            "Google Home Mini",
+            "PRODUCT",
+            "Has",
+            "Superior Sound Quality",
+            "CONCEPT",
+            "Negative"
+        ],
+        [
+            "Amazon Echo Dot",
+            "PRODUCT",
+            "Impact",
+            "Consumer",
+            "PERSON",
+            "Positive"
+        ],
+        [
+            "Google Home Mini",
+            "PRODUCT",
+            "Impact",
+            "Consumer",
+            "PERSON",
+            "Positive"
+        ],
+        [
+            "Amazon Echo Dot",
+            "PRODUCT",
+            "Relate_To",
+            "Buying Habits",
+            "CONCEPT"
+        ],
+        [
+            "Google Home Mini",
+            "PRODUCT",
+            "Relate_To",
+            "Buying Habits",
+            "CONCEPT"
+        ],
+        [
+            "Amazon.com",
+            "ORG",
+            "Control",
+            "Alexa",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Control",
+            "Google Assistant",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Produce",
+            "HomePod",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Introduce",
+            "HomePod",
+            "PRODUCT",
+            "Future"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Raise",
+            "Price",
+            "CONCEPT",
+            "Negative"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Control",
+            "Siri",
+            "CONCEPT"
+        ],
+        [
+            "HomePod",
+            "PRODUCT",
+            "Has",
+            "Superior Sound Quality",
+            "CONCEPT",
+            "Positive"
+        ],
+        [
+            "HomePod",
+            "PRODUCT",
+            "Impact",
+            "Apple Music Subscription",
+            "PRODUCT",
+            "Positive"
+        ]
+    ]
+}

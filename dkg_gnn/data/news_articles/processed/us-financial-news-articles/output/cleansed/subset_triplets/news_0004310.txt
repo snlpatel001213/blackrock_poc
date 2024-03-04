@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Winner",
+            "PERSON",
+            "Participates_In",
+            "GOP",
+            "ORG"
+        ],
+        [
+            "Majority",
+            "SECTOR",
+            "Has",
+            "51-49",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Operate_In",
+            "Newport News",
+            "GPE"
+        ]
+    ]
+}

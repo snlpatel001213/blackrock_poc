@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "SCANA Corp",
+            "PERSON",
+            "Terminate",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "SCANA Corp",
+            "PERSON",
+            "Required_To_Pay",
+            "Dominion Energy",
+            "ORG"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Pay",
+            "SCANA Corp",
+            "PERSON"
+        ],
+        [
+            "SCANA Corp",
+            "PERSON",
+            "Termination Fee",
+            "$240 Mln",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SCANA Corp",
+            "PERSON",
+            "SEC Filing",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "SCANA Corp",
+            "PERSON",
+            "Upon Termination",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Required_To_Pay",
+            "SCANA",
+            "PERSON"
+        ],
+        [
+            "SCANA",
+            "PERSON",
+            "Fee",
+            "$280 Mln",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Pay",
+            "SCANA",
+            "PERSON"
+        ]
+    ]
+}

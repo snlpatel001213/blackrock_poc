@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "EVIO, Inc.",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "EVIO, Inc.",
+            "ORG",
+            "Operate_In",
+            "Cannabis Industry",
+            "SECTOR"
+        ],
+        [
+            "C3 Labs, LLC",
+            "ORG",
+            "Operate_In",
+            "California",
+            "GPE"
+        ],
+        [
+            "C3 Labs, LLC",
+            "ORG",
+            "Participates_In",
+            "Cannabis Testing",
+            "SECTOR"
+        ],
+        [
+            "C3 Labs, LLC",
+            "ORG",
+            "Has",
+            "Latest Analytical Testing Equipment",
+            "PRODUCT"
+        ]
+    ]
+}

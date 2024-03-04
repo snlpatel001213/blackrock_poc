@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Announce",
+            "Pakistan gives safe haven to agents of chaos, violence and terror",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Islamabad government",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Raise",
+            "public pressure on Pakistan",
+            "GPE"
+        ],
+        [
+            "Taliban",
+            "ORG",
+            "Is_Member_Of",
+            "terrorist groups",
+            "ORG"
+        ],
+        [
+            "Haqqani network",
+            "ORG",
+            "Is_Member_Of",
+            "terrorist groups",
+            "ORG"
+        ]
+    ]
+}

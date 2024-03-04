@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "AL Smith Dinner",
+            "EVENT",
+            "Participates_In",
+            "American Politics",
+            "SECTOR"
+        ],
+        [
+            "cardinal red",
+            "CONCEPT",
+            "Relate_To",
+            "Cardinals",
+            "PERSON"
+        ],
+        [
+            "cardinal red",
+            "CONCEPT",
+            "Relate_To",
+            "Pope",
+            "PERSON"
+        ],
+        [
+            "Cardinals",
+            "PERSON",
+            "Has",
+            "distinctive vestments",
+            "PRODUCT"
+        ],
+        [
+            "Cardinals",
+            "PERSON",
+            "Has",
+            "cardinal red",
+            "CONCEPT"
+        ]
+    ]
+}

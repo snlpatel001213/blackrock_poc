@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Brazilian Industry Minister",
+            "PERSON",
+            "Resign",
+            "Brasilia",
+            "GPE"
+        ],
+        [
+            "Marcos Pereira",
+            "PERSON",
+            "Resign",
+            "Brazilian Republican Party",
+            "ORG"
+        ],
+        [
+            "Marcos Pereira",
+            "PERSON",
+            "Run_For",
+            "Congress",
+            "GPE"
+        ],
+        [
+            "Marcos Pereira",
+            "PERSON",
+            "Is_Member_Of",
+            "Brazilian Republican Party",
+            "ORG"
+        ],
+        [
+            "Marcos Pereira",
+            "PERSON",
+            "Thank",
+            "Michel Temer",
+            "PERSON"
+        ],
+        [
+            "Michel Temer",
+            "PERSON",
+            "Control",
+            "Brasilia",
+            "GPE"
+        ]
+    ]
+}

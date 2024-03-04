@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Participates_In",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Operate_In",
+            "Motivational Speaking",
+            "SECTOR"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Operate_In",
+            "Life Coaching",
+            "SECTOR"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Has",
+            "Goals",
+            "CONCEPT"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Has",
+            "Achievements",
+            "CONCEPT"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Impact",
+            "Followers",
+            "PERSON"
+        ],
+        [
+            "Follow the Leader",
+            "CONCEPT",
+            "Relate_To",
+            "Role Model",
+            "CONCEPT"
+        ],
+        [
+            "Role Model",
+            "CONCEPT",
+            "Has",
+            "Habits",
+            "CONCEPT"
+        ],
+        [
+            "Role Model",
+            "CONCEPT",
+            "Has",
+            "Behaviors",
+            "CONCEPT"
+        ],
+        [
+            "Tesla",
+            "COMP",
+            "Announce",
+            "Electric Truck",
+            "PRODUCT"
+        ],
+        [
+            "Electric Truck",
+            "PRODUCT",
+            "Has",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dedication",
+            "CONCEPT",
+            "Relate_To",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "Focus",
+            "CONCEPT",
+            "Relate_To",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "Energy",
+            "CONCEPT",
+            "Relate_To",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "Positive Energy",
+            "CONCEPT",
+            "Relate_To",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "Time Management",
+            "CONCEPT",
+            "Relate_To",
+            "Morning Routine",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "UBS",
+            "ORG",
+            "Raise",
+            "S&P 500s gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UBS",
+            "ORG",
+            "Operate_In",
+            "Financial sector",
+            "SECTOR"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Impact",
+            "Earnings growth",
+            "CONCEPT"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Corporate tax cuts",
+            "CONCEPT"
+        ],
+        [
+            "UBS",
+            "ORG",
+            "Raise",
+            "Earnings-per-share forecast",
+            "CONCEPT"
+        ]
+    ]
+}

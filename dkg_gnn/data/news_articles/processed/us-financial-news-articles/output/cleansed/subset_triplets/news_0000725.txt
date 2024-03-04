@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Justin Trudeau",
+            "PERSON",
+            "Operate_In",
+            "Parliament Hill",
+            "GPE"
+        ],
+        [
+            "Boyle",
+            "PERSON",
+            "Has",
+            "Three Children",
+            "PERSON"
+        ]
+    ]
+}

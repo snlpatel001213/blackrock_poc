@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Cancel",
+            "Dozens of flights",
+            "GPE"
+        ],
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Delay",
+            "Dozens of flights",
+            "GPE"
+        ],
+        [
+            "Nova Scotia Power",
+            "ORG",
+            "Without_Electricity",
+            "More than 17,000 businesses and homes",
+            "GPE"
+        ],
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Cancel",
+            "Most departing and arriving flights",
+            "GPE"
+        ],
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Delay",
+            "Most departing and arriving flights",
+            "GPE"
+        ],
+        [
+            "Montreal",
+            "GPE",
+            "Cancel",
+            "85 flights",
+            "GPE"
+        ],
+        [
+            "New Brunswick",
+            "GPE",
+            "Affect",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Nova Scotia",
+            "GPE",
+            "Affect",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Prince Edward Island",
+            "GPE",
+            "Affect",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Eastern United States",
+            "GPE",
+            "Affect",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Montreal",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Has",
+            "Cocktail of precipitation and strong winds",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Experience",
+            "High winds",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Experience",
+            "Heavy snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Expect",
+            "Wind speeds of up to 110 kilometers",
+            "CONCEPT"
+        ],
+        [
+            "Eastern Quebec",
+            "GPE",
+            "Expect",
+            "Up to 50 centimeters of snow",
+            "CONCEPT"
+        ]
+    ]
+}

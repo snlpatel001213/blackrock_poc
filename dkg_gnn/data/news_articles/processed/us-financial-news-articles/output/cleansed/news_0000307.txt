@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Home_To",
+            "53 Seats",
+            "ECON_INDICATOR"
+        ],
+        [
+            "California",
+            "GPE",
+            "Home_To",
+            "55 Electoral College Votes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Declining GOP Fortunes",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Pricey Real Estate",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Relate_To",
+            "Tax-Cut Bill",
+            "EVENT"
+        ],
+        [
+            "Tax-Cut Bill",
+            "EVENT",
+            "Control",
+            "Limits on Deductibility",
+            "CONCEPT"
+        ],
+        [
+            "Tax-Cut Bill",
+            "EVENT",
+            "Relate_To",
+            "High-Tax States",
+            "CONCEPT"
+        ],
+        [
+            "Tax-Cut Bill",
+            "EVENT",
+            "Relate_To",
+            "Pricey Real Estate",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Bond Market",
+            "FIN_INSTRUMENT",
+            "Enter",
+            "Whole New Cycle",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Announce",
+            "Bond Breakdown",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Operate_In",
+            "Louise Yamada Technical Research Advisors",
+            "ORG"
+        ],
+        [
+            "US Interest Rates",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Longer-Term Trend",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Point_To",
+            "More-Than-200-Year Chart",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Appear_On",
+            "CNBC\u2019s \u201cFutures Now\u201d",
+            "EVENT"
+        ],
+        [
+            "Rates",
+            "ECON_INDICATOR",
+            "Begin",
+            "Rising Rate Cycle",
+            "CONCEPT"
+        ],
+        [
+            "US Two-Year Treasury Yield",
+            "ECON_INDICATOR",
+            "Go_Through",
+            "1.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Explain",
+            "Nine-Year Base",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Suggest",
+            "Breakout Indicative",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Indicate",
+            "Reversal",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Expect",
+            "Rates Will Keep Rising",
+            "CONCEPT"
+        ],
+        [
+            "Bond Prices",
+            "FIN_INSTRUMENT",
+            "Could Fall",
+            "NA",
+            "NA"
+        ],
+        [
+            "End Result",
+            "CONCEPT",
+            "Could Be",
+            "Positive",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Think",
+            "Tax Reform Doing Better",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Could See",
+            "Corresponding Rise",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Expect",
+            "Rates Go Easily Through 3 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3 Percent",
+            "ECON_INDICATOR",
+            "Indicate",
+            "Bonds In Rising Rate Cycle",
+            "CONCEPT"
+        ],
+        [
+            "10-Year Treasury Yield",
+            "ECON_INDICATOR",
+            "Hover",
+            "Around 2.44 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

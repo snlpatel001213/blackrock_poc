@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Rikers Island",
+            "GPE",
+            "Has",
+            "Jail",
+            "ORG"
+        ],
+        [
+            "Jail",
+            "ORG",
+            "Operate_In",
+            "Rikers Island",
+            "GPE"
+        ],
+        [
+            "Rikers Island",
+            "GPE",
+            "Has",
+            "George Motchan Detention Center",
+            "ORG"
+        ],
+        [
+            "Rikers Island",
+            "GPE",
+            "Has",
+            "Plan",
+            "EVENT"
+        ]
+    ]
+}

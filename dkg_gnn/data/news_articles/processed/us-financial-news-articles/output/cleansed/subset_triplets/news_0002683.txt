@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Participates_In",
+            "Voluntary_Redundancy",
+            "CONCEPT"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Impact",
+            "Job_Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Negative_Impact_On",
+            "Workers",
+            "CONCEPT"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Participates_In",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Histadrut labour federation",
+            "ORG",
+            "Participates_In",
+            "Voluntary_Redundancy",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Operate_In",
+            "Teva Pharmaceutical Industries",
+            "COMP"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Participates_In",
+            "Job_Cuts",
+            "CONCEPT"
+        ]
+    ]
+}

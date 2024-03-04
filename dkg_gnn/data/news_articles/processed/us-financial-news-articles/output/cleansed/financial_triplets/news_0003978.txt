@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Levi & Korsinsky",
+            "ORG",
+            "Announce",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Levi & Korsinsky",
+            "ORG",
+            "Operate_In",
+            "New York, California, Connecticut and Washington D.C.",
+            "GPE"
+        ],
+        [
+            "Intel Corporation",
+            "COMP",
+            "Has",
+            "Fundamental Design Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corporation",
+            "COMP",
+            "Impact",
+            "Hackers",
+            "PERSON"
+        ],
+        [
+            "Intel Corporation",
+            "COMP",
+            "Relate_To",
+            "Security Bugs",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corporation",
+            "COMP",
+            "Negative_Impact_On",
+            "Secure Information",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corporation",
+            "COMP",
+            "Operate_In",
+            "NASDAQ:INTC",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Levi & Korsinsky",
+            "ORG",
+            "Has",
+            "Extensive Expertise",
+            "CONCEPT"
+        ]
+    ]
+}

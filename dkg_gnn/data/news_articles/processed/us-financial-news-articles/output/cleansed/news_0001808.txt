@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Dissolve",
+            "Presidential Commission",
+            "ORG"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Relate_To",
+            "Allegations of Electoral Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Operate_In",
+            "2016 Election",
+            "EVENT"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Head",
+            "Presidential Commission",
+            "ORG"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Establish",
+            "May",
+            "TIME"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Meet",
+            "Resistance",
+            "CONCEPT"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Lack",
+            "Legal Authority",
+            "CONCEPT"
+        ],
+        [
+            "Presidential Commission",
+            "ORG",
+            "Ask",
+            "Department of Homeland Security",
+            "ORG/GOV"
+        ],
+        [
+            "Department of Homeland Security",
+            "ORG/GOV",
+            "Review",
+            "Issues",
+            "CONCEPT"
+        ],
+        [
+            "Department of Homeland Security",
+            "ORG/GOV",
+            "Determine",
+            "Next Courses of Action",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Say",
+            "Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Fraud",
+            "CONCEPT",
+            "May",
+            "Account",
+            "VERB"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Lose",
+            "Nationwide",
+            "ADV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Lose",
+            "Popular Vote",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Nearly",
+            "3 Million Votes",
+            "QUANTITY"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Rival",
+            "Hillary Clinton",
+            "PERSON"
+        ],
+        [
+            "Most State Officials",
+            "PERSON",
+            "Oversee",
+            "Elections",
+            "CONCEPT"
+        ],
+        [
+            "Election Law Experts",
+            "PERSON",
+            "Say",
+            "Voter Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Voter Fraud",
+            "CONCEPT",
+            "Rare",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

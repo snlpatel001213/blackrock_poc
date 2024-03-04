@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Tesla Inc",
+            "COMP",
+            "Decrease",
+            "Model 3 Production Target",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Operate_In",
+            "Electric Car Market",
+            "SECTOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Raise",
+            "Cashflow Risks",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Elon Musk",
+            "PERSON"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Control",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Control",
+            "Model S",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Control",
+            "Model X",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Impact",
+            "Rivals",
+            "COMP"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Deepak Ahuja",
+            "PERSON"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Cash and Cash Equivalents",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Quarterly Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Production Bottlenecks",
+            "CONCEPT"
+        ],
+        [
+            "Analysts",
+            "ORG",
+            "Stay",
+            "Upbeat",
+            "CONCEPT"
+        ],
+        [
+            "Analysts",
+            "ORG",
+            "Participates_In",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Investors",
+            "ORG",
+            "Focus",
+            "Cashflow Impact",
+            "CONCEPT"
+        ],
+        [
+            "Evercore ISI",
+            "ORG",
+            "Announce",
+            "Cash Tailwind",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Track",
+            "Sales",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Has",
+            "Gross Margin Improvement",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Relate_To",
+            "Production Scale",
+            "CONCEPT"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Is_Member_Of",
+            "Rivals",
+            "COMP"
+        ],
+        [
+            "BMW",
+            "COMP",
+            "Is_Member_Of",
+            "Rivals",
+            "COMP"
+        ],
+        [
+            "Baird Equity Research",
+            "ORG",
+            "Announce",
+            "Potential Demand",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "King Engineering",
+            "COMP",
+            "Acquire",
+            "CTT Engineering",
+            "COMP"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Operate_In",
+            "Gulf Coast, Southeast and Mid-Atlantic",
+            "GPE"
+        ],
+        [
+            "CTT Engineering",
+            "COMP",
+            "Operate_In",
+            "Wilmington, Raleigh and Charlotte",
+            "GPE"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Has",
+            "~300 professionals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RTC Partners, LLC",
+            "ORG/PE",
+            "Partner",
+            "King Engineering",
+            "COMP"
+        ],
+        [
+            "RTC Partners, LLC",
+            "ORG/PE",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "RTC Partners, LLC",
+            "ORG/PE",
+            "Is_Member_Of",
+            "Private Equity Firms",
+            "SECTOR"
+        ],
+        [
+            "Straddling, Yocca, Carlson and Rauth, P.C.",
+            "ORG",
+            "Act_as",
+            "Legal Counsel",
+            "CONCEPT"
+        ],
+        [
+            "BDO USA, LLP",
+            "ORG",
+            "Act_as",
+            "Financial and Tax Advisor",
+            "CONCEPT"
+        ]
+    ]
+}

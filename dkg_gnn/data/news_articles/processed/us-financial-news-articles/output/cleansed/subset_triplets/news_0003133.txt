@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Raise",
+            "Oracle",
+            "COMP"
+        ],
+        [
+            "Oracle",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Control",
+            "Fast Money Halftime Report",
+            "EVENT"
+        ],
+        [
+            "Fast Money Halftime Report",
+            "EVENT",
+            "Participates_In",
+            "Discussion",
+            "CONCEPT"
+        ],
+        [
+            "Oracle",
+            "COMP",
+            "Impact",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

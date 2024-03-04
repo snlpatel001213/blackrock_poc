@@ -1,0 +1,184 @@
+{
+    "output": [
+        [
+            "David Stockman",
+            "PERSON",
+            "Warn",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Warn",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Relate_To",
+            "Wall Street Bear",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "End",
+            "Disastrously",
+            "CONCEPT"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Say",
+            "Gigantic Storm",
+            "CONCEPT"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Warn",
+            "Correction",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "ECON_INDICATOR",
+            "Flirt",
+            "25000",
+            "NUM"
+        ],
+        [
+            "S&P",
+            "ECON_INDICATOR",
+            "Trade",
+            "Record",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Blame",
+            "Hype",
+            "CONCEPT"
+        ],
+        [
+            "Central Banks",
+            "ORG/REG",
+            "Blame",
+            "Hype",
+            "CONCEPT"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Say",
+            "Monetary Problems",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "SECTOR",
+            "Overheated",
+            "Never Before",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Soar",
+            "3000 Percent",
+            "NUM"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Price Swings",
+            "Spark",
+            "VERB"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Debate",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Litecoin",
+            "PRODUCT",
+            "Surge",
+            "CONCEPT"
+        ],
+        [
+            "Ether",
+            "PRODUCT",
+            "Surge",
+            "CONCEPT"
+        ],
+        [
+            "David Stockman",
+            "PERSON",
+            "Have",
+            "No Idea",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Could",
+            "Zero",
+            "NUM"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Not",
+            "Real Money",
+            "CONCEPT"
+        ],
+        [
+            "CBOE",
+            "ORG",
+            "Add",
+            "Bitcoin Futures",
+            "PRODUCT"
+        ],
+        [
+            "CME",
+            "ORG",
+            "Add",
+            "Bitcoin Futures",
+            "PRODUCT"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Shear",
+            "Sheep",
+            "CONCEPT"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Line",
+            "Gimmick",
+            "CONCEPT"
+        ],
+        [
+            "Futures Market",
+            "PRODUCT",
+            "Nothing",
+            "Validated",
+            "VERB"
+        ]
+    ]
+}

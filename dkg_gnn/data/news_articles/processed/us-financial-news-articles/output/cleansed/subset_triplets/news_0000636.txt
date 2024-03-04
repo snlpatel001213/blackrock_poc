@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "First lady Melania Trump",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "2016 Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Ivanka Trump",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Kellyanne Conway",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Melania Trump",
+            "PERSON"
+        ],
+        [
+            "Sam Nunberg",
+            "PERSON",
+            "Operate_In",
+            "Trump Campaign",
+            "ORG"
+        ],
+        [
+            "Sam Nunberg",
+            "PERSON",
+            "Relate_To",
+            "Constitution",
+            "CONCEPT"
+        ]
+    ]
+}

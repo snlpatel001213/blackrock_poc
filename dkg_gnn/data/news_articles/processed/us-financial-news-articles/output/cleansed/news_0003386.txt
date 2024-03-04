@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ],
+        [
+            "Canice Leung",
+            "PERSON",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Include",
+            "Palestinian protests",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Include",
+            "Trump's U.S. embassy move to Jerusalem",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Include",
+            "Rohingya refugee crisis",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Include",
+            "Christmas celebrations",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Include",
+            "ringing in 2018",
+            "EVENT"
+        ]
+    ]
+}

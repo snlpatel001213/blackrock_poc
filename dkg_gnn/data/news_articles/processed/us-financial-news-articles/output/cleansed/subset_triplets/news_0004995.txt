@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "RXi Pharmaceuticals",
+            "ORG",
+            "Announce",
+            "Reverse Stock Split",
+            "EVENT"
+        ],
+        [
+            "RXi Pharmaceuticals",
+            "ORG",
+            "Operate_In",
+            "Pharmaceuticals",
+            "SECTOR"
+        ],
+        [
+            "RXi Pharmaceuticals",
+            "ORG",
+            "Control",
+            "Shares of Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "RXi Pharmaceuticals",
+            "ORG",
+            "Impact",
+            "Company Coverage",
+            "CONCEPT"
+        ]
+    ]
+}

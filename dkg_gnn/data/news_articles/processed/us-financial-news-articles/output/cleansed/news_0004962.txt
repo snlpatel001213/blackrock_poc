@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ed Lee",
+            "PERSON",
+            "Discusses",
+            "Apple security flaw",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Has",
+            "security exploits",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Has",
+            "high-performance chips",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Push",
+            "updates",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Protect",
+            "consumers",
+            "PERSON"
+        ]
+    ]
+}

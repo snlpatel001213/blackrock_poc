@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Worry_About",
+            "Mueller",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Not",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Robert Traynham",
+            "PERSON",
+            "Weigh_In",
+            "Fallout",
+            "EVENT"
+        ],
+        [
+            "Robert Traynham",
+            "PERSON",
+            "Is_Member_Of",
+            "Bush-Cheney Advisor",
+            "ORG"
+        ]
+    ]
+}

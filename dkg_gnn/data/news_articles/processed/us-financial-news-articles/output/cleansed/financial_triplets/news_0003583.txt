@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Walter Isaacson",
+            "PERSON",
+            "Is_Member_Of",
+            "Aspen Institute",
+            "ORG"
+        ],
+        [
+            "Aspen Institute",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "New York Times",
+            "ORG",
+            "Produce",
+            "Tech Reporter",
+            "PERSON"
+        ]
+    ]
+}

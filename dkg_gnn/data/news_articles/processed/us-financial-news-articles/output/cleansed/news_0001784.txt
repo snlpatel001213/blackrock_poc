@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "NASA",
+            "ORG",
+            "Plan",
+            "Returning Astronauts to the Moon",
+            "EVENT"
+        ],
+        [
+            "NASA",
+            "ORG",
+            "Commission",
+            "Independent Research Study",
+            "ORG"
+        ],
+        [
+            "Independent Research Study",
+            "ORG",
+            "Advocate",
+            "Using Asteroids to Produce Fuel",
+            "CONCEPT"
+        ],
+        [
+            "Using Asteroids to Produce Fuel",
+            "CONCEPT",
+            "Relate_To",
+            "Space Exploration",
+            "CONCEPT"
+        ],
+        [
+            "Using Asteroids to Produce Fuel",
+            "CONCEPT",
+            "Impact",
+            "Robotic and Manned Missions",
+            "EVENT"
+        ],
+        [
+            "Using Asteroids to Produce Fuel",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Public-Private Cooperation",
+            "CONCEPT"
+        ]
+    ]
+}

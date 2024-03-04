@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "CenterState",
+            "ORG",
+            "Announce",
+            "Completed acquisitions",
+            "EVENT"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Approximately $10.2 billion in assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Approximately $7.9 billion in deposits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "142 branches",
+            "SECTOR"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Future business decisions and actions",
+            "CONCEPT"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Future operations, strategies, financial results or other developments",
+            "CONCEPT"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Risks and uncertainties",
+            "CONCEPT"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Possible future regulatory or judicial actions",
+            "CONCEPT"
+        ],
+        [
+            "CenterState",
+            "ORG",
+            "Has",
+            "Changes in laws and regulations applicable to the Company",
+            "CONCEPT"
+        ]
+    ]
+}

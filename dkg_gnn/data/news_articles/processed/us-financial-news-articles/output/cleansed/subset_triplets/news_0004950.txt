@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "BankUnited, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BankUnited, Inc.",
+            "ORG",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "BankUnited, Inc.",
+            "ORG",
+            "Operate_In",
+            "New York metropolitan area",
+            "GPE"
+        ],
+        [
+            "BankUnited, Inc.",
+            "ORG",
+            "Participates_In",
+            "Call",
+            "EVENT"
+        ],
+        [
+            "BankUnited, Inc.",
+            "ORG",
+            "Operate_In",
+            "Miami Lakes",
+            "GPE"
+        ],
+        [
+            "Rajinder P. Singh",
+            "PERSON",
+            "Participates_In",
+            "Call",
+            "EVENT"
+        ],
+        [
+            "Leslie N. Lunak",
+            "PERSON",
+            "Participates_In",
+            "Call",
+            "EVENT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Relate_To",
+            "BankUnited, Inc.",
+            "ORG"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Relate_To",
+            "Rajinder P. Singh",
+            "PERSON"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Relate_To",
+            "Leslie N. Lunak",
+            "PERSON"
+        ]
+    ]
+}

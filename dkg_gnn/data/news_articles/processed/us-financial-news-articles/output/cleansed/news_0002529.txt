@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Travelers",
+            "PERSON",
+            "Frustrated",
+            "NA",
+            "NA"
+        ],
+        [
+            "Travelers",
+            "PERSON",
+            "Angry",
+            "NA",
+            "NA"
+        ],
+        [
+            "Immigration desk computers",
+            "PRODUCT",
+            "Go_Down",
+            "NA",
+            "NA"
+        ],
+        [
+            "U.S. airports",
+            "GPE",
+            "Host",
+            "Long lines",
+            "CONCEPT"
+        ],
+        [
+            "Travelers",
+            "PERSON",
+            "Enter",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Customs and Border Protection",
+            "ORG/GOV",
+            "Announce",
+            "Computers down",
+            "CONCEPT"
+        ]
+    ]
+}

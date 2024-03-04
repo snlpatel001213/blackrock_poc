@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Houthi Forces",
+            "ORG",
+            "Shoot_Down",
+            "Warplane",
+            "COMP"
+        ],
+        [
+            "Warplane",
+            "COMP",
+            "Belong_To",
+            "Saudi-led Coalition",
+            "ORG"
+        ],
+        [
+            "Saudi-led Coalition",
+            "ORG",
+            "Operate_In",
+            "Saada Province",
+            "GPE"
+        ],
+        [
+            "Houthi Forces",
+            "ORG",
+            "Has",
+            "Broadcasters",
+            "ORG"
+        ],
+        [
+            "Al Arabiya",
+            "ORG",
+            "Report",
+            "Pilots_Survive",
+            "PERSON"
+        ],
+        [
+            "Houthi Forces",
+            "ORG",
+            "Has",
+            "Al-Massirah",
+            "ORG"
+        ],
+        [
+            "Fighter",
+            "COMP",
+            "Is_A",
+            "Tornado",
+            "COMP"
+        ],
+        [
+            "Tornado",
+            "COMP",
+            "Is_From",
+            "Britain",
+            "GPE"
+        ]
+    ]
+}

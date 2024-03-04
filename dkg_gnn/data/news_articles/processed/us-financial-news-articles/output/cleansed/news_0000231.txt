@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Operate_In",
+            "NYSE",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cash Dividend",
+            "ECON_INDICATOR",
+            "Payable_On",
+            "March 13, 2018",
+            "DATE"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Is_Member_Of",
+            "Johnson & Johnson",
+            "ORG"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Record_At",
+            "February 27, 2018",
+            "DATE"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Ex_Dividend",
+            "February 26, 2018",
+            "DATE"
+        ]
+    ]
+}

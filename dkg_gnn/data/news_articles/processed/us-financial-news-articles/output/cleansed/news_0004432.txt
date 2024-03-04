@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "China Yuchai International Limited",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "China Yuchai International Limited",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Guangxi Yuchai Machinery Company Limited",
+            "ORG",
+            "Subsidiary_Of",
+            "China Yuchai International Limited",
+            "ORG"
+        ],
+        [
+            "Guangxi Yuchai Machinery Monopoly Development Co., Ltd",
+            "ORG",
+            "Subsidiary_Of",
+            "China Yuchai International Limited",
+            "ORG"
+        ],
+        [
+            "Hunan Yuchai Machinery Industry Company Limited",
+            "ORG",
+            "Acquired_By",
+            "Guangxi Yuchai Machinery Monopoly Development Co., Ltd",
+            "ORG"
+        ],
+        [
+            "Hunan Chengwei Automobile Spare Parts Company Limited",
+            "ORG",
+            "Joint_Venture_Partner_Of",
+            "Hunan Yuchai Machinery Industry Company Limited",
+            "ORG"
+        ],
+        [
+            "Hunan Yuchai Machinery Industry Company Limited",
+            "ORG",
+            "Wholly_Owned_Subsidiary_Of",
+            "Guangxi Yuchai Machinery Monopoly Development Co., Ltd",
+            "ORG"
+        ],
+        [
+            "RMB6,694,500",
+            "ECON_INDICATOR",
+            "Funded_By",
+            "Internal Resources",
+            "CONCEPT"
+        ],
+        [
+            "RMB6,694,500",
+            "ECON_INDICATOR",
+            "Satisfied_In",
+            "Cash",
+            "CONCEPT"
+        ],
+        [
+            "June 30, 2017",
+            "DATE",
+            "Valuation_Date",
+            "Market Value",
+            "CONCEPT"
+        ],
+        [
+            "Beijing China Enterprise Asset Appraisal Co., Ltd",
+            "ORG",
+            "Performed",
+            "Valuation",
+            "EVENT"
+        ],
+        [
+            "Hunan Chengwei",
+            "ORG",
+            "Commissioned",
+            "Valuation",
+            "EVENT"
+        ],
+        [
+            "GYMMD",
+            "ORG",
+            "Commissioned",
+            "Valuation",
+            "EVENT"
+        ],
+        [
+            "1.4%",
+            "ECON_INDICATOR",
+            "Discount_To",
+            "Market Value",
+            "CONCEPT"
+        ],
+        [
+            "100%",
+            "ECON_INDICATOR",
+            "Equity Interest",
+            "HYMIC",
+            "ORG"
+        ],
+        [
+            "RMB13,856,500",
+            "ECON_INDICATOR",
+            "Market Value",
+            "HYMIC",
+            "ORG"
+        ]
+    ]
+}

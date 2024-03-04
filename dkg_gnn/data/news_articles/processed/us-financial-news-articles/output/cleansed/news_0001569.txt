@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dick's Sporting Goods",
+            "COMP",
+            "Relate_To",
+            "Sporting Goods Sector",
+            "SECTOR"
+        ],
+        [
+            "Best Buy",
+            "COMP",
+            "Is_Member_Of",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Dick's Sporting Goods",
+            "COMP",
+            "Could_be",
+            "Survivor",
+            "CONCEPT"
+        ],
+        [
+            "Wells Fargo",
+            "ORG",
+            "Announce",
+            "Survivor",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Slate Office REIT",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Slate Office REIT",
+            "ORG",
+            "Operate_In",
+            "Chicago, Illinois",
+            "GPE"
+        ],
+        [
+            "20 South Clark Street",
+            "GPE",
+            "Is_Member_Of",
+            "Chicago, Illinois",
+            "GPE"
+        ],
+        [
+            "Slate Office REIT",
+            "ORG",
+            "Control",
+            "US$85.6 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Slate Office REIT",
+            "ORG",
+            "Invests_In",
+            "New Debt Financing",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

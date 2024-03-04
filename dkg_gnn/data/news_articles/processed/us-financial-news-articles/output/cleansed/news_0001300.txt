@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Ayatollah Ali Khamenei",
+            "PERSON",
+            "Blame",
+            "Iran\u2019,s Enemies",
+            "ORG"
+        ],
+        [
+            "Iran\u2019,s Enemies",
+            "ORG",
+            "Cause",
+            "Unrest",
+            "EVENT"
+        ],
+        [
+            "Unrest",
+            "EVENT",
+            "Occur_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran\u2019,s Government",
+            "ORG/GOV",
+            "Crackdown",
+            "Unrest",
+            "EVENT"
+        ],
+        [
+            "Unrest",
+            "EVENT",
+            "Threaten_To_Continue",
+            "Sixth Day",
+            "TIME"
+        ],
+        [
+            "Iranian Media",
+            "ORG",
+            "Report",
+            "Death Toll",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Death Toll",
+            "ECON_INDICATOR",
+            "Above",
+            "20",
+            "NUM"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Aggressive_Approach",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Shift",
+            "Balance_Of_Power",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Hawkishness",
+            "Warn",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Respond",
+            "Saudi Arabia\u2019,s Hawkishness",
+            "CONCEPT"
+        ]
+    ]
+}

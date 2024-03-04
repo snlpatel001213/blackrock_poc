@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Barcelona",
+            "GPE",
+            "Has",
+            "Dembele",
+            "PERSON"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Announce",
+            "Celta Vigo",
+            "GPE"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Operate_In",
+            "La Liga",
+            "SECTOR"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Invests_In",
+            "Coutinho",
+            "PERSON"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Control",
+            "Valverde",
+            "PERSON"
+        ]
+    ]
+}

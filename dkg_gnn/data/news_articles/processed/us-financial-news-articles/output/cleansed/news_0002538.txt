@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Operate_In",
+            "Burger Restaurants",
+            "ORG"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Own",
+            "Hooters Restaurants",
+            "ORG"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Invest_In",
+            "Hooters of America",
+            "ORG"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Introduce",
+            "Blockchain-related Technology",
+            "CONCEPT"
+        ],
+        [
+            "Blockchain-related Technology",
+            "CONCEPT",
+            "Relate_To",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Participates_In",
+            "Customer Rewards Program",
+            "CONCEPT"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Raise",
+            "Nearly 50 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Operate_In",
+            "Nasdaq",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Longfin",
+            "COMP",
+            "Surge",
+            "1342 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Longfin",
+            "COMP",
+            "Buy",
+            "Cryptocurrency Company",
+            "COMP"
+        ],
+        [
+            "Longfin",
+            "COMP",
+            "Have",
+            "No Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Longfin",
+            "COMP",
+            "Spur",
+            "CEO Statement",
+            "CONCEPT"
+        ],
+        [
+            "Long Island Iced Tea",
+            "COMP",
+            "Change Name",
+            "Long Blockchain Corp",
+            "COMP"
+        ],
+        [
+            "Long Island Iced Tea",
+            "COMP",
+            "Focus",
+            "Blockchain Technology",
+            "CONCEPT"
+        ]
+    ]
+}

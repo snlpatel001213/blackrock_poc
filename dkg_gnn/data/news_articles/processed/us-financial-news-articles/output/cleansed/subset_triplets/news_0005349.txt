@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "California Department of Water Resources",
+            "ORG/GOV",
+            "Operate_In",
+            "Oroville Dam",
+            "GPE"
+        ],
+        [
+            "Oroville Dam",
+            "GPE",
+            "Has",
+            "Inherent Flaws",
+            "CONCEPT"
+        ],
+        [
+            "State Agency",
+            "ORG/GOV",
+            "Participates_In",
+            "Emergency",
+            "EVENT"
+        ]
+    ]
+}

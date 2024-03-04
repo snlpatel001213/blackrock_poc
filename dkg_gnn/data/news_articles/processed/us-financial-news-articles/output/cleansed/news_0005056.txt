@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "East Coast",
+            "GPE",
+            "Brace",
+            "Arctic Temps",
+            "CONCEPT"
+        ],
+        [
+            "Peak Resorts",
+            "ORG",
+            "Participates_In",
+            "Ski Resorts",
+            "ORG"
+        ],
+        [
+            "Tim Boyd",
+            "PERSON",
+            "Is_Member_Of",
+            "Peak Resorts",
+            "ORG"
+        ],
+        [
+            "Bomb Cyclone",
+            "EVENT",
+            "Impact",
+            "Ski Resorts",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Founders Fund",
+            "ORG",
+            "Invests_In",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Is_Member_Of",
+            "Founders Fund",
+            "ORG"
+        ],
+        [
+            "PayPal",
+            "COMP",
+            "Relate_To",
+            "Peter Thiel",
+            "PERSON"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Peter Thiel",
+            "PERSON"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "13.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Coinbase",
+            "COMP"
+        ],
+        [
+            "Cboe",
+            "COMP",
+            "Control",
+            "Bitcoin Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Founders Fund",
+            "ORG",
+            "Hold",
+            "Hundreds of Millions of Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Compared_To",
+            "Gold",
+            "CONCEPT"
+        ],
+        [
+            "Tim Draper",
+            "PERSON",
+            "Buy",
+            "Nearly 30,000 Bitcoins",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tim Draper",
+            "PERSON",
+            "Confirm",
+            "Still Holding All Those Coins",
+            "CONCEPT"
+        ]
+    ]
+}

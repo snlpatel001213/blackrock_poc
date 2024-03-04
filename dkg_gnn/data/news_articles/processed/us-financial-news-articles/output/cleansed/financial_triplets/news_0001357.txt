@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Kenyan Police",
+            "ORG",
+            "Operate_In",
+            "Mandera County",
+            "GPE"
+        ],
+        [
+            "Mandera County",
+            "GPE",
+            "Is_Member_Of",
+            "Kenya",
+            "GPE"
+        ],
+        [
+            "Al Shabaab",
+            "ORG",
+            "Operate_In",
+            "Somalia",
+            "GPE"
+        ]
+    ]
+}

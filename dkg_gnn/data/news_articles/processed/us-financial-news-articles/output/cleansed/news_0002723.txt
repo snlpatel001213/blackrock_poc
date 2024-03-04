@@ -1,0 +1,69 @@
+{
+    "output": [
+        [
+            "Heidi Lamar",
+            "PERSON",
+            "Claims",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Paid",
+            "Female Teachers",
+            "PERSON"
+        ],
+        [
+            "Male Teachers",
+            "PERSON",
+            "More",
+            "Female Teachers",
+            "PERSON"
+        ],
+        [
+            "Lawsuit",
+            "EVENT",
+            "Define",
+            "Classes",
+            "SECTOR"
+        ],
+        [
+            "Classes",
+            "SECTOR",
+            "Include",
+            "Female Engineers",
+            "PERSON"
+        ],
+        [
+            "Female Researchers",
+            "PERSON",
+            "Managers",
+            "PERSON",
+            "Salespeople",
+            "PERSON",
+            "Teachers",
+            "PERSON"
+        ],
+        [
+            "Heidi Lamar",
+            "PERSON",
+            "Speak Up",
+            "Women",
+            "PERSON"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Not Respond",
+            "Fortune",
+            "ORG"
+        ]
+    ]
+}

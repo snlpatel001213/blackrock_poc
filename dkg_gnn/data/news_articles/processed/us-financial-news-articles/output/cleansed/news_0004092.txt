@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Lisa Rapaport",
+            "PERSON",
+            "Write",
+            "Air pollution around conception tied to birth defects",
+            "EVENT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Breathe",
+            "Polluted air",
+            "CONCEPT"
+        ],
+        [
+            "Pregnant women",
+            "PERSON",
+            "More likely",
+            "Babies with birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Examine",
+            "Data on birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Ohio",
+            "GPE",
+            "Match",
+            "Air pollution measurements",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Focus",
+            "PM 2.5",
+            "CONCEPT"
+        ],
+        [
+            "PM 2.5",
+            "CONCEPT",
+            "Exposure",
+            "Month before and after pregnancy",
+            "TIME"
+        ],
+        [
+            "Higher levels of PM 2.5 exposure",
+            "CONCEPT",
+            "Associated with",
+            "Increased risk of congenital birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Emily DeFranco",
+            "PERSON",
+            "Senior study author",
+            "University of Cincinnati College of Medicine in Ohio",
+            "ORG"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Exposed to average PM 2.5 levels",
+            "13.79 ug/m3",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Experience",
+            "10 ug/m3 increase in PM 2.5 levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Babies",
+            "PERSON",
+            "More likely",
+            "Born with birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Certain types of birth defects",
+            "CONCEPT",
+            "Appear more strongly connected",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Abdominal malformations",
+            "CONCEPT",
+            "Connected",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Hypospadias",
+            "CONCEPT",
+            "Connected",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Environmental Protection Agency",
+            "ORG",
+            "Standard",
+            "15 ug/m3",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Environmental Protection Agency",
+            "ORG",
+            "Current standard",
+            "12 ug/m3",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dr. Shruthi Mahalingaiah",
+            "PERSON",
+            "Environmental health researcher",
+            "Boston University",
+            "ORG"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Limit exposure",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Policy makers",
+            "PERSON",
+            "Work",
+            "Reduce emissions",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "PERSON",
+            "Work",
+            "Reduce emissions",
+            "CONCEPT"
+        ],
+        [
+            "Nations",
+            "PERSON",
+            "Work",
+            "Reduce emissions",
+            "CONCEPT"
+        ]
+    ]
+}

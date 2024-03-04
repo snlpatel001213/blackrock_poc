@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "UN",
+            "ORG/REG"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Missile Programs",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Nuclear Programs",
+            "CONCEPT"
+        ]
+    ]
+}

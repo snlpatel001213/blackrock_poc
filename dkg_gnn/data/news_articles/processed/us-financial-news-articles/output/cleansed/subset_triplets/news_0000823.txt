@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Howard Hughes Corp",
+            "ORG",
+            "Announce",
+            "Pricing",
+            "CONCEPT"
+        ],
+        [
+            "Selling Stockholders",
+            "PERSON",
+            "Announce",
+            "Pricing",
+            "CONCEPT"
+        ],
+        [
+            "Selling Stockholders",
+            "PERSON",
+            "Operate_In",
+            "Howard Hughes Corp",
+            "ORG"
+        ],
+        [
+            "Howard Hughes Corp",
+            "ORG",
+            "Control",
+            "Common Stock",
+            "SECTOR"
+        ],
+        [
+            "Pershing Square Holding",
+            "PERSON",
+            "Participates_In",
+            "Underwritten Public Secondary Offering",
+            "CONCEPT"
+        ],
+        [
+            "Howard Hughes Corp",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Treasury investors",
+            "PERSON",
+            "Raise",
+            "long-term interest rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Republican tax plan",
+            "ORG",
+            "Impact",
+            "Treasury investors",
+            "PERSON"
+        ],
+        [
+            "10-year Treasury",
+            "PRODUCT",
+            "Has",
+            "yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year Treasury",
+            "PRODUCT",
+            "Operate_In",
+            "Financial markets",
+            "SECTOR"
+        ],
+        [
+            "long-term interest rates",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Financial markets",
+            "SECTOR"
+        ],
+        [
+            "long-term interest rates",
+            "ECON_INDICATOR",
+            "Positive_Impact_On",
+            "Financial markets",
+            "SECTOR"
+        ]
+    ]
+}

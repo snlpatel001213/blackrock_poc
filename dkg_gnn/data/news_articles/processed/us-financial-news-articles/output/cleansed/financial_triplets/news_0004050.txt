@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "David Domzalski",
+            "PERSON",
+            "Has",
+            25,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Has",
+            "Two",
+            "ECON_INDICATOR",
+            "Late_Stage",
+            "Clinical_Development_Programs",
+            "CONCEPT"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Participates_In",
+            "Phase_3_Clinical_Trials",
+            "CONCEPT"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Has",
+            "Clinical_Stage_Product_Candidates",
+            "CONCEPT"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Has",
+            "Development_and_License_Agreements",
+            "CONCEPT"
+        ],
+        [
+            "Foamix Pharmaceuticals Ltd.",
+            "COMP",
+            "Relate_To",
+            "Bayer HealthCare",
+            "COMP"
+        ]
+    ]
+}

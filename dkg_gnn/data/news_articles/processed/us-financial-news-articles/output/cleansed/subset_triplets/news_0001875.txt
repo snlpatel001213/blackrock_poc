@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "SpaceX",
+            "ORG",
+            "Operate_In",
+            "Rocket Launch",
+            "EVENT"
+        ],
+        [
+            "SpaceX",
+            "ORG",
+            "Produce",
+            "Falcon Heavy Rocket",
+            "PRODUCT"
+        ],
+        [
+            "Falcon Heavy Rocket",
+            "PRODUCT",
+            "Has",
+            "5 Million Pounds Of Thrust",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Falcon Heavy Rocket",
+            "PRODUCT",
+            "Operate_In",
+            "Low Earth Orbit",
+            "SECTOR"
+        ],
+        [
+            "Falcon Heavy Rocket",
+            "PRODUCT",
+            "Control",
+            "Three Cores",
+            "COMP"
+        ],
+        [
+            "Three Cores",
+            "COMP",
+            "Relate_To",
+            "Unison",
+            "CONCEPT"
+        ],
+        [
+            "Three Cores",
+            "COMP",
+            "Impact",
+            "Rocket Launch",
+            "EVENT"
+        ],
+        [
+            "Three Cores",
+            "COMP",
+            "Positive_Impact_On",
+            "Future Missions",
+            "EVENT"
+        ],
+        [
+            "SpaceX",
+            "ORG",
+            "Invests_In",
+            "Reusable Cores",
+            "COMP"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Is_Member_Of",
+            "SpaceX",
+            "ORG"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Raise",
+            "Expectation",
+            "CONCEPT"
+        ],
+        [
+            "Heavy Rocket",
+            "PRODUCT",
+            "Relate_To",
+            "First Launch",
+            "EVENT"
+        ],
+        [
+            "Heavy Rocket",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Wildly Successful Launch",
+            "CONCEPT"
+        ],
+        [
+            "Heavy Rocket",
+            "PRODUCT",
+            "Participates_In",
+            "Late-January Launch",
+            "EVENT"
+        ]
+    ]
+}

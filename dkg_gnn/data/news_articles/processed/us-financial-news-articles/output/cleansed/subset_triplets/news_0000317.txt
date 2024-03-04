@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "First Financial Bankshares, Inc.",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "First Financial Bankshares, Inc.",
+            "ORG",
+            "Operate_In",
+            "Texas",
+            "GPE"
+        ],
+        [
+            "F. Scott Dueser",
+            "PERSON",
+            "Is_Member_Of",
+            "First Financial Bankshares, Inc.",
+            "ORG"
+        ],
+        [
+            "Harry J. Brooks",
+            "PERSON",
+            "Is_Member_Of",
+            "Commercial State Bank",
+            "ORG"
+        ]
+    ]
+}

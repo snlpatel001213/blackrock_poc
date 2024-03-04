@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Banks",
+            "ORG",
+            "Participates_In",
+            "Mortgage Requests",
+            "ORG"
+        ],
+        [
+            "Rival Lenders",
+            "ORG",
+            "Participates_In",
+            "Mortgage Requests",
+            "ORG"
+        ],
+        [
+            "Fannie Mae",
+            "ORG",
+            "Control",
+            "Mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Freddie Mac",
+            "ORG",
+            "Control",
+            "Mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Mortgage Market",
+            "SECTOR",
+            "Impact",
+            "Home Buyers",
+            "PERSON"
+        ]
+    ]
+}

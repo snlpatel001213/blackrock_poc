@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Historic Links",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Has",
+            "Turkish Community",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Has",
+            "Post-Coup Crackdown",
+            "CONCEPT"
+        ]
+    ]
+}

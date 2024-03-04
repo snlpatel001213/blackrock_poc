@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Riot Blockchain",
+            "COMP",
+            "Control",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Shares",
+            "PRODUCT",
+            "Participates_In",
+            "Riot Blockchain",
+            "COMP"
+        ],
+        [
+            "Riot Blockchain",
+            "COMP",
+            "Operate_In",
+            "Cryptocurrency Sector",
+            "SECTOR"
+        ]
+    ]
+}

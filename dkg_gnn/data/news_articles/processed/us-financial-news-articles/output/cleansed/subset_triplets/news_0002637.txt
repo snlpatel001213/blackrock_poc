@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Raise",
+            "percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Has",
+            "Strong Balance Sheet",
+            "CONCEPT"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Impact",
+            "Costs",
+            "CONCEPT"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Relate_To",
+            "S&P 500",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

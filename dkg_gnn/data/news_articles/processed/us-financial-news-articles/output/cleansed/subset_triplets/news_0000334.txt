@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Compass",
+            "ORG",
+            "Is_Member_Of",
+            "Catering Firm",
+            "ORG"
+        ],
+        [
+            "Dominic Blakemore",
+            "PERSON",
+            "Participates_In",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Richard Cousins",
+            "PERSON",
+            "Is_Member_Of",
+            "Family Members",
+            "PERSON"
+        ]
+    ]
+}

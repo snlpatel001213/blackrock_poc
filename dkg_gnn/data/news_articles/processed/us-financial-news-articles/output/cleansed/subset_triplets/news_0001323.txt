@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Boeing Co",
+            "COMP",
+            "Operate_In",
+            "Defense Sector",
+            "SECTOR"
+        ],
+        [
+            "Embraer SA",
+            "COMP",
+            "Operate_In",
+            "Defense Sector",
+            "SECTOR"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Has",
+            "European Arch-Rival",
+            "COMP"
+        ],
+        [
+            "Boeeing Co",
+            "COMP",
+            "Participates_In",
+            "Global Passenger Jet Duopoly",
+            "CONCEPT"
+        ],
+        [
+            "Embraer SA",
+            "COMP",
+            "Produce",
+            "E-Jets",
+            "PRODUCT"
+        ],
+        [
+            "Brazilian Government",
+            "ORG/GOV",
+            "Has",
+            "Veto Rights",
+            "CONCEPT"
+        ]
+    ]
+}

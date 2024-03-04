@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S. labor market",
+            "GPE",
+            "Has",
+            "Data",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Eurozone",
+            "GPE",
+            "Has",
+            "Inflation Update",
+            "EVENT"
+        ]
+    ]
+}

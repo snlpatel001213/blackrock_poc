@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Deep freeze",
+            "CONCEPT",
+            "Impact",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "Eastern Part",
+            "GPE"
+        ],
+        [
+            "Rocky Mountains",
+            "GPE",
+            "Relate_To",
+            "Deep freeze",
+            "CONCEPT"
+        ]
+    ]
+}

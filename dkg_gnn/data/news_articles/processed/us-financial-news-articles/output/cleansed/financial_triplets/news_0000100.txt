@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Fairplane",
+            "PERSON",
+            "Raise",
+            "1 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Relate_To",
+            "Airline passengers",
+            "PERSON"
+        ],
+        [
+            "IAG",
+            "ORG",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ]
+    ]
+}

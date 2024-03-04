@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Stocks",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Caterpillar",
+            "COMP",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Energy",
+            "SECTOR",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Tech",
+            "SECTOR",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Telecoms",
+            "SECTOR",
+            "Decrease",
+            "null",
+            "null"
+        ],
+        [
+            "Utilities",
+            "SECTOR",
+            "Decrease",
+            "null",
+            "null"
+        ],
+        [
+            "Small caps",
+            "FIN_INSTRUMENT",
+            "Watch",
+            "null",
+            "null"
+        ],
+        [
+            "Financial stocks",
+            "SECTOR",
+            "Watch",
+            "null",
+            "null"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Raise",
+            "$14",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Raise",
+            "earnings per share forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "earnings per share forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Consumer discretionary",
+            "SECTOR",
+            "Impact",
+            "Positive",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Telecom",
+            "SECTOR",
+            "Impact",
+            "Positive",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Utilities",
+            "SECTOR",
+            "Impact",
+            "Negative",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real estate",
+            "SECTOR",
+            "Impact",
+            "Negative",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Natural gas futures",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "null",
+            "null"
+        ],
+        [
+            "Oil inventory data",
+            "EVENT",
+            "Release",
+            "null",
+            "null"
+        ],
+        [
+            "ADP employment",
+            "EVENT",
+            "Release",
+            "null",
+            "null"
+        ],
+        [
+            "Initial jobless claims",
+            "EVENT",
+            "Release",
+            "null",
+            "null"
+        ],
+        [
+            "Services PMI",
+            "EVENT",
+            "Release",
+            "null",
+            "null"
+        ],
+        [
+            "ADP data",
+            "EVENT",
+            "Key",
+            "null",
+            "null"
+        ],
+        [
+            "December employment report",
+            "EVENT",
+            "Ahead",
+            "null",
+            "null"
+        ]
+    ]
+}

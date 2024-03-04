@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Asure Software",
+            "COMP",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Sheakley PaySystems",
+            "ORG",
+            "Operate_In",
+            "Ohio",
+            "GPE"
+        ],
+        [
+            "Sheakley PaySystems",
+            "ORG",
+            "Operate_In",
+            "Tennessee",
+            "GPE"
+        ],
+        [
+            "Sheakley PaySystems",
+            "ORG",
+            "Operate_In",
+            "Iowa",
+            "GPE"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Control",
+            "Sheakley PaySystems",
+            "ORG"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Central US",
+            "GPE"
+        ]
+    ]
+}

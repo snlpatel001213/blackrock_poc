@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "Foxconn",
+            "COMP",
+            "Operate",
+            "iPhone maker",
+            "ORG"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Has",
+            "factory",
+            "ORG"
+        ],
+        [
+            "Worker",
+            "PERSON",
+            "Jump_From",
+            "window",
+            "OBJECT"
+        ],
+        [
+            "Worker",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Worker",
+            "PERSON",
+            "Cite",
+            "information",
+            "CONCEPT"
+        ],
+        [
+            "Employees",
+            "PERSON",
+            "Cite",
+            "information",
+            "CONCEPT"
+        ],
+        [
+            "Ming Li",
+            "PERSON",
+            "Be",
+            "dispatch worker",
+            "CONCEPT"
+        ],
+        [
+            "Ming Li",
+            "PERSON",
+            "From",
+            "agency",
+            "ORG"
+        ],
+        [
+            "Factory",
+            "ORG",
+            "In",
+            "Zhengzhou",
+            "GPE"
+        ],
+        [
+            "Factory",
+            "ORG",
+            "Largest",
+            "null",
+            "null"
+        ],
+        [
+            "China Labour Watch",
+            "ORG",
+            "Cite",
+            "information",
+            "CONCEPT"
+        ],
+        [
+            "China Labour Watch",
+            "ORG",
+            "Report",
+            "worker death",
+            "CONCEPT"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Chinese headquarters",
+            "Shenzhen",
+            "GPE"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Cannot",
+            "be reached",
+            "null"
+        ],
+        [
+            "Normal business hours",
+            "CONCEPT",
+            "Cannot",
+            "be reached",
+            "null"
+        ],
+        [
+            "Report",
+            "CONCEPT",
+            "Come",
+            "after",
+            "CONCEPT"
+        ],
+        [
+            "Small number",
+            "QUANTITY",
+            "Students",
+            "null"
+        ],
+        [
+            "Students",
+            "PERSON",
+            "Work",
+            "overtime",
+            "CONCEPT"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Violate",
+            "labor laws",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Supplier",
+            "Foxconn",
+            "COMP"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Accused",
+            "poor labor practices",
+            "CONCEPT"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Accused",
+            "poor labor practices",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Release",
+            "annual reviews",
+            "CONCEPT"
+        ],
+        [
+            "iPhone supply chain",
+            "PRODUCT",
+            "Have",
+            "issues",
+            "CONCEPT"
+        ]
+    ]
+}

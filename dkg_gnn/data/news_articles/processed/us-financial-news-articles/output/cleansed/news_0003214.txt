@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "Golden Star Resources",
+            "ORG",
+            "Reports",
+            "Two Fatalities",
+            "EVENT"
+        ],
+        [
+            "Golden Star Resources",
+            "ORG",
+            "Operate_In",
+            "Prestea Underground Gold Mine",
+            "GPE"
+        ],
+        [
+            "Prestea Underground Gold Mine",
+            "GPE",
+            "Experience",
+            "Two Fatalities",
+            "EVENT"
+        ],
+        [
+            "Two Employees",
+            "PERSON",
+            "Succumb",
+            "Smoke Inhalation Sickness",
+            "CONCEPT"
+        ],
+        [
+            "Two Employees",
+            "PERSON",
+            "Exposed",
+            "Blasting Gasses",
+            "CONCEPT"
+        ],
+        [
+            "Golden Star Resources",
+            "ORG",
+            "Suspend",
+            "Operations",
+            "PRODUCT",
+            "At",
+            "Prestea Underground Gold Mine",
+            "GPE"
+        ],
+        [
+            "Prestea Underground Gold Mine",
+            "GPE",
+            "Resume",
+            "Full Operation",
+            "PRODUCT",
+            "As",
+            "January 1, 2018",
+            "DATE"
+        ]
+    ]
+}

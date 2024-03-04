@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Announce",
+            "Updates",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Computer Systems",
+            "GPE"
+        ],
+        [
+            "Updates",
+            "PRODUCT",
+            "Relate_To",
+            "Security Exploits",
+            "CONCEPT"
+        ],
+        [
+            "Updates",
+            "PRODUCT",
+            "Control",
+            "Protect Systems",
+            "GPE"
+        ]
+    ]
+}

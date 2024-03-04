@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Expand",
+            "Houston Office",
+            "COMP"
+        ],
+        [
+            "Houston Office",
+            "COMP",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Add",
+            "Nilesh Dayal",
+            "PERSON"
+        ],
+        [
+            "Nilesh Dayal",
+            "PERSON",
+            "Has",
+            "20 Years Experience",
+            "CONCEPT"
+        ],
+        [
+            "Nilesh Dayal",
+            "PERSON",
+            "Focused_On",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Add",
+            "Senjit Sarkar",
+            "PERSON"
+        ],
+        [
+            "Senjit Sarkar",
+            "PERSON",
+            "Has",
+            "15 Years Experience",
+            "CONCEPT"
+        ],
+        [
+            "Senjit Sarkar",
+            "PERSON",
+            "Worked_With",
+            "Corporations",
+            "ORG"
+        ],
+        [
+            "Senjit Sarkar",
+            "PERSON",
+            "Worked_With",
+            "Financial Sponsors",
+            "ORG"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Advise",
+            "Oil & Gas Clients",
+            "ORG"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Anticipate",
+            "Needs of Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Serve",
+            "Industrials Clients",
+            "ORG"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Serve",
+            "Oil & Gas Clients",
+            "ORG"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Serve",
+            "Utilities Clients",
+            "ORG"
+        ],
+        [
+            "L.E.K. Consulting",
+            "ORG",
+            "Serve",
+            "Chemical Sector Clients",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Warn",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Test",
+            "Missile",
+            "COMP"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Downplay",
+            "Overture",
+            "CONCEPT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Open",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Relate_To",
+            "South",
+            "GPE"
+        ]
+    ]
+}

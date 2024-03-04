@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Nearly all computer chips",
+            "COMP",
+            "Has",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Software patches",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Security",
+            "CONCEPT"
+        ]
+    ]
+}

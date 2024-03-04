@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Edge_Up",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Extend",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar Index",
+            "ECON_INDICATOR",
+            "Higher",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar Index",
+            "ECON_INDICATOR",
+            "Bounce",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Decline",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "null",
+            "null"
+        ],
+        [
+            "Minutes",
+            "DOCUMENT",
+            "More_Hawkish",
+            "null",
+            "null"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Indicate",
+            "null",
+            "null"
+        ],
+        [
+            "Central Bank",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Fed Policymakers",
+            "ORG/GOV",
+            "Acknowledge",
+            "Solid Gains",
+            "null"
+        ],
+        [
+            "Fed Policymakers",
+            "ORG/GOV",
+            "Affirm",
+            "Worries",
+            "null"
+        ],
+        [
+            "Central Bank",
+            "ORG/REG",
+            "Continue",
+            "Gradual Approach",
+            "null"
+        ],
+        [
+            "Central Bank",
+            "ORG/REG",
+            "Hasten",
+            "Pace",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Feel",
+            "Downward Pressure",
+            "null"
+        ],
+        [
+            "Selling",
+            "null",
+            "Cause",
+            "Rebalancing of Positions",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Get",
+            "Back_On_Course",
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Little_Changed",
+            "null",
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Lose",
+            "0.4 Percent",
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Surge",
+            "Three-Month High",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Higher",
+            "0.15 Percent",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Touch",
+            "2-1/2-Week Low",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Check",
+            "Yen Demand",
+            "null"
+        ],
+        [
+            "Yen",
+            "FIN_INSTRUMENT",
+            "Sell",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar/Yen",
+            "FIN_INSTRUMENT",
+            "Stay",
+            "Around 110 Yen",
+            "null"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Steady",
+            "null",
+            "null"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Lose",
+            "0.6 Percent",
+            "null"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "Back",
+            "null"
+        ],
+        [
+            "Australian Dollar",
+            "FIN_INSTRUMENT",
+            "Shade",
+            "Lower",
+            "null"
+        ],
+        [
+            "New Zealand Dollar",
+            "FIN_INSTRUMENT",
+            "Add",
+            "0.1 Percent",
+            "null"
+        ],
+        [
+            "Crude Oil Prices",
+            "FIN_INSTRUMENT",
+            "At",
+            "2-1/2-Year Highs",
+            "null"
+        ],
+        [
+            "Makoto Noji",
+            "PERSON",
+            "Expect",
+            "Dollar/Yen",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Yen",
+            "FIN_INSTRUMENT",
+            "Check",
+            "Yen Selling Pressure",
+            "null"
+        ],
+        [
+            "Dollar/Yen",
+            "FIN_INSTRUMENT",
+            "Remain",
+            "In Range",
+            "null"
+        ],
+        [
+            "Global Economic Growth",
+            "CONCEPT",
+            "Generate",
+            "Risk On",
+            "null"
+        ]
+    ]
+}

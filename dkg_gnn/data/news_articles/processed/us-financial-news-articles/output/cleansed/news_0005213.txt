@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "CNBC.com",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "CNBC PRO",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "CNBC Apps",
+            "PRODUCT"
+        ],
+        [
+            "CNBC Apps",
+            "PRODUCT",
+            "Operate_On",
+            "iOS",
+            "PRODUCT"
+        ],
+        [
+            "CNBC Apps",
+            "PRODUCT",
+            "Operate_On",
+            "Android",
+            "PRODUCT"
+        ],
+        [
+            "CNBC Apps",
+            "PRODUCT",
+            "Operate_On",
+            "Windows",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "CNBC App for Apple Watch",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "CNBC App for Apple TV",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Produce",
+            "CNBC programming",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Relate_To",
+            "NBCUniversal",
+            "ORG"
+        ],
+        [
+            "NBCUniversal",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

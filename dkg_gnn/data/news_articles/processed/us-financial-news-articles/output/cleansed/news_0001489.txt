@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Compass",
+            "COMP",
+            "Install",
+            "new CEO",
+            "PERSON"
+        ],
+        [
+            "Richard Cousins",
+            "PERSON",
+            "Die",
+            " ",
+            " "
+        ],
+        [
+            "Compass",
+            "COMP",
+            "Operate_In",
+            "worlds largest catering company",
+            "ORG"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Attempt",
+            "raise the plane",
+            "PRODUCT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Relate_To",
+            "get a better idea of what happened",
+            "CONCEPT"
+        ]
+    ]
+}

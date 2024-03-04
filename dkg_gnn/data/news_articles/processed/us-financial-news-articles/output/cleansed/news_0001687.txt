@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "CFA Institute",
+            "ORG",
+            "Has",
+            "Rhodri Preece",
+            "PERSON"
+        ],
+        [
+            "CFA Institute",
+            "ORG",
+            "Has",
+            "Giles Keating",
+            "PERSON"
+        ],
+        [
+            "Rhodri Preece",
+            "PERSON",
+            "Participates_In",
+            "MiFID 2 Discussion",
+            "EVENT"
+        ],
+        [
+            "Giles Keating",
+            "PERSON",
+            "Participates_In",
+            "MiFID 2 Discussion",
+            "EVENT"
+        ],
+        [
+            "CFA Institute",
+            "ORG",
+            "Relate_To",
+            "MiFID 2",
+            "EVENT"
+        ],
+        [
+            "CFA Institute",
+            "ORG",
+            "Expect",
+            "Benefit",
+            "CONCEPT"
+        ],
+        [
+            "CFA Institute",
+            "ORG",
+            "Expect",
+            "18-24 Months",
+            "TIME_PERIOD"
+        ],
+        [
+            "Benefit",
+            "CONCEPT",
+            "Relate_To",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

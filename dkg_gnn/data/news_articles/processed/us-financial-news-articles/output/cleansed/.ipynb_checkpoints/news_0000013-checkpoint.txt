@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Announce",
+            "Appointment of Miguel Alban",
+            "PERSON"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Is_Member_Of",
+            "Multicultural Banking Initiative",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Report_To",
+            "Anthony Poluch",
+            "PERSON"
+        ],
+        [
+            "Anthony Poluch",
+            "PERSON",
+            "Leadership_Of",
+            "Joe Keefer",
+            "PERSON"
+        ],
+        [
+            "Joe Keefer",
+            "PERSON",
+            "Executive_Vice_President",
+            "Bryn Mawr Trust",
+            "COMP"
+        ],
+        [
+            "Bryn Mawr Trust",
+            "COMP",
+            "Operate_In",
+            "Delaware Valley",
+            "GPE"
+        ],
+        [
+            "Bryn Mawr Trust",
+            "COMP",
+            "Provide",
+            "Financial Services",
+            "CONCEPT"
+        ],
+        [
+            "Bryn Mawr Trust",
+            "COMP",
+            "Foster",
+            "Community Relationships",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Experience_In",
+            "Multicultural Marketing",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Experience_In",
+            "Financial Services",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Experience_In",
+            "Community Relations",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Prior_To",
+            "Joining BMT",
+            "COMP"
+        ],
+        [
+            "Miguan Alban",
+            "PERSON",
+            "Earned",
+            "Masters of Law",
+            "CONCEPT"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Active_In",
+            "Community",
+            "CONCEPT"
+        ],
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Has",
+            "$3.5 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Has",
+            "$12.4 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Montgomery",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Chester",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Delaware",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Philadelphia",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Berks",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "New Castle",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Camden",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Provide",
+            "Retail Banking",
+            "CONCEPT"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Provide",
+            "Trust Administration and Wealth Management",
+            "CONCEPT"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Provide",
+            "Insurance Solutions",
+            "CONCEPT"
+        ]
+    ]
+}

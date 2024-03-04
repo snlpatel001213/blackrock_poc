@@ -1,0 +1,91 @@
+{
+    "output": [
+        [
+            "U.S. Treasury",
+            "ORG/GOV",
+            "Produce",
+            "2.3 % annual return",
+            "ECON_INDICATOR",
+            "in",
+            "2017"
+        ],
+        [
+            "U.S. Treasury",
+            "ORG/GOV",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. Treasury",
+            "ORG/GOV",
+            "Raise",
+            "Treasury Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Announce",
+            "Comments",
+            "CONCEPT",
+            "about",
+            "Bond Purchase Program",
+            "PRODUCT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Control",
+            "European Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Karl Haeling",
+            "PERSON",
+            "Relate_To",
+            "Stronger Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Operate_In",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. Government Bonds",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Three Rate Increases",
+            "ECON_INDICATOR",
+            "from",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Government Bonds",
+            "FIN_INSTRUMENT",
+            "Produce",
+            "2.3 % annual return",
+            "ECON_INDICATOR",
+            "last year"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Produce",
+            "19.5 % yearly gain",
+            "ECON_INDICATOR",
+            "last year"
+        ],
+        [
+            "Benchmark 10-Year Treasury Yield",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ]
+    ]
+}

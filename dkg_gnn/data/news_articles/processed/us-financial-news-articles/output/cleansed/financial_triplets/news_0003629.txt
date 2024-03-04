@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Impact",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Services",
+            "SECTOR"
+        ],
+        [
+            "Services",
+            "SECTOR",
+            "Raise",
+            "New Business",
+            "CONCEPT"
+        ],
+        [
+            "Services",
+            "SECTOR",
+            "Relate_To",
+            "Final Services Index",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Composite Purchasing Managers\u2019 Index",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Manufacturing",
+            "SECTOR"
+        ]
+    ]
+}

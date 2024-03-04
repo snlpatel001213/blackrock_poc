@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Magnitude 5.4 quake",
+            "EVENT",
+            "Strike",
+            "320 km off Japan\u2019s Bonin Islands",
+            "GPE"
+        ],
+        [
+            "Magnitude 5.4 quake",
+            "EVENT",
+            "Report",
+            "USGS",
+            "ORG/GOV"
+        ],
+        [
+            "Quake",
+            "EVENT",
+            "Report",
+            "sea",
+            "GPE"
+        ],
+        [
+            "Quake",
+            "EVENT",
+            "Report",
+            "depth of 10 km",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Andrew Heavens",
+            "PERSON"
+        ]
+    ]
+}

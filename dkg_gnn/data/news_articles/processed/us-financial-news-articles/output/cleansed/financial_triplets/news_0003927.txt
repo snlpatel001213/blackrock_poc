@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "US Private Sector",
+            "ORG",
+            "Operate_In",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Announce",
+            "250,000 jobs addition",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Announce",
+            "190,000 jobs estimate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December",
+            "EVENT",
+            "Relate_To",
+            "250,000 jobs addition",
+            "ECON_INDICATOR"
+        ],
+        [
+            "March",
+            "EVENT",
+            "Relate_To",
+            "Best job creation month",
+            "EVENT"
+        ],
+        [
+            "2017",
+            "EVENT",
+            "Has",
+            "2.54 million private payroll growth",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

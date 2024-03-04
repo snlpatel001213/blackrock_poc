@@ -1,0 +1,277 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Embark",
+            "China",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Have",
+            "30 billion-euro trade deficit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France",
+            "GPE",
+            "Push",
+            "Level playing field",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Try",
+            "Cut trade deficit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France",
+            "GPE",
+            "Expect",
+            "Access to Chinese markets",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Expect",
+            "Fairer competition conditions",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Regulated or protected sectors",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Say",
+            "Concept of reciprocity is relative",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Complain",
+            "China\u2019s rules for foreign investments",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Complain",
+            "China\u2019s demands for technology transfers",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Complain",
+            "China\u2019s compulsory joint-ventures",
+            "CONCEPT"
+        ],
+        [
+            "Renault",
+            "COMP",
+            "Set up partnerships",
+            "Domestic companies",
+            "COMP"
+        ],
+        [
+            "Peugeot-Citroen",
+            "COMP",
+            "Set up partnerships",
+            "Domestic companies",
+            "COMP"
+        ],
+        [
+            "France",
+            "GPE",
+            "Hope",
+            "Emergence of prosperous Chinese middle-class",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Hope",
+            "Edge over German rivals",
+            "COMP"
+        ],
+        [
+            "France",
+            "GPE",
+            "Defend",
+            "Common European Union line for freer trade",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Led fight",
+            "Toughen EU anti-dumping rules",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Urged Commission",
+            "Build system for screening investments",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Criticize",
+            "France\u2019s call for investment screening",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Defend",
+            "Common European Union line",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Travel",
+            "Delegation of 50 company executives",
+            "COMP"
+        ],
+        [
+            "EDF",
+            "COMP",
+            "Be",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "Areva",
+            "COMP",
+            "Be",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Be",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "Accor",
+            "COMP",
+            "Be",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "France",
+            "GPE",
+            "Beef",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "France",
+            "GPE",
+            "Pork",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "France",
+            "GPE",
+            "Milk",
+            "Part of delegation",
+            "ORG"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "In talks",
+            "Sell 100 or more jetliners",
+            "PRODUCT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Define",
+            "France\u2019s role in Asia",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Discuss",
+            "Security issues",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Discuss",
+            "Climate change",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Visit",
+            "Cultural landmarks",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Expect",
+            "Visit Terracotta Army",
+            "PRODUCT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Expect",
+            "Visit Forbidden City",
+            "PRODUCT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Receive",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Receive",
+            "Putin",
+            "PERSON"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Receive",
+            "In grandiose settings",
+            "CONCEPT"
+        ]
+    ]
+}

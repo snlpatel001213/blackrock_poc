@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Rain washes out entire day\u2019s play at Auckland Classic",
+            "EVENT"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Relate_To",
+            "Rain washes out entire day\u2019s play",
+            "CONCEPT"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Impact",
+            "More showers predicted to affect Friday\u2019s packed schedule",
+            "CONCEPT"
+        ],
+        [
+            "Czech Republic\u2019s third seed Barbora Strycova",
+            "PERSON",
+            "Participates_In",
+            "First quarter-final clash on Friday",
+            "EVENT"
+        ],
+        [
+            "Taiwan\u2019s Hsieh Su-wei",
+            "PERSON",
+            "Participates_In",
+            "First quarter-final clash on Friday",
+            "EVENT"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Participates_In",
+            "Polona Hercog plays",
+            "EVENT"
+        ],
+        [
+            "Polona Hercog",
+            "PERSON",
+            "Participates_In",
+            "Julia Goerges plays",
+            "EVENT"
+        ],
+        [
+            "Top seed Caroline Wozniacki",
+            "PERSON",
+            "Participates_In",
+            "Meets American wild card entry Sofia Kenin",
+            "EVENT"
+        ],
+        [
+            "American wild card entry Sofia Kenin",
+            "PERSON",
+            "Participates_In",
+            "Meets top seed Caroline Wozniacki",
+            "EVENT"
+        ],
+        [
+            "Fourth seed Agnieszka Radwasnka",
+            "PERSON",
+            "Participates_In",
+            "Faces American Sachia Vickery",
+            "EVENT"
+        ],
+        [
+            "American Sachia Vickery",
+            "PERSON",
+            "Participates_In",
+            "Faces fourth seed Agnieszka Radwasnka",
+            "EVENT"
+        ]
+    ]
+}

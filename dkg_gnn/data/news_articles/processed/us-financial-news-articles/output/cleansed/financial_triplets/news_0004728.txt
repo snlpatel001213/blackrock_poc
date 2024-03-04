@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Elderly women",
+            "PERSON",
+            "Participates_In",
+            "Boxing",
+            "PRODUCT"
+        ],
+        [
+            "Elderly women",
+            "PERSON",
+            "Impact",
+            "Health",
+            "CONCEPT"
+        ],
+        [
+            "Elderly women",
+            "PERSON",
+            "Negative_Impact_On",
+            "Aches and Pains",
+            "CONCEPT"
+        ],
+        [
+            "Boxing",
+            "PRODUCT",
+            "Relate_To",
+            "Fitness",
+            "CONCEPT"
+        ]
+    ]
+}

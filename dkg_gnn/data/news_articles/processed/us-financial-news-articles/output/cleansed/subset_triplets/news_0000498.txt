@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Anti-government Protests",
+            "EVENT"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Operate_In",
+            "OPEC",
+            "ORG"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "Ongoing OPEC Supply Cuts",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Invests_In",
+            "Shale",
+            "SECTOR"
+        ]
+    ]
+}

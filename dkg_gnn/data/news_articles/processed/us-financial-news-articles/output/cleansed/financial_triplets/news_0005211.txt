@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Metropolitan Museum of Art",
+            "ORG",
+            "Impact",
+            "Tourists",
+            "GPE"
+        ],
+        [
+            "Metropolitan Museum of Art",
+            "ORG",
+            "Impact",
+            "Suburbanites",
+            "GPE"
+        ],
+        [
+            "Metropolitan Museum of Art",
+            "ORG",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "New Yorkers",
+            "GPE",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ]
+    ]
+}

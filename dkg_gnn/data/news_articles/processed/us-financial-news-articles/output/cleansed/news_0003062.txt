@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Withdraw",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Unable",
+            "Take court",
+            "GPE"
+        ],
+        [
+            "Estonian Anett Kontaveit",
+            "PERSON",
+            "Replace",
+            "Petra Kvitova",
+            "PERSON"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Require",
+            "Surgery",
+            "PRODUCT"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Prepare",
+            "Open 2018 season",
+            "EVENT"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Positive_Impact_On",
+            "Tennis",
+            "SECTOR"
+        ]
+    ]
+}

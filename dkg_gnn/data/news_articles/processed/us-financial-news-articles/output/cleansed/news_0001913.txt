@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Raise",
+            "IBM",
+            "COMP"
+        ],
+        [
+            "Amit Daryanani",
+            "PERSON",
+            "Write",
+            "Note",
+            "ORG"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Revenue",
+            "CONCEPT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Software Licenses",
+            "PRODUCT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Annuity-like Services Contracts",
+            "CONCEPT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Control",
+            "Valuation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Dividend Yield",
+            "CONCEPT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Price to Earnings Ratio",
+            "CONCEPT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Positive_Impact_On",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Has",
+            "Price Target",
+            "CONCEPT"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Relate_To",
+            "Enterprise Segment",
+            "SECTOR"
+        ]
+    ]
+}

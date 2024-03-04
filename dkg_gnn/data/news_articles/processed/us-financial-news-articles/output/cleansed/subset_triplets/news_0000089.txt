@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Announce",
+            "fiscal 2018 third quarter results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "replay number",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "International replay number",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "Conference ID",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "VOXX International Corporation",
+            "ORG",
+            "Operate_In",
+            "South America",
+            "GPE"
+        ]
+    ]
+}

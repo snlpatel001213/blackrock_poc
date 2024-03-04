@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Praises",
+            "Iranian Demonstrators",
+            "PERSON"
+        ],
+        [
+            "Iranian Demonstrators",
+            "PERSON",
+            "Protests",
+            "null",
+            "null"
+        ],
+        [
+            "Iranian Leaders",
+            "PERSON",
+            "Dismiss",
+            "Protests",
+            "null"
+        ],
+        [
+            "Haley",
+            "PERSON",
+            "Says",
+            "Protests",
+            "null"
+        ],
+        [
+            "Protests",
+            "null",
+            "Spontaneous",
+            "null",
+            "null"
+        ],
+        [
+            "Protests",
+            "null",
+            "Not_Driven_By",
+            "Outside Forces",
+            "null"
+        ],
+        [
+            "Haley",
+            "PERSON",
+            "Seeks",
+            "Emergency Sessions",
+            "null"
+        ],
+        [
+            "Emergency Sessions",
+            "null",
+            "On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Emergency Sessions",
+            "null",
+            "At",
+            "U.N.",
+            "ORG/GOV"
+        ],
+        [
+            "Emergency Sessions",
+            "null",
+            "At",
+            "U.N. Human Rights Council",
+            "ORG"
+        ],
+        [
+            "Haley",
+            "PERSON",
+            "Must_Not",
+            "Be_Silent",
+            "null"
+        ],
+        [
+            "People_Of_Iran",
+            "PERSON",
+            "Cry_Out_For",
+            "Freedom",
+            "null"
+        ]
+    ]
+}

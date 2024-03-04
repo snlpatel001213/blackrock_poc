@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "disparaging remarks",
+            "CONCEPT"
+        ],
+        [
+            "Trump family members",
+            "PERSON",
+            "Relate_To",
+            "disparaging remarks",
+            "CONCEPT"
+        ],
+        [
+            "Trump campaign",
+            "ORG/REG",
+            "Relate_To",
+            "disparaging remarks",
+            "CONCEPT"
+        ]
+    ]
+}

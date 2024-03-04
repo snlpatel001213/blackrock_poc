@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Announce",
+            "talks between North Korea and South Korea",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "Sanctions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Tensions",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Nuclear and Missile Programs",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Flee",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Potential",
+            "Talks with North Korea",
+            "EVENT"
+        ],
+        [
+            "North Korean leader Kim Jong Un",
+            "PERSON",
+            "Refer_To",
+            "Rocket man",
+            "PERSON"
+        ],
+        [
+            "Rocket man",
+            "PERSON",
+            "Potential",
+            "Talk to South Korea",
+            "EVENT"
+        ],
+        [
+            "Rocket man",
+            "PERSON",
+            "Positive_Impact_On",
+            "First time",
+            "CONCEPT"
+        ]
+    ]
+}

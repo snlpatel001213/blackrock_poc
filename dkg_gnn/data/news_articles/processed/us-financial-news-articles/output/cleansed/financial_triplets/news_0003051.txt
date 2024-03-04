@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Operate_In",
+            "Clinical-stage biotechnology company",
+            "SECTOR"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Produce",
+            "Bacteriophage therapeutics",
+            "PRODUCT"
+        ],
+        [
+            "Bacteriophage therapeutics",
+            "PRODUCT",
+            "Impact",
+            "Antibiotic-resistant bacterial infections",
+            "CONCEPT"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Introduce",
+            "AB-SA01",
+            "PRODUCT"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Introduce",
+            "AB-PA01",
+            "PRODUCT"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Participates_In",
+            "Expanded access program",
+            "PRODUCT"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Raise",
+            "Webcast/conference call",
+            "EVENT"
+        ],
+        [
+            "AmpliPhi Biosciences",
+            "ORG",
+            "Control",
+            "Product candidates",
+            "PRODUCT"
+        ]
+    ]
+}

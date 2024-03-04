@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Announce",
+            "duplicate transaction issue",
+            "CONCEPT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Operate_In",
+            "Commercial bank and card issuer",
+            "SECTOR"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Has",
+            "Tech issue",
+            "CONCEPT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Raise",
+            "Fees",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Control",
+            "Online banking services",
+            "PRODUCT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Control",
+            "ATMs",
+            "PRODUCT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Control",
+            "Mobile app",
+            "PRODUCT"
+        ],
+        [
+            "Capital One Financial Corp",
+            "ORG",
+            "Control",
+            "Branches",
+            "PRODUCT"
+        ]
+    ]
+}

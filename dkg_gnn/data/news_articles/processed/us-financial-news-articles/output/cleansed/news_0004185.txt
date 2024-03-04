@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "February 2, 2018",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "11:00 a.m. ET / 8:00 a.m. PT",
+            "TIME"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "706-634-0892 / 877-604-2078",
+            "PHONE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "7594049",
+            "CONFERENCE ID"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "www.chevron.com",
+            "WEBSITE"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Produce",
+            "Crude Oil",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Produce",
+            "Natural Gas",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Operate_In",
+            "San Ramon, CA",
+            "GPE"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Has",
+            "Subsidiaries",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Industrial Market",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Aero Market",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Produce",
+            "Critical Components",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Has",
+            "Installed Bases",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Has",
+            "High Cost of Failure Products",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Produce",
+            "High-Margin Aftermarket Sales",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Raise",
+            "$160",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

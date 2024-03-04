@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Announce",
+            "Completed Financing",
+            "EVENT"
+        ],
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Produce",
+            "Presage\u00ae ST2 Assay",
+            "PRODUCT"
+        ],
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Produce",
+            "ASPECT-PLUS TM ST2 Test",
+            "PRODUCT"
+        ],
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Operate_In",
+            "Heart Failure Management",
+            "SECTOR"
+        ],
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Raise",
+            "$8.5 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Critical Diagnostics",
+            "ORG",
+            "Invests_In",
+            "Global Commercialization Efforts",
+            "EVENT"
+        ],
+        [
+            "Dennis Dalangin",
+            "PERSON",
+            "Is_Member_Of",
+            "Critical Diagnostics",
+            "ORG"
+        ],
+        [
+            "Dennis Dalangin",
+            "PERSON",
+            "Operate_In",
+            "Operations and Global Marketing",
+            "SECTOR"
+        ],
+        [
+            "Dr. James Snider",
+            "PERSON",
+            "Is_Member_Of",
+            "Critical Diagnostics",
+            "ORG"
+        ],
+        [
+            "ST2",
+            "CONCEPT",
+            "Relate_To",
+            "Heart Failure Patient Management",
+            "SECTOR"
+        ],
+        [
+            "ST2",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Critical Diagnostics",
+            "ORG"
+        ]
+    ]
+}

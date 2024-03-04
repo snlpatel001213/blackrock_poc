@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Asia",
+            "GPE",
+            "See",
+            "Broader Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2018",
+            "TIME",
+            "Relate_To",
+            "Broad Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vishnu Varathan",
+            "PERSON",
+            "Announce",
+            "Broad Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mizuho Bank",
+            "ORG",
+            "Is_Member_Of",
+            "Vishnu Varathan",
+            "PERSON"
+        ]
+    ]
+}

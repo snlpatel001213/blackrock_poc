@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Abbott",
+            "PERSON",
+            "Raise",
+            "Abbott Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "J.P. Morgan Chase",
+            "ORG",
+            "Raise",
+            "Price Target",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Operate_In",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "FreeStyle Libre",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "Alinity Family",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "HeartMate 3",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "Confirm Rx",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "MRI-compatible ICDs",
+            "PRODUCT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Abbott Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Relate_To",
+            "Glucose Monitoring",
+            "CONCEPT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Has",
+            "No Fingerpricks",
+            "CONCEPT"
+        ],
+        [
+            "Rival Dexcom",
+            "ORG",
+            "Introduce",
+            "Sensor",
+            "PRODUCT"
+        ]
+    ]
+}

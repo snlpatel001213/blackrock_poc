@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Securitas",
+            "ORG",
+            "Acquire",
+            "Automatic Alarm",
+            "ORG"
+        ],
+        [
+            "Automatic Alarm",
+            "ORG",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Operate_In",
+            "Security Solutions",
+            "SECTOR"
+        ],
+        [
+            "Automatic Alarm",
+            "ORG",
+            "Produce",
+            "Electronic Security Solutions",
+            "SECTOR"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Control",
+            "On-site and Mobile Security Solutions",
+            "SECTOR"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Strengthen",
+            "Market Leader",
+            "SECTOR"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Consolidate",
+            "January 2, 2018",
+            "DATE"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Has_Contact",
+            "Micaela Sj\u00f6kvist",
+            "PERSON"
+        ],
+        [
+            "Micaela Sj\u00f6kvist",
+            "PERSON",
+            "Has_Role",
+            "Head of Investor Relations",
+            "SECTOR"
+        ],
+        [
+            "Securitas",
+            "ORG",
+            "Has_Website",
+            "www.securitas.com",
+            "WEBSITE"
+        ]
+    ]
+}

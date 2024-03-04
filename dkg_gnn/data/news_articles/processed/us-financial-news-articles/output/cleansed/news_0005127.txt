@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Mozart",
+            "PERSON",
+            "Write",
+            "Clunker",
+            "CONCEPT"
+        ],
+        [
+            "Jerry Rice",
+            "PERSON",
+            "Drop",
+            "Pass",
+            "CONCEPT"
+        ],
+        [
+            "Toyota",
+            "COMP",
+            "Has",
+            "Prius Prime",
+            "PRODUCT"
+        ],
+        [
+            "Prius Prime",
+            "PRODUCT",
+            "Have",
+            "Samsonite-sized battery",
+            "PRODUCT"
+        ],
+        [
+            "Prius Prime",
+            "PRODUCT",
+            "Move",
+            "Electrons",
+            "CONCEPT"
+        ],
+        [
+            "Prius Prime",
+            "PRODUCT",
+            "Must",
+            "Summon",
+            "Verb"
+        ],
+        [
+            "Prius Prime",
+            "PRODUCT",
+            "Have",
+            "1.8-liter",
+            "ECON_INDICATOR"
+        ],
+        [
+            "1.8-liter",
+            "ECON_INDICATOR",
+            "Have",
+            "95-hp inline four",
+            "PRODUCT"
+        ]
+    ]
+}

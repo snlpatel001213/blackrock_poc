@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "S\u00fcddeutsche Bewachung",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "S\u00fcddeutsche Bewachung",
+            "COMP",
+            "Has",
+            "annual sales of approximately MSEK 95",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S\u00fcddeutsche Bewachung",
+            "COMP",
+            "Has",
+            "300 employees",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Novartis",
+            "ORG",
+            "Get",
+            "Kisqali",
+            "PRODUCT"
+        ],
+        [
+            "Kisqali",
+            "PRODUCT",
+            "Operate_In",
+            "Breast Cancer Therapy",
+            "ORG"
+        ],
+        [
+            "Kisqali",
+            "PRODUCT",
+            "Win",
+            "Breakthrough Therapy Designation",
+            "ORG/REG"
+        ],
+        [
+            "Kisqali",
+            "PRODUCT",
+            "Treat",
+            "Some Breast Cancer Patients",
+            "GPE"
+        ],
+        [
+            "Kisqali",
+            "PRODUCT",
+            "Combine",
+            "Tamoxifen or Aromatase Inhibitor",
+            "PRODUCT"
+        ],
+        [
+            "Phase III MONALEESA-7 Trial",
+            "EVENT",
+            "Release",
+            "Results",
+            "ORG"
+        ],
+        [
+            "Results",
+            "CONCEPT",
+            "Show",
+            "Kisqali Combination Prolong Progression-Free Survival",
+            "CONCEPT"
+        ],
+        [
+            "Kisqali Combination",
+            "CONCEPT",
+            "Compare",
+            "Endocrine Therapy Alone",
+            "CONCEPT"
+        ],
+        [
+            "Michael Shields",
+            "PERSON",
+            "Report",
+            "Novartis Statement",
+            "ORG"
+        ],
+        [
+            "Maria Sheahan",
+            "PERSON",
+            "Edit",
+            "Novartis Statement",
+            "ORG"
+        ]
+    ]
+}

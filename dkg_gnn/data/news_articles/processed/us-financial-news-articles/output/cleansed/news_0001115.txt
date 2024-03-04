@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran Protest",
+            "EVENT",
+            "Relate_To",
+            "Populism",
+            "CONCEPT"
+        ],
+        [
+            "Adm. James Stavridis",
+            "PERSON",
+            "Is_Member_Of",
+            "Former NATO Commander",
+            "ORG/GOV"
+        ],
+        [
+            "Iran Protest",
+            "EVENT",
+            "Participates_In",
+            "Escalating Protests",
+            "EVENT"
+        ],
+        [
+            "Adm. James Stavridis",
+            "PERSON",
+            "Weigh_In_On",
+            "Iran Protest",
+            "EVENT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "May Do",
+            "What",
+            "CONCEPT"
+        ]
+    ]
+}

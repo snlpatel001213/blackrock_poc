@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "ASLAN Pharmaceuticals",
+            "ORG",
+            "Announce",
+            "Array BioPharma Inc",
+            "ORG"
+        ],
+        [
+            "ASLAN Pharmaceuticals",
+            "ORG",
+            "Operate_In",
+            "Clinical-stage biopharmaceutical company",
+            "ORG"
+        ],
+        [
+            "ASLAN Pharmaceuticals",
+            "ORG",
+            "Has",
+            "Varlitinib",
+            "PRODUCT"
+        ],
+        [
+            "ASLAN Pharmaceuticals",
+            "ORG",
+            "Impact",
+            "Certain geographies",
+            "GPE"
+        ]
+    ]
+}

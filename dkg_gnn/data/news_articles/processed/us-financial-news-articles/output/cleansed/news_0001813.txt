@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "USCIS",
+            "ORG",
+            "Has",
+            "number of immigrants approved for family-based visas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "USCIS",
+            "ORG",
+            "Relate_To",
+            "Chain migration",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Negative_Impact_On",
+            "Chain migration",
+            "CONCEPT"
+        ],
+        [
+            "Congress",
+            "ORG/GOV",
+            "NotHaveAction",
+            "drop in number of immigrants approved for family-based visas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Review",
+            "drop in number of immigrants approved for family-based visas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Department of Homeland Security",
+            "ORG/GOV",
+            "Provide",
+            "data",
+            "NONE"
+        ]
+    ]
+}

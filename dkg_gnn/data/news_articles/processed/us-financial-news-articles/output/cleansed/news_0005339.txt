@@ -1,0 +1,138 @@
+{
+    "output": [
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Backed",
+            "Federal Reserve",
+            "ORG/GOV"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Relate_To",
+            "Third Bond-buying Program",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Operate_In",
+            "US Central Bank",
+            "ORG/GOV"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Join",
+            "Federal Reserve",
+            "ORG/GOV",
+            "Time",
+            "2012",
+            "GPE"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Say_Little",
+            "Publicly",
+            "Time",
+            "2012",
+            "GPE"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "No_2",
+            "Federal Reserve Board",
+            "ORG/GOV"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "Support_Fully",
+            "Stimulus",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Release",
+            "Meeting Transcripts",
+            "PRODUCT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Release_With",
+            "Five_Year_Delay",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "Say",
+            "Unemployment_Decline",
+            "ECON_INDICATOR",
+            "Foreseeable Future",
+            "GPE"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "Suggest",
+            "Policy Action",
+            "SECTOR"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "Comment",
+            "Studded",
+            "References",
+            "Models",
+            "CONCEPT"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Comment",
+            "Anecdote-driven",
+            "GPE"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Cite",
+            "Conversations",
+            "Private_Equity_Investors",
+            "ORG"
+        ],
+        [
+            "Private_Equity_Investors",
+            "ORG",
+            "Appear",
+            "Eager",
+            "Adjective",
+            "Snap_Up",
+            "US_Companies",
+            "COMP"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Say",
+            "Telling",
+            "Adjective",
+            "Something",
+            "PRONOUN"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Experience",
+            "Crisis",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Agree",
+            "U.S. Tax Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Believe",
+            "Tax Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Consumer Spending",
+            "SECTOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Business Investment",
+            "SECTOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Express",
+            "Uncertainty",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Disagree",
+            "Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Project",
+            "Three Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Concerned",
+            "Inflation Target",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Worried",
+            "Financial Instability",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Worried",
+            "Economy Overheat",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Boost",
+            "Key Policy Rate",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Commit",
+            "Gradual Pace",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Project",
+            "Growth of 2.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Project",
+            "Growth of 2.1 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Project",
+            "Growth of 2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Believe",
+            "Economic Program",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Boost",
+            "Economic Growth",
+            "CONCEPT"
+        ]
+    ]
+}

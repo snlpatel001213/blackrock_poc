@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Euro",
+            "GPE",
+            "Decrease",
+            "1.2048 Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Euro",
+            "GPE",
+            "Relate_To",
+            "ECB Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Operate_In",
+            "Euro Zone",
+            "GPE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "CONCEPT"
+        ]
+    ]
+}

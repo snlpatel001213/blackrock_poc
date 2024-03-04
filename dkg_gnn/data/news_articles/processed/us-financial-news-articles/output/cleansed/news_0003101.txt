@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "DACA Legislation",
+            "ORG"
+        ],
+        [
+            "DACA Legislation",
+            "ORG",
+            "Include",
+            "Wall",
+            "GPE"
+        ],
+        [
+            "DACA Legislation",
+            "ORG",
+            "End",
+            "Visa Lottery",
+            "ORG"
+        ]
+    ]
+}

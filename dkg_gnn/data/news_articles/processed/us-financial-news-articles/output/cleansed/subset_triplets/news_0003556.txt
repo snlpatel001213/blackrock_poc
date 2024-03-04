@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Rain washes out entire day's play at Auckland Classic",
+            "EVENT"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Barbora Strycova",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Hsieh Su-wei",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Polona Hercog",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Sofia Kenin",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Agnieszka Radwasnka",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Sachia Vickery",
+            "PERSON",
+            "Participates_In",
+            "Quarter-final clash",
+            "EVENT"
+        ],
+        [
+            "Karl Budge",
+            "PERSON",
+            "Is_Member_Of",
+            "Tournament Director",
+            "ORG"
+        ],
+        [
+            "Tournament Director",
+            "ORG",
+            "Control",
+            "Semi-final matches",
+            "EVENT"
+        ]
+    ]
+}

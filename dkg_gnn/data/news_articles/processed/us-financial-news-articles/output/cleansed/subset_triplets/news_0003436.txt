@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Jeff Sessions",
+            "PERSON",
+            "Relate_To",
+            "Attorney General",
+            "ORG/GOV"
+        ],
+        [
+            "Pete Williams",
+            "PERSON",
+            "Announce",
+            "Sessions made the decision",
+            "CONCEPT"
+        ],
+        [
+            "Cowen",
+            "ORG",
+            "Has",
+            "Analyst",
+            "PERSON"
+        ]
+    ]
+}

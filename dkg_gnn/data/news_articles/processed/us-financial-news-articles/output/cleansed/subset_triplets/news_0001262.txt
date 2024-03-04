@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "New U.S. tax law",
+            "EVENT",
+            "Impact",
+            "Paychecks",
+            "COMP"
+        ],
+        [
+            "New U.S. tax law",
+            "EVENT",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Announce",
+            "Guidance",
+            "EVENT"
+        ],
+        [
+            "Employers",
+            "COMP",
+            "Operate_In",
+            "Payroll Services",
+            "COMP"
+        ],
+        [
+            "Paycheck",
+            "PRODUCT",
+            "Relate_To",
+            "Take-home Pay",
+            "CONCEPT"
+        ],
+        [
+            "Taxpayers",
+            "PERSON",
+            "Relate_To",
+            "Tax Withholding",
+            "CONCEPT"
+        ],
+        [
+            "Payroll Processors",
+            "COMP",
+            "Relate_To",
+            "Tax Withholding",
+            "CONCEPT"
+        ],
+        [
+            "Paycheck",
+            "PRODUCT",
+            "Relate_To",
+            "Overall Taxes",
+            "CONCEPT"
+        ]
+    ]
+}

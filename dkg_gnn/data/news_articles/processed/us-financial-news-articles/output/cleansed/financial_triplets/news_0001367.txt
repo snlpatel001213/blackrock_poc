@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "American Airlines Group Inc",
+            "COMP",
+            "Operate_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Operate_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "American Airlines Group Inc",
+            "COMP",
+            "Has",
+            "Officers",
+            "PERSON"
+        ],
+        [
+            "American Airlines Group Inc",
+            "COMP",
+            "Impact",
+            "U.S. Tax Bill",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Impact",
+            "U.S. Tax Bill",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "President",
+            "PERSON",
+            "Donald Trump",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Alibaba",
+            "COMP",
+            "Relate_To",
+            "Committee on Foreign Investment in the United States",
+            "ORG/REG"
+        ],
+        [
+            "MoneyGram",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Raise",
+            "Price Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Announce",
+            "Bonus",
+            "PRODUCT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Announce",
+            "Bonus",
+            "PRODUCT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Announce",
+            "Increased Fleet Investment",
+            "PRODUCT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Announce",
+            "Charitable Donation",
+            "PRODUCT"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Participates_In",
+            "Increased Fleet Investment",
+            "PRODUCT"
+        ],
+        [
+            "Apartment Investment & Management Co.",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

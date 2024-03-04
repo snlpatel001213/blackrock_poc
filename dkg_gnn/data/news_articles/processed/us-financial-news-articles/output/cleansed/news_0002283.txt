@@ -1,0 +1,35 @@
+{
+    "output": [
+        [
+            "US",
+            "GPE",
+            "Want",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Try",
+            "Split",
+            "CONCEPT"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "and",
+            "Seoul",
+            "GPE",
+            "On",
+            "Policy",
+            "CONCEPT"
+        ]
+    ]
+}

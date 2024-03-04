@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Sompo International",
+            "ORG",
+            "Announce",
+            "Purchase",
+            "COMP"
+        ],
+        [
+            "Sompo International",
+            "ORG",
+            "Operate_In",
+            "Bermuda",
+            "GPE"
+        ],
+        [
+            "Lexon",
+            "COMP",
+            "Has",
+            "Lexon Insurance Company",
+            "COMP"
+        ],
+        [
+            "Lexon",
+            "COMP",
+            "Has",
+            "Bond Safeguard Insurance Company",
+            "COMP"
+        ],
+        [
+            "Lexon",
+            "COMP",
+            "Has",
+            "Fortress National Group LLC",
+            "COMP"
+        ],
+        [
+            "Lexon",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Christopher Sparro",
+            "PERSON",
+            "Is_Member_Of",
+            "Sompo International",
+            "ORG"
+        ],
+        [
+            "Jack Kuhn",
+            "PERSON",
+            "Is_Member_Of",
+            "Sompo International",
+            "ORG"
+        ],
+        [
+            "David Campbell",
+            "PERSON",
+            "Is_Member_Of",
+            "Lexon",
+            "COMP"
+        ],
+        [
+            "Brian Beggs",
+            "PERSON",
+            "Is_Member_Of",
+            "Sompo International",
+            "ORG"
+        ],
+        [
+            "Sompo Holdings, Inc.",
+            "ORG",
+            "Has",
+            "Sompo International",
+            "ORG"
+        ]
+    ]
+}

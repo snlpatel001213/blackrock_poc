@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "7000",
+            "NUMBER"
+        ],
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Mention",
+            "Profit-taking",
+            "CONCEPT"
+        ],
+        [
+            "Tech",
+            "SECTOR",
+            "Relate_To",
+            "Profit-taking",
+            "CONCEPT"
+        ]
+    ]
+}

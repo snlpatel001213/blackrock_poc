@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Charter Communications",
+            "COMP",
+            "Announce",
+            "Vanessa Green Sinders",
+            "PERSON"
+        ],
+        [
+            "Vanessa Green Sinders",
+            "PERSON",
+            "Operate_In",
+            "Government Affairs",
+            "ORG"
+        ],
+        [
+            "Catherine Bohigian",
+            "PERSON",
+            "Control",
+            "Government Affairs",
+            "ORG"
+        ],
+        [
+            "Government Affairs",
+            "ORG",
+            "Participates_In",
+            "Congress",
+            "GPE"
+        ],
+        [
+            "Government Affairs",
+            "ORG",
+            "Participates_In",
+            "Administration",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Robbins Arroyo LLP",
+            "ORG",
+            "Investigate",
+            "CoreCivic, Inc.",
+            "COMP"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Breach_Fiduciary_Duties",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Formerly",
+            "Corrections Corporation of America",
+            "COMP"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Defraud",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Operate_In",
+            "Middle District of Tennessee, Nashville Division",
+            "GPE"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Deny",
+            "Motion_to_Dismiss",
+            "CONCEPT"
+        ],
+        [
+            "CoreCivic, Inc.",
+            "COMP",
+            "Relate_To",
+            "Grae v. Corrections Corporation of America",
+            "EVENT"
+        ],
+        [
+            "Robbins Arroyo LLP",
+            "ORG",
+            "Represent",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Robbins Arroyo LLP",
+            "ORG",
+            "Help",
+            "Clients",
+            "PERSON",
+            "Realize",
+            "More_than_$1_billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Robbins Arroyo LLP",
+            "ORG",
+            "Attorney_Advertising",
+            "Past_results",
+            "CONCEPT",
+            "Do_not_guarantee",
+            "Similar_outcome",
+            "CONCEPT"
+        ]
+    ]
+}

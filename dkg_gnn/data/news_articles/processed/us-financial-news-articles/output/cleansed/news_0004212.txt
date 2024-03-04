@@ -1,0 +1,70 @@
+{
+    "output": [
+        [
+            "Multifamily Housing Market",
+            "SECTOR",
+            "Turn_In",
+            "Lackluster Performance",
+            "CONCEPT"
+        ],
+        [
+            "Demand",
+            "CONCEPT",
+            "Fail_To_Keep_Pace",
+            "Deluge Of New Apartment Supply",
+            "CONCEPT"
+        ],
+        [
+            "RealPage Inc.",
+            "ORG",
+            "Release",
+            "Report",
+            "DOCUMENT"
+        ],
+        [
+            "RealPage Inc.",
+            "ORG",
+            "Announce",
+            "U.S. Apartment Rents Climbed 2.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RealPage Inc.",
+            "ORG",
+            "Provide",
+            "Real Estate Technology And Data",
+            "SERVICE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Apartment Rents",
+            "Climb",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Apartment Rents",
+            "Equal",
+            "2.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Apartment Rents",
+            "Down",
+            "5.2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Apartment Rents",
+            "Peak",
+            "2015",
+            "TIME"
+        ]
+    ]
+}

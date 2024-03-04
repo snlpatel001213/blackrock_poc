@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "John Graham",
+            "PERSON",
+            "Participates_In",
+            "Ringing Bell",
+            "EVENT"
+        ],
+        [
+            "Speedo USA",
+            "ORG",
+            "Is_Member_Of",
+            "John Graham",
+            "PERSON"
+        ]
+    ]
+}

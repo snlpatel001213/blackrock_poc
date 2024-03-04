@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Moscow",
+            "GPE",
+            "Hosts",
+            "Fire",
+            "EVENT"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Cause",
+            "Closed-Circuit Fault",
+            "CONCEPT"
+        ],
+        [
+            "Ten People",
+            "ECON_INDICATOR",
+            "Killed",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Shoe Factory",
+            "COMP",
+            "Affected",
+            "Fire",
+            "EVENT"
+        ],
+        [
+            "Siberian Region",
+            "GPE",
+            "Locates",
+            "Novosibirsk",
+            "GPE"
+        ],
+        [
+            "Local Prosecutor\u2018s Office",
+            "ORG",
+            "Post",
+            "Statement",
+            "EVENT"
+        ],
+        [
+            "Chinese Citizens",
+            "PERSON",
+            "Likely",
+            "Dead",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dead",
+            "ECON_INDICATOR",
+            "Include",
+            "Seven Chinese",
+            "PERSON"
+        ],
+        [
+            "Two Citizens",
+            "PERSON",
+            "Include",
+            "Kyrgyzstan",
+            "GPE"
+        ],
+        [
+            "One Russian",
+            "PERSON",
+            "Include",
+            "Dead",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Denis Pinchuk",
+            "PERSON",
+            "Writes",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Gareth Jones",
+            "PERSON",
+            "Edits",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Jean-Paul Kress, M.D.",
+            "PERSON",
+            "Operate_In",
+            "Syntimmune, Inc.",
+            "ORG"
+        ],
+        [
+            "Syntimmune, Inc.",
+            "ORG",
+            "Has",
+            "David de Graaf, Ph.D.",
+            "PERSON"
+        ],
+        [
+            "Syntimmune, Inc.",
+            "ORG",
+            "Has",
+            "Laurence Blumberg, M.D.",
+            "PERSON"
+        ],
+        [
+            "Syntimmune, Inc.",
+            "ORG",
+            "Produce",
+            "SYNT001",
+            "PRODUCT"
+        ],
+        [
+            "SYNT001",
+            "PRODUCT",
+            "Participates_In",
+            "Phase 1b/2a clinical trials",
+            "EVENT"
+        ],
+        [
+            "SYNT001",
+            "PRODUCT",
+            "Relate_To",
+            "IgG-mediated autoimmune diseases",
+            "CONCEPT"
+        ],
+        [
+            "SYNT002",
+            "PRODUCT",
+            "Relate_To",
+            "interaction between FcRn and albumin",
+            "CONCEPT"
+        ]
+    ]
+}

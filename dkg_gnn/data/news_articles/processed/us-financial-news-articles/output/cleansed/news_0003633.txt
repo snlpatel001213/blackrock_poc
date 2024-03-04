@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Sprint Corp",
+            "COMP",
+            "Name",
+            "Michel Combes",
+            "PERSON"
+        ],
+        [
+            "Michel Combes",
+            "PERSON",
+            "Is_Member_Of",
+            "Sprint Corp",
+            "COMP"
+        ],
+        [
+            "Sprint Corp",
+            "COMP",
+            "Announce",
+            "Michel Combes",
+            "PERSON"
+        ],
+        [
+            "Michel Combes",
+            "PERSON",
+            "Assume Role",
+            "President & CFO",
+            "COMP"
+        ],
+        [
+            "Sprint Corp",
+            "COMP",
+            "Operate_In",
+            "Telecom and Cable Industry",
+            "SECTOR"
+        ],
+        [
+            "Tarek Robbiati",
+            "PERSON",
+            "Leave",
+            "Sprint Corp",
+            "COMP"
+        ],
+        [
+            "Tarek Robbiati",
+            "PERSON",
+            "Remain",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Keep",
+            "Tarek Robbiati",
+            "PERSON"
+        ]
+    ]
+}

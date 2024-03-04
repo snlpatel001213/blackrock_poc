@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Eagle Point Credit Company Inc.",
+            "ORG",
+            "Announce",
+            "Distributions",
+            "EVENT"
+        ],
+        [
+            "Eagle Point Credit Company Inc.",
+            "ORG",
+            "Pay",
+            "$0.20",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Eagle Point Credit Company Inc.",
+            "ORG",
+            "Operate_In",
+            "Conn",
+            "GPE"
+        ],
+        [
+            "Eagle Point Credit Company Inc.",
+            "ORG",
+            "Has",
+            "Eagle Point Credit Management LLC",
+            "ORG"
+        ],
+        [
+            "Eagle Point Credit Management LLC",
+            "ORG",
+            "Principals",
+            "Thomas P. Majewski",
+            "PERSON"
+        ],
+        [
+            "Eagle Point Credit Management LLC",
+            "ORG",
+            "Principals",
+            "Daniel W. Ko",
+            "PERSON"
+        ],
+        [
+            "Eagle Point Credit Management LLC",
+            "ORG",
+            "Principals",
+            "Daniel M. Spinner",
+            "PERSON"
+        ]
+    ]
+}

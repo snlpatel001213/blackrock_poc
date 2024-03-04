@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.K.",
+            "GPE",
+            "Announce",
+            "Frankenstein",
+            "EVENT"
+        ],
+        [
+            "U.K.",
+            "GPE",
+            "Announce",
+            "Commemorate",
+            "EVENT"
+        ],
+        [
+            "U.K.",
+            "GPE",
+            "Announce",
+            "Women Right to Vote",
+            "EVENT"
+        ],
+        [
+            "U.K.",
+            "GPE",
+            "Announce",
+            "End of First World War",
+            "EVENT"
+        ],
+        [
+            "U.K.",
+            "GPE",
+            "Announce",
+            "Creation of RAF",
+            "EVENT"
+        ],
+        [
+            "U.K.",
+            "GPE",
+            "Operate_In",
+            "Royal Mint",
+            "ORG"
+        ],
+        [
+            "Two-Pound Coin",
+            "PRODUCT",
+            "Has",
+            "Steel-Colored Center",
+            "CONCEPT"
+        ],
+        [
+            "Two-Pound Coin",
+            "PRODUCT",
+            "Has",
+            "Yellow Outer Ring",
+            "CONCEPT"
+        ],
+        [
+            "Frankenstein",
+            "EVENT",
+            "Relate_To",
+            "Modern Prometheus",
+            "CONCEPT"
+        ]
+    ]
+}

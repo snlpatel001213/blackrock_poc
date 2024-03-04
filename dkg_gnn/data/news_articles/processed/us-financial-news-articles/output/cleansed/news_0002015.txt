@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Celebrate",
+            "50th win",
+            "CONCEPT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Win",
+            "Men\u2019s slalom",
+            "EVENT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Extend",
+            "Lead in overall standings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Lead",
+            "Slalom\u2019s driving seat",
+            "CONCEPT"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Come",
+            "2nd",
+            "CONCEPT"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Come",
+            "3rd",
+            "CONCEPT"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Top",
+            "Opening leg",
+            "CONCEPT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "2nd placed",
+            "null",
+            "null"
+        ],
+        [
+            "Manuel Feller",
+            "PERSON",
+            "Pole position",
+            "null",
+            "null"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Great rival",
+            "Marcel Hirscher",
+            "PERSON"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Hand",
+            "Rare defeat",
+            "CONCEPT",
+            "To",
+            "Marcel Hirscher",
+            "PERSON"
+        ]
+    ]
+}

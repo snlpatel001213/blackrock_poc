@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Symphony Communication Services LLC",
+            "ORG",
+            "Has",
+            "Unscheduled Maintenance",
+            "EVENT"
+        ],
+        [
+            "Symphony Communication Services LLC",
+            "ORG",
+            "Operate_In",
+            "Cloud-based Platform",
+            "CONCEPT"
+        ],
+        [
+            "Symphony Communication Services LLC",
+            "ORG",
+            "Introduce",
+            "Wall Street-backed Platform",
+            "PRODUCT"
+        ],
+        [
+            "Wall Street-backed Platform",
+            "PRODUCT",
+            "Participates_In",
+            "Free Version",
+            "PRODUCT"
+        ],
+        [
+            "Wall Street-backed Platform",
+            "PRODUCT",
+            "Participates_In",
+            "Desktop Version",
+            "PRODUCT"
+        ],
+        [
+            "Paying Customers",
+            "PERSON",
+            "Operate_In",
+            "Desktop Version",
+            "PRODUCT"
+        ],
+        [
+            "Symphony Communication Services LLC",
+            "ORG",
+            "Relate_To",
+            "Security Flaws",
+            "CONCEPT"
+        ]
+    ]
+}

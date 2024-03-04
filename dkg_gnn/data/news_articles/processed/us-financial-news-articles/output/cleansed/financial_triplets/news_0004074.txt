@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Amtrak Train Crash",
+            "EVENT",
+            "Impact",
+            " $40.4 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. National Transportation Safety Board",
+            "ORG/GOV",
+            "Announce",
+            "Amtrak Train Crash",
+            "EVENT"
+        ],
+        [
+            "30 Mph",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Speed Limit",
+            "CONCEPT"
+        ]
+    ]
+}

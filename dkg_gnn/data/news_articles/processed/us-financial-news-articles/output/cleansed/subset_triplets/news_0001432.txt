@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "John Hickenlooper",
+            "PERSON",
+            "Is_Member_Of",
+            "Colorado",
+            "GPE"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Operate_In",
+            "America",
+            "GPE"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Has",
+            "Pro-business attitude",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Has",
+            "Can-do attitude",
+            "CONCEPT"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Operate_In",
+            "Western America",
+            "GPE"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Has",
+            "Engineering talent",
+            "CONCEPT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Has",
+            "C+ grade",
+            "CONCEPT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Has",
+            "Crumbling infrastructure",
+            "CONCEPT"
+        ]
+    ]
+}

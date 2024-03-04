@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Impact",
+            "Paychecks",
+            "COMP"
+        ],
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Issue",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "Employers",
+            "COMP",
+            "Implement",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "Paychecks",
+            "COMP",
+            "Affect",
+            "Take-home Pay",
+            "CONCEPT"
+        ],
+        [
+            "New U.S. Tax Laws",
+            "CONCEPT",
+            "Affect",
+            "Taxpayers",
+            "PERSON"
+        ],
+        [
+            "Payroll Processors",
+            "COMP",
+            "Know",
+            "How",
+            "CONCEPT"
+        ],
+        [
+            "New U.S. Tax Laws",
+            "CONCEPT",
+            "Affect",
+            "Your Taxes",
+            "CONCEPT"
+        ],
+        [
+            "Your Paycheck",
+            "COMP",
+            "Not",
+            "Clear Indicator",
+            "CONCEPT"
+        ],
+        [
+            "Other Factors",
+            "CONCEPT",
+            "Affect",
+            "How Much",
+            "CONCEPT"
+        ],
+        [
+            "Uncle Sam",
+            "PERSON",
+            "Owe",
+            "At The End Of The Year",
+            "CONCEPT"
+        ],
+        [
+            "Tax Uncertainty",
+            "CONCEPT",
+            "Until",
+            "You Do Your Taxes",
+            "CONCEPT"
+        ],
+        [
+            "Tax Professionals",
+            "COMP",
+            "Update",
+            "Their Software",
+            "CONCEPT"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Release",
+            "New Withholding Tables",
+            "CONCEPT"
+        ],
+        [
+            "W-4 Forms",
+            "COMP",
+            "Adjust",
+            "How Much Tax",
+            "CONCEPT"
+        ],
+        [
+            "Existing W-4 Forms",
+            "COMP",
+            "Work",
+            "For Now",
+            "CONCEPT"
+        ],
+        [
+            "Standard Federal W-4",
+            "COMP",
+            "Based",
+            "On Allowances",
+            "CONCEPT"
+        ],
+        [
+            "State Level",
+            "GPE",
+            "Changes",
+            "Tax",
+            "CONCEPT"
+        ],
+        [
+            "Changes In Taxes",
+            "CONCEPT",
+            "Go",
+            "Smoother",
+            "CONCEPT"
+        ]
+    ]
+}

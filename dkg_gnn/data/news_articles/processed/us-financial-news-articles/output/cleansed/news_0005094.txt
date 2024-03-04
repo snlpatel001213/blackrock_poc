@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "UK",
+            "GPE",
+            "Control",
+            "Car Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Negative_Impact_On",
+            "British Businesses",
+            "ORG"
+        ],
+        [
+            "British Businesses",
+            "ORG",
+            "Hurt_By",
+            "UK Consumer Confidence",
+            "CONCEPT"
+        ],
+        [
+            "UK Consumer Confidence",
+            "CONCEPT",
+            "Impact",
+            "Car Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK Consumer Confidence",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Retail Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail Figures",
+            "ECON_INDICATOR",
+            "Drop",
+            "December",
+            "TIME"
+        ],
+        [
+            "December",
+            "TIME",
+            "Consecutive_Falls",
+            "5",
+            "NUMBER"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Evidence",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Directed_From",
+            "Abroad",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Speaks_At",
+            "U.N. Security Council Meeting",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Told",
+            "U.N. Security Council",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Abused",
+            "Its Power",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Permanent Member",
+            "U.N. Security Council",
+            "ORG"
+        ],
+        [
+            "U.N. Security Council",
+            "ORG",
+            "Allowed",
+            "Itself",
+            "CONCEPT"
+        ],
+        [
+            "U.N. Security Council",
+            "ORG",
+            "Abused",
+            "By U.S. Administration",
+            "PERSON"
+        ],
+        [
+            "U.N. Security Council",
+            "ORG",
+            "Discuss",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Fall_Outside",
+            "Scope",
+            "CONCEPT"
+        ],
+        [
+            "U.N. Security Council",
+            "ORG",
+            "Mandate",
+            "CONCEPT"
+        ]
+    ]
+}

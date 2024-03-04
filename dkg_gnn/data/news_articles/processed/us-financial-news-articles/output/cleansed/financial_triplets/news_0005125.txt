@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Honeywell",
+            "ORG",
+            "Announce",
+            "fourth quarter and full year 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Participates_In",
+            "investors",
+            "PERSON"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "conference code HON4Q17",
+            "CONCEPT"
+        ]
+    ]
+}

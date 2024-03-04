@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "IGM Financial Inc.",
+            "COMP",
+            "Announce",
+            "December 2017 Investment Fund Sales",
+            "EVENT"
+        ],
+        [
+            "IGM Financial Inc.",
+            "COMP",
+            "Control",
+            "Total Assets Under Management",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total Assets Under Management",
+            "ECON_INDICATOR",
+            "Decrease",
+            "$156.9 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Total Assets Under Management",
+            "ECON_INDICATOR",
+            "Raise",
+            "$156.5 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "IGM Financial Inc.",
+            "COMP",
+            "Control",
+            "Investment Fund Assets Under Management",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investment Fund Assets Under Management",
+            "ECON_INDICATOR",
+            "Decrease",
+            "$149.7 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investment Fund Assets Under Management",
+            "ECON_INDICATOR",
+            "Raise",
+            "$149.3 Billion",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

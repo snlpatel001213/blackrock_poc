@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Invests_In",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Has",
+            "Peter Thiel fund",
+            "ORG"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Peter Thiel fund",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "NuVasive",
+            "ORG",
+            "Announce",
+            "COALESCE",
+            "PRODUCT"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Operate_In",
+            "Spine Technology",
+            "SECTOR"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Relate_To",
+            "Thoracolumbar Interbody Fusion",
+            "CONCEPT"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Acquire",
+            "Vertera Spine",
+            "ORG"
+        ],
+        [
+            "Vertera Spine",
+            "ORG",
+            "Develop",
+            "Porous PEEK",
+            "CONCEPT"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Produce",
+            "Porous PEEK",
+            "CONCEPT"
+        ],
+        [
+            "Porous PEEK",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Osseointegration",
+            "CONCEPT"
+        ],
+        [
+            "Gregory T. Lucier",
+            "PERSON",
+            "Is_Member_Of",
+            "NuVasive",
+            "ORG"
+        ],
+        [
+            "Gregory T. Lucier",
+            "PERSON",
+            "Say",
+            "Disruptive Technology",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Commercially_Available_For",
+            "TLIF",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Commercially_Available_For",
+            "PLIF",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "FDA_510k_Clearance",
+            "Thoracolumbar Spine",
+            "GPE"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Indications_For_Use",
+            "Degenerative Disc Disease",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Indications_For_Use",
+            "Degenerative Spondylolisthesis",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "Indications_For_Use",
+            "Multi-level Degenerative Scoliosis",
+            "CONCEPT"
+        ],
+        [
+            "COALESCE",
+            "PRODUCT",
+            "MR_Compatible",
+            "Yes",
+            "CONCEPT"
+        ],
+        [
+            "COHERE",
+            "PRODUCT",
+            "FDA_510k_Clearance",
+            "Cervical Spine",
+            "GPE"
+        ],
+        [
+            "COHERE",
+            "PRODUCT",
+            "Indications_For_Use",
+            "Autograft",
+            "CONCEPT"
+        ],
+        [
+            "COHERE",
+            "PRODUCT",
+            "Indications_For_Use",
+            "Allograft",
+            "CONCEPT"
+        ],
+        [
+            "COHERE",
+            "PRODUCT",
+            "New_ICD_Code",
+            "Yes",
+            "CONCEPT"
+        ],
+        [
+            "COHERE",
+            "PRODUCT",
+            "CMS_Recognition",
+            "Yes",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Orthopaedic_Surgeon",
+            "Yes",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "At",
+            "The Hughston Clinic",
+            "ORG"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Porous PEEK",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Facilitate_Osseointegration",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Bone_Growth",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Biomechanical_Properties",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Intradiscal_Spinal_Applications",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Enhance_Fusion",
+            "CONCEPT"
+        ],
+        [
+            "Kenneth Burkus",
+            "PERSON",
+            "Say",
+            "Limit_Risk",
+            "CONCEPT"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Revenues",
+            "$962 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Workforce",
+            "Approximate 2,300 person",
+            "CONCEPT"
+        ],
+        [
+            "NuVasive",
+            "ORG",
+            "Website",
+            "www.nuvasive.com",
+            "CONCEPT"
+        ]
+    ]
+}

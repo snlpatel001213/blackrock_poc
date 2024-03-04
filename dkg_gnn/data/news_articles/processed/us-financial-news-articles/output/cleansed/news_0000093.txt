@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Hines",
+            "ORG",
+            "Stop_Investing_In",
+            "London Commercial Real Estate",
+            "PRODUCT"
+        ],
+        [
+            "Hines",
+            "ORG",
+            "Start_Selling",
+            "Property",
+            "PRODUCT",
+            "in",
+            "London",
+            "GPE"
+        ],
+        [
+            "Hines",
+            "ORG",
+            "Correctly_Believe",
+            "Prices_Got_Too_High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hines",
+            "ORG",
+            "Expect",
+            "Start_Buying_Again",
+            "ACT",
+            "in",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Lars Huber",
+            "PERSON",
+            "Said",
+            "Discounts_Getting_Bigger",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hines",
+            "ORG",
+            "Underwriting",
+            "Deals",
+            "ACT",
+            "now"
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "FEMA",
+            "ORG/GOV",
+            "Has",
+            "$1.46 Billion",
+            "ECON_INDICATOR",
+            "Of_Risk",
+            "NFIP",
+            "ORG/GOV"
+        ],
+        [
+            "FEMA",
+            "ORG/GOV",
+            "Transferred",
+            "$1.46 Billion",
+            "ECON_INDICATOR",
+            "To",
+            "28",
+            "COMP",
+            "Reinsurers",
+            "ORG"
+        ],
+        [
+            "FEMA",
+            "ORG/GOV",
+            "Announce",
+            "Reinsurance_Agreement",
+            "PRODUCT",
+            "Covers",
+            "18.6%",
+            "ECON_INDICATOR",
+            "Of_NFIP_Losses",
+            "ORG/GOV",
+            "Between",
+            "$4 Billion",
+            "ECON_INDICATOR",
+            "And",
+            "$6 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FEMA",
+            "ORG/GOV",
+            "Announce",
+            "Reinsurance_Agreement",
+            "PRODUCT",
+            "Covers",
+            "54.3%",
+            "ECON_INDICATOR",
+            "Of_NFIP_Losses",
+            "ORG/GOV",
+            "Between",
+            "$6 Billion",
+            "ECON_INDICATOR",
+            "And",
+            "$8 Billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

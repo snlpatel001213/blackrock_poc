@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Bridgewater Associates",
+            "ORG",
+            "Is_Member_Of",
+            "Westport",
+            "GPE"
+        ],
+        [
+            "Bridgewater Associates",
+            "ORG",
+            "Control",
+            "$160 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bridgewater Associates",
+            "ORG",
+            "Manages",
+            "Institutional Clients",
+            "ORG"
+        ],
+        [
+            "Bruce Steinberg",
+            "PERSON",
+            "Is_Member_Of",
+            "Bridgewater Associates",
+            "ORG"
+        ],
+        [
+            "Bruce Steinberg",
+            "PERSON",
+            "Participates_In",
+            "Plane Crash",
+            "EVENT"
+        ],
+        [
+            "Plane",
+            "PRODUCT",
+            "Operate_In",
+            "Costa Rica",
+            "GPE"
+        ],
+        [
+            "Plane",
+            "PRODUCT",
+            "Participates_In",
+            "Crash",
+            "EVENT"
+        ],
+        [
+            "Cessna 208B Grand Caravan",
+            "PRODUCT",
+            "Participates_In",
+            "Crash",
+            "EVENT"
+        ],
+        [
+            "Costa Rica",
+            "GPE",
+            "Investigates",
+            "Plane Crash",
+            "EVENT"
+        ],
+        [
+            "Costa Rica",
+            "GPE",
+            "Has",
+            "Capital",
+            "GPE"
+        ],
+        [
+            "Costa Rica",
+            "GPE",
+            "Has",
+            "Two Costa Rican Crew Members",
+            "PERSON"
+        ],
+        [
+            "Michael Soto",
+            "PERSON",
+            "Is_Member_Of",
+            "Costa Rican Police",
+            "ORG"
+        ],
+        [
+            "Michael Soto",
+            "PERSON",
+            "Report",
+            "Plane Crash",
+            "EVENT"
+        ]
+    ]
+}

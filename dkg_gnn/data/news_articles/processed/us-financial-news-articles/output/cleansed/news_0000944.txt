@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Announce",
+            "Chris Kete",
+            "PERSON"
+        ],
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Is_Member_Of",
+            "NASCENT Technology",
+            "ORG"
+        ],
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Position",
+            "Chairman of the Board",
+            "ORG_POSITION"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Appoint",
+            "President and C.E.O.",
+            "ORG_POSITION"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Educate",
+            "Cornell University",
+            "EDU"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Educate",
+            "Harvard Business School",
+            "EDU"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Operate_In",
+            "U.S. Navy",
+            "ORG/GOV"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "Cummins Inc.",
+            "COMP"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "Meritor Inc.",
+            "COMP"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "The Horsburgh & Scott Company",
+            "COMP"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "Wastequip",
+            "COMP"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "US GreenFiber",
+            "COMP"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Work_Experience",
+            "Griffin Gear",
+            "COMP"
+        ],
+        [
+            "Michael Bratt",
+            "PERSON",
+            "Work_Experience",
+            "NASCENT Technology",
+            "ORG"
+        ],
+        [
+            "Michael Bratt",
+            "PERSON",
+            "Position",
+            "COO/CFO",
+            "ORG_POSITION"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Operate_In",
+            "Transportation Industry",
+            "SECTOR"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Has",
+            "New Advanced Technologies",
+            "CONCEPT"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Has",
+            "Robust Interest from Clients",
+            "CONCEPT"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Improve",
+            "Level of Sophistication",
+            "CONCEPT"
+        ],
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Position",
+            "NASCENT co-founder",
+            "ORG_POSITION"
+        ],
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Position",
+            "Chairman of the Board",
+            "ORG_POSITION"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Support",
+            "Needed to be Successful",
+            "CONCEPT"
+        ]
+    ]
+}

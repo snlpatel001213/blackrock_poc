@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Raise",
+            "Minimum Wage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "California",
+            "GPE",
+            "Impact",
+            "More than 2 million workers",
+            "PERSON"
+        ],
+        [
+            "Maine",
+            "GPE",
+            "Raise",
+            "Minimum Wage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Maine",
+            "GPE",
+            "Impact",
+            "An estimated 59,000 workers",
+            "PERSON"
+        ],
+        [
+            "National Employment Law Project",
+            "ORG",
+            "Announce",
+            "18 states and 19 cities will boost minimum wage",
+            "EVENT"
+        ]
+    ]
+}

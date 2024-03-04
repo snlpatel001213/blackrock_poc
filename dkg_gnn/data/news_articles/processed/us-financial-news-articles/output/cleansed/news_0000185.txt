@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Takata Corp",
+            "ORG",
+            "File_For_Bankruptcy",
+            "TK Holdings Inc",
+            "ORG"
+        ],
+        [
+            "TK Holdings Inc",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "Recall",
+            "Airbags",
+            "PRODUCT"
+        ],
+        [
+            "Airbags",
+            "PRODUCT",
+            "Link_To",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Airbags",
+            "PRODUCT",
+            "Link_To",
+            "Deaths",
+            "CONCEPT"
+        ],
+        [
+            "TK Holdings Inc",
+            "ORG",
+            "Has",
+            "Personal_Injury_Claims",
+            "CONCEPT"
+        ],
+        [
+            "TK Holdings Inc",
+            "ORG",
+            "Propose",
+            "Reorganization_Plan",
+            "CONCEPT"
+        ],
+        [
+            "TK Holdings Inc",
+            "ORG",
+            "Establish",
+            "Fund",
+            "CONCEPT"
+        ],
+        [
+            "Fund",
+            "CONCEPT",
+            "Pay_Compensation",
+            "Personal_Injury_Claims",
+            "CONCEPT"
+        ],
+        [
+            "Car_Owners",
+            "PERSON",
+            "Barred_From",
+            "Suing_Honda",
+            "ORG"
+        ],
+        [
+            "Car_Makers",
+            "ORG",
+            "Opt",
+            "Join_Trust_Arrangement",
+            "CONCEPT"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "Sell",
+            "Viable_Operations",
+            "SECTOR"
+        ],
+        [
+            "Viable_Operations",
+            "SECTOR",
+            "Sell_To",
+            "Key_Safety_Systems",
+            "ORG"
+        ],
+        [
+            "Key_Safety_Systems",
+            "ORG",
+            "Affiliate_Of",
+            "China",
+            "GPE"
+        ],
+        [
+            "Proceeds",
+            "CONCEPT",
+            "Fund",
+            "Restitution_Claims",
+            "CONCEPT"
+        ],
+        [
+            "Proceeds",
+            "CONCEPT",
+            "Help_Pay",
+            "Personal_Injury_Claims",
+            "CONCEPT"
+        ]
+    ]
+}

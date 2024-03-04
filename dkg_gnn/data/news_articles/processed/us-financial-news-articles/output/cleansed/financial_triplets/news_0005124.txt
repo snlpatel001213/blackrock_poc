@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Weyerhaeuser Company",
+            "ORG",
+            "Announce",
+            "Fourth quarter 2017 results",
+            "EVENT"
+        ],
+        [
+            "Weyerhaeuser Company",
+            "ORG",
+            "Operate_In",
+            "Timberlands sector",
+            "SECTOR"
+        ],
+        [
+            "Weyerhaeuser Company",
+            "ORG",
+            "Produce",
+            "Wood products",
+            "PRODUCT"
+        ],
+        [
+            "Weyerhaeuser Company",
+            "ORG",
+            "Control",
+            "Real estate investment trust",
+            "SECTOR"
+        ],
+        [
+            "Weyerhaeuser Company",
+            "ORG",
+            "Relate_To",
+            "Plum Creek Timber Company",
+            "ORG"
+        ],
+        [
+            "Fourth quarter 2017 results",
+            "EVENT",
+            "Impact",
+            "Weyerhaeuser Company",
+            "ORG"
+        ],
+        [
+            "855-223-0757",
+            "FIN_INSTRUMENT",
+            "Invests_In",
+            "Conference call",
+            "EVENT"
+        ],
+        [
+            "574-990-1206",
+            "FIN_INSTRUMENT",
+            "Invests_In",
+            "Conference call",
+            "EVENT"
+        ],
+        [
+            "855-859-2056",
+            "FIN_INSTRUMENT",
+            "Invests_In",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "404-537-3406",
+            "FIN_INSTRUMENT",
+            "Invests_In",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "WY",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Trade on the New York Stock Exchange",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Signs",
+            "Mou",
+            "ORG"
+        ],
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Trial_Production_Of",
+            "Lithium Carbonate",
+            "PRODUCT"
+        ],
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Provide",
+            "Assay Results",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Share",
+            "Trial Production Results",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Belong_To",
+            "Two Parties",
+            "PERSON"
+        ],
+        [
+            "Ultra Lithium Inc",
+            "COMP",
+            "Has",
+            "Cadavisa Technology Corporation",
+            "ORG"
+        ],
+        [
+            "Cadavisa Technology Corporation",
+            "ORG",
+            "Trial_Production_Of",
+            "Lithium Carbonate",
+            "PRODUCT"
+        ],
+        [
+            "Cadavisa Technology Corporation",
+            "ORG",
+            "Belong_To",
+            "Two Parties",
+            "PERSON"
+        ]
+    ]
+}

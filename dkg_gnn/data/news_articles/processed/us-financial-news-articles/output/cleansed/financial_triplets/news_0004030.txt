@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "2018",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "ObamaCare",
+            "CONCEPT",
+            "Participates_In",
+            "Debates",
+            "EVENT"
+        ],
+        [
+            "Tax cuts",
+            "CONCEPT",
+            "Participates_In",
+            "Debates",
+            "EVENT"
+        ]
+    ]
+}

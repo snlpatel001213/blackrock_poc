@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Egypt",
+            "GPE",
+            "Operate_In",
+            "North Africa",
+            "GPE"
+        ],
+        [
+            "State of Emergency",
+            "ORG/GOV",
+            "Relate_To",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "State of Emergency",
+            "ORG/GOV",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "State of Emergency",
+            "ORG/GOV",
+            "Impact",
+            "Rights",
+            "CONCEPT"
+        ],
+        [
+            "State of Emergency",
+            "ORG/GOV",
+            "Impact",
+            "Public Order",
+            "CONCEPT"
+        ],
+        [
+            "Church Bombings",
+            "EVENT",
+            "Negative_Impact_On",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Church Bombings",
+            "EVENT",
+            "Negative_Impact_On",
+            "Rights",
+            "CONCEPT"
+        ],
+        [
+            "Church Bombings",
+            "EVENT",
+            "Negative_Impact_On",
+            "Public Order",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "output": [
+        [
+            "Fewer black, Hispanic patients",
+            "PERSON",
+            "Get",
+            "kidney transplants",
+            "PRODUCT"
+        ],
+        [
+            "Black patients",
+            "PERSON",
+            "Receive",
+            "organs from live donors",
+            "PRODUCT",
+            "Less likely than",
+            "White people",
+            "PERSON"
+        ],
+        [
+            "White patients",
+            "PERSON",
+            "Receive",
+            "organs from live donors",
+            "PRODUCT",
+            "Proportion",
+            "Increase",
+            "Two decades earlier"
+        ],
+        [
+            "Black patients",
+            "PERSON",
+            "Receive",
+            "kidneys from live donors",
+            "PRODUCT",
+            "Proportion",
+            "Decrease",
+            "Over the 20-year study period"
+        ],
+        [
+            "Hispanic patients",
+            "PERSON",
+            "Receive",
+            "kidneys from live donors",
+            "PRODUCT",
+            "Proportion",
+            "Decrease",
+            "Over the 20-year study period"
+        ],
+        [
+            "Asian kidney recipients",
+            "PERSON",
+            "Receive",
+            "kidneys from live donors",
+            "PRODUCT",
+            "Proportion",
+            "Increase",
+            "Over the 20-year study period"
+        ],
+        [
+            "Live-donor kidney transplants",
+            "PRODUCT",
+            "Associated with",
+            "Longer life expectancy and higher quality of life",
+            "CONCEPT"
+        ],
+        [
+            "Live-donor kidney transplants",
+            "PRODUCT",
+            "Compared with",
+            "Deceased donor kidney transplants or long-term dialysis treatment",
+            "PRODUCT"
+        ],
+        [
+            "Racial and ethnic minorities",
+            "PERSON",
+            "Have",
+            "Less access to private health insurance, primary care providers and kidney specialists",
+            "PRODUCT"
+        ],
+        [
+            "Patients",
+            "PERSON",
+            "Have",
+            "Early conversations about the benefits and risks of live-donor kidney transplantation with their doctors and family members",
+            "PERSON"
+        ],
+        [
+            "Shifts in organ donation policies and patient outreach",
+            "PRODUCT",
+            "Increase",
+            "Proportion of minority patients receiving kidneys from deceased donors",
+            "PRODUCT"
+        ],
+        [
+            "Black patients",
+            "PERSON",
+            "73 percent less likely",
+            "Receive live kidney donations",
+            "PRODUCT",
+            "Compared to white patients"
+        ],
+        [
+            "Hispanic patients",
+            "PERSON",
+            "48 percent lower odds",
+            "Receive live kidney donations",
+            "PRODUCT",
+            "Compared to white patients"
+        ],
+        [
+            "Asian patients",
+            "PERSON",
+            "58 percent lower odds",
+            "Receive live kidney donations",
+            "PRODUCT",
+            "Compared to white patients"
+        ],
+        [
+            "Donors",
+            "PERSON",
+            "Financial disincentives",
+            "Lost wages and fear of losing employment",
+            "CONCEPT"
+        ],
+        [
+            "Black and Hispanic patients",
+            "PERSON",
+            "Limited by",
+            "Clustering of medical risk factors such as obesity and diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Black and Hispanic patients",
+            "PERSON",
+            "Reduced access and education regarding transplant options",
+            "CONCEPT"
+        ],
+        [
+            "Donors",
+            "PERSON",
+            "Financial disincentives",
+            "Lost wages and fear of losing employment",
+            "CONCEPT"
+        ]
+    ]
+}

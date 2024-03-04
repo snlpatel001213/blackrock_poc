@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Southwest",
+            "ORG",
+            "Pay",
+            "$1,000",
+            "MONEY"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Operate_In",
+            "Aviation Industry",
+            "SECTOR"
+        ],
+        [
+            "American",
+            "ORG",
+            "Pay",
+            "$1,000",
+            "MONEY"
+        ],
+        [
+            "American",
+            "ORG",
+            "Operate_In",
+            "Aviation Industry",
+            "SECTOR"
+        ],
+        [
+            "Boeing",
+            "ORG",
+            "Receive",
+            "Payment",
+            "MONEY"
+        ],
+        [
+            "Boeing",
+            "ORG",
+            "Produce",
+            "Jets",
+            "PRODUCT"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Exercise",
+            "Options",
+            "CONCEPT"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Delay",
+            "Orders",
+            "CONCEPT"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Donate",
+            "$5 million",
+            "MONEY"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Impact",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Expect",
+            "$105 million",
+            "MONEY"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Relate_To",
+            "Unit Expenses",
+            "CONCEPT"
+        ],
+        [
+            "Southwest",
+            "ORG",
+            "Relate_To",
+            "Legal Settlement",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "SigmaSense LLC",
+            "ORG",
+            "Announce",
+            "name change",
+            "EVENT"
+        ],
+        [
+            "SigmaSense LLC",
+            "ORG",
+            "Introduce",
+            "SigmaTouch",
+            "PRODUCT"
+        ],
+        [
+            "SigmaSense LLC",
+            "ORG",
+            "Introduce",
+            "SigmaScribe",
+            "PRODUCT"
+        ],
+        [
+            "SigmaTouch",
+            "PRODUCT",
+            "Relate_To",
+            "Capacitive Imaging",
+            "CONCEPT"
+        ],
+        [
+            "SigmaScribe",
+            "PRODUCT",
+            "Relate_To",
+            "Capacitive Imaging",
+            "CONCEPT"
+        ],
+        [
+            "SigmaTouch",
+            "PRODUCT",
+            "Control",
+            "Sigma-delta based architecture",
+            "CONCEPT"
+        ],
+        [
+            "SigmaScribe",
+            "PRODUCT",
+            "Control",
+            "Sigma-delta based architecture",
+            "CONCEPT"
+        ],
+        [
+            "SigmaTouch",
+            "PRODUCT",
+            "Impact",
+            "game changing performance",
+            "CONCEPT"
+        ],
+        [
+            "SigmaTouch",
+            "PRODUCT",
+            "Impact",
+            "large PCAP sensors",
+            "COMP"
+        ],
+        [
+            "SigmaTouch Controller",
+            "PRODUCT",
+            "Operate_In",
+            "touch sensors",
+            "COMP"
+        ],
+        [
+            "SigmaTouch Controller",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "perceptive machines",
+            "CONCEPT"
+        ],
+        [
+            "SigmaScribe",
+            "PRODUCT",
+            "Produce",
+            "TruePressure\u2122",
+            "CONCEPT"
+        ],
+        [
+            "SigmaScribe",
+            "PRODUCT",
+            "Produce",
+            "ultra-realistic writing and drawing",
+            "CONCEPT"
+        ],
+        [
+            "SigmaScribe",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "active pen tip module",
+            "COMP"
+        ],
+        [
+            "SigmaSense LLC",
+            "ORG",
+            "Operate_In",
+            "sensing industry",
+            "SECTOR"
+        ],
+        [
+            "SigmaSense LLC",
+            "ORG",
+            "Impact",
+            "many industries",
+            "SECTOR"
+        ]
+    ]
+}

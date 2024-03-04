@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Centene Corporation",
+            "ORG",
+            "Announce",
+            "2017 Fourth Quarter and Full Year Financial Results",
+            "EVENT"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Operate_In",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Michael F. Neidorff",
+            "PERSON",
+            "Is_Member_Of",
+            "Centene Corporation",
+            "ORG"
+        ],
+        [
+            "Michael F. Neidorff",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Jeffrey A. Schwaneke",
+            "PERSON",
+            "Is_Member_Of",
+            "Centene Corporation",
+            "ORG"
+        ],
+        [
+            "Jeffrey A. Schwaneke",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Invests_In",
+            "Centene Corporation",
+            "ORG"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Has",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Release",
+            "Financial Results",
+            "EVENT"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Make_Available",
+            "Webcast Replay",
+            "EVENT"
+        ],
+        [
+            "Centene Corporation",
+            "ORG",
+            "Make_Available",
+            "Digital Audio Playback",
+            "EVENT"
+        ]
+    ]
+}

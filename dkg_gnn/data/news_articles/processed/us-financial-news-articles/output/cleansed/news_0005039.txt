@@ -1,0 +1,31 @@
+{
+    "output": [
+        [
+            "11 Saudi princes",
+            "PERSON",
+            "Arrest",
+            "Saudi officials",
+            "ORG/GOV"
+        ],
+        [
+            "Saudi officials",
+            "ORG/GOV",
+            "Confirm",
+            "arrest of 11 Saudi princes",
+            "PERSON"
+        ],
+        [
+            "11 Saudi princes",
+            "PERSON",
+            "Stage",
+            "sit-in",
+            "EVENT",
+            "At",
+            "royal palace",
+            "ORG",
+            "In",
+            "Riyadh",
+            "GPE"
+        ]
+    ]
+}

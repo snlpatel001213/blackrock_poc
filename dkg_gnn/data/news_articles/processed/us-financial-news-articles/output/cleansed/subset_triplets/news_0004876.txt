@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Greek Patriarch",
+            "PERSON",
+            "Is_Member_Of",
+            "Greek Orthodox Church",
+            "ORG"
+        ],
+        [
+            "land",
+            "PRODUCT",
+            "Relate_To",
+            "Jewish Groups",
+            "ORG"
+        ],
+        [
+            "land deals",
+            "PRODUCT",
+            "Relate_To",
+            "Greek Orthodox Church",
+            "ORG"
+        ]
+    ]
+}

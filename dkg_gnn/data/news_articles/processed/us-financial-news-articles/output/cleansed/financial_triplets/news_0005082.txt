@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "Open",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "U.S. Offshore",
+            "GPE"
+        ],
+        [
+            "U.S. Offshore",
+            "GPE",
+            "Control",
+            "Oil and Gas Drilling",
+            "CONCEPT"
+        ],
+        [
+            "Domestic Energy Production",
+            "CONCEPT",
+            "Relate_To",
+            "U.S. Offshore",
+            "GPE"
+        ]
+    ]
+}

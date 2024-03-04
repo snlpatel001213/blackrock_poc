@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "AMD",
+            "COMP",
+            "Raise",
+            "Intel",
+            "COMP"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Chip Security Flaw",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Announce",
+            "Chip Security Flaw",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Semiconductor Industry",
+            "SECTOR"
+        ]
+    ]
+}

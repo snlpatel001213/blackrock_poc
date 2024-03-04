@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Deliver",
+            "Freezing Temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Deliver",
+            "Sleet",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Deliver",
+            "Ice",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Deliver",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Impact",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Impact",
+            "Southeast States",
+            "GPE"
+        ],
+        [
+            "National Weather Service",
+            "ORG",
+            "Announce",
+            "0.1 Inch of Snow",
+            "CONCEPT"
+        ],
+        [
+            "National Weather Service",
+            "ORG",
+            "Announce",
+            "Sleet",
+            "CONCEPT"
+        ],
+        [
+            "Tallahassee",
+            "GPE",
+            "Has",
+            "First Measurable Snow",
+            "CONCEPT"
+        ],
+        [
+            "Tallahassee",
+            "GPE",
+            "Has",
+            "Closing Parts of Interstate 10",
+            "CONCEPT"
+        ],
+        [
+            "Weather.com",
+            "ORG",
+            "Announce",
+            "First Measurable Snow",
+            "CONCEPT"
+        ],
+        [
+            "Weather.com",
+            "ORG",
+            "Announce",
+            "28 Years",
+            "CONCEPT"
+        ],
+        [
+            "Savannah",
+            "GPE",
+            "Has",
+            "One Inch of Snow",
+            "CONCEPT"
+        ],
+        [
+            "Savannah",
+            "GPE",
+            "Has",
+            "Up to Three Inches of Snow",
+            "CONCEPT"
+        ],
+        [
+            "Georgia",
+            "GPE",
+            "Has",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "North Carolina",
+            "GPE",
+            "Has",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "Virginia",
+            "GPE",
+            "Has",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "Georgia Gov. Nathan Deal",
+            "PERSON",
+            "Declare",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "North Carolina Gov. Roy Cooper",
+            "PERSON",
+            "Plan",
+            "Declare State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "Virginia Gov. Terry McAuliffe",
+            "PERSON",
+            "Declare",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "Hampton Roads",
+            "GPE",
+            "Participates_In",
+            "Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Northern Neck",
+            "GPE",
+            "Participates_In",
+            "Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Eastern Shore",
+            "GPE",
+            "Participates_In",
+            "Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Eastern Virginia",
+            "GPE",
+            "Participates_In",
+            "Blizzard-like Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Virginia Gov. Terry McAuliffe",
+            "PERSON",
+            "Warn",
+            "Health and Safety Threats",
+            "CONCEPT"
+        ]
+    ]
+}

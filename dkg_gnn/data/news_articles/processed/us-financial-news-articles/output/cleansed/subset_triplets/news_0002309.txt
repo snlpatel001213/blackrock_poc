@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Announce",
+            "Energy Stock Picks",
+            "COMP"
+        ],
+        [
+            "Energy Stock Picks",
+            "COMP",
+            "Relate_To",
+            "Oil Sector",
+            "SECTOR"
+        ],
+        [
+            "Oil Sector",
+            "SECTOR",
+            "Impact",
+            "Rising Oil",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

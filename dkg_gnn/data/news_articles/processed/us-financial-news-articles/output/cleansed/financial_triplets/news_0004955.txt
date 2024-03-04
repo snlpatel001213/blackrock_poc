@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Airbnb",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Facebook",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Announce",
+            "Join Legal Action",
+            "EVENT"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Relate_To",
+            "Net Neutrality Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Restoring Internet Freedom Order",
+            "EVENT",
+            "Negative_Impact_On",
+            "Net Neutrality Regulations",
+            "CONCEPT"
+        ]
+    ]
+}

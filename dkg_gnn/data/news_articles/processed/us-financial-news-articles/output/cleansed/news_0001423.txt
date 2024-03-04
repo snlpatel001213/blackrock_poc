@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Oil prices",
+            "ECON_INDICATOR",
+            "Rise",
+            "Light sweet crude",
+            "PRODUCT"
+        ],
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "Operate_In",
+            "New York Mercantile Exchange",
+            "ORG"
+        ],
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "Gain",
+            "$1.09",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "Increase",
+            "1.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "On_Track",
+            "Close at highest level in three years",
+            "CONCEPT"
+        ],
+        [
+            "Light sweet crude",
+            "PRODUCT",
+            "Trade",
+            "$61.46",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent",
+            "PRODUCT",
+            "Advance",
+            "92 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent",
+            "PRODUCT",
+            "Increase",
+            "1.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent",
+            "PRODUCT",
+            "Trade",
+            "$67.48",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Relate_To",
+            "Potential supply disruptions",
+            "CONCEPT"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Antigovernment protests",
+            "EVENT",
+            "Raise",
+            "Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

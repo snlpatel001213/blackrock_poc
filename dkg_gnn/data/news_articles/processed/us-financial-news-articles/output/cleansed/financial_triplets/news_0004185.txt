@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Produce",
+            "Crude Oil",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Produce",
+            "Natural Gas",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Operate_In",
+            "San Ramon, CA",
+            "GPE"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Chevron Corporation",
+            "COMP",
+            "Has",
+            "Subsidiaries",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "James Harden",
+            "PERSON",
+            "Has",
+            "Left Hamstring Strain",
+            "CONCEPT"
+        ],
+        [
+            "Houston Rockets",
+            "ORG",
+            "Operate_In",
+            "NBA",
+            "ORG/GOV"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Impact",
+            "Houston Rockets",
+            "ORG"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Participates_In",
+            "Basketball Game",
+            "EVENT"
+        ],
+        [
+            "Houston Rockets",
+            "ORG",
+            "Control",
+            "James Harden",
+            "PERSON"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Leading_Candidate_For",
+            "MVP Award",
+            "AWARD"
+        ],
+        [
+            "Houston Rockets",
+            "ORG",
+            "Ranked",
+            "Second",
+            "ORDINAL"
+        ],
+        [
+            "Houston Rockets",
+            "ORG",
+            "Operate_In",
+            "Western Conference",
+            "SECTOR"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Average",
+            "32.3 Points Per Game",
+            "ECON_INDICATOR"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Average",
+            "9.1 Assists Per Game",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

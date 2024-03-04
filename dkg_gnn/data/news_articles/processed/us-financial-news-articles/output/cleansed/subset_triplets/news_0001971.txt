@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Announce",
+            "fourth quarter 2017 results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Operate_In",
+            "Columbus, Georgia",
+            "GPE"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Control",
+            "Synovus Bank",
+            "COMP"
+        ],
+        [
+            "Synovus Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Synovus Financial Corp.",
+            "ORG"
+        ]
+    ]
+}

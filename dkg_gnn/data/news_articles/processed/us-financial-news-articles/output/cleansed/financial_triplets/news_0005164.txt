@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Operate_In",
+            "Alcohol Sales",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Invests_In",
+            "Canopy Growth Corp",
+            "COMP"
+        ],
+        [
+            "Canopy Growth Corp",
+            "COMP",
+            "Relate_To",
+            "Legalization of Cannabis",
+            "CONCEPT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Has",
+            "Beer Sales",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Has",
+            "Wine and Spirit Sales",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Raise",
+            "$3 billion share buyback program",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Raise",
+            "Full-year profit forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Has",
+            "Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Has",
+            "Net Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Raise",
+            "Full-year profit forecast to $8.40-$8.50 per share",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

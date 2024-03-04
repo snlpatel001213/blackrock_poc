@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Syria",
+            "GPE",
+            "Control",
+            "Two shells",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Operate_In",
+            "Hatay",
+            "GPE"
+        ],
+        [
+            "Forces loyal to Assad",
+            "ORG",
+            "Control",
+            "Area of Syria",
+            "GPE"
+        ]
+    ]
+}

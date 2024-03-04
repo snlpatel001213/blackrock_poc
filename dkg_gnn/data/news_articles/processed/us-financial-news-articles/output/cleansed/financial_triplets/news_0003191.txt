@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Announce",
+            "Preview",
+            "EVENT"
+        ],
+        [
+            "Steve Liesman",
+            "PERSON",
+            "Operate_In",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Economic Data",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Preview",
+            "EVENT"
+        ],
+        [
+            "Jobs Report",
+            "ECON_INDICATOR",
+            "Participates_In",
+            "Economic Data",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

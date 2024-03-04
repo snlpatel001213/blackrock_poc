@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Tesla",
+            "PERSON",
+            "Decrease",
+            "Tesla Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla",
+            "PERSON",
+            "Relate_To",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Tesla Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

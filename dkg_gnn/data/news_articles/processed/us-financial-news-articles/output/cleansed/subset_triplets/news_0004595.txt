@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Participates_In",
+            "Alpine Skiing",
+            "CONCEPT"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Operate_In",
+            "Pyeongchang",
+            "GPE"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Impact",
+            "Olympic Medals",
+            "PRODUCT"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Impact",
+            "World Cup Victories",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Raise",
+            "Health Questions",
+            "CONCEPT"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Control",
+            "Risk Management",
+            "CONCEPT"
+        ],
+        [
+            "Lindsey Vonn",
+            "PERSON",
+            "Relate_To",
+            "Tiger Woods",
+            "PERSON"
+        ]
+    ]
+}

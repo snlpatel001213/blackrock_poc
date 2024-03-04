@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Ends",
+            "153.60/70 per dollar",
+            "CURRENCY"
+        ],
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Closed",
+            "153.70/80 per dollar",
+            "CURRENCY"
+        ],
+        [
+            "Exporter",
+            "PERSON",
+            "Convert",
+            "U.S. currency",
+            "CURRENCY"
+        ],
+        [
+            "Importer",
+            "PERSON",
+            "Demand",
+            "dollars",
+            "CURRENCY"
+        ],
+        [
+            "Currency dealer",
+            "PERSON",
+            "Speak",
+            "null",
+            "null"
+        ],
+        [
+            "Currency",
+            "PERSON",
+            "Pressure",
+            "imports",
+            "PERSON"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Announce",
+            "key economic policies",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Allow",
+            "more flexibility",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Intervene",
+            "null",
+            "null"
+        ],
+        [
+            "Banking regulator",
+            "ORG",
+            "Say",
+            "null",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Sort out",
+            "new regulations",
+            "null"
+        ],
+        [
+            "Derivatives",
+            "PRODUCT",
+            "Slow",
+            "forward trading",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Build up",
+            "reserves",
+            "null"
+        ]
+    ]
+}

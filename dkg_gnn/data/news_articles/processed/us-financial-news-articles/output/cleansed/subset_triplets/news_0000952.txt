@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "MoneyGram",
+            "COMP",
+            "Announce",
+            "Termination",
+            "EVENT"
+        ],
+        [
+            "MoneyGram",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

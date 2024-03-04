@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Rangar Capital",
+            "ORG"
+        ],
+        [
+            "Rangar Capital",
+            "ORG",
+            "Operate_In",
+            "Bundeep Singh Rangar",
+            "PERSON"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Fineqia",
+            "COMP",
+            "Participates_In",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Acquisition",
+            "CONCEPT",
+            "Relate_To",
+            "53,460,520 common shares",
+            "PRODUCT"
+        ],
+        [
+            "Acquisition",
+            "CONCEPT",
+            "Relate_To",
+            "4 individuals",
+            "PERSON"
+        ],
+        [
+            "Acquiror",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Bundeep Singh Rangar",
+            "PERSON"
+        ],
+        [
+            "Acquiror",
+            "CONCEPT",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Acquired Shares",
+            "PRODUCT",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Vendors",
+            "PERSON",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Head Office",
+            "CONCEPT",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ]
+    ]
+}

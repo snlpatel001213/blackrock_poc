@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Glencore",
+            "ORG",
+            "Sell",
+            "Tahmoor",
+            "COMP"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Buy",
+            "Tahmoor",
+            "COMP"
+        ],
+        [
+            "Tahmoor",
+            "COMP",
+            "Produce",
+            "Coal",
+            "PRODUCT"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Tahmoor",
+            "COMP",
+            "Positive_Impact_On",
+            "Whyalla",
+            "COMP"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Consist_Of",
+            "Liberty House",
+            "ORG"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Consist_Of",
+            "SIMEC",
+            "ORG"
+        ]
+    ]
+}

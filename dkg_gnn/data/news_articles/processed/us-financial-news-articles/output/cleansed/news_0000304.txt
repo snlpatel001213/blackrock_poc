@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Aptiv",
+            "ORG",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Aptiv",
+            "ORG",
+            "Collaborate",
+            "Lyft",
+            "ORG"
+        ],
+        [
+            "Aptiv",
+            "ORG",
+            "Introduce",
+            "Self-Driving Rides",
+            "PRODUCT"
+        ],
+        [
+            "Self-Driving Rides",
+            "PRODUCT",
+            "Operate_In",
+            "Las Vegas",
+            "GPE"
+        ],
+        [
+            "Self-Driving Rides",
+            "PRODUCT",
+            "Occur_In",
+            "January 2018",
+            "DATE"
+        ],
+        [
+            "Lyft",
+            "ORG",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Lyft",
+            "ORG",
+            "Participates_In",
+            "Self-Driving Rides",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Compass Group",
+            "ORG",
+            "Has",
+            "Cousins",
+            "PERSON"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Is_Member_Of",
+            "Compass Group",
+            "ORG"
+        ],
+        [
+            "Compass Group",
+            "ORG",
+            "Operate_In",
+            "Catering Sector",
+            "SECTOR"
+        ],
+        [
+            "Seaplane Crash",
+            "EVENT",
+            "Relate_To",
+            "Sydney River",
+            "GPE"
+        ],
+        [
+            "Seaplane Crash",
+            "EVENT",
+            "Impact",
+            "Five Others",
+            "PERSON"
+        ]
+    ]
+}

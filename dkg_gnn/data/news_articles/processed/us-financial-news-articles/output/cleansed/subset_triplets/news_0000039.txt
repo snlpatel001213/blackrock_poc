@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Natural Gas",
+            "COMP",
+            "Relate_To",
+            "Heating Power",
+            "CONCEPT"
+        ],
+        [
+            "Dan Leonard",
+            "PERSON",
+            "Is_Member_Of",
+            "Weather Company",
+            "ORG"
+        ],
+        [
+            "Weather Company",
+            "ORG",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ]
+    ]
+}

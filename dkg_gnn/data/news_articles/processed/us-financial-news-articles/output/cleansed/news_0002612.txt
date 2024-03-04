@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Economic Cycle",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "In",
+            "First Stage of Recovery",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "In",
+            "Long Mid-cycle",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Approaching",
+            "Final Stages Before Rolling Over",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Confused",
+            "null",
+            "null"
+        ],
+        [
+            "Deciding",
+            "VERB",
+            "Where",
+            "Country Stands in Cycle",
+            "null"
+        ],
+        [
+            "Country",
+            "PERSON",
+            "Stands",
+            "Cycle",
+            "CONCEPT"
+        ],
+        [
+            "Best",
+            "VERB",
+            "To Be",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Best",
+            "VERB",
+            "To Be",
+            "Equities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Best",
+            "VERB",
+            "To Be",
+            "Commodities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Stock Market",
+            "COMP",
+            "Likely",
+            "Perform Best",
+            "VERB"
+        ]
+    ]
+}

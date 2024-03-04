@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Sarah Huckabee Sanders",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Relate_To",
+            "president's comments on former strategist Steve Bannon",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Relate_To",
+            "Trump's tweets about North Korea",
+            "CONCEPT"
+        ]
+    ]
+}

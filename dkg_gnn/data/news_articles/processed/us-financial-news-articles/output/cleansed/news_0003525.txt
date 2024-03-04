@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Suspend",
+            "Security Aid",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "State Department",
+            "ORG/GOV"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Announce",
+            "Suspension",
+            "EVENT"
+        ],
+        [
+            "Suspension",
+            "EVENT",
+            "Relate_To",
+            "Security Aid",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Security Aid",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Islamabad",
+            "GPE"
+        ],
+        [
+            "Islamabad",
+            "GPE",
+            "Participates_In",
+            "Decisive Action",
+            "CONCEPT"
+        ],
+        [
+            "Decisive Action",
+            "CONCEPT",
+            "Relate_To",
+            "Groups",
+            "CONCEPT"
+        ],
+        [
+            "Groups",
+            "CONCEPT",
+            "Include",
+            "Afghan Taliban",
+            "ORG"
+        ],
+        [
+            "Afghan Taliban",
+            "ORG",
+            "Relate_To",
+            "Haqqani Network",
+            "ORG"
+        ],
+        [
+            "Haqqani Network",
+            "ORG",
+            "Target",
+            "US Personnel",
+            "PERSON"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "State Department Spokeswoman",
+            "PERSON"
+        ],
+        [
+            "State Department Spokeswoman",
+            "PERSON",
+            "Say",
+            "Exceptions",
+            "CONCEPT"
+        ],
+        [
+            "Exceptions",
+            "CONCEPT",
+            "Relate_To",
+            "Suspension",
+            "EVENT"
+        ]
+    ]
+}

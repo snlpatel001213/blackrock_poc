@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "JPMorgan Chase & Co.",
+            "ORG",
+            "Announce",
+            "4th Quarter and Full-Year 2017 Financial Results Release",
+            "EVENT"
+        ],
+        [
+            "JPMorgan Chase & Co.",
+            "ORG",
+            "Operate_In",
+            "Global Financial Services Firm Sector",
+            "SECTOR"
+        ],
+        [
+            "4th Quarter and Full-Year 2017 Financial Results Release",
+            "EVENT",
+            "Impact",
+            "JPMorgan Chase & Co. Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "JPMorgan Chase & Co.",
+            "ORG",
+            "Has",
+            "Assets of 2.6 Trillion Dollars",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

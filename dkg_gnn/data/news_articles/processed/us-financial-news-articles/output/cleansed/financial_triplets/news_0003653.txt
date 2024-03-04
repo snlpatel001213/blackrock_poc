@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "David Yancey",
+            "PERSON",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Shelly Simonds",
+            "PERSON",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Virginia House of Delegates",
+            "GPE",
+            "Operate_In",
+            "Virginia",
+            "GPE"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Control",
+            "Virginia House of Delegates",
+            "GPE"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Tied race",
+            "EVENT",
+            "Relate_To",
+            "November elections",
+            "EVENT"
+        ],
+        [
+            "Tied race",
+            "EVENT",
+            "Impact",
+            "Power-sharing arrangement",
+            "CONCEPT"
+        ]
+    ]
+}

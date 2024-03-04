@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Terminus",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Operate_In",
+            "Account-based Marketing",
+            "SECTOR"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Acquire",
+            "Terminus",
+            "ORG"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Is_Member_Of",
+            "Revenue Team",
+            "SECTOR"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Introduce",
+            "Platform",
+            "PRODUCT"
+        ],
+        [
+            "Platform",
+            "PRODUCT",
+            "Unify",
+            "Go-to-market Teams",
+            "SECTOR"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Create",
+            "Account Engagement",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Measure",
+            "Account-based Marketing and Advertising",
+            "PRODUCT"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Connect",
+            "Marketing to Revenue",
+            "PRODUCT"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Offer",
+            "B2B Marketing Analytics and Attribution",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Help",
+            "Customers",
+            "SECTOR"
+        ],
+        [
+            "Customers",
+            "SECTOR",
+            "Execute and Measure",
+            "Go-to-market Initiatives",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Have",
+            "400 Companies",
+            "SECTOR"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Help",
+            "Nearly 100 Companies",
+            "SECTOR"
+        ],
+        [
+            "Combined Solution",
+            "PRODUCT",
+            "Help",
+            "Customers",
+            "SECTOR"
+        ],
+        [
+            "Combined Solution",
+            "PRODUCT",
+            "Execute and Measure",
+            "Go-to-market Initiatives",
+            "PRODUCT"
+        ],
+        [
+            "Bryan Brown",
+            "PERSON",
+            "Chief Product Officer",
+            "COMP",
+            "Terminus"
+        ],
+        [
+            "Bryan Brown",
+            "PERSON",
+            "Add",
+            "Engineers",
+            "SECTOR"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Build",
+            "Terminus",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Most Widely Used",
+            "ABM Platform",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Experience",
+            "Incredible Growth",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Recognized",
+            "Atlanta\u2019s Fastest-growing Software Company",
+            "EVENT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Named",
+            "#1 Account-based Execution Software",
+            "EVENT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Scale",
+            "Three Co-founders to More than 150 Full-time Terminators",
+            "PRODUCT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Named",
+            "#1 Best Place to Work",
+            "EVENT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Named",
+            "#1 in Employee Appreciation",
+            "EVENT"
+        ],
+        [
+            "Sangram Vajre",
+            "PERSON",
+            "Spearhead",
+            "ABM Community\u2019s Growth",
+            "PRODUCT"
+        ],
+        [
+            "Sangram Vajre",
+            "PERSON",
+            "Author",
+            "First-ever Book on ABM",
+            "PRODUCT"
+        ]
+    ]
+}

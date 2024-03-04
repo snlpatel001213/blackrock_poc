@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ryan Detrick",
+            "PERSON",
+            "Provide",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "LPL Financial Research",
+            "ORG",
+            "Provide",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Drew Matus",
+            "PERSON",
+            "Provide",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Market Strategist",
+            "PERSON",
+            "Expect",
+            "Double-Digit Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Year",
+            "EVENT",
+            "Relate_To",
+            "Double-Digit Growth",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

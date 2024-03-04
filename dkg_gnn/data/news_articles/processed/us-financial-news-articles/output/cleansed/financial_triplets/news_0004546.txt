@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "North",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Talks",
+            "EVENT",
+            "Impact",
+            "Mutual Benefit",
+            "CONCEPT"
+        ],
+        [
+            "Byoung-Joo Kim",
+            "PERSON",
+            "Announce",
+            "Talks",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Paul Ryan",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Paul Ryan",
+            "PERSON",
+            "Has",
+            "U.S. House Speaker",
+            "ORG/GOV"
+        ],
+        [
+            "Christopher Wray",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Christopher Wray",
+            "PERSON",
+            "Has",
+            "FBI Director",
+            "ORG/GOV"
+        ],
+        [
+            "Rod Rosenstein",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Rod Rosenstein",
+            "PERSON",
+            "Has",
+            "Deputy Attorney General",
+            "ORG/GOV"
+        ],
+        [
+            "AshLee Strong",
+            "PERSON",
+            "Relate_To",
+            "Ryan Spokeswoman",
+            "ORG/GOV"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Control",
+            "Files",
+            "PRODUCT"
+        ],
+        [
+            "Devin Nunes",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. House Intelligence Committee",
+            "ORG/GOV"
+        ]
+    ]
+}

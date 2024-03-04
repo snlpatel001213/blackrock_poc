@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Steve Langton",
+            "PERSON",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "Steven Holcomb",
+            "PERSON",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "Steve Langton",
+            "PERSON",
+            "Operate_In",
+            "Sochi",
+            "GPE"
+        ],
+        [
+            "Steven Holcomb",
+            "PERSON",
+            "Operate_In",
+            "Sochi",
+            "GPE"
+        ],
+        [
+            "Steven Holcomb",
+            "PERSON",
+            "Control",
+            "Bobsled Team",
+            "ORG"
+        ],
+        [
+            "Steve Langton",
+            "PERSON",
+            "Relate_To",
+            "Steven Holcomb",
+            "PERSON"
+        ],
+        [
+            "Steven Holcomb",
+            "PERSON",
+            "Impact",
+            "Bobsled Team",
+            "ORG"
+        ]
+    ]
+}

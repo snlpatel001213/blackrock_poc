@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Joe Root",
+            "PERSON",
+            "Operate_In",
+            "England",
+            "GPE"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Participates_In",
+            "Ashes test match",
+            "EVENT"
+        ],
+        [
+            "Mason Crane",
+            "PERSON",
+            "Introduce",
+            "Test Debut",
+            "ORG/GOV"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Participates_In",
+            "Ashes test match",
+            "EVENT"
+        ]
+    ]
+}

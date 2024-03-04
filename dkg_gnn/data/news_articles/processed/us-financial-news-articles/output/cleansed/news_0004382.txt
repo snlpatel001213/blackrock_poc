@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Christopher Steele",
+            "PERSON",
+            "Issue",
+            "Criminal Referral",
+            "ORG/GOV"
+        ],
+        [
+            "Christopher Steele",
+            "PERSON",
+            "Refer",
+            "Department of Justice",
+            "ORG/GOV"
+        ],
+        [
+            "Sen. Chuck Grassley",
+            "PERSON",
+            "Refer",
+            "Christopher Steele",
+            "PERSON"
+        ],
+        [
+            "Sen. Chuck Grassley",
+            "PERSON",
+            "Chairman",
+            "Senate Judiciary Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Sen. Lindsey Graham",
+            "PERSON",
+            "Refer",
+            "Christopher Steele",
+            "PERSON"
+        ],
+        [
+            "Senate Judiciary Committee",
+            "ORG/GOV",
+            "Conduct",
+            "Investigation",
+            "SECTOR"
+        ],
+        [
+            "Senate Judiciary Committee",
+            "ORG/GOV",
+            "Parallel",
+            "Special Counsel Robert Mueller's probe",
+            "ORG/GOV"
+        ],
+        [
+            "Christopher Steele",
+            "PERSON",
+            "Allegedly",
+            "Make False Statements",
+            "CONCEPT"
+        ],
+        [
+            "Christopher Steele",
+            "PERSON",
+            "Refer",
+            "Investigators",
+            "CONCEPT"
+        ],
+        [
+            "Democrats on the committee",
+            "ORG",
+            "Not",
+            "Consulted",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Dianne Feinstein",
+            "PERSON",
+            "Stand",
+            "Strong",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Dianne Feinstein",
+            "PERSON",
+            "Hope",
+            "Everyone on the Judiciary Committee",
+            "ORG"
+        ],
+        [
+            "Sen. Dianne Feinstein",
+            "PERSON",
+            "Continue",
+            "Undermine",
+            "CONCEPT"
+        ],
+        [
+            "Special Counsel Mueller",
+            "PERSON",
+            "Probe",
+            "Trump's alleged ties to Russia",
+            "GPE"
+        ],
+        [
+            "Fusion GPS",
+            "ORG",
+            "Commission",
+            "Trump dossier",
+            "CONCEPT"
+        ],
+        [
+            "Fusion GPS",
+            "ORG",
+            "Founders",
+            "Publish",
+            "Op-Ed",
+            "CONCEPT"
+        ],
+        [
+            "Fusion GPS",
+            "ORG",
+            "Banking Records",
+            "Relevant",
+            "CONCEPT"
+        ],
+        [
+            "House Intelligence Committee",
+            "ORG",
+            "Russia Investigation",
+            "CONCEPT"
+        ],
+        [
+            "House Intelligence Chairman Devin Nunes",
+            "PERSON",
+            "Reach",
+            "Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Department of Justice",
+            "ORG/GOV",
+            "Secure",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Joshua Levy",
+            "PERSON",
+            "Attorney",
+            "Fusion GPS",
+            "ORG"
+        ],
+        [
+            "Joshua Levy",
+            "PERSON",
+            "Take Issue",
+            "Referral",
+            "CONCEPT"
+        ]
+    ]
+}

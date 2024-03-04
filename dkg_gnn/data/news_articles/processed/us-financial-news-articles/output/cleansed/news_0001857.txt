@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Law Offices of Vincent Wong",
+            "ORG",
+            "Investigate",
+            "Credit Suisse",
+            "ORG"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Violate",
+            "Federal Securities Laws",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Possible_Failures",
+            "Adhere",
+            "Risk_Control_Protocols",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Accumulation",
+            "Billions_of_Dollars",
+            "Illiquid_Securities",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Violation",
+            "Risk_Control_Protocols",
+            "CONCEPT"
+        ]
+    ]
+}

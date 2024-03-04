@@ -1,0 +1,121 @@
+{
+    "output": [
+        [
+            "England",
+            "GPE",
+            "Desperate",
+            "Consolation Win",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Participates_In",
+            "Ashes",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Looking_To",
+            "Big Win",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Confident",
+            "Recover",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mitchell Starc",
+            "PERSON",
+            "Return",
+            "Terrorise",
+            "PERSON"
+        ],
+        [
+            "Alastair Cook",
+            "PERSON",
+            "Double Century",
+            "SCORE"
+        ],
+        [
+            "Stuart Broad",
+            "PERSON",
+            "Experienced Seam",
+            "PRODUCT"
+        ],
+        [
+            "James Anderson",
+            "PERSON",
+            "Experienced Seam",
+            "PRODUCT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Sniff",
+            "Win",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Drafted",
+            "Agar",
+            "PERSON"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Likely_Change",
+            "Bird",
+            "PERSON"
+        ],
+        [
+            "Starc",
+            "PERSON",
+            "Pace Spearhead",
+            "PRODUCT"
+        ],
+        [
+            "Starc",
+            "PERSON",
+            "Bowl",
+            "PRODUCT"
+        ],
+        [
+            "Agar",
+            "PERSON",
+            "Twin Spin",
+            "PRODUCT"
+        ],
+        [
+            "Nathan Lyon",
+            "PERSON",
+            "Twin Spin",
+            "PRODUCT"
+        ],
+        [
+            "Starc",
+            "PERSON",
+            "Confident",
+            "Play",
+            "EVENT"
+        ],
+        [
+            "Starc",
+            "PERSON",
+            "Bowl",
+            "PRODUCT"
+        ],
+        [
+            "Starc",
+            "PERSON",
+            "Not_Limping",
+            "CONCEPT"
+        ]
+    ]
+}

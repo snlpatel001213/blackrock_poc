@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "London Court",
+            "ORG/GOV",
+            "Order",
+            "Zambia Vedanta",
+            "ORG"
+        ],
+        [
+            "Zambia Vedanta",
+            "ORG",
+            "Pay",
+            "$139 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Zambia Vedanta",
+            "ORG",
+            "Relate_To",
+            "Copper Price",
+            "CONCEPT"
+        ],
+        [
+            "Zambia Vedanta",
+            "ORG",
+            "Unit",
+            "KCM",
+            "ORG"
+        ],
+        [
+            "KCM",
+            "ORG",
+            "Participates_In",
+            "Copper Price Participation Settlement Agreement",
+            "CONCEPT"
+        ],
+        [
+            "KCM",
+            "ORG",
+            "Relate_To",
+            "Zambia Consolidated Copper Mines Investments Holdings",
+            "ORG"
+        ],
+        [
+            "Zambia Consolidated Copper Mines Investments Holdings",
+            "ORG",
+            "Has",
+            "Outstanding Payments",
+            "CONCEPT"
+        ],
+        [
+            "Vedanta",
+            "ORG",
+            "Not_Available",
+            "Comment",
+            "CONCEPT"
+        ]
+    ]
+}

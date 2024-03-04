@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Honeywell",
+            "ORG",
+            "Announce",
+            "fourth quarter and full year 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG/EXCH"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Hold",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Participates_In",
+            "investors",
+            "PERSON"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Operate_In",
+            "8:00 a.m. EST",
+            "TIME"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "conference code HON4Q17",
+            "CONCEPT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Hear",
+            "replay",
+            "EVENT"
+        ],
+        [
+            "replay",
+            "EVENT",
+            "Operate_In",
+            "1:00 p.m. EST",
+            "TIME"
+        ],
+        [
+            "replay",
+            "EVENT",
+            "Until",
+            "1:00 p.m. EST, February 2",
+            "TIME"
+        ],
+        [
+            "replay",
+            "EVENT",
+            "Dial",
+            "(888) 203-1112",
+            "TEL"
+        ],
+        [
+            "replay",
+            "EVENT",
+            "Dial",
+            "(719) 457-0820",
+            "TEL"
+        ],
+        [
+            "replay",
+            "EVENT",
+            "Access_Code",
+            "9224317",
+            "CONCEPT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Real_time_audio_webcast",
+            "webcast",
+            "EVENT"
+        ],
+        [
+            "webcast",
+            "EVENT",
+            "Accessed_At",
+            "http://www.honeywell.com/investor",
+            "URL"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Post",
+            "related materials",
+            "PRODUCT"
+        ],
+        [
+            "webcast",
+            "EVENT",
+            "Available_For",
+            "30 days following the presentation",
+            "TIME"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Delivers",
+            "industry specific solutions",
+            "PRODUCT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Include",
+            "aerospace and automotive products and services",
+            "PRODUCT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Include",
+            "control technologies",
+            "PRODUCT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Include",
+            "performance materials",
+            "PRODUCT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Help",
+            "everything become more connected",
+            "CONCEPT"
+        ],
+        [
+            "Honeywell",
+            "ORG",
+            "Help",
+            "make our world smarter, safer, and more sustainable",
+            "CONCEPT"
+        ]
+    ]
+}

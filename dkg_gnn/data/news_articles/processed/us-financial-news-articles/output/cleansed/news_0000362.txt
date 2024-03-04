@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Operate_In",
+            "New Jersey, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Has",
+            "Provident Bank",
+            "COMP"
+        ],
+        [
+            "Provident Bank",
+            "COMP",
+            "Operate_In",
+            "New Jersey, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Company Representatives",
+            "PERSON",
+            "Hold",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dial-in",
+            "PRODUCT",
+            "Control",
+            "Domestic, International, Canada",
+            "GPE"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Available",
+            "Beginning at 12:00 noon (ET) on January 26, 2018 until 9:00 a.m. (ET) on February 9, 2018",
+            "TIME"
+        ],
+        [
+            "Internet Access",
+            "PRODUCT",
+            "Available",
+            "Listen Only",
+            "STATE"
+        ],
+        [
+            "Call",
+            "PRODUCT",
+            "Archived",
+            "One Year",
+            "TIME"
+        ]
+    ]
+}

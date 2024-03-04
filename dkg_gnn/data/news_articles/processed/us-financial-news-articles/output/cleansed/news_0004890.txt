@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Messi",
+            "PERSON",
+            "Visit",
+            "Children's Hospital",
+            "ORG"
+        ],
+        [
+            "Suarez",
+            "PERSON",
+            "Visit",
+            "Children's Hospital",
+            "ORG"
+        ],
+        [
+            "Children's Hospital",
+            "ORG",
+            "Located_In",
+            "Barcelona",
+            "GPE"
+        ],
+        [
+            "Messi",
+            "PERSON",
+            "Participates_In",
+            "Barcelona",
+            "GPE"
+        ],
+        [
+            "Suarez",
+            "PERSON",
+            "Participates_In",
+            "Barcelona",
+            "GPE"
+        ]
+    ]
+}

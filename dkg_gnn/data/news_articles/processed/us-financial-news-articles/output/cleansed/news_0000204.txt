@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "Rent-A-Center Inc",
+            "COMP",
+            "Announce",
+            "CEO Transition",
+            "CONCEPT"
+        ],
+        [
+            "Rent-A-Center Inc",
+            "COMP",
+            "Control",
+            "Mitch Fadel",
+            "PERSON",
+            "as",
+            "CEO"
+        ],
+        [
+            "Mark Speese",
+            "PERSON",
+            "Relate_To",
+            "Previous CEO",
+            "CONCEPT",
+            "of",
+            "Rent-A-Center Inc",
+            "COMP"
+        ],
+        [
+            "Rent-A-Center Inc",
+            "COMP",
+            "Control",
+            "Mitch Fadel",
+            "PERSON",
+            "as",
+            "Board Member"
+        ],
+        [
+            "Rent-A-Center Inc",
+            "COMP",
+            "Reiterate",
+            "Commitment",
+            "CONCEPT",
+            "to",
+            "Strategic Review Process",
+            "CONCEPT"
+        ]
+    ]
+}

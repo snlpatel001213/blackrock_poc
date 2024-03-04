@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Has",
+            "Trebek",
+            "PERSON"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Relate_To",
+            "Sony Pictures Entertainment",
+            "ORG"
+        ],
+        [
+            "Sony Pictures Entertainment",
+            "ORG",
+            "Produce",
+            "Jeopardy!",
+            "EVENT"
+        ],
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Operate_In",
+            "Television Industry",
+            "SECTOR"
+        ]
+    ]
+}

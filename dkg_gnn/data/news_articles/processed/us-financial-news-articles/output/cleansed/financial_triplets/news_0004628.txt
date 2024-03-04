@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Ships",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Automobiles",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Electronics",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Foreign Exchange Authorities",
+            "ORG"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Think tank",
+            "ORG"
+        ]
+    ]
+}

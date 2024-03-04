@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Control",
+            "U.S. State Department",
+            "ORG/GOV"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "Region",
+            "GPE"
+        ],
+        [
+            "Haqqani Network",
+            "ORG",
+            "Relate_To",
+            "Afghan Taliban",
+            "ORG"
+        ]
+    ]
+}

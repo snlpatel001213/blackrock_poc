@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Alexion Pharmaceuticals Inc.",
+            "COMP",
+            "Is_Member_Of",
+            "Alexion Board",
+            "ORG"
+        ],
+        [
+            "Elliott",
+            "PERSON",
+            "Impact",
+            "Alexion Pharmaceuticals Inc.",
+            "COMP"
+        ],
+        [
+            "Elliott",
+            "PERSON",
+            "Relate_To",
+            "Identifying a new Board Member",
+            "CONCEPT"
+        ]
+    ]
+}

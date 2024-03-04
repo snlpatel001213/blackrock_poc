@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Marquette",
+            "GPE",
+            "Operate_In",
+            "Jesuit University",
+            "ORG"
+        ],
+        [
+            "Jesuit University",
+            "ORG",
+            "Is_Member_Of",
+            "Jesuit",
+            "CONCEPT"
+        ]
+    ]
+}

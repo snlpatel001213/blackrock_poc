@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "UK",
+            "GPE",
+            "Control",
+            "Car Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Negative_Impact_On",
+            "British Businesses",
+            "ORG"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Control",
+            "Retail Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK Consumer",
+            "PERSON",
+            "Hurt",
+            "British Businesses",
+            "ORG"
+        ],
+        [
+            "Surveys",
+            "PRODUCT",
+            "Show",
+            "Car Sales Drop",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Surveys",
+            "PRODUCT",
+            "Show",
+            "Retail Figures Fall",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

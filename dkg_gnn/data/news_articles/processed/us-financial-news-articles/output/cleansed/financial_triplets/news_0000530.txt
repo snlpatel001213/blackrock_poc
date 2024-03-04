@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Camping World Holdings",
+            "ORG",
+            "Operate_In",
+            "Outdoor Lifestyle Market",
+            "SECTOR"
+        ],
+        [
+            "Marcus Lemonis",
+            "PERSON",
+            "Is_Member_Of",
+            "Camping World Holdings",
+            "ORG"
+        ],
+        [
+            "Erehwon Mountain Outfitter",
+            "ORG",
+            "Operate_In",
+            "Midwest",
+            "GPE"
+        ],
+        [
+            "Erehwon Mountain Outfitter",
+            "ORG",
+            "Operate_In",
+            "Chicagoland",
+            "GPE"
+        ],
+        [
+            "Erehwon Mountain Outfitter",
+            "ORG",
+            "Operate_In",
+            "Milwaukee",
+            "GPE"
+        ],
+        [
+            "Camping World Holdings",
+            "ORG",
+            "Introduce",
+            "Good Sam products",
+            "PRODUCT"
+        ],
+        [
+            "Camping World Holdings",
+            "ORG",
+            "Operate_In",
+            "Outdoor Lifestyle Market",
+            "SECTOR"
+        ],
+        [
+            "Camping World Holdings",
+            "ORG",
+            "Operate_In",
+            "Outdoor Lifestyle Market",
+            "SECTOR"
+        ],
+        [
+            "Erehwon Mountain Outfitter",
+            "ORG",
+            "Impact",
+            "Camping World Holdings",
+            "ORG"
+        ],
+        [
+            "Erehwon Mountain Outfitter",
+            "ORG",
+            "Positive_Impact_On",
+            "Camping World Holdings",
+            "ORG"
+        ]
+    ]
+}

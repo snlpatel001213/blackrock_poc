@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Economic Hardships",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Alleged Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "High Unemployment",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Savings Losses",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran\u2019s Foreign Policy",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Financial Support for Palestinians",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Lebanese Shi\u2018ite group Hezbollah",
+            "ORG"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Impact",
+            "Government Response",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Security Apparatus",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Blocking Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "CONCEPT",
+            "Participates_In",
+            "Messaging Apps Restriction",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Never",
+            "CONCEPT",
+            "Relate_To",
+            "Snow-melting mats",
+            "PRODUCT"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Operate_In",
+            "Homeowner Sector",
+            "SECTOR"
+        ],
+        [
+            "Snow-melting mats",
+            "PRODUCT",
+            "Has",
+            "Driveway",
+            "COMP"
+        ],
+        [
+            "Driveway",
+            "COMP",
+            "Operate_In",
+            "Homeowner Sector",
+            "SECTOR"
+        ]
+    ]
+}

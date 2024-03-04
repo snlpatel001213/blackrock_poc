@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Markets",
+            "FIN_INSTRUMENT",
+            "Watch",
+            "Monthly Employment Reports",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment",
+            "ECON_INDICATOR",
+            "At",
+            "17-year Low",
+            "TIME"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Face",
+            "Question",
+            "CONCEPT"
+        ],
+        [
+            "Question",
+            "CONCEPT",
+            "Of",
+            "Joblessness",
+            "CONCEPT"
+        ],
+        [
+            "Joblessness",
+            "CONCEPT",
+            "Might",
+            "Fall",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Should",
+            "Pick Up",
+            "VERB"
+        ],
+        [
+            "Pace",
+            "CONCEPT",
+            "Of",
+            "Tightening",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Prevent",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "From",
+            "Overheating",
+            "CONCEPT"
+        ]
+    ]
+}

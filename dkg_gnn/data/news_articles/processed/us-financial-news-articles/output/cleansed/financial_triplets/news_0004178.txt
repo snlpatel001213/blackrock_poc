@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "RoosterMoney",
+            "ORG",
+            "Announce",
+            "Average $454",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RoosterMoney",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Kids",
+            "PERSON",
+            "Operate_In",
+            "Age 4 to 14",
+            "CONCEPT"
+        ],
+        [
+            "Seven Years Old",
+            "CONCEPT",
+            "Relate_To",
+            "Financial Habits",
+            "CONCEPT"
+        ],
+        [
+            "RoosterMoney App",
+            "PRODUCT",
+            "Has",
+            "Default Rate",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Omar al-Bashir",
+            "PERSON",
+            "Announce",
+            "State of Emergency",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Operate_In",
+            "Kassala, North Kurdufan",
+            "GPE"
+        ],
+        [
+            "Decree",
+            "CONCEPT",
+            "Relate_To",
+            "Closure of Border Crossings",
+            "CONCEPT"
+        ],
+        [
+            "Presidential Decree",
+            "CONCEPT",
+            "Relate_To",
+            "State of Emergency",
+            "CONCEPT"
+        ]
+    ]
+}

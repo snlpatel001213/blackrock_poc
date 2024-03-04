@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Junxure",
+            "ORG",
+            "Has",
+            "Client Relationship Management Software",
+            "PRODUCT"
+        ],
+        [
+            "Junxure",
+            "ORG",
+            "Operate_In",
+            "Financial Advisory Sector",
+            "SECTOR"
+        ],
+        [
+            "AdvisorEngine",
+            "ORG",
+            "Operate_In",
+            "Fintech Sector",
+            "SECTOR"
+        ],
+        [
+            "Junxure",
+            "ORG",
+            "Has",
+            "98 Percent Client Satisfaction Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AdvisorEngine",
+            "ORG",
+            "Impact",
+            "Financial Advisors",
+            "PERSON"
+        ],
+        [
+            "AdvisorEngine",
+            "ORG",
+            "Impact",
+            "Financial Advisors",
+            "ORG/GOV"
+        ],
+        [
+            "AdvisorEngine",
+            "ORG",
+            "Impact",
+            "Financial Advisors",
+            "SECTOR"
+        ]
+    ]
+}

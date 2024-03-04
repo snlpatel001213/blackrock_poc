@@ -1,0 +1,243 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "ARM Holdings",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "Google Project Zero",
+            "ORG",
+            "Discover",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Intel Chips",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "Alphabet Inc",
+            "ORG",
+            "Has",
+            "Google Project Zero",
+            "ORG"
+        ],
+        [
+            "Apple Inc",
+            "ORG",
+            "Has",
+            "Patches",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "ORG",
+            "Has",
+            "Patches",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Call",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Computers",
+            "GPE"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Computing Devices",
+            "GPE"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Work",
+            "on Solution",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Work",
+            "with AMD",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Work",
+            "with ARM Holdings",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Work",
+            "with Others",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Deny",
+            "Patches will Bog Down Computers",
+            "CONCEPT"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Work",
+            "with AMD",
+            "ORG"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Work",
+            "with Intel",
+            "ORG"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Share",
+            "Patches",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "ORG",
+            "Affected",
+            "by Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Affected",
+            "by Design Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Kernel Memory",
+            "CONCEPT",
+            "Affected",
+            "on Intel x86 Processor Chips",
+            "ORG"
+        ],
+        [
+            "Users",
+            "GPE",
+            "Potentially",
+            "Expose Secure Information",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Likely",
+            "Not Face",
+            "any Significant Financial Liability",
+            "CONCEPT"
+        ],
+        [
+            "Amazon.com Inc",
+            "ORG",
+            "Affected",
+            "by Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Azure",
+            "ORG",
+            "Affected",
+            "by Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Alphabet Inc",
+            "ORG",
+            "Affected",
+            "by Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc",
+            "ORG",
+            "Affected",
+            "by Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Linux",
+            "ORG",
+            "Overhaul",
+            "Affected Memory Areas",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "ORG",
+            "Issue",
+            "Windows Patch",
+            "CONCEPT"
+        ]
+    ]
+}

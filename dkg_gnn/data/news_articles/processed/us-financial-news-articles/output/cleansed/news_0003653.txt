@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Ian Simpson",
+            "PERSON",
+            "Reporting",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Shelly Simonds",
+            "PERSON",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Virginia House of Delegates",
+            "GPE",
+            "Operate_In",
+            "Virginia",
+            "GPE"
+        ],
+        [
+            "Newport News Circuit Court",
+            "ORG",
+            "Decide",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Control",
+            "Virginia House of Delegates",
+            "GPE"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Participates_In",
+            "Virginia House of Delegates race",
+            "EVENT"
+        ],
+        [
+            "Ian Simpson",
+            "PERSON",
+            "Reporting",
+            "Tied race",
+            "EVENT"
+        ],
+        [
+            "State election officials",
+            "ORG",
+            "Plan",
+            "Random drawing",
+            "EVENT"
+        ],
+        [
+            "Tied race",
+            "EVENT",
+            "Relate_To",
+            "November elections",
+            "EVENT"
+        ],
+        [
+            "Tied race",
+            "EVENT",
+            "Impact",
+            "Power-sharing arrangement",
+            "CONCEPT"
+        ],
+        [
+            "Recount",
+            "EVENT",
+            "Show",
+            "Simonds win",
+            "EVENT"
+        ],
+        [
+            "Three-judge panel",
+            "ORG",
+            "Ruled",
+            "Count disputed ballot for Yancey",
+            "PERSON"
+        ],
+        [
+            "Simonds",
+            "PERSON",
+            "File lawsuit",
+            "Judges reconsider decision",
+            "EVENT"
+        ],
+        [
+            "Judges",
+            "ORG",
+            "Reject",
+            "Simonds bid",
+            "EVENT"
+        ],
+        [
+            "Simonds",
+            "PERSON",
+            "Call on",
+            "Yancey agree not challenge results",
+            "EVENT"
+        ],
+        [
+            "Legislature",
+            "ORG",
+            "Set to convene",
+            "January 10",
+            "DATE"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Hold majority",
+            "State Senate",
+            "ORG/GOV"
+        ],
+        [
+            "Democrat Ralph Northam",
+            "PERSON",
+            "Set to be sworn in",
+            "Governor",
+            "ORG/GOV"
+        ],
+        [
+            "Voters",
+            "ORG",
+            "File lawsuit",
+            "Election in 28th District",
+            "GPE"
+        ],
+        [
+            "At least 147 ballots",
+            "QUANTITY",
+            "Found",
+            "Assigned to wrong districts",
+            "EVENT"
+        ]
+    ]
+}

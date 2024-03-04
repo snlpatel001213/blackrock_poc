@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Leeds United",
+            "COMP",
+            "Announce",
+            "Yosuke Ideguchi",
+            "PERSON"
+        ],
+        [
+            "Yosuke Ideguchi",
+            "PERSON",
+            "Operate_In",
+            "Gamba Osaka",
+            "COMP"
+        ],
+        [
+            "Yosuke Ideguchi",
+            "PERSON",
+            "Participates_In",
+            "English Championship",
+            "SECTOR"
+        ]
+    ]
+}

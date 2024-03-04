@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "The Klein Law Firm",
+            "ORG",
+            "Announce",
+            "class action complaint",
+            "EVENT"
+        ],
+        [
+            "Qudian Inc.",
+            "COMP",
+            "Control",
+            "American Depositary Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Joseph Klein",
+            "PERSON",
+            "Participates_In",
+            "securities litigations",
+            "EVENT"
+        ]
+    ]
+}

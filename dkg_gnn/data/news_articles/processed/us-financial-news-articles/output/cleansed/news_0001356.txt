@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Akzo Nobel",
+            "ORG",
+            "Appoint",
+            "Renier Vree",
+            "PERSON"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Operate_In",
+            "Arcadis NV",
+            "ORG"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Resign",
+            null,
+            null
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Join",
+            "AkzoNobel Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Akzo Nobel",
+            "ORG",
+            "Spin_Off",
+            "AkzoNobel Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Akzo Nobel",
+            "ORG",
+            "Reject",
+            "PPG Industries",
+            "ORG"
+        ],
+        [
+            "Akzo Nobel Specialty Chemicals",
+            "ORG",
+            "Open",
+            "CFO Position",
+            "POS"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Has",
+            "Impressive Executive Experience",
+            "CONCEPT"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Deliver",
+            "Operational Performance",
+            "CONCEPT"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Instrumental",
+            "Delivering on Ambitious Growth Plans",
+            "CONCEPT"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "ORG",
+            "Separation_Process",
+            null,
+            null
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Appointment",
+            "CFO of the Specialty Chemicals Business",
+            "POS"
+        ],
+        [
+            "Akzo Nobel",
+            "ORG",
+            "Edit",
+            "Biju Dwarakanath and Stephen Coates",
+            "PERSON"
+        ]
+    ]
+}

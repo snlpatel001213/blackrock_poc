@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Australian Federal Chamber of Automotive Industries",
+            "ORG",
+            "Announce",
+            "VFACTS report",
+            "EVENT"
+        ],
+        [
+            "VFACTS report",
+            "EVENT",
+            "Impact",
+            "Australian new vehicle sales",
+            "GPE"
+        ],
+        [
+            "Sports utility vehicles",
+            "PRODUCT",
+            "Control",
+            "39.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Passenger cars",
+            "PRODUCT",
+            "Control",
+            "37.8 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Control",
+            "16.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mitsubishi",
+            "COMP",
+            "Control",
+            "8.8 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Control",
+            "5.5 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

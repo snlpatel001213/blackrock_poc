@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Spotify AB",
+            "COMP",
+            "File",
+            "Paperwork",
+            "ORG/REG"
+        ],
+        [
+            "Spotify AB",
+            "COMP",
+            "List",
+            "Shares",
+            "ORG/EXCH"
+        ],
+        [
+            "Spotify AB",
+            "COMP",
+            "Participates_In",
+            "Direct Listing",
+            "EVENT"
+        ],
+        [
+            "Direct Listing",
+            "EVENT",
+            "Not",
+            "IPO",
+            "EVENT"
+        ]
+    ]
+}

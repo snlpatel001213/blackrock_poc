@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Commercial Metals Co",
+            "COMP",
+            "Reports",
+            "Q1 EPS",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Commercial Metals Co",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Q1 EPS",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Q1 Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q1 Earnings Per Share",
+            "ECON_INDICATOR",
+            "Impact",
+            "Commercial Metals Co",
+            "COMP"
+        ],
+        [
+            "Q1 Sales",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "I/B/E/S View",
+            "ECON_INDICATOR"
+        ],
+        [
+            "I/B/E/S View",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Q1 Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q1 Earnings Per Share View",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Thomson Reuters I/B/E/S",
+            "ORG/REG"
+        ],
+        [
+            "Qtrly Earnings From Continuing Operations",
+            "ECON_INDICATOR",
+            "Include",
+            "Net After Tax Benefit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Net After Tax Benefit",
+            "ECON_INDICATOR",
+            "Control",
+            "$1.8 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$1.8 Million",
+            "ECON_INDICATOR",
+            "Impact",
+            "Commercial Metals Co",
+            "COMP"
+        ]
+    ]
+}

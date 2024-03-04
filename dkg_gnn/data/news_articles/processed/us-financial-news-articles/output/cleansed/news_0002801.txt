@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Oil",
+            "CONCEPT",
+            "Raise",
+            "mid-2015 highs",
+            "CONCEPT"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Has",
+            "strongest opening to a year since 2014",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "supply cuts",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "large anti-government rallies",
+            "CONCEPT"
+        ]
+    ]
+}

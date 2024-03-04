@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Gunman",
+            "PERSON",
+            "Negative_Impact_On",
+            "One Deputy",
+            "PERSON"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Negative_Impact_On",
+            "Sheriffs Deputies",
+            "ORG"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Control",
+            "Firearm",
+            "PRODUCT"
+        ]
+    ]
+}

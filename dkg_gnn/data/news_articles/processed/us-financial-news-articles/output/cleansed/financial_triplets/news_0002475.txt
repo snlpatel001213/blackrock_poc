@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. Legal Support, Inc.",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "U.S. Legal Support, Inc.",
+            "ORG",
+            "Operate_In",
+            "Nationwide",
+            "GPE"
+        ],
+        [
+            "U.S. Legal Support, Inc.",
+            "ORG",
+            "Produce",
+            "Court Reporting Services",
+            "SECTOR"
+        ],
+        [
+            "U.S. Legal Support, Inc.",
+            "ORG",
+            "Introduce",
+            "Online Court Reporting Program",
+            "ORG"
+        ],
+        [
+            "Online Court Reporting Program",
+            "ORG",
+            "Is_Member_Of",
+            "U.S. Legal Support, Inc.",
+            "ORG"
+        ]
+    ]
+}

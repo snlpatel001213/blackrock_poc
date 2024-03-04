@@ -1,0 +1,37 @@
+{
+    "output": [
+        [
+            "Office Depot Inc.",
+            "COMP",
+            "Enter",
+            "Joseph Lower",
+            "PERSON"
+        ],
+        [
+            "Joseph Lower",
+            "PERSON",
+            "Receive",
+            "$600,000",
+            "ECON_INDICATOR",
+            "Under",
+            "Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Joseph Lower",
+            "PERSON",
+            "Receive",
+            "New Hire Sign-on Equity Award",
+            "ECON_INDICATOR",
+            "Of",
+            "$2,000,000",
+            "ECON_INDICATOR",
+            "Following",
+            "Effective Date",
+            "CONCEPT",
+            "Of",
+            "Becmoning CFO",
+            "CONCEPT"
+        ]
+    ]
+}

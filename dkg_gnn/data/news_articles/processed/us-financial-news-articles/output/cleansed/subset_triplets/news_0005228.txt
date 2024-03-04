@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Cole Memorandum",
+            "CONCEPT",
+            "Relate_To",
+            "Marijuana Legalization",
+            "CONCEPT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Control",
+            "Cole Memorandum",
+            "CONCEPT"
+        ],
+        [
+            "Rohrabacher-Blumenauer amendment",
+            "CONCEPT",
+            "Impact",
+            "Justice Department",
+            "ORG/GOV"
+        ],
+        [
+            "State Attorneys",
+            "PERSON",
+            "Participates_In",
+            "Marijuana Enforcement",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "4.6 Percent Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Has",
+            "2.9 Percent Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Desert Hot Springs",
+            "GPE",
+            "Has",
+            "Tripled Land Prices",
+            "CONCEPT"
+        ],
+        [
+            "Adelanto",
+            "GPE",
+            "Has",
+            "Million Square Feet Warehouse Space",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "1.6 Billion Dollar Budget Deficit",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

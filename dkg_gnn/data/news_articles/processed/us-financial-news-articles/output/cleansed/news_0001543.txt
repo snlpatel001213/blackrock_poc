@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Announce",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "DGL Camel International",
+            "COMP",
+            "Is_Member_Of",
+            "DuluxGroup Ltd",
+            "COMP"
+        ],
+        [
+            "DGL Camel International",
+            "COMP",
+            "Sell",
+            "Coatings Business",
+            "PRODUCT"
+        ],
+        [
+            "Yip\u2019s Chemical Holdings Ltd",
+            "COMP",
+            "Buy",
+            "Coatings Business",
+            "PRODUCT"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "DGL Camel International",
+            "COMP",
+            "Retain",
+            "Selleys Brand",
+            "PRODUCT"
+        ],
+        [
+            "Selleys Brand",
+            "PRODUCT",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Selleys Brand",
+            "PRODUCT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Relate_To",
+            "Coating Materials",
+            "PRODUCT"
+        ],
+        [
+            "Coating Materials",
+            "PRODUCT",
+            "Operate_In",
+            "Building Products",
+            "PRODUCT"
+        ],
+        [
+            "Yip\u2019s Chemical",
+            "COMP",
+            "Pay",
+            "Headline Purchase Price",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Headline Purchase Price",
+            "FIN_INSTRUMENT",
+            "Equal",
+            "$15 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Expect",
+            "Complete Deal",
+            "EVENT"
+        ],
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Expect",
+            "Core Earning",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Core Earning",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Core Earning",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Compare",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Compare",
+            "Australian Benchmark Index",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Edit",
+            "Reporting",
+            "EVENT"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "Conducted_By",
+            "Nicole Pinto",
+            "PERSON"
+        ],
+        [
+            "Nicole Pinto",
+            "PERSON",
+            "Located_In",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "Edit",
+            "Grant McCool",
+            "PERSON"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "Edit",
+            "Stephen Coates",
+            "PERSON"
+        ]
+    ]
+}

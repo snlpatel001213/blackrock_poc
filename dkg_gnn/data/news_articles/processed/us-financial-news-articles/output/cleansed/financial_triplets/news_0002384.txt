@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "London Bridge station",
+            "GPE",
+            "Operate_In",
+            "Britain\u2019,s capital",
+            "GPE"
+        ],
+        [
+            "London Bridge",
+            "GPE",
+            "Is_Member_Of",
+            "Britain\u2019s fourth-busiest rail station",
+            "GPE"
+        ],
+        [
+            "Britain\u2019s fourth-busiest rail station",
+            "GPE",
+            "Participates_In",
+            "Thameslink service",
+            "SECTOR"
+        ]
+    ]
+}

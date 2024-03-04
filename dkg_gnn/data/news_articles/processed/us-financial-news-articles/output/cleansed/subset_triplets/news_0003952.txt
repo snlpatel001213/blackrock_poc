@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "New research",
+            "CONCEPT",
+            "Introduce",
+            "alcohol damages stem cell DNA",
+            "CONCEPT"
+        ],
+        [
+            "alcohol damages stem cell DNA",
+            "CONCEPT",
+            "Impact",
+            "cancer risk",
+            "CONCEPT"
+        ],
+        [
+            "stem cells",
+            "CONCEPT",
+            "Relate_To",
+            "cancer risk",
+            "CONCEPT"
+        ]
+    ]
+}

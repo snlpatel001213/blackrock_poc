@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Pacific Premier Bancorp, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pacific Premier Bancorp, Inc.",
+            "ORG",
+            "Operate_In",
+            "Southern California",
+            "GPE"
+        ],
+        [
+            "Pacific Premier Bank",
+            "COMP",
+            "Operate_In",
+            "Pacific Premier Bancorp, Inc.",
+            "ORG"
+        ]
+    ]
+}

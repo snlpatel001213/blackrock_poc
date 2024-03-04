@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Liz Bell",
+            "PERSON",
+            "Participates_In",
+            "Debate",
+            "CONCEPT"
+        ],
+        [
+            "Michael Farr",
+            "PERSON",
+            "Participates_In",
+            "Debate",
+            "CONCEPT"
+        ],
+        [
+            "Debate",
+            "CONCEPT",
+            "Relate_To",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Debate",
+            "CONCEPT",
+            "Relate_To",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Value",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Growth",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Judith McGee",
+            "PERSON",
+            "Is_Member_Of",
+            "McGee Wealth Management",
+            "ORG"
+        ],
+        [
+            "McGee Wealth Management",
+            "ORG",
+            "Operate_In",
+            "Portland",
+            "GPE"
+        ],
+        [
+            "Financial Industry",
+            "SECTOR",
+            "Impact",
+            "Low Percentage of Women",
+            "CONCEPT"
+        ],
+        [
+            "Financial Industry",
+            "SECTOR",
+            "Relate_To",
+            "Industry Reputation",
+            "CONCEPT"
+        ],
+        [
+            "Industry Reputation",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Women in Financial Industry",
+            "CONCEPT"
+        ]
+    ]
+}

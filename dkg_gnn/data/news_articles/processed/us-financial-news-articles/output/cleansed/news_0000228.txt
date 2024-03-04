@@ -1,0 +1,215 @@
+{
+    "output": [
+        [
+            "Teens exposed to traumatic or terror events",
+            "GPE",
+            "Increase",
+            "Headaches and Migraines",
+            "CONCEPT"
+        ],
+        [
+            "Teens",
+            "GPE",
+            "Exposed",
+            "Traumatic or Terror Events",
+            "GPE"
+        ],
+        [
+            "Traumatic or Terror Events",
+            "CONCEPT",
+            "Lead to",
+            "Physical Symptoms",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Synne Stensland",
+            "PERSON",
+            "Author",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Norwegian Centre for Violence and Traumatic Stress Studies",
+            "ORG",
+            "Study_Author",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "University of Oslo",
+            "ORG",
+            "Affiliation",
+            "Dr. Synne Stensland",
+            "PERSON"
+        ],
+        [
+            "July 22, 2011",
+            "DATE",
+            "Terror Attack",
+            "Norwegian Labor Party",
+            "ORG"
+        ],
+        [
+            "Lone Gunman",
+            "PERSON",
+            "Open Fire",
+            "Annual Norwegian Labor Party",
+            "ORG"
+        ],
+        [
+            "Survivors",
+            "GPE",
+            "Part of",
+            "Several Studies",
+            "CONCEPT"
+        ],
+        [
+            "Survivors",
+            "GPE",
+            "Looked at",
+            "Recurrent Migraines and Tension-Type Headaches",
+            "CONCEPT"
+        ],
+        [
+            "Trained Personnel",
+            "ORG",
+            "Interviewed",
+            "Survivors",
+            "GPE"
+        ],
+        [
+            "Research Team",
+            "ORG",
+            "Found",
+            "Terror Attack Survivors",
+            "GPE"
+        ],
+        [
+            "Terror Attack Survivors",
+            "GPE",
+            "Reported",
+            "Recurring Tension-Type Headaches and Migraines",
+            "CONCEPT"
+        ],
+        [
+            "Headaches",
+            "CONCEPT",
+            "More Common",
+            "Girls",
+            "GPE"
+        ],
+        [
+            "Female Survivors",
+            "GPE",
+            "Reported",
+            "Three Times More Weekly or Daily Headaches",
+            "CONCEPT"
+        ],
+        [
+            "Posttraumatic Psychological Distress Levels",
+            "CONCEPT",
+            "Much Higher",
+            "GPE"
+        ],
+        [
+            "Future Studies",
+            "CONCEPT",
+            "Observe",
+            "Physical and Psychological Symptoms",
+            "CONCEPT"
+        ],
+        [
+            "Incidents of Terror",
+            "CONCEPT",
+            "Commonplace Worldwide",
+            "CONCEPT"
+        ],
+        [
+            "Physical Effects",
+            "CONCEPT",
+            "Well Covered",
+            "Invisible Scars of Psychological Trauma",
+            "CONCEPT"
+        ],
+        [
+            "Psychological Trauma",
+            "CONCEPT",
+            "Affects",
+            "Brain",
+            "ORG"
+        ],
+        [
+            "Psychological Trauma",
+            "CONCEPT",
+            "Affects",
+            "Metabolic, Immune, Endocrine and Nervous Systems",
+            "CONCEPT"
+        ],
+        [
+            "These Changes",
+            "CONCEPT",
+            "Lead to",
+            "Increased Susceptibility to Adult Diseases",
+            "CONCEPT"
+        ],
+        [
+            "Abuse in Peer Relationships or Social Media Bullying",
+            "CONCEPT",
+            "Similar Effect",
+            "CONCEPT"
+        ],
+        [
+            "Increase in Headaches",
+            "CONCEPT",
+            "Indicate",
+            "Something has Happened",
+            "CONCEPT"
+        ],
+        [
+            "Time to Talk",
+            "CONCEPT",
+            "Important",
+            "People",
+            "CONCEPT"
+        ],
+        [
+            "Teens",
+            "GPE",
+            "Treat",
+            "Headaches",
+            "CONCEPT"
+        ],
+        [
+            "Over-the-Counter Medicine",
+            "PRODUCT",
+            "Doesn't Treat",
+            "Underlying Issues Related to the Traumatic Event",
+            "CONCEPT"
+        ],
+        [
+            "Adolescents",
+            "GPE",
+            "Medicate Themselves",
+            "CONCEPT"
+        ],
+        [
+            "Few Go to the Doctor",
+            "CONCEPT",
+            "Teens",
+            "GPE"
+        ],
+        [
+            "Keep Medicating",
+            "CONCEPT",
+            "Contribute to",
+            "Chronic Behavior",
+            "CONCEPT"
+        ],
+        [
+            "Seek Help Early",
+            "CONCEPT",
+            "Key",
+            "CONCEPT"
+        ]
+    ]
+}

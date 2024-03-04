@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Five-alarm fire",
+            "EVENT",
+            "Impact",
+            "Apartment building",
+            "COMP"
+        ],
+        [
+            "Apartment building",
+            "COMP",
+            "Negative_Impact_On",
+            "Several people",
+            "PERSON"
+        ],
+        [
+            "Bronx Zoo",
+            "GPE",
+            "Near",
+            "Apartment building",
+            "COMP"
+        ],
+        [
+            "Bronx",
+            "GPE",
+            "Located_In",
+            "New York City",
+            "GPE"
+        ]
+    ]
+}

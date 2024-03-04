@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Geoffrey Berman",
+            "PERSON",
+            "Operate_In",
+            "Manhattan",
+            "GPE"
+        ],
+        [
+            "Geoffrey Berman",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Attorney",
+            "ORG"
+        ],
+        [
+            "Jeff Sessions",
+            "PERSON",
+            "Announce",
+            "Geoffrey Berman",
+            "PERSON"
+        ],
+        [
+            "Jeff Sessions",
+            "PERSON",
+            "Announce",
+            "16 other interim top prosecutors",
+            "ORG"
+        ],
+        [
+            "Jeff Sessions",
+            "PERSON",
+            "Relate_To",
+            "Process to nominate new U.S. Attorneys",
+            "ORG"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Yet to nominate",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Petrobras",
+            "COMP",
+            "Participates_In",
+            "corruption-related losses",
+            "CONCEPT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Has",
+            "U.S.-listed shares or bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Has",
+            "Brazilian courts",
+            "ORG/GOV"
+        ]
+    ]
+}

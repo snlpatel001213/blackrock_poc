@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Announce",
+            "William D. Davis II",
+            "PERSON"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Join",
+            "Norton Rose Fulbright",
+            "ORG"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Previously_Worked_At",
+            "Baker McKenzie",
+            "ORG"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Focuses",
+            "Corporate_and_Transactional_Matters",
+            "CONCEPT"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Has",
+            "Daryl Lansdale",
+            "PERSON"
+        ],
+        [
+            "Daryl Lansdale",
+            "PERSON",
+            "Said",
+            null,
+            null
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Has",
+            "Gene Lewis",
+            "PERSON"
+        ],
+        [
+            "Gene Lewis",
+            "PERSON",
+            "Commented",
+            null,
+            null
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Admitted",
+            "Practice",
+            "CONCEPT"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Receive",
+            "LLM",
+            "CONCEPT"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Receive",
+            "JD",
+            "CONCEPT"
+        ],
+        [
+            "William D. Davis II",
+            "PERSON",
+            "Receive",
+            "BA",
+            "CONCEPT"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Provide",
+            "Full_Business_Law_Service",
+            "CONCEPT"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Strong",
+            "Industry_Sectors",
+            "SECTOR"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Leverage",
+            "Industry_Experience",
+            "CONCEPT"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Maintain",
+            "Quality",
+            "CONCEPT"
+        ]
+    ]
+}

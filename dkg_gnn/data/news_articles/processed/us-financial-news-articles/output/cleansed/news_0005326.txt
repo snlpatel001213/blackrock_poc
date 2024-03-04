@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Miss",
+            "Wall Street estimates for third quarter revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Operate_In",
+            "Alcohol Sales Sector",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Decrease",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Invest",
+            "Canopy Growth Corp",
+            "ORG"
+        ],
+        [
+            "Canopy Growth Corp",
+            "ORG",
+            "Relate_To",
+            "Legalization of Cannabis",
+            "CONCEPT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Participates_In",
+            "U.S. Tax Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Announce",
+            "$3 billion share buyback program",
+            "EVENT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Raise",
+            "Full-year profit forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Produce",
+            "Wine and Spirit Sales",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Has",
+            "Beer Sales",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Control",
+            "Distributor Shipments",
+            "SECTOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Impact",
+            "Net Income",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Impact",
+            "Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Constellation Brands Inc",
+            "COMP",
+            "Impact",
+            "Net Sales",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jack Ma",
+            "PERSON",
+            "Is_Member_Of",
+            "Alibaba",
+            "COMP"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S Government",
+            "ORG/GOV"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Has",
+            "Data Safety Concerns",
+            "CONCEPT"
+        ],
+        [
+            "U.S Senate and House of Representatives",
+            "ORG",
+            "Introduce",
+            "Bills",
+            "CONCEPT"
+        ]
+    ]
+}

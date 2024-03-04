@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Bone-chilling cold",
+            "CONCEPT",
+            "Impact",
+            "U.S. farm belt",
+            "GPE"
+        ],
+        [
+            "U.S. farm belt",
+            "GPE",
+            "Has",
+            "Bone-chilling cold",
+            "CONCEPT"
+        ],
+        [
+            "Agriculture markets",
+            "CONCEPT",
+            "Raise",
+            "Bone-chilling cold",
+            "CONCEPT"
+        ],
+        [
+            "Exporters",
+            "ORG",
+            "Scramble",
+            "Barge loads",
+            "COMP"
+        ],
+        [
+            "Gulf Coast",
+            "GPE",
+            "Largest",
+            "Grains",
+            "COMP"
+        ],
+        [
+            "Illinois River",
+            "GPE",
+            "Freeze",
+            "Grain barge shipping waterway",
+            "COMP"
+        ],
+        [
+            "Hard red winter wheat prices",
+            "ECON_INDICATOR",
+            "Hit",
+            "Highest",
+            "CONCEPT"
+        ],
+        [
+            "Cattle prices",
+            "ECON_INDICATOR",
+            "Hit",
+            "Seven-week peaks",
+            "CONCEPT"
+        ],
+        [
+            "Central United States",
+            "GPE",
+            "Temperature",
+            "Below normal",
+            "CONCEPT"
+        ],
+        [
+            "Ice accumulations",
+            "CONCEPT",
+            "Continue",
+            "Upper parts",
+            "GPE"
+        ],
+        [
+            "Grain barges",
+            "COMP",
+            "Rally",
+            "Second day",
+            "TIME"
+        ],
+        [
+            "Ohio River",
+            "GPE",
+            "Not iced over",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Soybean barges",
+            "COMP",
+            "Trade",
+            "50 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "January corn barges",
+            "COMP",
+            "Trade",
+            "47 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CME Group Inc",
+            "COMP",
+            "Monitor",
+            "Icy conditions",
+            "CONCEPT"
+        ],
+        [
+            "CBOT",
+            "COMP",
+            "January soybean contract",
+            "Delivery",
+            "CONCEPT"
+        ],
+        [
+            "Benchmark HRW wheat prices",
+            "ECON_INDICATOR",
+            "Climb",
+            "Highest",
+            "CONCEPT"
+        ],
+        [
+            "Temperatures",
+            "CONCEPT",
+            "Low enough",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "Dormant hard red winter wheat",
+            "COMP",
+            "Mill",
+            "Flour",
+            "COMP"
+        ],
+        [
+            "Crop conditions",
+            "CONCEPT",
+            "Deteriorate",
+            "Kansas",
+            "GPE"
+        ],
+        [
+            "U.S. Department of Agriculture",
+            "ORG/GOV",
+            "Rate",
+            "Crop",
+            "CONCEPT"
+        ],
+        [
+            "CME live cattle futures",
+            "COMP",
+            "Rise",
+            "Seven-week high",
+            "CONCEPT"
+        ],
+        [
+            "Beef packers",
+            "ORG",
+            "Rush",
+            "Livestock",
+            "COMP"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Ramp higher",
+            "This week",
+            "TIME"
+        ],
+        [
+            "Frigid weather",
+            "CONCEPT",
+            "Slow",
+            "Weight gains",
+            "CONCEPT"
+        ],
+        [
+            "Cattle",
+            "COMP",
+            "Difficulty",
+            "Sort and load",
+            "VERB"
+        ],
+        [
+            "Livestock Marketing Information Center",
+            "ORG",
+            "Director",
+            "Jim Robb",
+            "PERSON"
+        ],
+        [
+            "Plains",
+            "GPE",
+            "Difficulties",
+            "Transport animals",
+            "COMP"
+        ],
+        [
+            "Meat",
+            "COMP",
+            "Difficulty",
+            "Transport",
+            "VERB"
+        ],
+        [
+            "Plains",
+            "GPE",
+            "Upper Midwest",
+            "Eastern United States",
+            "GPE"
+        ]
+    ]
+}

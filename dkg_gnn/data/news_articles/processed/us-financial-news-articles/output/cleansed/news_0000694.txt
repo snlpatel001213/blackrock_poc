@@ -1,0 +1,291 @@
+{
+    "output": [
+        [
+            "Munich Re",
+            "COMP",
+            "Announce",
+            "Total 2017 losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Has",
+            "2nd-highest on record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Expects",
+            "more frequent extreme events",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Operate_In",
+            "Future",
+            "TIME"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Is_Member_Of",
+            "Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Has",
+            "Hurricanes",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Has",
+            "Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Has",
+            "Fires",
+            "CONCEPT"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Hurricanes",
+            "CONCEPT"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "North America",
+            "GPE",
+            "Has",
+            "Fires",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Participates_In",
+            "Claims payment",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Hurricanes",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Fires",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Operate_In",
+            "Munich",
+            "GPE"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Has",
+            "Corporate Climate Centre",
+            "ORG"
+        ],
+        [
+            "Corporate Climate Centre",
+            "ORG",
+            "Has",
+            "Ernst Rauch",
+            "PERSON"
+        ],
+        [
+            "Ernst Rauch",
+            "PERSON",
+            "Says",
+            "new normal",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Not",
+            "Outlier",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Thin margins",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Stiff competition",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Sector",
+            "SECTOR",
+            "Has",
+            "Falling prices",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Issues",
+            "Profit warnings",
+            "CONCEPT"
+        ],
+        [
+            "Hannover Re",
+            "COMP",
+            "Issues",
+            "Profit warnings",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Tallies",
+            "Industry estimates",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Has",
+            "Catastrophes",
+            "CONCEPT"
+        ],
+        [
+            "Global Insurers",
+            "COMP",
+            "Rock",
+            "Disasters",
+            "CONCEPT"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Estimates",
+            "Global insured losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Munich Re",
+            "COMP",
+            "Estimates",
+            "Man-made disasters",
+            "CONCEPT"
+        ],
+        [
+            "Reinsurers",
+            "COMP",
+            "Manage",
+            "Risk",
+            "CONCEPT"
+        ],
+        [
+            "Planet",
+            "CONCEPT",
+            "Warms",
+            "Storms",
+            "CONCEPT"
+        ],
+        [
+            "Reinsurers",
+            "COMP",
+            "Review",
+            "Risk models",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "COMP",
+            "Questions",
+            "Price increases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global Property Reinsurance Prices",
+            "ECON_INDICATOR",
+            "Rise",
+            "Single digit percentages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hurricane Katrina",
+            "CONCEPT",
+            "Year",
+            "2005",
+            "TIME"
+        ],
+        [
+            "Hurricane Katrina",
+            "CONCEPT",
+            "Major reversal",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jan. 1",
+            "TIME",
+            "Renewal season",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brokers",
+            "COMP",
+            "Say",
+            "Modest increases",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

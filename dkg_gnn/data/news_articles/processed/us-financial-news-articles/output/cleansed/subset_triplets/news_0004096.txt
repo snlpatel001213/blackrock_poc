@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Veridis",
+            "COMP",
+            "Operate_In",
+            "Collection_Treatment_Recycling_Of_Municipal_Waste",
+            "CONCEPT"
+        ],
+        [
+            "Veridis",
+            "COMP",
+            "Operate_In",
+            "Treatment_Of_Hazardous_Materials",
+            "CONCEPT"
+        ],
+        [
+            "Veridis",
+            "COMP",
+            "Operate_In",
+            "Desalination",
+            "CONCEPT"
+        ],
+        [
+            "Veridis",
+            "COMP",
+            "Operate_In",
+            "Electricity_Production",
+            "CONCEPT"
+        ],
+        [
+            "Veridis",
+            "COMP",
+            "Participates_In",
+            "OPC_Mishor_Rotem",
+            "COMP"
+        ],
+        [
+            "Delek Automotive Systems",
+            "COMP",
+            "Operate_In",
+            "Import_Cars",
+            "CONCEPT"
+        ],
+        [
+            "Delek Automotive Systems",
+            "COMP",
+            "Operate_In",
+            "Branch_Out",
+            "CONCEPT"
+        ]
+    ]
+}

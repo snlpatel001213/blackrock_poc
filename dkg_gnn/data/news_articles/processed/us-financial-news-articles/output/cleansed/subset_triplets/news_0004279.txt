@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Participates_In",
+            "Exhibition Event",
+            "EVENT"
+        ],
+        [
+            "Melbourne Park",
+            "GPE",
+            "Operate_In",
+            "Exhibition Event",
+            "EVENT"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Has",
+            "Knee Injury",
+            "CONCEPT"
+        ],
+        [
+            "Tie Break Tens",
+            "EVENT",
+            "Operate_In",
+            "Melbourne Park",
+            "GPE"
+        ],
+        [
+            "Tie Break Tens",
+            "EVENT",
+            "Raise",
+            "$250,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tie Break Tens",
+            "EVENT",
+            "Raise",
+            "\u00a3185,182",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

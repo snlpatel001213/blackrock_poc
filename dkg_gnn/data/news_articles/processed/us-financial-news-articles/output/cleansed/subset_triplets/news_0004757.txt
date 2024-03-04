@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Uber",
+            "ORG",
+            "Operate_In",
+            "York",
+            "GPE"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Relate_To",
+            "Data_Breach",
+            "CONCEPT"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Relate_To",
+            "Number_of_Complaints",
+            "CONCEPT"
+        ]
+    ]
+}

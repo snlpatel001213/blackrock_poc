@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Invests_In",
+            "Founders Fund",
+            "ORG"
+        ],
+        [
+            "Founders Fund",
+            "ORG",
+            "Buy",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Controlled_By",
+            "null",
+            "NIL"
+        ]
+    ]
+}

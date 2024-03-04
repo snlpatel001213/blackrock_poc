@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "flurry",
+            "CONCEPT",
+            "Relate_To",
+            "bullish, stock-moving analyst notes",
+            "CONCEPT"
+        ],
+        [
+            "bullish, stock-moving analyst notes",
+            "CONCEPT",
+            "Impact",
+            "stocks",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

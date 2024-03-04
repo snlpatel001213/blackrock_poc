@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Silicon Valley",
+            "GPE",
+            "Has",
+            "Silicon Part",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Competes_With",
+            "Intel",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Competes_With",
+            "Qualcomm",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Semiconductor Market",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Try",
+            "Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Dominate",
+            "Central Processing Units",
+            "PRODUCT"
+        ],
+        [
+            "Qualcomm",
+            "ORG",
+            "Dominate",
+            "Central Processing Units",
+            "PRODUCT"
+        ]
+    ]
+}

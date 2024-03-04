@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nicolas Maduro",
+            "PERSON",
+            "Announce",
+            "40 percent increase to the minimum wage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nicolas Maduro",
+            "PERSON",
+            "Operate_In",
+            "Venezuelan Government",
+            "ORG/GOV"
+        ],
+        [
+            "40 percent increase to the minimum wage",
+            "ECON_INDICATOR",
+            "Impact",
+            "Hyperinflation",
+            "CONCEPT"
+        ],
+        [
+            "Nicolas Maduro",
+            "PERSON",
+            "Participates_In",
+            "Washington\u2019s \u201ceconomic war\u201d",
+            "CONCEPT"
+        ]
+    ]
+}

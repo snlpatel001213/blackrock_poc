@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Two more head coaches fired",
+            "EVENT"
+        ],
+        [
+            "John Fox",
+            "PERSON",
+            "Leave",
+            "Bears",
+            "ORG"
+        ],
+        [
+            "Bears",
+            "ORG",
+            "Operate_In",
+            "National Football League",
+            "ORG/GOV"
+        ],
+        [
+            "Jim Caldwell",
+            "PERSON",
+            "Leave",
+            "Lions",
+            "ORG"
+        ],
+        [
+            "Lions",
+            "ORG",
+            "Operate_In",
+            "National Football League",
+            "ORG/GOV"
+        ],
+        [
+            "John Fox",
+            "PERSON",
+            "Depart_After",
+            "5-11 season",
+            "EVENT"
+        ],
+        [
+            "John Fox",
+            "PERSON",
+            "Depart_After",
+            "14-34 overall record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Fox",
+            "PERSON",
+            "Release_Statement",
+            "Bears",
+            "ORG"
+        ],
+        [
+            "Jim Caldwell",
+            "PERSON",
+            "Compile",
+            "36-28 record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lions",
+            "ORG",
+            "First head coach to compile",
+            "Winning record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lions",
+            "ORG",
+            "Make_Playoffs",
+            "Twice",
+            "EVENT"
+        ],
+        [
+            "Lions",
+            "ORG",
+            "Not win",
+            "Postseason game",
+            "EVENT"
+        ],
+        [
+            "Lions",
+            "ORG",
+            "Active drought",
+            "Second longest active drought",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Indianapolis Colts",
+            "ORG",
+            "Dump",
+            "Head coach Chuck Pagano",
+            "PERSON"
+        ],
+        [
+            "Oakland Raiders",
+            "ORG",
+            "Dispense",
+            "Jack Del Rio",
+            "PERSON"
+        ],
+        [
+            "New York Giants",
+            "ORG",
+            "Fire",
+            "Ben McAdoo",
+            "PERSON"
+        ]
+    ]
+}

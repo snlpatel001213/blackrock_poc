@@ -1,0 +1,298 @@
+{
+    "output": [
+        [
+            "Compass Group",
+            "ORG",
+            "Has",
+            "Cousins",
+            "PERSON"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Is_Member_Of",
+            "Compass Group",
+            "ORG"
+        ],
+        [
+            "Compass Group",
+            "ORG",
+            "Operate_In",
+            "Catering Sector",
+            "SECTOR"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Die_In",
+            "Seaplane Crash",
+            "EVENT"
+        ],
+        [
+            "Seaplane Crash",
+            "EVENT",
+            "Relate_To",
+            "Sydney River",
+            "GPE"
+        ],
+        [
+            "Seaplane Crash",
+            "EVENT",
+            "Impact",
+            "Five Others",
+            "PERSON"
+        ],
+        [
+            "Five Others",
+            "PERSON",
+            "Include",
+            "Pilot",
+            "PERSON"
+        ],
+        [
+            "Seaplane Flights",
+            "PRODUCT",
+            "Cancel",
+            "Until Further Notice",
+            "CONCEPT"
+        ],
+        [
+            "New CEO",
+            "PERSON",
+            "Take",
+            "Helm",
+            "COMP"
+        ],
+        [
+            "New CEO",
+            "PERSON",
+            "Named",
+            "Blakemore",
+            "PERSON"
+        ],
+        [
+            "Blakemore",
+            "PERSON",
+            "Work",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Blakemore",
+            "PERSON",
+            "Background",
+            "Accounting",
+            "SECTOR"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Employ",
+            "Around 550000",
+            "NUMBER"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Provide",
+            "Food Services",
+            "SERVICE"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Serve",
+            "Schools",
+            "ORG"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Serve",
+            "Armed Forces",
+            "ORG"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Serve",
+            "Office Workers",
+            "PERSON"
+        ],
+        [
+            "Compass",
+            "ORG",
+            "Chairman",
+            "Walsh",
+            "PERSON"
+        ],
+        [
+            "Walsh",
+            "PERSON",
+            "Extend",
+            "Deepest Sympathies",
+            "CONCEPT"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Known",
+            "Respected",
+            "CONCEPT"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Great Humanity",
+            "No-Nonsense Style",
+            "CONCEPT"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Transform",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Lead",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Turn Business Around",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Best-Performing Firm",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Named",
+            "World Best-Performing CEOs",
+            "CONCEPT"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Join",
+            "Tesco",
+            "ORG"
+        ],
+        [
+            "Cousins",
+            "PERSON",
+            "Step Down",
+            "Tesco",
+            "ORG"
+        ],
+        [
+            "Cousins Family",
+            "PERSON",
+            "Fly",
+            "Exclusive Waterfront Restaurant",
+            "PRODUCT"
+        ],
+        [
+            "Cousins Family",
+            "PERSON",
+            "Crash",
+            "Seaplane",
+            "PRODUCT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Work",
+            "Australian Transport Safety Bureau",
+            "ORG/REG"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Recover",
+            "Wreckage",
+            "CONCEPT"
+        ],
+        [
+            "Wreckage",
+            "CONCEPT",
+            "Submerged",
+            "13 Metres",
+            "NUMBER"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Probe",
+            "Cause",
+            "CONCEPT"
+        ],
+        [
+            "Cause",
+            "CONCEPT",
+            "Find Out",
+            "What Happened",
+            "CONCEPT"
+        ],
+        [
+            "Sydney Seaplanes",
+            "COMP",
+            "Operate",
+            "Since 2005",
+            "DATE"
+        ],
+        [
+            "Sydney Seaplanes",
+            "COMP",
+            "No Previous Record",
+            "Mishap",
+            "CONCEPT"
+        ],
+        [
+            "Seaplane Flights",
+            "PRODUCT",
+            "Cancel",
+            "Until Further Notice",
+            "CONCEPT"
+        ],
+        [
+            "William",
+            "PERSON",
+            "Work",
+            "Open Britain",
+            "ORG"
+        ],
+        [
+            "William",
+            "PERSON",
+            "Campaign",
+            "Keep Britain",
+            "GPE"
+        ],
+        [
+            "William",
+            "PERSON",
+            "Praise",
+            "Enthusiastic",
+            "CONCEPT"
+        ],
+        [
+            "William",
+            "PERSON",
+            "Praise",
+            "Talented",
+            "CONCEPT"
+        ]
+    ]
+}

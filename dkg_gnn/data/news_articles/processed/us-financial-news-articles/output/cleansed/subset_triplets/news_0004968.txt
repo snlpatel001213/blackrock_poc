@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Interim Measures",
+            "ORG",
+            "Relate_To",
+            "Scrutiny Over Shareholdings",
+            "CONCEPT"
+        ],
+        [
+            "Commercial Lenders",
+            "ORG",
+            "Has",
+            "Major Shareholders",
+            "PERSON"
+        ],
+        [
+            "CBRC",
+            "ORG/REG",
+            "Announce",
+            "New Rules Regulating Entrusted Loans",
+            "ORG"
+        ],
+        [
+            "Chinese Regulators",
+            "ORG",
+            "Introduce",
+            "Series of New Measures",
+            "ORG"
+        ]
+    ]
+}

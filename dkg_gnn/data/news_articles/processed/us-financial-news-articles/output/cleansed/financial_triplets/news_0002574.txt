@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Phil Taylor",
+            "PERSON",
+            "Participates_In",
+            "PDC World Championship",
+            "EVENT"
+        ],
+        [
+            "Rob Cross",
+            "PERSON",
+            "Participates_In",
+            "PDC World Championship",
+            "EVENT"
+        ],
+        [
+            "Phil Taylor",
+            "PERSON",
+            "Operate_In",
+            "Darts Sector",
+            "SECTOR"
+        ],
+        [
+            "Rob Cross",
+            "PERSON",
+            "Operate_In",
+            "Darts Sector",
+            "SECTOR"
+        ],
+        [
+            "Phil Taylor",
+            "PERSON",
+            "Is_Member_Of",
+            "PDC",
+            "ORG"
+        ],
+        [
+            "Rob Cross",
+            "PERSON",
+            "Is_Member_Of",
+            "PDC",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "World FX rates in 2017",
+            "EVENT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "U.S. data",
+            "EVENT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Fed minutes",
+            "EVENT"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "Euro zone economy",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Fed\u2019s latest minutes",
+            "EVENT"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "market right now",
+            "CONCEPT"
+        ]
+    ]
+}

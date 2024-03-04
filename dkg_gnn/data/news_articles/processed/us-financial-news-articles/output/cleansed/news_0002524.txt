@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "Australia",
+            "GPE",
+            "Operate_In",
+            "Transport Safety Investigation Agency",
+            "ORG"
+        ],
+        [
+            "Seaplane",
+            "PRODUCT",
+            "Crash",
+            "Sydney River",
+            "GPE"
+        ],
+        [
+            "New Year's Eve",
+            "EVENT",
+            "Occur",
+            "Crash",
+            "PRODUCT"
+        ],
+        [
+            "Six People",
+            "PERSON",
+            "Include",
+            "Prominent British CEO",
+            "PERSON"
+        ],
+        [
+            "Transport Safety Investigation Agency",
+            "ORG",
+            "Plan",
+            "Raise",
+            "PRODUCT",
+            "Wreckage",
+            "PRODUCT"
+        ],
+        [
+            "Wreckage",
+            "PRODUCT",
+            "Raise",
+            "Sydney River",
+            "GPE"
+        ]
+    ]
+}

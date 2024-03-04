@@ -1,0 +1,36 @@
+{
+    "output": [
+        [
+            "China Yuchai International",
+            "ORG",
+            "Acquire",
+            "Hunan Yuchai Machinery Industry",
+            "ORG"
+        ],
+        [
+            "Hunan Yuchai Machinery Industry",
+            "ORG",
+            "Belong_To",
+            "Hunan Chengwei Automobile",
+            "ORG"
+        ],
+        [
+            "Hunan Chengwei Automobile",
+            "ORG",
+            "Sell",
+            "49%",
+            "ECON_INDICATOR",
+            "Hunan Yuchai Machinery Industry",
+            "ORG"
+        ],
+        [
+            "Hunan Yuchai Machinery Industry",
+            "ORG",
+            "Price",
+            "RMB6.7 Million",
+            "ECON_INDICATOR",
+            "Hunan Chengwei Automobile",
+            "ORG"
+        ]
+    ]
+}

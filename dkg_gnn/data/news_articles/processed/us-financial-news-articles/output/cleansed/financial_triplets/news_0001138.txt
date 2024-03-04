@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Cannabis dispensary owner",
+            "PERSON",
+            "Operate_In",
+            "California",
+            "GPE"
+        ],
+        [
+            "Marijuana",
+            "CONCEPT",
+            "Relate_To",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Impact",
+            "Overall Sales",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

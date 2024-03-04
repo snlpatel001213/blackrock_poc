@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Peraton",
+            "ORG",
+            "Has",
+            "Stu Shea",
+            "PERSON"
+        ],
+        [
+            "L. Roger Mason",
+            "PERSON",
+            "Operate_In",
+            "Space, Intelligence and Cyber",
+            "SECTOR"
+        ],
+        [
+            "Peraton",
+            "ORG",
+            "Participates_In",
+            "National security",
+            "CONCEPT"
+        ],
+        [
+            "Peraton",
+            "ORG",
+            "Participates_In",
+            "Civil space",
+            "CONCEPT"
+        ],
+        [
+            "Peraton",
+            "ORG",
+            "Participates_In",
+            "Intelligence community",
+            "CONCEPT"
+        ]
+    ]
+}

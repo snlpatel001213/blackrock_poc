@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Diageo",
+            "ORG",
+            "Participates_In",
+            "Advertising Standards Authority",
+            "ORG/REG"
+        ],
+        [
+            "Captain Morgan",
+            "PRODUCT",
+            "Relate_To",
+            "Under_18s",
+            "CONCEPT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Has",
+            "Image-sharing App",
+            "PRODUCT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Relate_To",
+            "Unverified Age Information",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Announce",
+            "Redesign",
+            "PRODUCT"
+        ]
+    ]
+}

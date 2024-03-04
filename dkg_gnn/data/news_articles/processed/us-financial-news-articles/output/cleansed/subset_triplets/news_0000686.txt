@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Jose Mourinho",
+            "PERSON",
+            "Participates_In",
+            "Manchester United",
+            "ORG"
+        ],
+        [
+            "Manchester United",
+            "ORG",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ]
+    ]
+}

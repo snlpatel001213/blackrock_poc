@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Airborne Wireless Network",
+            "ORG",
+            "Announce",
+            "Kevin L. Spence",
+            "PERSON"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Operate_In",
+            "Airborne Wireless Network",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Financial Fields",
+            "SECTOR"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Participates_In",
+            "Armor Scientific Holdings",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Remington Designs",
+            "ORG"
+        ],
+        [
+            "Remington Designs",
+            "ORG",
+            "Impact",
+            "Retail Shelf Space",
+            "SECTOR"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Consults_For",
+            "Antarctica Capital Management",
+            "ORG/REG"
+        ],
+        [
+            "Antarctica Capital Management",
+            "ORG/REG",
+            "Operate_In",
+            "Global Infrastructure",
+            "SECTOR"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Citizens Parking",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Executive_Vice_President",
+            "United States Filter Corporation",
+            "ORG"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Increase",
+            "Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Acquire",
+            "Over 250 Companies",
+            "SECTOR"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Conduct",
+            "Public Offerings",
+            "SECTOR"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Raise",
+            "Over 500 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Sell",
+            "To Vivendi SA",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Audit_Partner",
+            "KMPG",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Graduate",
+            "University of Southern California",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Certified",
+            "Public Accountant",
+            "SECTOR"
+        ]
+    ]
+}

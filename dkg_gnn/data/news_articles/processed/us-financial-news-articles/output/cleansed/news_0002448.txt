@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Broadway",
+            "GPE",
+            "Set",
+            "New Weekly Sales High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Broadway League",
+            "ORG",
+            "Track",
+            "Broadway",
+            "GPE"
+        ],
+        [
+            "Hamilton",
+            "PRODUCT",
+            "Report",
+            "All-Time Sales Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "The Lion King",
+            "PRODUCT",
+            "Report",
+            "All-Time Sales Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chicago",
+            "PRODUCT",
+            "Report",
+            "All-Time Sales Highs",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

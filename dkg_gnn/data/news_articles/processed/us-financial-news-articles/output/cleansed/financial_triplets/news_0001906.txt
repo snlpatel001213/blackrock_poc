@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "MiFID 2",
+            "CONCEPT",
+            "Relate_To",
+            "Better Deal",
+            "CONCEPT"
+        ],
+        [
+            "MiFID 2",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Investor",
+            "PERSON"
+        ],
+        [
+            "Liquidnet",
+            "ORG",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Rebecca Healey",
+            "PERSON",
+            "Is_Member_Of",
+            "Liquidnet",
+            "ORG"
+        ]
+    ]
+}

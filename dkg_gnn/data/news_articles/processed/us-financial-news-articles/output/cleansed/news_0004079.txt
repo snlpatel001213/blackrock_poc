@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Raise",
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR",
+            "Has",
+            "Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Number",
+            "ECON_INDICATOR",
+            "Is",
+            "3,000",
+            "NUM"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "File",
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Applications for New Unemployment Benefits",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Layoffs",
+            "CONCEPT"
+        ],
+        [
+            "Layoffs",
+            "CONCEPT",
+            "Occur_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Labor Department",
+            "ORG/GOV"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Announce",
+            "Initial Jobless Claims",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Initial Jobless Claims",
+            "ECON_INDICATOR",
+            "Is",
+            "250,000",
+            "NUM"
+        ],
+        [
+            "Initial Jobless Claims",
+            "ECON_INDICATOR",
+            "Adjusted",
+            "Seasonally",
+            "CONCEPT"
+        ],
+        [
+            "Seasonally Adjusted Initial Jobless Claims",
+            "ECON_INDICATOR",
+            "Rise",
+            "3,000",
+            "NUM"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Expect",
+            "Steady Job Gains",
+            "CONCEPT"
+        ]
+    ]
+}

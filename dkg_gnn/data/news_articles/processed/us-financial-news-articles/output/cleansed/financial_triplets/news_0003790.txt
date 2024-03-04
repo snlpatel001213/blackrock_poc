@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Steven Ricchiuto",
+            "PERSON",
+            "Relate_To",
+            "Blockchain Concept",
+            "CONCEPT"
+        ],
+        [
+            "Mizuho Securities",
+            "ORG",
+            "Is_Member_Of",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "Mizuho Securities",
+            "ORG",
+            "Has",
+            "Steven Ricchiuto",
+            "PERSON"
+        ],
+        [
+            "Citi Private Bank",
+            "ORG",
+            "Has",
+            "David Bailin",
+            "PERSON"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Relate_To",
+            "Blockchain Concept",
+            "CONCEPT"
+        ],
+        [
+            "David Bailin",
+            "PERSON",
+            "Relate_To",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "David Bailin",
+            "PERSON",
+            "Relate_To",
+            "Blockchain Concept",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Blockchain Concept",
+            "CONCEPT"
+        ]
+    ]
+}

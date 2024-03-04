@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Operate_In",
+            "Biathlon",
+            "CONCEPT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Participates_In",
+            "Pyeongchang Olympics",
+            "EVENT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Operate_In",
+            "International Biathlon Union",
+            "ORG"
+        ],
+        [
+            "Biathlon",
+            "CONCEPT",
+            "Relate_To",
+            "Cross-country skiing",
+            "CONCEPT"
+        ],
+        [
+            "Biathlon",
+            "CONCEPT",
+            "Relate_To",
+            "Shooting",
+            "CONCEPT"
+        ]
+    ]
+}
