@@ -1,0 +1,24 @@
+* Tech companies say security patches not slowing processors
+* CERT researchers back down on need for mass chip replacement
+* Intel shares sank on Tues/Wed on fears of exposure
+FRANKFURT/BENGALURU, Jan 5 (Reuters) - Security issues with Intel Corp microchips are only slowing computers slightly, technology companies said, as researchers played down the need for mass hardware replacements to protect millions of devices from hackers.
+Google and other security researchers this week disclosed two major chip flaws - one called Meltdown affecting only Intel Corp chips and one called Spectre affecting nearly all computer chips made in the last decade.
+That raised the prospect of Intel being on the hook for lawsuits claiming that software patches to fix the issue would slow computers and effectively force consumers to buy new hardware, driving the company's shares down.
+But Intel said in a statement after U.S. stock markets closed on Thursday that the performance impact of the recent security updates should not be significant and would be mitigated over time.
+It said Apple Inc, Amazon.com Inc, Google and Microsoft Corp had all reported little to no performance impact from security patches. http://intel.ly/2CHQ89E 
+"Intel continues to believe that the performance impact of these updates is highly workload-dependent and, for the average computer user, should not be significant," it said.
+The company confirmed that the flaws reported by the researchers could allow hackers to steal information from computers, phones and other devices, but insisted that the issue was not a design flaw.
+The chipmaker said it would require users to download a patch and update their operating system to fix the issue.
+Microsoft and Google have said they expect few performance problems for most of their cloud computing customers.
+Apple said in a separate statement late on Thursday that its tests showed patches would not significantly affect processing speeds.
+"Our testing with public benchmarks has shown that the changes in the December 2017 updates resulted in no measurable reduction in the performance of macOS and iOS ... or in common Web browsing benchmarks," the California-based firm said.
+WHAT EXPERTS SAY
+CERT, the cyber security project at Carnegie Mellon University sponsored by the U.S. government, on Friday withdrew its recommendation for the replacement of the central processing units (CPUs) of affected systems.
+In the updated guidance, CERT said "operating system and some application updates mitigate these attacks".
+Daniel Gruss, the 31-year-old information security researcher and post-doctoral fellow at Austria's Graz Technical University who discovered the Meltdown flaw, welcomed Intel's white paper on the issue.
+"This looks much more professional now," Gruss said in comments emailed to Reuters.
+On the change in recommendation from CERT, Gruss said, however, that there were no replacements yet that could address the flaws in processors that he and other researchers have found.
+"All CPUs are affected, also very recent ones," Gruss said. "Furthermore, software updates can fix most of the problems, leaving only a small remaining attack surface."
+Browser makers Google, Microsoft Corp and Mozilla Corp's Firefox confirmed to Reuters on Thursday that the patches they currently have in place do not protect iOS users.
+With Safari and virtually all other popular browsers not patched, hundreds of millions of iPhone and iPad users may not have secure means of web browsing until Apple issues its patch.
+Apple said it would release a patch for the Safari web browser on its devices within days. It said that there were no known instances of hackers taking advantage of the flaw to date. (Writing by Abinaya Vijayaraghavan; Editing by Amrutha Gayathri and Patrick Graham)

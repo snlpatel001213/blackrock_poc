@@ -1,0 +1,15 @@
+(Reuters) - Microsoft Corp ( MSFT.O ) said on Tuesday the patches released to guard against Meltdown and Spectre security threats slowed down some personal computers and servers, with systems running on older Intel Corp ( INTC.O ) processors seeing a noticeable decrease in performance.
+The security updates also froze some computers running AMD ( AMD.O ) chipsets, Microsoft said in a blog post, citing customer complaints.
+Shares in Intel, which reiterated on Tuesday that it saw no sign of significant slowdown in computers, fell 1.4 percent, while those of AMD fell nearly 4 percent.
+AMD shares have gained nearly 20 percent in the last week as investors speculated that the chipmaker could wrest market share from Intel, whose chips were most exposed to the security flaws.
+"We (and others in the industry) had learned of this vulnerability under nondisclosure agreement several months ago and immediately began developing engineering mitigations and updating our cloud infrastructure," Microsoft executive Terry Myerson wrote in a blog post. ( bit.ly/2mj6f3Q )
+Security researchers disclosed the flaws on Jan. 3 that affected nearly every modern computing device containing chips from Intel, AMD and ARM Holdings.
+FILE PHOTO: The Microsoft logo is shown on an electric car at the Auto Show in Los Angeles, California, U.S., November 28, 2017. REUTERS/Mike Blake Meltdown and Spectre are two memory corruption flaws that could allow hackers to bypass operating systems and other security software to steal passwords or encryption keys on most types of computers, phones and cloud-based servers.
+Intel said a typical home and business PC user should not see significant slowdowns in common tasks such as reading email, writing a document or accessing digital photos. ( intel.ly/2FiL0Hk )
+The chipmaker said last week that fixes for security issues in its microchips would not slow down computers, rebuffing concerns that the flaws would significantly reduce performance.
+Rival AMD had also played down the threat, saying its products were at “zero risk” from the Meltdown flaw, but that one variant of the Spectre bug could be resolved by software updates from vendors such as Microsoft.
+But on Tuesday AMD said it was aware of an issue with some older-generation processors following the installation of a Microsoft security update that was published over the weekend.
+Microsoft said it was working with AMD to resolve the issues.
+Apple Inc ( AAPL.O ) also released an updated version of its operating system software on Monday to fix the security flaw.
+Reporting by Eric Auchard in Frankfurt and Supantha Mukherjee in Bengaluru; Editing by Saumyadeb Chakrabarty and Shounak Dasgupta
+ 

@@ -1,0 +1,15 @@
+1 Hour Ago | 01:19 
+Intel on Wednesday said it's working with AMD , ARM and software companies to resolve a security issue that was reported Wednesday. 
+The announcement comes after the Register reported that a patch for a serious security flaw in Intel chips could impact their performance. Intel stock was down as much as 6 percent on Wednesday as the report got wider attention, while AMD stock was up more than 8 percent; its chips were reported to be unaffected. 
+Intel suggested that other companies' chips could also suffer from the same problem. 
+"Recent reports that these exploits are caused by a 'bug' or a 'flaw' and are unique to Intel products are incorrect," the company said in a statement . "Based on the analysis to date, many types of computing devices — with many different vendors' processors and operating systems — are susceptible to these exploits." 
+The idea is to fix the issue "promptly and constructively," the statement said. 
+In addition to affecting PCs, the vulnerability also impacts public cloud providers like Amazon Web Services, Microsoft Azure and Google Cloud Platform. They let people rent out Intel chips to run their own applications atop Windows and Linux operating systems, which are being updated, according to the Register. 
+People should expect performance penalties in the "single to double digits," noted Michael Larabel of Phoronix , who ran tests on an early release of a patched version of Linux. Gaming performance on PCs doesn't seem to be affected by the patch, while performance of databases like PostgreSQL and Redis does appear to be measurably worse, Larabel wrote. 
+Intel briefly addressed performance in its statement. 
+"Contrary to some reports, any performance impacts are workload-dependent, and, for the average computer user, should not be significant and will be mitigated over time," the company said. 
+Intel said it was planning to talk about the security issue next week, "when more software and firmware updates will be available," but decided to say something now due to recent reports on the issue. 
+The entire incident could lead to charges or lawsuits for Intel, as Bernstein analyst Stacy Rasgon indicated in a Wednesday note . 
+Apple has been busy trying to patch the hole affecting macOS, AppleInsider reported, and Microsoft has been testing Windows updates with fixes, the Register said. 
+Google and Microsoft declined to comment. Amazon and Apple did not respond to requests for comment. 
+"Check with your operating system vendor or system manufacturer and apply any available updates as soon as they are available," Intel said. Jordan Novet Technology Reporter for CNBC.com Related Securities

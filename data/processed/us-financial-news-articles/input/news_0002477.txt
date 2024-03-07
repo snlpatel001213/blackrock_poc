@@ -1,0 +1,18 @@
+January 3, 2018 / 3:31 PM / Updated 3 hours ago Design flaw found in Intel chips; fix causes them to slow: report Douglas Busvine 4 Min Read 
+FRANKFURT (Reuters) - A design flaw has been found in microprocessors made by Intel Corp ( INTC.O ) that requires updates to computer operating systems, a tech publication reported, adding that the fix causes the chips to operate more slowly. 
+The defect affects the so-called kernel memory on Intel x86 processor chips manufactured over the past decade, The Register reported citing unnamed programmers, allowing users of normal applications to discern the layout or content of protected areas on the chips. 
+That could make it possible for hackers to exploit other security bugs or, worse, expose secure information such as passwords, thus compromising individual computers or even entire server networks. 
+Intel did not immediately respond to an emailed request for comment. Microsoft declined to comment. 
+Shares in Intel were down by 3.4 percent in early U.S. trading following the report. 
+The Register said programmers working on the Linux open-source operating system were overhauling the affected memory areas, while Microsoft Corp ( MSFT.O ) was expected to issue a Windows patch next Tuesday. 
+"Crucially, these updates to both Linux and Windows will incur a performance hit on Intel products," The Register wrote ( bit.ly/2CsRxkj ). 
+“The effects are being benchmarked, however we are looking at a ballpark figure of a five to 30 percent slowdown, depending on the task and the processor model.” 
+It was not immediately clear whether Intel would face any significant financial liability arising from the reported flaw. 
+“The current Intel problem, if true, would likely not require CPU replacement in our opinion. However the situation is fluid,” Hans Mosesmann of Rosenblatt Securities in New York said in a note. 
+Intel may end up having to indemnify harm or costs incurred by customers, and could also lose customers and faces a hit to its reputation, he added. AMD NOT AFFECTED 
+Competing chip maker AMD ( AMD.O ) has told Linux developers by email that its chips are not vulnerable to the types of attacks that the fix for the Intel chip is intended to address by isolating the kernel memory, The Register said. 
+Shares in AMD jumped by 7.2 percent in early trade on Wednesday. 
+The bug is likely to affect major cloud computing platforms such as Amazon ( AMZN.O ) EC2, Microsoft Azure and Google ( GOOGL.O ) Compute Engine, according to one software blogger cited by The Register. 
+Microsoft Azure is due to undergo a maintenance reboot on Jan. 10 while Amazon Web Services has also advised customers via email to expect a major security update this Friday. 
+The Register also said that similar operating systems, such as Apple’s ( AAPL.O ) 64-bit macOS operating system, would need to be updated. 
+The Linux patches are based on work by researchers from the Graz University of Technology in Austria who came up with a way to split kernel and user memory spaces to eliminate the security vulnerability. Reporting by Douglas Busvine and Jim Finkle; Additional reporting by Laharee Chatterjee in Bengaluru; Editing by Susan Fenton

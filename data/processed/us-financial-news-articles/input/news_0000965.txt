@@ -1,0 +1,16 @@
+By Robert Hackett January 2, 2018 
+A Google Chrome extension with more than 100,000 users has been quietly hijacking people’s computers to mine cryptocurrency. 
+Complaints first surfaced in early December that “ Archive Poster ,” a browser extension designed to help Tumblr users perform various tasks, had been contaminated with a program that mines the cryptocurrency Monero on unsuspecting users’ PCs. The software, which did not ask for people’s permission to operate, slowed down computers as it diverted computing power to mining, which involves solving math puzzles for cryptocurrency rewards. 
+The incident is the latest in a string of so-called cryptojacking attacks , in which hackers have hijacked PCs through compromised web servers and apps in order to mine cryptocurrency for themselves. Last year, the websites of Showtime, Politifact, and Pirate Bay at one time all unknowingly ran crypto mining software. 
+Essence Labs, the developer of Archive Poster, acknowledged the problem in a statement on Friday, as PCMag first reported . (The company did not immediately reply to Fortune’s request for comment.) 
+“An old team member who was responsible for updating the extension had his Google account compromised,” the company told PCMag reporter Michael Kan in an email, which he excerpted on Twitter . “Somehow the extension was hijacked to another Google account.” 
+The crypto-mining software that sneaked into Archive Poster was Coinhive , a tool that markets itself as a new, non-ad-based way to make money from websites. 
+The tainted version of the Archive Poster extension has since been removed from the Google Chrome web store. Essence Labs is now pointing people to a supposedly safer version of the extension, which can be downloaded here . 
+Google did not immediately reply to Fortune’s request for comment about the incident. Let's notify @Google about the #cryptojacking malware found in Chrome extension "Archive Poster" 
+Are you one of the 105,062 users? pic.twitter.com/quhHxZFgyf 
+— Bad Packets Report (@bad_packets) December 29, 2017 
+Troy Mursch, a security researcher who has been at the forefront of investigating the recent rash of cryptojacking incidents and who goes by the online alias “ Bad Packets Report ,” indicated to Fortune that he was disappointed by Google’s response to the burgeoning threat. 
+“I don’t think Google is treating cryptojacking as a serious security issue,” Mursch said in a direct message on Twitter. “They have not come up with a plan of action to prevent it from happening in Chrome.” 
+Get Data Sheet , Fortune’s technology newsletter. 
+Cryptojacking has been gaining in popularity alongside a resurgence of interest in cryptocurrencies . Monero, a privacy-oriented coin that has found favor with the criminal underground, is a popular choice for these campaigns due to its unique mining operation, which is optimized for PCs rather than the specialized equipment required by Bitcoin miners. 
+If your browser is running Archive Poster, you can remove the extension by clicking the menu icon in the top right corner of your browser window (the button looks like a gray traffic light), selecting “More tools,” and “Extensions.” From there, you can manage extension permissions, enabling, disabling, or deleting them as you see fit. SPONSORED FINANCIAL CONTENT 

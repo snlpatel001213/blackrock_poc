@@ -1,0 +1,31 @@
+FRANKFURT (Reuters) - Daniel Gruss didn’t sleep much the night he hacked his own computer and exposed a flaw in most of the chips made in the past two decades by hardware giant Intel Corp.
+FILE PHOTO - Intel processors are displayed at a store in Seoul June 21, 2012. REUTERS/Choi Dae-woong/File Photo The 31-year-old information security researcher and post-doctoral fellow at Austria’s Graz Technical University had just breached the inner sanctum of his computer’s central processing unit (CPU) and stolen secrets from it.
+Until that moment, Gruss and colleagues Moritz Lipp and Michael Schwarz had thought such an attack on the processor’s ‘kernel’ memory, which is meant to be inaccessible to users, was only theoretically possible.
+“When I saw my private website addresses from Firefox being dumped by the tool I wrote, I was really shocked,” Gruss told Reuters in an email interview, describing how he had unlocked personal data that should be secured.
+Gruss, Lipp and Schwarz, working from their homes on a weekend in early December, messaged each other furiously to verify the result.
+“We sat for hours in disbelief until we eliminated any possibility that this result was wrong,” said Gruss, whose mind kept racing even after powering down his computer, so he barely caught a wink of sleep.
+Gruss and his colleagues had just confirmed the existence of what he regards as “one of the worst CPU bugs ever found”.
+The flaw, now named Meltdown, was revealed on Wednesday and affects most processors manufactured by Intel since 1995.
+Separately, a second defect called Spectre has been found that also exposes core memory in most computers and mobile devices running on chips made by Intel, Advanced Micro Devices (AMD) and ARM Holdings, a unit of Japan’s Softbank.
+Both would enable a hacker to access secret passwords or photos from desktops, laptops, cloud servers or smartphones. It’s not known whether criminals have been able to carry out such attacks as neither Meltdown nor Spectre leave any traces in log files.
+Intel says it has started providing software and firmware updates to mitigate the security issues. ARM has also said it was working with AMD and Intel on security fixes.
+FINDING A FIX The discovery was originally reported by online tech journal The Register. As a result of that report, research on the defect was published a week earlier than the manufacturers had planned, before some had time to work out a complete fix.
+The Graz team had already been working on a tool to defend against attempts to steal secrets from kernel memory.
+In a paper presented last June they called it KAISER, or Kernel Address Isolation to have Side-channels Effectively Removed.
+The Intel logo is displayed on computer screens at SIGGRAPH 2017 in Los Angeles, California, U.S. July 31, 2017. REUTERS/Mike Blake As the name suggests, KAISER seeks to defend the kernel memory from a so-called side-channel attack that exploits a design feature of modern processors that increases their speed.
+This involves processors executing tasks “out-of-order”, and not in the sequence received. If the CPU makes the right speculative call, time is saved. Get it wrong and the out-of-order task is cancelled and no time is lost.
+Researcher Anders Fogh wrote in a subsequent blog that it might be possible to abuse so-called speculative execution in order to read kernel memory. He was not able to do so in practice, however. ( bit.ly/2vpkut0 )
+RESPONSIBLE DISCLOSURE Only after the December self-hacking episode did the significance of Graz team’s earlier work become clear. It turned out that the KAISER tool presented an effective defence against Meltdown.
+The team quickly got in touch with Intel and learned that other researchers - inspired in part by Fogh’s blog - had made similar discoveries.
+They were working under so-called responsible disclosure, where researchers inform affected companies of their findings to give them time to prepare ‘patches’ to repair flaws they have exposed.
+The key players were independent researcher Paul Kocher and the team at a company called Cyberus Technology, said Gruss, while Jann Horn at Google Project Zero came to similar conclusions independently.
+"We merged our efforts in mid-December with the team around Paul Kocher and the people from Cyberus Technology to work on two solid publications on Meltdown and Spectre," said Gruss. ( www.meltdownattack.com )
+Gruss had not even been aware of the work Horn was doing. ( here )
+“Jann Horn developed all of this independently - that’s incredibly impressive,” he said. “We developed very similar attacks, but we were a team of 10 researchers.”
+The wider team said patches for Meltdown, based on KAISER, had been readied for Microsoft Corp and Apple Inc operating systems, as well as for the Linux open-source system.
+There is as yet no fix for Spectre, which tricks programmes into leaking their secrets but is viewed as a harder exploit for a hacker to carry out.
+Asked which of the two flaws posed the greater challenge, Gruss said: ”The immediate problem is Meltdown.
+“After that it is going to be Spectre. Spectre is more difficult to exploit but also to mitigate. So in the long run I’d bet on Spectre.”
+(This story has been refiled to remove incorrect detail on name given to app in paragraph 13, amends detail about blog in paragraph 17.)
+Editing by Georgina Prodhan and Edmund Blair
+ 
