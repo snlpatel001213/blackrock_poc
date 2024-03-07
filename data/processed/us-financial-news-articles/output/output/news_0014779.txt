@@ -1,0 +1,1 @@
+{'output': [['China', 'GPE', 'Deny', 'Reports', 'EVENT'], ['Reports', 'EVENT', 'Relate_To', 'Scale Back', 'VERB'], ['Scale Back', 'VERB', 'Operate_In', 'Buying US Treasurys', 'FIN_INSTRUMENT'], ['US Treasurys', 'FIN_INSTRUMENT', 'Control', 'US Government', 'ORG/GOV']]}
