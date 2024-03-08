@@ -1,0 +1,25 @@
+computers@
+* Flaw affects Intel processors made in last decade
+* Patch causes Linux, Windows systems to slow - report
+* Intel shares fall 3.4 pct; AMD up 5.1 pct (Adds information about AMD chips)
+FRANKFURT/SAN FRANCISCO, Jan 3 (Reuters) - Intel Corp on Wednesday acknowledged a report that a design flaw in its chips could let hackers steal data but said that it was working on a solution that would not significantly slow computers.
+On Tuesday, tech publication The Register reported the flaw in Intel microprocessors required updates to computer operating systems, adding that the fix causes the chips to operate more slowly.
+Intel said the problem was broader than its chips alone and that it was working with Advanced Micro Devices Inc, ARM Holdings and others to fix the problem. Intel also denied that the patches would bog down computers based on Intel chips.
+"Intel has begun providing software and firmware updates to mitigate these exploits," Intel said in a statement. "Contrary to some reports, any performance impacts are workload-dependent, and, for the average computer user, should not be significant and will be mitigated over time."
+ARM spokesman Phil Hughes confirmed that ARM was working with AMD and Intel to fix a security hole found by researchers but said it was "not an architectural flaw" and that patches had already been shared with the companies' partners, which include most smartphone manufacturers.
+"This method only works if a certain type of malicious code is already running on a device and could at worst result in small pieces of data being accessed from privileged memory," Hughes said in an email.
+AMD chips are also affected by variants of a security flaw also discovered in Intel chips, a person familiar with the matter told Reuters. The earlier report in The Register suggested that AMD chips were not affected, which appeared to boost shares.
+The defect affects the so-called kernel memory on Intel x86 processor chips manufactured over the past decade, The Register reported citing unnamed programmers, allowing users of normal applications to discern the layout or content of protected areas on the chips.
+That could make it possible for hackers to exploit other security bugs or, worse, expose secure information such as passwords, thus compromising individual computers or even entire server networks.
+Shares in Intel were down by 3.4 percent following the report while shares in AMD jumped 5.1 percent.
+The Register said programmers working on the Linux open-source operating system were overhauling the affected memory areas, while Microsoft Corp was expected to issue a Windows patch next Tuesday.
+"Crucially, these updates to both Linux and Windows will incur a performance hit on Intel products," The Register wrote ( http://bit.ly/2CsRxkj ).
+"The effects are being benchmarked, however we are looking at a ballpark figure of a five to 30 percent slowdown, depending on the task and the processor model."
+Microsoft declined to comment.
+It was not immediately clear whether Intel would face any significant financial liability arising from the reported flaw.
+"The current Intel problem, if true, would likely not require CPU replacement in our opinion. However the situation is fluid," Hans Mosesmann of Rosenblatt Securities in New York said in a note, adding it could hurt the company's reputation.
+The bug is likely to affect major cloud computing platforms such as Amazon.com Inc's EC2, Microsoft Azure and Alphabet Inc's Compute Engine, according to one software blogger cited by The Register.
+Microsoft Azure is due to undergo a maintenance reboot on Jan. 10 while Amazon Web Services has also advised customers via email to expect a major security update Friday.
+The Register also said that similar operating systems, such as Apple Inc's 64-bit macOS operating system, would need to be updated.
+The Linux patches are based on work by researchers from the Graz University of Technology in Austria who came up with a way to split kernel and user memory spaces to eliminate the security vulnerability.
+(Reporting by Douglas Busvine in Frankfurt and Stephen Nellis in San Francisco; Additional reporting by Jim Finkel in Toronto and Laharee Chatterjee in Bengaluru; Editing by Susan Fenton and Lisa Shumaker)

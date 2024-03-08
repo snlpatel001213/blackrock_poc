@@ -1,14 +1,8 @@
-
-
-from transformers import AutoTokenizer
-import transformers
-import torch
 import os
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from llm_api import get_triplet
+from mixtral_api_ngc import get_triplet
 from tqdm import tqdm 
 
-class ExtractTripletLLaMA:
+class ExtractTripletUtils:
     def __init__(self):
         # self.model = "meta-llama/Llama-2-70b-chat-hf"
         # self.tokenizer = AutoTokenizer.from_pretrained(self.model)
@@ -79,19 +73,17 @@ class ExtractTripletLLaMA:
         print("sequences :", sequences)
         for seq in sequences:
             print(f"Result: {seq['generated_text']}")
-        # inputs = self.tokenizer(prompt, return_tensors="pt")
+      
 
-        # outputs = self.model.generate(**inputs, max_new_tokens=200)
-        # print(self.tokenizer.decode(outputs[0], skip_special_tokens=True))
-
-Ext = ExtractTripletLLaMA()
+Ext = ExtractTripletUtils()
 output_folder = "../../data/processed/us-financial-news-articles/output"
 preprocessed_files = Ext.list_files()
 preprocessed_files.sort()
-for each_preprocessed_file in tqdm(preprocessed_files[(815+538):3000]):
+for each_preprocessed_file in tqdm(preprocessed_files[(3010+1960+216+57+7683+1773+457):]):
     try:
         preprocessed_file = os.path.join(Ext.preprocessed_folder_path, each_preprocessed_file)
         news_text = Ext.read_text_from_files(preprocessed_file)
+        # print("news_text", news_text)
         triplet = get_triplet(news_prompt=news_text.replace("\n","."))
         output_file =  os.path.join(output_folder, each_preprocessed_file)
         file_ptr = open(output_file, "w")
