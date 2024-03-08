@@ -1,0 +1,5 @@
+Intel confirms that its patches to fix processors affected by the Spectre and Meltdown security flaws are causing computers to suddenly reboot on their own. 
+
+Intel originally noted this on Jan. 11 when it said users had reported random reboots on systems that are powered by Intel Broadwell and Haswell processors. Now, Intel says its internal testing confirms the reboots also impacts systems powered by its newer Ivy Bridge, Sandy Bridge, Skylake and Kaby Lake chips.
+"We have reproduced these issues internally and are making progress toward identifying the root cause," Intel's Navin Shenoy wrote in a post Wednesday. 
+While Intel says it has patched the exploits in 90 percent of the processors it has introduced in the last five years, it's clear there are still reliability issues affecting those processors. Shenoy said he will continue to provide regular updates on Intel's progress in addressing the exploits and reboot problems.

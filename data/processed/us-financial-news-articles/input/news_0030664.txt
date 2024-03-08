@@ -1,0 +1,15 @@
+MIAMI BEACH, Fla. (Reuters) - Schneider Electric SE ( SCHN.PA ) said on Thursday that hackers had exploited a flaw in its technology in a watershed incident discovered last month that halted operations at an undisclosed industrial facility.
+News of the breach surfaced on Dec. 14, when cyber security firms disclosed that hackers, likely working for a nation state, had invaded one of Schneider’s Triconex safety systems. Neither Schneider nor cyber experts have identified the target.
+Schneider initially told customers it believed the hack did not exploit a bug in the Triconex system. The system is used in nuclear facilities, oil and gas plants, mining, water treatment facilities and other plants to safely shut down industrial processes when hazardous conditions are detected. It is the first reported cyber attack on this type of system.
+While the target’s identity is unknown, one cyber security firm, Dragos, has said it occurred in the Middle East. Others have speculated it was in Saudi Arabia.
+Cyber experts have called it a watershed incident because it demonstrates how hackers might cause physical damage to a plant, or even kill people, by sabotaging safety systems before attacking industrial plants.
+France-based Schneider said in a customer advisory released on Thursday that hackers had exploited a previously unknown vulnerability in an older version of the Triconex firmware that allowed attackers to install a remote-access Trojan as “part of a complex malware infection scenario.”
+The advisory urged customers to follow previously recommended protocols for securing Triconex systems, which it said would have blocked the attack.
+The malware is capable of scanning and mapping an industrial network to provide reconnaissance and can also give hackers remote control over those systems, the advisory says.
+Schneider said it was developing tools to identify and remove the malware, which are expected to be released in February.
+The U.S. Department of Homeland Security is also investigating the attack, according to Schneider. A DHS spokesman could not immediately be reached for comment.
+Schneider’s Triconex technology is used globally. DHS helps investigate attacks and vulnerabilities that have the potential to impact critical infrastructure, businesses and consumers in the United States.
+The company plans to release a software update to fix the security bug, Schneider’s global cyber security architect, Paul Forney, said in an interview on the sidelines of the S4 security conference in Miami Beach, Florida. He declined to say when it would be available.
+One of Schneider’s rivals, ABB Ltd ( ABBN.S ), last month urged its customers to look out for attacks, saying hackers might use similar approaches to target any type of safety system.
+Editing by Andrea Ricci, Bernadette Baum and Leslie Adler
+ 

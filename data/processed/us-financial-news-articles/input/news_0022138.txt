@@ -1,0 +1,9 @@
+By Reuters 9:15 AM EST 
+Nvidia became the latest chipmaker to release software patches for the Spectre microchip security threat , indicating that the chipset flaw was affecting graphic processors as well as CPUs. 
+Security researchers last week disclosed the chipset flaws, dubbed Meltdown and Spectre , that could allow hackers to steal passwords or encryption keys on most types of computers, phones and cloud-based servers. 
+Advanced Micro Devices (amd) , ARM Holdings, and now Nvidia (nvda) have reported being exposed to only the Spectre flaw, but Intel has been hit by both. 
+The affected Nvidia chipsets include GeForce, Tesla, Grid, NVS and Quadro, the company said in a blogpost on Tuesday . 
+Microsoft (msft) said Tuesday its software patches slowed down some PCs and servers, with systems running on older Intel (intc) processors seeing a noticeable decrease in performance. 
+Meltdown lets hackers bypass the hardware barrier between applications run by users and the computer’s memory, potentially letting hackers read a computer’s memory and steal passwords. 
+Spectre lets hackers potentially trick otherwise error-free applications into giving up secret information. 
+Nvidia shares were down 1.6% at $218.49 in premarket trading on Wednesday. SPONSORED FINANCIAL CONTENT 

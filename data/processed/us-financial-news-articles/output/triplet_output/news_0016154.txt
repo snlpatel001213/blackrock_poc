@@ -1,0 +1,1 @@
+{'output': [["Sainsbury's", 'COMP', 'Has', 'CEO', 'PERSON'], ['CEO', 'PERSON', 'Say', 'Need', 'CONCEPT'], ['Need', 'CONCEPT', 'Relate_To', 'Level of certainty', 'CONCEPT'], ['Level of certainty', 'CONCEPT', 'Relate_To', 'Brexit', 'EVENT'], ['Brexit', 'EVENT', 'Impact', "Sainsbury's", 'COMP']]}

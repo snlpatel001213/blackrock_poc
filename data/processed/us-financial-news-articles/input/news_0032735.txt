@@ -1,0 +1,11 @@
+January 18, 2018 / 2:22 AM / Updated 3 hours ago Intel: Problem in patches for Spectre, Meltdown extends to newer chips Stephen Nellis 3 Min Read 
+(Reuters) - Data centre computers with Intel Corp’s ( INTC.O ) newer chips might reboot more often than normal because of problems with the patches issued to fix the so-called Spectre and Meltdown security flaws, the company said on Wednesday. 
+Intel confirmed that patches for the security flaws can cause higher-than-expected reboot rates in Ivy Bridge, Sandy Bridge, Skylake and Kaby Lake processors, said Navin Shenoy, general manager of the data centre group, in a statement on Intel’s website. 
+The Kaby Lake chips are the company’s most recent offering. 
+Last week, Intel said it had received reports that its security patches were causing problems in systems with its older Broadwell and Haswell chips. 
+Shenoy said that Intel had issued patches for 90 percent of Intel chips released in the past five years but that the company had “more work to do.” He also said the company would send out initial versions of fixes for the buggy patches to customers by next week. 
+“We have reproduced these issues internally and are making progress toward identifying the root cause,” Shenoy wrote. 
+On Jan. 3 Intel confirmed that the Spectre and Meltdown flaws affected its chips, potentially letting hackers steal information believed to be very secure. 
+The Spectre flaw affected nearly every modern computing device, including those with chips from Intel, Advanced Micro Devices Inc ( AMD.O ) and ARM Holdings. 
+Intel on Wednesday also quantified how much of a performance hit the patches cause for data centre customers. For common tasks such as running website servers, the patches caused a 2 percent slowdown, Intel said. Another test that simulated online transactions at a stock brokerage showed a 4 percent slowdown, the company said. 
+For some types for work involving servers that store large amounts of data and try to retrieve it quickly, the company said the slowdown could be as severe as 18 percent to 25 percent. However, it wasn’t immediately clear how common those situations were. Reporting by Stephen Nellis; editing by Grant McCool

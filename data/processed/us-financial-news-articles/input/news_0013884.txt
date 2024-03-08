@@ -1,0 +1,14 @@
+Intel CEO Brian Krzanich said Monday the chip maker expects to issue updates to all of its processors released in the last five years before the end of January. 
+The announcement followed the disclosure of massive security vulnerabilities last week that affect Intel chips. 
+"For our processors, products, introduced in the past five years, Intel expects to issue updates for more than 90 percent of them within a week," Krzanich told audiences in Las Vegas during his keynote address at industry expo CES. "And the remaining [updates will be available] by the end of January." 
+Security researchers released documentation of critical vulnerabilities in modern processors used on almost every computer and smartphones around the world. The hardware bugs — known as Meltdown and Spectre — could allow programs to steal data including passwords, personal photos and emails. The revelations last week sent the computer industry scrambling to patch those vulnerabilities. 
+Industry blog The Register reported that a patch for the security flaw in Intel chips could impact their functioning. 
+Krzanich stuck to the company line that the updates would not drastically affect computer performance for the average user. He told the audience on Monday that the "impact of these updates is highly workload dependent."
+He said that he expects some users to be affected more than others. "So, we will continue working with the industry to minimize the impact on those workloads over time." 
+Earlier in the day, the Intel CEO also informed employees about the creation of a new security group following the disclosure of the vulnerabilities. That news was first reported by the Oregonian and a source familiar with the matter confirmed the change to CNBC.
+Intel declined to comment on the matter. 
+At first, the company was quick to point out that the security vulnerabilities were not limited to its products , and might not have the biggest impact. "Contrary to some reports, any performance impacts are workload-dependent, and, for the average computer user, should not be significant and will be mitigated over time," the company said.
+Then, a few days after the details of the so-called Meltdown and Spectre vulnerabilities — which Intel had known about for months — became public, the company emphasized that it had been busy issuing updates for affected processors.
+In his keynote, Krzanich reiterated that Intel did not received any information that those vulnerabilities were being used to obtain customer data.
+With the formation of the security group, Intel is going further, suggesting the problems could require more work over time.
+Patches to prevent exploits of the two vulnerabilities have already caused a few issues. One gaming company, Epic, released a chart showing clear spikes in chip utilization after servers it relies on for one game were patched. Some customers of cloud provider Amazon Web Services have reported issues on its online forums as well.

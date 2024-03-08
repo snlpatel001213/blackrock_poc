@@ -1,1 +1,0 @@
-{'output': [['Jim Cramer', 'PERSON', 'Highlight', 'flurry', 'CONCEPT'], ['flurry', 'CONCEPT', 'Relate_To', 'bullish, stock-moving analyst notes', 'CONCEPT'], ['bullish, stock-moving analyst notes', 'CONCEPT', 'Impact', 'stocks', 'COMP'], ['stocks', 'COMP', 'Raise', '2018', 'TIME'], ['Republican tax bill', 'ORG/GOV', 'Announce', 'law', 'ORG/REG']]}

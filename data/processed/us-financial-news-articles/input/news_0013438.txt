@@ -1,0 +1,9 @@
+(Reuters) - Alphabet Inc’s ( GOOGL.O ) Google said on Thursday it had already deployed software patches against the Spectre and Meltdown chipset security flaws last year, without slowing down its cloud services.
+The flaws, which affect chips from Intel, AMD and ARM, allow hackers to read a computer’s memory and steal passwords, putting virtually all phones, computers and servers at risk. [nL8N1OY3GV]
+Researchers with Google’s Project Zero, in conjunction with academic and industry researchers from several countries, first reported the flaws publicly on Jan. 3, but major tech firms have said they knew about the flaws months ago.
+Google said it started deploying patches for Meltdown and one variant of Spectre in September, and by December created a patch for Variant 2 of Spectre, which is more difficult to fix without slowing down systems.
+“This set of vulnerabilities was perhaps the most challenging and hardest to fix in a decade,” Google executive Ben Treynor Sloss said in a blog post.
+Microsoft ( MSFT.O ) has also released patches for the flaws, but earlier this week admitted that its Spectre Variant 2 patch slowed down some personal computers and servers, with systems running on older Intel Corp ( INTC.O ) processors seeing a noticeable decrease in performance.
+Intel said on Thursday it would issue patches for 90 percent of the chips less than 5 years old by Jan 15 and will then focus on providing patches for the older chips. ( intel.ly/2D0vgv8 )
+Reporting by Munsif Vengattil in Bengaluru; Editing by Saumyadeb Chakrabarty
+ 

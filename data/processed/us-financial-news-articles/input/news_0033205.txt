@@ -1,0 +1,14 @@
+(Adds comments from Schneider official, background on attack)
+By Jim Finkle
+MIAMI BEACH, FLORIDA, Jan 18 (Reuters) - Schneider Electric SE disclosed on Thursday that hackers exploited a flaw in its software in a watershed hack discovered last month that halted plant operations at an industrial facility.
+News of the incident surfaced on Dec. 14, when cyber security firms disclosed that hackers likely working for a nation-state had invaded one of Schneider’s Triconex safety systems. Neither Schneider nor cyber experts have identified the victim.
+While Schneider previously confirmed the attack had occurred, it initially told customers in an alert that it believed the hack did not exploit a bug in the Triconex system.
+Schneider has declined to say what type of plant was attacked, but cyber experts have noted that Triconex systems are widely used by energy firms, including at nuclear facilities, and oil and gas plants.
+Schneider security officials were scheduled to discuss the attack during a Thursday morning presentation at the S4 cyber security conference in Miami Beach, Florida. Company officials briefed press on their findings in advance of that presentation.
+Hackers exploited a previously unknown security vulnerability in Triconex software to install a remote-access Trojan on the system, said Schneider Electric Global Cyber Security Architect Paul Forney.
+That Trojan was designed to cause the safety system to fail, he said.
+Schneider is developing a Triconex firmware update that will fix the bug, Forney said, declining to say when it would be available.
+While the victim’s identity is unknown, one cyber security firm, Dragos, has said it occurred in the Middle East and others have speculated that it was in Saudi Arabia.
+The hack, which was discovered before the attackers could cause damage to the plant, marks the first report of a safety system breach at an industrial plant. Hackers have in recent years placed increasing attention on breaking into utilities, factories and other types of critical infrastructure.
+Cyber experts identified it as a watershed attack, saying that it demonstrates a way that hackers could cause physical damage to a plant, or even kill people, by shutting down safety systems in advance of attacking industrial processes. (Reporting by Jim Finkle in Miami Beach, Florida; Editing by Chizu Nomiyama and Andrea Ricci)
+ 

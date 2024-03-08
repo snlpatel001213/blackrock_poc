@@ -1,0 +1,8 @@
+By Don Reisinger 10:26 AM EST 
+If you’ve been having trouble playing the popular online game Fortnite , its developer Epic Games has an explanation—and a fix. 
+In a forum posting recently, Epic Games said that the “login issues and service instability” gamers have been experiencing is due to its attempts at updating cloud services that remove the Meltdown vulnerability that wreaked havoc on Intel-based chips (intc) over the last decade. The company said that its service might suffer from some problems for more than a week as it works on the fix. 
+On Wednesday, Epic Games posted to its Fortnite Twitter page that it was aware of the PC game’s players “experiencing stutters and crashing” with its latest update. The company said it would work on a fix. 
+Get Data Sheet , Fortune’s technology newsletter 
+The tech world was shocked earlier this month with reports from tech giants and researchers who detailed security holes in processors made by Intel and AMD (amd) , and designed by ARM Holdings. The first hole, called Meltdown, refers specifically to Intel-based chips. The other, called Spectre, affects Intel, AMD, and ARM-based chips. 
+In the case of Meltdown, hackers who know how to exploit the flaw can circumvent a barrier between the user’s applications and the operating system and steal sensitive information, among other hacks. It’s believed Meltdown has been in the wild for years without being discovered. And now, companies around the globe are scrambling to fix it . 
+According to Epic Games, that attempt at fixing the problem will take some time. But when it’s complete, Epic is promising Fortnite games dramatically improved performance. SPONSORED FINANCIAL CONTENT 

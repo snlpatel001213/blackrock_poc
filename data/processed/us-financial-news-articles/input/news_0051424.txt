@@ -1,0 +1,8 @@
+January 30, 2018 / 3:47 AM / in 9 hours Microsoft issues update to disable Intel's buggy Spectre patch Reuters Staff 2 Min Read 
+(Reuters) - Microsoft Corp issued an emergency security update on Monday to plug Intel Corp’s buggy Spectre firmware patch after the chipmaker’s fix caused computers to reboot more often than normal. 
+Microsoft said it was rolling out an out-of-band update that specifically disables Intel’s Spectre variant 2 patch. 
+The latest update comes nearly four weeks after Intel confirmed that its chips were impacted by vulnerabilities known as Spectre and Meltdown, which make data on affected computers susceptible to espionage. 
+The Windows maker said system instability triggered by Intel's faulty patch can in some cases cause "data loss or corruption". ( bit.ly/2rW1bYL ) 
+Microsoft said its latest update prevented computers to reboot unexpectedly and urged affected customers to manually download it from the Microsoft Update Catalog website. 
+Meltdown was specific to chips from Intel as well as one from SoftBank Group Corp’s ARM Holdings. Spectre affected nearly every modern computing device, including ones with chips from Intel, ARM and Advanced Micro Devices Inc. 
+Last week, Intel said that patches it released to address the two high-profile security vulnerabilities in its chips are faulty, advising customers, computer makers and cloud providers to stop installing them. Reporting by Subrat Patnaik in Bengaluru; Editing by Gopakumar Warrier

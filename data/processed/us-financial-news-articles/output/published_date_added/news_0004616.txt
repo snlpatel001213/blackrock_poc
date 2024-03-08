@@ -1,0 +1,1 @@
+{"output": [["Any disruption", "CONCEPT", "Impact", "Oil Supplies", "ORG"], ["Oil Supplies", "ORG", "Relate_To", "Iran", "GPE"], ["Iran", "GPE", "Participates_In", "Protests", "EVENT"], ["Protests", "EVENT", "Negative_Impact_On", "Oil Exports", "ORG"], ["Oil Exports", "ORG", "Control", "Prices", "ECON_INDICATOR"]], "published": "2018-01-02T02:13:00.000+02:00"}
