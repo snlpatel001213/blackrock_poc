@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Rabobank",
+            "ORG",
+            "Relate_To",
+            "Trade War",
+            "CONCEPT"
+        ],
+        [
+            "Rabobank",
+            "ORG",
+            "Relate_To",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Rabobank",
+            "ORG",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Rabobank",
+            "ORG",
+            "Relate_To",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Rabobank",
+            "ORG",
+            "Relate_To",
+            "Bitcoin",
+            "CRYPTO_CURRENCY"
+        ],
+        [
+            "US President",
+            "ORG/GOV",
+            "Relate_To",
+            "World Economic Forum",
+            "EVENT"
+        ],
+        [
+            "US President",
+            "ORG/GOV",
+            "Relate_To",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Danilo Masoni",
+            "PERSON",
+            "Anchor",
+            "Real Time Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Danilo Masoni",
+            "PERSON",
+            "Reachable",
+            "Messenger",
+            "PRODUCT"
+        ],
+        [
+            "European Equity Markets",
+            "SECTOR",
+            "Covered",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "European Shares",
+            "SECTOR",
+            "Seen",
+            "Lower",
+            "TREND"
+        ],
+        [
+            "Wall Street",
+            "SECTOR",
+            "Gains",
+            "Evanporate",
+            "TREND"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO_CURRENCY",
+            "Fall",
+            "Three Days Ago",
+            "TREND"
+        ],
+        [
+            "Stock Futures",
+            "PRODUCT",
+            "Open",
+            "Red",
+            "TREND"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Stock Futures",
+            "Declines",
+            "TREND"
+        ],
+        [
+            "Tech Sector",
+            "SECTOR",
+            "Richly Valued",
+            "True",
+            "TREND"
+        ],
+        [
+            "Tech Sector",
+            "SECTOR",
+            "Watch",
+            "Morning",
+            "EVENT"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Supplier",
+            "Equipment",
+            "PRODUCT"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Key Chip Makers",
+            "Customers",
+            "SECTOR"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Reported",
+            "Better-than-expected Net Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Fourth Quarter",
+            "Net Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Net Profit",
+            "Rise",
+            "TREND"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Net Profit",
+            "644 Million Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ASML",
+            "COMP",
+            "Expected Profit",
+            "454 Million Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tech Stocks",
+            "SECTOR",
+            "Leading Sectoral Gainers",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Tech Stocks",
+            "SECTOR",
+            "Golden Era",
+            "Over",
+            "TREND"
+        ],
+        [
+            "Some Investors",
+            "PERSON",
+            "Say",
+            "Tech Stocks Golden Era Over",
+            "TREND"
+        ]
+    ]
+}

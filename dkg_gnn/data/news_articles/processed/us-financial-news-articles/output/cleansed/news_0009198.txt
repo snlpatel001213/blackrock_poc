@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Announce",
+            "First Quarter Financial Results",
+            "EVENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Operate_In",
+            "Media and Content Marketplace",
+            "SECTOR"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Decrease",
+            "Consolidated Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Decrease",
+            "Consolidated Segment Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Television and Radio Segments",
+            "SECTOR"
+        ],
+        [
+            "Television",
+            "SECTOR",
+            "Decrease",
+            "Segment Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Television",
+            "SECTOR",
+            "Decrease",
+            "Advertising Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Television",
+            "SECTOR",
+            "Flat",
+            "Subscriber Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Television",
+            "SECTOR",
+            "Increase",
+            "Merchandising, Distribution and Other Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Television",
+            "SECTOR",
+            "Decrease",
+            "Segment Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Radio",
+            "SECTOR",
+            "Flat",
+            "Segment Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Radio",
+            "SECTOR",
+            "Decrease",
+            "Advertising Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Radio",
+            "SECTOR",
+            "Increase",
+            "Segment Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Free Cash Flow",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Net Income Attributable to Shareholders",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Adjusted Net Income Attributable to Shareholders",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Adjusted Basic Earnings per Share",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Diluted Earnings per Share",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Net Debt to Segment Profit Leverage",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corus Entertainment Inc.",
+            "ORG",
+            "Has",
+            "Consolidated Segment Profit Margin",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

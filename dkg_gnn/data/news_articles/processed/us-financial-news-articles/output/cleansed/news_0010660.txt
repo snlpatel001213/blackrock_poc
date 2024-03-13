@@ -1,0 +1,89 @@
+{
+    "output": [
+        [
+            "U.S. spy satellite",
+            "EVENT",
+            "Operate_In",
+            "Orbit",
+            "GPE"
+        ],
+        [
+            "U.S. officials",
+            "ORG/GOV",
+            "Believe",
+            "U.S. spy satellite",
+            "EVENT"
+        ],
+        [
+            "U.S. spy satellite",
+            "EVENT",
+            "Assumed",
+            "Total Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Northrop Grumman",
+            "COMP",
+            "Built",
+            "Satellite",
+            "EVENT"
+        ],
+        [
+            "Satellite",
+            "EVENT",
+            "Code_Named",
+            "Zuma",
+            "PRODUCT"
+        ],
+        [
+            "Northrop Grumman",
+            "COMP",
+            "Choose",
+            "SpaceX Falcon 9",
+            "PRODUCT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Launch",
+            "Satellite",
+            "EVENT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Led",
+            "Launch",
+            "U.S. military",
+            "ORG/GOV"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Perform",
+            "Nominally",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investigation",
+            "EVENT",
+            "Underway",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "No",
+            "ECON_INDICATOR",
+            "Initial Indication",
+            "Sabotage",
+            "CONCEPT"
+        ],
+        [
+            "null",
+            "CONCEPT",
+            "Initial Indication",
+            "Interference",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Boeing",
+            "COMP",
+            "Relate_To",
+            "Joint_Ventures",
+            "CONCEPT"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Relate_To",
+            "Joint_Business_Agreements",
+            "CONCEPT"
+        ],
+        [
+            "Embraer",
+            "COMP",
+            "Relate_To",
+            "Joint_Ventures",
+            "CONCEPT"
+        ],
+        [
+            "Embraer",
+            "COMP",
+            "Relate_To",
+            "Joint_Business_Agreements",
+            "CONCEPT"
+        ]
+    ]
+}

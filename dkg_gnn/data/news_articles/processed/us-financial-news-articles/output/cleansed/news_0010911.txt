@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Microsoft",
+            "COMP",
+            "Suspend",
+            "Meltdown and Spectre security patches",
+            "EVENT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Operate_In",
+            "Computer industry",
+            "SECTOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Relate_To",
+            "Meltdown and Spectre security patches",
+            "EVENT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Computer industry",
+            "SECTOR"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Negative_Impact_On",
+            "Computers running AMD chips",
+            "GPE"
+        ]
+    ]
+}

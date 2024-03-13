@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Seacoast Banking Corporation of Florida",
+            "ORG",
+            "Announce",
+            "Fourth Quarter Results",
+            "EVENT"
+        ],
+        [
+            "Seacoast Banking Corporation of Florida",
+            "ORG",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Seacoast Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Seacoast Banking Corporation of Florida",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Operate_In",
+            "Financial sector",
+            "SECTOR"
+        ],
+        [
+            "Grayscale",
+            "ORG",
+            "Produce",
+            "bitcoin investment trust",
+            "PRODUCT"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Relate_To",
+            "Suitability and eligibility standards",
+            "CONCEPT"
+        ]
+    ]
+}

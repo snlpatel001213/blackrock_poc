@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Asian Stocks",
+            "GPE",
+            "Strike",
+            "Decade Peak",
+            "GPE"
+        ],
+        [
+            "Risk Appetites",
+            "CONCEPT",
+            "Whet",
+            "Upbeat Manufacturing Surveys",
+            "CONCEPT"
+        ],
+        [
+            "World Growth",
+            "CONCEPT",
+            "Confirm",
+            "Synchronized Upturn",
+            "CONCEPT"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Activity",
+            "Especially Strong",
+            "CONCEPT"
+        ],
+        [
+            "Bond Yields",
+            "FIN_INSTRUMENT",
+            "Lift",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Euro",
+            "CURRENCY",
+            "Drive",
+            "Highest in Three Years",
+            "AGAINST_USD"
+        ],
+        [
+            "Emerging Market Trades",
+            "CONCEPT",
+            "Pile",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Asia-Pacific Shares",
+            "GPE",
+            "Rise",
+            "Percent",
+            "PERCENT"
+        ],
+        [
+            "Index",
+            "GPE",
+            "Creep",
+            "All-time Peak",
+            "GPE"
+        ],
+        [
+            "Chinese Blue Chips",
+            "COMP",
+            "Gain",
+            "Session",
+            "TIME"
+        ],
+        [
+            "Japan Nikkei",
+            "COMP",
+            "Closed",
+            "Holidays",
+            "CONCEPT"
+        ],
+        [
+            "Wall Street",
+            "COMP",
+            "Score",
+            "Record Closing Peaks",
+            "CONCEPT"
+        ],
+        [
+            "Industry Surveys",
+            "CONCEPT",
+            "Show",
+            "Quickening Activity",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Macro Strategist",
+            "Alan Ruskin",
+            "PERSON"
+        ],
+        [
+            "Global Economy",
+            "CONCEPT",
+            "Solidly",
+            "Virtuous Cycle",
+            "CONCEPT"
+        ],
+        [
+            "Risky Assets",
+            "CONCEPT",
+            "Support",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Speculation",
+            "Wind Down",
+            "CONCEPT"
+        ],
+        [
+            "German Paper",
+            "COMP",
+            "Climb",
+            "Two-month Top",
+            "GPE"
+        ],
+        [
+            "Rates",
+            "FIN_INSTRUMENT",
+            "Push",
+            "European Periphery",
+            "GPE"
+        ],
+        [
+            "Spanish Yields",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Percent",
+            "PERCENT"
+        ],
+        [
+            "Dollar",
+            "CURRENCY",
+            "Sink",
+            "Three-month Trough",
+            "AGAINST_PEERS"
+        ],
+        [
+            "Euro",
+            "CURRENCY",
+            "Stretch",
+            "Four-month Top",
+            "AGAINST_USD"
+        ],
+        [
+            "Single Currency",
+            "CURRENCY",
+            "Reach",
+            "Two-year High",
+            "AGAINST_YEN"
+        ],
+        [
+            "Dollar",
+            "CURRENCY",
+            "Lag",
+            "Percent",
+            "PERCENT"
+        ],
+        [
+            "Commodities",
+            "CONCEPT",
+            "Positive",
+            "Currency",
+            "CURRENCY"
+        ],
+        [
+            "Spot Gold",
+            "COMP",
+            "Reach",
+            "Highest",
+            "GPE"
+        ],
+        [
+            "Oil Prices",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "Highest",
+            "GPE"
+        ],
+        [
+            "Brent Crude Futures",
+            "COMP",
+            "Trade",
+            "Percent",
+            "PERCENT"
+        ],
+        [
+            "US Crude Futures",
+            "COMP",
+            "Nudge",
+            "Percent",
+            "PERCENT"
+        ]
+    ]
+}

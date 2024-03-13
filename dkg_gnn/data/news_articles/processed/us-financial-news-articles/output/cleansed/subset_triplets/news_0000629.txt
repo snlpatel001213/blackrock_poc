@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Totten Insurance Group Inc.",
+            "COMP",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Totten",
+            "COMP",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "EasyInsure",
+            "ORG",
+            "Control",
+            "Personal Insurance Platform",
+            "PRODUCT"
+        ],
+        [
+            "EasyInsure",
+            "ORG",
+            "Control",
+            "Commercial Insurance Products",
+            "PRODUCT"
+        ],
+        [
+            "Totten",
+            "COMP",
+            "Participates_In",
+            "Fastest Growing Insurance Brokerages",
+            "SECTOR"
+        ],
+        [
+            "EasyInsure",
+            "ORG",
+            "Has",
+            "Digital Capabilities",
+            "CONCEPT"
+        ],
+        [
+            "EasyInsure",
+            "ORG",
+            "Has",
+            "Knowledgeable Professionals",
+            "PERSON"
+        ],
+        [
+            "EasyInsure",
+            "ORG",
+            "Has",
+            "Distribution Platform",
+            "CONCEPT"
+        ],
+        [
+            "Totten",
+            "COMP",
+            "Is_Member_Of",
+            "Broker Community",
+            "CONCEPT"
+        ],
+        [
+            "Totten",
+            "COMP",
+            "Has",
+            "Expert Underwriting Resources",
+            "CONCEPT"
+        ]
+    ]
+}

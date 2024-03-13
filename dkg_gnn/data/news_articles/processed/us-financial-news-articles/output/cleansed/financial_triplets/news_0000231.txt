@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Operate_In",
+            "NYSE",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Is_Member_Of",
+            "Johnson & Johnson",
+            "ORG"
+        ]
+    ]
+}

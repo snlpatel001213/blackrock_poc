@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Urges",
+            "Dialogue",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Call_For",
+            "Nuclear Ban",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Operate_In",
+            "Vatican City",
+            "GPE"
+        ],
+        [
+            "Dialogue",
+            "CONCEPT",
+            "Relate_To",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "Nuclear Ban",
+            "CONCEPT",
+            "Relate_To",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ]
+    ]
+}

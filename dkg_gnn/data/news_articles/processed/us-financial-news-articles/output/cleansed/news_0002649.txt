@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rexahn Pharmaceuticals",
+            "ORG",
+            "Announce",
+            "Douglas J. Swirsky",
+            "PERSON"
+        ],
+        [
+            "Douglas J. Swirsky",
+            "PERSON",
+            "Operate_In",
+            "Rexahn Pharmaceuticals",
+            "ORG"
+        ],
+        [
+            "Douglas J. Swirsky",
+            "PERSON",
+            "Replace",
+            "Dr. Tae Heum Jeong",
+            "PERSON"
+        ],
+        [
+            "Dr. Tae Heum Jeong",
+            "PERSON",
+            "Leave",
+            "Rexahn Pharmaceuticals",
+            "ORG"
+        ],
+        [
+            "Rexahn Pharmaceuticals",
+            "ORG",
+            "Develop",
+            "RX-3117",
+            "PRODUCT"
+        ],
+        [
+            "Rexahn Pharmaceuticals",
+            "ORG",
+            "Develop",
+            "Supinoxin\u2122",
+            "PRODUCT"
+        ],
+        [
+            "Rexahn Pharmaceuticals",
+            "ORG",
+            "Develop",
+            "Archexin\u00ae",
+            "PRODUCT"
+        ]
+    ]
+}

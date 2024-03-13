@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Republicans",
+            "ORG",
+            "Participates_In",
+            "tax reform",
+            "EVENT"
+        ],
+        [
+            "Senator Marco Rubio",
+            "PERSON",
+            "Is_Member_Of",
+            "Republicans",
+            "ORG"
+        ],
+        [
+            "tax reform",
+            "EVENT",
+            "Negative_Impact_On",
+            "Public",
+            "GPE"
+        ]
+    ]
+}

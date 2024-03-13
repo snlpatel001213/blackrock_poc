@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "U.S. officials",
+            "ORG/GOV",
+            "Debate",
+            "bloody nose strategy",
+            "CONCEPT"
+        ],
+        [
+            "bloody nose strategy",
+            "CONCEPT",
+            "Relate_To",
+            "limited military strike",
+            "CONCEPT"
+        ],
+        [
+            "limited military strike",
+            "CONCEPT",
+            "Impact",
+            "all-out war on the Korean Peninsula",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Operate_In",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "nuclear or missile test",
+            "EVENT"
+        ],
+        [
+            "bloody nose strategy",
+            "CONCEPT",
+            "React_To",
+            "nuclear or missile test",
+            "EVENT"
+        ],
+        [
+            "bloody nose strategy",
+            "CONCEPT",
+            "Impact",
+            "North Korean facility",
+            "COMP"
+        ],
+        [
+            "North Korean facility",
+            "COMP",
+            "Control",
+            "Pyongyang",
+            "GPE"
+        ],
+        [
+            "bloody nose strategy",
+            "CONCEPT",
+            "Illustrate",
+            "high price",
+            "CONCEPT"
+        ],
+        [
+            "high price",
+            "CONCEPT",
+            "Relate_To",
+            "regime",
+            "ORG/GOV"
+        ],
+        [
+            "regime",
+            "ORG/GOV",
+            "Control",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Participates_In",
+            "delayed military exercise",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "delayed military exercise",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Operate_In",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Raise",
+            "calm and peace",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Raise",
+            "calm and peace",
+            "CONCEPT"
+        ],
+        [
+            "Olympics",
+            "EVENT",
+            "Operate_In",
+            "February",
+            "DATE"
+        ],
+        [
+            "Olympics",
+            "EVENT",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ]
+    ]
+}

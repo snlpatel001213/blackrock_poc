@@ -1,0 +1,191 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Consider",
+            "bill",
+            "ORG"
+        ],
+        [
+            "bill",
+            "ORG",
+            "Introduce",
+            "excellence fund",
+            "PRODUCT"
+        ],
+        [
+            "residents",
+            "PERSON",
+            "Receive",
+            "tax credit",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "De Le\u00f3n",
+            "PERSON",
+            "Say",
+            "taxpayers",
+            "PERSON"
+        ],
+        [
+            "taxpayers",
+            "PERSON",
+            "Able",
+            "deduct",
+            "VERB"
+        ],
+        [
+            "De Le\u00f3n",
+            "PERSON",
+            "Statement",
+            "Republican tax plan",
+            "CONCEPT"
+        ],
+        [
+            "Republican tax plan",
+            "CONCEPT",
+            "Give",
+            "corporations",
+            "ORG"
+        ],
+        [
+            "corporations",
+            "ORG",
+            "Trillion dollar tax cut",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "California taxpayers",
+            "PERSON",
+            "Foot",
+            "bill",
+            "ORG"
+        ],
+        [
+            "California",
+            "GPE",
+            "Scramble",
+            "deal",
+            "VERB"
+        ],
+        [
+            "federal deduction cap",
+            "CONCEPT",
+            "Impose",
+            "congressional Republicans",
+            "ORG"
+        ],
+        [
+            "congressional Republicans",
+            "ORG",
+            "Pass",
+            "tax bill",
+            "ORG"
+        ],
+        [
+            "tax bill",
+            "ORG",
+            "Signed",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "6 million California taxpayers",
+            "PERSON",
+            "Itemized",
+            "deductions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Within",
+            "general fund",
+            "PRODUCT"
+        ],
+        [
+            "bill",
+            "ORG",
+            "Not provide",
+            "details",
+            "CONCEPT"
+        ],
+        [
+            "Joseph Callahan",
+            "PERSON",
+            "Lawyer",
+            "Mackay, Caswell & Callahan",
+            "ORG"
+        ],
+        [
+            "Mackay, Caswell & Callahan",
+            "ORG",
+            "Say",
+            "states",
+            "GPE"
+        ],
+        [
+            "states",
+            "GPE",
+            "Not registered",
+            "charities",
+            "ORG"
+        ],
+        [
+            "IRS",
+            "ORG",
+            "Decline",
+            "comment",
+            "VERB"
+        ],
+        [
+            "California",
+            "GPE",
+            "Create",
+            "tax credit programs",
+            "PRODUCT"
+        ],
+        [
+            "tax credit programs",
+            "PRODUCT",
+            "Fund",
+            "access",
+            "VERB"
+        ],
+        [
+            "access",
+            "VERB",
+            "College",
+            "PRODUCT"
+        ],
+        [
+            "private education",
+            "PRODUCT",
+            "Create",
+            "tax credit programs",
+            "PRODUCT"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Economic adviser",
+            "Gary Cohn",
+            "PERSON"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Might",
+            "block",
+            "VERB"
+        ],
+        [
+            "attempts",
+            "PRODUCT",
+            "Circumvent",
+            "cap",
+            "CONCEPT"
+        ]
+    ]
+}

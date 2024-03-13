@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Wellstar Health System",
+            "ORG",
+            "Participates_In",
+            "Minimize Opioid Use",
+            "CONCEPT"
+        ],
+        [
+            "Pacira Pharmaceuticals Inc.",
+            "COMP",
+            "Participates_In",
+            "Minimize Opioid Use",
+            "CONCEPT"
+        ],
+        [
+            "Wellstar Health System",
+            "ORG",
+            "Announce",
+            "Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Pacira Pharmaceuticals Inc.",
+            "COMP",
+            "Announce",
+            "Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Partnership",
+            "CONCEPT",
+            "Relate_To",
+            "Minimize Opioid Use",
+            "CONCEPT"
+        ],
+        [
+            "Partnership",
+            "CONCEPT",
+            "Relate_To",
+            "Standardize Outcomes",
+            "CONCEPT"
+        ],
+        [
+            "Partnership",
+            "CONCEPT",
+            "Operate_In",
+            "Surgical Procedures",
+            "CONCEPT"
+        ]
+    ]
+}

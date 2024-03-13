@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Tiffany Haddish",
+            "PERSON",
+            "Is_Member_Of",
+            "Groupon",
+            "ORG"
+        ],
+        [
+            "Tiffany Haddish",
+            "PERSON",
+            "Participates_In",
+            "2018 Super Bowl ad",
+            "EVENT"
+        ],
+        [
+            "Groupon",
+            "ORG",
+            "Has",
+            "Marketing Team",
+            "ORG"
+        ],
+        [
+            "Groupon",
+            "ORG",
+            "Has",
+            "Spokesperson",
+            "PERSON"
+        ],
+        [
+            "CVS",
+            "ORG",
+            "Impact",
+            "Body Image-associated Health Issues",
+            "CONCEPT"
+        ],
+        [
+            "CVS",
+            "ORG",
+            "Has",
+            "Brand Partners",
+            "ORG"
+        ],
+        [
+            "CVS",
+            "ORG",
+            "Control",
+            "Transparency Efforts",
+            "CONCEPT"
+        ],
+        [
+            "CVS",
+            "ORG",
+            "Relate_To",
+            "Photographie retouch\u00e9e Law",
+            "EVENT"
+        ],
+        [
+            "P&G",
+            "ORG",
+            "Produce",
+            "The Talk",
+            "EVENT"
+        ],
+        [
+            "P&G",
+            "ORG",
+            "Has",
+            "CPG Giant",
+            "SECTOR"
+        ],
+        [
+            "P&G",
+            "ORG",
+            "Elevate",
+            "Effort",
+            "CONCEPT"
+        ],
+        [
+            "P&G",
+            "ORG",
+            "Forged",
+            "Ad Pact",
+            "CONCEPT"
+        ],
+        [
+            "ABC",
+            "ORG",
+            "Participates_In",
+            "Black-ish",
+            "PRODUCT"
+        ],
+        [
+            "HBO",
+            "ORG",
+            "Has",
+            "Hands-on Relationship",
+            "CONCEPT"
+        ],
+        [
+            "HBO",
+            "ORG",
+            "Has",
+            "Programming President",
+            "PERSON"
+        ],
+        [
+            "HBO",
+            "ORG",
+            "Differ",
+            "Netflix Marketing Approach",
+            "CONCEPT"
+        ],
+        [
+            "Netflix",
+            "ORG",
+            "Has",
+            "Marketing Approach",
+            "CONCEPT"
+        ],
+        [
+            "Guardian",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Guardian",
+            "ORG",
+            "Prep",
+            "GDPR",
+            "EVENT"
+        ],
+        [
+            "Guardian",
+            "ORG",
+            "Work",
+            "Fewer Partners",
+            "CONCEPT"
+        ],
+        [
+            "Guardian",
+            "ORG",
+            "Has",
+            "Three Year Plan",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Reach",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Has",
+            "WeChat Users",
+            "PERSON"
+        ],
+        [
+            "Tencent",
+            "ORG",
+            "Reach",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Slate",
+            "ORG",
+            "Has",
+            "Podcasts",
+            "PRODUCT"
+        ],
+        [
+            "Snapchat",
+            "ORG",
+            "Has",
+            "Content Chief",
+            "PERSON"
+        ],
+        [
+            "Snapchat",
+            "ORG",
+            "Has",
+            "Redesign",
+            "PRODUCT"
+        ],
+        [
+            "Snapchat",
+            "ORG",
+            "Launch",
+            "Scripted Snapchat Shows",
+            "PRODUCT"
+        ]
+    ]
+}

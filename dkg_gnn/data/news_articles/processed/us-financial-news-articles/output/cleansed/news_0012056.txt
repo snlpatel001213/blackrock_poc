@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "InGenesis",
+            "ORG",
+            "Acquire",
+            "The Healthcare Specialty Business",
+            "ORG/REG"
+        ],
+        [
+            "The Healthcare Specialty Business",
+            "ORG/REG",
+            "Is_Member_Of",
+            "Kelly Services",
+            "ORG"
+        ],
+        [
+            "InGenesis",
+            "ORG",
+            "Finance",
+            "Deal",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "ROTH Capital Partners",
+            "ORG",
+            "Announce",
+            "Scott Searle",
+            "PERSON"
+        ],
+        [
+            "ROTH Capital Partners",
+            "ORG",
+            "Announce",
+            "Brian Alger",
+            "PERSON"
+        ],
+        [
+            "Scott Searle",
+            "PERSON",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Brian Alger",
+            "PERSON",
+            "Operate_In",
+            "Technology Investment Banking",
+            "SECTOR"
+        ],
+        [
+            "ROTH Capital Partners",
+            "ORG",
+            "Raise",
+            "$4.6 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ROTH Capital Partners",
+            "ORG",
+            "Raise",
+            "Approximately 140 transactions",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

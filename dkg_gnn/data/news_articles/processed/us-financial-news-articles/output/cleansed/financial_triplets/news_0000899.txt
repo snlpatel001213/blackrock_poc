@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Donald Trump Jr.",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Russians",
+            "GPE",
+            "Participates_In",
+            "Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Introduce",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Fire_And_Fury",
+            "PRODUCT",
+            "Operate_In",
+            "Trump_White_House",
+            "ORG/GOV"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Mind",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Press_Secretary",
+            "PERSON"
+        ],
+        [
+            "Donald_Trump",
+            "PERSON",
+            "Has",
+            "Press_Secretary",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Insurance Australia Group Ltd",
+            "ORG",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Insurance Australia Group Ltd",
+            "ORG",
+            "Operate_In",
+            "New Zealand",
+            "GPE"
+        ],
+        [
+            "Insurance Australia Group Ltd",
+            "ORG",
+            "Operate_In",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "Insurance Australia Group Ltd",
+            "ORG",
+            "Has",
+            "New Quota Share Agreements",
+            "ORG/REG"
+        ],
+        [
+            "Insurance Australia Group Ltd",
+            "ORG",
+            "Decrease",
+            "Gross Main Cover",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

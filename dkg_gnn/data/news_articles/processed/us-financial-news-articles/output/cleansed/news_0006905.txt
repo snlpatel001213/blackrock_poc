@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "UK Consumer Spending",
+            "ECON_INDICATOR",
+            "Decrease",
+            "2017",
+            "GPE"
+        ],
+        [
+            "Entertainment",
+            "SECTOR",
+            "Relate_To",
+            "Golden Globe Awards",
+            "EVENT"
+        ],
+        [
+            "Golden Globe Awards",
+            "EVENT",
+            "Has",
+            "Black Gowns",
+            "PRODUCT"
+        ],
+        [
+            "Golden Globe Awards",
+            "EVENT",
+            "Has",
+            "Sex Scandal Jokes",
+            "CONCEPT"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Estimate",
+            "Fourth-Quarter Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Operate_In",
+            "Home Appliances Business",
+            "SECTOR"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Share",
+            "Slide",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Spend",
+            "Expand Market Share",
+            "SECTOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "LG Electronics",
+            "COMP"
+        ],
+        [
+            "South Korean Exporters",
+            "COMP",
+            "Keep",
+            "Close Eye",
+            "CONCEPT"
+        ],
+        [
+            "Won",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "Three-Year High",
+            "TEMPORAL"
+        ],
+        [
+            "Won",
+            "FIN_INSTRUMENT",
+            "Reverse Direction",
+            "South Korean Foreign Exchange Authorities Buying Dollars",
+            "CONCEPT"
+        ]
+    ]
+}

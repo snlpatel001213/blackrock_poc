@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Michael Persaud",
+            "PERSON",
+            "Has",
+            "Montana Millz",
+            "PERSON"
+        ],
+        [
+            "Montana Millz",
+            "PERSON",
+            "Produce",
+            "Sell Drugsz",
+            "PRODUCT"
+        ],
+        [
+            "Montana Millz",
+            "PERSON",
+            "Produce",
+            "Feds Watching",
+            "PRODUCT"
+        ],
+        [
+            "Michael Persaud",
+            "PERSON",
+            "Control",
+            "East Providence",
+            "GPE"
+        ],
+        [
+            "East Providence",
+            "GPE",
+            "Control",
+            "Rhode Island",
+            "GPE"
+        ],
+        [
+            "Rhode Island",
+            "GPE",
+            "Control",
+            "Feds",
+            "ORG/GOV"
+        ],
+        [
+            "Michael Persaud",
+            "PERSON",
+            "Impact",
+            "Heroin Trafficking",
+            "CONCEPT"
+        ],
+        [
+            "Michael Persaud",
+            "PERSON",
+            "Impact",
+            "Fentanyl Trafficking",
+            "CONCEPT"
+        ],
+        [
+            "Michael Persaud",
+            "PERSON",
+            "Sentenced",
+            "Three Years Prison",
+            "CONCEPT"
+        ],
+        [
+            "Federal Prosecutors",
+            "ORG/GOV",
+            "Announce",
+            "Sentence",
+            "EVENT"
+        ]
+    ]
+}

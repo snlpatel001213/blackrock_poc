@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Spero Therapeutics",
+            "COMP",
+            "Appoint",
+            "David Melnick",
+            "PERSON"
+        ],
+        [
+            "David Melnick",
+            "PERSON",
+            "Prior_To",
+            "Allergan",
+            "COMP"
+        ],
+        [
+            "David Melnick",
+            "PERSON",
+            "Operate_In",
+            "Anti-Infectives",
+            "SECTOR"
+        ],
+        [
+            "Spero Therapeutics",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ]
+    ]
+}

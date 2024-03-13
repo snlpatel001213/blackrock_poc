@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Announce",
+            "Refinancing, Upsizing of Revolving Credit Facility",
+            "EVENT"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Control",
+            "New Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Operate_In",
+            "Holding Company Level Senior Secured Revolving Credit Facility",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

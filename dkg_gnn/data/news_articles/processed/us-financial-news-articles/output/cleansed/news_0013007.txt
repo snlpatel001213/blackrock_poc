@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Jacob Zuma",
+            "PERSON",
+            "Not_Considered",
+            "ANC Party",
+            "ORG/GOV"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Win",
+            "ANC Leadership",
+            "ORG/GOV"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Impact_On",
+            "South African Rand",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Operate_In",
+            "Emerging Markets",
+            "SECTOR"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Positive_Impact_On",
+            "Business Confidence Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Pledge",
+            "Fight Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Ramaphosa",
+            "PERSON",
+            "Viewed",
+            "Positively",
+            "CONCEPT"
+        ],
+        [
+            "Ramaphosa",
+            "PERSON",
+            "Beat",
+            "Nkosazana Dlamini-Zuma",
+            "PERSON"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Ex-Wife",
+            "Nkosazana Dlamini-Zuma",
+            "PERSON"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Lingering Presence",
+            "Unpopularity",
+            "CONCEPT"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Remove",
+            "Urgent Priority",
+            "CONCEPT"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Supporters",
+            "ANC",
+            "ORG/GOV"
+        ],
+        [
+            "ANC",
+            "ORG/GOV",
+            "Elects",
+            "Cyril Ramaphosa",
+            "PERSON"
+        ],
+        [
+            "ANC",
+            "ORG/GOV",
+            "Loyal",
+            "Zuma",
+            "PERSON"
+        ],
+        [
+            "Markets",
+            "ORG/REG",
+            "Doubt",
+            "Rand Rebound",
+            "CONCEPT"
+        ],
+        [
+            "Markets",
+            "ORG/REG",
+            "Optimism",
+            "Ramaphosa Reform",
+            "CONCEPT"
+        ],
+        [
+            "Rand",
+            "FIN_INSTRUMENT",
+            "Appreciate",
+            "US Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Rand",
+            "FIN_INSTRUMENT",
+            "Rally",
+            "Zuma Ousted",
+            "CONCEPT"
+        ],
+        [
+            "South African Chamber of Commerce and Industry",
+            "ORG",
+            "Announce",
+            "Positive Business Mood",
+            "CONCEPT"
+        ],
+        [
+            "South African Chamber of Commerce and Industry",
+            "ORG",
+            "Expect",
+            "Encouraging Business and Economic Policy Options",
+            "CONCEPT"
+        ],
+        [
+            "Piotr Matys",
+            "PERSON",
+            "Emerging Market Strategist",
+            "Rabobank",
+            "ORG"
+        ],
+        [
+            "Piotr Matys",
+            "PERSON",
+            "Told",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Piotr Matys",
+            "PERSON",
+            "Optimistic",
+            "Ramaphosa Implement Reforms",
+            "CONCEPT"
+        ],
+        [
+            "ANC Officials",
+            "ORG",
+            "Loyal",
+            "Zuma",
+            "PERSON"
+        ],
+        [
+            "Ben Payton",
+            "PERSON",
+            "Head",
+            "Africa",
+            "ORG"
+        ],
+        [
+            "Ben Payton",
+            "PERSON",
+            "Write",
+            "Note",
+            "ORG"
+        ],
+        [
+            "Payton",
+            "PERSON",
+            "Power Transfer",
+            "Ramaphosa Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Payton",
+            "PERSON",
+            "After 2019",
+            "Prevent Ramaphosa Agenda",
+            "CONCEPT"
+        ]
+    ]
+}

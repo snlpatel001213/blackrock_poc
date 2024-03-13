@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Work_For",
+            "Harvard University",
+            "ORG"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Plan_To",
+            "Journalism Career",
+            "SECTOR"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Plan_To",
+            "Academia Career",
+            "SECTOR"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Get",
+            "104.7-degree fever",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Experience",
+            "Recurring infections",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Experience",
+            "Dizzy spells",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Experience",
+            "Sound sensitivity",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Experience",
+            "Light sensitivity",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Unable_To",
+            "Get_Out_Of_Bed",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Unable_To",
+            "Speak",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Visit",
+            "Kenya",
+            "GPE"
+        ],
+        [
+            "Doctors",
+            "ORG",
+            "Unable_To",
+            "Give_Diagnosis",
+            "EVENT"
+        ],
+        [
+            "Jennifer Brea",
+            "PERSON",
+            "Have",
+            "More_Than_A_Year",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "#TimesUp",
+            "CONCEPT",
+            "Has",
+            "More than 300 show business figures",
+            "PERSON"
+        ],
+        [
+            "More than 300 show business figures",
+            "PERSON",
+            "Participates_In",
+            "Campaign against sexual harassment",
+            "CONCEPT"
+        ]
+    ]
+}

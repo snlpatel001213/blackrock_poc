@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "People",
+            "PERSON",
+            "Participates_In",
+            "Using Smart Speakers",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Announce",
+            "Research",
+            "EVENT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Operate_In",
+            "Peerless",
+            "ORG"
+        ],
+        [
+            "62%",
+            "ECON_INDICATOR",
+            "Raise",
+            "Likelihood_of_Shopping_Through_Speaker",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Control",
+            "Google Home",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Control",
+            "Alexa",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Has",
+            "Big_Plans_for_Sponsored_Products_Ads",
+            "CONCEPT"
+        ],
+        [
+            "Brands",
+            "ORG",
+            "Relate_To",
+            "Promoting_Products",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "Experience_with_Paid_Product_Searches",
+            "CONCEPT"
+        ]
+    ]
+}

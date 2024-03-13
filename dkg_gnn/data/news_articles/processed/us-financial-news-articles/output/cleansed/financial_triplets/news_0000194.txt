@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Brookline Bancorp, Inc.",
+            "ORG",
+            "Announce",
+            "fourth quarter 2017 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brookline Bancorp, Inc.",
+            "ORG",
+            "Operate_In",
+            "eastern Massachusetts and Rhode Island",
+            "GPE"
+        ],
+        [
+            "Brookline Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "Bank Rhode Island",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "First Ipswich Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "output": [
+        [
+            "Trump lawyers",
+            "PERSON",
+            "Send",
+            "cease and desist letter",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Receive",
+            "cease and desist letter",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Breach",
+            "agreement",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Communicate",
+            "author Wolff",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Make",
+            "disparaging remarks",
+            "EVENT",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Make",
+            "disparaging remarks",
+            "EVENT",
+            "Trump family",
+            "PERSON"
+        ]
+    ]
+}

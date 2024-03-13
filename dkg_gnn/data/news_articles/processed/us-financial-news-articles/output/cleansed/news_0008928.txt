@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Angel Yeast Co Ltd.",
+            "COMP",
+            "Receive",
+            "Government Subsidies",
+            "ORG/GOV"
+        ],
+        [
+            "Angel Yeast Co Ltd.",
+            "COMP",
+            "Operate_In",
+            "Beijing",
+            "GPE"
+        ],
+        [
+            "Government Subsidies",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Angel Yeast Co Ltd.",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Powerful winter storm",
+            "EVENT",
+            "Impact",
+            "Florida citrus industry",
+            "SECTOR"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Relate_To",
+            "Citrus greening",
+            "CONCEPT"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Negative_Impact_On",
+            "46 million boxes of the fruit",
+            "QUANTITY"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Declare",
+            "States of emergency",
+            "EVENT"
+        ],
+        [
+            "Powerful winter storm",
+            "EVENT",
+            "Knock_Out",
+            "Power",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Powerful winter storm",
+            "EVENT",
+            "Ice_Over",
+            "Roadways",
+            "CONCEPT"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Negative_Impact_On",
+            "American orange juice",
+            "PRODUCT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Expect",
+            "Icy roads and freezing temperatures",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "White House",
+            "GPE",
+            "Public_Reopening",
+            "1812",
+            "EVENT"
+        ],
+        [
+            "British",
+            "GPE",
+            "Burn",
+            "White House",
+            "GPE"
+        ],
+        [
+            "President James Madison",
+            "PERSON",
+            "Send_Fleeing",
+            "White House",
+            "GPE"
+        ],
+        [
+            "Founding Fathers",
+            "PERSON",
+            "Begin_Problems",
+            "White House",
+            "GPE"
+        ]
+    ]
+}

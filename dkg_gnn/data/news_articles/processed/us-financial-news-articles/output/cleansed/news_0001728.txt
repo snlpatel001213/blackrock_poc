@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "MetLife",
+            "ORG",
+            "Announce",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Operate_In",
+            "Financial Services Sector",
+            "SECTOR"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Release",
+            "Earnings News Release",
+            "EVENT"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Release",
+            "Fourth Quarter 2017 Financial Supplement",
+            "EVENT"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Available_Via",
+            "Telephone",
+            "ORG"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Available_Via",
+            "Internet",
+            "ORG"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Replay_Available_Via",
+            "Telephone",
+            "ORG"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Replay_Available_Via",
+            "Internet",
+            "ORG"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Hold",
+            "Fourth Quarter and Full Year 2017 Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Issue",
+            "Earnings News Release",
+            "EVENT"
+        ],
+        [
+            "MetLife",
+            "ORG",
+            "Release",
+            "Fourth Quarter 2017 Financial Supplement",
+            "EVENT"
+        ]
+    ]
+}

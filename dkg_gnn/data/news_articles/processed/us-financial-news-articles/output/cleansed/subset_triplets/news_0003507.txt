@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Flavio Dino",
+            "PERSON"
+        ],
+        [
+            "Flavio Dino",
+            "PERSON",
+            "Relate_To",
+            "Governor",
+            "PERSON"
+        ],
+        [
+            "Governor",
+            "PERSON",
+            "Operate_In",
+            "Maranh\u00e3o state",
+            "GPE"
+        ],
+        [
+            "Flavio Dino",
+            "PERSON",
+            "Negative_Impact_On",
+            "Sarney",
+            "PERSON"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Temer",
+            "PERSON"
+        ]
+    ]
+}

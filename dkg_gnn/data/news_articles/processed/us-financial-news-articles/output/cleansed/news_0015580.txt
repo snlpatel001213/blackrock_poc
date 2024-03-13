@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "Tantech Holdings Ltd",
+            "COMP",
+            "Acquire",
+            "Lishui Xincai Industrial Co Ltd",
+            "ORG"
+        ],
+        [
+            "Lishui Xincai Industrial Co Ltd",
+            "ORG",
+            "Operate_In",
+            "Marble Mining",
+            "SECTOR"
+        ],
+        [
+            "Tantech Holdings Ltd",
+            "COMP",
+            "Control",
+            "18% stake",
+            "ECON_INDICATOR",
+            "Libo Haokun",
+            "GPE"
+        ],
+        [
+            "Tantech Holdings Ltd",
+            "COMP",
+            "Fund",
+            "Acquisition",
+            "EVENT",
+            "Existing Cash Resources",
+            "ECON_INDICATOR",
+            "Accounts Receivable",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

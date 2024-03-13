@@ -1,0 +1,21 @@
+{
+    "output": [
+        [
+            "Citibank",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Office of the Comptroller of the Currency",
+            "ORG/GOV",
+            "Announce",
+            "fine",
+            "FIN_INSTRUMENT",
+            "on",
+            "Thursday",
+            "EVENT"
+        ]
+    ]
+}

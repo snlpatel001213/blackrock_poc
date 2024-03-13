@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Announce",
+            "Completed Acquisition",
+            "ORG"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Has",
+            "$815 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Operate_In",
+            "Valley Forge, Pa.",
+            "GPE"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Operate_In",
+            "50+ Countries",
+            "GPE"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Ranked",
+            "#11",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Has",
+            "More Than $150 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "H. D. Smith",
+            "ORG",
+            "Acquired_By",
+            "AmerisourceBergen Corporation",
+            "ORG"
+        ],
+        [
+            "H. D. Smith",
+            "ORG",
+            "Largest Independent Wholesaler",
+            "null"
+        ],
+        [
+            "H. D. Smith",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

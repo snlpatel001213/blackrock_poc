@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S.-stock fund",
+            "FIN_INSTRUMENT",
+            "Has",
+            "18.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "International-stock funds",
+            "FIN_INSTRUMENT",
+            "Has",
+            "26.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.-stock fund",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "International-stock funds",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

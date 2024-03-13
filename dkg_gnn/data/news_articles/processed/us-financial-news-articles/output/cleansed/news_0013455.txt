@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Appoint",
+            "Alb\u00e9ric Chopelin",
+            "PERSON"
+        ],
+        [
+            "Alb\u00e9ric Chopelin",
+            "PERSON",
+            "Operate_In",
+            "Group Sales & Marketing Office",
+            "ORG"
+        ],
+        [
+            "Group Sales & Marketing Office",
+            "ORG",
+            "Control",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Group Sales & Marketing Office",
+            "ORG",
+            "Control",
+            "Citro\u00ebn",
+            "COMP"
+        ],
+        [
+            "Group Sales & Marketing Office",
+            "ORG",
+            "Control",
+            "DS Automobiles",
+            "COMP"
+        ],
+        [
+            "Group Sales & Marketing Office",
+            "ORG",
+            "Control",
+            "Opel",
+            "COMP"
+        ],
+        [
+            "Group Sales & Marketing Office",
+            "ORG",
+            "Control",
+            "Vauxhall",
+            "COMP"
+        ],
+        [
+            "Alb\u00e9ric Chopelin",
+            "PERSON",
+            "Succeed",
+            "Stephen Norman",
+            "PERSON"
+        ],
+        [
+            "Stephen Norman",
+            "PERSON",
+            "Operate_In",
+            "Vauxhall UK",
+            "COMP"
+        ],
+        [
+            "Stephen Norman",
+            "PERSON",
+            "Operate_In",
+            "OPEL Ireland",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "Citro\u00ebn",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "DS",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "Opel",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "Vauxhall",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Produce",
+            "Free2Move",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Control",
+            "Banque PSA Finance",
+            "COMP"
+        ],
+        [
+            "Groupe PSA",
+            "ORG/REG",
+            "Control",
+            "Faurecia",
+            "COMP"
+        ]
+    ]
+}

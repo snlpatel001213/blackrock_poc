@@ -1,0 +1,135 @@
+{
+    "output": [
+        [
+            "Weather disasters",
+            "EVENT",
+            "Cost",
+            "US",
+            "GPE",
+            "Record_Amount",
+            "$306 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US",
+            "GPE",
+            "Record_Amount",
+            "$306 billion",
+            "ECON_INDICATOR",
+            "In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "NOAA",
+            "ORG",
+            "Report",
+            "Underscores",
+            "Economic_Risks",
+            "Of",
+            "Disasters",
+            "EVENT"
+        ],
+        [
+            "Trump\u2019s administration",
+            "ORG/GOV",
+            "Casts_Doubts_On",
+            "Causes",
+            "CONCEPT",
+            "Of",
+            "Disasters",
+            "EVENT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Started_Withdrawing",
+            "Global_Pact",
+            "EVENT",
+            "To_Combat",
+            "Climate_Change",
+            "CONCEPT"
+        ],
+        [
+            "Western wildfires",
+            "EVENT",
+            "Hurricanes",
+            "Harvey, Maria and Irma",
+            "EVENT",
+            "Contributed_To",
+            "Costliest_Year",
+            "SECTOR"
+        ],
+        [
+            "2005",
+            "TIME",
+            "Record",
+            "$215 billion",
+            "ECON_INDICATOR",
+            "When",
+            "Katrina, Wilma and Rita",
+            "EVENT",
+            "Slammed",
+            "US",
+            "GPE"
+        ],
+        [
+            "Contiguous United States",
+            "GPE",
+            "Average_Annual_Temperature",
+            "54.6 degrees Fahrenheit",
+            "ECON_INDICATOR",
+            "In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "20th-century",
+            "TIME",
+            "Average",
+            "2.6 degrees Fahrenheit",
+            "ECON_INDICATOR",
+            "Above",
+            "Recordkeeping_Begin",
+            "TIME"
+        ],
+        [
+            "Durbin",
+            "PERSON",
+            "Tweeted",
+            "Response",
+            "RELATE_TO",
+            "Report"
+        ],
+        [
+            "Climate_Change",
+            "CONCEPT",
+            "Cost",
+            "US",
+            "GPE",
+            "Trillions_More",
+            "Next_Decade",
+            "TIME"
+        ],
+        [
+            "Scientists",
+            "PERSON",
+            "Concluded",
+            "Carbon_Dioxide",
+            "ECON_INDICATOR",
+            "Driving",
+            "Climate_Change",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Promised",
+            "Boost",
+            "US",
+            "GPE",
+            "Oil, gas and coal production",
+            "SECTOR"
+        ]
+    ]
+}

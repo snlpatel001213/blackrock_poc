@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Powerful winter storm",
+            "EVENT",
+            "Impact",
+            "Florida citrus industry",
+            "SECTOR"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Relate_To",
+            "Citrus greening",
+            "CONCEPT"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Florida citrus industry",
+            "SECTOR",
+            "Negative_Impact_On",
+            "American orange juice",
+            "PRODUCT"
+        ]
+    ]
+}

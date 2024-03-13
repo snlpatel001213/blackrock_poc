@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Has",
+            "Toyota Motor Corp",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp",
+            "ORG",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Control",
+            "NUMMI",
+            "ORG"
+        ],
+        [
+            "NUMMI",
+            "ORG",
+            "Relate_To",
+            "General Motors Co",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Impact",
+            "Toyota Motor Corp",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp",
+            "ORG",
+            "Produce",
+            "Automobiles",
+            "PRODUCT"
+        ]
+    ]
+}

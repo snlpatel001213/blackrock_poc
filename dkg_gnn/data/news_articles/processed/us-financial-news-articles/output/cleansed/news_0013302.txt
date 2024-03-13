@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Ain Sefra",
+            "GPE",
+            "Has",
+            "Snow",
+            "EVENT"
+        ],
+        [
+            "Ain Sefra",
+            "GPE",
+            "Operate_In",
+            "Sahara Desert",
+            "GPE"
+        ],
+        [
+            "Ain Sefra",
+            "GPE",
+            "Operate_In",
+            "Atlas Mountains",
+            "GPE"
+        ],
+        [
+            "Snow",
+            "EVENT",
+            "Negative_Impact_On",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "Temperature",
+            "CONCEPT",
+            "Equal",
+            "1 degree Celsius",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Temperature",
+            "CONCEPT",
+            "Equal",
+            "33.8 Fahrenheit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sahara Desert",
+            "GPE",
+            "Known_As",
+            "Gateway_to_Sahara_Desert",
+            "CONCEPT"
+        ],
+        [
+            "Sahara Desert",
+            "GPE",
+            "Has",
+            "Sand_Dunes",
+            "PRODUCT"
+        ],
+        [
+            "Sand_Dunes",
+            "PRODUCT",
+            "Has",
+            "Ice",
+            "EVENT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Participates_In",
+            "Sliding",
+            "EVENT"
+        ],
+        [
+            "Sliding",
+            "EVENT",
+            "Relate_To",
+            "Sand_Dunes",
+            "PRODUCT"
+        ],
+        [
+            "Sliding",
+            "EVENT",
+            "Relate_To",
+            "Ice",
+            "EVENT"
+        ],
+        [
+            "December, 2016",
+            "DATE",
+            "Has",
+            "Snow",
+            "EVENT"
+        ],
+        [
+            "December, 2016",
+            "DATE",
+            "Relate_To",
+            "Snow_Falling",
+            "EVENT"
+        ],
+        [
+            "Many_Years",
+            "TIME",
+            "Relate_To",
+            "Snow_Falling",
+            "EVENT"
+        ],
+        [
+            "Writing",
+            "EVENT",
+            "Control",
+            "Patrick_Johnston",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "Control",
+            "Ed_Osmond",
+            "PERSON"
+        ]
+    ]
+}

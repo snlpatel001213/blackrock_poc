@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Discuss",
+            "Fiscal First Quarter 2018 Financial Results",
+            "CONCEPT"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Release",
+            "Results",
+            "CONCEPT"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Operate_In",
+            "BURBANK, Calif.",
+            "GPE"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Announce",
+            "Live Audio Webcast",
+            "PRODUCT"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Control",
+            "NYSE: DIS",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Has",
+            "Lowell Singer",
+            "PERSON"
+        ],
+        [
+            "Lowell Singer",
+            "PERSON",
+            "Job_Title",
+            "Investor Relations",
+            "SECTOR"
+        ],
+        [
+            "The Walt Disney Company",
+            "ORG",
+            "Has",
+            "Zenia Mucha",
+            "PERSON"
+        ],
+        [
+            "Zenia Mucha",
+            "PERSON",
+            "Job_Title",
+            "Corporate Communications",
+            "SECTOR"
+        ]
+    ]
+}

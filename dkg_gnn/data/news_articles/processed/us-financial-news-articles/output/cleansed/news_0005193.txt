@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Entergy Corp",
+            "ORG",
+            "Control",
+            "Pilgrim",
+            "COMP"
+        ],
+        [
+            "Pilgrim",
+            "COMP",
+            "Shut",
+            "Nuclear Power Plant",
+            "COMP"
+        ],
+        [
+            "Pilgrim",
+            "COMP",
+            "Fail",
+            "Line",
+            "ORG"
+        ],
+        [
+            "Line",
+            "ORG",
+            "Connect",
+            "Pilgrim",
+            "COMP"
+        ],
+        [
+            "Pilgrim",
+            "COMP",
+            "Operate_In",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "ISO New England",
+            "ORG/REG",
+            "Operate",
+            "New England electric grid",
+            "ORG"
+        ],
+        [
+            "ISO New England",
+            "ORG/REG",
+            "Keep",
+            "Reserves",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reserves",
+            "ECON_INDICATOR",
+            "Over",
+            "2,100 MW",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pilgrim",
+            "COMP",
+            "Loss",
+            "Further_Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Region",
+            "GPE",
+            "Receive",
+            "Electricity",
+            "PRODUCT"
+        ],
+        [
+            "Region",
+            "GPE",
+            "Get",
+            "Half of its power",
+            "CONCEPT"
+        ],
+        [
+            "Region",
+            "GPE",
+            "Receive",
+            "More electricity",
+            "PRODUCT"
+        ],
+        [
+            "Region",
+            "GPE",
+            "From",
+            "Oil-fired units",
+            "COMP"
+        ],
+        [
+            "Pilgrim",
+            "COMP",
+            "Shut",
+            "Thursday afternoon",
+            "EVENT"
+        ],
+        [
+            "Entergy",
+            "ORG",
+            "Work",
+            "Determine",
+            "CONCEPT"
+        ],
+        [
+            "Cause",
+            "CONCEPT",
+            "Determine",
+            "Line loss",
+            "ORG"
+        ],
+        [
+            "Plant",
+            "COMP",
+            "Operate",
+            "Full power",
+            "CONCEPT"
+        ],
+        [
+            "Plant",
+            "COMP",
+            "Perform",
+            "Preventive maintenance",
+            "CONCEPT"
+        ],
+        [
+            "Plant",
+            "COMP",
+            "Complete",
+            "Refueling outage",
+            "EVENT"
+        ],
+        [
+            "May 2017",
+            "DATE",
+            "Following",
+            "Refueling outage",
+            "EVENT"
+        ]
+    ]
+}

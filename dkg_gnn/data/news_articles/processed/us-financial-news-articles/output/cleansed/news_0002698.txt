@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Philippines",
+            "GPE",
+            "Fine",
+            "Sanofi",
+            "ORG"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Suspend",
+            "Dengvaxia",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi",
+            "ORG",
+            "Violate",
+            "Product Registration",
+            "ORG"
+        ],
+        [
+            "Sanofi",
+            "ORG",
+            "Violate",
+            "Marketing",
+            "ORG"
+        ],
+        [
+            "Sanofi",
+            "ORG",
+            "Produce",
+            "Dengvaxia",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi Pasteur",
+            "ORG",
+            "Cooperate",
+            "Philippines FDA",
+            "ORG/GOV"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Spend",
+            "3.5 billion pesos",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Operate_In",
+            "Dengue Cases",
+            "CONCEPT"
+        ]
+    ]
+}

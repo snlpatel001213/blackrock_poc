@@ -1,0 +1,197 @@
+{
+    "output": [
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Operate_In",
+            "Oldphoneworks.com",
+            "ORG"
+        ],
+        [
+            "Oldphoneworks.com",
+            "ORG",
+            "Sell",
+            "Antique Phones",
+            "PRODUCT"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Buy",
+            "Antique Phones",
+            "PRODUCT"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Sold",
+            "50-store cellphone chain",
+            "ORG"
+        ],
+        [
+            "Small Companies",
+            "ORG",
+            "Do_Well_By",
+            "Selling",
+            "Operate_In",
+            "Niche Products",
+            "PRODUCT"
+        ],
+        [
+            "Dr. Jonathan Finder",
+            "PERSON",
+            "Start",
+            "Oldphones.com",
+            "ORG"
+        ],
+        [
+            "Dr. Jonathan Finder",
+            "PERSON",
+            "Keep",
+            "At_It",
+            "Operate_In",
+            "Business",
+            "ORG"
+        ],
+        [
+            "Entrepreneurs",
+            "PERSON",
+            "Sell",
+            "Vintage Sales",
+            "PRODUCT",
+            "As_A_Sideline"
+        ],
+        [
+            "Vintage Sales",
+            "PRODUCT",
+            "Hurt",
+            "Business",
+            "ORG"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Revenue",
+            "50,000 Canadian Dollars",
+            "ECON_INDICATOR",
+            "In_A_Good_Month"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Sales",
+            "Show",
+            "Consistent_Year-to-Year_Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oldphoneworks.com",
+            "ORG",
+            "Use",
+            "Reproduction Parts",
+            "PRODUCT"
+        ],
+        [
+            "Oldphoneworks.com",
+            "ORG",
+            "Repair_And_Refurbish",
+            "Models",
+            "PRODUCT"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Repeat_Buyers",
+            "And",
+            "One-Offs",
+            "PRODUCT"
+        ],
+        [
+            "Inventory",
+            "PRODUCT",
+            "Come",
+            "From",
+            "Individuals_Or_Estates",
+            "PERSON"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Average_Telephone_Sale",
+            "$250",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Average_Investment",
+            "$50",
+            "ECON_INDICATOR",
+            "Not_Counting",
+            "Labor_Cost"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Range",
+            "$100",
+            "To",
+            "$8,000",
+            "For",
+            "Rare_Model",
+            "PRODUCT"
+        ],
+        [
+            "Oldphoneworks.com",
+            "ORG",
+            "Offer",
+            "One-Year_Repair-Or-Replace_Warranty",
+            "PRODUCT"
+        ],
+        [
+            "Don Woodbury",
+            "PERSON",
+            "Make_Updating_Social_Media",
+            "A_Top_Priority",
+            "PRODUCT"
+        ],
+        [
+            "Beth Howe",
+            "PERSON",
+            "Buy",
+            "Western_Electric_302",
+            "PRODUCT"
+        ],
+        [
+            "TV_And_Movie_Industries",
+            "ORG",
+            "Account",
+            "For",
+            "15%",
+            "ECON_INDICATOR",
+            "Of_The_Firm\u2019s_Revenue"
+        ],
+        [
+            "Oldphoneworks.com",
+            "ORG",
+            "Supply",
+            "Certain_Style",
+            "PRODUCT",
+            "To",
+            "TV_And_Movie_Industries",
+            "ORG"
+        ],
+        [
+            "Staff",
+            "PERSON",
+            "See",
+            "Immediate_Blip_In_Sales",
+            "ECON_INDICATOR",
+            "When",
+            "Certain_Style",
+            "PRODUCT",
+            "Appears",
+            "On_The_Screen"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Linda R. Medler",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Martin Pfinsgraff",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Linda R. Medler",
+            "PERSON",
+            "Participates_In",
+            "Risk Committee",
+            "ORG"
+        ],
+        [
+            "Linda R. Medler",
+            "PERSON",
+            "Participates_In",
+            "Technology Subcommittee of the Risk Committee",
+            "ORG"
+        ],
+        [
+            "Martin Pfinsgraff",
+            "PERSON",
+            "Participates_In",
+            "Audit Committee",
+            "ORG"
+        ],
+        [
+            "Martin Pfinsgraff",
+            "PERSON",
+            "Participates_In",
+            "Risk Committee",
+            "ORG"
+        ],
+        [
+            "Linda R. Medler",
+            "PERSON",
+            "Is_Member_Of",
+            "PNC Bank, National Association",
+            "ORG"
+        ],
+        [
+            "Martin Pfinsgraff",
+            "PERSON",
+            "Is_Member_Of",
+            "PNC Bank, National Association",
+            "ORG"
+        ]
+    ]
+}

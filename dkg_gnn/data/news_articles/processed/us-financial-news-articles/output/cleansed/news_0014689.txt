@@ -1,0 +1,265 @@
+{
+    "output": [
+        [
+            "LAHORE, Pakistan",
+            "GPE",
+            "Locate",
+            "Protest",
+            "EVENT"
+        ],
+        [
+            "Two civilians",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Officers",
+            "PERSON",
+            "Fire",
+            "Live rounds",
+            "ORG/GOV"
+        ],
+        [
+            "Crowds",
+            "PERSON",
+            "Attack",
+            "Police station",
+            "ORG/GOV"
+        ],
+        [
+            "Protest",
+            "EVENT",
+            "Relate_To",
+            "Rape and murder",
+            "CONCEPT"
+        ],
+        [
+            "Zainab Ansari",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Recover",
+            "Body",
+            "PERSON"
+        ],
+        [
+            "Town",
+            "GPE",
+            "Be",
+            "Kasur",
+            "GPE"
+        ],
+        [
+            "Girl",
+            "PERSON",
+            "Be",
+            "Adducted",
+            "null"
+        ],
+        [
+            "Rapist",
+            "PERSON",
+            "Kill",
+            "Girl",
+            "PERSON"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Furious",
+            "Authorities",
+            "ORG/GOV"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Fail",
+            "Investigate",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Turn",
+            "Violent",
+            "null"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Attack",
+            "Local police office",
+            "ORG/GOV"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Shoot",
+            "Bullets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Resort",
+            "Aerial firing",
+            "null"
+        ],
+        [
+            "Two people",
+            "PERSON",
+            "Kill",
+            "null"
+        ],
+        [
+            "One",
+            "NUM",
+            "Wound",
+            "null"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Respond",
+            "Undue force",
+            "CONCEPT"
+        ],
+        [
+            "Protest",
+            "EVENT",
+            "Peaceful",
+            "null"
+        ],
+        [
+            "Students",
+            "PERSON",
+            "Throw",
+            "Stones",
+            "PRODUCT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Fire",
+            "At crowd",
+            "PERSON"
+        ],
+        [
+            "Law and order",
+            "CONCEPT",
+            "Bad",
+            "null"
+        ],
+        [
+            "Many",
+            "NUM",
+            "Such incidents",
+            "null"
+        ],
+        [
+            "Protest",
+            "EVENT",
+            "About",
+            "Such incidents",
+            "CONCEPT"
+        ],
+        [
+            "Ansari\u2019s parents",
+            "PERSON",
+            "Return",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Zainab\u2019s mother",
+            "PERSON",
+            "Cry",
+            "Justice",
+            "CONCEPT"
+        ],
+        [
+            "Ansari\u2019s case",
+            "EVENT",
+            "Attract",
+            "Attention",
+            "CONCEPT"
+        ],
+        [
+            "Country\u2019s civilian and military leadership",
+            "ORG/GOV",
+            "Call",
+            "Action",
+            "CONCEPT"
+        ],
+        [
+            "Punjab Chief Minister",
+            "PERSON",
+            "Call",
+            "Action",
+            "CONCEPT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Deny",
+            "Lax",
+            "CONCEPT"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Arrest",
+            "Four kidnappers",
+            "PERSON"
+        ],
+        [
+            "Another",
+            "PERSON",
+            "Kill",
+            "During arrest attempt",
+            "CONCEPT"
+        ],
+        [
+            "Investigations",
+            "CONCEPT",
+            "Reveal",
+            "Paedophile kidnaps",
+            "PERSON"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Solve",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "CCTV footage",
+            "PRODUCT",
+            "Show",
+            "Young man",
+            "PERSON"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Take",
+            "95 DNA samples",
+            "CONCEPT"
+        ],
+        [
+            "Suspects",
+            "PERSON",
+            "null",
+            "null",
+            "null"
+        ]
+    ]
+}

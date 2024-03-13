@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Egyptian military court",
+            "ORG/GOV",
+            "Jail",
+            "One aspiring candidate",
+            "PERSON"
+        ],
+        [
+            "Egypt\u2019s election commission",
+            "ORG/GOV",
+            "Disqualify",
+            "Another",
+            "PERSON"
+        ],
+        [
+            "Another",
+            "PERSON",
+            "Stand_Trial",
+            "Egypt\u2019s election commission",
+            "ORG/GOV"
+        ],
+        [
+            "A third",
+            "PERSON",
+            "End_Candidacy",
+            "After_Weeks_of",
+            "Time"
+        ],
+        [
+            "A third",
+            "PERSON",
+            "House_Arrest",
+            "Luxury Cairo hotel",
+            "GPE"
+        ],
+        [
+            "President Abdel Fattah Al Sisi",
+            "PERSON",
+            "Eligible_Contender",
+            "With_Any_Chance_Of_Victory",
+            "CONCEPT"
+        ],
+        [
+            "Egypt\u2019s election commission",
+            "ORG/GOV",
+            "Set",
+            "Voting",
+            "EVENT"
+        ],
+        [
+            "Voting",
+            "EVENT",
+            "Hold",
+            "Over_Several_Days",
+            "Time"
+        ],
+        [
+            "Possible runoff",
+            "EVENT",
+            "In",
+            "April",
+            "Time"
+        ],
+        [
+            "Campaign",
+            "EVENT",
+            "Set_In_Motion",
+            "Monday",
+            "Time"
+        ]
+    ]
+}

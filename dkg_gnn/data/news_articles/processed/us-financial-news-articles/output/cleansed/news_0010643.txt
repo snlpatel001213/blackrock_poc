@@ -1,0 +1,129 @@
+{
+    "output": [
+        [
+            "Huawei",
+            "PERSON",
+            "Operate_In",
+            "Telecom Industry",
+            "SECTOR"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Introduce",
+            "Mate 10 Pro",
+            "PRODUCT"
+        ],
+        [
+            "AT&T",
+            "COMP",
+            "Walk_Away_From",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "AT&T",
+            "COMP",
+            "Participates_In",
+            "US Smartphone Market",
+            "SECTOR"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Has",
+            "0.5 pct Share",
+            "ECON_INDICATOR",
+            "Of",
+            "US Smartphone Market",
+            "SECTOR"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Plan",
+            "Partnership",
+            "EVENT",
+            "With",
+            "AT&T",
+            "COMP"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Commit",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Equip",
+            "AI-Powered Chips",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Flag",
+            "Smartphone Brand",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Plan",
+            "Spend",
+            "Raise",
+            "Brand Awareness",
+            "CONCEPT",
+            "In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Struggle",
+            "Make Hit",
+            "PRODUCT",
+            "In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Proprietary Mobile Chips",
+            "Present",
+            "Regulatory Hurdle",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Subject",
+            "US Investigation",
+            "EVENT",
+            "In",
+            "2012",
+            "DATE"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Deny",
+            "Link",
+            "Huawei",
+            "Espionage",
+            "CONCEPT"
+        ],
+        [
+            "AT&T",
+            "COMP",
+            "Decline",
+            "Comment",
+            "EVENT"
+        ]
+    ]
+}

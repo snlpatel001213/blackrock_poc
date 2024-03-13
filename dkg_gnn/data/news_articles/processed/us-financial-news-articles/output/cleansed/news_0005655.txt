@@ -1,0 +1,119 @@
+{
+    "output": [
+        [
+            "Gabriella Papadakis",
+            "PERSON",
+            "Participates_In",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "Guillaume Cizeron",
+            "PERSON",
+            "Participates_In",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "Tessa Virtue",
+            "PERSON",
+            "Participates_In",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "Scott Moir",
+            "PERSON",
+            "Participates_In",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Is_Member_Of",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Is_Member_Of",
+            "Ice Dance",
+            "CONCEPT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Set",
+            "World Record",
+            "EVENT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "End",
+            "Winning Streak",
+            "EVENT",
+            "of",
+            "Virtue and Moir",
+            "PERSON"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Score",
+            "Above 200",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Operate_In",
+            "Montreal",
+            "GPE"
+        ],
+        [
+            "Virtue and Moir",
+            "PERSON",
+            "Operate_In",
+            "Montreal",
+            "GPE"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Experience",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Skate_To",
+            "Ed Sheeran Songs",
+            "PRODUCT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Skate_To",
+            "Moonlight Sonata",
+            "PRODUCT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Look_Into",
+            "Each Other Eyes",
+            "CONCEPT"
+        ],
+        [
+            "Papadakis and Cizeron",
+            "PERSON",
+            "Feel",
+            "Connected",
+            "CONCEPT"
+        ]
+    ]
+}

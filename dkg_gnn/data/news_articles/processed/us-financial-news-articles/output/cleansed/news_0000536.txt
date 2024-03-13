@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Brent",
+            "ECON_INDICATOR",
+            "Begin",
+            "$60",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "WTI Crude",
+            "ECON_INDICATOR",
+            "Begin",
+            "$60",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Supply_Cuts",
+            "null",
+            "null"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Operate_In",
+            "null",
+            "null"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "Ongoing Supply Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Strong Demand",
+            "CONCEPT",
+            "Support",
+            "null",
+            "null"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "10 mln bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Production_Capacity",
+            "10 mln bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rystad",
+            "ORG",
+            "Announce",
+            "U.S. Production Capacity",
+            "CONCEPT"
+        ],
+        [
+            "Forties Pipeline System",
+            "PRODUCT",
+            "Return",
+            "null",
+            "null"
+        ],
+        [
+            "Libyan Pipeline",
+            "PRODUCT",
+            "Repair",
+            "null",
+            "null"
+        ],
+        [
+            "Global Oil Markets",
+            "CONCEPT",
+            "Supported",
+            "null",
+            "null"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Production Cuts",
+            "null",
+            "null"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Participate_In",
+            "Production Cuts",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Support",
+            "null",
+            "null"
+        ],
+        [
+            "Oil Inventories",
+            "CONCEPT",
+            "Decline",
+            "Since March 2017",
+            "TIME"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Agree",
+            "Extend Production Cuts",
+            "CONCEPT"
+        ],
+        [
+            "End",
+            "TIME",
+            "Production Cuts",
+            "null",
+            "null"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Operate_In",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "U.S. Shale Output",
+            "CONCEPT",
+            "Stoked",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Commercial Crude Oil Inventories",
+            "CONCEPT",
+            "Fall",
+            "Almost 20%",
+            "PERCENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "9.75 mln bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Crude Oil Production Capacity",
+            "CONCEPT",
+            "Reach",
+            "10 mln bpd",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

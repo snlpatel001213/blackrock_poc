@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "28 Northern Cities",
+            "GPE"
+        ],
+        [
+            "28 Northern Cities",
+            "GPE",
+            "Participates_In",
+            "Winter Anti-Smog Campaign",
+            "EVENT"
+        ],
+        [
+            "28 Northern Cities",
+            "GPE",
+            "Exceed",
+            "Air Quality Targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "28 Northern Cities",
+            "GPE",
+            "Cut",
+            "Concentrations of Small Particles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MEP",
+            "ORG/GOV",
+            "Announce",
+            "Exceed of Targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MEP",
+            "ORG/GOV",
+            "Cite",
+            "Meteorologists",
+            "ORG"
+        ],
+        [
+            "January",
+            "EVENT",
+            "Impact",
+            "Smog Dispersal",
+            "EVENT"
+        ],
+        [
+            "Shijiazhuang",
+            "GPE",
+            "See",
+            "Big Improvement",
+            "EVENT"
+        ],
+        [
+            "Shijiazhuang",
+            "GPE",
+            "Fall",
+            "PM2.5",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shijiazhuang",
+            "GPE",
+            "Higher",
+            "China\u2019s 35 Microgram Standard",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "See",
+            "PM2.5 Drop",
+            "ECON_INDICATOR"
+        ],
+        [
+            "City Environmental Officials",
+            "ORG",
+            "Say",
+            "Drier and Windier Weather Conditions",
+            "EVENT"
+        ],
+        [
+            "28 Northern Cities",
+            "GPE",
+            "Meet",
+            "October Targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Met",
+            "2017 Air Quality Targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winter Campaign",
+            "EVENT",
+            "Not",
+            "Without Controversy",
+            "CONCEPT"
+        ],
+        [
+            "Businesses",
+            "ORG",
+            "Complain",
+            "Overzealous Crackdowns",
+            "EVENT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Complain",
+            "Surging Gas Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Complain",
+            "Supply Shortages",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

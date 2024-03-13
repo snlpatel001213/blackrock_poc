@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Freddie Mac",
+            "ORG/GOV",
+            "Announce",
+            "forgo issuing a reference notes security",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Freddie Mac",
+            "ORG/GOV",
+            "Operate_In",
+            "January 10, 2018 Announcement Date",
+            "EVENT"
+        ],
+        [
+            "Federal Home Loan Mortgage Corp",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Freddie Mac",
+            "ORG/GOV"
+        ]
+    ]
+}

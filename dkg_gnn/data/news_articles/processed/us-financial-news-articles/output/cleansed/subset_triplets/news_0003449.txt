@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "White House",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Control",
+            "Presidency",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Trump Campaign",
+            "ORG"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Produce",
+            "Disparaging Statements",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Produce",
+            "Defamatory Statements",
+            "CONCEPT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Raise",
+            "Possible Claims",
+            "CONCEPT"
+        ],
+        [
+            "Breitbart News",
+            "COMP",
+            "Operate_In",
+            "Media Sector",
+            "SECTOR"
+        ]
+    ]
+}

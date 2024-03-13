@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Trim",
+            "Japanese government bonds",
+            "ORG/REG"
+        ],
+        [
+            "BOJ",
+            "ORG/REG",
+            "Impact",
+            "10-year U.S. Treasury note yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOJ",
+            "ORG/REG",
+            "Raise",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/REG",
+            "Relate_To",
+            "Monetary stimulus",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Sensitive_To",
+            "Monetary policy backdrop",
+            "CONCEPT"
+        ],
+        [
+            "Tuesday",
+            "EVENT",
+            "Has",
+            "Corporate debt supply",
+            "COMP"
+        ],
+        [
+            "Sempra Energy",
+            "COMP",
+            "Issue",
+            "New debt",
+            "PRODUCT"
+        ],
+        [
+            "Athene Holding Ltd",
+            "COMP",
+            "Issue",
+            "New debt",
+            "PRODUCT"
+        ],
+        [
+            "$9.05 billion",
+            "ECON_INDICATOR",
+            "Reach",
+            "Market",
+            "COMP"
+        ],
+        [
+            "January",
+            "EVENT",
+            "Expect",
+            "Investment-grade corporate supply",
+            "COMP"
+        ],
+        [
+            "More duration",
+            "ECON_INDICATOR",
+            "Hit",
+            "Market",
+            "COMP"
+        ],
+        [
+            "Bear steepening move",
+            "CONCEPT",
+            "Result_In",
+            "This",
+            "PRONOUN"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "COMP",
+            "Set",
+            "Lifetime records",
+            "EVENT"
+        ],
+        [
+            "S&P 500",
+            "COMP",
+            "Set",
+            "Lifetime records",
+            "EVENT"
+        ],
+        [
+            "Nasdaq Composite",
+            "COMP",
+            "Set",
+            "Lifetime records",
+            "EVENT"
+        ],
+        [
+            "Yields on 3-year notes",
+            "ECON_INDICATOR",
+            "Rise",
+            "Highest since 2007",
+            "DATE"
+        ],
+        [
+            "U.S. Treasury Department",
+            "ORG/GOV",
+            "Sell",
+            "$24 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New supply",
+            "PRODUCT",
+            "Auction",
+            "U.S. Treasury Department",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. 10-year note yielded",
+            "ECON_INDICATOR",
+            "2.546 percent",
+            "At 2:50 p.m. EST (1950 GMT)",
+            "TIME"
+        ],
+        [
+            "3-year note yield",
+            "ECON_INDICATOR",
+            "Sensitive",
+            "Traders views on Fed policy",
+            "CONCEPT"
+        ],
+        [
+            "3-year note yield",
+            "ECON_INDICATOR",
+            "Highest",
+            "Since the instrument was reissued in 2007",
+            "DATE"
+        ],
+        [
+            "U.S. 10-year note yielded",
+            "ECON_INDICATOR",
+            "2.546 percent",
+            "At 2:50 p.m. EST (1950 GMT)",
+            "TIME"
+        ],
+        [
+            "3-year note yield",
+            "ECON_INDICATOR",
+            "2.074 percent",
+            "At 2:53 p.m. ET (1953 GMT)",
+            "TIME"
+        ],
+        [
+            "U.S. 30-year bond yielded",
+            "ECON_INDICATOR",
+            "2.8808 percent",
+            "At 2:53 p.m. ET (1953 GMT)",
+            "TIME"
+        ],
+        [
+            "U.S. 2-year dollar swap",
+            "FIN_INSTRUMENT",
+            "19.25",
+            "U.S. 2-year dollar swap spread",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. 3-year dollar swap",
+            "FIN_INSTRUMENT",
+            "18.75",
+            "U.S. 3-year dollar swap spread",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. 5-year dollar swap",
+            "FIN_INSTRUMENT",
+            "4.00",
+            "U.S. 5-year dollar swap spread",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. 10-year dollar swap",
+            "FIN_INSTRUMENT",
+            "-1.50",
+            "U.S. 10-year dollar swap spread",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. 30-year dollar swap",
+            "FIN_INSTRUMENT",
+            "-21.00",
+            "U.S. 30-year dollar swap spread",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

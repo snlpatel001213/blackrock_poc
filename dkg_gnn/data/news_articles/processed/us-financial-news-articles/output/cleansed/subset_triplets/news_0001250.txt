@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Shanghai Composite index",
+            "GPE",
+            "Raise",
+            "21.77 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai Composite index",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "CSI300 index",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "consumer staples sector",
+            "SECTOR",
+            "Raise",
+            "1.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "real estate index",
+            "SECTOR",
+            "Raise",
+            "0.59 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "healthcare sub-index",
+            "SECTOR",
+            "Raise",
+            "0.03 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shenzhen index",
+            "GPE",
+            "Raise",
+            "0.77 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ChiNext Composite index",
+            "GPE",
+            "Raise",
+            "1.45 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MSCI\u2019s Asia ex-Japan stock index",
+            "GPE",
+            "Raise",
+            "0.32 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nikkei index",
+            "GPE",
+            "Decrease",
+            "0.08 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "yuan",
+            "GPE",
+            "Relate_To",
+            "U.S. dollar",
+            "GPE"
+        ],
+        [
+            "Hebei Baoshuo Co Ltd",
+            "COMP",
+            "Raise",
+            "10.04 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Anhui Leimingkehua Co Ltd",
+            "COMP",
+            "Raise",
+            "10.03 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai Tongji Science & Technology Industrial Co Ltd",
+            "COMP",
+            "Raise",
+            "10.03 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jiangsu Protruly Vision Technology Group Co Ltd",
+            "COMP",
+            "Decrease",
+            "5.01 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOCO Inter-Telecom Co Ltd",
+            "COMP",
+            "Decrease",
+            "4.98 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hangzhou TianMuShan Pharmaceutical Enterprise Co Ltd",
+            "COMP",
+            "Decrease",
+            "4.39 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai exchange",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Shanghai stock index",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

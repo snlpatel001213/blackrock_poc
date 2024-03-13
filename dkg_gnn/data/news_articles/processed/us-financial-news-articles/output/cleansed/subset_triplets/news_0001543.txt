@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "DuluxGroup Ltd",
+            "COMP",
+            "Announce",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "DGL Camel International",
+            "COMP",
+            "Is_Member_Of",
+            "DuluxGroup Ltd",
+            "COMP"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Selleys Brand",
+            "PRODUCT",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Selleys Brand",
+            "PRODUCT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Coatings Business",
+            "PRODUCT",
+            "Relate_To",
+            "Coating Materials",
+            "PRODUCT"
+        ],
+        [
+            "Coating Materials",
+            "PRODUCT",
+            "Operate_In",
+            "Building Products",
+            "PRODUCT"
+        ],
+        [
+            "Core Earning",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Core Earning",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

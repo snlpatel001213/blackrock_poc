@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Family RV Group",
+            "ORG",
+            "Announce",
+            "Acquisition of Dunlap RV Centers",
+            "EVENT"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Operate_In",
+            "Southeast and Midwest",
+            "GPE"
+        ],
+        [
+            "Dunlap RV Centers",
+            "ORG",
+            "Acquire",
+            "null",
+            "null"
+        ],
+        [
+            "Dunlap RV Centers",
+            "ORG",
+            "Located_In",
+            "Kentucky, Tennessee and Georgia",
+            "GPE"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Portfolio_Of",
+            "Kidd & Company, LLC",
+            "ORG/REG"
+        ],
+        [
+            "Kidd & Company, LLC",
+            "ORG/REG",
+            "Located_In",
+            "Old Greenwich, CT",
+            "GPE"
+        ],
+        [
+            "Wade Stepp",
+            "PERSON",
+            "State",
+            "Delight to announce acquisition",
+            "EVENT"
+        ],
+        [
+            "Family RV",
+            "ORG",
+            "Have",
+            "Steller reputation",
+            "CONCEPT"
+        ],
+        [
+            "Family RV",
+            "ORG",
+            "Deliver",
+            "Best-in-class sales and services",
+            "CONCEPT"
+        ],
+        [
+            "Dunlap RV",
+            "ORG",
+            "Enjoy",
+            "Steller reputation",
+            "CONCEPT"
+        ],
+        [
+            "Dunlap RV",
+            "ORG",
+            "Have",
+            "High customer loyalty",
+            "CONCEPT"
+        ],
+        [
+            "Family RV",
+            "ORG",
+            "Strategy",
+            "Geographic expansion",
+            "CONCEPT"
+        ],
+        [
+            "Family RV",
+            "ORG",
+            "Acquire",
+            "Quality RV dealerships",
+            "COMP"
+        ],
+        [
+            "Family RV",
+            "ORG",
+            "Operate",
+            "Nine full-service dealerships",
+            "COMP"
+        ],
+        [
+            "Acquired businesses",
+            "ORG",
+            "Operate_Under",
+            "Dunlap Family RV name",
+            "COMP"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Founded",
+            "Cincinnati, Ohio",
+            "GPE"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Leading specialty retailer",
+            "null",
+            "null"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Offering",
+            "Most extensive selection of RVs",
+            "PRODUCT"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Enjoy",
+            "Top-tier dealer status",
+            "null"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Expand",
+            "Product lines it carries",
+            "PRODUCT"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Operate",
+            "Nine RV dealerships",
+            "COMP"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Under",
+            "Brand names Colerain Family RV, Northside Family RV, and Dunlap Family RV",
+            "COMP"
+        ],
+        [
+            "Family RV Group",
+            "ORG",
+            "Celebrate",
+            "50 years of service",
+            "EVENT"
+        ],
+        [
+            "Kidd & Company, LLC",
+            "ORG/REG",
+            "Sponsor",
+            "Control equity investments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kidd & Company, LLC",
+            "ORG/REG",
+            "Implement",
+            "Fundamental strategic and operational improvements",
+            "CONCEPT"
+        ],
+        [
+            "Kidd & Company, LLC",
+            "ORG/REG",
+            "Drive",
+            "Above-market growth in revenue and earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kidd & Company, LLC",
+            "ORG/REG",
+            "Bring",
+            "Management, operational, sales and marketing, corporate finance, and M&A expertise",
+            "CONCEPT"
+        ]
+    ]
+}

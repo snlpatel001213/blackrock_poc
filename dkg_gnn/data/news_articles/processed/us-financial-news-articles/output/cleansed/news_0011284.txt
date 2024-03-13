@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "AT&T Inc.",
+            "COMP",
+            "Backoff",
+            "Deal",
+            "SELL"
+        ],
+        [
+            "AT&T Inc.",
+            "COMP",
+            "Has",
+            "Security Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Produce",
+            "Smartphones",
+            "PRODUCT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Relate_To",
+            "Chinese",
+            "GPE"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Expected",
+            "Announce",
+            "AGREEMENT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Operate_In",
+            "Las Vegas Trade Show",
+            "EVENT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Control",
+            "Availability",
+            "PRODUCT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Has",
+            "Integrity",
+            "CONCEPT"
+        ],
+        [
+            "Huawei Technologies Co Ltd",
+            "COMP",
+            "Operate_In",
+            "U.S. Market",
+            "GPE"
+        ],
+        [
+            "Huawei Phones",
+            "PRODUCT",
+            "Available",
+            "Purchase",
+            "ACTION"
+        ],
+        [
+            "Huawei Phones",
+            "PRODUCT",
+            "Never",
+            "Distributed",
+            "ACTION"
+        ],
+        [
+            "Major Carrier",
+            "COMP",
+            "Negative_Impact_On",
+            "Huawei Phones",
+            "PRODUCT"
+        ],
+        [
+            "Major Carrier",
+            "COMP",
+            "Has",
+            "Security Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

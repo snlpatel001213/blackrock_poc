@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Has",
+            "World Number One",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Operate_In",
+            "Golf",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Recover",
+            "Slow Start",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Produce",
+            "Seven Birdies",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Score",
+            "Five Under Par",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Negative_Impact_On",
+            "Share of the Lead",
+            "CONCEPT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Has",
+            "Share of the Lead",
+            "CONCEPT"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Has",
+            "Share of the Lead",
+            "CONCEPT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Operate_In",
+            "Sentry Tournament of Champions",
+            "EVENT"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Operate_In",
+            "Sentry Tournament of Champions",
+            "EVENT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Produce",
+            "Ten Under 136",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Produce",
+            "Ten Under 136",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Thrive",
+            "Strong Trade Wind",
+            "CONCEPT"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Thrive",
+            "Strong Trade Wind",
+            "CONCEPT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Birdie",
+            "18th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Birdie",
+            "18th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Bogey",
+            "3rd Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Bogey",
+            "4th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Birdie",
+            "6th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Birdie",
+            "8th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Birdie",
+            "9th Hole",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Play",
+            "Solid Back Nine",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Fall",
+            "Tournament Eve",
+            "CONCEPT"
+        ],
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Stay",
+            "World Rankings",
+            "CONCEPT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Win",
+            "Two Tournaments",
+            "EVENT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Eye",
+            "Bigger and Better Things",
+            "CONCEPT"
+        ],
+        [
+            "Marc Leishman",
+            "PERSON",
+            "Confidence",
+            "High",
+            "CONCEPT"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Pitch",
+            "80 Feet",
+            "DISTANCE"
+        ],
+        [
+            "Brian Harman",
+            "PERSON",
+            "Birdie",
+            "15th Hole",
+            "CONCEPT"
+        ]
+    ]
+}

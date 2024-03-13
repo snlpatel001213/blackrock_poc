@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Arvinas LLC",
+            "ORG",
+            "Announce",
+            "Research Collaboration and License Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Arvinas LLC",
+            "ORG",
+            "Control",
+            "Protein Degradation Drug Candidates",
+            "PRODUCT"
+        ],
+        [
+            "Pfizer Inc",
+            "ORG",
+            "Participates_In",
+            "Research Collaboration and License Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Arvinas LLC",
+            "ORG",
+            "Raise",
+            "$830 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arvinas LLC",
+            "ORG",
+            "Relate_To",
+            "Global Product Sales",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

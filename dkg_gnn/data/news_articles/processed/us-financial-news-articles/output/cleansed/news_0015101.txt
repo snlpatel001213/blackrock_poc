@@ -1,0 +1,203 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Meet",
+            "Victims",
+            "PERSON"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "Be",
+            "Victims",
+            "PERSON"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "of",
+            "Dictatorship",
+            "ORG/GOV"
+        ],
+        [
+            "Dictatorship",
+            "ORG/GOV",
+            "of",
+            "Pinochet",
+            "PERSON"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Overthrow",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "of",
+            "Allende",
+            "PERSON"
+        ],
+        [
+            "Allende",
+            "PERSON",
+            "Democratically Elected",
+            "null"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship Lasted",
+            "Until",
+            "1990"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Die",
+            "2006"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship Collaborate",
+            "With",
+            "Dictatorships",
+            "ORG/GOV"
+        ],
+        [
+            "Dictatorships",
+            "ORG/GOV",
+            "in",
+            "Argentina",
+            "GPE"
+        ],
+        [
+            "Dictatorships",
+            "ORG/GOV",
+            "in",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship",
+            "Operation Condor",
+            "CONCEPT"
+        ],
+        [
+            "Operation Condor",
+            "CONCEPT",
+            "Wider Crackdown",
+            "null"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship",
+            "Some 3000 People",
+            "PERSON"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Die or Disappear",
+            "Chile",
+            "GPE"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship",
+            "Thousands More",
+            "PERSON"
+        ],
+        [
+            "Thousands More",
+            "PERSON",
+            "Tortured or Go Into Exile",
+            "Chile",
+            "GPE"
+        ],
+        [
+            "Chilean Judge",
+            "PERSON",
+            "Order Jail Sentences",
+            "More Than 100",
+            "NUM"
+        ],
+        [
+            "More Than 100",
+            "NUM",
+            "Former Secret Police",
+            "Pinochet",
+            "PERSON"
+        ],
+        [
+            "Pinochet",
+            "PERSON",
+            "Dictatorship",
+            "Biggest Mass Sentence",
+            "null"
+        ],
+        [
+            "Biggest Mass Sentence",
+            "null",
+            "To Date",
+            "Human Rights Abuses",
+            "CONCEPT"
+        ],
+        [
+            "Human Rights Abuses",
+            "CONCEPT",
+            "From Period",
+            "null"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Grappled",
+            "Task",
+            "CONCEPT"
+        ],
+        [
+            "Task",
+            "CONCEPT",
+            "Bringing To Justice",
+            "Perpetrators",
+            "PERSON"
+        ],
+        [
+            "Perpetrators",
+            "PERSON",
+            "Crimes Committed",
+            "Era",
+            "CONCEPT"
+        ],
+        [
+            "Era",
+            "CONCEPT",
+            "Crimes",
+            "Chile",
+            "GPE"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Increase",
+            "Convictions",
+            "CONCEPT"
+        ],
+        [
+            "Convictions",
+            "CONCEPT",
+            "Recent Years",
+            "null"
+        ]
+    ]
+}

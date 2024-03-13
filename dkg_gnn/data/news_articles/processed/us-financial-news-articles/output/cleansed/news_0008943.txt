@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Anadarko Petroleum Corporation",
+            "COMP",
+            "Host",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "Anadarko Petroleum Corporation",
+            "COMP",
+            "Release",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Anadarko Petroleum Corporation",
+            "COMP",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Investor Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Anadarko Petroleum Corporation",
+            "COMP"
+        ],
+        [
+            "Earnings",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Anadarko Petroleum Corporation",
+            "COMP"
+        ],
+        [
+            "Feb. 7, 2018",
+            "DATE",
+            "Participates_In",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "8 a.m. CST",
+            "TIME",
+            "Participates_In",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "9 a.m. EST",
+            "TIME",
+            "Participates_In",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dial-in number",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "877.883.0383",
+            "PHONE_NUMBER",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "International dial-in number",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "412.902.6506",
+            "PHONE_NUMBER",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "Individuals",
+            "PERSON",
+            "Participates_In",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference call time",
+            "TIME",
+            "Participates_In",
+            "Investor Conference Call",
+            "EVENT"
+        ],
+        [
+            "Confirmation number 4262361",
+            "CODE",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "Live audio webcast",
+            "EVENT",
+            "Relate_To",
+            "Anadarko Petroleum Corporation",
+            "COMP"
+        ],
+        [
+            "Related presentation materials",
+            "EVENT",
+            "Relate_To",
+            "Anadarko Petroleum Corporation",
+            "COMP"
+        ],
+        [
+            "Investor relations section",
+            "WEBSITE",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "Company's website",
+            "WEBSITE",
+            "Control",
+            "Access",
+            "EVENT"
+        ],
+        [
+            "Replay of the conference call",
+            "EVENT",
+            "Relate_To",
+            "Anadarko Petroleum Corporation",
+            "COMP"
+        ],
+        [
+            "Website",
+            "WEBSITE",
+            "Control",
+            "Access",
+            "EVENT"
+        ]
+    ]
+}

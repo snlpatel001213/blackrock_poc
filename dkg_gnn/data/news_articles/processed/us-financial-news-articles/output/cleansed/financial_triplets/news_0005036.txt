@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "U.S. President",
+            "ORG/GOV"
+        ],
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Ambassador to the United Nations",
+            "ORG/GOV"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Nuclear standoff",
+            "EVENT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear button",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Impact",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Nuclear policy",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decrease",
+            "Allies confidence",
+            "CONCEPT"
+        ],
+        [
+            "Mike Pompeo",
+            "PERSON",
+            "Is_Member_Of",
+            "CIA Director",
+            "ORG"
+        ],
+        [
+            "U.S. policy",
+            "CONCEPT",
+            "Relate_To",
+            "Denuclearization of Korean peninsula",
+            "CONCEPT"
+        ]
+    ]
+}

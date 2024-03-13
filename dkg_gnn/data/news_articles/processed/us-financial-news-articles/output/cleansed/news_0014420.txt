@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Old Mutual Plc",
+            "COMP",
+            "Relate_To",
+            "S.A\u2019s Competition Commission",
+            "ORG/REG"
+        ],
+        [
+            "Old Mutual Plc",
+            "COMP",
+            "Participates_In",
+            "Internal Restructure Process",
+            "CONCEPT"
+        ],
+        [
+            "Economic Development Department",
+            "ORG/GOV",
+            "Expects",
+            "Submissions",
+            "CONCEPT"
+        ],
+        [
+            "Economic Development Department",
+            "ORG/GOV",
+            "Relate_To",
+            "Old Mutual Plc",
+            "COMP"
+        ],
+        [
+            "S.A\u2019s Competition Commission",
+            "ORG/REG",
+            "Expects",
+            "Submissions",
+            "CONCEPT"
+        ]
+    ]
+}

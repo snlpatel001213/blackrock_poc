@@ -1,0 +1,10 @@
+Researchers have discovered a piece of software that installs on a victim's computer, mines a cryptocurrency called monero, and sends it to North Korea.
+AlienVault, a U.S. cybersecurity firm, said Monday that it had found a piece of malware, or malicious software, that places a mining application on a victim's computer. Any mined currency is then sent to Kim Il Sung University in Pyongyang.
+The researchers said, however, that the server the application is running doesn't seem to be connected to the wider internet. That could be because it's designed to run within another network such as the that of the university. AlienVault also suggested that the use of a North Korean server could be used to "trick" security researchers.
+Monero is the 13th biggest cryptocurrency by value and has been touted as being more anonymous than bitcoin. Mining is the process of solving complex mathematical equations in order to verify a transaction using cryptocurrency; the miner gets rewarded in that cryptocurrency.
+North Korea has been hit by sanctions from the United Nations and by countries including the U.S.
+"Cryptocurrencies could provide a financial lifeline to a country hit hard by sanctions. Therefore, it's not surprising that universities in North Korea have shown a clear interest in cryptocurrencies," the researchers said in a blog post.
+"Recently, the Pyongyang University of Science and Technology invited foreign experts to lecture on cryptocurrencies. The installer we've analyzed may be the most recent product of their endeavors."
+There have been other instances of North Korean attackers mining monero. A group called Andariel took over a server at a South Korean company last year and used it to mine the cryptocurrency.
+However, AlienVault said it had not identified anything linking the latest monero mining scheme to this group or to any other North Korean group.
+WATCH: Bitcoin mining — a new way for North Korea to make money show chapters Bitcoin mining — a new way for North Korea to make money      9:37 AM ET Wed, 13 Sept 2017 | 03:43

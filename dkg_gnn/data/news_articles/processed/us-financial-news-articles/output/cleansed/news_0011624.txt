@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "American Airlines Group",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Trade",
+            "AAL",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "CONCEPT"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Webcast",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Include",
+            "Financial Analysts",
+            "PERSON"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Include",
+            "Journalists",
+            "PERSON"
+        ],
+        [
+            "aa.com/investorrelations",
+            "WEBSITE",
+            "Host",
+            "Webcast",
+            "CONCEPT"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Has",
+            "Hubs",
+            "SECTOR"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Is_Member_Of",
+            "one world\u00ae alliance",
+            "ORG"
+        ],
+        [
+            "one world\u00ae alliance",
+            "ORG",
+            "Serve",
+            "More than 1,000 destinations",
+            "SECTOR"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Join",
+            "S&P 500 index",
+            "SECTOR"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Connect",
+            "with American on Twitter",
+            "SOCIAL_MEDIA"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Connect",
+            "at Facebook.com/AmericanAirlines",
+            "SOCIAL_MEDIA"
+        ]
+    ]
+}

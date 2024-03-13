@@ -1,0 +1,187 @@
+{
+    "output": [
+        [
+            "Dustin Johnson",
+            "PERSON",
+            "Potential",
+            "Long Drive Competition",
+            "EVENT"
+        ],
+        [
+            "Rory McIlroy",
+            "PERSON",
+            "Potential",
+            "Long Drive Competition",
+            "EVENT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Win",
+            "World Final",
+            "EVENT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Smash",
+            "Ball",
+            "PRODUCT"
+        ],
+        [
+            "PGA Tour Golfers",
+            "PERSON",
+            "Drive",
+            "Ball",
+            "PRODUCT"
+        ],
+        [
+            "Long Hitters",
+            "PERSON",
+            "Typically Drive",
+            "Ball",
+            "PRODUCT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Ball Speed",
+            "Miles Per Hour",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PGA Tour",
+            "ORG",
+            "Average",
+            "Ball Speed",
+            "Miles Per Hour",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Compete",
+            "Volvik Series",
+            "EVENT"
+        ],
+        [
+            "Long Drive Competition",
+            "EVENT",
+            "Have",
+            "Music",
+            "PRODUCT"
+        ],
+        [
+            "Long Drive Competition",
+            "EVENT",
+            "Have",
+            "Fans Yelling",
+            "CONCEPT"
+        ],
+        [
+            "Long Drive Competition",
+            "EVENT",
+            "Have",
+            "Announcer",
+            "PERSON"
+        ],
+        [
+            "Long Drive Competition",
+            "EVENT",
+            "Have",
+            "Marked Grid",
+            "PRODUCT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Play",
+            "Low Key",
+            "CONCEPT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Learn",
+            "Science",
+            "CONCEPT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Learn",
+            "Spin Rate",
+            "CONCEPT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Learn",
+            "Angle Of Attack",
+            "CONCEPT"
+        ],
+        [
+            "Justin James",
+            "PERSON",
+            "Learn",
+            "Maximizing",
+            "CONCEPT"
+        ],
+        [
+            "World Long Drive Championship",
+            "EVENT",
+            "Owned",
+            "Golf Channel",
+            "ORG"
+        ],
+        [
+            "World Long Drive Championship",
+            "EVENT",
+            "Have",
+            "Nine Events",
+            "EVENT"
+        ],
+        [
+            "World Long Drive Championship",
+            "EVENT",
+            "Have",
+            "One Event",
+            "EVENT"
+        ],
+        [
+            "World Long Drive Championship",
+            "EVENT",
+            "Have",
+            "International Qualifiers",
+            "EVENT"
+        ],
+        [
+            "World Long Drive Championship",
+            "EVENT",
+            "Have",
+            "Winners",
+            "PERSON"
+        ],
+        [
+            "Long Drive World Series",
+            "EVENT",
+            "Have",
+            "10 Events",
+            "EVENT"
+        ],
+        [
+            "Long Drive World Series",
+            "EVENT",
+            "Have",
+            "Dubai",
+            "GPE"
+        ],
+        [
+            "Long Drive World Series",
+            "EVENT",
+            "Have",
+            "Turkey",
+            "GPE"
+        ]
+    ]
+}

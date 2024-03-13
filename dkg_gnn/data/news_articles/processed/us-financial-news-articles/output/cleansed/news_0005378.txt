@@ -1,0 +1,75 @@
+{
+    "output": [
+        [
+            "Sinovel Wind Group Co. Ltd.",
+            "COMP",
+            "Accuse",
+            "American Superconductor Corp.",
+            "COMP",
+            "Theft"
+        ],
+        [
+            "Sinovel Wind Group Co. Ltd.",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "American Superconductor Corp.",
+            "COMP",
+            "Operate_In",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "American Superconductor Corp.",
+            "COMP",
+            "Control",
+            "Wind Turbine Technology",
+            "CONCEPT"
+        ],
+        [
+            "Dispute",
+            "CONCEPT",
+            "Relate_To",
+            "Sinovel Wind Group Co. Ltd.",
+            "COMP"
+        ],
+        [
+            "Dispute",
+            "CONCEPT",
+            "Relate_To",
+            "American Superconductor Corp.",
+            "COMP"
+        ],
+        [
+            "Dispute",
+            "CONCEPT",
+            "Go_To_Trial_In",
+            "Wisconsin",
+            "GPE"
+        ],
+        [
+            "Dispute",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Intellectual-Property Battles",
+            "CONCEPT"
+        ],
+        [
+            "Intellectual-Property Battles",
+            "CONCEPT",
+            "Relate_To",
+            "US",
+            "ORG/GOV"
+        ],
+        [
+            "Intellectual-Property Battles",
+            "CONCEPT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ]
+    ]
+}

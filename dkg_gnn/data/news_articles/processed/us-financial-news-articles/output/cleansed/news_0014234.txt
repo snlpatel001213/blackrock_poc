@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Steven Mnuchin",
+            "PERSON",
+            "Say",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Treasury Secretary",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Expect",
+            "Renegotiate",
+            "VERB"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "or",
+            "Pull out",
+            "VERB"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Be_Relate_To",
+            "Renegotiate",
+            "VERB"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Be_Relate_To",
+            "Pull out",
+            "VERB"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Participates_In",
+            "North American Free Trade Agreement",
+            "ORG"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "North American Free Trade Agreement",
+            "ORG"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Participates_In",
+            "North American Free Trade Agreement",
+            "ORG"
+        ],
+        [
+            "Robert Lighthizer",
+            "PERSON",
+            "Be",
+            "Ambassador",
+            "PERSON"
+        ],
+        [
+            "Robert Lighthizer",
+            "PERSON",
+            "Doing",
+            "Amazing Job",
+            "CONCEPT"
+        ],
+        [
+            "Robert Lighthizer",
+            "PERSON",
+            "Renegotiate",
+            "NAFTA",
+            "EVENT"
+        ]
+    ]
+}

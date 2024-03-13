@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Authorize",
+            "Seek federal death penalty",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Attorney General Jeff Sessions",
+            "PERSON",
+            "Control",
+            "Justice Department",
+            "ORG/GOV"
+        ],
+        [
+            "Billy Arnold",
+            "PERSON",
+            "Charged_With",
+            "Killing two rival gang members",
+            "EVENT"
+        ],
+        [
+            "Billy Arnold",
+            "PERSON",
+            "Relate_To",
+            "Detroit",
+            "GPE"
+        ]
+    ]
+}

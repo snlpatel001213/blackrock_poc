@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Think",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrencies",
+            "CONCEPT",
+            "End",
+            "Badly",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Belong_To",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Negative_Impact_On",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ]
+    ]
+}

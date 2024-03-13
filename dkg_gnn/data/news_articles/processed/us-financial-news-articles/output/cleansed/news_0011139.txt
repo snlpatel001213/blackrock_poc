@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Names",
+            "Ray Blanchette",
+            "PERSON"
+        ],
+        [
+            "Ray Blanchette",
+            "PERSON",
+            "Is_Member_Of",
+            "Ruby Tuesday",
+            "COMP"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Operate_In",
+            "Restaurant Industry",
+            "SECTOR"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Had",
+            "100 Store Closures",
+            "EVENT"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Operate_In",
+            "Central Indiana",
+            "GPE"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Had",
+            "724 Locations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Operate_In",
+            "Under 600 Locations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Replace",
+            "Aziz Hashim",
+            "PERSON"
+        ],
+        [
+            "Aziz Hashim",
+            "PERSON",
+            "Was",
+            "Interim CEO",
+            "POSITION"
+        ],
+        [
+            "Aziz Hashim",
+            "PERSON",
+            "Managing Partner",
+            "NRD Capital",
+            "ORG"
+        ],
+        [
+            "NRD Capital",
+            "ORG",
+            "Take_Private",
+            "Ruby Tuesday",
+            "COMP"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Had",
+            "$335 Million Deal",
+            "EVENT"
+        ],
+        [
+            "Ruby Tuesday",
+            "COMP",
+            "Had",
+            "Jim Hyatt",
+            "PERSON"
+        ],
+        [
+            "Jim Hyatt",
+            "PERSON",
+            "Was",
+            "Former CEO",
+            "POSITION"
+        ],
+        [
+            "Ray Blanchette",
+            "PERSON",
+            "Revitalize",
+            "Joe\u2019s Crab Shack",
+            "COMP"
+        ],
+        [
+            "Joe\u2019s Crab Shack",
+            "COMP",
+            "Was",
+            "Ignite Restaurant Group",
+            "ORG"
+        ],
+        [
+            "Ignite Restaurant Group",
+            "ORG",
+            "Was",
+            "CEO of Ignite Restaurant Group",
+            "POSITION"
+        ],
+        [
+            "Ray Blanchette",
+            "PERSON",
+            "Worked",
+            "TGI Friday\u2019s",
+            "COMP"
+        ],
+        [
+            "TGI Friday\u2019s",
+            "COMP",
+            "Was",
+            "18 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ray Blanchette",
+            "PERSON",
+            "Lead",
+            "Brand",
+            "CONCEPT"
+        ],
+        [
+            "Brand",
+            "CONCEPT",
+            "Competed",
+            "Decades",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

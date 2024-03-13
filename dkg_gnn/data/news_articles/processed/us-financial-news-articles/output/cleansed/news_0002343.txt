@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Legal & General",
+            "ORG",
+            "Invest",
+            "UK trains",
+            "GPE"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Invest",
+            "550 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Invest",
+            "183 million pound",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Provide",
+            "170 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Invest",
+            "12 billion pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legal & General",
+            "ORG",
+            "Aim",
+            "15 billion pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bombardier",
+            "ORG",
+            "Produce",
+            "Avenue trains",
+            "PRODUCT"
+        ],
+        [
+            "Abellio East Anglia",
+            "ORG",
+            "Lease",
+            "fleet of 665 trains",
+            "PRODUCT"
+        ],
+        [
+            "Corelink Rail Infrastructure",
+            "ORG",
+            "Receive",
+            "170 million pounds",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

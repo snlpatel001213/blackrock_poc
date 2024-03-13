@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Nigeria\u2019s Political Parties",
+            "ORG",
+            "Select",
+            "Candidates",
+            "PERSON"
+        ],
+        [
+            "INEC",
+            "ORG/GOV",
+            "Announce",
+            "Deadline",
+            "TIME"
+        ],
+        [
+            "INEC",
+            "ORG/GOV",
+            "Publish",
+            "Timetable",
+            "OBJECT"
+        ],
+        [
+            "Presidential",
+            "CONCEPT",
+            "Operate_In",
+            "2019 Presidential Election",
+            "EVENT"
+        ],
+        [
+            "President Muhammadu Buhari",
+            "PERSON",
+            "End",
+            "First Term",
+            "TIME"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Not_Say",
+            "Re-election",
+            "CONCEPT"
+        ],
+        [
+            "INEC",
+            "ORG/GOV",
+            "Assure",
+            "Nigerians",
+            "PERSON"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Take_Office",
+            "May 2015",
+            "TIME"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Vow",
+            "Crack_Down",
+            "CONCEPT"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Crush",
+            "Boko Haram",
+            "ORG/REG"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Win",
+            "Elections",
+            "EVENT"
+        ],
+        [
+            "Minister of Communications",
+            "PERSON",
+            "Chair",
+            "Group",
+            "ORG"
+        ],
+        [
+            "Group",
+            "ORG",
+            "Support",
+            "Re-election",
+            "CONCEPT"
+        ],
+        [
+            "Buhari",
+            "PERSON",
+            "Incumbent",
+            "null",
+            "null"
+        ],
+        [
+            "Atiku Abubakar",
+            "PERSON",
+            "Quit",
+            "All Progressives Congress",
+            "ORG"
+        ],
+        [
+            "Atiku Abubakar",
+            "PERSON",
+            "Join",
+            "People\u2019s Democratic Party",
+            "ORG"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "null",
+            "null"
+        ],
+        [
+            "Camillus Eboh",
+            "PERSON",
+            "Reporting",
+            "null",
+            "null"
+        ],
+        [
+            "Alexis Akwagyiram",
+            "PERSON",
+            "Writing",
+            "null",
+            "null"
+        ],
+        [
+            "Leslie Adler",
+            "PERSON",
+            "Editing",
+            "null",
+            "null"
+        ]
+    ]
+}

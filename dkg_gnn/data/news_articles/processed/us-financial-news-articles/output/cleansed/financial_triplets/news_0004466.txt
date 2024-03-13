@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Rite Aid",
+            "COMP",
+            "Operate_In",
+            "8 Key States",
+            "GPE"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Has",
+            "6 Distribution Centers",
+            "ORG"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Control",
+            "2,569 Stores",
+            "COMP"
+        ],
+        [
+            "Rite Aid",
+            "COMP",
+            "Control",
+            "500,000 Total Med D Enrollment",
+            "CONCEPT"
+        ],
+        [
+            "Network Loss",
+            "CONCEPT",
+            "Impact",
+            "Script Count",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Easyknit International Holdings Ltd",
+            "COMP",
+            "Purchases",
+            "Equity Linked Note",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HSBC Holdings PLC",
+            "COMP",
+            "Issue",
+            "Equity Linked Note",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HSBC Holdings PLC",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Easyknit International Holdings Ltd",
+            "COMP",
+            "Located_In",
+            "GPE",
+            "GPE"
+        ]
+    ]
+}

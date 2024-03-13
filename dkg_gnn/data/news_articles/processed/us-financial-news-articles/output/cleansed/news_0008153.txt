@@ -1,0 +1,168 @@
+{
+    "output": [
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Has",
+            "Web-based information systems",
+            "PRODUCT"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Operate_In",
+            "Health Insurance Marketplaces",
+            "SECTOR"
+        ],
+        [
+            "Francisco Partners",
+            "ORG/PE",
+            "Acquire",
+            "Connecture Inc.",
+            "COMP"
+        ],
+        [
+            "Francisco Partners",
+            "ORG/PE",
+            "Control",
+            "Connecture Inc.",
+            "COMP"
+        ],
+        [
+            "Francisco Partners",
+            "ORG/PE",
+            "Agree",
+            "Pay",
+            "ACTION"
+        ],
+        [
+            "Francisco Partners",
+            "ORG/PE",
+            "Agree",
+            "Roll Equity",
+            "ACTION"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Has",
+            "Special Committee",
+            "ORG/REG"
+        ],
+        [
+            "Special Committee",
+            "ORG/REG",
+            "Negotiate",
+            "Transaction",
+            "EVENT"
+        ],
+        [
+            "Special Committee",
+            "ORG/REG",
+            "Recommend",
+            "Transaction",
+            "EVENT"
+        ],
+        [
+            "Special Committee",
+            "ORG/REG",
+            "Retain",
+            "Financial Advisors",
+            "ORG"
+        ],
+        [
+            "Special Committee",
+            "ORG/REG",
+            "Retain",
+            "Legal Advisor",
+            "ORG"
+        ],
+        [
+            "Connecture",
+            "COMP",
+            "Has",
+            "Legal Advisor",
+            "ORG"
+        ],
+        [
+            "Francisco Partners",
+            "ORG/PE",
+            "Has",
+            "Legal Advisor",
+            "ORG"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Close Transaction",
+            "EVENT"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Close Transaction",
+            "EVENT",
+            "First Half",
+            "TIME"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Regulatory Approvals",
+            "ORG/REG"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Affirmative Vote",
+            "ACTION"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Affirmative Vote",
+            "ACTION",
+            "Majority",
+            "QUANTITY"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Affirmative Vote",
+            "ACTION",
+            "Outstanding Shares",
+            "QUANTITY"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Affirmative Vote",
+            "ACTION",
+            "Capital Stock",
+            "QUANTITY"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Affirmative Vote",
+            "ACTION",
+            "Single Class",
+            "QUANTITY"
+        ],
+        [
+            "Connecture Inc.",
+            "COMP",
+            "Expect",
+            "Special Meeting of Stockholders",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Announce",
+            "cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Impact",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Security Assistance",
+            "ORG"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "U.S. Aid",
+            "ORG"
+        ],
+        [
+            "State Department",
+            "ORG",
+            "Announce",
+            "cut off",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

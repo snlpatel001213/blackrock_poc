@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Warburg Pincus",
+            "ORG",
+            "Invests_In",
+            "Zhangmen",
+            "COMP"
+        ],
+        [
+            "Genesis Capital",
+            "ORG",
+            "Invests_In",
+            "Zhangmen",
+            "COMP"
+        ],
+        [
+            "Zhangmen",
+            "COMP",
+            "Has",
+            "Personalized Tutoring Courses",
+            "PRODUCT"
+        ],
+        [
+            "Zhangmen",
+            "COMP",
+            "Operate_In",
+            "Online Tutoring",
+            "SECTOR"
+        ],
+        [
+            "Zhangmen",
+            "COMP",
+            "Control",
+            "Website and Mobile Apps",
+            "PRODUCT"
+        ],
+        [
+            "Zhangmen",
+            "COMP",
+            "ECON_INDICATOR",
+            "1 Billion Yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Warburg Pincus",
+            "ORG",
+            "Is_Member_Of",
+            "Private Equity Firm",
+            "COMP"
+        ]
+    ]
+}

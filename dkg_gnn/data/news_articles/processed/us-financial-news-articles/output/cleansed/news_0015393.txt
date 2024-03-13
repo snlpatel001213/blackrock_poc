@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Bill Gates",
+            "PERSON",
+            "Inspire",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Funds",
+            "Efforts",
+            "ORG"
+        ],
+        [
+            "Segenet Kelemu",
+            "PERSON",
+            "Director General and CEO",
+            "ICIPE",
+            "ORG"
+        ],
+        [
+            "Segenet Kelemu",
+            "PERSON",
+            "Harnesses",
+            "Science",
+            "CONCEPT"
+        ],
+        [
+            "Mathew Varghese",
+            "PERSON",
+            "Runs",
+            "Polio Ward",
+            "ORG"
+        ],
+        [
+            "Mathew Varghese",
+            "PERSON",
+            "Help",
+            "Polio Patients",
+            "PERSON"
+        ],
+        [
+            "Ada Okoli",
+            "PERSON",
+            "Survived",
+            "Ebola",
+            "EVENT"
+        ],
+        [
+            "Ada Okoli",
+            "PERSON",
+            "Study",
+            "Infectious Disease",
+            "CONCEPT"
+        ],
+        [
+            "Anna Rosling R\u00f6nnlund",
+            "PERSON",
+            "Co-founder",
+            "Gapminder",
+            "ORG"
+        ],
+        [
+            "Anna Rosling R\u00f6nnlund",
+            "PERSON",
+            "Use",
+            "Art and Photography",
+            "CONCEPT"
+        ],
+        [
+            "Anna Rosling R\u00f6nnlund",
+            "PERSON",
+            "Visualizes",
+            "Global Wealth Levels",
+            "CONCEPT"
+        ],
+        [
+            "Camille Jones",
+            "PERSON",
+            "2017 Washington State Teacher of the Year",
+            "NONE"
+        ],
+        [
+            "Camille Jones",
+            "PERSON",
+            "Leads",
+            "STEAM Lab",
+            "ORG"
+        ],
+        [
+            "Camille Jones",
+            "PERSON",
+            "Inspire",
+            "Young People",
+            "PERSON"
+        ]
+    ]
+}

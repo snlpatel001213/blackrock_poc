@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "Selmer",
+            "PERSON",
+            "Sell",
+            "Stake",
+            "ORG"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Produce",
+            "Saxophones",
+            "PRODUCT"
+        ],
+        [
+            "Sax",
+            "PERSON",
+            "Invent",
+            "Saxophones",
+            "PRODUCT"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Has",
+            "Famous Clients",
+            "PERSON"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Has",
+            "Outdated Machines",
+            "COMP"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Participates_In",
+            "Jazz",
+            "EVENT"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Has",
+            "Famous Saxophone Models",
+            "PRODUCT"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Sell",
+            "Majority Stake",
+            "ORG"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Modernise",
+            "Machines",
+            "COMP"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Face",
+            "Chinese Pressure",
+            "GPE"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Control",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Is_Member_Of",
+            "Saxophone Makers",
+            "SECTOR"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Is_Member_Of",
+            "Wind Instrument Makers",
+            "SECTOR"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Is_Member_Of",
+            "French Companies",
+            "SECTOR"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Is_Member_Of",
+            "Market Leaders",
+            "SECTOR"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Employs",
+            "Staff",
+            "PERSON"
+        ],
+        [
+            "Selmer",
+            "PERSON",
+            "Generate",
+            "Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Buy",
+            "Stake",
+            "ORG"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Invests_In",
+            "Selmer",
+            "PERSON"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Agree",
+            "Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Keep",
+            "Company French",
+            "GPE"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "No",
+            "Layoffs",
+            "PERSON"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Improve",
+            "Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Better",
+            "Stock Management",
+            "COMP"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Faster",
+            "Production Methods",
+            "COMP"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Profitable",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Argos Soditic",
+            "ORG",
+            "Employs",
+            "Staff",
+            "PERSON"
+        ],
+        [
+            "Yamaha",
+            "COMP",
+            "Rival",
+            "Selmer",
+            "PERSON"
+        ],
+        [
+            "Yanagisawa",
+            "COMP",
+            "Rival",
+            "Selmer",
+            "PERSON"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Price",
+            "Range",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Played",
+            "Coltrane",
+            "PERSON"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Played",
+            "Clinton",
+            "PERSON"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Played",
+            "Pesquet",
+            "PERSON"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Played",
+            "Jazz Legends",
+            "PERSON"
+        ],
+        [
+            "Selmer Saxophones",
+            "PRODUCT",
+            "Played",
+            "Space",
+            "GPE"
+        ]
+    ]
+}

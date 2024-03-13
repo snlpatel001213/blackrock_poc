@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "AbbVie Inc",
+            "COMP",
+            "Introduce",
+            "Evidence",
+            "ORG"
+        ],
+        [
+            "Robert Nolte",
+            "PERSON",
+            "Suffer",
+            "Pulmonary Embolism",
+            "EVENT"
+        ],
+        [
+            "Robert Nolte",
+            "PERSON",
+            "Treated_With",
+            "AndroGel",
+            "PRODUCT"
+        ],
+        [
+            "AbbVie Inc",
+            "COMP",
+            "Operate_In",
+            "Federal Multidistrict Litigation",
+            "ORG/GOV"
+        ],
+        [
+            "Robert Nolte",
+            "PERSON",
+            "Claim",
+            "Injury",
+            "EVENT"
+        ],
+        [
+            "Robert Nolte",
+            "PERSON",
+            "Wife",
+            "Genienne",
+            "PERSON"
+        ],
+        [
+            "Genienne",
+            "PERSON",
+            "Claim",
+            "Nolte Suffered",
+            "EVENT"
+        ],
+        [
+            "Nolte",
+            "PERSON",
+            "Husband_Of",
+            "Genienne",
+            "PERSON"
+        ],
+        [
+            "Testosterone Replacement Medications",
+            "PRODUCT",
+            "Relate_To",
+            "Injury Claims",
+            "EVENT"
+        ],
+        [
+            "U.S. District Court",
+            "ORG/GOV",
+            "Location_Of",
+            "Trial",
+            "EVENT"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Kick_Off",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Robert Nolte",
+            "PERSON",
+            "Claim",
+            "Injury",
+            "EVENT"
+        ],
+        [
+            "AndroGel",
+            "PRODUCT",
+            "Manufactured_By",
+            "AbbVie Inc",
+            "COMP"
+        ],
+        [
+            "AbbVie Inc",
+            "COMP",
+            "Control",
+            "AndroGel",
+            "PRODUCT"
+        ]
+    ]
+}

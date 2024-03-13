@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Bank of Korea",
+            "ORG/GOV"
+        ],
+        [
+            "Bank of Korea",
+            "ORG/GOV",
+            "Control",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Currency Moves",
+            "CONCEPT",
+            "Relate_To",
+            "Market Forces",
+            "CONCEPT"
+        ]
+    ]
+}

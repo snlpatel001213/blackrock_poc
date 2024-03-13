@@ -1,0 +1,210 @@
+{
+    "output": [
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Works_For",
+            "Magamba TV",
+            "ORG"
+        ],
+        [
+            "Magamba TV",
+            "ORG",
+            "Produce",
+            "Political Satire",
+            "CONCEPT"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Charged_With",
+            "Attempting to overthrow government",
+            "CONCEPT"
+        ],
+        [
+            "Zimbabwean Government",
+            "GPE",
+            "Charged_Against",
+            "Martha O\u2018Donovan",
+            "PERSON"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Accused_Of",
+            "Insulting Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Robert Mugabe",
+            "PERSON",
+            "Is_Member_Of",
+            "Zimbabwean Government",
+            "GPE"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Arrested_In",
+            "November",
+            "TIME"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Calling",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Charged_With",
+            "Subversion",
+            "CONCEPT"
+        ],
+        [
+            "Subversion",
+            "CONCEPT",
+            "Carries",
+            "Maximum Sentence of Life Imprisonment",
+            "CONCEPT"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Denied",
+            "Accusations"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Granted",
+            "Bail",
+            "CONCEPT"
+        ],
+        [
+            "Zimbabwe\u2019s High Court",
+            "ORG",
+            "Said",
+            "Patent Absence of Facts",
+            "CONCEPT"
+        ],
+        [
+            "Zimbabwe\u2019s High Court",
+            "ORG",
+            "Returned",
+            "Computers",
+            "PRODUCT"
+        ],
+        [
+            "Zimbabwe\u2019s High Court",
+            "ORG",
+            "Returned",
+            "Cellphones",
+            "PRODUCT"
+        ],
+        [
+            "Zimbabwe\u2019s High Court",
+            "ORG",
+            "Returned",
+            "Other Electronic Devices",
+            "PRODUCT"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Lawyers",
+            "Obey Shava",
+            "PERSON"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Lawyers",
+            "Happy",
+            "CONCEPT"
+        ],
+        [
+            "Martha O\u2018Donovan",
+            "PERSON",
+            "Case",
+            "Dismissed",
+            "CONCEPT"
+        ],
+        [
+            "Harare Court",
+            "ORG",
+            "Dismissed",
+            "Martha O\u2018Donovan",
+            "PERSON"
+        ],
+        [
+            "Mugabe",
+            "PERSON",
+            "Uneasy",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Activists",
+            "PERSON",
+            "Used",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Pastor Evan Mawararire",
+            "PERSON",
+            "Used",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "#ThisFlag Movement",
+            "ORG",
+            "Used",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Activists",
+            "PERSON",
+            "Organized",
+            "Stay-at-home demonstration",
+            "EVENT"
+        ],
+        [
+            "Stay-at-home demonstration",
+            "EVENT",
+            "Biggest anti-government protest",
+            "CONCEPT"
+        ],
+        [
+            "In 2016",
+            "TIME",
+            "Activists",
+            "Used",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Alfonce Mbizwo",
+            "PERSON",
+            "Reporting",
+            "Zimbabwe"
+        ],
+        [
+            "Mfuneko Toyana",
+            "PERSON",
+            "Writing",
+            "Zimbabwe"
+        ],
+        [
+            "Kevin Liffey",
+            "PERSON",
+            "Editing",
+            "Zimbabwe"
+        ]
+    ]
+}

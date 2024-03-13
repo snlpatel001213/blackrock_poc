@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ron Stach",
+            "PERSON",
+            "Operate_In",
+            "Volkswagen North America",
+            "ORG"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Decrease",
+            "19 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Control",
+            "Diesel emissions test cheating scandal",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Impact",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

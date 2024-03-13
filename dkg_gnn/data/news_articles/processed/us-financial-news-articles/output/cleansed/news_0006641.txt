@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "Brazilian stocks",
+            "COMP",
+            "Hit",
+            "Record Highs",
+            "EVENT"
+        ],
+        [
+            "Chilean stocks",
+            "COMP",
+            "Hit",
+            "Record Highs",
+            "EVENT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Operate_In",
+            "Brazilian stocks",
+            "COMP"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Operate_In",
+            "Chilean stocks",
+            "COMP"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "Solid Economic Growth Data",
+            "CONCEPT"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Has",
+            "Fastest Pace of Economic Growth",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Firmed Mexican Peso",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Operate_In",
+            "Mexican stocks",
+            "COMP"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Has",
+            "Data that Showed",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "Industrial Production Rise",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "View",
+            "CONCEPT"
+        ],
+        [
+            "Luiz Inacio Lula da Silva",
+            "PERSON",
+            "Relate_To",
+            "Leftist",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "Uncertainty",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "Wide-Open Election",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Has",
+            "Reuters Poll",
+            "CONCEPT"
+        ],
+        [
+            "Brazilian currency",
+            "FIN_INSTRUMENT",
+            "Likely",
+            "Lose Ground",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Central Bank",
+            "ORG"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Hike Interest Rates",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Inflation Close to 16-Year High",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Fears",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Pull Out",
+            "CONCEPT"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Has",
+            "Set for Later this Month",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Operate_In",
+            "Mexico IPC",
+            "COMP"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Operate_In",
+            "Brazil Bovespa",
+            "COMP"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Operate_In",
+            "Chile IPSA",
+            "COMP"
+        ],
+        [
+            "Argentina",
+            "GPE",
+            "Operate_In",
+            "Argentina MerVal",
+            "COMP"
+        ],
+        [
+            "Colombia",
+            "GPE",
+            "Operate_In",
+            "Colombia IGBC",
+            "COMP"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Operate_In",
+            "Venezuela IBC",
+            "COMP"
+        ],
+        [
+            "Brazil real",
+            "FIN_INSTRUMENT",
+            "0.10",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Mexico peso",
+            "FIN_INSTRUMENT",
+            "0.45",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Chile peso",
+            "FIN_INSTRUMENT",
+            "-0.15",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Colombia peso",
+            "FIN_INSTRUMENT",
+            "-0.66",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Peru sol",
+            "FIN_INSTRUMENT",
+            "-0.09",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Argentina peso (interbank)",
+            "FIN_INSTRUMENT",
+            "-1.22",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Argentina peso (parallel)",
+            "FIN_INSTRUMENT",
+            "-0.88",
+            "Change",
+            "CONCEPT"
+        ]
+    ]
+}

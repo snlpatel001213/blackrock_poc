@@ -1,0 +1,91 @@
+{
+    "output": [
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Has",
+            "Biggest Regional Bank",
+            "ORG"
+        ],
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Operate_In",
+            "Country",
+            "GPE"
+        ],
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Announce",
+            "Boost",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Set_Aside",
+            "Money",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Relate_To",
+            "Anti-Money-Laundering Program",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Bancorp",
+            "COMP",
+            "Impact",
+            "Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Profit",
+            "ECON_INDICATOR",
+            "Rise",
+            "13%",
+            "NUM"
+        ],
+        [
+            "Profit",
+            "ECON_INDICATOR",
+            "From",
+            "$1.49",
+            "NUM",
+            "To",
+            "$1.69",
+            "NUM"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Undergo",
+            "Shift",
+            "CONCEPT"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Be",
+            "High-Tech",
+            "CONCEPT"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Be",
+            "Sophisticated",
+            "CONCEPT"
+        ],
+        [
+            "Big Banks",
+            "COMP",
+            "Be",
+            "Urban",
+            "CONCEPT"
+        ]
+    ]
+}

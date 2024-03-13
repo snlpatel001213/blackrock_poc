@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Suggest",
+            "Immigration Deal",
+            "EVENT"
+        ],
+        [
+            "Immigration Deal",
+            "EVENT",
+            "Relate_To",
+            "Young Immigrants",
+            "PERSON"
+        ],
+        [
+            "Immigration Deal",
+            "EVENT",
+            "Relate_To",
+            "Border Security",
+            "SECTOR"
+        ],
+        [
+            "Immigration Deal",
+            "EVENT",
+            "Impact",
+            "Comprehensive Changes",
+            "CONCEPT"
+        ]
+    ]
+}

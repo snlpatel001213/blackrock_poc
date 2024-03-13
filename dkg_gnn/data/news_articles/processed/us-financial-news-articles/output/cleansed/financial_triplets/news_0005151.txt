@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Tuna",
+            "PRODUCT",
+            "Participates_In",
+            "Tuna Auction",
+            "EVENT"
+        ],
+        [
+            "Tuna Auction",
+            "EVENT",
+            "Operate_In",
+            "Tokyo",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Imperva",
+            "COMP",
+            "Announce",
+            "Burns",
+            "PERSON"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Operate_In",
+            "Cybersecurity Company",
+            "ORG"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Participates_In",
+            "Profitable Growth Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Control",
+            "Finance",
+            "SECTOR"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Control",
+            "Accounting",
+            "SECTOR"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Control",
+            "Investor Relations",
+            "SECTOR"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Control",
+            "Facilities & Administration",
+            "SECTOR"
+        ],
+        [
+            "Burns",
+            "PERSON",
+            "Raise",
+            "RSUs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Imperva",
+            "COMP",
+            "Control",
+            "Imperva Defense Center",
+            "ORG"
+        ],
+        [
+            "Imperva Defense Center",
+            "ORG",
+            "Produce",
+            "Threat Intelligence",
+            "CONCEPT"
+        ],
+        [
+            "Imperva Defense Center",
+            "ORG",
+            "Produce",
+            "Reports",
+            "PRODUCT"
+        ]
+    ]
+}

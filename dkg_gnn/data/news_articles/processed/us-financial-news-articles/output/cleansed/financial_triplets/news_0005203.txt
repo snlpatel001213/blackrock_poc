@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Macy\u2019s Inc.",
+            "COMP",
+            "Impact",
+            "Healthy Economy",
+            "CONCEPT"
+        ],
+        [
+            "J.C. Penney Co.",
+            "COMP",
+            "Impact",
+            "Healthy Economy",
+            "CONCEPT"
+        ],
+        [
+            "Macy\u2019s Inc.",
+            "COMP",
+            "Has",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "J.C. Penney Co.",
+            "COMP",
+            "Has",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "November",
+            "GPE",
+            "Relate_To",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "December",
+            "GPE",
+            "Relate_To",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "Macy\u2019s Inc.",
+            "COMP",
+            "Raise",
+            "1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "J.C. Penney Co.",
+            "COMP",
+            "Raise",
+            "3.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Macy\u2019s Inc.",
+            "COMP",
+            "Participates_In",
+            "Critical Holiday Months",
+            "EVENT"
+        ],
+        [
+            "J.C. Penney Co.",
+            "COMP",
+            "Participates_In",
+            "Critical Holiday Months",
+            "EVENT"
+        ]
+    ]
+}

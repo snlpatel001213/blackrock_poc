@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Oil Exports",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Is_Member_Of",
+            "Oil Exports",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Not_Relate_To",
+            "Oil Exports",
+            "ECON_INDICATOR"
+        ],
+        [
+            "David Roche",
+            "PERSON",
+            "Announce",
+            "Protests Not Likely to Hit Oil Industry",
+            "EVENT"
+        ]
+    ]
+}

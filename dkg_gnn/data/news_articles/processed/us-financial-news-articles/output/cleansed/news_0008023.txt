@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Has",
+            "Toyota Motor Corp.",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "ORG",
+            "Operate_In",
+            "Auto Industry",
+            "SECTOR"
+        ],
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Lead",
+            "Toyota Motor Corp.",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "ORG",
+            "Impact",
+            "Auto Industry",
+            "SECTOR"
+        ],
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Die",
+            "Dec. 30",
+            "GPE"
+        ],
+        [
+            "Tatsuro Toyoda",
+            "PERSON",
+            "Cause_Of_Death",
+            "Pneumonia",
+            "CONCEPT"
+        ]
+    ]
+}

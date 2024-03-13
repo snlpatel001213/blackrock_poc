@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Reach",
+            "Brisbane International Semi-finals",
+            "EVENT"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Retire",
+            "null",
+            "null"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Treat",
+            "Hip Injury",
+            "CONCEPT"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Leading",
+            "Johanna Konta",
+            "PERSON"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Call",
+            "Injury Timeout",
+            "CONCEPT"
+        ],
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Play",
+            "Karolina Pliskova",
+            "PERSON"
+        ],
+        [
+            "Karolina Pliskova",
+            "PERSON",
+            "Defending Champion",
+            "null",
+            "null"
+        ],
+        [
+            "Kaia Kanepi",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ],
+        [
+            "Aliaksandra Sasnovich",
+            "PERSON",
+            "Come",
+            "null",
+            "null"
+        ],
+        [
+            "Aliaksandra Sasnovich",
+            "PERSON",
+            "Dump Out",
+            "Alize Cornet",
+            "PERSON"
+        ],
+        [
+            "Alize Cornet",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ],
+        [
+            "Anastasija Sevastova",
+            "PERSON",
+            "Ease",
+            "null",
+            "null"
+        ],
+        [
+            "Aleksandra Krunic",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ]
+    ]
+}

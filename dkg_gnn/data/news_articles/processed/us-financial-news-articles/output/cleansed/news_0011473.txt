@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "Canada",
+            "GPE",
+            "Believe",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Pull_Out_Of",
+            "NAFTA",
+            "EVENT"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Relate_To",
+            "North American Free Trade Agreement",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Say",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Kayla Tausche",
+            "PERSON",
+            "Reports_On",
+            "NAFTA",
+            "EVENT"
+        ]
+    ]
+}

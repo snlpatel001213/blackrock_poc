@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "BASIC",
+            "ORG",
+            "Announce",
+            "Robert Hayes",
+            "PERSON"
+        ],
+        [
+            "Robert Hayes",
+            "PERSON",
+            "Operate_In",
+            "BASIC",
+            "ORG"
+        ],
+        [
+            "Robert Hayes",
+            "PERSON",
+            "Control",
+            "Western Division",
+            "ORG"
+        ],
+        [
+            "Robert Hayes",
+            "PERSON",
+            "Has",
+            "More Than 15 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Custom Benefit Administrators Inc.",
+            "COMP",
+            "Merge",
+            "BASIC",
+            "ORG"
+        ],
+        [
+            "Robert Hayes",
+            "PERSON",
+            "Founder",
+            "Custom Benefit Administrators Inc.",
+            "COMP"
+        ],
+        [
+            "Robert Hayes",
+            "PERSON",
+            "Serve",
+            "NAPBA",
+            "ORG/REG"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Grow",
+            "Over 20% Per Year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Serve",
+            "More Than 15000 Employers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Has",
+            "7 Administrative Offices",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Operate_In",
+            "HR Services Sector",
+            "SECTOR"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HR Compliance Company",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "Administrative Solutions",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "Technology Solutions",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Relate_To",
+            "Human Resource Departments",
+            "ORG"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "COBRA Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "FSA Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HSA Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HRA Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "Commuter Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HR Compliance Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "BenAdmin Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HRIS Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Produce",
+            "HCM Payroll Services",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Control",
+            "Employers",
+            "ORG"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Manage",
+            "Risks",
+            "CONCEPT"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Improve",
+            "Staff Focus And Effectiveness",
+            "CONCEPT"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Has",
+            "Experienced Staff",
+            "COMP"
+        ],
+        [
+            "BASIC",
+            "ORG",
+            "Ensure",
+            "Consistency And Flexibility",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "output": [
+        [
+            "Criser Troutman Tanner Consulting Engineers",
+            "COMP",
+            "Operate_In",
+            "North Carolina",
+            "GPE"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Operate_In",
+            "Gulf Coast",
+            "GPE"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Operate_In",
+            "Southeast",
+            "GPE"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Operate_In",
+            "Mid-Atlantic",
+            "GPE"
+        ],
+        [
+            "CTT",
+            "COMP",
+            "Operate_In",
+            "Wilmington",
+            "GPE"
+        ],
+        [
+            "CTT",
+            "COMP",
+            "Operate_In",
+            "Raleigh",
+            "GPE"
+        ],
+        [
+            "CTT",
+            "COMP",
+            "Operate_In",
+            "Charlotte",
+            "GPE"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Has",
+            "~300",
+            "ECON_INDICATOR",
+            "Professionals"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Has",
+            "15",
+            "ECON_INDICATOR",
+            "Offices"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Participates_In",
+            "Engineering",
+            "SECTOR"
+        ],
+        [
+            "CTT",
+            "COMP",
+            "Participates_In",
+            "Engineering",
+            "SECTOR"
+        ],
+        [
+            "King Engineering",
+            "COMP",
+            "Control",
+            "ETC Partners",
+            "ORG/REG"
+        ],
+        [
+            "ETC Partners",
+            "ORG/REG",
+            "Invests_In",
+            "King Engineering",
+            "COMP"
+        ],
+        [
+            "ETC Partners",
+            "ORG/REG",
+            "Participates_In",
+            "Private Equity",
+            "SECTOR"
+        ]
+    ]
+}

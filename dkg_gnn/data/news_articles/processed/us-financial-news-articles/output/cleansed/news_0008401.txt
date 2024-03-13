@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Game of Thrones",
+            "EVENT",
+            "Relate_To",
+            "SnowVillage",
+            "GPE"
+        ],
+        [
+            "HBO Nordic",
+            "ORG",
+            "Participates_In",
+            "Game of Thrones Ice Hotel",
+            "GPE"
+        ],
+        [
+            "Lapland Hotels SnowVillage",
+            "ORG",
+            "Operate_In",
+            "Finland",
+            "GPE"
+        ],
+        [
+            "Lapland Hotels SnowVillage",
+            "ORG",
+            "Produce",
+            "Ice Hotel",
+            "GPE"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Include",
+            "Accommodation",
+            "ORG"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Include",
+            "Restaurant",
+            "ORG"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Include",
+            "Bar",
+            "ORG"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Include",
+            "Chapel",
+            "ORG"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Made_Of",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Made_Of",
+            "Ice",
+            "CONCEPT"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Quantity",
+            "20000000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ice",
+            "CONCEPT",
+            "Quantity",
+            "350000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ice Hotel",
+            "GPE",
+            "Location",
+            "Arctic Circle",
+            "CONCEPT"
+        ],
+        [
+            "SnowVillage",
+            "ORG",
+            "Near",
+            "Yll\u00e4s and Levi ski-resorts",
+            "ORG"
+        ],
+        [
+            "SnowVillage",
+            "ORG",
+            "Have",
+            "Rooms",
+            "ORG"
+        ],
+        [
+            "Rooms",
+            "ORG",
+            "Quantity",
+            "30",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rooms",
+            "ORG",
+            "Temperature",
+            "-2 to -5 degrees Celsius",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SnowVillage",
+            "ORG",
+            "Have",
+            "Suites",
+            "ORG"
+        ],
+        [
+            "Suites",
+            "ORG",
+            "Theme",
+            "White Walker",
+            "CONCEPT"
+        ],
+        [
+            "Suites",
+            "ORG",
+            "Theme",
+            "Hall of Faces",
+            "CONCEPT"
+        ],
+        [
+            "Suites",
+            "ORG",
+            "Theme",
+            "Ice Throne",
+            "CONCEPT"
+        ],
+        [
+            "Ice Throne",
+            "CONCEPT",
+            "Have",
+            "Ice Sculpture",
+            "CONCEPT"
+        ],
+        [
+            "Ice Sculpture",
+            "CONCEPT",
+            "Theme",
+            "The Mountain",
+            "PERSON"
+        ]
+    ]
+}

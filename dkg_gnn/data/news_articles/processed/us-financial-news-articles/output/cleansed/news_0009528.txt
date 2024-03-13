@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Qiagen Nv",
+            "COMP",
+            "Participates_In",
+            "Automated Tuberculosis Detection",
+            "EVENT"
+        ],
+        [
+            "Qiagen Nv",
+            "COMP",
+            "Produce",
+            "Quantiferon-TB Gold Plus",
+            "PRODUCT"
+        ],
+        [
+            "DiaSorin",
+            "COMP",
+            "Control",
+            "Liaison Analyzer Systems",
+            "PRODUCT"
+        ],
+        [
+            "DiaSorin",
+            "COMP",
+            "Announce",
+            "Add Novel Content",
+            "CONCEPT"
+        ],
+        [
+            "DiaSorin",
+            "COMP",
+            "Operate_In",
+            "Over 7000 Systems Installed",
+            "QUANTITY"
+        ],
+        [
+            "Qiagen Nv",
+            "COMP",
+            "Announce",
+            "Milestone Of Over 40 Million Quantiferon-TB Tests",
+            "QUANTITY"
+        ]
+    ]
+}

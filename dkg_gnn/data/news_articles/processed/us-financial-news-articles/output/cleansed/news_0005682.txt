@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Toshiba",
+            "COMP",
+            "Gain",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Acquire",
+            "Westinghouse",
+            "COMP"
+        ],
+        [
+            "Westinghouse",
+            "COMP",
+            "Bankrupt",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Own",
+            "Westinghouse",
+            "COMP"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Subsidiary_Of",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Struggle",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

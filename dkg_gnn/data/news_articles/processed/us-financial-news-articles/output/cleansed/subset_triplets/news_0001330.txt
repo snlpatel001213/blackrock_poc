@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "COMP",
+            "Negative_Impact_On",
+            "Oracle",
+            "COMP"
+        ],
+        [
+            "Salesforce",
+            "COMP",
+            "Negative_Impact_On",
+            "Oracle",
+            "COMP"
+        ],
+        [
+            "Oracle",
+            "COMP",
+            "Control",
+            "Database Technology",
+            "PRODUCT"
+        ],
+        [
+            "Oracle",
+            "COMP",
+            "Control",
+            "Java",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Operate_In",
+            "Cloud",
+            "SECTOR"
+        ]
+    ]
+}

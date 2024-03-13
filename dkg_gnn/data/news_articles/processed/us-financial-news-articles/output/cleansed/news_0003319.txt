@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Liverpool",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Is_Member_Of",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Operate_In",
+            "Soccer Football",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Impact",
+            "Trophy Drought",
+            "CONCEPT"
+        ],
+        [
+            "Livergen Klopp",
+            "PERSON",
+            "Operate_In",
+            "2015",
+            "TIME"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Control",
+            "Merseyside Club",
+            "GPE"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Last",
+            "Triumph",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Lost",
+            "Europa League",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Lost",
+            "League Cup",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Use",
+            "Quality of Players",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Use",
+            "Quality of Squad",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Field",
+            "Strong Team",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Play",
+            "Everton",
+            "GPE"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Respect",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Have",
+            "Few People",
+            "CONCEPT"
+        ],
+        [
+            "Mohamed Salah",
+            "PERSON",
+            "Miss",
+            "Everton Game",
+            "EVENT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Miss",
+            "Everton Game",
+            "EVENT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Refuse",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Return",
+            "Manchester City Game",
+            "EVENT"
+        ]
+    ]
+}

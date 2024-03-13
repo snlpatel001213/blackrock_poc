@@ -1,0 +1,127 @@
+{
+    "output": [
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Promote",
+            "Gregory Abel",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Promote",
+            "Ajit Jain",
+            "PERSON"
+        ],
+        [
+            "Gregory Abel",
+            "PERSON",
+            "Named",
+            "Vice Chairman for non-insurance business operations",
+            "ORG_POSITION"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Named",
+            "Vice Chairman for insurance operations",
+            "ORG_POSITION"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Add",
+            "Gregory Abel",
+            "PERSON",
+            "To",
+            "Board",
+            "ORG_POSITION"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Add",
+            "Ajit Jain",
+            "PERSON",
+            "To",
+            "Board",
+            "ORG_POSITION"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Operate_In",
+            "Energy sector",
+            "SECTOR"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Operate_In",
+            "Insurance sector",
+            "SECTOR"
+        ],
+        [
+            "Gregory Abel",
+            "PERSON",
+            "Chairman",
+            "Berkshire Hathaway Energy unit",
+            "COMP"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Executive Vice President",
+            "National Indemnity Co",
+            "COMP"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Oversee",
+            "Berkshire\u2019s reinsurance operations",
+            "ORG_POSITION"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Chief Executive",
+            "Berkshire Hathaway Inc",
+            "COMP"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Investment Deputies",
+            "Todd Combs",
+            "PERSON",
+            "and",
+            "Ted Weschler",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Prepare",
+            "New Chief Executive",
+            "PERSON"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Father",
+            "Howard",
+            "PERSON"
+        ],
+        [
+            "Howard",
+            "PERSON",
+            "Expected",
+            "Non-executive Chairman",
+            "ORG_POSITION",
+            "Berkshire Hathaway Inc",
+            "COMP"
+        ]
+    ]
+}

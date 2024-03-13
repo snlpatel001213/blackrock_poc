@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Blackstone Group LP",
+            "ORG",
+            "Hire",
+            "Chris Blunt",
+            "PERSON"
+        ],
+        [
+            "Chris Blunt",
+            "PERSON",
+            "Work_For",
+            "Blackstone Group LP",
+            "ORG"
+        ],
+        [
+            "Blackstone Group LP",
+            "ORG",
+            "Seek",
+            "$100 billion",
+            "ECON_INDICATOR",
+            "From",
+            "Insurance Companies",
+            "GPE"
+        ],
+        [
+            "Blackstone Group LP",
+            "ORG",
+            "Operate_In",
+            "Wall Street",
+            "GPE"
+        ],
+        [
+            "Blackstone Group LP",
+            "ORG",
+            "Manage",
+            "Assets",
+            "COMP"
+        ],
+        [
+            "Blackstone Group LP",
+            "ORG",
+            "Currently_Oversee",
+            "About",
+            "$23 billion",
+            "ECON_INDICATOR",
+            "For",
+            "Insurance Companies",
+            "GPE"
+        ]
+    ]
+}

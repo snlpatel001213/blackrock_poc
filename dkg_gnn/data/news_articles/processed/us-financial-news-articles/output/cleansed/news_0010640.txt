@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Step_Down",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Operate_In",
+            "Right-Wing News",
+            "SECTOR"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Quoted_In",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Criticize",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Is_Member_Of",
+            "Former White House Chief Strategist",
+            "SECTOR"
+        ],
+        [
+            "Breitbart Chief Executive",
+            "PERSON",
+            "Statement",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Grateful",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Contributions",
+            "Breitbart News",
+            "ORG"
+        ]
+    ]
+}

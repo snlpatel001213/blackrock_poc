@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CoinMarketCap",
+            "COMP",
+            "Remove",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Crypto Trading",
+            "CONCEPT"
+        ],
+        [
+            "BitMex",
+            "COMP",
+            "Relate_To",
+            "Crypto Trading",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Bitstamp Exchange",
+            "COMP"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Impact",
+            "Crypto Prices",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Financial Authorities",
+            "ORG",
+            "Inspect",
+            "Banks",
+            "COMP"
+        ],
+        [
+            "Bithumb",
+            "COMP",
+            "Is_Member_Of",
+            "South Korean Exchanges",
+            "COMP"
+        ],
+        [
+            "Coinone",
+            "COMP",
+            "Is_Member_Of",
+            "South Korean Exchanges",
+            "COMP"
+        ],
+        [
+            "Korbit",
+            "COMP",
+            "Is_Member_Of",
+            "South Korean Exchanges",
+            "COMP"
+        ],
+        [
+            "CoinMarketCap",
+            "COMP",
+            "Not",
+            "Available",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Have",
+            "Premium",
+            "ECON_INDICATOR"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Decrease",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Create",
+            "XRP",
+            "PRODUCT"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Trade",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Trade",
+            "50 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Provide",
+            "Blockchain-Based Banking Payments",
+            "CONCEPT"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Facilitate",
+            "Cross-Border Payments",
+            "CONCEPT"
+        ],
+        [
+            "XRipple",
+            "COMP",
+            "Settle",
+            "Institutional Settlement",
+            "CONCEPT"
+        ]
+    ]
+}

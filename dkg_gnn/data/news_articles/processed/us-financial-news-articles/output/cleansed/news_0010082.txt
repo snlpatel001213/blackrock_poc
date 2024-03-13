@@ -1,0 +1,104 @@
+{
+    "output": [
+        [
+            "Novo Nordisk",
+            "ORG",
+            "Bid",
+            "Ablynx",
+            "ORG"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Be_Bid_For",
+            "Novo Nordisk",
+            "ORG"
+        ],
+        [
+            "Celgene Corp",
+            "ORG",
+            "Acquire",
+            "Impact Biomedicines",
+            "ORG"
+        ],
+        [
+            "Impact Biomedicines",
+            "ORG",
+            "Be_Acquired_By",
+            "Celgene Corp",
+            "ORG"
+        ],
+        [
+            "Stephen Feinberg",
+            "PERSON",
+            "Not_Interested_In",
+            "Deutsche Bank",
+            "ORG",
+            "And",
+            "Commerzbank",
+            "ORG"
+        ],
+        [
+            "Cerberus",
+            "ORG",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG",
+            "Be_Bidded_For",
+            "Three private-equity investors",
+            "ORG"
+        ],
+        [
+            "Three private-equity investors",
+            "ORG",
+            "Bid",
+            "HSH Nordbank",
+            "ORG"
+        ],
+        [
+            "TP ICAP Plc",
+            "ORG",
+            "Buy",
+            "SCS Commodities Corp",
+            "ORG"
+        ],
+        [
+            "Kuwait Energy",
+            "ORG",
+            "Talks_To_Merge",
+            "SOCO International",
+            "ORG"
+        ],
+        [
+            "SOCO International",
+            "ORG",
+            "Talks_To_Merge",
+            "Kuwait Energy",
+            "ORG"
+        ],
+        [
+            "Noble Group",
+            "ORG",
+            "Sell",
+            "American power and natural gas unit",
+            "PRODUCT",
+            "To",
+            "Mercuria",
+            "ORG"
+        ],
+        [
+            "Mercuria",
+            "ORG",
+            "Buy",
+            "American power and natural gas unit",
+            "PRODUCT",
+            "From",
+            "Noble Group",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "List",
+            "Tibet",
+            "GPE"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "List",
+            "Taiwan",
+            "GPE"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Apologize",
+            "Chinese Sovereignty",
+            "CONCEPT"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Shanghai Cyberspace Administration",
+            "ORG/GOV",
+            "Close_Down",
+            "Marriott Chinese Website",
+            "COMP"
+        ],
+        [
+            "Shanghai Cyberspace Administration",
+            "ORG/GOV",
+            "Shut",
+            "Marriott Mobile Phone Application",
+            "COMP"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "List",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "List",
+            "Macau",
+            "GPE"
+        ],
+        [
+            "Shanghai Government",
+            "ORG/GOV",
+            "Ask",
+            "Marriott",
+            "COMP"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Take_Down",
+            "Relevant Content",
+            "CONCEPT"
+        ],
+        [
+            "Huangpu District Market Supervision Bureau",
+            "ORG/GOV",
+            "Launch",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Suspected",
+            "Violate",
+            "CONCEPT"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Violate",
+            "China Cyber Security Law",
+            "CONCEPT"
+        ],
+        [
+            "Marriott International Inc.",
+            "COMP",
+            "Violate",
+            "China Advertisement Law",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Companies",
+            "COMP",
+            "Hit",
+            "Chinese Economic Retaliation",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Companies",
+            "COMP",
+            "Hit",
+            "Retaliation",
+            "CONCEPT"
+        ],
+        [
+            "Seoul",
+            "GPE",
+            "Deployment",
+            "US Missile Shield System",
+            "CONCEPT"
+        ]
+    ]
+}

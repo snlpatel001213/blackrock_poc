@@ -1,0 +1,106 @@
+{
+    "output": [
+        [
+            "Villarreal",
+            "COMP",
+            "Resign",
+            "Bakambu",
+            "PERSON"
+        ],
+        [
+            "Bakambu",
+            "PERSON",
+            "Move",
+            "Beijing Guoan",
+            "COMP"
+        ],
+        [
+            "Bakambu",
+            "PERSON",
+            "Join",
+            "Chinese Super League",
+            "SECTOR"
+        ],
+        [
+            "Bakambu",
+            "PERSON",
+            "Score",
+            "48 goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bakambu",
+            "PERSON",
+            "Join",
+            "Villarreal",
+            "COMP",
+            "from",
+            "Bursaspor",
+            "COMP"
+        ],
+        [
+            "Bakambu",
+            "PERSON",
+            "Net",
+            "9 times",
+            "ECON_INDICATOR",
+            "in",
+            "La Liga",
+            "SECTOR"
+        ],
+        [
+            "Beijing Guoan",
+            "COMP",
+            "Pay",
+            "40 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Villarreal",
+            "COMP",
+            "Operate_In",
+            "Liga",
+            "SECTOR"
+        ],
+        [
+            "Villarreal",
+            "COMP",
+            "Play",
+            "King\u2019s Cup game",
+            "EVENT",
+            "against",
+            "Leganes",
+            "COMP"
+        ],
+        [
+            "Villarreal",
+            "COMP",
+            "Rank",
+            "6th",
+            "ECON_INDICATOR",
+            "in",
+            "Liga",
+            "SECTOR"
+        ],
+        [
+            "Villarreal",
+            "COMP",
+            "Trail",
+            "18 points",
+            "ECON_INDICATOR",
+            "behind",
+            "Barcelona",
+            "COMP"
+        ],
+        [
+            "Villarreal",
+            "COMP",
+            "Face",
+            "Olympique Lyonnais",
+            "COMP",
+            "in",
+            "Europa League",
+            "SECTOR"
+        ]
+    ]
+}

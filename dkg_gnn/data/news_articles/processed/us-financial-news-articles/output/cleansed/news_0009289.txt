@@ -1,0 +1,185 @@
+{
+    "output": [
+        [
+            "Israeli military",
+            "ORG/GOV",
+            "Destroy",
+            "attack tunnel",
+            "CONCEPT"
+        ],
+        [
+            "Hamas",
+            "ORG",
+            "Operate_In",
+            "Gaza",
+            "GPE"
+        ],
+        [
+            "attack tunnel",
+            "CONCEPT",
+            "Run_Through",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "attack tunnel",
+            "CONCEPT",
+            "Run_Through",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Confirm",
+            "attack",
+            "CONCEPT"
+        ],
+        [
+            "Hamas",
+            "ORG",
+            "No_Comment",
+            "attack",
+            "CONCEPT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "No_Comment",
+            "attack",
+            "CONCEPT"
+        ],
+        [
+            "Tensions",
+            "CONCEPT",
+            "Rise_Since",
+            "Trump recognize Jerusalem as Israel capital",
+            "EVENT"
+        ],
+        [
+            "Gaza militants",
+            "ORG",
+            "Launch",
+            "rockets",
+            "PRODUCT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Respond_With",
+            "air strikes",
+            "CONCEPT"
+        ],
+        [
+            "Netanyahu",
+            "PERSON",
+            "Address",
+            "criticism",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Respond_With",
+            "greater force",
+            "CONCEPT"
+        ],
+        [
+            "Hamas",
+            "ORG",
+            "Bear",
+            "overall responsibility",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Not_Looking_For",
+            "confrontation",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Could_Not_Abrogated_By",
+            "situation in which Israelis are harmed by fire",
+            "CONCEPT"
+        ],
+        [
+            "Colonel Jonathan Conricus",
+            "PERSON",
+            "Describe",
+            "target hit",
+            "CONCEPT"
+        ],
+        [
+            "target hit",
+            "CONCEPT",
+            "1.5 km long",
+            "CONCEPT"
+        ],
+        [
+            "target hit",
+            "CONCEPT",
+            "Run_Through",
+            "Kerem Shalom",
+            "PRODUCT"
+        ],
+        [
+            "target hit",
+            "CONCEPT",
+            "Run_Into",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Kerem Shalom",
+            "PRODUCT",
+            "Shut_Down_Before",
+            "Israeli attack",
+            "CONCEPT"
+        ],
+        [
+            "Underground tunnels",
+            "CONCEPT",
+            "Used_To",
+            "smuggle goods",
+            "CONCEPT"
+        ],
+        [
+            "Underground tunnels",
+            "CONCEPT",
+            "Used_To",
+            "bring in weapons",
+            "CONCEPT"
+        ],
+        [
+            "Hamas",
+            "ORG",
+            "Use",
+            "tunnels",
+            "CONCEPT"
+        ],
+        [
+            "Hamas",
+            "ORG",
+            "Launch",
+            "attacks",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Construct",
+            "sensor-equipped underground wall",
+            "CONCEPT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Aim",
+            "complete project by mid-2019",
+            "TIME"
+        ]
+    ]
+}

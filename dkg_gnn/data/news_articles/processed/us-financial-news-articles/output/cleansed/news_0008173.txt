@@ -1,0 +1,195 @@
+{
+    "output": [
+        [
+            "Fire and Fury: Inside the Trump White House",
+            "EVENT",
+            "Relate_To",
+            "Ivanka Trump",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Author",
+            "Fire and Fury: Inside the Trump White House",
+            "EVENT"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Hope",
+            "President of the United States",
+            "ORG/GOV"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Wife",
+            "Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Referred",
+            "Jarvanka",
+            "CONCEPT"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Husband",
+            "Ivanka Trump",
+            "PERSON"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Work",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Former White House strategist",
+            "Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Earnest deal",
+            "Run for President",
+            "ORG/GOV"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "First woman president",
+            "Ivanka Trump",
+            "PERSON"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Asked",
+            "Consider getting into politics",
+            "CONCEPT"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "EVP of development and acquisitions",
+            "Trump Organization",
+            "COMP"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Head",
+            "Ivanka Trump brand",
+            "COMP"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Age",
+            "34",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Age",
+            "50",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Noting",
+            "Politics is a tough business",
+            "CONCEPT"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Relationship",
+            "Father",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Treat",
+            "Father",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Degree of detachment",
+            "Father",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Make fun",
+            "Father\u2019s comb-over",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "President of the United States",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Attorney",
+            "Charles Harder",
+            "PERSON"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Demand",
+            "Cease and desist",
+            "CONCEPT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Investigate",
+            "Defamation of the Trumps",
+            "CONCEPT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Investigate",
+            "Invasion of privacy",
+            "CONCEPT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Demand",
+            "Bannon stop making allegedly false statements",
+            "CONCEPT"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Make allegedly false statements",
+            "Trump and his family",
+            "PERSON"
+        ]
+    ]
+}

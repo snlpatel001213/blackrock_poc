@@ -1,0 +1,122 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "Security Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Has",
+            "Automated Trading Program",
+            "CONCEPT"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Sell",
+            "Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Work_For",
+            "Intel",
+            "COMP"
+        ],
+        [
+            "Sen. Jack Reed",
+            "PERSON",
+            "Ask",
+            "Federal Regulators",
+            "ORG/GOV"
+        ],
+        [
+            "Sen. John Kennedy",
+            "PERSON",
+            "Ask",
+            "Federal Regulators",
+            "ORG/GOV"
+        ],
+        [
+            "Federal Regulators",
+            "ORG/GOV",
+            "Receive",
+            "Letter",
+            "DOCUMENT"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Possibly_Violate",
+            "Insider Trading Laws",
+            "CONCEPT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Decline",
+            "Comment",
+            "COMMUNICATION"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Not_Immediately_Respond",
+            "Request",
+            "COMMUNICATION"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Cooperate",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Stock_Price",
+            "$43.62",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Sell",
+            "Stock",
+            "FIN_INSTRUMENT",
+            "At",
+            "Prices",
+            "Ranging",
+            "From",
+            "$44.05",
+            "To",
+            "$44.56",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Require",
+            "CEO",
+            "PERSON",
+            "To_Own",
+            "Minimum",
+            "250,000",
+            "Shares",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Puerto Rico",
+            "GPE",
+            "Is_Member_Of",
+            "Ricardo Rossello",
+            "PERSON"
+        ],
+        [
+            "Ricardo Rossello",
+            "PERSON",
+            "Say",
+            "Trumps comments",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "Haitian and African immigrants",
+            "GPE"
+        ],
+        [
+            "Ricardo Rossello",
+            "PERSON",
+            "Call",
+            "Trumps comment",
+            "CONCEPT"
+        ]
+    ]
+}

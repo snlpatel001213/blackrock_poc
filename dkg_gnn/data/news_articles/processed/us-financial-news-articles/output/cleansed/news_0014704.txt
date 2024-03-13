@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Delta",
+            "ORG/AIR",
+            "Raise",
+            "Profit Outlook",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Has",
+            "Second Largest Carrier",
+            "CONCEPT"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Lifted",
+            "Forecasts for Unit Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Lifted",
+            "Forecasts for Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Impact",
+            "Full Year",
+            "TIME"
+        ],
+        [
+            "Delta",
+            "ORG/AIR",
+            "Relate_To",
+            "Holiday Season",
+            "CONCEPT"
+        ]
+    ]
+}

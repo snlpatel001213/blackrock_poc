@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Casella Waste Systems, Inc.",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "Casella Waste Systems, Inc.",
+            "ORG",
+            "Operate_In",
+            "Northeastern United States",
+            "GPE"
+        ],
+        [
+            "Casella Waste Systems, Inc.",
+            "ORG",
+            "Impact",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Casella Waste Systems, Inc.",
+            "ORG",
+            "Impact",
+            "Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Complete Disposal Company, Inc.",
+            "ORG",
+            "Operate_In",
+            "Greater Holyoke, MA",
+            "GPE"
+        ]
+    ]
+}

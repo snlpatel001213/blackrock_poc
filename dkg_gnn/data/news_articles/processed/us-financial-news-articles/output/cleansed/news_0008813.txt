@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "Bank stocks",
+            "COMP"
+        ],
+        [
+            "Bank stocks",
+            "COMP",
+            "Has",
+            "Selloff",
+            "EVENT"
+        ],
+        [
+            "Treasury yields",
+            "ECON_INDICATOR",
+            "Rise",
+            null,
+            null
+        ],
+        [
+            "Real-estate stocks",
+            "COMP",
+            "Decrease",
+            null,
+            null
+        ],
+        [
+            "Utility stocks",
+            "COMP",
+            "Decrease",
+            null,
+            null
+        ],
+        [
+            "Real-estate stocks",
+            "COMP",
+            "Relate_To",
+            "Bondlike",
+            "CONCEPT"
+        ],
+        [
+            "Utility stocks",
+            "COMP",
+            "Relate_To",
+            "Bondlike",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Consider",
+            "Real-estate stocks",
+            "COMP"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Consider",
+            "Utility stocks",
+            "COMP"
+        ]
+    ]
+}

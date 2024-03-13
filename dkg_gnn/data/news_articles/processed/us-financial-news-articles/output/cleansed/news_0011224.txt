@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Announce",
+            "Appointment of David Lindstrom",
+            "EVENT"
+        ],
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Has",
+            "MidWestOne Bank",
+            "COMP"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Join",
+            "MidWestOne",
+            "ORG"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Previously_Worked",
+            "BMO Harris Bank",
+            "COMP"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Previously_Worked",
+            "M&I Bank",
+            "COMP"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Operate_In",
+            "Minneapolis, Minnesota",
+            "GPE"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Is_Member_Of",
+            "Minneapolis Chamber of Commerce",
+            "ORG"
+        ],
+        [
+            "David Lindstrom",
+            "PERSON",
+            "Is_Member_Of",
+            "Minnesota Home Ownership Center",
+            "ORG"
+        ],
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Provides",
+            "Electronic_Delivery_of_Financial_Services",
+            "CONCEPT"
+        ],
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Trades_On",
+            "NASDAQ Global Select Market",
+            "COMP"
+        ],
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Has",
+            "43 Banking Offices",
+            "COMP"
+        ],
+        [
+            "MidWestOne Financial Group",
+            "ORG",
+            "Operate_In",
+            "Iowa, Minnesota, Wisconsin, and Florida",
+            "GPE"
+        ]
+    ]
+}

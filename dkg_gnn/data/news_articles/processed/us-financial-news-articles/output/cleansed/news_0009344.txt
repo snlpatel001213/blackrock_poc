@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "Fire and Fury",
+            "BOOK"
+        ],
+        [
+            "Fire and Fury",
+            "BOOK",
+            "Relate_To",
+            "Trump White House",
+            "ORG"
+        ],
+        [
+            "Fire and Fury",
+            "BOOK",
+            "Impact",
+            "Trump Administration",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Control",
+            "Finances",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Involve_In",
+            "Investigation",
+            "EVENT"
+        ],
+        [
+            "Mueller",
+            "PERSON",
+            "Lead",
+            "Investigation",
+            "EVENT"
+        ],
+        [
+            "Mueller",
+            "PERSON",
+            "Investigate",
+            "Trump Finances",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Deny",
+            "Cooperation",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Negative_Impact_On",
+            "Mueller Investigation",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Have",
+            "Legal Team",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Have",
+            "Spokeswoman",
+            "ORG"
+        ]
+    ]
+}

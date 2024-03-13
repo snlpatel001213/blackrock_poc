@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Princess Charlotte",
+            "PERSON",
+            "Starts",
+            "Nursery School",
+            "PRODUCT"
+        ],
+        [
+            "Princess Charlotte",
+            "PERSON",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Princess Charlotte",
+            "PERSON",
+            "Is_Member_Of",
+            "British Royal Family",
+            "ORG"
+        ],
+        [
+            "Willcocks Nursery School",
+            "PRODUCT",
+            "Control",
+            "Nursery School",
+            "PRODUCT"
+        ],
+        [
+            "Willcocks Nursery School",
+            "PRODUCT",
+            "Rated",
+            "Outstanding",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Willcocks Nursery School",
+            "PRODUCT",
+            "Operate_In",
+            "Kensington",
+            "GPE"
+        ],
+        [
+            "Prince William",
+            "PERSON",
+            "Participates_In",
+            "British Royal Family",
+            "ORG"
+        ],
+        [
+            "Prince William",
+            "PERSON",
+            "Spouse_Of",
+            "Kate",
+            "PERSON"
+        ],
+        [
+            "Kate",
+            "PERSON",
+            "Take_Pictures",
+            "Photograph",
+            "PRODUCT"
+        ],
+        [
+            "Kate",
+            "PERSON",
+            "Spouse_Of",
+            "Prince William",
+            "PERSON"
+        ],
+        [
+            "Kensington Palace",
+            "GPE",
+            "Location_Of",
+            "Nursery School",
+            "PRODUCT"
+        ],
+        [
+            "Kensington Palace",
+            "GPE",
+            "Location_Of",
+            "Princess Charlotte",
+            "PERSON"
+        ],
+        [
+            "British Throne",
+            "CONCEPT",
+            "Fourth_In_Line",
+            "Princess Charlotte",
+            "PERSON"
+        ],
+        [
+            "British Throne",
+            "CONCEPT",
+            "Members_Of",
+            "Prince William",
+            "PERSON"
+        ],
+        [
+            "British Throne",
+            "CONCEPT",
+            "Members_Of",
+            "Prince George",
+            "PERSON"
+        ],
+        [
+            "British Throne",
+            "CONCEPT",
+            "Members_Of",
+            "Prince Charles",
+            "PERSON"
+        ],
+        [
+            "British Royal Family",
+            "ORG",
+            "Expecting",
+            "Third Baby",
+            "CONCEPT"
+        ],
+        [
+            "Prince George",
+            "PERSON",
+            "Attend",
+            "Primary School",
+            "PRODUCT"
+        ],
+        [
+            "Prince George",
+            "PERSON",
+            "Attend",
+            "Thomas\u2019s Battersea",
+            "PRODUCT"
+        ],
+        [
+            "Thomas\u2019s Battersea",
+            "PRODUCT",
+            "Location_In",
+            "Southwest London",
+            "GPE"
+        ]
+    ]
+}

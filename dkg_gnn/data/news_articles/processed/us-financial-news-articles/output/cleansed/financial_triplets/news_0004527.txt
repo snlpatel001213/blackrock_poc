@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "R. Bruce McDonald",
+            "PERSON",
+            "Is_Member_Of",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Jeff Stafeil",
+            "PERSON",
+            "Is_Member_Of",
+            "Adient",
+            "ORG"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Operate_In",
+            "Automotive Seating Industry",
+            "SECTOR"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Produce",
+            "Automotive Seating",
+            "PRODUCT"
+        ],
+        [
+            "Adient",
+            "ORG",
+            "Operate_In",
+            "34 Countries Worldwide",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Huawei",
+            "PERSON",
+            "Confirm",
+            "Not sell",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Introduce",
+            "New products",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Operate_In",
+            "U.S. Market",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Present",
+            "Unique challenges",
+            "CONCEPT"
+        ],
+        [
+            "Mate 10 Pro",
+            "PRODUCT",
+            "Not sell",
+            "Directly",
+            "ADV"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Launch",
+            "New products",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Hold",
+            "Press conference",
+            "EVENT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Unveil",
+            "Mate 10 Pro",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Sell",
+            "Online channels",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Push",
+            "Expand out",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Key market",
+            "Smartphone maker",
+            "COMP"
+        ],
+        [
+            "Carriers",
+            "ORG",
+            "Crucial",
+            "Help",
+            "COMP"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Overtake",
+            "Apple",
+            "PERSON"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Launch",
+            "Handsets",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Contain",
+            "AI chip",
+            "PRODUCT"
+        ],
+        [
+            "AT&T",
+            "COMP",
+            "Talks",
+            "Fall through",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Raise concerns",
+            "Huawei",
+            "PERSON"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Release phones",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Sold online",
+            "Carriers",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Block",
+            "Alibaba affiliate",
+            "COMP"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Run in",
+            "U.S. government",
+            "ORG/GOV"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Deny",
+            "Claims",
+            "CONCEPT"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Claim",
+            "Risk to national security",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Build back doors",
+            "Leak sensitive information",
+            "CONCEPT"
+        ]
+    ]
+}

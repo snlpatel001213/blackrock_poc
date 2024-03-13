@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Kahn Swick & Foti, LLC",
+            "ORG",
+            "Remind",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Purchase",
+            "ADRs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ADRs",
+            "FIN_INSTRUMENT",
+            "Of",
+            "Credit Suisse",
+            "COMP"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Charged",
+            "Fail",
+            "VERB"
+        ],
+        [
+            "Fail",
+            "VERB",
+            "Disclose",
+            "Material Information",
+            "CONCEPT"
+        ],
+        [
+            "Material Information",
+            "CONCEPT",
+            "During",
+            "Class Period",
+            "EVENT"
+        ],
+        [
+            "Class Period",
+            "EVENT",
+            "Violate",
+            "Federal Securities Laws",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Acquire",
+            "Risky Securities",
+            "PRODUCT"
+        ],
+        [
+            "Risky Securities",
+            "PRODUCT",
+            "Valued",
+            "Billions",
+            "QUANTITY"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Financial Statements",
+            "Materially False",
+            "ADJ"
+        ],
+        [
+            "Materially False",
+            "ADJ",
+            "At",
+            "Relevant Times",
+            "TIME"
+        ]
+    ]
+}

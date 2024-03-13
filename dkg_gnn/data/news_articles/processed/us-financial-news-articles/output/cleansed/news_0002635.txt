@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Announce",
+            "Dr. Hugh S. Taylor, M.D.",
+            "PERSON"
+        ],
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Operate_In",
+            "Salt Lake City",
+            "GPE"
+        ],
+        [
+            "Dr. Hugh S. Taylor, M.D.",
+            "PERSON",
+            "Participates_In",
+            "Predictive Technology Group\u2019s Scientific Advisory Board",
+            "ORG"
+        ],
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Produce",
+            "genetic testing, diagnostics, and therapeutic products",
+            "PRODUCT"
+        ],
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Relate_To",
+            "precision medicine",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Hugh S. Taylor, M.D.",
+            "PERSON",
+            "Control",
+            "extensive clinical research and development expertise in endometriosis and women\u2019s health",
+            "CONCEPT"
+        ],
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Plan",
+            "launch several new molecular diagnostic tests focused on women\u2019s health",
+            "PRODUCT"
+        ],
+        [
+            "Predictive Technology Group, Inc.",
+            "ORG",
+            "Plan",
+            "therapeutic drug for the potential treatment of endometriosis",
+            "PRODUCT"
+        ]
+    ]
+}

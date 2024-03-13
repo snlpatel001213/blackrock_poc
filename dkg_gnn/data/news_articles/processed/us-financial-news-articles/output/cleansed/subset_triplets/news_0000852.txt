@@ -1,0 +1,20 @@
+{
+    "output": [
+        [
+            "Schiphol Airport",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Schiphol Airport",
+            "GPE",
+            "Has",
+            "More Than 1200",
+            "ECON_INDICATOR",
+            "Incoming and Outgoing Flights",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Britain\u2019s Agriculture Ministry",
+            "ORG/GOV",
+            "Find",
+            "H5N6 strain",
+            "CONCEPT"
+        ],
+        [
+            "H5N6 strain",
+            "CONCEPT",
+            "Locate",
+            "South Dorset",
+            "GPE"
+        ],
+        [
+            "H5N6 strain",
+            "CONCEPT",
+            "Appear",
+            "UK",
+            "GPE"
+        ],
+        [
+            "H5N6 strain",
+            "CONCEPT",
+            "Identify",
+            "Wild birds",
+            "GPE"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "Announce",
+            "Risk low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "State",
+            "Risk low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "H5N6 strain",
+            "CONCEPT",
+            "Different",
+            "H7N9 strain",
+            "CONCEPT"
+        ],
+        [
+            "H7N9 strain",
+            "CONCEPT",
+            "Affect",
+            "People",
+            "PERSON"
+        ],
+        [
+            "H7N9 strain",
+            "CONCEPT",
+            "Cause",
+            "Death",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Experience",
+            "Death",
+            "EVENT"
+        ]
+    ]
+}

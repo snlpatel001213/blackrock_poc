@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Wec Energy Group Inc",
+            "COMP",
+            "Appoint",
+            "Danny Cunningham",
+            "PERSON"
+        ],
+        [
+            "Danny Cunningham",
+            "PERSON",
+            "Is_Member_Of",
+            "Deloitte & Touche LLP",
+            "ORG"
+        ],
+        [
+            "Deloitte & Touche LLP",
+            "ORG",
+            "Has_Role",
+            "Chief Risk Officer",
+            "CONCEPT"
+        ]
+    ]
+}

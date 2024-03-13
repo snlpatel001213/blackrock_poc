@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Iceland",
+            "GPE",
+            "Introduce",
+            "Legislation",
+            "ORG"
+        ],
+        [
+            "Iceland",
+            "GPE",
+            "Impact",
+            "Pay Equality",
+            "CONCEPT"
+        ],
+        [
+            "Iceland",
+            "GPE",
+            "Has",
+            "Government Certificate",
+            "ORG"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Impacted",
+            "Pay Equality",
+            "CONCEPT"
+        ],
+        [
+            "Iceland",
+            "GPE",
+            "Is_Member_Of",
+            "World\u2019,s Most Gender Equal Country",
+            "CONCEPT"
+        ],
+        [
+            "Yemen",
+            "GPE",
+            "Is_Member_Of",
+            "Least Gender-equal",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Earn",
+            "$12,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Earn",
+            "$21,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Add",
+            "$250 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Add",
+            "$1,750 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Add",
+            "$2.5 Trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Hourly Pay Rates",
+            "9.1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Earn",
+            "More",
+            "CONCEPT"
+        ],
+        [
+            "Full-time Employees",
+            "PERSON",
+            "Earn",
+            "More",
+            "CONCEPT"
+        ],
+        [
+            "Burundi",
+            "GPE",
+            "Top Ranking",
+            "Economic Participation",
+            "CONCEPT"
+        ],
+        [
+            "Barbados",
+            "GPE",
+            "Top Ranking",
+            "Economic Participation",
+            "CONCEPT"
+        ],
+        [
+            "Bahamas",
+            "GPE",
+            "Top Ranking",
+            "Economic Participation",
+            "CONCEPT"
+        ],
+        [
+            "Benin",
+            "GPE",
+            "Top Ranking",
+            "Economic Participation",
+            "CONCEPT"
+        ],
+        [
+            "Belarus",
+            "GPE",
+            "Top Ranking",
+            "Economic Participation",
+            "CONCEPT"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Worst",
+            "Economic Gender Gap",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Worst",
+            "Economic Gender Gap",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Worst",
+            "Economic Gender Gap",
+            "CONCEPT"
+        ],
+        [
+            "Yemen",
+            "GPE",
+            "Worst",
+            "Economic Gender Gap",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Worst",
+            "Economic Gender Gap",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Senior Managers",
+            "22%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Earn",
+            "16.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Commission",
+            "ORG",
+            "Propose",
+            "Two-year Plan",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Monitor",
+            "Diversity Policies",
+            "CONCEPT"
+        ]
+    ]
+}

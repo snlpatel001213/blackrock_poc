@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Captains of the Revolutionary War",
+            "PERSON",
+            "Has",
+            "Houses",
+            "GPE"
+        ],
+        [
+            "Houses",
+            "GPE",
+            "Operate_In",
+            "Current Site",
+            "GPE"
+        ],
+        [
+            "Houses",
+            "GPE",
+            "Built_Originally_By",
+            "Captains of the Revolutionary War",
+            "PERSON"
+        ],
+        [
+            "Houses",
+            "GPE",
+            "Restored_In",
+            "2004",
+            "DATE"
+        ]
+    ]
+}

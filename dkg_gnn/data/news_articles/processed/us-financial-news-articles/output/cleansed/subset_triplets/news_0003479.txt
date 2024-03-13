@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "Take_Down",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Hafiz Saeed",
+            "PERSON",
+            "Is_Member_Of",
+            "Islamist_Group",
+            "ORG"
+        ],
+        [
+            "Hafiz Saeed",
+            "PERSON",
+            "Has",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Charities",
+            "ORG",
+            "Relate_To",
+            "Terrorist_Front",
+            "CONCEPT"
+        ]
+    ]
+}

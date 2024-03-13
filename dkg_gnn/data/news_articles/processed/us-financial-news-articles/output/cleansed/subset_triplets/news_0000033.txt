@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Tunisia",
+            "GPE",
+            "Announce",
+            "Increase in fuel prices",
+            "EVENT"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Raise",
+            "Price of petrol",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Operate_In",
+            "Budget deficit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Decrease",
+            "Budget deficit",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

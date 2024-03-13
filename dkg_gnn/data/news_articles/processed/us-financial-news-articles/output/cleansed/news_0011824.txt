@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Zimbabwe Anti-Corruption Commission",
+            "ORG/GOV",
+            "Investigate",
+            "Grace Mugabe\u2019,s PhD",
+            "CONCEPT"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Receive",
+            "Doctorate",
+            "CONCEPT"
+        ],
+        [
+            "University of Zimbabwe",
+            "ORG",
+            "Has",
+            "Grace Mugabe\u2019s PhD dissertation",
+            "CONCEPT"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Graduated",
+            "University of Zimbabwe",
+            "ORG"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Defend",
+            "Academic record",
+            "CONCEPT"
+        ],
+        [
+            "Emmerson Mnangagwa",
+            "PERSON",
+            "Succeed",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Robert Mugabe",
+            "PERSON",
+            "Confined",
+            "At his mansion",
+            "LOC"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Monument Mining Ltd",
+            "COMP",
+            "Announce",
+            "Cathy Zhai",
+            "PERSON"
+        ],
+        [
+            "Monument Mining Ltd",
+            "COMP",
+            "Is_Member_Of",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Cathy Zhai",
+            "PERSON",
+            "Participates_In",
+            "Monument Mining Ltd",
+            "COMP"
+        ],
+        [
+            "Robert Baldock",
+            "PERSON",
+            "Control",
+            "Monument Mining Ltd",
+            "COMP"
+        ],
+        [
+            "Mark Braghieri",
+            "PERSON",
+            "Operate_In",
+            "Monument Mining Ltd",
+            "COMP"
+        ],
+        [
+            "Kelvin Lee",
+            "PERSON",
+            "Operate_In",
+            "Monument Mining Ltd",
+            "COMP"
+        ]
+    ]
+}

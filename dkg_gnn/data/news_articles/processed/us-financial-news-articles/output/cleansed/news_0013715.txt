@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Beat",
+            "Viktor Troicki",
+            "PERSON"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Operate_In",
+            "Serbia",
+            "GPE"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Has",
+            "Home favourite",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Operate_In",
+            "Hisense Arena",
+            "COMP"
+        ],
+        [
+            "Fan",
+            "PERSON",
+            "Distract",
+            "Nick Kyrgios",
+            "PERSON"
+        ],
+        [
+            "Helicopter",
+            "COMP",
+            "Distract",
+            "Nick Kyrgios",
+            "PERSON"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Impact",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Shoulder",
+            "Nation\u2019s hopes",
+            "CONCEPT"
+        ],
+        [
+            "Jo-Wilfried Tsonga",
+            "PERSON",
+            "Next up",
+            "Nick Kyrgios",
+            "PERSON"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Calmness",
+            "Face of adversity",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Blame",
+            "Helicopter",
+            "COMP"
+        ]
+    ]
+}

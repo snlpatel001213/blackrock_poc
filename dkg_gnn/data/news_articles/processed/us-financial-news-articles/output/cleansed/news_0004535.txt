@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Steinhoff",
+            "COMP",
+            "Step_Down",
+            "Ben la Grange",
+            "PERSON"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Produce",
+            "Accounting Irregularity",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "Multinational Retail",
+            "SECTOR"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Has",
+            "40 Brands",
+            "COUNT"
+        ],
+        [
+            "Ben la Grange",
+            "PERSON",
+            "Participates_In",
+            "Steinhoff",
+            "COMP"
+        ],
+        [
+            "Philip Dieperink",
+            "PERSON",
+            "Participates_In",
+            "Steinhoff",
+            "COMP"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Conforama",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Mattress Firm",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Poundland",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Raise",
+            "Liquidity",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Hire",
+            "Debt Restructuring Expert",
+            "PERSON"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Restructure",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Restate",
+            "2015 Accounts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Impact",
+            "Market Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Decrease",
+            "Shares Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Rebound",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Hire",
+            "Restructuring Specialist",
+            "PERSON"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Sell",
+            "Stake in PSG Group",
+            "COMP"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Receive",
+            "Debt Repayment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Under_Investigation",
+            "Accounting Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Suspect",
+            "Overstated Revenues",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Declare",
+            "Profits",
+            "CONCEPT"
+        ]
+    ]
+}

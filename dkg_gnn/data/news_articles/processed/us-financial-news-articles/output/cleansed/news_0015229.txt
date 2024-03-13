@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "EMMI AG",
+            "ORG",
+            "Increase",
+            "Centrale Laiti\u00e8re de Mahdia",
+            "ORG"
+        ],
+        [
+            "EMMI AG",
+            "ORG",
+            "Control",
+            "Centrale Laiti\u00e8re de Mahdia SA",
+            "ORG"
+        ],
+        [
+            "Centrale Laiti\u00e8re de Mahdia",
+            "ORG",
+            "Relate_To",
+            "Vitalait",
+            "ORG"
+        ],
+        [
+            "EMMI AG",
+            "ORG",
+            "Operate_In",
+            "Gdynia Newsroom",
+            "GPE"
+        ]
+    ]
+}

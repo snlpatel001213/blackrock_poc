@@ -1,0 +1,79 @@
+{
+    "output": [
+        [
+            "Cricket South Africa",
+            "ORG",
+            "Participates_In",
+            "Test against India",
+            "EVENT"
+        ],
+        [
+            "Duanne Olivier",
+            "PERSON",
+            "Potential_Replacements_For",
+            "Dale Steyn",
+            "PERSON"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Ruled_Out_Of",
+            "Remainder of Series",
+            "EVENT"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Break_Down_Again",
+            "NA"
+        ],
+        [
+            "Duanne Olivier",
+            "PERSON",
+            "Has",
+            "17 wickets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Duanne Olivier",
+            "PERSON",
+            "Average",
+            "23.11",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lungi Ngidi",
+            "PERSON",
+            "Uncapped_At_Test_Level",
+            "NA"
+        ],
+        [
+            "Lungi Ngidi",
+            "PERSON",
+            "Played",
+            "3 Twenty20 Internationals",
+            "EVENT"
+        ],
+        [
+            "Lungi Ngidi",
+            "PERSON",
+            "Regarded_As",
+            "One of the finest up-and-coming fast bowling talents in South Africa",
+            "CONCEPT"
+        ],
+        [
+            "Ottis Gibson",
+            "PERSON",
+            "Said",
+            "NA",
+            "CONCEPT"
+        ],
+        [
+            "Pretoria",
+            "GPE",
+            "Bowling-friendly Conditions_Expected_In",
+            "NA",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Takata Corp.",
+            "ORG",
+            "Produce",
+            "Inflators",
+            "PRODUCT"
+        ],
+        [
+            "Inflators",
+            "PRODUCT",
+            "Impact",
+            "Vehicle Occupants",
+            "PERSON"
+        ],
+        [
+            "Inflators",
+            "PRODUCT",
+            "Relate_To",
+            "Metal Shards",
+            "PRODUCT"
+        ]
+    ]
+}

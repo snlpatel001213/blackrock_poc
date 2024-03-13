@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "BP",
+            "ORG",
+            "Operate_In",
+            "U.S",
+            "GPE"
+        ],
+        [
+            "BP",
+            "ORG",
+            "Has",
+            "Large operations",
+            "SECTOR",
+            "In",
+            "Gulf of Mexico",
+            "GPE"
+        ],
+        [
+            "BP",
+            "ORG",
+            "Has",
+            "Onshore shale operations",
+            "SECTOR",
+            "And",
+            "Refineries",
+            "SECTOR"
+        ],
+        [
+            "BP",
+            "ORG",
+            "Announce",
+            "On Feb. 8",
+            "EVENT"
+        ]
+    ]
+}

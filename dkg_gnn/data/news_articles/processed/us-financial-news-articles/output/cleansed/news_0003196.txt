@@ -1,0 +1,236 @@
+{
+    "output": [
+        [
+            "Venezuela",
+            "GPE",
+            "Control",
+            "National Guard",
+            "ORG"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Arrest",
+            "First Sergeant David Rebolledo",
+            "PERSON"
+        ],
+        [
+            "First Sergeant David Rebolledo",
+            "PERSON",
+            "Accuse_Of",
+            "Shooting",
+            "Alexandra Colopoy",
+            "PERSON"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Pregnant",
+            "null",
+            "null"
+        ],
+        [
+            "State Prosecutor",
+            "ORG",
+            "Tweet",
+            "Accusation",
+            "null"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Melee",
+            "null"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Soldiers_Drunk",
+            "null"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Soldiers_Order_Move",
+            "null"
+        ],
+        [
+            "Local Media",
+            "ORG",
+            "Report",
+            "Group_Refuse",
+            "null"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Start_Firing",
+            "null",
+            "null"
+        ],
+        [
+            "Alexandra Colopoy",
+            "PERSON",
+            "Fall_To_Ground",
+            "null",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Spouse",
+            "Alexandra Colopoy",
+            "PERSON"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Filmed_Interview",
+            "null",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Soldiers_Crazy",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Soldiers_Fire",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Wife_Fall_To_Ground",
+            "null"
+        ],
+        [
+            "Bernab\u00e9",
+            "PERSON",
+            "Say",
+            "Wife_Five_Month_Pregnant",
+            "null"
+        ],
+        [
+            "Alejandro",
+            "PERSON",
+            "Brother",
+            "Bernab\u00e9",
+            "PERSON"
+        ],
+        [
+            "Alejandro",
+            "PERSON",
+            "Shot",
+            "null",
+            "null"
+        ],
+        [
+            "Alejandro",
+            "PERSON",
+            "Recovering",
+            "null",
+            "null"
+        ],
+        [
+            "Tarek Saab",
+            "PERSON",
+            "Prosecutor",
+            "null",
+            "null"
+        ],
+        [
+            "Tarek Saab",
+            "PERSON",
+            "Condemn_Incident",
+            "null",
+            "null"
+        ],
+        [
+            "Venezuelan State",
+            "ORG",
+            "Guarantee",
+            "Respect_Human_Rights",
+            "null"
+        ],
+        [
+            "Venezuelan State",
+            "ORG",
+            "Sanction",
+            "Violators_Human_Rights",
+            "null"
+        ],
+        [
+            "Food Riots",
+            "CONCEPT",
+            "Frequent",
+            "null",
+            "null"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Reel",
+            "Brutal_Recession",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Have",
+            "Millions_Residents",
+            "null"
+        ],
+        [
+            "Millions_Residents",
+            "null",
+            "Salaries",
+            "Just_Few_US_Dollars",
+            "null"
+        ],
+        [
+            "Millions_Residents",
+            "null",
+            "Difficult",
+            "Obtain_Enough_Food",
+            "null"
+        ],
+        [
+            "Delsa Solorzano",
+            "PERSON",
+            "Opposition_Lawmaker",
+            "null",
+            "null"
+        ],
+        [
+            "Delsa Solorzano",
+            "PERSON",
+            "Tweet",
+            "Murderous_Regime",
+            "null"
+        ],
+        [
+            "Delsa Solorzano",
+            "PERSON",
+            "Tweet",
+            "Sorrow",
+            "null"
+        ]
+    ]
+}

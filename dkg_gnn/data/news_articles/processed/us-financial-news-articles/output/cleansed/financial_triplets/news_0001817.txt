@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Akebia Therapeutics Inc.",
+            "ORG",
+            "Announce",
+            "Positive Results",
+            "CONCEPT"
+        ],
+        [
+            "Akebia Therapeutics Inc.",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Relate_To",
+            "Anemia Associated with Dialysis-Dependent Chronic Kidney Disease",
+            "CONCEPT"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Participates_In",
+            "Phase 2 Study",
+            "EVENT"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Impact",
+            "Japanese Patients",
+            "GPE"
+        ],
+        [
+            "Vadadustat 150MG",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Placebo",
+            "PRODUCT"
+        ],
+        [
+            "Vadadustat 300MG",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Placebo",
+            "PRODUCT"
+        ],
+        [
+            "Vadadustat 600MG",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Placebo",
+            "PRODUCT"
+        ],
+        [
+            "Phase 3 Study",
+            "EVENT",
+            "Operate_In",
+            "Non-Dialysis Patients in Japan",
+            "GPE"
+        ],
+        [
+            "Phase 3 Study",
+            "EVENT",
+            "Operate_In",
+            "Dialysis Patients",
+            "GPE"
+        ],
+        [
+            "Serious Adverse Events",
+            "CONCEPT",
+            "Relate_To",
+            "Prior Studies",
+            "CONCEPT"
+        ],
+        [
+            "No Deaths",
+            "CONCEPT",
+            "Relate_To",
+            "Reported",
+            "CONCEPT"
+        ]
+    ]
+}

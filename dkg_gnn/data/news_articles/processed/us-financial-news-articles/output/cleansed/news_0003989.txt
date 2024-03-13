@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "National Football League",
+            "ORG",
+            "Decrease",
+            "TV Ratings",
+            "CONCEPT"
+        ],
+        [
+            "National Football League",
+            "ORG",
+            "Operate_In",
+            "Regular Season",
+            "EVENT"
+        ],
+        [
+            "National Football League",
+            "ORG",
+            "Has",
+            "Average Audience",
+            "CONCEPT"
+        ],
+        [
+            "Average Audience",
+            "CONCEPT",
+            "Is",
+            "14.9 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "14.9 Million",
+            "ECON_INDICATOR",
+            "Decrease",
+            "9.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "9.7%",
+            "ECON_INDICATOR",
+            "Compared_With",
+            "2016 Regular Season",
+            "EVENT"
+        ],
+        [
+            "2016 Regular Season",
+            "EVENT",
+            "Has",
+            "16.5 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Football League",
+            "ORG",
+            "Remain",
+            "Most-Watched Programming",
+            "CONCEPT"
+        ],
+        [
+            "Most-Watched Programming",
+            "CONCEPT",
+            "On",
+            "Television",
+            "COMP"
+        ]
+    ]
+}

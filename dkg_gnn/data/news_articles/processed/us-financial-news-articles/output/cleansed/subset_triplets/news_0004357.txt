@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Federal Reserve",
+            "ORG/REG"
+        ]
+    ]
+}

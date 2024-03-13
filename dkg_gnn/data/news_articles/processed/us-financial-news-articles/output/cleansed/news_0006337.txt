@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Explore",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "Wall Street Journal",
+            "ORG",
+            "Report",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Has",
+            "Market Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Investors",
+            "Call",
+            "Raise"
+        ],
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Produce",
+            "MS drug",
+            "PRODUCT"
+        ],
+        [
+            "MS drug",
+            "PRODUCT",
+            "Name",
+            "Ampyra",
+            "PRODUCT"
+        ],
+        [
+            "Ampyra",
+            "PRODUCT",
+            "Strike Down",
+            "Patents",
+            "ORG/REG"
+        ],
+        [
+            "Ampyra",
+            "PRODUCT",
+            "Account",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Acorda Therapeutics",
+            "COMP",
+            "Discontinue",
+            "Parkinsons drug",
+            "PRODUCT"
+        ],
+        [
+            "Parkinsons drug",
+            "PRODUCT",
+            "Relate_To",
+            "Death",
+            "EVENT"
+        ]
+    ]
+}

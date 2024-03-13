@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Pennine Petroleum Corp",
+            "COMP",
+            "Appoint",
+            "Carey Chilliak",
+            "PERSON"
+        ],
+        [
+            "Carey Chilliak",
+            "PERSON",
+            "Is_Member_Of",
+            "Pennine Petroleum Corp",
+            "COMP"
+        ],
+        [
+            "Pennine Petroleum Corp",
+            "COMP",
+            "Operate_In",
+            "Albania",
+            "GPE"
+        ],
+        [
+            "Pennine Petroleum Corp",
+            "COMP",
+            "Raise",
+            "Warrants Expiration Date",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

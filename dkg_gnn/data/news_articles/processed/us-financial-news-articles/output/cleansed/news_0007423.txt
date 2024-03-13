@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Is_Member_Of",
+            "Movement for Democratic Change",
+            "ORG"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Operate_In",
+            "Zimbabwe",
+            "GPE"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Disclose",
+            "Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Receive",
+            "Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Pictures",
+            "Increase",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Consider",
+            "Give",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Looking",
+            "Imminent Prospects",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Leave",
+            "Lever",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Allow",
+            "Younger Generation",
+            "CONCEPT"
+        ],
+        [
+            "Younger Generation",
+            "CONCEPT",
+            "Take",
+            "Forward",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Raise",
+            "Leadership Change",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Bitter Rivalry",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Robert Mugabe",
+            "PERSON",
+            "Rule",
+            "37 Years",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Reunite",
+            "Former Allies",
+            "CONCEPT"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Challenge",
+            "Ruling ZANU-PF",
+            "ORG"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Have",
+            "Three Deputies",
+            "CONCEPT"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Include",
+            "Nelson Chamisa",
+            "PERSON"
+        ]
+    ]
+}

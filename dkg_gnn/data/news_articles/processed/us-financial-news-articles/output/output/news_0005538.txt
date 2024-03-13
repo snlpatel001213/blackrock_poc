@@ -1,0 +1,1 @@
+{'output': [['Security Researchers', 'PERSON', 'Disclose', 'Security Flaws', 'CONCEPT'], ['Security Flaws', 'CONCEPT', 'Impact', 'Nearly Every Modern Computing Device', 'GPE'], ['Nearly Every Modern Computing Device', 'GPE', 'Contain', 'Chips', 'COMP'], ['Chips', 'COMP', 'From', 'Intel', 'ORG'], ['Chips', 'COMP', 'And', 'AMC', 'COMP']]}

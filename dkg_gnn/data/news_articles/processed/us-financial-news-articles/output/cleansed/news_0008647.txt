@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Italy\u2019s Eni",
+            "ORG",
+            "Operate_In",
+            "Arctic Goliat field",
+            "GPE"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "Use",
+            "two infill wells",
+            "CONCEPT"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "Owned_By",
+            "Songa Offshore",
+            "ORG"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "On_Contract_With",
+            "Statoil",
+            "ORG"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "Sublets_To",
+            "Aker BP",
+            "ORG"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "Sublets_To",
+            "Bayerngas",
+            "ORG"
+        ],
+        [
+            "Statoil",
+            "ORG",
+            "Has",
+            "35 percent stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Eni",
+            "ORG",
+            "Holds",
+            "the rest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Songa Enabler",
+            "COMP",
+            "Drill",
+            "this year",
+            "TIME"
+        ],
+        [
+            "Drilling",
+            "CONCEPT",
+            "Begin",
+            "in late January",
+            "TIME"
+        ],
+        [
+            "Drilling",
+            "CONCEPT",
+            "Last",
+            "for 116 days",
+            "TIME"
+        ],
+        [
+            "Norwegian Petroleum Safety Authority",
+            "ORG/REG",
+            "Require",
+            "consent",
+            "CONCEPT"
+        ],
+        [
+            "Norwegian Petroleum Safety Authority",
+            "ORG/REG",
+            "Issue",
+            "statement",
+            "CONCEPT"
+        ]
+    ]
+}

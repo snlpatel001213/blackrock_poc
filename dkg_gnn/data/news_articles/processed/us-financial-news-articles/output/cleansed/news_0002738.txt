@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Niantic",
+            "PERSON",
+            "In_Deal_With",
+            "NetEase",
+            "ORG"
+        ],
+        [
+            "Pokemon Go",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Niantic",
+            "PERSON"
+        ]
+    ]
+}

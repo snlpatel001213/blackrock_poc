@@ -1,0 +1,114 @@
+{
+    "output": [
+        [
+            "Financial.org",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Manage",
+            "Money",
+            "CONCEPT"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Invest",
+            "US Stocks",
+            "PRODUCT"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Not_Licensed",
+            "FCA",
+            "ORG/REG"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Sponsor",
+            "Williams",
+            "COMP"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Have",
+            "FCA",
+            "ORG/REG"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Regulate",
+            "Financial Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Decline_to_Comment",
+            "Investment Firm",
+            "CONCEPT"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Strike_Off",
+            "Companies House",
+            "ORG/GOV"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Deal_in",
+            "Securities",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Warn",
+            "Unauthorized Businesses",
+            "CONCEPT"
+        ],
+        [
+            "MAS",
+            "ORG/REG",
+            "Place",
+            "Financial.org",
+            "ORG",
+            "Investor Alert List"
+        ],
+        [
+            "Malaysia Securities Commission",
+            "ORG/REG",
+            "Place",
+            "Financial.org",
+            "ORG",
+            "Alert List"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Help",
+            "Members",
+            "PERSON",
+            "Manage",
+            "Investments",
+            "CONCEPT"
+        ],
+        [
+            "Financial.org",
+            "ORG",
+            "Provide",
+            "Brokerage Services",
+            "CONCEPT"
+        ]
+    ]
+}

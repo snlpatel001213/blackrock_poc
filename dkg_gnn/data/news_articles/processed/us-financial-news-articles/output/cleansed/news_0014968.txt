@@ -1,0 +1,301 @@
+{
+    "output": [
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Leader",
+            "SPD",
+            "ORG"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Agree",
+            "Framework Deal",
+            "CONCEPT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Need",
+            "Backing",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Vote",
+            "Conference",
+            "EVENT"
+        ],
+        [
+            "Two",
+            "NUM",
+            "Regional Branches",
+            "Reject",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Back",
+            "Coalition Talks",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Face",
+            "New Vote",
+            "EVENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Face",
+            "Minority Govt",
+            "CONCEPT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Tour",
+            "Country",
+            "GPE"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Base",
+            "CONCEPT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Duty",
+            "Look",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Make",
+            "Life Better",
+            "CONCEPT"
+        ],
+        [
+            "World",
+            "GPE",
+            "Lives",
+            "Dictators",
+            "PERSON"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Reject",
+            "Entering Talks",
+            "CONCEPT"
+        ],
+        [
+            "New Election",
+            "EVENT",
+            "Looms",
+            "CONCEPT"
+        ],
+        [
+            "Minority Government",
+            "CONCEPT",
+            "Looms",
+            "CONCEPT"
+        ],
+        [
+            "Defeat",
+            "EVENT",
+            "Mean",
+            "End",
+            "PERSON"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Forced",
+            "Reconsider",
+            "CONCEPT"
+        ],
+        [
+            "Merkel",
+            "PERSON",
+            "Humiliated",
+            "Collapse",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Junior Role",
+            "Leave",
+            "SHADOW"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Bleeding",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "Far Right",
+            "CONCEPT",
+            "Gain",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Wary",
+            "Re-run",
+            "CONCEPT"
+        ],
+        [
+            "Saxony Anhalt",
+            "GPE",
+            "Reject",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Berlin",
+            "GPE",
+            "Reject",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Oppose",
+            "Grand Coalition",
+            "CONCEPT"
+        ],
+        [
+            "Merkel",
+            "PERSON",
+            "Conservatives",
+            "ORG"
+        ],
+        [
+            "Bavarian Conservatives",
+            "ORG",
+            "Unsatisfactory Proposals",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Disappointment",
+            "Plans",
+            "CONCEPT"
+        ],
+        [
+            "Health System",
+            "CONCEPT",
+            "Shakeup",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Youth Wing",
+            "Jusos",
+            "ORG"
+        ],
+        [
+            "Kevin Kuehnert",
+            "PERSON",
+            "Oppose",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "NoGroKo Tour",
+            "CONCEPT",
+            "Referring",
+            "Opposition",
+            "CONCEPT"
+        ],
+        [
+            "Sunday Vote",
+            "EVENT",
+            "Outcome",
+            "Difficult",
+            "ADJ"
+        ],
+        [
+            "Bonn Congress",
+            "EVENT",
+            "443000 Members",
+            "Ballot",
+            "CONCEPT"
+        ],
+        [
+            "North Rhine-Westphalia",
+            "GPE",
+            "More Than One Quarter",
+            "Votes",
+            "CONCEPT"
+        ],
+        [
+            "Trade Unions",
+            "ORG",
+            "Back",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Localities",
+            "ORG",
+            "Back",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Brandenburg",
+            "GPE",
+            "Back",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Details",
+            "Negotiate",
+            "CONCEPT"
+        ],
+        [
+            "Conservatives",
+            "ORG",
+            "Express Confidence",
+            "SPD",
+            "ORG"
+        ],
+        [
+            "Bavarian Conservative",
+            "PERSON",
+            "Concern",
+            "Masochistic Way",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Talk Down",
+            "Successes",
+            "CONCEPT"
+        ]
+    ]
+}

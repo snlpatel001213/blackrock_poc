@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Iraq",
+            "GPE",
+            "Control",
+            "Basra Ports",
+            "ORG"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Has",
+            "4.8 Million BPD",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Operate_In",
+            "OPEC",
+            "ORG/GOV"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Is_Member_Of",
+            "OPEC",
+            "ORG/GOV"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Produce",
+            "Oil",
+            "CONCEPT"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Negative_Impact_On",
+            "Kirkuk Oilfields",
+            "ORG"
+        ],
+        [
+            "Kirkuk Oilfields",
+            "ORG",
+            "Control",
+            "Kurdish Fighters",
+            "PERSON"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Positive_Impact_On",
+            "Southern Exports",
+            "ORG"
+        ],
+        [
+            "Southern Exports",
+            "ORG",
+            "Raise",
+            "3.535 Million BPD",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Participates_In",
+            "Output Cut Agreement",
+            "CONCEPT"
+        ]
+    ]
+}

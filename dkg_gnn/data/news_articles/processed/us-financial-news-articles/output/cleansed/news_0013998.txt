@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "BASF",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Produce",
+            "Citral Plant",
+            "COMP"
+        ],
+        [
+            "Citral Plant",
+            "COMP",
+            "Impact",
+            "Downstream Vitamin Products",
+            "PRODUCT"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Compete_With",
+            "DSM",
+            "ORG"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Declare",
+            "Force Majeure",
+            "CONCEPT"
+        ],
+        [
+            "Force Majeure",
+            "CONCEPT",
+            "Suspend",
+            "Contractual Supply Obligations",
+            "CONCEPT"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Regret",
+            "Difficult Situation",
+            "CONCEPT"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Provide",
+            "Updates",
+            "CONCEPT"
+        ],
+        [
+            "BASF",
+            "ORG",
+            "Operate_In",
+            "www.basf.com/citral-plant",
+            "WEBSITE"
+        ]
+    ]
+}

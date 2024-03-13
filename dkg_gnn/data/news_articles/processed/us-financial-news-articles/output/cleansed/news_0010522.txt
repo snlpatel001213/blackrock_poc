@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lendingclub Corp",
+            "COMP",
+            "Control",
+            "LENDINGCLUB",
+            "ORG"
+        ],
+        [
+            "IEG Holdings",
+            "ORG",
+            "Propose",
+            "Exchange Offer",
+            "CONCEPT"
+        ],
+        [
+            "Lendingclub Corp",
+            "COMP",
+            "Operate_In",
+            "Further Company Coverage",
+            "CONCEPT"
+        ],
+        [
+            "IEG Holdings",
+            "ORG",
+            "Impact",
+            "Lendingclub Corp",
+            "COMP"
+        ],
+        [
+            "Lendingclub Corp",
+            "COMP",
+            "Caution",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

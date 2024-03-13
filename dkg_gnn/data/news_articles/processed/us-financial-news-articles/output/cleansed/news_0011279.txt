@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Assurant Inc.",
+            "ORG",
+            "Expects",
+            "Effective Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Assurant Inc.",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Assurant Inc.",
+            "ORG",
+            "Reduce",
+            "Net Deferred Tax Liabilities",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Assurant Inc.",
+            "ORG",
+            "Include",
+            "One-Time Benefit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Assurant Inc.",
+            "ORG",
+            "Impact",
+            "Consolidated GAAP Net Income",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

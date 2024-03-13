@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Fraport",
+            "ORG",
+            "Operate_In",
+            "Frankfurt Airport",
+            "GPE"
+        ],
+        [
+            "Fraport",
+            "ORG",
+            "Control",
+            "IT Failure",
+            "CONCEPT"
+        ],
+        [
+            "IT Failure",
+            "CONCEPT",
+            "Impact",
+            "Flights",
+            "COMP"
+        ],
+        [
+            "Flights",
+            "COMP",
+            "Negative_Impact_On",
+            "Frankfurt Airport",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Hungary",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Has",
+            "Vision",
+            "CONCEPT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Has",
+            "Vision",
+            "CONCEPT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Relate_To",
+            "Suspension",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "ORG/GOV",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

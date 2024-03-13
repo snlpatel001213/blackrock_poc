@@ -1,0 +1,138 @@
+{
+    "output": [
+        [
+            "Aon",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Operate_In",
+            "Global Professional Services",
+            "SECTOR"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Acquired_By",
+            "Aon",
+            "ORG"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Majority_Owned_By",
+            "Colony NorthStar",
+            "ORG"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Provide",
+            "Global Investment Management and Advisory Services",
+            "SERVICE"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Focused_On",
+            "Real Estate and Real Assets",
+            "ASSET"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Has",
+            "Investment Organization",
+            "ORG"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Manages",
+            "More than $130 Billion",
+            "ECON_INDICATOR",
+            "Assets_Under_Management",
+            "ASSET"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Advised_On",
+            "More than $240 Billion",
+            "ECON_INDICATOR",
+            "Real_Estate_Assets",
+            "ASSET"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Enhance",
+            "Investment Solutions",
+            "SERVICE"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Expand",
+            "Capabilities and Expertise",
+            "CONCEPT",
+            "Alternative Investments",
+            "CONCEPT"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Create",
+            "Sophisticated and Transparent Offerings",
+            "PRODUCT"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Provide",
+            "Objective Advice and Solutions",
+            "SERVICE"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Top_Three",
+            "Outsourced Chief Investment Officer",
+            "SERVICE",
+            "OCIO",
+            "ABBREVIATION"
+        ],
+        [
+            "Aon",
+            "ORG",
+            "Global_Assets_Under_Management",
+            "Approximately $102.9 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Assets_Under_Management",
+            "Approximately $14.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Townsend",
+            "ORG",
+            "Advised_Assets",
+            "Approximately $167.1 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AHIC",
+            "ORG",
+            "Advised_Real_Estate_Assets",
+            "$76.3 Billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

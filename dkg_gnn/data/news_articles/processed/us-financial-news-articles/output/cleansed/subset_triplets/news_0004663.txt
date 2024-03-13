@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Participates_In",
+            "Car Wash Investigation",
+            "EVENT"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Impact",
+            "Petrobras Preferred Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Impact",
+            "U.S-Traded Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Supreme Court",
+            "ORG/GOV"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "JPMorgan",
+            "ORG"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "BTG Pactual",
+            "ORG"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Moody\u2019s",
+            "ORG"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Brazilian securities regulator CVM",
+            "ORG"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Enron",
+            "COMP"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "WorldCom",
+            "COMP"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Relate_To",
+            "Tyco International",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Produce",
+            "Dominic Chu",
+            "PERSON"
+        ],
+        [
+            "Dominic Chu",
+            "PERSON",
+            "Discuss",
+            "Invest",
+            "VERB"
+        ],
+        [
+            "Invest",
+            "VERB",
+            "Relate_To",
+            "Dogs of the Dow",
+            "CONCEPT"
+        ],
+        [
+            "Dogs of the Dow",
+            "CONCEPT",
+            "Operate_In",
+            "Dow Jones Industrial Average",
+            "SECTOR"
+        ],
+        [
+            "2 Hours Ago",
+            "TIME",
+            "Announce",
+            "CNBC's Dominic Chu",
+            "PERSON"
+        ]
+    ]
+}

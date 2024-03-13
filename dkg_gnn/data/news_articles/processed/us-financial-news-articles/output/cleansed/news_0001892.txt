@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Datametrex AI Ltd",
+            "COMP",
+            "Plan",
+            "Spin Out",
+            "EVENT"
+        ],
+        [
+            "Datametrex AI Ltd",
+            "COMP",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Graph Blockchain",
+            "COMP",
+            "Spin Out",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Graph Blockchain",
+            "COMP",
+            "Create",
+            "Standalone Publicly Traded Company",
+            "COMP"
+        ],
+        [
+            "Datametrex AI Ltd",
+            "COMP",
+            "Relate_To",
+            "Graph Blockchain",
+            "COMP"
+        ],
+        [
+            "Shareholders",
+            "ORG",
+            "Receive",
+            "One Common Share",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shareholders",
+            "ORG",
+            "Hold",
+            "Twenty Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Datametrex AI Ltd",
+            "COMP",
+            "Issue",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

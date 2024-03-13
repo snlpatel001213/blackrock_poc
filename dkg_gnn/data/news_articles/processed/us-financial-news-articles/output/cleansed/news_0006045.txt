@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "British lawmakers",
+            "PERSON",
+            "Recommend",
+            "latte levy",
+            "CONCEPT"
+        ],
+        [
+            "latte levy",
+            "CONCEPT",
+            "Impact_On",
+            "recyclable cup myth",
+            "CONCEPT"
+        ],
+        [
+            "paper coffee cups",
+            "PRODUCT",
+            "Relate_To",
+            "recyclable cup myth",
+            "CONCEPT"
+        ],
+        [
+            "paper coffee cups",
+            "PRODUCT",
+            "Has",
+            "one percent recycled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British lawmakers",
+            "PERSON",
+            "Operate_In",
+            "British cities",
+            "GPE"
+        ],
+        [
+            "plastic bag charges",
+            "CONCEPT",
+            "Relate_To",
+            "British cities",
+            "GPE"
+        ],
+        [
+            "plastic bag charges",
+            "CONCEPT",
+            "Relate_To",
+            "American cities",
+            "GPE"
+        ]
+    ]
+}

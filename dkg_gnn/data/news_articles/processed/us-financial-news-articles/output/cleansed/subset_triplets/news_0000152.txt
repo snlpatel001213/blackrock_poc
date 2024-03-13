@@ -1,0 +1,27 @@
+{
+    "output": [
+        [
+            "Allergan",
+            "COMP",
+            "Participates_In",
+            "cost-reduction efforts",
+            "CONCEPT"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Is_Member_Of",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Announce",
+            "filing",
+            "EVENT",
+            "Wednesday",
+            "TIME"
+        ]
+    ]
+}

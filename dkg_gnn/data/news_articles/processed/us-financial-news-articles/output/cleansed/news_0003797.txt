@@ -1,0 +1,269 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Propose",
+            "Rule",
+            "EVENT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Allow",
+            "Buy",
+            "Operate_In"
+        ],
+        [
+            "Small Businesses",
+            "ORG",
+            "Allow",
+            "Rule",
+            "EVENT"
+        ],
+        [
+            "Association",
+            "ORG",
+            "Form",
+            "Geography",
+            "GPE"
+        ],
+        [
+            "Association",
+            "ORG",
+            "Form",
+            "Industry",
+            "SECTOR"
+        ],
+        [
+            "Association",
+            "ORG",
+            "Purchase",
+            "Health Insurance",
+            "PRODUCT"
+        ],
+        [
+            "Health Insurance",
+            "PRODUCT",
+            "Exempt",
+            "Obamacare Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Sole Proprietors",
+            "PERSON",
+            "Allow",
+            "Join",
+            "Is_Member_Of"
+        ],
+        [
+            "Sole Proprietors",
+            "PERSON",
+            "Purchase",
+            "Individual Insurance",
+            "PRODUCT"
+        ],
+        [
+            "Obamacare",
+            "CONCEPT",
+            "Unwind",
+            "Healthcare Law",
+            "ORG/GOV"
+        ],
+        [
+            "Rule",
+            "EVENT",
+            "Go",
+            "Comment Period",
+            "EVENT"
+        ],
+        [
+            "Rule",
+            "EVENT",
+            "Help",
+            "Enact",
+            "Is_Member_Of"
+        ],
+        [
+            "Executive Order",
+            "EVENT",
+            "Relate_To",
+            "Republican President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Obamacare",
+            "CONCEPT",
+            "All Health Insurance Plans",
+            "Must Cover"
+        ],
+        [
+            "Small Business Health Plans",
+            "ORG",
+            "Not Allow",
+            "Charge More",
+            "Control"
+        ],
+        [
+            "Small Business Health Plans",
+            "ORG",
+            "Not Allow",
+            "Exclude Employees",
+            "Control"
+        ],
+        [
+            "Proponents Obamacare",
+            "PERSON",
+            "Say",
+            "Undermine",
+            "Negative_Impact_On"
+        ],
+        [
+            "Individual Insurance Market",
+            "SECTOR",
+            "Leave",
+            "Sickest",
+            "PERSON"
+        ],
+        [
+            "Individual Insurance Market",
+            "SECTOR",
+            "Drive Up",
+            "Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rule",
+            "EVENT",
+            "Destablize",
+            "Several States",
+            "GPE"
+        ],
+        [
+            "Individual Insurance Markets",
+            "SECTOR",
+            "Healthier People",
+            "Access",
+            "Positive_Impact_On"
+        ],
+        [
+            "Slimmer Plans",
+            "PRODUCT",
+            "Unclear",
+            "Significant Numbers",
+            "Quantity"
+        ],
+        [
+            "Republicans",
+            "PERSON",
+            "Unified Control",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Republicans",
+            "PERSON",
+            "Failed",
+            "Repeal",
+            "Decrease"
+        ],
+        [
+            "Republicans",
+            "PERSON",
+            "Dismantle",
+            "Law",
+            "ORG/GOV"
+        ],
+        [
+            "Administrative Rules",
+            "EVENT",
+            "Sought",
+            "Administration",
+            "ORG"
+        ],
+        [
+            "Executive Orders",
+            "EVENT",
+            "Sought",
+            "Administration",
+            "ORG"
+        ],
+        [
+            "Tax Overhaul",
+            "EVENT",
+            "Repeal",
+            "Individual Mandate",
+            "CONCEPT"
+        ],
+        [
+            "Law",
+            "EVENT",
+            "2019",
+            "Repeal",
+            "Decrease"
+        ],
+        [
+            "Individual Mandate",
+            "CONCEPT",
+            "Help Ensure",
+            "Viable Market",
+            "SECTOR"
+        ],
+        [
+            "National Restaurant Association",
+            "ORG",
+            "Praise",
+            "Proposed Rule",
+            "EVENT"
+        ],
+        [
+            "National Retail Federation",
+            "ORG",
+            "Praise",
+            "Proposed Rule",
+            "EVENT"
+        ],
+        [
+            "Democrats",
+            "PERSON",
+            "Blast",
+            "Proposed Rule",
+            "EVENT"
+        ],
+        [
+            "Medical Advocacy Groups",
+            "ORG",
+            "Blast",
+            "Proposed Rule",
+            "EVENT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Declare",
+            "Open Season",
+            "EVENT"
+        ],
+        [
+            "Fraudsters",
+            "PERSON",
+            "Sell",
+            "Junk Insurance",
+            "PRODUCT"
+        ],
+        [
+            "Those With Pre-existing Conditions",
+            "PERSON",
+            "Find Healthcare",
+            "Further and Further",
+            "Negative_Impact_On"
+        ],
+        [
+            "Democratic Senator Ron Wyden",
+            "PERSON",
+            "Say",
+            "Put Affordable Health Insurance",
+            "Negative_Impact_On"
+        ]
+    ]
+}

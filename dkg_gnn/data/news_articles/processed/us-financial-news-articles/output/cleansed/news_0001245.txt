@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Introduce",
+            "Skinnygirl",
+            "PRODUCT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Sell",
+            "Skinnygirl Cocktails",
+            "PRODUCT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Operate_In",
+            "Housewives spin-off shows",
+            "EVENT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Write",
+            "Several books",
+            "PRODUCT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Invest",
+            "Season 9 of ABC's Shark Tank",
+            "EVENT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Purchase",
+            "Second home in the Hamptons",
+            "GPE"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Participates_In",
+            "Bethenny & Fredrik",
+            "EVENT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Control",
+            "Budding real estate career",
+            "SECTOR"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Has",
+            "Good idea",
+            "CONCEPT"
+        ],
+        [
+            "Skinnygirl Cocktails",
+            "PRODUCT",
+            "Sell",
+            "March 2011",
+            "DATE"
+        ],
+        [
+            "Skinnygirl Cocktails",
+            "PRODUCT",
+            "Sell",
+            "Reported $100 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Housewives spin-off shows",
+            "EVENT",
+            "Operate_In",
+            "Bravo",
+            "ORG"
+        ],
+        [
+            "Season 9 of ABC's Shark Tank",
+            "EVENT",
+            "Invest",
+            "Bethenny Frankel",
+            "PERSON"
+        ],
+        [
+            "Bethenny & Fredrik",
+            "EVENT",
+            "Premiere",
+            "Feb. 6",
+            "DATE"
+        ],
+        [
+            "Bethenny & Fredrik",
+            "EVENT",
+            "Participates_In",
+            "Bethenny Frankel",
+            "PERSON"
+        ],
+        [
+            "Bethenny & Fredrik",
+            "EVENT",
+            "Participates_In",
+            "Fredrik Eklund",
+            "PERSON"
+        ]
+    ]
+}

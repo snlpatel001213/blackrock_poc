@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Chief Economist",
+            "PERSON",
+            "Relate_To",
+            "Fed",
+            "ORG/REG"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Raise",
+            "Rates",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Retired U.S. military officers",
+            "PERSON",
+            "Participates_In",
+            "U.S. National Security Experts",
+            "ORG"
+        ],
+        [
+            "Members of Congress",
+            "PERSON",
+            "Participates_In",
+            "U.S. National Security Experts",
+            "ORG"
+        ],
+        [
+            "Former U.S. ambassadors",
+            "PERSON",
+            "Participates_In",
+            "U.S. National Security Experts",
+            "ORG"
+        ],
+        [
+            "U.S. National Security Experts",
+            "ORG",
+            "Sign",
+            "Letter",
+            "PRODUCT"
+        ],
+        [
+            "Letter",
+            "PRODUCT",
+            "Released",
+            "Monday",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump\u2019s administration",
+            "ORG",
+            "Not_Jeopardize",
+            "International Nuclear Deal with Iran",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Face",
+            "Deadlines",
+            "EVENT"
+        ],
+        [
+            "Deadlines",
+            "EVENT",
+            "Relate_To",
+            "Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Deals_With",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Economic Hardships and Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Richard Lugar",
+            "PERSON",
+            "Member_Of",
+            "Signers of the Letter",
+            "ORG"
+        ],
+        [
+            "Signers of the Letter",
+            "ORG",
+            "Organized_By",
+            "National Coalition to Prevent an Iranian Nuclear Weapon",
+            "ORG"
+        ],
+        [
+            "Paul O\u2018Neill",
+            "PERSON",
+            "Member_Of",
+            "Signers of the Letter",
+            "ORG"
+        ],
+        [
+            "Michael Hayden",
+            "PERSON",
+            "Member_Of",
+            "Signers of the Letter",
+            "ORG"
+        ],
+        [
+            "Admiral Eric Olson",
+            "PERSON",
+            "Member_Of",
+            "Signers of the Letter",
+            "ORG"
+        ],
+        [
+            "Signers of the Letter",
+            "ORG",
+            "Support",
+            "Rights of Iranian Citizens to Free Speech and Peaceful Protest",
+            "CONCEPT"
+        ],
+        [
+            "Signers of the Letter",
+            "ORG",
+            "Condemn",
+            "Use of Force Against Peaceful Demonstrations",
+            "CONCEPT"
+        ],
+        [
+            "Signers of the Letter",
+            "ORG",
+            "Cautious_Not_to",
+            "Undermine JCPOA",
+            "EVENT"
+        ],
+        [
+            "JCPOA",
+            "EVENT",
+            "Vital_To",
+            "U.S. National Security",
+            "CONCEPT"
+        ]
+    ]
+}

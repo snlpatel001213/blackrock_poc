@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Decline",
+            "Consider",
+            "EVENT"
+        ],
+        [
+            "Mississippi",
+            "GPE",
+            "Authorize",
+            "Deny Service",
+            "ORG"
+        ],
+        [
+            "Same-Sex Couples",
+            "PERSON",
+            "Relate_To",
+            "Civil-Rights Law",
+            "EVENT"
+        ],
+        [
+            "First Amendment",
+            "CONCEPT",
+            "Exempt",
+            "Sell Wedding Cakes",
+            "PRODUCT"
+        ],
+        [
+            "Heterosexual Customers",
+            "PERSON",
+            "Participates_In",
+            "Civil-Rights Law",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Reports_On",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Kate Rogers",
+            "PERSON",
+            "Reports_On",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "New Year",
+            "EVENT",
+            "Relate_To",
+            "New Laws",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Adamas Pharmaceuticals Inc.",
+            "COMP",
+            "Announce",
+            "GoCovri",
+            "PRODUCT"
+        ],
+        [
+            "GoCovri",
+            "PRODUCT",
+            "Relate_To",
+            "Dyskinesia",
+            "CONCEPT"
+        ],
+        [
+            "Dyskinesia",
+            "CONCEPT",
+            "Impact",
+            "Parkinson\u2019s Disease",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Several dead",
+            "CONCEPT",
+            "Relate_To",
+            "Prison Riot",
+            "EVENT"
+        ],
+        [
+            "Prison Riot",
+            "EVENT",
+            "Impact",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Operate_In",
+            "Penal System",
+            "SECTOR"
+        ],
+        [
+            "Penal System",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Control",
+            "CONCEPT"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "Injure",
+            "null",
+            "null"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "Escape",
+            "null",
+            "null"
+        ]
+    ]
+}

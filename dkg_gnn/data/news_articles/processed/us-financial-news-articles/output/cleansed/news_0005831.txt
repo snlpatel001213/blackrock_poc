@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Markets",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Strong Start",
+            "EVENT"
+        ],
+        [
+            "Jeff Klingelhofer",
+            "PERSON",
+            "Says",
+            "Reasons to be Positive",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Klingelhofer",
+            "PERSON",
+            "Says",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Inflation",
+            "ECON_INDICATOR",
+            "Could_Prove",
+            "Primary Risk",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "German workers",
+            "PERSON",
+            "Participates_In",
+            "Strikes",
+            "EVENT"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Control",
+            "German workers",
+            "PERSON"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Widen",
+            "Strikes",
+            "EVENT"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Push",
+            "Higher wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Push",
+            "Shorter hours",
+            "CONCEPT"
+        ],
+        [
+            "3.9 million German workers",
+            "PERSON",
+            "Relate_To",
+            "Higher wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3.9 million German workers",
+            "PERSON",
+            "Relate_To",
+            "Shorter hours",
+            "CONCEPT"
+        ]
+    ]
+}

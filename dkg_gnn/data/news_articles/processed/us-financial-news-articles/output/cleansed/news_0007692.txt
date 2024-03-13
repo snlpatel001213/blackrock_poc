@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Givaudan Sa",
+            "COMP",
+            "Announce",
+            "Louie D\u2019Amico",
+            "PERSON"
+        ],
+        [
+            "Louie D\u2019Amico",
+            "PERSON",
+            "Relate_To",
+            "President of Flavour Division",
+            "CONCEPT"
+        ],
+        [
+            "Givaudan Sa",
+            "COMP",
+            "Control",
+            "Flavour Division",
+            "COMP"
+        ],
+        [
+            "Louie D\u2019Amico",
+            "PERSON",
+            "Appointed_To",
+            "Member of Executive Committee",
+            "CONCEPT"
+        ],
+        [
+            "Louie D\u2019Amico",
+            "PERSON",
+            "Succeed",
+            "Mauricio Graber",
+            "PERSON"
+        ]
+    ]
+}

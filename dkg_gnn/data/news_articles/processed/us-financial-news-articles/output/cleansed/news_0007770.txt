@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Bid",
+            "Ablynx",
+            "ORG"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Reject",
+            "Novo Nordisk",
+            "ORG/GOV"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Offer",
+            "2.6 billion euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Specialize",
+            "Nano-bodies",
+            "CONCEPT"
+        ],
+        [
+            "Nano-bodies",
+            "CONCEPT",
+            "Found",
+            "Llamas and alpacas",
+            "ANIMAL"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Partners",
+            "Worlds largest pharmaceutical companies",
+            "ORG"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Attracted",
+            "Ablynxs experimental drug caplacizumab",
+            "PRODUCT"
+        ],
+        [
+            "Caplacizumab",
+            "PRODUCT",
+            "For",
+            "Rare bleeding disorder acquired thrombotic thrombocytopenic purpura",
+            "CONCEPT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Has",
+            "20 percent of sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Struggling",
+            "Maintain growth momentum in biopharma",
+            "SECTOR"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Pay",
+            "28.00 euros per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Additional",
+            "2.50 euros in a CVR",
+            "CONCEPT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "First acquisition",
+            "Under Lars Fruergaard Jorgensen",
+            "PERSON"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Approached",
+            "Global Blood Therapeutics",
+            "ORG"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Discuss",
+            "Potential takeover",
+            "CONCEPT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Regrets",
+            "Ablynx declined to engage in discussions",
+            "CONCEPT"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Fair value",
+            "Ablynx at 29 euros per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Long term upside scenario",
+            "Ablynx at 36 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Envision",
+            "Novo needing to hike the offer",
+            "CONCEPT"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Envision",
+            "Counterbids",
+            "CONCEPT"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Thriving biotech industry",
+            "Many companies spun off from university projects",
+            "ORG"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Listed",
+            "Belgiums stock exchange",
+            "GPE"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Shares have almost doubled",
+            "Past 12 months",
+            "TIME"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Products",
+            "Undergoing medical trials",
+            "CONCEPT"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Target",
+            "Many different diseases",
+            "CONCEPT"
+        ],
+        [
+            "Evercore",
+            "ORG",
+            "Advising",
+            "Novo",
+            "ORG/GOV"
+        ],
+        [
+            "JPMorgan",
+            "ORG",
+            "Working",
+            "Ablynx",
+            "ORG"
+        ]
+    ]
+}

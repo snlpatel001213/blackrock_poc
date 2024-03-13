@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "CNBC IQ 100",
+            "ORG",
+            "Has",
+            "New Members",
+            "PERSON"
+        ],
+        [
+            "Abbott Labs",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Align Technology",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Caterpillar",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Cree Inc",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Halliburton",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Honda Motor",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ],
+        [
+            "Valeant Pharma",
+            "COMP",
+            "Is_Member_Of",
+            "CNBC IQ 100",
+            "ORG"
+        ]
+    ]
+}

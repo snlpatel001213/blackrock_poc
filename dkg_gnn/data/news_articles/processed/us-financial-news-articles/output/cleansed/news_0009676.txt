@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Host",
+            "Webcast and Conference Call",
+            "EVENT"
+        ],
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Operate_In",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Discuss",
+            "Fourth Quarter Results",
+            "EVENT"
+        ],
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Relate_To",
+            "Current Market Conditions",
+            "CONCEPT"
+        ],
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Relate_To",
+            "Future Outlook",
+            "CONCEPT"
+        ],
+        [
+            "January 26",
+            "DATE",
+            "Has",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "+1 877 256 7020",
+            "PHONE",
+            "Dial",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "01 800 926 9157",
+            "PHONE",
+            "Dial",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "+1 973 409 9692",
+            "PHONE",
+            "Dial",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Code 93296070",
+            "CODE",
+            "Enter",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "+1 855 859 2056",
+            "PHONE",
+            "Available",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "+1 404 537 3406",
+            "PHONE",
+            "Available",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "Conference Code 93296070",
+            "CODE",
+            "Use",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "Security Code 31833",
+            "CODE",
+            "Use",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "FIBRA Prologis",
+            "ORG",
+            "Leading",
+            "Owner and Operator",
+            "CONCEPT"
+        ],
+        [
+            "Class-A",
+            "CLASS",
+            "logistics",
+            "real estate",
+            "PRODUCT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Comprise",
+            "194 logistics and manufacturing facilities",
+            "PRODUCT"
+        ],
+        [
+            "September 30, 2017",
+            "DATE",
+            "As of",
+            "34.2 million square feet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gross Leasable Area",
+            "AREA",
+            "of",
+            "FIBRA Prologis",
+            "ORG"
+        ]
+    ]
+}

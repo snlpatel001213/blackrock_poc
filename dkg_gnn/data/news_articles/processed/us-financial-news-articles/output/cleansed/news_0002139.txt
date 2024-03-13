@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Introduce",
+            "CME Bitcoin Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Has",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Begin_Trading_In",
+            "CME Bitcoin Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CME Bitcoin Futures",
+            "FIN_INSTRUMENT",
+            "Launch_On",
+            "CME",
+            "ORG/EXCH"
+        ],
+        [
+            "CME",
+            "ORG/EXCH",
+            "Followed_By",
+            "Cboe Global Markets",
+            "ORG/EXCH"
+        ],
+        [
+            "Cboe Global Markets",
+            "ORG/EXCH",
+            "Offer",
+            "Bitcoin Future",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Price",
+            "ECON_INDICATOR",
+            "Run_Up",
+            "Last Year",
+            "TIME"
+        ],
+        [
+            "Interactive Brokers",
+            "ORG",
+            "Rolled_Out",
+            "Trading_In",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "TD Ameritrade",
+            "ORG",
+            "Offer",
+            "Customers",
+            "PERSON",
+            "Access_To",
+            "Cboe Futures",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

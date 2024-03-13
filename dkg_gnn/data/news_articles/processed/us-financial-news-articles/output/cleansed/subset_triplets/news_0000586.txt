@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "ECB",
+            "ORG/REG",
+            "Operate_In",
+            "Euro Zone",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Control",
+            "Stimulus Program",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Has",
+            "2.55 Trillion Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Relate_To",
+            "Inflation",
+            "CONCEPT"
+        ]
+    ]
+}

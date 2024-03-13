@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Control",
+            "Hexagon",
+            "ORG"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Invests_In",
+            "Greenbridge",
+            "ORG"
+        ],
+        [
+            "Greenbridge",
+            "ORG",
+            "Involved_In",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "Greenbridge",
+            "ORG",
+            "Purchase",
+            "Next Shares",
+            "PRODUCT"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Found",
+            "Next Biometrics",
+            "COMP"
+        ],
+        [
+            "Norwegian Prosecutors",
+            "ORG/GOV",
+            "Ask_For",
+            "18_Month_Prison_Term",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Maintain",
+            "Innocence",
+            "CONCEPT"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Run",
+            "Hexagon",
+            "ORG"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Commit",
+            "Serve_As_CEO",
+            "CONCEPT"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Relieved",
+            "Court_Verdict",
+            "EVENT"
+        ],
+        [
+            "Norway_White_Collar_Crimes_Unit",
+            "ORG/GOV",
+            "Decide",
+            "Appeal_Verdict",
+            "CONCEPT"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Falls",
+            "10_Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Up",
+            "25_Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Hold_Talks",
+            "U.S._Or_European_Rival",
+            "COMP"
+        ],
+        [
+            "Norway_White_Collar_Crimes_Unit",
+            "ORG/GOV",
+            "Two_Weeks",
+            "Decide_Appeal",
+            "CONCEPT"
+        ],
+        [
+            "Trading",
+            "CONCEPT",
+            "Ends",
+            "Day",
+            "CONCEPT"
+        ],
+        [
+            "Verdict",
+            "EVENT",
+            "Released",
+            "Day",
+            "CONCEPT"
+        ]
+    ]
+}

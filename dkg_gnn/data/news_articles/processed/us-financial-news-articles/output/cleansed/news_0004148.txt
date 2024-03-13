@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Macy's",
+            "COMP",
+            "Warn",
+            "null",
+            "null"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Participates_In",
+            "Holiday Sales Event",
+            "EVENT"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Decrease",
+            "5000 Jobs",
+            "null"
+        ],
+        [
+            "Macy's",
+            "COMP",
+            "Close",
+            "7 Stores",
+            "null"
+        ]
+    ]
+}

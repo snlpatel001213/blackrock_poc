@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Ancora Advisors LLC",
+            "ORG",
+            "Has",
+            "6.4% Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ancora Advisors LLC",
+            "ORG",
+            "Invests_In",
+            "UFP Technologies Inc",
+            "COMP"
+        ],
+        [
+            "UFP Technologies Inc",
+            "COMP",
+            "Operate_In",
+            "Further company coverage",
+            "SECTOR"
+        ],
+        [
+            "Ancora Advisors LLC",
+            "ORG",
+            "Relate_To",
+            "UFP Technologies Inc",
+            "COMP"
+        ],
+        [
+            "Ancora Advisors LLC",
+            "ORG",
+            "Participates_In",
+            "Operational Matters",
+            "CONCEPT"
+        ],
+        [
+            "Ancora Advisors LLC",
+            "ORG",
+            "Impact",
+            "Sale of CO or Certain Businesses or Assets",
+            "CONCEPT"
+        ]
+    ]
+}

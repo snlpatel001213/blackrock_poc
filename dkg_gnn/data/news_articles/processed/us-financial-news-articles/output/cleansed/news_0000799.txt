@@ -1,0 +1,118 @@
+{
+    "output": [
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Announce",
+            "Barry E. Davis",
+            "PERSON",
+            "Has",
+            "Executive Chairman",
+            "TITLE"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Announce",
+            "Michael J. Garberding",
+            "PERSON",
+            "Has",
+            "President and CEO",
+            "TITLE"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Announce",
+            "Eric D. Batchelder",
+            "PERSON",
+            "Has",
+            "Executive Vice President and CFO",
+            "TITLE"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Operate_In",
+            "Permians Midland and Delaware basins, Oklahomas Midcontinent, and Louisianas Gulf Coast",
+            "GPE"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Control",
+            "EnLink Midstream Partners, LP",
+            "COMP"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Participates_In",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "Barry E. Davis",
+            "PERSON",
+            "Control",
+            "EnLink Midstream, LLC",
+            "COMP"
+        ],
+        [
+            "Michael J. Garberding",
+            "PERSON",
+            "Control",
+            "EnLink Midstream, LLC",
+            "COMP"
+        ],
+        [
+            "Eric D. Batchelder",
+            "PERSON",
+            "Control",
+            "EnLink Midstream, LLC",
+            "COMP"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Raise",
+            "Adjusted EBITDA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "EnLink Midstream, LLC",
+            "COMP",
+            "Increase",
+            "Workforce",
+            "CONCEPT"
+        ],
+        [
+            "Michael J. Garberding",
+            "PERSON",
+            "Relate_To",
+            "EnLink Midstream, LLC",
+            "COMP"
+        ],
+        [
+            "Eric D. Batchelder",
+            "PERSON",
+            "Relate_To",
+            "EnLink Midstream, LLC",
+            "COMP"
+        ],
+        [
+            "R. Alan Marcum",
+            "PERSON",
+            "Join",
+            "boards of directors for both ENLK and ENLC",
+            "ORG"
+        ],
+        [
+            "Steve J. Hoppe",
+            "PERSON",
+            "Leave",
+            "EnLink",
+            "COMP"
+        ]
+    ]
+}

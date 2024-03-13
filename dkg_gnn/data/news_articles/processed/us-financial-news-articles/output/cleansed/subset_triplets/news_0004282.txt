@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Andy Murray",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Control",
+            "Hip Injury",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "SECTOR"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Decrease",
+            "Schedule",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Positive_Impact_On",
+            "Hip Injury Recovery",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Relate_To",
+            "Top Level Competition",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Manage",
+            "Economy",
+            "GPE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Accelerating Economy",
+            "GPE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "2 percent inflation target",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Market Rally",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Raise",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Quincy Krosby",
+            "PERSON",
+            "State",
+            "Inflation Kick In",
+            "CONCEPT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Release",
+            "Minutes",
+            "DOCUMENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Operate_In",
+            "Mid-December Meeting",
+            "EVENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Raise",
+            "Benchmark Interest Rate",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Raise",
+            "Economic Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Interpret",
+            "Post-Meeting Statement",
+            "DOCUMENT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Speculate",
+            "What Drove Decision",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Get",
+            "Better Look Inside Mind of Central Bank",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Deal With",
+            "New Fed Chair",
+            "PERSON"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Interpret",
+            "Mind of New Fed Chair",
+            "PERSON"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Speculate",
+            "Hawkish Side of New Fed Board Members",
+            "PERSON"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Speculate",
+            "Voting Complexion",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Acclimate",
+            "Aggressive Rate Hike Pace",
+            "CONCEPT"
+        ],
+        [
+            "Fed Funds Futures Trading",
+            "ORG",
+            "Price In",
+            "Three Rate Hikes in 2018",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Project",
+            "Three Rate Hikes in 2018",
+            "CONCEPT"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Indicate",
+            "Year with Four Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Mohamed El-Erian",
+            "PERSON",
+            "Speak of",
+            "Beautiful Normalization",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Navigate",
+            "Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Begin",
+            "Process of Reversing Policy Accommodation",
+            "CONCEPT"
+        ],
+        [
+            "Powell",
+            "PERSON",
+            "Navigate",
+            "Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Powell",
+            "PERSON",
+            "Telegraph",
+            "Transition from Normalization to Tightening",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Accept",
+            "Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Speculate",
+            "Fed Schedule",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Speculate",
+            "Faster Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Jim Paulsen",
+            "PERSON",
+            "Envision",
+            "Rough and Rugged Year",
+            "CONCEPT"
+        ],
+        [
+            "Jim Paulsen",
+            "PERSON",
+            "Advise",
+            "Consider Taking Up Cash Position",
+            "CONCEPT"
+        ],
+        [
+            "Jim Paulsen",
+            "PERSON",
+            "Advise",
+            "Shift Money from U.S. to International Stocks",
+            "CONCEPT"
+        ],
+        [
+            "Sector",
+            "CONCEPT",
+            "Outperform",
+            "Materials, Energy, Industrials, Commodities, Financials",
+            "SECTOR"
+        ]
+    ]
+}

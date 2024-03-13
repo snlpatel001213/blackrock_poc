@@ -1,0 +1,87 @@
+{
+    "output": [
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Announce",
+            "Refinancing, Upsizing of Revolving Credit Facility",
+            "EVENT"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Control",
+            "New Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "New Facility",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Uncommitted Accordion Option",
+            "CONCEPT"
+        ],
+        [
+            "Uncommitted Accordion Option",
+            "CONCEPT",
+            "Increase",
+            "Drawings",
+            "CONCEPT"
+        ],
+        [
+            "Drawings",
+            "CONCEPT",
+            "To",
+            "$800 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Operate_In",
+            "Holding Company Level Senior Secured Revolving Credit Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Holding Company Level Senior Secured Revolving Credit Facility",
+            "FIN_INSTRUMENT",
+            "Upsize",
+            "To",
+            "CONCEPT"
+        ],
+        [
+            "To",
+            "CONCEPT",
+            " $600 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Macquarie Infrastructure Corp",
+            "ORG",
+            "Refinance",
+            "Extend of Maturity of Credit Facility",
+            "CONCEPT"
+        ],
+        [
+            "Extend of Maturity of Credit Facility",
+            "CONCEPT",
+            "By",
+            "Approximately Two and Half Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Approximately Two and Half Years",
+            "ECON_INDICATOR",
+            "To",
+            "January 3, 2022",
+            "DATE"
+        ]
+    ]
+}

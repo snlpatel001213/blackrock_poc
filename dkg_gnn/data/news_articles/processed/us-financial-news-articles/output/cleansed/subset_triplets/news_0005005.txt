@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "LaSalle Network",
+            "ORG",
+            "Has",
+            "Tom Gimbel",
+            "PERSON"
+        ],
+        [
+            "Tom Gimbel",
+            "PERSON",
+            "Is_Member_Of",
+            "LaSalle Network",
+            "ORG"
+        ],
+        [
+            "LaSalle Network",
+            "ORG",
+            "Participates_In",
+            "Jobs Market",
+            "CONCEPT"
+        ],
+        [
+            "LaSalle Network",
+            "ORG",
+            "Participates_In",
+            "Hiring Trends",
+            "CONCEPT"
+        ]
+    ]
+}

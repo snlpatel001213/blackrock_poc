@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "JPMorgan",
+            "COMP",
+            "Has",
+            "Jamie Dimon",
+            "PERSON"
+        ],
+        [
+            "Jamie Dimon",
+            "PERSON",
+            "Regret",
+            "call bitcoin a \u201cfraud\u201d",
+            "CONCEPT"
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "Jamie Dimon",
+            "PERSON",
+            "Say",
+            "bitcoin not viable",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Rise",
+            "30 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Relate_To",
+            "tulips bulbs",
+            "CONCEPT"
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Has",
+            "Marianne Lake",
+            "PERSON"
+        ],
+        [
+            "Marianne Lake",
+            "PERSON",
+            "Say",
+            "open minded to potential use cases of digital currencies",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Embrace",
+            "banks, exchange operators and companies",
+            "ORG"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Trade",
+            "CME Group Inc",
+            "COMP"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Trade",
+            "Cboe Global Markets Inc",
+            "COMP"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Buy/Sell",
+            "Square Inc",
+            "COMP"
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Has",
+            "John Gerspach",
+            "PERSON"
+        ],
+        [
+            "John Gerspach",
+            "PERSON",
+            "Echo",
+            "view on blockchain",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Use",
+            "blockchain technology",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Trade",
+            "14,202",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Trade",
+            "909 a year ago",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Breach",
+            "19,000 in December",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

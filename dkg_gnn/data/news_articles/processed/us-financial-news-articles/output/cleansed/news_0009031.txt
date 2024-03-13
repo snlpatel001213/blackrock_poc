@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Appoint",
+            "Jennifer Cho",
+            "PERSON"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Appoint",
+            "Lorenz Esguerra",
+            "PERSON"
+        ],
+        [
+            "Jennifer Cho",
+            "PERSON",
+            "Has",
+            "Experience in business development",
+            "CONCEPT"
+        ],
+        [
+            "Jennifer Cho",
+            "PERSON",
+            "Has",
+            "Experience in integrated marketing",
+            "CONCEPT"
+        ],
+        [
+            "Jennifer Cho",
+            "PERSON",
+            "Produce",
+            "Analytics driven marketing programs",
+            "CONCEPT"
+        ],
+        [
+            "Jennifer Cho",
+            "PERSON",
+            "Relate_To",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Lorenz Esguerra",
+            "PERSON",
+            "Has",
+            "Experience in marketing services",
+            "CONCEPT"
+        ],
+        [
+            "Lorenz Esguerra",
+            "PERSON",
+            "Has",
+            "Experience in brand management",
+            "CONCEPT"
+        ],
+        [
+            "Lorenz Esguerra",
+            "PERSON",
+            "Has",
+            "Experience in business strategy",
+            "CONCEPT"
+        ],
+        [
+            "Lorenz Esguerra",
+            "PERSON",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Operate_In",
+            "77 cities",
+            "COMP"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Operate_In",
+            "31 countries",
+            "GPE"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Participates_In",
+            "Public Relations",
+            "SECTOR"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Participates_In",
+            "Advertising",
+            "SECTOR"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Control",
+            "Proprietary social, digital and analytics methodologies",
+            "CONCEPT"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Control",
+            "Interpublic Group",
+            "ORG/REG"
+        ],
+        [
+            "Weber Shandwick",
+            "ORG",
+            "Positive_Impact_On",
+            "Clients businesses",
+            "CONCEPT"
+        ]
+    ]
+}

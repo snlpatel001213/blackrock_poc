@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Managed Duration Investment Grade Municipal Fund",
+            "COMP",
+            "Declare",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Managed Duration Investment Grade Municipal Fund",
+            "COMP",
+            "Pay",
+            "$0.0450",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Managed Duration Investment Grade Municipal Fund",
+            "COMP",
+            "Operate_In",
+            "Interest Rate Volatility",
+            "CONCEPT"
+        ],
+        [
+            "Cutwater Investor Services Corp.",
+            "ORG",
+            "Provide",
+            "Fixed Income Asset Management",
+            "SERVICE"
+        ],
+        [
+            "Cutwater Investor Services Corp.",
+            "ORG",
+            "Serve",
+            "Institutional Clients",
+            "ORG"
+        ],
+        [
+            "Managed Duration Investment Grade Municipal Fund",
+            "COMP",
+            "Send",
+            "Form 1099-DIV",
+            "PRODUCT"
+        ],
+        [
+            "Managed Duration Investment Grade Municipal Fund",
+            "COMP",
+            "Have",
+            "Forward-looking Statements",
+            "CONCEPT"
+        ]
+    ]
+}

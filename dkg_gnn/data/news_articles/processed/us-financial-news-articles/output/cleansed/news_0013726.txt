@@ -1,0 +1,54 @@
+{
+    "output": [
+        [
+            "3D Systems Corp",
+            "COMP",
+            "Announce",
+            "Exclusive Distribution Partnership",
+            "EVENT",
+            "Relate_To",
+            "Stryker",
+            "COMP"
+        ],
+        [
+            "3D Systems Corp",
+            "COMP",
+            "Produce",
+            "VSP",
+            "PRODUCT",
+            "Participates_In",
+            "CranioMaxilloFacial Specialty",
+            "SECTOR"
+        ],
+        [
+            "3D Systems Corp",
+            "COMP",
+            "Produce",
+            "Anatomical Models",
+            "PRODUCT",
+            "Participates_In",
+            "CranioMaxilloFacial Specialty",
+            "SECTOR"
+        ],
+        [
+            "Stryker",
+            "COMP",
+            "Announce",
+            "Exclusive Distribution Partnership",
+            "EVENT",
+            "Relate_To",
+            "3D Systems Corp",
+            "COMP"
+        ],
+        [
+            "Agreement",
+            "CONCEPT",
+            "Control",
+            "Exclusive Distribution Partnership",
+            "EVENT",
+            "Operate_In",
+            "U.S., Canada, Europe, Australia",
+            "GPE"
+        ]
+    ]
+}

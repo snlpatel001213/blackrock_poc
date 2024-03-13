@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mayor Bill de Blasio",
+            "PERSON",
+            "Announce",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Operate_In",
+            "Times Square",
+            "GPE"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Relate_To",
+            "Vehicle attacks",
+            "CONCEPT"
+        ]
+    ]
+}

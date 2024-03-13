@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE/ORG/GOV",
+            "Apologise",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE/ORG/GOV",
+            "Operate_In",
+            "U.S. Military",
+            "ORG"
+        ],
+        [
+            "U.S. Military",
+            "ORG",
+            "Incident",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Military",
+            "ORG",
+            "Impact_On",
+            "Japan",
+            "GPE"
+        ]
+    ]
+}

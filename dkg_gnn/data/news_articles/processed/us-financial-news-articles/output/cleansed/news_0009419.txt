@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Golden Globes",
+            "EVENT",
+            "Participates_In",
+            "Black Dress Protest",
+            "CONCEPT"
+        ],
+        [
+            "Hollywood",
+            "GPE",
+            "Relate_To",
+            "Sexual Harassment Claims",
+            "CONCEPT"
+        ],
+        [
+            "Stars",
+            "PERSON",
+            "Call_Out",
+            "Sexual Harassment Claims",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Brooks",
+            "PERSON",
+            "Report",
+            "Golden Globes",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Euro",
+            "ECON_INDICATOR",
+            "Hit",
+            "3-year High",
+            "EVENT"
+        ],
+        [
+            "Euro",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Optimism Around Growth",
+            "CONCEPT"
+        ],
+        [
+            "Optimism Around Growth",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Expectations Of Tighter Policy",
+            "CONCEPT"
+        ],
+        [
+            "Expectations Of Tighter Policy",
+            "CONCEPT",
+            "Has",
+            "Central Banks",
+            "ORG/REG"
+        ],
+        [
+            "Central Banks",
+            "ORG/REG",
+            "Control",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Pro-European Coalition",
+            "CONCEPT",
+            "Impact",
+            "Confidence In The Continent",
+            "CONCEPT"
+        ],
+        [
+            "Confidence In The Continent",
+            "CONCEPT",
+            "Relate_To",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Asian Shares",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "Historic Highs",
+            "EVENT"
+        ],
+        [
+            "Historic Highs",
+            "EVENT",
+            "Relate_To",
+            "Asian Markets",
+            "SECTOR"
+        ],
+        [
+            "US Markets",
+            "SECTOR",
+            "Participates_In",
+            "National Holiday",
+            "EVENT"
+        ],
+        [
+            "National Holiday",
+            "EVENT",
+            "Negative_Impact_On",
+            "Trading In US Markets",
+            "CONCEPT"
+        ],
+        [
+            "Last Week",
+            "TIME",
+            "Relate_To",
+            "Record-Breaking Run",
+            "EVENT"
+        ],
+        [
+            "Record-Breaking Run",
+            "EVENT",
+            "Relate_To",
+            "Wall Street",
+            "SECTOR"
+        ]
+    ]
+}

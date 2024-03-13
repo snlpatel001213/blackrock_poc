@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Weigh_In",
+            "Markets",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Has",
+            "Warren Buffett",
+            "PERSON"
+        ],
+        [
+            "Markets",
+            "CONCEPT",
+            "Relate_To",
+            "Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Impact",
+            "Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ]
+    ]
+}

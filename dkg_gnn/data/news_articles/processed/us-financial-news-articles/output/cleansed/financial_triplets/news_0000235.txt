@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Operate_In",
+            "Value-based Care Platform",
+            "SECTOR"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Is_Member_Of",
+            "Evolent Health, Inc.",
+            "ORG"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Operate_In",
+            "New Mexico",
+            "GPE"
+        ]
+    ]
+}

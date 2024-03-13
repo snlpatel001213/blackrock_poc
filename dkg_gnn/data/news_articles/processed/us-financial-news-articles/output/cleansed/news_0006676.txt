@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Everitt Aaron Jameson",
+            "PERSON",
+            "Charged_With",
+            "Plotting",
+            "CONCEPT"
+        ],
+        [
+            "Everitt Aaron Jameson",
+            "PERSON",
+            "Planned_To_Use",
+            "Homemade Bombs",
+            "CONCEPT"
+        ],
+        [
+            "Everitt Aaron Jameson",
+            "PERSON",
+            "Intended_To_Use",
+            "Pipe Bombs",
+            "CONCEPT"
+        ],
+        [
+            "Everitt Aaron Jameson",
+            "PERSON",
+            "Force",
+            "People",
+            "PERSON"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Into",
+            "Area",
+            "CONCEPT"
+        ],
+        [
+            "Area",
+            "CONCEPT",
+            "Popular Tourist Destination",
+            "Pier 39",
+            "GPE"
+        ],
+        [
+            "Pier 39",
+            "GPE",
+            "Shoot",
+            "People",
+            "PERSON"
+        ]
+    ]
+}

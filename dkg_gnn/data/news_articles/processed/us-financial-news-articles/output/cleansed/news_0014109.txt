@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Purcell Julie & Lefkowitz LLP",
+            "ORG",
+            "Is_Member_Of",
+            "Attorneys",
+            "CONCEPT"
+        ],
+        [
+            "Purcell Julie & Lefkowitz LLP",
+            "ORG",
+            "Represent",
+            "Hormel Foods Corporation",
+            "COMP"
+        ],
+        [
+            "Hormel Foods Corporation",
+            "COMP",
+            "Has",
+            "Board of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "Board of Directors",
+            "ORG/GOV",
+            "Investigate",
+            "Potential Breach",
+            "CONCEPT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Interested_In",
+            "Additional Information",
+            "CONCEPT"
+        ],
+        [
+            "Purcell Julie & Lefkowitz LLP",
+            "ORG",
+            "Has",
+            "Website",
+            "COMP"
+        ],
+        [
+            "Website",
+            "COMP",
+            "Contain",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Contact",
+            "Attorney",
+            "ORG"
+        ],
+        [
+            "Attorney",
+            "ORG",
+            "Personally_Speak",
+            "Shareholder",
+            "PERSON"
+        ],
+        [
+            "Purcell Julie & Lefkowitz LLP",
+            "ORG",
+            "Exclusively_Committed",
+            "Representing Shareholders",
+            "PERSON"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Victims",
+            "Securities Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Victims",
+            "Breaches Fiduciary Duty",
+            "CONCEPT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Victims",
+            "Corporate Misconduct",
+            "CONCEPT"
+        ]
+    ]
+}

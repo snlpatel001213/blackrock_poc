@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "David Ferrer",
+            "PERSON",
+            "Operate_In",
+            "ATP Tour",
+            "SECTOR"
+        ],
+        [
+            "Wu Yibing",
+            "PERSON",
+            "Participates_In",
+            "ATP Tour",
+            "SECTOR"
+        ],
+        [
+            "David Ferrer",
+            "PERSON",
+            "Has",
+            "4",
+            "ECON_INDICATOR",
+            "Titles",
+            "SECTOR"
+        ],
+        [
+            "David Ferrer",
+            "PERSON",
+            "Has",
+            "38",
+            "ECON_INDICATOR",
+            "Ranking",
+            "SECTOR"
+        ],
+        [
+            "Wu Yibing",
+            "PERSON",
+            "Has",
+            "1",
+            "ECON_INDICATOR",
+            "Ranking",
+            "SECTOR"
+        ],
+        [
+            "Wu Yibing",
+            "PERSON",
+            "Has",
+            "1",
+            "ECON_INDICATOR",
+            "US Open Title",
+            "SECTOR"
+        ],
+        [
+            "David Ferrer",
+            "PERSON",
+            "Beat",
+            "Wu Yibing",
+            "PERSON"
+        ],
+        [
+            "David Ferrer",
+            "PERSON",
+            "Advance_To",
+            "Second Round",
+            "EVENT"
+        ],
+        [
+            "Wu Yibing",
+            "PERSON",
+            "Eliminate_From",
+            "Tournament",
+            "EVENT"
+        ],
+        [
+            "David Ferrer",
+            "PERSON",
+            "Face",
+            "Joao Sousa",
+            "PERSON",
+            "Second Round",
+            "EVENT"
+        ],
+        [
+            "Joao Sousa",
+            "PERSON",
+            "Last Year",
+            "Runner_Up",
+            "EVENT"
+        ],
+        [
+            "Denis Shapovalov",
+            "PERSON",
+            "Face",
+            "Rogerio Dutra Silva",
+            "PERSON",
+            "Later",
+            "TIME"
+        ],
+        [
+            "Jack Sock",
+            "PERSON",
+            "Has",
+            "1",
+            "ECON_INDICATOR",
+            "Title",
+            "SECTOR"
+        ],
+        [
+            "Jack Sock",
+            "PERSON",
+            "Has",
+            "Defending Champion",
+            "TITLE"
+        ],
+        [
+            "Juan Martin Del Potro",
+            "PERSON",
+            "Has",
+            "1",
+            "ECON_INDICATOR",
+            "Title",
+            "SECTOR"
+        ],
+        [
+            "John Isner",
+            "PERSON",
+            "Has",
+            "2",
+            "ECON_INDICATOR",
+            "Titles",
+            "SECTOR"
+        ],
+        [
+            "Sam Querrey",
+            "PERSON",
+            "Has",
+            "1",
+            "ECON_INDICATOR",
+            "Title",
+            "SECTOR"
+        ],
+        [
+            "Jack Sock",
+            "PERSON",
+            "Given",
+            "Bye",
+            "EVENT"
+        ],
+        [
+            "Juan Martin Del Potro",
+            "PERSON",
+            "Given",
+            "Bye",
+            "EVENT"
+        ],
+        [
+            "John Isner",
+            "PERSON",
+            "Given",
+            "Bye",
+            "EVENT"
+        ],
+        [
+            "Sam Querrey",
+            "PERSON",
+            "Given",
+            "Bye",
+            "EVENT"
+        ]
+    ]
+}

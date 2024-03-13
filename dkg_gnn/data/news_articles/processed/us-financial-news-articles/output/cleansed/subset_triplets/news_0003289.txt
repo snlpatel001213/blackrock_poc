@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Silicom Ltd.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Full Year 2017 Results",
+            "EVENT"
+        ],
+        [
+            "Silicom Ltd.",
+            "ORG",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Silicom Ltd.",
+            "ORG",
+            "Produce",
+            "High-performance server/appliances networking solutions",
+            "PRODUCT"
+        ],
+        [
+            "Silicom Ltd.",
+            "ORG",
+            "Control",
+            "Investor Relations Section",
+            "SECTOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Management Review and Discussion",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "Investors Questions",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Impact",
+            "Call Participants",
+            "PERSON"
+        ]
+    ]
+}

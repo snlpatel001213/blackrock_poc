@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Horizon Pharma plc",
+            "ORG",
+            "Increase",
+            "KRYSTEXXA Peak Annual Net Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Horizon Pharma plc",
+            "ORG",
+            "Increase",
+            "Teprotumumab Peak Annual Net Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Horizon Pharma plc",
+            "ORG",
+            "Confirm",
+            "Expectation of more than 50 Percent Year-Over-Year Net Sales Growth for KRYSTEXXA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Horizon Pharma plc",
+            "ORG",
+            "Announce",
+            "Licensing Agreement with MedImmune",
+            "ORG"
+        ],
+        [
+            "Horizon Pharma plc",
+            "ORG",
+            "Operate_In",
+            "Rheumatology Development Pipeline",
+            "SECTOR"
+        ],
+        [
+            "KRYSTEXXA",
+            "PRODUCT",
+            "Relate_To",
+            "Uncontrolled Gout",
+            "CONCEPT"
+        ],
+        [
+            "Teprotumumab",
+            "PRODUCT",
+            "Relate_To",
+            "Rare Eye Disease",
+            "CONCEPT"
+        ],
+        [
+            "MEDI4945",
+            "PRODUCT",
+            "Licensed_By",
+            "MedImmune",
+            "ORG"
+        ],
+        [
+            "HZN-003",
+            "PRODUCT",
+            "Relate_To",
+            "Potential Next-Generation Biologic for Uncontrolled Gout",
+            "CONCEPT"
+        ],
+        [
+            "XL-protein GmbH",
+            "ORG",
+            "Collaborate_With",
+            "Company",
+            "ORG"
+        ],
+        [
+            "PASylation Technology",
+            "CONCEPT",
+            "Used_By",
+            "Next-Generation Gout Biologic",
+            "CONCEPT"
+        ],
+        [
+            "MMF",
+            "PRODUCT",
+            "Used_In",
+            "RECIPE Study",
+            "EVENT"
+        ],
+        [
+            "Azathioprine",
+            "PRODUCT",
+            "Used_In",
+            "TRIPLE Study",
+            "EVENT"
+        ],
+        [
+            "HZN-002",
+            "PRODUCT",
+            "Licensed_By",
+            "Company",
+            "ORG"
+        ]
+    ]
+}

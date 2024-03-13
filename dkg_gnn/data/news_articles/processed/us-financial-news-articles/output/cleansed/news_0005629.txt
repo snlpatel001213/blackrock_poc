@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Win",
+            "Giant Slalom",
+            "EVENT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Operate_In",
+            "Alpine Skiing",
+            "CONCEPT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Has",
+            "774",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Extend",
+            "Lead",
+            "CONCEPT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Control",
+            "Overall Standings",
+            "CONCEPT"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Finish",
+            "Second",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Participates_In",
+            "Giant Slalom",
+            "EVENT"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Relate_To",
+            "Marcel Hirscher",
+            "PERSON"
+        ],
+        [
+            "Alexis Pinturault",
+            "PERSON",
+            "Finish",
+            "Third",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alexis Pinturault",
+            "PERSON",
+            "Participates_In",
+            "Giant Slalom",
+            "EVENT"
+        ],
+        [
+            "Alpine Skiing",
+            "CONCEPT",
+            "Has",
+            "FIS Alpine Skiing World Cup",
+            "EVENT"
+        ],
+        [
+            "Adelboden",
+            "GPE",
+            "Host",
+            "Giant Slalom",
+            "EVENT"
+        ]
+    ]
+}

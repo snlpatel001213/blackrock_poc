@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Crown",
+            "GPE",
+            "Operate_In",
+            "CEE",
+            "GPE"
+        ],
+        [
+            "Zloty",
+            "GPE",
+            "Operate_In",
+            "CEE",
+            "GPE"
+        ],
+        [
+            "Forint",
+            "GPE",
+            "Operate_In",
+            "CEE",
+            "GPE"
+        ],
+        [
+            "Crown",
+            "GPE",
+            "Positive_Impact_On",
+            "Czech economy",
+            "SECTOR"
+        ],
+        [
+            "Zloty",
+            "GPE",
+            "Positive_Impact_On",
+            "Polish economy",
+            "SECTOR"
+        ],
+        [
+            "Forint",
+            "GPE",
+            "Positive_Impact_On",
+            "Hungarian economy",
+            "SECTOR"
+        ],
+        [
+            "Crown",
+            "GPE",
+            "Relate_To",
+            "Reuters poll",
+            "EVENT"
+        ],
+        [
+            "Zloty",
+            "GPE",
+            "Relate_To",
+            "Reuters poll",
+            "EVENT"
+        ],
+        [
+            "Forint",
+            "GPE",
+            "Relate_To",
+            "Reuters poll",
+            "EVENT"
+        ],
+        [
+            "Zloty",
+            "GPE",
+            "Impact",
+            "Warsaw-Brussels tension",
+            "EVENT"
+        ],
+        [
+            "Forint",
+            "GPE",
+            "Impact",
+            "Hungarian elections",
+            "EVENT"
+        ],
+        [
+            "Leu",
+            "GPE",
+            "Impact",
+            "Robust wage rise",
+            "CONCEPT"
+        ],
+        [
+            "Dinar",
+            "GPE",
+            "Impact",
+            "1.3% easing",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

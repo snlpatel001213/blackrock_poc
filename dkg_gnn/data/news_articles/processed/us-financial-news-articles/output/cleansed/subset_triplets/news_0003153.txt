@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Unrest",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Revolutionary Guards",
+            "ORG"
+        ],
+        [
+            "Revolutionary Guards",
+            "ORG",
+            "Participates_In",
+            "Three Provinces",
+            "GPE"
+        ],
+        [
+            "Unrest",
+            "CONCEPT",
+            "Impact",
+            "21 People",
+            "PERSON"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Record Low Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Strong Economic Momentum",
+            "CONCEPT"
+        ],
+        [
+            "East Coast",
+            "GPE",
+            "Has",
+            "Frigid Weather",
+            "CONCEPT"
+        ]
+    ]
+}

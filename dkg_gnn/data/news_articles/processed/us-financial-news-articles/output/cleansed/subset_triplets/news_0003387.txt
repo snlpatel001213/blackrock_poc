@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Walgreens Boots Alliance",
+            "ORG",
+            "Decrease",
+            "GAAP net earnings attributable to Walgreens Boots Alliance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Walgreens Boots Alliance",
+            "ORG",
+            "Raise",
+            "fiscal year 2018 guidance",
+            "EVENT"
+        ],
+        [
+            "Walgreens Boots Alliance",
+            "ORG",
+            "Operate_In",
+            "Retail Pharmacy USA",
+            "SECTOR"
+        ],
+        [
+            "Retail Pharmacy USA",
+            "SECTOR",
+            "Decrease",
+            "retail sales",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

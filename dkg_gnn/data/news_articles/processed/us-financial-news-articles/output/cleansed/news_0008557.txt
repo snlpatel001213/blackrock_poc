@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Speak_With",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "Fire and Fury: Inside the Trump White House",
+            "BOOK"
+        ],
+        [
+            "Fire and Fury: Inside the Trump White House",
+            "BOOK",
+            "Relate_To",
+            "Trump White House",
+            "GPE"
+        ],
+        [
+            "25th Amendment",
+            "CONCEPT",
+            "Brought_Up",
+            "White House",
+            "GPE"
+        ]
+    ]
+}

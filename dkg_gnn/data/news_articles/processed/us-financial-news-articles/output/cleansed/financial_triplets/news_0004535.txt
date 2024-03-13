@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Produce",
+            "Accounting Irregularity",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Operate_In",
+            "Multinational Retail",
+            "SECTOR"
+        ],
+        [
+            "Ben la Grange",
+            "PERSON",
+            "Participates_In",
+            "Steinhoff",
+            "COMP"
+        ],
+        [
+            "Philip Dieperink",
+            "PERSON",
+            "Participates_In",
+            "Steinhoff",
+            "COMP"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Conforama",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Mattress Firm",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Poundland",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Raise",
+            "Liquidity",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Impact",
+            "Market Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Decrease",
+            "Shares Value",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Wa Lone",
+            "PERSON",
+            "Detained",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Operate_In",
+            "Myanmar",
+            "GPE"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Participates_In",
+            "Reuters Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Negative_Impact_On",
+            "Democratization Process",
+            "CONCEPT"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Detained",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Operate_In",
+            "Myanmar",
+            "GPE"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Participates_In",
+            "Reuters Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Has",
+            "Wa Lone",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Has",
+            "Kyaw Soe Oo",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Control",
+            "Official Secrets Act",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Has",
+            "Rakhine",
+            "GPE"
+        ],
+        [
+            "Rakhine",
+            "GPE",
+            "Experience",
+            "Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Rohingya Muslims",
+            "GPE",
+            "Flee_From",
+            "Militants",
+            "CONCEPT"
+        ],
+        [
+            "Court",
+            "CONCEPT",
+            "Due_To_Appear",
+            "Wa Lone",
+            "PERSON"
+        ],
+        [
+            "Court",
+            "CONCEPT",
+            "Due_To_Appear",
+            "Kyaw Soe Oo",
+            "PERSON"
+        ],
+        [
+            "Prosecutor",
+            "CONCEPT",
+            "Could_Request",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Friends",
+            "CONCEPT",
+            "Pray_For",
+            "Release",
+            "CONCEPT"
+        ],
+        [
+            "Friends",
+            "CONCEPT",
+            "Gather",
+            "Sule Pagoda",
+            "GPE"
+        ],
+        [
+            "Friends",
+            "CONCEPT",
+            "Recite",
+            "Mantra",
+            "CONCEPT"
+        ],
+        [
+            "Government Spokesman",
+            "CONCEPT",
+            "Respond_To",
+            "Support_Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Democratization Process",
+            "CONCEPT",
+            "Not_Good_Thing",
+            "Arrest",
+            "CONCEPT"
+        ]
+    ]
+}

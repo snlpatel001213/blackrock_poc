@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Freezing temperatures",
+            "CONCEPT",
+            "Impact",
+            "U.S. Northeast",
+            "GPE"
+        ],
+        [
+            "U.S. Northeast",
+            "GPE",
+            "Has",
+            "Freezing temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Freezing temperatures",
+            "CONCEPT",
+            "Relate_To",
+            "Heating costs",
+            "CONCEPT"
+        ],
+        [
+            "Heating costs",
+            "CONCEPT",
+            "Impact",
+            "Americans",
+            "PERSON"
+        ],
+        [
+            "Climate policies",
+            "CONCEPT",
+            "Relate_To",
+            "Energy poor",
+            "CONCEPT"
+        ],
+        [
+            "Energy poverty",
+            "CONCEPT",
+            "Relate_To",
+            "Light",
+            "CONCEPT"
+        ]
+    ]
+}

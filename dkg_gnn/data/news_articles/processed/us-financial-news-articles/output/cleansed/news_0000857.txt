@@ -1,0 +1,241 @@
+{
+    "output": [
+        [
+            "PPD",
+            "ORG",
+            "Name",
+            "Colin Hill",
+            "PERSON"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Co-founder",
+            "GNS Healthcare",
+            "ORG"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Add",
+            "Colin Hill",
+            "PERSON",
+            "Board_Of_Directors"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Renowned_Voice",
+            "Health_Care_Technology",
+            "CONCEPT"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Pioneer",
+            "Precision_Medicine",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Focus",
+            "Technological_Innovations",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Focus",
+            "Real_World_Evidence",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Focus",
+            "Patient_Centric_Solutions",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Improve",
+            "Patient_Health",
+            "CONCEPT"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Serve",
+            "Biotelemetry_Inc",
+            "COMP"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Founding_Board_Member",
+            "TMed",
+            "ORG"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Appointed",
+            "Massachusetts_Digital_Health_Council",
+            "ORG"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Founding_Member",
+            "AesRx",
+            "ORG"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Founding_Chairman",
+            "Strata_Rx",
+            "ORG"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Named",
+            "MIT_Technology_Review_TR100",
+            "LIST"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Speak",
+            "National_And_International_Conferences",
+            "CONCEPT"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Appear",
+            "Publications_And_Television_Programs",
+            "CONCEPT"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Earn",
+            "Bachelor_Degree_Physics",
+            "DEGREE"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Earn",
+            "Master_Degrees_Physics",
+            "DEGREE"
+        ],
+        [
+            "Colin Hill",
+            "PERSON",
+            "Earn",
+            "Cornell_University",
+            "UNIVERSITY"
+        ],
+        [
+            "GNS Healthcare",
+            "ORG",
+            "Leading_Precision_Medicine",
+            "CONCEPT"
+        ],
+        [
+            "GNS Healthcare",
+            "ORG",
+            "Commit",
+            "Leverage_Latest_Innovations",
+            "CONCEPT"
+        ],
+        [
+            "GNS Healthcare",
+            "ORG",
+            "Transform",
+            "Biomedical_And_Health_Care_Data",
+            "DATA"
+        ],
+        [
+            "GNS Healthcare",
+            "ORG",
+            "Transform",
+            "Solutions_And_Treatments",
+            "TREATMENT"
+        ],
+        [
+            "GNS Healthcare",
+            "ORG",
+            "Reduce",
+            "Burden_Of_Human_Disease",
+            "DISEASE"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Commitment",
+            "Transform_Drug_Development_Process",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Leverage",
+            "Data_And_Innovative_Technology",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Accelerate",
+            "Launching_New_Drugs_To_Market",
+            "MARKET"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Improve",
+            "Health_Outcomes_For_Patients",
+            "PATIENT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Offices",
+            "47_Countries",
+            "GPE"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Approximately",
+            "20000_Professionals_Worldwide",
+            "NUM"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Bend",
+            "Cost_And_Time_Curve_Of_Drug_Development",
+            "CONCEPT"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Deliver",
+            "Life_Changing_Therapies",
+            "THERAPIES"
+        ],
+        [
+            "PPD",
+            "ORG",
+            "Improve_Health",
+            "CONCEPT"
+        ]
+    ]
+}

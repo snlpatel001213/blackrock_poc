@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Higher Interest Rates",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Ramifications",
+            "CONCEPT"
+        ],
+        [
+            "Ariel Investments",
+            "ORG",
+            "Control",
+            "Funds",
+            "ORG"
+        ],
+        [
+            "Funds",
+            "ORG",
+            "Stick",
+            "Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Charles Bobrinskoy",
+            "PERSON",
+            "Speak",
+            "Opportunity Cost",
+            "CONCEPT"
+        ],
+        [
+            "Opportunity Cost",
+            "CONCEPT",
+            "Steep",
+            "Missing Equity Rally",
+            "CONCEPT"
+        ]
+    ]
+}

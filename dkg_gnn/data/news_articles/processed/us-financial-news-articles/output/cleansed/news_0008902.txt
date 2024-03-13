@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Permira",
+            "ORG",
+            "Install",
+            "Oliver Steil",
+            "PERSON"
+        ],
+        [
+            "Oliver Steil",
+            "PERSON",
+            "Operate_In",
+            "TeamViewer",
+            "COMP"
+        ],
+        [
+            "TeamViewer",
+            "COMP",
+            "Replace",
+            "Andreas Koenig",
+            "PERSON"
+        ],
+        [
+            "Andreas Koenig",
+            "PERSON",
+            "Resign",
+            "null",
+            "null"
+        ],
+        [
+            "Thomas Novak",
+            "PERSON",
+            "Leave",
+            "TeamViewer",
+            "COMP"
+        ],
+        [
+            "TeamViewer",
+            "COMP",
+            "Produce",
+            "Remote Administration Software",
+            "PRODUCT"
+        ],
+        [
+            "Oliver Steil",
+            "PERSON",
+            "Member_Of",
+            "TeamViewer Advisory Board",
+            "ORG"
+        ],
+        [
+            "Permira",
+            "ORG",
+            "Portfolio_Review",
+            "null",
+            "null"
+        ],
+        [
+            "Permira",
+            "ORG",
+            "Invest_In",
+            "TeamViewer",
+            "COMP"
+        ],
+        [
+            "Oliver Steil",
+            "PERSON",
+            "Responsible_For",
+            "Wring Value",
+            "CONCEPT"
+        ],
+        [
+            "Permira",
+            "ORG",
+            "Sell",
+            "Debitel",
+            "COMP"
+        ],
+        [
+            "Oliver Steil",
+            "PERSON",
+            "CEO",
+            "Debitel",
+            "COMP"
+        ],
+        [
+            "Permira",
+            "ORG",
+            "Invest_In",
+            "Sunrise Communications AG",
+            "COMP"
+        ],
+        [
+            "Oliver Steil",
+            "PERSON",
+            "CEO",
+            "Sunrise Communications AG",
+            "COMP"
+        ],
+        [
+            "Sunrise Communications AG",
+            "COMP",
+            "Flotation",
+            "null",
+            "null"
+        ]
+    ]
+}

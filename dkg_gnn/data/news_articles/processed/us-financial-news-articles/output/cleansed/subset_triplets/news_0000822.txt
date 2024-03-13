@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Introduce",
+            "Archburger",
+            "PRODUCT"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Operate_In",
+            "Fast-food sector",
+            "SECTOR"
+        ],
+        [
+            "Archburger",
+            "PRODUCT",
+            "Relate_To",
+            "Fresh beef",
+            "CONCEPT"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Relate_To",
+            "Cage-free eggs",
+            "CONCEPT"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Relate_To",
+            "Artificial preservatives-free chicken",
+            "CONCEPT"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Relate_To",
+            "Less sugar apple juice",
+            "CONCEPT"
+        ]
+    ]
+}

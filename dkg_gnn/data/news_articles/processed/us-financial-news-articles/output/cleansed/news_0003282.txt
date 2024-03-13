@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Merrill Matthews",
+            "PERSON",
+            "Write",
+            "Free Trade",
+            "CONCEPT"
+        ],
+        [
+            "Free Trade",
+            "CONCEPT",
+            "Has",
+            "America\u2019s Energy Independence",
+            "CONCEPT"
+        ],
+        [
+            "America\u2019s Energy Independence",
+            "CONCEPT",
+            "Secure",
+            "Long Run",
+            "TIME"
+        ],
+        [
+            "Peak Oil",
+            "CONCEPT",
+            "Theorists",
+            "Oil Supplies",
+            "CONCEPT"
+        ],
+        [
+            "Oil Supplies",
+            "CONCEPT",
+            "In Decline",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Middle Eastern Oil",
+            "CONCEPT",
+            "Tie",
+            "Islamist Autocrats",
+            "PERSON"
+        ],
+        [
+            "Nafta",
+            "ORG",
+            "Potentially Walk Away",
+            "null",
+            "CONCEPT"
+        ]
+    ]
+}

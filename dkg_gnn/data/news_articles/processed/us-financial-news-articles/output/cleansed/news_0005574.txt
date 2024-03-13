@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Best Start",
+            "CONCEPT"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "2006",
+            "GPE"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Best Start",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "2006",
+            "GPE"
+        ]
+    ]
+}

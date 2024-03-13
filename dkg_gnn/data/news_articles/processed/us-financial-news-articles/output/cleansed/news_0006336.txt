@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "David Yancey",
+            "PERSON",
+            "Is_Member_Of",
+            "Republican",
+            "ORG"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Participates_In",
+            "Virginia State House of Delegates Race",
+            "EVENT"
+        ],
+        [
+            "Virginia State Board of Elections",
+            "ORG/GOV",
+            "Announce",
+            "David Yancey",
+            "PERSON"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Win",
+            "94th District Seat",
+            "GPE"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Relate_To",
+            "Virginia State Board of Elections",
+            "ORG/GOV"
+        ]
+    ]
+}

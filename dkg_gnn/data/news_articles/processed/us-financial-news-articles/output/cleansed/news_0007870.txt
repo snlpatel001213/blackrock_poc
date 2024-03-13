@@ -1,0 +1,72 @@
+{
+    "output": [
+        [
+            "Avik Roy",
+            "PERSON",
+            "Write",
+            "Republicans Can\u2019t Avoid ObamaCare in 2018",
+            "EVENT"
+        ],
+        [
+            "Avik Roy",
+            "PERSON",
+            "Advise",
+            "Republicans",
+            "ORG/GOV",
+            "Pay",
+            "Health-care Services",
+            "CONCEPT",
+            "Competition",
+            "CONCEPT",
+            "Insurance Markets",
+            "SECTOR"
+        ],
+        [
+            "Avik Roy",
+            "PERSON",
+            "Offer",
+            "No",
+            "Advice",
+            "Reduce",
+            "Cost",
+            "Health Care",
+            "CONCEPT",
+            "Provider Level",
+            "COMP"
+        ],
+        [
+            "Avik Roy",
+            "PERSON",
+            "Contribute",
+            "Confusion",
+            "CONCEPT",
+            "Cause",
+            "Increasing Costs",
+            "CONCEPT"
+        ],
+        [
+            "Republicans",
+            "ORG/GOV",
+            "Illogically",
+            "Perpetuate",
+            "Confusion",
+            "CONCEPT"
+        ],
+        [
+            "Providers",
+            "COMP",
+            "Themselves",
+            "Source",
+            "Pervasive Smokescreen",
+            "CONCEPT"
+        ],
+        [
+            "Providers",
+            "COMP",
+            "Lobbyists",
+            "Effective",
+            "Mislead",
+            "CONCEPT"
+        ]
+    ]
+}

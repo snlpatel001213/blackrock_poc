@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Accept",
+            "Democratic Party",
+            "ORG/POL"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Operate_In",
+            "Centre-left",
+            "ORG/POL"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Former",
+            "OECD",
+            "ORG"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Join",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Indicate",
+            "Return",
+            "ORG"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Help",
+            "Democratic Party",
+            "ORG/POL"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Handle",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Pier Carlo Padoan",
+            "PERSON",
+            "Seek",
+            "Special budget dispensation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Emerge",
+            "Punishing recession",
+            "EVENT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Rise",
+            "Employment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Critic",
+            "Underperforming eurozone peers",
+            "SECTOR"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Fail",
+            "Halt rising debt levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Democratic Party",
+            "ORG/POL",
+            "See",
+            "Potential political asset",
+            "CONCEPT"
+        ],
+        [
+            "Democratic Party",
+            "ORG/POL",
+            "Fight",
+            "Declining poll numbers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Leader",
+            "Democratic Party",
+            "ORG/POL"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Publish",
+            "Interview",
+            "EVENT"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Quotidiano Nazionale",
+            "Newspaper chain",
+            "COMP"
+        ],
+        [
+            "Economy Ministry",
+            "ORG/GOV",
+            "No",
+            "Immediate comment",
+            "EVENT"
+        ]
+    ]
+}

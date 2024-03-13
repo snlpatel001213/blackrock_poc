@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "18%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Control",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Exchange Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "$11,000",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Main Street Capital Corp",
+            "COMP",
+            "Make",
+            "New Portfolio Investment",
+            "PRODUCT"
+        ],
+        [
+            "Main Street Capital Corp",
+            "COMP",
+            "Invest",
+            "$14.2 Million",
+            "ECON_INDICATOR",
+            "In",
+            "First-Lien, Senior Secured Term Debt",
+            "PRODUCT"
+        ],
+        [
+            "Main Street Capital Corp",
+            "COMP",
+            "Invest",
+            "Direct Equity Investment",
+            "PRODUCT"
+        ],
+        [
+            "Main Street Capital Corp",
+            "COMP",
+            "Participates_In",
+            "Minority Recapitalization Of Brewer Crane",
+            "EVENT"
+        ],
+        [
+            "Main Street Capital Corp",
+            "COMP",
+            "Partnered_With",
+            "Co\u2019s CEO",
+            "PERSON"
+        ]
+    ]
+}

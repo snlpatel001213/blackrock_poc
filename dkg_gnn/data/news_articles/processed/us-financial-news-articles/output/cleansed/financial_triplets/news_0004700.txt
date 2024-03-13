@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Sarah Sanders",
+            "PERSON"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Is_Member_Of",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Tested missiles",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "White House",
+            "ORG/GOV"
+        ]
+    ]
+}

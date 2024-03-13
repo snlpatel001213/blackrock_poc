@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "David H. Rosmarin",
+            "PERSON",
+            "Author",
+            "Psychologists Shouldn\u2019t Ignore the Soul",
+            "CONCEPT"
+        ],
+        [
+            "Psychologists Shouldn\u2019t Ignore the Soul",
+            "CONCEPT",
+            "Relate_To",
+            "Soul",
+            "CONCEPT"
+        ],
+        [
+            "Most patients",
+            "PERSON",
+            "Open_To",
+            "Receiving spiritual input",
+            "CONCEPT"
+        ],
+        [
+            "Medical challenges",
+            "EVENT",
+            "Impact_On",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "One\u2019s religion",
+            "CONCEPT",
+            "Influence",
+            "Understanding illness",
+            "CONCEPT"
+        ],
+        [
+            "Clinician",
+            "PERSON",
+            "Provide",
+            "Spiritual help",
+            "CONCEPT"
+        ],
+        [
+            "Patient",
+            "PERSON",
+            "Request",
+            "Spiritual help",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "VERB",
+            "Relate_To",
+            "Chaplain\u2019s assistance",
+            "CONCEPT"
+        ],
+        [
+            "Health-care provider",
+            "PERSON",
+            "Offer",
+            "Counsel",
+            "CONCEPT"
+        ],
+        [
+            "Judeo-Christian position",
+            "CONCEPT",
+            "Comfortable",
+            "Discussing spiritual matters",
+            "CONCEPT"
+        ]
+    ]
+}

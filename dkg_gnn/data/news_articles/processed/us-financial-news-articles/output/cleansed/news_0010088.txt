@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Has",
+            "Lattes",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Has",
+            "Mochas",
+            "PRODUCT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Espresso",
+            "CONCEPT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Steamed Milk",
+            "CONCEPT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Foam",
+            "CONCEPT"
+        ],
+        [
+            "Mochas",
+            "PRODUCT",
+            "Contain",
+            "Chocolate Sauce",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Win",
+            "Dismissal",
+            "EVENT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Sued",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Accuse",
+            "Starbucks Corp",
+            "COMP"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Overcharge",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Underfill",
+            "Lattes",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Underfill",
+            "Mochas",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Reduce",
+            "Milk Costs",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Use",
+            "Fill-to Lines",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Instruct",
+            "Baristas",
+            "PERSON"
+        ],
+        [
+            "Baristas",
+            "PERSON",
+            "Skimp",
+            "Ingredients",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Leave",
+            "Space",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Add",
+            "Milk Foam",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Reject",
+            "Claim",
+            "CONCEPT"
+        ],
+        [
+            "Milk Foam",
+            "CONCEPT",
+            "Count",
+            "Toward",
+            "Relate_To"
+        ],
+        [
+            "Advertised Volumes",
+            "CONCEPT",
+            "Not",
+            "Count",
+            "Relate_To"
+        ],
+        [
+            "Judge",
+            "PERSON",
+            "Find",
+            "Lack",
+            "CONCEPT"
+        ],
+        [
+            "Judge",
+            "PERSON",
+            "Reject",
+            "Claim",
+            "CONCEPT"
+        ],
+        [
+            "Reasonable Customers",
+            "PERSON",
+            "Expect",
+            "Foam",
+            "CONCEPT"
+        ],
+        [
+            "Plaintiffs",
+            "PERSON",
+            "Concede",
+            "Foam",
+            "CONCEPT"
+        ],
+        [
+            "Plaintiffs",
+            "PERSON",
+            "Fail",
+            "Show",
+            "CONCEPT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Promised Beverage Volume",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks Corp",
+            "COMP",
+            "Not Respond",
+            "Requests",
+            "CONCEPT"
+        ],
+        [
+            "Lawyers",
+            "PERSON",
+            "Did Not Respond",
+            "Requests",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Dominion Energy Inc.",
+            "COMP",
+            "Buy",
+            "Scana Corp.",
+            "COMP"
+        ],
+        [
+            "Scana Corp.",
+            "COMP",
+            "Relate_To",
+            "South Carolina Nuclear Project",
+            "EVENT"
+        ],
+        [
+            "South Carolina Nuclear Project",
+            "EVENT",
+            "Negative_Impact_On",
+            "Scana Corp.",
+            "COMP"
+        ],
+        [
+            "Dominion Energy Inc.",
+            "COMP",
+            "Operate_In",
+            "Virginia",
+            "GPE"
+        ],
+        [
+            "Scana Corp.",
+            "COMP",
+            "Operate_In",
+            "South Carolina",
+            "GPE"
+        ],
+        [
+            "Dominion Energy Inc.",
+            "COMP",
+            "Has",
+            "$7.43 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$7.43 Billion",
+            "ECON_INDICATOR",
+            "Raise",
+            "Dominion Energy Inc.",
+            "COMP"
+        ],
+        [
+            "$7.43 Billion",
+            "ECON_INDICATOR",
+            "Raise",
+            "Scana Corp.",
+            "COMP"
+        ],
+        [
+            "Dominion Energy Inc.",
+            "COMP",
+            "Participates_In",
+            "State and Federal Approvals",
+            "EVENT"
+        ],
+        [
+            "Dominion Energy Inc.",
+            "COMP",
+            "Impact",
+            "South Carolina Lawmakers",
+            "GPE"
+        ]
+    ]
+}

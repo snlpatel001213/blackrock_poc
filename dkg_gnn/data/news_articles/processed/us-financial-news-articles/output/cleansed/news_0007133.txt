@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Hugh Hewitt",
+            "PERSON",
+            "Discuss",
+            "Trump's Meeting",
+            "EVENT"
+        ],
+        [
+            "Hugh Hewitt",
+            "PERSON",
+            "Work_For",
+            "NBC News",
+            "ORG"
+        ],
+        [
+            "Trump's Meeting",
+            "EVENT",
+            "Take_Place_At",
+            "Camp David",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Meet",
+            "Congressional Republicans",
+            "ORG"
+        ],
+        [
+            "Congressional Republicans",
+            "ORG",
+            "Participates_In",
+            "GOP",
+            "ORG"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "Fire and Fury",
+            "BOOK"
+        ]
+    ]
+}

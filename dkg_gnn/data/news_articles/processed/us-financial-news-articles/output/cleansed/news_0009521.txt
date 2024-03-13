@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Dave & Buster\u2019s Entertainment Inc.",
+            "COMP",
+            "Announce",
+            "FY 2017 Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dave & Buster\u2019s Entertainment Inc.",
+            "COMP",
+            "Announce",
+            "FY 2017 Comparable Store Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dave & Buster\u2019s Entertainment Inc.",
+            "COMP",
+            "Announce",
+            "FY 2017 Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dave & Buster\u2019s Entertainment Inc.",
+            "COMP",
+            "Relate_To",
+            "FY 2017",
+            "TIME_PERIOD"
+        ],
+        [
+            "Dave & Buster\u2019s Entertainment Inc.",
+            "COMP",
+            "Relate_To",
+            "Thomson Reuters/I/B/E/S",
+            "ORG"
+        ]
+    ]
+}

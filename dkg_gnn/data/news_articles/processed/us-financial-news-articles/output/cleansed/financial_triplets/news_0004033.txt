@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Economy",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Negative_Impact_On",
+            "Livelihoods",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "International Community",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Foreign Business",
+            "COMP"
+        ],
+        [
+            "Nuclear Deal",
+            "EVENT",
+            "Relate_To",
+            "Six World Powers",
+            "GPE"
+        ]
+    ]
+}

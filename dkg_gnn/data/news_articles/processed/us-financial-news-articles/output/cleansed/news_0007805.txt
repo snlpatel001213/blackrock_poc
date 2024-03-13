@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Glassdoor.com",
+            "ORG",
+            "Announce",
+            "Average American worker underpaid",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average American worker",
+            "PERSON",
+            "Underpay",
+            "Approximately $7,500",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average American worker",
+            "PERSON",
+            "Operate_In",
+            "Job market conditions",
+            "CONCEPT"
+        ],
+        [
+            "Average American worker",
+            "PERSON",
+            "Relate_To",
+            "Supply vs. demand of available talent",
+            "CONCEPT"
+        ],
+        [
+            "Average American worker",
+            "PERSON",
+            "Relate_To",
+            "Tendency of some new employees to not negotiate for higher salaries",
+            "CONCEPT"
+        ],
+        [
+            "Medical assistant",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $32,850",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Medical assistant",
+            "PRODUCT",
+            "Operate_In",
+            "Healthcare settings",
+            "SECTOR"
+        ],
+        [
+            "Web developer",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $72,150",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Web developer",
+            "PRODUCT",
+            "Operate_In",
+            "IT sector",
+            "SECTOR"
+        ],
+        [
+            "Social worker",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $59,410",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Social worker",
+            "PRODUCT",
+            "Operate_In",
+            "Social services sector",
+            "SECTOR"
+        ],
+        [
+            "Licensed practical nurse",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $44,840",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Licensed practical nurse",
+            "PRODUCT",
+            "Operate_In",
+            "Healthcare settings",
+            "SECTOR"
+        ],
+        [
+            "Pharmacy technician",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $32,170",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pharmacy technician",
+            "PRODUCT",
+            "Operate_In",
+            "Pharmacies",
+            "SECTOR"
+        ],
+        [
+            "Veterinary technician",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $33,870",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Veterinary technician",
+            "PRODUCT",
+            "Operate_In",
+            "Veterinary practices",
+            "SECTOR"
+        ],
+        [
+            "Emergency medical technician",
+            "PRODUCT",
+            "Has",
+            "Mean average wage $36,110",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Emergency medical technician",
+            "PRODUCT",
+            "Operate_In",
+            "Emergency services sector",
+            "SECTOR"
+        ]
+    ]
+}

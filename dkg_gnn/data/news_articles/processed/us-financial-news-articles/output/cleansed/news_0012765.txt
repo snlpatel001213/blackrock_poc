@@ -1,0 +1,29 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Nominate",
+            "Greg Abel",
+            "PERSON",
+            "as",
+            "Vice_Chairman"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Nominate",
+            "Ajit Jain",
+            "PERSON",
+            "as",
+            "Vice_Chairman"
+        ]
+    ]
+}

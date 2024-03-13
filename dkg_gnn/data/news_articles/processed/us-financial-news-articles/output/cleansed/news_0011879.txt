@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Dallas Fed",
+            "ORG/GOV"
+        ],
+        [
+            "Dallas Fed",
+            "ORG/GOV",
+            "Has",
+            "Robert Kaplan",
+            "PERSON"
+        ],
+        [
+            "Robert Kaplan",
+            "PERSON",
+            "Warn",
+            "Risk of overheating",
+            "CONCEPT"
+        ],
+        [
+            "Risk of overheating",
+            "CONCEPT",
+            "Relate_To",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Impact",
+            "Debt levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Debt levels",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Has",
+            "Unsustainable debt levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unsustainable debt levels",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Tax cuts",
+            "CONCEPT"
+        ],
+        [
+            "Tax cuts",
+            "CONCEPT",
+            "Impact",
+            "Business investment",
+            "CONCEPT"
+        ]
+    ]
+}

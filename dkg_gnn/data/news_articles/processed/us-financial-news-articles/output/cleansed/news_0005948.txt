@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Update",
+            "Software",
+            "PRODUCT"
+        ],
+        [
+            "Software",
+            "PRODUCT",
+            "Relate_To",
+            "Security Vulnerabilities",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Operate_In",
+            "Device",
+            "PRODUCT"
+        ],
+        [
+            "Device",
+            "PRODUCT",
+            "Potentially_Affected_By",
+            "Security Exploits",
+            "CONCEPT"
+        ],
+        [
+            "Chips",
+            "PRODUCT",
+            "Contain",
+            "Security Exploits",
+            "CONCEPT"
+        ]
+    ]
+}

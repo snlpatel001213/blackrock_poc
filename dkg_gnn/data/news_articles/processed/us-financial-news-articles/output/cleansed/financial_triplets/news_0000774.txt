@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Reis Inc",
+            "ORG",
+            "Announce",
+            "U.S. office vacancy rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reis Inc",
+            "ORG",
+            "Operate_In",
+            "Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Reis Inc",
+            "ORG",
+            "Produce",
+            "U.S. office vacancy rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reis Inc",
+            "ORG",
+            "Control",
+            "REIS.O",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Asking and effective rents",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Quarterly growth rate",
+            "CONCEPT"
+        ],
+        [
+            "Barbara Denham",
+            "PERSON",
+            "Participates_In",
+            "Reis Inc",
+            "ORG"
+        ],
+        [
+            "Barbara Denham",
+            "PERSON",
+            "Is_Member_Of",
+            "Senior Economist",
+            "SECTOR"
+        ],
+        [
+            "Businesses",
+            "ORG/REG",
+            "Relate_To",
+            "Recently passed tax bill",
+            "EVENT"
+        ],
+        [
+            "Businesses",
+            "ORG/REG",
+            "Relate_To",
+            "More profits to their bottom lines",
+            "CONCEPT"
+        ],
+        [
+            "Net absorption",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Available office space sold",
+            "CONCEPT"
+        ],
+        [
+            "Net absorption",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Certain time period",
+            "CONCEPT"
+        ],
+        [
+            "Construction activity",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "New office construction",
+            "CONCEPT"
+        ]
+    ]
+}

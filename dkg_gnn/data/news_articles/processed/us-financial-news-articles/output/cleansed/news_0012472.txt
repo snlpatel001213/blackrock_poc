@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Value stocks",
+            "PRODUCT",
+            "Get_Once-Over",
+            "U.S. growth fund managers",
+            "ORG"
+        ],
+        [
+            "Value stocks",
+            "PRODUCT",
+            "Operate_In",
+            "Staid or out-of-favor industries",
+            "SECTOR"
+        ],
+        [
+            "S&P 500 Value index",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "12.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500 Growth index",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "25.4 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. growth fund managers",
+            "ORG",
+            "Move_Out_Of",
+            "High-flying technology stocks",
+            "COMP"
+        ],
+        [
+            "U.S. growth fund managers",
+            "ORG",
+            "Increase_Positions_In",
+            "Reasonably_valued stocks",
+            "COMP"
+        ],
+        [
+            "Columbia Acorn fund",
+            "ORG",
+            "Underweight",
+            "Technology",
+            "SECTOR"
+        ],
+        [
+            "Columbia Acorn fund",
+            "ORG",
+            "Adding_To_Holdings_Of",
+            "Financial stocks",
+            "SECTOR"
+        ],
+        [
+            "Lazard Ltd",
+            "COMP",
+            "Trade_At",
+            "Trailing price to earnings ratio of 15.1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lazard Ltd",
+            "COMP",
+            "Up",
+            "5.8 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fairepoint Capital Mid Cap fund",
+            "ORG",
+            "Move_Into",
+            "Mattel Inc",
+            "COMP"
+        ],
+        [
+            "Mattel Inc",
+            "COMP",
+            "Trade_At",
+            "Trailing P/E of 21.2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mattel Inc",
+            "COMP",
+            "Down",
+            "46 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Electric Co",
+            "COMP",
+            "Down",
+            "41.7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Electric Co",
+            "COMP",
+            "Trade_At",
+            "Trailing P/E of 21.2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FAANG group",
+            "COMP",
+            "Jump",
+            "30 percent or more",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FAANG group",
+            "COMP",
+            "Pull",
+            "Broad index higher",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "James Advantage funds",
+            "ORG",
+            "Brace_For",
+            "Significant correction",
+            "CONCEPT"
+        ],
+        [
+            "James Advantage funds",
+            "ORG",
+            "Add_To_Positions",
+            "Out-of-favor energy stocks",
+            "SECTOR"
+        ],
+        [
+            "James Advantage funds",
+            "ORG",
+            "Add_To_Positions",
+            "Retailers",
+            "SECTOR"
+        ],
+        [
+            "Diamond Offshore Drilling Inc",
+            "COMP",
+            "Trade_At",
+            "70 percent of its book value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Macy\u2019s Inc",
+            "COMP",
+            "Trading",
+            "Barely above the value of its underlying real estate portfolio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Macy\u2019s",
+            "COMP",
+            "Down",
+            "3.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Diamond Offshore",
+            "COMP",
+            "Up",
+            "2.1 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

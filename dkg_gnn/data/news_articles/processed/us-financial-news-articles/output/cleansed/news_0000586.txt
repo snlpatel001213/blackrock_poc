@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "ECB",
+            "ORG/REG",
+            "End",
+            "Bond Buying",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Operate_In",
+            "Euro Zone",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Control",
+            "Stimulus Program",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Wind_Down",
+            "Bond Buying",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Has",
+            "2.55 Trillion Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Relate_To",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Has_Target",
+            "Close to but below 2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Addresses",
+            "News Conference",
+            "EVENT"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Member_Of",
+            "ECB Governing Council",
+            "ORG/REG"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Governor",
+            "OeNB",
+            "ORG"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Told",
+            "German Newspaper",
+            "ORG"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Echoing",
+            "Coeure",
+            "PERSON"
+        ],
+        [
+            "Nowotny",
+            "PERSON",
+            "Said",
+            "Program could run out in 2018",
+            "DATE"
+        ],
+        [
+            "Policymakers",
+            "CONCEPT",
+            "Flexible",
+            "Inflation Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Policymakers",
+            "CONCEPT",
+            "Not_See",
+            "Dogmatically",
+            "CONCEPT"
+        ]
+    ]
+}

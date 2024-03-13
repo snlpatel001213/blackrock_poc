@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Coolants Plus",
+            "ORG",
+            "Has",
+            "STARFIRE",
+            "PRODUCT"
+        ],
+        [
+            "Coolants Plus",
+            "ORG",
+            "Operate_In",
+            "Lubricants Sector",
+            "SECTOR"
+        ],
+        [
+            "PennStar",
+            "ORG",
+            "Is_Member_Of",
+            "Coolants Plus",
+            "ORG"
+        ]
+    ]
+}

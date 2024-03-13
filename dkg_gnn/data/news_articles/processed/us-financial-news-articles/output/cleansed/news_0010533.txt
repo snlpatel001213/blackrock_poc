@@ -1,0 +1,161 @@
+{
+    "output": [
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Trim",
+            "Bond Purchases",
+            "ORG/REG"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Add",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Announce",
+            "Less",
+            "QUANTITY"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Latch",
+            "On",
+            "BOJ Announcement",
+            "EVENT"
+        ],
+        [
+            "BOJ Announcement",
+            "EVENT",
+            "Send",
+            "Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Dismiss",
+            "Chance",
+            "Withdrawing Stimulus",
+            "CONCEPT"
+        ],
+        [
+            "Policymakers",
+            "PERSON",
+            "Express",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Consider",
+            "Raising",
+            "Yield Targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Slow",
+            "Purchases",
+            "Risky Assets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Reduce",
+            "Purchases",
+            "JGBs",
+            "PRODUCT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Offer",
+            "Buy",
+            "JGBs",
+            "PRODUCT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Push",
+            "Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Japanese Bond Prices",
+            "PRODUCT",
+            "Dip",
+            "Japanese Yen",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Adopt",
+            "Yield Curve Control Policy",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Tweak",
+            "Bond Operations",
+            "ORG/REG"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Keep",
+            "Bond Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Require",
+            "Change",
+            "Tack",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Face",
+            "Challenge",
+            "Slow Wage Growth",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Real Wages",
+            "Post",
+            "Gain",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "2 Percent Inflation Target",
+            "Won't Be Reached",
+            "CONCEPT"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Warn",
+            "Wages",
+            "unlikely to keep up with general price increases",
+            "CONCEPT"
+        ]
+    ]
+}

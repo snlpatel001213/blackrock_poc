@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Singapore",
+            "GPE",
+            "Has",
+            "Ministry of Trade and Industry",
+            "ORG"
+        ],
+        [
+            "Ministry of Trade and Industry",
+            "ORG",
+            "Announce",
+            "GDP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GDP",
+            "ECON_INDICATOR",
+            "Impact",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manufacturing",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Positive_Impact_On",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full-year Growth",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Government Official Forecast Range",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

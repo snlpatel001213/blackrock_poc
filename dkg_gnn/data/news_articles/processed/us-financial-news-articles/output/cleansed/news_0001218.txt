@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Raise",
+            "Pacific Investment Management Co.",
+            "ORG"
+        ],
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Control",
+            "Digital Lender",
+            "ORG"
+        ],
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Valued",
+            "$4.5 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pacific Investment Management Co.",
+            "ORG",
+            "Invests_In",
+            "GreenSky LLC",
+            "COMP"
+        ],
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Participates_In",
+            "Cash Infusions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Relate_To",
+            "Consumer Goods",
+            "SECTOR"
+        ],
+        [
+            "GreenSky LLC",
+            "COMP",
+            "Relate_To",
+            "Consumer Services",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Bulls",
+            "PERSON",
+            "Relate_To",
+            "Host Hotels",
+            "COMP"
+        ],
+        [
+            "Bulls",
+            "PERSON",
+            "Relate_To",
+            "Union Pacific",
+            "COMP"
+        ],
+        [
+            "Jon Najarian",
+            "PERSON",
+            "Announce",
+            "Unusual trading activity",
+            "CONCEPT",
+            "In",
+            "Host Hotels",
+            "COMP"
+        ],
+        [
+            "Jon Najarian",
+            "PERSON",
+            "Announce",
+            "Unusual trading activity",
+            "CONCEPT",
+            "In",
+            "Union Pacific",
+            "COMP"
+        ],
+        [
+            "Halftime Report",
+            "EVENT",
+            "Has",
+            "Jon Najarian",
+            "PERSON"
+        ]
+    ]
+}

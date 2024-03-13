@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Weinstein Co.",
+            "ORG",
+            "Nearing",
+            "Sale Process",
+            "EVENT"
+        ],
+        [
+            "Weinstein Co.",
+            "ORG",
+            "Go_For",
+            "< $500 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Lose",
+            "Equity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Weinstein Co.",
+            "ORG",
+            "Has",
+            "List of Potential Buyers",
+            "PERSON"
+        ],
+        [
+            "Weinstein Co.",
+            "ORG",
+            "Narrow_Down",
+            "List of Potential Buyers",
+            "PERSON"
+        ],
+        [
+            "List of Potential Buyers",
+            "PERSON",
+            "Reduced_To",
+            "Six",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "FDA",
+            "ORG/GOV",
+            "Issue",
+            "Recall",
+            "EVENT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Control",
+            "Sterilmed",
+            "ORG"
+        ],
+        [
+            "Sterilmed",
+            "ORG",
+            "Produce",
+            "Heart Device",
+            "PRODUCT"
+        ],
+        [
+            "Heart Device",
+            "PRODUCT",
+            "Relate_To",
+            "Faulty Valve",
+            "CONCEPT"
+        ],
+        [
+            "Faulty Valve",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Device",
+            "PRODUCT"
+        ],
+        [
+            "Device",
+            "PRODUCT",
+            "Operate_In",
+            "Cardiovascular Catheters",
+            "PRODUCT"
+        ],
+        [
+            "Cardiovascular Catheters",
+            "PRODUCT",
+            "Used_For",
+            "Insert and Position",
+            "VERB"
+        ],
+        [
+            "Insert and Position",
+            "VERB",
+            "Used_For",
+            "Heart",
+            "BODY"
+        ],
+        [
+            "Sterilmed",
+            "ORG",
+            "Receive",
+            "Reports",
+            "EVENT"
+        ],
+        [
+            "Reports",
+            "EVENT",
+            "Relate_To",
+            "Adverse Events",
+            "CONCEPT"
+        ],
+        [
+            "Adverse Events",
+            "CONCEPT",
+            "Not_Receive",
+            "Sterilmed",
+            "ORG"
+        ],
+        [
+            "Sterilmed",
+            "ORG",
+            "Initiate",
+            "Recall",
+            "EVENT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Relate_To",
+            "Agilis Steerable Introducer Sheath",
+            "PRODUCT"
+        ],
+        [
+            "Agilis Steerable Introducer Sheath",
+            "PRODUCT",
+            "Quantity",
+            "110",
+            "NUMBER"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Classify",
+            "Recall",
+            "EVENT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Type",
+            "Class I",
+            "CONCEPT"
+        ],
+        [
+            "Class I",
+            "CONCEPT",
+            "Relate_To",
+            "Strictest Form",
+            "CONCEPT"
+        ],
+        [
+            "Strictest Form",
+            "CONCEPT",
+            "Relate_To",
+            "Recall",
+            "EVENT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Relate_To",
+            "Faulty Devices",
+            "CONCEPT"
+        ],
+        [
+            "Faulty Devices",
+            "CONCEPT",
+            "Relate_To",
+            "Serious Injury or Death",
+            "CONCEPT"
+        ]
+    ]
+}

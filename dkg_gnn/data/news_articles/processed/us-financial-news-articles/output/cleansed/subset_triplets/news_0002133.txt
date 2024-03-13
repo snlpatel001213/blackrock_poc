@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "S&P",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "2700 points",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "S&P",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Villere & Co.",
+            "ORG",
+            "Participates_In",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "Dennis Berman",
+            "PERSON",
+            "Participates_In",
+            "Discussion",
+            "CONCEPT"
+        ]
+    ]
+}

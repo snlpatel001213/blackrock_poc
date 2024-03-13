@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Operate_In",
+            "National City",
+            "GPE"
+        ],
+        [
+            "Auto & Property Insurance Solutions",
+            "ORG",
+            "Acquired_By",
+            "RightSure Insurance Group",
+            "ORG"
+        ],
+        [
+            "Auto & Property Insurance Solutions",
+            "ORG",
+            "Operate_In",
+            "California",
+            "GPE"
+        ],
+        [
+            "Auto & Property Insurance Solutions",
+            "ORG",
+            "Provide",
+            "Insurance",
+            "SECTOR"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Operate_In",
+            "42",
+            "ECON_INDICATOR",
+            "States",
+            "GPE"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Use",
+            "RightRater Quoting System",
+            "CONCEPT"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Use",
+            "Chatbots",
+            "CONCEPT"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Introduce",
+            "AI Service Model",
+            "CONCEPT"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Has",
+            "14",
+            "ECON_INDICATOR",
+            "Books",
+            "ORG"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Broaden",
+            "Suite",
+            "SECTOR",
+            "of",
+            "Insurance",
+            "SECTOR",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "RightSure Insurance Group",
+            "ORG",
+            "Increase",
+            "Market",
+            "SECTOR",
+            "Share",
+            "SECTOR",
+            "in",
+            "California",
+            "GPE"
+        ]
+    ]
+}

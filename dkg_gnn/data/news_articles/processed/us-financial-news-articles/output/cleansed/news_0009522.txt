@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "NVIDIA",
+            "COMP",
+            "Produce",
+            "Processor",
+            "PRODUCT"
+        ],
+        [
+            "Processor",
+            "PRODUCT",
+            "Operate_In",
+            "Self-driving Car",
+            "PRODUCT"
+        ],
+        [
+            "Self-driving Car",
+            "PRODUCT",
+            "Participates_In",
+            "Technology Conference",
+            "EVENT"
+        ]
+    ]
+}

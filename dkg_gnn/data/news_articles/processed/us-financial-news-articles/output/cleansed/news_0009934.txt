@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Good news",
+            "CONCEPT",
+            "Impact",
+            "Sector",
+            "SECTOR"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Announce",
+            "$14.6 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Announce",
+            "$8.80 a share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Participates_In",
+            "Biotech Companies",
+            "ORG"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Trade",
+            "Lower",
+            "CONCEPT"
+        ],
+        [
+            "Sector",
+            "SECTOR",
+            "Trade",
+            "Lower",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Rob Stringer",
+            "PERSON",
+            "Announce",
+            "Ron Perry",
+            "PERSON"
+        ],
+        [
+            "Rob Stringer",
+            "PERSON",
+            "Operate_In",
+            "Sony Music Entertainment",
+            "ORG"
+        ],
+        [
+            "Ron Perry",
+            "PERSON",
+            "Control",
+            "Columbia Records",
+            "ORG"
+        ],
+        [
+            "Columbia Records",
+            "ORG",
+            "Operate_In",
+            "Music Industry",
+            "SECTOR"
+        ],
+        [
+            "Ron Perry",
+            "PERSON",
+            "Participates_In",
+            "A&R",
+            "CONCEPT"
+        ]
+    ]
+}

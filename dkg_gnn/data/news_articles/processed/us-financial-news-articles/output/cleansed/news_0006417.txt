@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "FedEx",
+            "COMP",
+            "Control",
+            "Outsize Returns",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Elizabeth Dilts",
+            "PERSON",
+            "Reporting",
+            "FedEx",
+            "COMP"
+        ],
+        [
+            "Barron\u2019s",
+            "ORG",
+            "Source",
+            "FedEx",
+            "COMP"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Note",
+            "Verify",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Not",
+            "Vouch",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

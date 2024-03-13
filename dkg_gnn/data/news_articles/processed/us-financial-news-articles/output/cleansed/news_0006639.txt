@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Heavy Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Heavy Snowfall",
+            "CONCEPT",
+            "Kill",
+            "10",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Heavy Snowfall",
+            "CONCEPT",
+            "Disrupt",
+            "Lives of more than half a million people",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Heavy Snowfall",
+            "CONCEPT",
+            "Hit",
+            "Agriculture",
+            "SECTOR"
+        ],
+        [
+            "Heavy Snowfall",
+            "CONCEPT",
+            "Cause",
+            "Economic losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Meteorological Centre",
+            "ORG",
+            "Lift",
+            "Blizzard Alert",
+            "CONCEPT"
+        ],
+        [
+            "Light to Moderate Snowfall",
+            "CONCEPT",
+            "Sweep",
+            "Across much of the north",
+            "GPE"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Disrupt",
+            "Public Transport",
+            "SECTOR"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Disrupt",
+            "Energy Supplies",
+            "SECTOR"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Damage",
+            "Power Lines",
+            "SECTOR"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Shut",
+            "Roads",
+            "SECTOR"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Shut",
+            "Airports",
+            "SECTOR"
+        ],
+        [
+            "Snow",
+            "CONCEPT",
+            "Shut",
+            "Schools",
+            "SECTOR"
+        ],
+        [
+            "Suizhou",
+            "GPE",
+            "Experience",
+            "Power Down",
+            "CONCEPT"
+        ],
+        [
+            "Suizhou",
+            "GPE",
+            "Experience",
+            "Temperature Plunge",
+            "CONCEPT"
+        ],
+        [
+            "Hubei",
+            "GPE",
+            "Experience",
+            "Spikes in Electricity Consumption",
+            "CONCEPT"
+        ],
+        [
+            "Hubei",
+            "GPE",
+            "Does not have",
+            "Central Heating Infrastructure",
+            "CONCEPT"
+        ],
+        [
+            "Airports",
+            "SECTOR",
+            "Shut",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Airports",
+            "SECTOR",
+            "Experience",
+            "Delays",
+            "CONCEPT"
+        ],
+        [
+            "High-speed Trains",
+            "SECTOR",
+            "Delayed",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "High-speed Trains",
+            "SECTOR",
+            "Canceled",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Highways",
+            "SECTOR",
+            "Closed Off",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bus Stations",
+            "SECTOR",
+            "Collapse",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Factory",
+            "COMP",
+            "Experience",
+            "Roof Collapse",
+            "CONCEPT"
+        ],
+        [
+            "Factory",
+            "COMP",
+            "Experience",
+            "Five People Trapped",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Experience",
+            "Dry",
+            "CONCEPT"
+        ],
+        [
+            "Northern China",
+            "GPE",
+            "Experience",
+            "Little to No Snowfall",
+            "CONCEPT"
+        ]
+    ]
+}

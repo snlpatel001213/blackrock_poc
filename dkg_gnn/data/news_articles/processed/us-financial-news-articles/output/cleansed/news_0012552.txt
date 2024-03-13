@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Is_Member_Of",
+            "Senate",
+            "ORG/GOV"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Treated_For",
+            "Prostate Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Prostate Cancer",
+            "CONCEPT",
+            "Found",
+            "Not Spread",
+            "CONCEPT"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Prognosis",
+            "Good",
+            "CONCEPT"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Successfully_Treated",
+            "null",
+            "null"
+        ],
+        [
+            "Orrin Hatch",
+            "PERSON",
+            "Not Seek",
+            "Re-election",
+            "null"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Likely_To_Run",
+            "Senate Seat",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Spoke",
+            "Mitt Romney",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Urged",
+            "Orrin Hatch",
+            "PERSON"
+        ]
+    ]
+}

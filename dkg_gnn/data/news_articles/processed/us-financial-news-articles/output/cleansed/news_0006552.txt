@@ -1,0 +1,121 @@
+{
+    "output": [
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Treated",
+            "Bacterial Infection",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Operate_In",
+            "Maryland Hospital",
+            "ORG"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Drained",
+            "Infection",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Resting",
+            "Comfortably",
+            "CONCEPT"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Expects",
+            "Full Recovery",
+            "CONCEPT"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Represent",
+            "Maryland\u2019s 7th Congressional District",
+            "GPE"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Top Democrat",
+            "House Oversight and Government Reform Committee",
+            "ORG"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Absent",
+            "Congress",
+            "ORG"
+        ],
+        [
+            "Elijah Cummings",
+            "PERSON",
+            "Undergoing",
+            "Heart Surgery",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Maya Rockeymoore Cummings",
+            "PERSON",
+            "Announce",
+            "Withdrawal",
+            "CONCEPT"
+        ],
+        [
+            "Maya Rockeymoore Cummings",
+            "PERSON",
+            "From",
+            "Maryland Governor\u2019s Race",
+            "EVENT"
+        ],
+        [
+            "Maya Rockeymoore Cummings",
+            "PERSON",
+            "Running",
+            "Against",
+            "CONCEPT"
+        ],
+        [
+            "Maya Rockeymoore Cummings",
+            "PERSON",
+            "Take on",
+            "Larry Hogan",
+            "PERSON"
+        ],
+        [
+            "Maya Rockeymoore Cummings",
+            "PERSON",
+            "Democratic Nominee",
+            "CONCEPT"
+        ],
+        [
+            "Larry Hogan",
+            "PERSON",
+            "Republican Governor",
+            "ORG"
+        ],
+        [
+            "Johns Hopkins Hospital",
+            "ORG",
+            "Drained",
+            "Infection",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Johns Hopkins Hospital",
+            "ORG",
+            "Operate_In",
+            "Maryland",
+            "GPE"
+        ]
+    ]
+}

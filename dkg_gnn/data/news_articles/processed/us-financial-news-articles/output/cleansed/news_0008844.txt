@@ -1,0 +1,194 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Libor Litigation",
+            "EVENT"
+        ],
+        [
+            "Libor Litigation",
+            "EVENT",
+            "Accuse",
+            "More than a dozen of the biggest banks in the world",
+            "ORG/REG"
+        ],
+        [
+            "Libor Litigation",
+            "EVENT",
+            "Relate_To",
+            "London Interbank Offered Rate",
+            "CONCEPT"
+        ],
+        [
+            "Libor Litigation",
+            "EVENT",
+            "Impact",
+            "Over-the-counter investors in financial instruments",
+            "COMP"
+        ],
+        [
+            "Hausfeld",
+            "ORG",
+            "Class_counsel",
+            "Libor Litigation",
+            "EVENT"
+        ],
+        [
+            "Susman Godfrey",
+            "ORG",
+            "Class_counsel",
+            "Libor Litigation",
+            "EVENT"
+        ],
+        [
+            "Barclays",
+            "COMP",
+            "Reach",
+            "First proposed settlement",
+            "EVENT"
+        ],
+        [
+            "Barclays",
+            "COMP",
+            "Agree",
+            "120 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Judge Naomi Reice Buchwald",
+            "PERSON",
+            "Grant",
+            "Preliminary approval",
+            "EVENT"
+        ],
+        [
+            "Hausfeld",
+            "ORG",
+            "Class_counsel",
+            "Second settlement",
+            "EVENT"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Agree",
+            "130 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hausfeld",
+            "ORG",
+            "Request",
+            "50 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors in the Libor over-the-counter class",
+            "COMP",
+            "Satisfy",
+            "Settlements",
+            "EVENT"
+        ],
+        [
+            "Judge Naomi Reice Buchwald",
+            "PERSON",
+            "Approve",
+            "Barclays and Citi Libor settlements",
+            "EVENT"
+        ],
+        [
+            "Virgin Islands Public Finance Authority",
+            "COMP",
+            "Object",
+            "Citi settlement",
+            "EVENT"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Represent",
+            "Virgin Islands Public Finance Authority",
+            "COMP"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Represent",
+            "Maimonides Medical Center",
+            "COMP"
+        ],
+        [
+            "Lester Jacobowitz",
+            "PERSON",
+            "Work",
+            "Arent Fox",
+            "ORG"
+        ],
+        [
+            "Lester Jacobowitz",
+            "PERSON",
+            "Not",
+            "Litigator",
+            "CONCEPT"
+        ],
+        [
+            "Lester Jacobowitz",
+            "PERSON",
+            "Work",
+            "Finance lawyer",
+            "CONCEPT"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Believe",
+            "Classes are not being adequately compensated",
+            "CONCEPT"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Assert",
+            "No damages estimate exists",
+            "CONCEPT"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Estimate",
+            "Damages to be at least 23 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hausfeld",
+            "ORG",
+            "Due",
+            "Respond",
+            "Virgin Islands objection",
+            "EVENT"
+        ],
+        [
+            "Jacobowitz",
+            "PERSON",
+            "Say",
+            "Many public funds and not-for-profits aren\u2019t paying attention to the Libor litigation",
+            "CONCEPT"
+        ],
+        [
+            "Arent Fox",
+            "ORG",
+            "Class_members",
+            "Failure to object",
+            "EVENT"
+        ],
+        [
+            "Jacobowitz",
+            "PERSON",
+            "Say",
+            "Investors\u2019 approval of the deals",
+            "CONCEPT"
+        ]
+    ]
+}

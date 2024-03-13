@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Chicago Mercantile Exchange",
+            "ORG",
+            "Slide",
+            "Lean Hogs",
+            "COMP"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Rattle",
+            "Chicago Mercantile Exchange Lean Hogs",
+            "COMP"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Convince",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Announce",
+            "Pull Out",
+            "VERB"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Announce",
+            "Pull Out",
+            "VERB"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Relate_To",
+            "Pull Out",
+            "VERB"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Participates_In",
+            "U.S. Pork Exports",
+            "COMP"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "U.S. Pork Exports",
+            "COMP"
+        ],
+        [
+            "Hog Markets",
+            "COMP",
+            "Bear",
+            "Brunt",
+            "VERB"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Short_Covering",
+            "CME Hogs",
+            "COMP"
+        ],
+        [
+            "CME Livestock Futures Traders",
+            "PERSON",
+            "Trade",
+            "CME Hogs",
+            "COMP"
+        ],
+        [
+            "Packers",
+            "PERSON",
+            "Compete",
+            "Supplies",
+            "COMP"
+        ],
+        [
+            "Traders and Analysts",
+            "PERSON",
+            "Track",
+            "Wintry Weather",
+            "COMP"
+        ],
+        [
+            "February Hogs",
+            "COMP",
+            "Settle",
+            "0.650 Cents Per Pound",
+            "ECON_INDICATOR"
+        ],
+        [
+            "April",
+            "COMP",
+            "End",
+            "1.000 Cent Lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CME Live Cattle Futures",
+            "COMP",
+            "Retreat",
+            "CME Live Cattle Futures",
+            "COMP"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Pressure",
+            "CME Live Cattle Futures",
+            "COMP"
+        ],
+        [
+            "CME Livestock Markets",
+            "COMP",
+            "Roll",
+            "February Positions",
+            "COMP"
+        ],
+        [
+            "Funds",
+            "PERSON",
+            "Sell",
+            "February Positions",
+            "COMP"
+        ],
+        [
+            "Funds",
+            "PERSON",
+            "Buy",
+            "Deferred Months",
+            "COMP"
+        ],
+        [
+            "February Live Cattle",
+            "COMP",
+            "Finish",
+            "0.800 Cent Per Pound Lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "April",
+            "COMP",
+            "End",
+            "0.850 Cent Lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Packers",
+            "PERSON",
+            "Pay",
+            "$118 to $120 per cwt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cash Cattle",
+            "COMP",
+            "Fetched",
+            "$123 the week before",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Animals",
+            "COMP",
+            "Brought",
+            "$119",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Moderating Temperatures",
+            "COMP",
+            "Make",
+            "Easier to Sort and Load Livestock",
+            "COMP"
+        ],
+        [
+            "Warmer Weather",
+            "COMP",
+            "Cause",
+            "Cattle to Add Weight",
+            "COMP"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Say",
+            "Wholesale Beef Price Rally May Have Discouraged Retail Meat Buyers",
+            "COMP"
+        ],
+        [
+            "Sell Stops",
+            "COMP",
+            "Sink",
+            "CME Feeder Cattle Contracts",
+            "COMP"
+        ],
+        [
+            "January Feeder Cattle",
+            "COMP",
+            "Close",
+            "1.100 Cents Per Pound Lower",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

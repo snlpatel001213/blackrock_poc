@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "ChIPs",
+            "ORG",
+            "Is_Member_Of",
+            "Michelle K. Lee",
+            "PERSON"
+        ],
+        [
+            "ChIPs",
+            "ORG",
+            "Has",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Patent office",
+            "ORG/GOV",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ]
+    ]
+}

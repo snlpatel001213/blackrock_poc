@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "National Weather Service",
+            "ORG",
+            "Issue",
+            "Wind-chill Advisories",
+            "EVENT"
+        ],
+        [
+            "Lake",
+            "GPE",
+            "Participates_In",
+            "New Year\u2019s Celebrations",
+            "EVENT"
+        ],
+        [
+            "Central US",
+            "GPE",
+            "Experience",
+            "Bone-chilling Cold",
+            "CONCEPT"
+        ],
+        [
+            "2018",
+            "DATE",
+            "Begin",
+            "Monday",
+            "DAY_OF_WEEK"
+        ],
+        [
+            "Dangerously Low Temperatures",
+            "CONCEPT",
+            "Envelop",
+            "Midwest",
+            "GPE"
+        ]
+    ]
+}

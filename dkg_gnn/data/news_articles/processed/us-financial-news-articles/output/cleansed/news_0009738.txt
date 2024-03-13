@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Dow Transports",
+            "FIN_INSTRUMENT",
+            "Post",
+            "7-day win streak",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Scott Minerd",
+            "PERSON",
+            "Discussing",
+            "null",
+            "null"
+        ],
+        [
+            "Guggenheim Partners",
+            "ORG",
+            "With",
+            "Scott Minerd",
+            "PERSON"
+        ],
+        [
+            "Bill Smead",
+            "PERSON",
+            "And",
+            "Smead Capital Management",
+            "ORG"
+        ],
+        [
+            "Closing Bell",
+            "EVENT",
+            "At",
+            "null",
+            "null"
+        ]
+    ]
+}

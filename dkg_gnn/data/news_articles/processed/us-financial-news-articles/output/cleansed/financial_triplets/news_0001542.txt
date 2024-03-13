@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Impact",
+            "Office Vacancy Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reis Inc.",
+            "ORG",
+            "Announce",
+            "Office Vacancy Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reis Inc.",
+            "ORG",
+            "Has",
+            "Research",
+            "SECTOR"
+        ],
+        [
+            "Barbara Denham",
+            "PERSON",
+            "Is_Member_Of",
+            "Reis Inc.",
+            "ORG"
+        ]
+    ]
+}

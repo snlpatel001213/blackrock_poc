@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Congratulate",
+            "Libya",
+            "GPE"
+        ],
+        [
+            "Libya",
+            "GPE",
+            "Destroy",
+            "Chemical Weapons",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Call_On",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Eliminate",
+            "Chemical Weapons",
+            "CONCEPT"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Dismantle",
+            "Chemical Weapons Program",
+            "CONCEPT"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Ensure",
+            "Cannot_Use",
+            "Relate_To"
+        ],
+        [
+            "Chemical Weapons",
+            "CONCEPT",
+            "Cannot_Use",
+            "Against",
+            "Relate_To"
+        ],
+        [
+            "Syrian People",
+            "PERSON",
+            "Relate_To",
+            "Chemical Weapons Program",
+            "CONCEPT"
+        ]
+    ]
+}

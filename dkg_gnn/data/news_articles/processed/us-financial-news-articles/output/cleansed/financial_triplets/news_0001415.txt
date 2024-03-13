@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Diane Bono",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Jeremy Goff",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Brent Newcomb",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Brett Jergens",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Stephen Pang",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Jen Ashlock",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ],
+        [
+            "Tortoise",
+            "ORG",
+            "Operate_In",
+            "Essential Assets and Income Investing Sector",
+            "SECTOR"
+        ],
+        [
+            "Tortoise",
+            "ORG",
+            "Has",
+            "Kevin Birzer",
+            "PERSON"
+        ],
+        [
+            "Kevin Birzer",
+            "PERSON",
+            "Is_Member_Of",
+            "Tortoise",
+            "ORG"
+        ]
+    ]
+}

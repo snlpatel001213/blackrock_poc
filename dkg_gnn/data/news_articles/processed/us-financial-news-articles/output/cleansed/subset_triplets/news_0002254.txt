@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "North Korea tweets",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Nuclear threat",
+            "CONCEPT"
+        ],
+        [
+            "Wendy Sherman",
+            "PERSON",
+            "Participates_In",
+            "Albright Stonebridge Group",
+            "ORG"
+        ],
+        [
+            "Wendy Sherman",
+            "PERSON",
+            "Is_Member_Of",
+            "Former undersecretary of State",
+            "ORG/GOV"
+        ]
+    ]
+}

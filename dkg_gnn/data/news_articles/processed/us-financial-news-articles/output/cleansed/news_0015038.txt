@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "ChromaDex Corp",
+            "COMP",
+            "Expand",
+            "Partnership",
+            "RELATION"
+        ],
+        [
+            "ChromaDex Corp",
+            "COMP",
+            "Introduce",
+            "Tru Niagen",
+            "PRODUCT"
+        ],
+        [
+            "Watsons",
+            "ORG",
+            "Participates_In",
+            "Retail Launch",
+            "EVENT"
+        ],
+        [
+            "Tru Niagen",
+            "PRODUCT",
+            "Relate_To",
+            "Singapore",
+            "GPE"
+        ]
+    ]
+}

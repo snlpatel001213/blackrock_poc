@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "New York state",
+            "GPE",
+            "Explore",
+            "Payroll Tax System",
+            "ORG/GOV"
+        ],
+        [
+            "Governor Andrew Cuomo",
+            "PERSON",
+            "Lead",
+            "New York state",
+            "GPE"
+        ],
+        [
+            "New York state",
+            "GPE",
+            "Has",
+            "Income Tax Code",
+            "CONCEPT"
+        ],
+        [
+            "New York state",
+            "GPE",
+            "Consider",
+            "Move",
+            "VERB"
+        ],
+        [
+            "Payroll Tax System",
+            "ORG/GOV",
+            "Be",
+            "Alternative",
+            "CONCEPT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Hurt",
+            "New Limits",
+            "CONCEPT"
+        ],
+        [
+            "New Limits",
+            "CONCEPT",
+            "Cap",
+            "$10,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deduction",
+            "CONCEPT",
+            "Limit",
+            "State and Local Income and Property Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York state",
+            "GPE",
+            "Operate_In",
+            "High-Tax States",
+            "SECTOR"
+        ],
+        [
+            "High-Tax States",
+            "SECTOR",
+            "Face",
+            "Most Pain",
+            "CONCEPT"
+        ],
+        [
+            "New York state",
+            "GPE",
+            "Assess",
+            "Create New Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Charitable Contributions",
+            "CONCEPT",
+            "Support",
+            "Public Programs",
+            "CONCEPT"
+        ],
+        [
+            "State and Local Government",
+            "ORG/GOV",
+            "Contribute",
+            "Specific Purpose",
+            "CONCEPT"
+        ],
+        [
+            "Contribution",
+            "CONCEPT",
+            "Charitable Contribution",
+            "State and Local Government",
+            "ORG/GOV"
+        ],
+        [
+            "State and Local Government",
+            "ORG/GOV",
+            "Create",
+            "Charity",
+            "ORG"
+        ],
+        [
+            "Charity",
+            "ORG",
+            "Give",
+            "Hospitals",
+            "ORG"
+        ],
+        [
+            "State",
+            "ORG/GOV",
+            "Create",
+            "Incentives",
+            "CONCEPT"
+        ],
+        [
+            "Individuals",
+            "PERSON",
+            "Contribute",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Charities",
+            "ORG",
+            "Replace",
+            "Some Government Funding",
+            "CONCEPT"
+        ],
+        [
+            "Individuals",
+            "PERSON",
+            "Assess",
+            "Build in Tax Preferences",
+            "CONCEPT"
+        ],
+        [
+            "New System",
+            "CONCEPT",
+            "Pay",
+            "Self",
+            "PERSON"
+        ],
+        [
+            "Individual",
+            "PERSON",
+            "Magically",
+            "Deduct",
+            "CONCEPT"
+        ],
+        [
+            "State and Local Taxes",
+            "ECON_INDICATOR",
+            "New System",
+            "Assess",
+            "CONCEPT"
+        ]
+    ]
+}

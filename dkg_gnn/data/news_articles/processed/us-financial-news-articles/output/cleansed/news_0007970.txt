@@ -1,0 +1,170 @@
+{
+    "output": [
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Impact",
+            "UK Like-for-like Decline",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Impact",
+            "Lower Footfall and Spend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Impact",
+            "International Sales",
+            "SECTOR"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Operate_In",
+            "International",
+            "GPE"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Produce",
+            "Online Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Online Sales",
+            "ECON_INDICATOR",
+            "Decline",
+            "6.9%",
+            "NUM"
+        ],
+        [
+            "Online Sales",
+            "ECON_INDICATOR",
+            "Represent",
+            "C42%",
+            "NUM",
+            "of",
+            "Total UK Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Control",
+            "Group Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Group Performance",
+            "ECON_INDICATOR",
+            "Below",
+            "Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Control",
+            "Total UK Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total UK Sales",
+            "ECON_INDICATOR",
+            "Lower",
+            "Last Year",
+            "TEMPORAL"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Control",
+            "UK Like-for-like Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK Like-for-like Sales",
+            "ECON_INDICATOR",
+            "Decline",
+            "7.2%",
+            "NUM"
+        ],
+        [
+            "Online Sales",
+            "ECON_INDICATOR",
+            "Decline",
+            "6.9%",
+            "NUM"
+        ],
+        [
+            "International Retail Sales",
+            "ECON_INDICATOR",
+            "Down",
+            "3.0%",
+            "NUM",
+            "in",
+            "Constant Currency",
+            "CONCEPT"
+        ],
+        [
+            "International Retail Sales",
+            "ECON_INDICATOR",
+            "Down",
+            "6.8%",
+            "NUM",
+            "in",
+            "Actual Currency",
+            "CONCEPT"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Relate_To",
+            "Short-term Market Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Expect",
+            "Net Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Net Debt",
+            "ECON_INDICATOR",
+            "Approximately",
+            "\u00a3(50)M",
+            "NUM"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Have",
+            "Sufficient Liquidity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mothercare Plc",
+            "ORG",
+            "Have",
+            "Covenant Headroom",
+            "ECON_INDICATOR",
+            "Within",
+            "Existing Facilities",
+            "CONCEPT"
+        ]
+    ]
+}

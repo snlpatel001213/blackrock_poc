@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Poundland",
+            "COMP",
+            "Owned_By",
+            "Steinhoff",
+            "ORG"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Part_Ways",
+            "Markus Jooste",
+            "PERSON"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Flag_Accounting_Irregularities",
+            "null",
+            "null"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Restate",
+            "2015 Accounts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff",
+            "ORG",
+            "Warn",
+            "2016 Numbers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Poundland",
+            "COMP",
+            "Is_Member_Of",
+            "Pepkor Europe",
+            "COMP"
+        ],
+        [
+            "Pepkor Europe",
+            "COMP",
+            "Replace",
+            "Planned Investment",
+            "null"
+        ],
+        [
+            "Pepkor Europe",
+            "COMP",
+            "Provide",
+            "New Loan Facility",
+            "null"
+        ],
+        [
+            "Harveys",
+            "COMP",
+            "Secure",
+            "New Finance Facility",
+            "null"
+        ],
+        [
+            "Bensons for Beds",
+            "COMP",
+            "Secure",
+            "New Finance Facility",
+            "null"
+        ],
+        [
+            "Pepkor Europe",
+            "COMP",
+            "Replace",
+            "Steinhoff\u2019s Planned Investment",
+            "null"
+        ]
+    ]
+}

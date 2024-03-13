@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "Malmo University",
+            "ORG",
+            "Close",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Malmo University",
+            "ORG",
+            "Receive",
+            "Threat",
+            "CONCEPT"
+        ],
+        [
+            "Threat",
+            "CONCEPT",
+            "Target",
+            "Jan. 8",
+            "DATE"
+        ],
+        [
+            "Malmo University",
+            "ORG",
+            "Participates_In",
+            "Preliminary Criminal Investigation",
+            "ORG/GOV"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Not_Immediately_Available",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Drive",
+            "Truck",
+            "VEHICLE"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Kill",
+            "Five",
+            "CARDINAL"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Confess",
+            "Committing",
+            "CONCEPT"
+        ],
+        [
+            "Act",
+            "CONCEPT",
+            "Terrorism",
+            "CONCEPT"
+        ]
+    ]
+}

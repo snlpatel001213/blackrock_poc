@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "ECMC Group",
+            "ORG",
+            "Announce",
+            "Diana J. Ingram",
+            "PERSON"
+        ],
+        [
+            "Diana J. Ingram",
+            "PERSON",
+            "Participates_In",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Diana J. Ingram",
+            "PERSON",
+            "Operate_In",
+            "Technology Field",
+            "SECTOR"
+        ],
+        [
+            "Diana J. Ingram",
+            "PERSON",
+            "Relate_To",
+            "Data and Cyber Security",
+            "CONCEPT"
+        ],
+        [
+            "ECMC Group",
+            "ORG",
+            "Impact",
+            "Underserved Populations",
+            "CONCEPT"
+        ],
+        [
+            "ECMC Group",
+            "ORG",
+            "Operate_In",
+            "Education Field",
+            "SECTOR"
+        ],
+        [
+            "ECMC Foundation",
+            "ORG",
+            "Is_Member_Of",
+            "ECMC Group",
+            "ORG"
+        ],
+        [
+            "Zenith Education Group",
+            "ORG",
+            "Is_Member_Of",
+            "ECMC Group",
+            "ORG"
+        ],
+        [
+            "Educational Credit Management Corporation",
+            "ORG",
+            "Is_Member_Of",
+            "ECMC Group",
+            "ORG"
+        ]
+    ]
+}

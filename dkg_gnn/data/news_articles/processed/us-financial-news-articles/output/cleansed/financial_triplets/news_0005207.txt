@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Littelfuse",
+            "ORG",
+            "Announce",
+            "Ixys",
+            "ORG"
+        ],
+        [
+            "Ixys",
+            "ORG",
+            "Has",
+            "Election Deadline",
+            "CONCEPT"
+        ],
+        [
+            "Ixys",
+            "ORG",
+            "Has",
+            "Merger Consideration",
+            "CONCEPT"
+        ],
+        [
+            "Ixys",
+            "ORG",
+            "Participates_In",
+            "Merger",
+            "CONCEPT"
+        ],
+        [
+            "Merger",
+            "CONCEPT",
+            "Impact",
+            "Transaction",
+            "CONCEPT"
+        ]
+    ]
+}

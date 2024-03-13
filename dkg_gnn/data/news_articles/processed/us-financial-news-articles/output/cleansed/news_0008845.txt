@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "British industrial output",
+            "GPE",
+            "Impact",
+            "Economic growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British industrial output",
+            "GPE",
+            "Increase",
+            "November",
+            "GPE"
+        ],
+        [
+            "Manufacturing",
+            "SECTOR",
+            "Increase",
+            "November",
+            "GPE"
+        ],
+        [
+            "Construction output",
+            "GPE",
+            "Decrease",
+            "November",
+            "GPE"
+        ],
+        [
+            "Private housebuilding",
+            "SECTOR",
+            "Positive_Impact_On",
+            "Construction output",
+            "GPE"
+        ],
+        [
+            "Goods trade deficit",
+            "ECON_INDICATOR",
+            "Increase",
+            "November",
+            "GPE"
+        ],
+        [
+            "Goods exports",
+            "ECON_INDICATOR",
+            "Increase",
+            "November",
+            "GPE"
+        ],
+        [
+            "Imports",
+            "ECON_INDICATOR",
+            "Increase",
+            "November",
+            "GPE"
+        ]
+    ]
+}

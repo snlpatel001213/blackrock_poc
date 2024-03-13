@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "FBI Director James Comey",
+            "PERSON",
+            "Torch",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Sarah Huckabee Sanders",
+            "PERSON",
+            "Assure",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Not",
+            "Liar",
+            "CONCEPT"
+        ],
+        [
+            "Robert Mueller",
+            "PERSON",
+            "Interview",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Dismiss",
+            "Comey",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Obstacle",
+            "Russia Probe",
+            "CONCEPT"
+        ],
+        [
+            "Mueller",
+            "PERSON",
+            "Hear",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decide",
+            "Camp David",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Open",
+            "Mueller Team",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Game",
+            "Interview",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Walking Talking Perjury Trap",
+            "null",
+            "null"
+        ],
+        [
+            "Tim O'Brien",
+            "PERSON",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Defender",
+            "Dershowitz",
+            "PERSON"
+        ],
+        [
+            "Dershowitz",
+            "PERSON",
+            "Interview",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Dershowitz",
+            "PERSON",
+            "Advise",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Avoid",
+            "Mueller One on One",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Uncontrollable",
+            "null",
+            "null"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Loose Cannon",
+            "null",
+            "null"
+        ],
+        [
+            "Source",
+            "PERSON",
+            "Prep",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Source",
+            "PERSON",
+            "Question",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Source",
+            "PERSON",
+            "Disaster",
+            "null",
+            "null"
+        ]
+    ]
+}

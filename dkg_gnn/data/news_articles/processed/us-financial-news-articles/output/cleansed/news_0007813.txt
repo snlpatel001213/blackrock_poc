@@ -1,0 +1,131 @@
+{
+    "output": [
+        [
+            "Diego Costa",
+            "PERSON",
+            "Score",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Celebrate",
+            "Getafe",
+            "GPE"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Sent_Off",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Atletico Madrid",
+            "ORG",
+            "Operate_In",
+            "La Liga",
+            "EVENT"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Return",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Play",
+            "Lleida Esportiu",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Suspension",
+            "Eibar",
+            "GPE"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Aggression",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Involved",
+            "Altercation",
+            "CONCEPT"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Presence",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Strike_Fear",
+            "Opponents",
+            "CONCEPT"
+        ],
+        [
+            "Diego Simeone",
+            "PERSON",
+            "Praise",
+            "Diego Costa",
+            "PERSON"
+        ],
+        [
+            "Diego Simeone",
+            "PERSON",
+            "No_Complaints",
+            "Costa_Sending_Off",
+            "CONCEPT"
+        ],
+        [
+            "Referee",
+            "PERSON",
+            "Follow",
+            "Rules",
+            "CONCEPT"
+        ],
+        [
+            "Referee",
+            "PERSON",
+            "Not",
+            "Make",
+            "Emotional_Decisions",
+            "CONCEPT"
+        ],
+        [
+            "Valencia",
+            "ORG",
+            "Host",
+            "Girona",
+            "ORG"
+        ],
+        [
+            "Sevilla",
+            "ORG",
+            "Play",
+            "Real Betis",
+            "ORG"
+        ],
+        [
+            "Real Madrid",
+            "ORG",
+            "Visit",
+            "Celta Vigo",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Keep",
+            "Policy Easy",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Control",
+            "Bond Buying",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Raise",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Has",
+            "Two Percent Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Participates_In",
+            "European Central Bank",
+            "ORG/REG"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Participates_In",
+            "European Central Bank",
+            "ORG/REG"
+        ],
+        [
+            "Euro Zone",
+            "GPE",
+            "Experience",
+            "Slower Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Prices",
+            "CONCEPT",
+            "Grow",
+            "One Point Four Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices",
+            "CONCEPT",
+            "Year On Year",
+            "Last Month",
+            "TIME"
+        ],
+        [
+            "Food",
+            "CONCEPT",
+            "Contribute",
+            "Smaller Increases",
+            "CONCEPT"
+        ],
+        [
+            "Energy Prices",
+            "CONCEPT",
+            "Contribute",
+            "Smaller Increases",
+            "CONCEPT"
+        ],
+        [
+            "Core Inflation",
+            "CONCEPT",
+            "Stable",
+            "One Point One Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kenneth Broux",
+            "PERSON",
+            "State",
+            "No Pressure On ECB",
+            "ORG/REG"
+        ],
+        [
+            "Societe Generale",
+            "COMP",
+            "Employ",
+            "Kenneth Broux",
+            "PERSON"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Hold",
+            "Policy Meeting",
+            "EVENT"
+        ],
+        [
+            "Mario Draghi",
+            "PERSON",
+            "Conduct",
+            "Press Conference",
+            "EVENT"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Trade",
+            "Just Below Four Month High",
+            "TIME"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Consolidate",
+            "Rally",
+            "EVENT"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Impact",
+            "Cheaper Imports",
+            "CONCEPT"
+        ],
+        [
+            "Euro",
+            "CONCEPT",
+            "Impact",
+            "Dearer Exports",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "CONCEPT",
+            "Look",
+            "Sign Of Discomfort",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Has",
+            "Next Policy Meeting",
+            "EVENT"
+        ]
+    ]
+}

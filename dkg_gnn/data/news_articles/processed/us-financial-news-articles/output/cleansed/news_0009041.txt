@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Versace family",
+            "PERSON",
+            "Disowns",
+            "U.S. TV series",
+            "EVENT"
+        ],
+        [
+            "U.S. TV series",
+            "EVENT",
+            "Relate_To",
+            "Designer\u2019s death",
+            "EVENT"
+        ],
+        [
+            "21st Century Fox",
+            "ORG",
+            "Produce",
+            "TV series",
+            "EVENT"
+        ],
+        [
+            "Gianni Versace",
+            "PERSON",
+            "Violent Death",
+            "null",
+            "null"
+        ],
+        [
+            "Versace company",
+            "COMP",
+            "Not Authorise",
+            "TV series",
+            "EVENT"
+        ],
+        [
+            "Versace company",
+            "COMP",
+            "Not Involved",
+            "TV series",
+            "EVENT"
+        ],
+        [
+            "TV series",
+            "EVENT",
+            "Draw_Inspiration",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Not Authorised",
+            "null",
+            "null"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Vulgar favours",
+            "CONCEPT"
+        ],
+        [
+            "21st Century Fox",
+            "ORG",
+            "Has",
+            "Spokesman",
+            "PERSON"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Founded",
+            "Fashion House",
+            "COMP"
+        ],
+        [
+            "Fashion House",
+            "COMP",
+            "Famous",
+            "Medusa head logo",
+            "PRODUCT"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Founded",
+            "1978",
+            "DATE"
+        ],
+        [
+            "Blackstone",
+            "ORG",
+            "Buy",
+            "20 percent stake",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Versace company",
+            "COMP",
+            "Has",
+            "Donatella",
+            "PERSON"
+        ],
+        [
+            "Donatella",
+            "PERSON",
+            "Artistic Director",
+            "null",
+            "null"
+        ],
+        [
+            "Donatella",
+            "PERSON",
+            "Vice-president",
+            "null",
+            "null"
+        ]
+    ]
+}

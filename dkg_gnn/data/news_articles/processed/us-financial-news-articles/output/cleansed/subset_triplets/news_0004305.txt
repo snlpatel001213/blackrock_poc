@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "FIS",
+            "COMP",
+            "Announce",
+            "Fourth Quarter and Full-Year 2017 Financial Results",
+            "EVENT"
+        ],
+        [
+            "FIS",
+            "COMP",
+            "Has",
+            "Investment Community",
+            "PERSON"
+        ],
+        [
+            "FIS",
+            "COMP",
+            "Produce",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "FIS",
+            "COMP",
+            "Relate_To",
+            "Fourth Quarter and Full-Year 2017 Financial Results",
+            "EVENT"
+        ],
+        [
+            "FIS",
+            "COMP",
+            "Has",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "FIS",
+            "COMP",
+            "Has",
+            "Replay",
+            "EVENT"
+        ]
+    ]
+}

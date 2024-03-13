@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "Dallas, Texas",
+            "GPE"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Chad Crow",
+            "PERSON"
+        ],
+        [
+            "Chad Crow",
+            "PERSON",
+            "Is_Member_Of",
+            "Builders FirstSource, Inc.",
+            "COMP"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Peter Jackson",
+            "PERSON"
+        ],
+        [
+            "Peter Jackson",
+            "PERSON",
+            "Is_Member_Of",
+            "Builders FirstSource, Inc.",
+            "COMP"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Produce",
+            "Press Release",
+            "DOCUMENT"
+        ],
+        [
+            "Press Release",
+            "DOCUMENT",
+            "Relate_To",
+            "Financial Results",
+            "CONCEPT"
+        ],
+        [
+            "Press Release",
+            "DOCUMENT",
+            "Operate_In",
+            "Investors Section",
+            "SECTION"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "NasdaqGS",
+            "EXCHANGE"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "Fourth Quarter",
+            "TIME_PERIOD"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "Fiscal Year 2017",
+            "TIME_PERIOD"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Participates_In",
+            "New Residential Construction",
+            "CONCEPT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Participates_In",
+            "Repair and Remodeling",
+            "CONCEPT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "40 states",
+            "GPE"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "402 locations",
+            "FACILITY"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Geographic Diversity",
+            "CONCEPT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Balanced End Market Exposure",
+            "CONCEPT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Operate_In",
+            "75 of the top 100 Metropolitan Statistical Areas",
+            "GPE"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Manufacturing Facilities",
+            "FACILITY"
+        ],
+        [
+            "Manufacturing Facilities",
+            "FACILITY",
+            "Produce",
+            "Value-Added Products",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Roof and Floor Trusses",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Wall Panels",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Stairs",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Vinyl Windows",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Custom Millwork",
+            "PRODUCT"
+        ],
+        [
+            "Value-Added Products",
+            "PRODUCT",
+            "Include",
+            "Pre-Hung Doors",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Dimensional Lumber",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Lumber Sheet Goods",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Millwork",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Windows",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Interior and Exterior Doors",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Distribute",
+            "Other Building Products",
+            "PRODUCT"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Has",
+            "Jennifer Pasquino",
+            "PERSON"
+        ],
+        [
+            "Jennifer Pasquino",
+            "PERSON",
+            "Is_Member_Of",
+            "Builders FirstSource, Inc.",
+            "COMP"
+        ],
+        [
+            "Jennifer Pasquino",
+            "PERSON",
+            "Has",
+            "303-262-8571",
+            "CONTACT_DETAIL"
+        ],
+        [
+            "Builders FirstSource, Inc.",
+            "COMP",
+            "Source",
+            "Press Release",
+            "DOCUMENT"
+        ]
+    ]
+}

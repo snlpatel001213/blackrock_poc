@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "CMC Markets Plc",
+            "COMP",
+            "Has",
+            "POSITIVE STEPS",
+            "CONCEPT"
+        ],
+        [
+            "CMC Markets Plc",
+            "COMP",
+            "Relate_To",
+            "Individual Letter",
+            "CONCEPT"
+        ],
+        [
+            "Individual Letter",
+            "CONCEPT",
+            "Received_From",
+            "FCA",
+            "ORG/REG"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Has",
+            "Issued Letter",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Focuses_On",
+            "Target Market",
+            "CONCEPT"
+        ],
+        [
+            "CMC Markets Plc",
+            "COMP",
+            "Works_Closely_With",
+            "Small Number of Distributors",
+            "COMP"
+        ],
+        [
+            "CMC Markets Plc",
+            "COMP",
+            "Impact_On",
+            "Regulatory Compliance",
+            "CONCEPT"
+        ],
+        [
+            "CMC Markets Plc",
+            "COMP",
+            "Does_Not_Believe",
+            "Additional Financial Impact",
+            "CONCEPT"
+        ]
+    ]
+}

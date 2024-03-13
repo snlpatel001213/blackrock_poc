@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Begin",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Add",
+            "Liberal Party",
+            "ORG"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Operate_In",
+            "Coalition",
+            "ORG"
+        ],
+        [
+            "Liberal Party",
+            "ORG",
+            "Hold",
+            "80 Seats",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Need",
+            "Backing",
+            "EVENT"
+        ],
+        [
+            "Christian Democrats",
+            "ORG",
+            "Hold",
+            "8 Seats",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Praise",
+            "Labor Unions",
+            "ORG"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Praise",
+            "Employers",
+            "ORG"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Export",
+            "Oil and Gas",
+            "PRODUCT"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Support",
+            "Paris Climate Accord",
+            "EVENT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Gradual Shift",
+            "Greener Economy",
+            "CONCEPT"
+        ],
+        [
+            "Energy Policy",
+            "CONCEPT",
+            "Stumbling Block",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Liberals",
+            "ORG",
+            "Want",
+            "Curtail Exploration",
+            "EVENT"
+        ],
+        [
+            "Progress Party",
+            "ORG",
+            "Intend",
+            "Continue Drilling",
+            "EVENT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Retain",
+            "Power",
+            "EVENT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Promise",
+            "Further Tax Cuts",
+            "EVENT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Promise",
+            "Economic Progress",
+            "EVENT"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Partly Recover",
+            "Downturn",
+            "EVENT"
+        ],
+        [
+            "Price of Oil",
+            "CONCEPT",
+            "Plunge",
+            "2015-2016",
+            "TIME"
+        ]
+    ]
+}

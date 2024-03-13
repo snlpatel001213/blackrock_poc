@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Kellermeyer Bergensons Services",
+            "ORG",
+            "Announce",
+            "Acquisition of Empire Services",
+            "ORG"
+        ],
+        [
+            "Kellermeyer Bergensons Services",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Mark Minasian",
+            "PERSON",
+            "Is_Member_Of",
+            "Kellermeyer Bergensons Services",
+            "ORG"
+        ],
+        [
+            "Empire",
+            "ORG",
+            "Operate_In",
+            "Gulf Coast Region",
+            "GPE"
+        ]
+    ]
+}

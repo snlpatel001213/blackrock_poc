@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Announce",
+            "fourth-quarter and full-year fiscal 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "Shiloh Industries fourth-quarter",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Accessible_By",
+            "dialing 1-877-407-0784",
+            "COMP"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Accessible_By",
+            "1-201-689-8560",
+            "COMP"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Have",
+            "body structure, chassis and powertrain systems",
+            "SECTOR"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Have",
+            "lightweighting technologies",
+            "SECTOR"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Have",
+            "proprietary line of noise and vibration reducing ShilohCore\u2122 acoustic laminate products",
+            "PRODUCT"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Have",
+            "BlankLight\u00ae, CastLight\u00ae and StampLight\u00ae brands",
+            "PRODUCT"
+        ]
+    ]
+}

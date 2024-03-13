@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Tatwah Smartech Co Ltd",
+            "COMP",
+            "Announce",
+            "acquire",
+            "COMP"
+        ],
+        [
+            "Tatwah Smartech Co Ltd",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "SUPREMESAT (PRIVATE) LIMITED",
+            "COMP",
+            "Control",
+            "satellite firm",
+            "COMP"
+        ],
+        [
+            "Tatwah Smartech Co Ltd",
+            "COMP",
+            "Impact",
+            "$31.3 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "satellite orbit use right",
+            "CONCEPT",
+            "Relate_To",
+            "$26 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "cash",
+            "CONCEPT",
+            "Relate_To",
+            "Transaction amount",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

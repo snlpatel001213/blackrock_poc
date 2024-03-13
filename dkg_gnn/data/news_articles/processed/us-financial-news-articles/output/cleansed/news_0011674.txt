@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "James Rollins",
+            "PERSON",
+            "Write",
+            "The Demon Crown",
+            "PRODUCT"
+        ],
+        [
+            "The Demon Crown",
+            "PRODUCT",
+            "Contain",
+            "Biology",
+            "CONCEPT"
+        ],
+        [
+            "The Demon Crown",
+            "PRODUCT",
+            "Contain",
+            "Techno-thriller",
+            "CONCEPT"
+        ],
+        [
+            "The Demon Crown",
+            "PRODUCT",
+            "Contain",
+            "Archaeology",
+            "CONCEPT"
+        ],
+        [
+            "Biology",
+            "CONCEPT",
+            "Relate_To",
+            "Insects",
+            "CONCEPT"
+        ],
+        [
+            "Insects",
+            "CONCEPT",
+            "Relate_To",
+            "Dangerous Creatures",
+            "CONCEPT"
+        ],
+        [
+            "Biology",
+            "CONCEPT",
+            "Relate_To",
+            "Venomics",
+            "CONCEPT"
+        ],
+        [
+            "Venomics",
+            "CONCEPT",
+            "Relate_To",
+            "Toxins",
+            "CONCEPT"
+        ],
+        [
+            "The Demon Crown",
+            "PRODUCT",
+            "Has",
+            "Plot",
+            "CONCEPT"
+        ],
+        [
+            "Plot",
+            "CONCEPT",
+            "Relate_To",
+            "Take over the World",
+            "CONCEPT"
+        ],
+        [
+            "Plot",
+            "CONCEPT",
+            "Relate_To",
+            "Unleashing",
+            "CONCEPT"
+        ],
+        [
+            "Unleashing",
+            "CONCEPT",
+            "Relate_To",
+            "Biological Pearl Harbor",
+            "EVENT"
+        ]
+    ]
+}

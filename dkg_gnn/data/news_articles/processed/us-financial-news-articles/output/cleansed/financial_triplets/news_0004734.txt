@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Hollywood Awards Season",
+            "EVENT",
+            "Relate_To",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Has",
+            "Hollywood Reporter",
+            "ORG"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Announce",
+            "Most Dishonest & Corrupt Media Awards Of The Year",
+            "EVENT"
+        ],
+        [
+            "Stephen Colbert",
+            "PERSON",
+            "Participates_In",
+            "Fakies Nomination Campaign",
+            "EVENT"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Has",
+            "Average Audience Of 14.9 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Negative_Impact_On",
+            "Audience Viewership",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Operate_In",
+            "Television Business Sector",
+            "SECTOR"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Control",
+            "33 Of Top 50 Programs In 2017",
+            "EVENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Raise",
+            "Ad Fraud Issue",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "Trading Days",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "US Currency",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Central Banks",
+            "ORG/GOV",
+            "Control",
+            "Interest-Rate Increases",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/GOV",
+            "Raise",
+            "Rates",
+            "CONCEPT"
+        ]
+    ]
+}

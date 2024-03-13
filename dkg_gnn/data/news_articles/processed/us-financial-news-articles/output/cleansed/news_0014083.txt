@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Boston Scientific Corp",
+            "COMP",
+            "Receive",
+            "U.S. FDA Approval",
+            "ORG/REG"
+        ],
+        [
+            "Spectra Wavewriter Spinal Cord Stimulator System",
+            "PRODUCT",
+            "Relate_To",
+            "U.S. FDA Approval",
+            "ORG/REG"
+        ],
+        [
+            "Boston Scientific Corp",
+            "COMP",
+            "Produce",
+            "Spectra Wavewriter Spinal Cord Stimulator System",
+            "PRODUCT"
+        ]
+    ]
+}

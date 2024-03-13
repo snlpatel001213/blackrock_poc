@@ -1,0 +1,170 @@
+{
+    "output": [
+        [
+            "NAM",
+            "ORG",
+            "Propose",
+            "Halting Production",
+            "CONCEPT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Lower",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "Groningen Gas Field",
+            "GPE",
+            "Operate_In",
+            "Groningen",
+            "GPE"
+        ],
+        [
+            "Dutch Government",
+            "ORG/GOV",
+            "Cut",
+            "Gas Production",
+            "CONCEPT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Specify",
+            "Production Cut",
+            "CONCEPT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Operate_In",
+            "Groningen Field",
+            "GPE"
+        ],
+        [
+            "Royal Dutch Shell",
+            "COMP",
+            "Operate_In",
+            "Groningen Field",
+            "GPE"
+        ],
+        [
+            "Exxon Mobil",
+            "COMP",
+            "Operate_In",
+            "Groningen Field",
+            "GPE"
+        ],
+        [
+            "Groningen Field",
+            "GPE",
+            "Have",
+            "Decades of Extraction",
+            "CONCEPT"
+        ],
+        [
+            "Groningen Region",
+            "GPE",
+            "Have",
+            "Dozens of Earthquakes",
+            "CONCEPT"
+        ],
+        [
+            "Groningen Region",
+            "GPE",
+            "Cause",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "Thousands of Buildings and Homes",
+            "CONCEPT",
+            "Have",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Propose",
+            "Substantial Cut",
+            "CONCEPT"
+        ],
+        [
+            "Output in Groningen",
+            "CONCEPT",
+            "Reduce",
+            "By as Much as Possible",
+            "CONCEPT"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Have",
+            "Magnitude 3.4 Tremor",
+            "CONCEPT"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Have",
+            "Largest Tremor",
+            "CONCEPT"
+        ],
+        [
+            "Eric Wiebes",
+            "PERSON",
+            "Say",
+            "Output in Groningen",
+            "CONCEPT"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Lower",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Lower",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "21.6 Billion Cubic Metres",
+            "ECON_INDICATOR",
+            "Per Year",
+            "null"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Lower",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "Groningen",
+            "GPE",
+            "Lower",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "20 Billion Cubic Metres",
+            "ECON_INDICATOR",
+            "By 2021",
+            "null"
+        ],
+        [
+            "Prime Minister Mark Rutte",
+            "PERSON",
+            "Agree",
+            "Reduce Output",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Wage Growth",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Pickup",
+            "CONCEPT"
+        ]
+    ]
+}

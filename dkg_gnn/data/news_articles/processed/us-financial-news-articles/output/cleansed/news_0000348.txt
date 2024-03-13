@@ -1,0 +1,37 @@
+{
+    "output": [
+        [
+            "One-legged soccer aces",
+            "PERSON",
+            "Participates_In",
+            "Amputee Football League",
+            "ORG"
+        ],
+        [
+            "Group",
+            "ORG",
+            "Form",
+            "Team",
+            "ORG"
+        ],
+        [
+            "Team",
+            "ORG",
+            "Hope",
+            "Be",
+            "Part",
+            "Soccer League",
+            "ORG"
+        ],
+        [
+            "Soccer League",
+            "ORG",
+            "Relate_To",
+            "People",
+            "PERSON",
+            "With",
+            "Special Needs",
+            "GPE"
+        ]
+    ]
+}

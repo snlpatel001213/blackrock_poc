@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Commodity Slump 2014/2015",
+            "EVENT"
+        ],
+        [
+            "Tensions",
+            "CONCEPT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "Production Cuts",
+            "COMP"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "West Texas Intermediate",
+            "COMP"
+        ],
+        [
+            "Freezing Weather",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Short-term Demand",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Heating Oil",
+            "PRODUCT"
+        ],
+        [
+            "Inventory Levels",
+            "CONCEPT",
+            "Relate_To",
+            "Five-year Average",
+            "CONCEPT"
+        ],
+        [
+            "Geopolitical Uncertainty",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Elite Revolutionary Guards",
+            "ORG"
+        ]
+    ]
+}

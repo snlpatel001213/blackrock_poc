@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Amazon.com Inc",
+            "ORG",
+            "Operate_In",
+            "Emerging Market",
+            "GPE"
+        ],
+        [
+            "Amazon.com Inc",
+            "ORG",
+            "Has",
+            "Echo Dot",
+            "PRODUCT"
+        ],
+        [
+            "Alphabet Inc\u2019s Google",
+            "ORG",
+            "Operate_In",
+            "Emerging Market",
+            "GPE"
+        ],
+        [
+            "Alphabet Inc\u2019s Google",
+            "ORG",
+            "Has",
+            "Google Home Mini",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple Inc",
+            "ORG",
+            "Has",
+            "HomePod Speaker",
+            "PRODUCT"
+        ]
+    ]
+}

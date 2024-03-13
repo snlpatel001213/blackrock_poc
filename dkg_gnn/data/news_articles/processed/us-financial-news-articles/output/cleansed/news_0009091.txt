@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "End",
+            "Special Status",
+            "ORG"
+        ],
+        [
+            "Special Status",
+            "ORG",
+            "Protect",
+            "Salvadoreans",
+            "PERSON"
+        ],
+        [
+            "Salvadoreans",
+            "PERSON",
+            "Live_And_Work",
+            "US",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Special Status",
+            "ORG"
+        ],
+        [
+            "Special Status",
+            "ORG",
+            "Come_To_An_End",
+            "null",
+            "null"
+        ]
+    ]
+}

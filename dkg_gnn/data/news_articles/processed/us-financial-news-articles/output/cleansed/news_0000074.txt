@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Petrobras",
+            "COMP",
+            "Pay",
+            "$2.95 billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "End",
+            "class-action lawsuit",
+            "EVENT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Participates_In",
+            "corruption-related losses",
+            "CONCEPT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Has",
+            "U.S.-listed shares or bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Petrobras",
+            "COMP",
+            "Has",
+            "Brazilian courts",
+            "ORG/GOV"
+        ],
+        [
+            "Brazilian courts",
+            "ORG/GOV",
+            "Found",
+            "Petrobras was spending tens of billions",
+            "CONCEPT"
+        ]
+    ]
+}

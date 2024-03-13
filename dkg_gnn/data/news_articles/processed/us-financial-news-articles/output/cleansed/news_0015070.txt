@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "SYGNITY SA",
+            "COMP",
+            "Identify",
+            "Risk",
+            "CONCEPT"
+        ],
+        [
+            "SYGNITY SA",
+            "COMP",
+            "Operate_In",
+            "Public Administration",
+            "SECTOR"
+        ],
+        [
+            "SYGNITY SA",
+            "COMP",
+            "Negative_Impact_On",
+            "FY 2016/2017 Result",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SYGNITY SA",
+            "COMP",
+            "Include",
+            "Company\u2019s Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SYGNITY SA",
+            "COMP",
+            "Relate_To",
+            "Project",
+            "PRODUCT"
+        ],
+        [
+            "Project",
+            "PRODUCT",
+            "Consider",
+            "Part of this amount",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

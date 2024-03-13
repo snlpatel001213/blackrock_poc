@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Planned job cuts",
+            "ECON_INDICATOR",
+            "Decrease",
+            "7.4",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Labor Market",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Introduce",
+            "ADP National Employment Report",
+            "PRODUCT"
+        ],
+        [
+            "Moody's Analytics",
+            "ORG",
+            "Participates_In",
+            "ADP National Employment Report",
+            "PRODUCT"
+        ],
+        [
+            "U.S.-based employers",
+            "GPE",
+            "Announce",
+            "32,423 job cuts",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Call_For",
+            "Dialogue",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Call_For",
+            "Nuclear_Weapons_Ban",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Quote",
+            "John XXIII",
+            "PERSON"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Support",
+            "UN_Treaty",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Address",
+            "Diplomats",
+            "ORG"
+        ],
+        [
+            "VATICAN CITY",
+            "GPE",
+            "Host",
+            "Pope_Francis_Speech",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem",
+            "GPE",
+            "As",
+            "Israel_Capital",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "US_Withdraw",
+            "ORG/GOV",
+            "From",
+            "Paris_Agreement",
+            "EVENT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Pledge",
+            "Commitment",
+            "CONCEPT",
+            "To",
+            "Non_Proliferation_Treaty",
+            "CONCEPT"
+        ],
+        [
+            "North_Korea",
+            "GPE",
+            "Due",
+            "Hold",
+            "Talks",
+            "EVENT",
+            "With",
+            "South_Korea",
+            "GPE"
+        ],
+        [
+            "North_Korea",
+            "GPE",
+            "Assert",
+            "Nuclear_Button",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "US_Button",
+            "CONCEPT",
+            "Bigger",
+            "CONCEPT",
+            "More_Powerful",
+            "CONCEPT"
+        ],
+        [
+            "Francis",
+            "PERSON",
+            "Note",
+            "Conflagration",
+            "CONCEPT",
+            "Could_Be_Started",
+            "CONCEPT",
+            "By_Some_Chance",
+            "CONCEPT",
+            "And_Unforeseen_Circumstance",
+            "CONCEPT"
+        ]
+    ]
+}

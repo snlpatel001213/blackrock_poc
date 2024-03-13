@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Raise",
+            "4",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Has",
+            "Dividend Yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Operate_In",
+            "Energy Space",
+            "SECTOR"
+        ],
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Positive_Impact_On",
+            "XLE",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "XLE",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Energy Space",
+            "SECTOR"
+        ],
+        [
+            "XLE",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "U.S. Sector",
+            "SECTOR"
+        ],
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Impact",
+            "Supply/Demand Equation",
+            "CONCEPT"
+        ],
+        [
+            "Exxon Mobil",
+            "PERSON",
+            "Has",
+            "Exposure",
+            "SECTOR"
+        ]
+    ]
+}

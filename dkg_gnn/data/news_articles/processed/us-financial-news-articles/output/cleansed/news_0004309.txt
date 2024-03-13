@@ -1,0 +1,79 @@
+{
+    "output": [
+        [
+            "Auris Medical Holding Ag",
+            "ORG",
+            "Announce",
+            "Further Results",
+            "CONCEPT"
+        ],
+        [
+            "Auris Medical Holding Ag",
+            "ORG",
+            "Provides",
+            "Update",
+            "CONCEPT"
+        ],
+        [
+            "Auris Medical Holding Ag",
+            "ORG",
+            "Relate_To",
+            "AM-111 Development Program",
+            "CONCEPT"
+        ],
+        [
+            "AM-111",
+            "PRODUCT",
+            "Treated",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "Patients",
+            "PERSON",
+            "Had",
+            "Lower Incidence",
+            "CONCEPT",
+            "of",
+            "No Hearing Improvement",
+            "CONCEPT"
+        ],
+        [
+            "Auris Medical Holding Ag",
+            "ORG",
+            "Relate_To",
+            "Post-Hoc Analyses",
+            "CONCEPT"
+        ],
+        [
+            "Post-Hoc Analyses",
+            "CONCEPT",
+            "Revealed",
+            "Clinically and Statistically Significant Hearing Improvement",
+            "CONCEPT",
+            "with",
+            "AM-111",
+            "PRODUCT"
+        ],
+        [
+            "Auris Medical Holding Ag",
+            "ORG",
+            "Plans",
+            "Discuss",
+            "CONCEPT",
+            "Accumulated Safety and Efficacy Data and Regulatory Pathway",
+            "CONCEPT",
+            "with",
+            "FDA",
+            "ORG/GOV",
+            "and",
+            "EMA",
+            "ORG/REG",
+            "in",
+            "Q2",
+            "OF",
+            "2018",
+            "TIME"
+        ]
+    ]
+}

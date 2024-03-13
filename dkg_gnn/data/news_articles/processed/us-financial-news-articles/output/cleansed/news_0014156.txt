@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Piece of Union Jack flag",
+            "PRODUCT"
+        ],
+        [
+            "Piece of Union Jack flag",
+            "PRODUCT",
+            "Operate_In",
+            "Battle of Trafalgar",
+            "EVENT"
+        ],
+        [
+            "Piece of Union Jack flag",
+            "PRODUCT",
+            "Participates_In",
+            "Nelson memorabilia collection",
+            "PRODUCT"
+        ],
+        [
+            "Nelson memorabilia collection",
+            "PRODUCT",
+            "Sold_At",
+            "Sotheby\u2019s",
+            "ORG"
+        ],
+        [
+            "Flag fragment",
+            "PRODUCT",
+            "Has",
+            "86 cm by 92 cm size",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Flag fragment",
+            "PRODUCT",
+            "Has",
+            "Estimated price of 80,000 to 100,000 pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Flag fragment",
+            "PRODUCT",
+            "Relate_To",
+            "Nelson\u2019s ceremonial funeral",
+            "EVENT"
+        ],
+        [
+            "Flag fragment",
+            "PRODUCT",
+            "Relate_To",
+            "Nelson\u2019s loyal sailors",
+            "PERSON"
+        ],
+        [
+            "Last surviving complete Union Jack flag",
+            "PRODUCT",
+            "Sold_At",
+            "2009",
+            "DATE"
+        ],
+        [
+            "Last surviving complete Union Jack flag",
+            "PRODUCT",
+            "Has",
+            "384,000 pounds price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Battle of Trafalgar",
+            "EVENT",
+            "Control",
+            "British defeat of French and Spanish fleet",
+            "EVENT"
+        ],
+        [
+            "Nelson",
+            "PERSON",
+            "Fatally_Wounded_At",
+            "Battle of Trafalgar",
+            "EVENT"
+        ],
+        [
+            "Nelson",
+            "PERSON",
+            "Status",
+            "National hero in Britain",
+            "CONCEPT"
+        ]
+    ]
+}

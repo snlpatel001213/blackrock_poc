@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Turkey",
+            "GPE",
+            "Impact",
+            "Risk of Arbitrary Arrest",
+            "CONCEPT"
+        ],
+        [
+            "Turkish citizens",
+            "PERSON",
+            "Travel",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "NATO",
+            "ORG/GOV"
+        ],
+        [
+            "Turkish banker",
+            "PERSON",
+            "Found_Guilty",
+            "Helping Iran Evade U.S. Sanctions",
+            "CONCEPT"
+        ],
+        [
+            "Case",
+            "EVENT",
+            "Strain",
+            "Diplomatic Relations",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Dismiss",
+            "Case as Politically Motivated",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Issue",
+            "Travel Warning",
+            "CONCEPT"
+        ],
+        [
+            "Travel Warning",
+            "EVENT",
+            "Date",
+            "Jan 11",
+            "DATE"
+        ],
+        [
+            "Ministry",
+            "ORG",
+            "State",
+            "Increase in Terror Attacks and Violent Incidents",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Terror Attacks and Violent Incidents",
+            "CONCEPT"
+        ]
+    ]
+}

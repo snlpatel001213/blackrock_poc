@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Propose",
+            "Ablynx NV",
+            "COMP"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical sector",
+            "SECTOR"
+        ],
+        [
+            "Ablynx NV",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical sector",
+            "SECTOR"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Offer",
+            "28.00 euro",
+            "ECON_INDICATOR",
+            "per share",
+            "in cash",
+            "FIN_INSTRUMENT",
+            "for",
+            "Ablynx NV",
+            "COMP"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Offer",
+            "2.6 billion euros",
+            "ECON_INDICATOR",
+            "($3.12 billion)",
+            "FIN_INSTRUMENT",
+            "for",
+            "Ablynx NV",
+            "COMP"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Offer",
+            "one contingent value right (CVR)",
+            "CONCEPT",
+            "with total potential cash payments over time of up to 2.50 euros",
+            "ECON_INDICATOR",
+            "per share",
+            "Ablynx NV",
+            "COMP"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Ask",
+            "Ablynx NV",
+            "COMP",
+            "board",
+            "PERSON",
+            "to engage in discussions"
+        ],
+        [
+            "Novo Nordisk A/S",
+            "COMP",
+            "Combine",
+            "Novo Nordisk\u2019s regulatory, scientific and commercial expertise",
+            "CONCEPT",
+            "with",
+            "Ablynx\u2019s strong existing medical teams",
+            "CONCEPT",
+            "to optimise",
+            "the development and global marketing",
+            "CONCEPT",
+            "of",
+            "caplacizumab",
+            "PRODUCT"
+        ]
+    ]
+}

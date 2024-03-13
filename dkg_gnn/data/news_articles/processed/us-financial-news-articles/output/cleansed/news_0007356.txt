@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Inovalon",
+            "ORG",
+            "Announce",
+            "Preliminary Fourth Quarter and Full Year 2017 Expectations",
+            "EVENT"
+        ],
+        [
+            "Inovalon",
+            "ORG",
+            "Participates_In",
+            "J.P. Morgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Fourth Quarter 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fourth Quarter 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Gross Margin",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fourth Quarter 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Income before Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fourth Quarter 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Adjusted EBITDA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full Year 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full Year 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Gross Margin",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full Year 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Income before Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full Year 2017 Expectations",
+            "EVENT",
+            "Relate_To",
+            "Adjusted EBITDA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expects",
+            "Provide 2018 Guidance",
+            "EVENT"
+        ],
+        [
+            "Inovalon",
+            "ORG",
+            "Has",
+            "Inovalon ONE\u2122 Platform",
+            "PRODUCT"
+        ],
+        [
+            "Inovalon ONE\u2122 Platform",
+            "PRODUCT",
+            "Control",
+            "Ecosystem Connectivity",
+            "CONCEPT"
+        ],
+        [
+            "Inovalon ONE\u2122 Platform",
+            "PRODUCT",
+            "Control",
+            "Expanding Datasets",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Experience",
+            "Double-Digit Organic Revenue Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Experience",
+            "Year-Over-Year Margin Expansion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Material Increase in Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Positive Impact on Non-GAAP Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tax Cuts and Jobs Act of 2017",
+            "EVENT",
+            "Relate_To",
+            "Provision for Income Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tax Cuts and Jobs Act of 2017",
+            "EVENT",
+            "Relate_To",
+            "Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tax Cuts and Jobs Act of 2017",
+            "EVENT",
+            "Relate_To",
+            "Non-GAAP Net Income",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

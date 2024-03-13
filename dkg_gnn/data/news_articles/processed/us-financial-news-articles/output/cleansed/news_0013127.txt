@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rimidi",
+            "COMP",
+            "Appoint",
+            "Josh Claman",
+            "PERSON"
+        ],
+        [
+            "Josh Claman",
+            "PERSON",
+            "Operate_In",
+            "Healthcare Industry",
+            "SECTOR"
+        ],
+        [
+            "Rimidi",
+            "COMP",
+            "Has",
+            "Lucienne Ide",
+            "PERSON"
+        ],
+        [
+            "Lucienne Ide",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG/REG"
+        ],
+        [
+            "Rimidi",
+            "COMP",
+            "Produce",
+            "Diabetes+Me",
+            "PRODUCT"
+        ],
+        [
+            "Diabetes+Me",
+            "PRODUCT",
+            "Relate_To",
+            "Diabetes Care",
+            "CONCEPT"
+        ],
+        [
+            "Diabetes+Me",
+            "PRODUCT",
+            "Operate_In",
+            "Healthcare Industry",
+            "SECTOR"
+        ]
+    ]
+}

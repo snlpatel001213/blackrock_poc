@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sinopec Oilfield Service Corp",
+            "COMP",
+            "Announce",
+            "Application Approval",
+            "EVENT"
+        ],
+        [
+            "Sinopec Oilfield Service Corp",
+            "COMP",
+            "Relate_To",
+            "CSRC",
+            "ORG/REG"
+        ],
+        [
+            "CSRC",
+            "ORG/REG",
+            "Control",
+            "Application Approval",
+            "EVENT"
+        ],
+        [
+            "Sinopec Oilfield Service Corp",
+            "COMP",
+            "Negative_Impact_On",
+            "Shares Placement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CSRC",
+            "ORG/REG",
+            "Withhold",
+            "Shares Placement Approval",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

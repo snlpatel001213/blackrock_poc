@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Announce",
+            "talks with North Korea",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "the two nations",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "our nation and the Republic of Korea",
+            "GPE"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Is_Member_Of",
+            "U.S. State Department",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Cut",
+            "Exposure",
+            "ORG/REG"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Increase",
+            "Weighting",
+            "ORG/REG"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "US Stocks",
+            "COMP",
+            "Outperform",
+            "null",
+            "null"
+        ],
+        [
+            "European Stocks",
+            "COMP",
+            "Underperform",
+            "null",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Has",
+            "Strategists",
+            "PERSON"
+        ],
+        [
+            "Strategists",
+            "PERSON",
+            "Say",
+            "US Stocks Outperform",
+            "null"
+        ],
+        [
+            "US Stocks",
+            "COMP",
+            "Close",
+            "Year-end Price Target",
+            "null"
+        ],
+        [
+            "US Stocks",
+            "COMP",
+            "Limited Upside",
+            "null",
+            "null"
+        ],
+        [
+            "European Stocks",
+            "COMP",
+            "Outperform",
+            "null",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Overweight",
+            "European Equities",
+            "COMP"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Overweight",
+            "US Equities",
+            "COMP"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Cut",
+            "US Equities Overweight",
+            "null"
+        ],
+        [
+            "S&P 500",
+            "COMP",
+            "Shot Up",
+            "null",
+            "null"
+        ],
+        [
+            "Europe STOXX 600",
+            "COMP",
+            "Managed",
+            "Third of That Return",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Preference",
+            "Equities",
+            "COMP"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Least Favoured",
+            "Credit",
+            "COMP"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Heading",
+            "Tricky Handoff",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Likely",
+            "PMIs Peak",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Potentially",
+            "Inflation Rise",
+            "null"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Best Reflation Plays",
+            "Overweight Energy and Financial Equities",
+            "COMP"
+        ]
+    ]
+}

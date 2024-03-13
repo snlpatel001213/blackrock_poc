@@ -1,0 +1,168 @@
+{
+    "output": [
+        [
+            "FedEx",
+            "ORG",
+            "Employs",
+            "Jonathan Pace",
+            "PERSON"
+        ],
+        [
+            "Jonathan Pace",
+            "PERSON",
+            "Lives_In",
+            "Tennessee",
+            "GPE"
+        ],
+        [
+            "Jonathan Pace",
+            "PERSON",
+            "Is_Member_Of",
+            "Great Internet Mersenne Prime Search",
+            "ORG"
+        ],
+        [
+            "Great Internet Mersenne Prime Search",
+            "ORG",
+            "Has",
+            "GIMPS Software",
+            "PRODUCT"
+        ],
+        [
+            "Jonathan Pace",
+            "PERSON",
+            "Run",
+            "GIMPS Software",
+            "PRODUCT",
+            "For",
+            "6 Days",
+            "TIME"
+        ],
+        [
+            "M77232917",
+            "CONCEPT",
+            "Is",
+            "Mersenne Prime",
+            "CONCEPT"
+        ],
+        [
+            "M77232917",
+            "CONCEPT",
+            "Is",
+            "50th",
+            "ECON_INDICATOR",
+            "Mersenne Prime",
+            "CONCEPT"
+        ],
+        [
+            "M77232917",
+            "CONCEPT",
+            "Is",
+            "More Than 23 Million Digits Long",
+            "ECON_INDICATOR"
+        ],
+        [
+            "M77232917",
+            "CONCEPT",
+            "Calculated_By",
+            "Raising 2 To The 77232917th Power",
+            "CONCEPT",
+            "And",
+            "Subtracting 1",
+            "CONCEPT"
+        ],
+        [
+            "Jonathan Pace",
+            "PERSON",
+            "First_Discovery",
+            "Since",
+            "14 Years Ago",
+            "TIME"
+        ],
+        [
+            "Mersenne Primes",
+            "CONCEPT",
+            "Are",
+            "Exceedingly Rare",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mersenne Primes",
+            "CONCEPT",
+            "Are",
+            "Sporadic",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mersenne Primes",
+            "CONCEPT",
+            "Easier To Prove",
+            "Prime",
+            "CONCEPT",
+            "Than",
+            "Other Primes",
+            "CONCEPT"
+        ],
+        [
+            "Prime Numbers",
+            "CONCEPT",
+            "Have Been An Interest",
+            "Mathematicians",
+            "PERSON",
+            "For",
+            "More Than 2000 Years",
+            "TIME"
+        ],
+        [
+            "M77232917",
+            "CONCEPT",
+            "Is Akin To",
+            "Breaking A Land Speed Record",
+            "CONCEPT"
+        ],
+        [
+            "Last Few Mersenne Primes",
+            "CONCEPT",
+            "Closer To Each Other",
+            "Researchers",
+            "PERSON",
+            "Expected",
+            "CONCEPT"
+        ],
+        [
+            "GIMPS",
+            "ORG",
+            "Founded",
+            "1996",
+            "TIME"
+        ],
+        [
+            "GIMPS",
+            "ORG",
+            "Discovered",
+            "Last 16 Mersenne Primes",
+            "CONCEPT"
+        ],
+        [
+            "GIMPS Software",
+            "PRODUCT",
+            "Complex Enough",
+            "Detect Bugs",
+            "VERB",
+            "Intel Processors",
+            "ORG"
+        ],
+        [
+            "GIMPS Software",
+            "PRODUCT",
+            "Detect Bugs",
+            "Intel Processors",
+            "ORG",
+            "Rarely",
+            "Encountered",
+            "VERB",
+            "Normal Users",
+            "PERSON"
+        ]
+    ]
+}

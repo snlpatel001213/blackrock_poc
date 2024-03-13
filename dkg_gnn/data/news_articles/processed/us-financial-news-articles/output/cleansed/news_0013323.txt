@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Expand",
+            "Safety Recall",
+            "ORG/REG"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Involve",
+            "Takata Corp",
+            "ORG"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "File",
+            "Bankruptcy",
+            "ORG/REG"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "Recall",
+            "Air Bag Inflators",
+            "PRODUCT"
+        ],
+        [
+            "Air Bag Inflators",
+            "PRODUCT",
+            "Link",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Air Bag Inflators",
+            "PRODUCT",
+            "Link",
+            "Deaths",
+            "CONCEPT"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Recall",
+            "3.3 Million Inflators",
+            "PRODUCT"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Include",
+            "Automakers",
+            "SECTOR"
+        ],
+        [
+            "NHTSA",
+            "ORG/GOV",
+            "Recall",
+            "46 Million Inflators",
+            "PRODUCT"
+        ],
+        [
+            "NHTSA",
+            "ORG/GOV",
+            "Recall",
+            "34 Million U.S. Vehicles",
+            "GPE"
+        ],
+        [
+            "NHTSA",
+            "ORG/GOV",
+            "Estimate",
+            "70 Million U.S. Inflators",
+            "PRODUCT"
+        ],
+        [
+            "NHTSA",
+            "ORG/GOV",
+            "Repair",
+            "Vehicles Recalled",
+            "PRODUCT"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Agree",
+            "Plead Guilty",
+            "ORG/REG"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Agree",
+            "Pay $1 Billion",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nomura",
+            "ORG",
+            "Raise",
+            "McDonald's",
+            "COMP"
+        ],
+        [
+            "McDonald's",
+            "COMP",
+            "Is_Member_Of",
+            "Restaurant industry",
+            "SECTOR"
+        ],
+        [
+            "Nomura",
+            "ORG",
+            "Participates_In",
+            "Halftime Report",
+            "EVENT"
+        ]
+    ]
+}

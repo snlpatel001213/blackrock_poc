@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Major Winter Storm",
+            "EVENT",
+            "Drive_Up",
+            "Heating Demand",
+            "CONCEPT"
+        ],
+        [
+            "Major Winter Storm",
+            "EVENT",
+            "Impact",
+            "Energy Prices",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Eastern Half of U.S.",
+            "GPE",
+            "Grapples_With",
+            "Extreme Cold",
+            "CONCEPT"
+        ],
+        [
+            "National Weather Service",
+            "ORG",
+            "Issue",
+            "Warning",
+            "EVENT"
+        ],
+        [
+            "Warning",
+            "EVENT",
+            "Relate_To",
+            "Bitterly Cold Temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Warning",
+            "EVENT",
+            "Relate_To",
+            "Dangerous Wind Chills",
+            "CONCEPT"
+        ]
+    ]
+}

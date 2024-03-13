@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Announce",
+            "Earnings Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Doug Waggoner",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dave Menzel",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Kyle Sauers",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Operate_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Has",
+            "Proprietary Technology Platform",
+            "CONCEPT"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Control",
+            "Over 40,000 Transportation Providers",
+            "COMP"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Offer",
+            "Freight Brokerage",
+            "SERVICE"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Offer",
+            "Managed Transportation Solutions",
+            "SERVICE"
+        ],
+        [
+            "Echo Global Logistics",
+            "COMP",
+            "Serve",
+            "Clients across a Wide Range of Industries",
+            "SECTOR"
+        ]
+    ]
+}

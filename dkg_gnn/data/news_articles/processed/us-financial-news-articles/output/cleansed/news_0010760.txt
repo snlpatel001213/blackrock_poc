@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Jeffrey Saut",
+            "PERSON",
+            "Works_For",
+            "Raymond James",
+            "ORG"
+        ],
+        [
+            "Raymond James",
+            "ORG",
+            "Has",
+            "Chief_Investment_Strategist",
+            "PERSON"
+        ],
+        [
+            "Jeffrey Saut",
+            "PERSON",
+            "Participates_In",
+            "Markets_Rally",
+            "EVENT"
+        ],
+        [
+            "Markets_Rally",
+            "EVENT",
+            "Continue_Into",
+            "Mid-February",
+            "GPE"
+        ],
+        [
+            "Markets_Rally",
+            "EVENT",
+            "Drive_By",
+            "Stocks_Higher",
+            "CONCEPT"
+        ],
+        [
+            "Markets_Rally",
+            "EVENT",
+            "Impact_On",
+            "Valuations",
+            "CONCEPT"
+        ],
+        [
+            "Valuations",
+            "CONCEPT",
+            "Become",
+            "Too_Rich",
+            "CONCEPT"
+        ],
+        [
+            "Mark Luschini",
+            "PERSON",
+            "Works_For",
+            "Janney Montgomery Scott",
+            "ORG"
+        ],
+        [
+            "Janney Montgomery Scott",
+            "ORG",
+            "Has",
+            "Chief_Investment_Strategist",
+            "PERSON"
+        ],
+        [
+            "Mark Luschini",
+            "PERSON",
+            "Weigh_In_On",
+            "Markets_Rally",
+            "EVENT"
+        ]
+    ]
+}

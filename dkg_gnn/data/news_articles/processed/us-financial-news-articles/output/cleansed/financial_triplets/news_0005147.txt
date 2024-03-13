@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Has",
+            "Harker",
+            "PERSON"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Economic Activity",
+            "CONCEPT"
+        ],
+        [
+            "Harker",
+            "PERSON",
+            "Participates_In",
+            "Federal Open Market Committee",
+            "ORG/REG"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Has",
+            "Dual Mandate",
+            "CONCEPT"
+        ]
+    ]
+}

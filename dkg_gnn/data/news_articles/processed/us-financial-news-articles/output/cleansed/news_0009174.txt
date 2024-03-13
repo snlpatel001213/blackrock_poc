@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Sainsbury\u2019s",
+            "ORG",
+            "Acquisition",
+            "Argos",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Bigger_Competitor_Of",
+            "Sainsbury\u2019s",
+            "ORG"
+        ],
+        [
+            "Sainsbury\u2019s",
+            "ORG",
+            "Acquisition",
+            "Argos",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Competes_In",
+            "Same_Sector",
+            "SECTOR"
+        ]
+    ]
+}

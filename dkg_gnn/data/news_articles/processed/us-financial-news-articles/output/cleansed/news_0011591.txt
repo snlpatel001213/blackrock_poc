@@ -1,0 +1,96 @@
+{
+    "output": [
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "British foreign minister",
+            "ORG/GOV"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Invites",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Accepts",
+            "visit invitation",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Security sector",
+            "SECTOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Economic sector",
+            "SECTOR"
+        ],
+        [
+            "British foreign minister",
+            "ORG/GOV",
+            "Stresses",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Is_Important_To",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Makes",
+            "claim",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Tries",
+            "Trumpalise",
+            "Queen Elizabeth",
+            "PERSON"
+        ],
+        [
+            "Queen Elizabeth",
+            "PERSON",
+            "Can_Take",
+            "American president",
+            "PERSON"
+        ],
+        [
+            "Queen Elizabeth",
+            "PERSON",
+            "Reigns",
+            "65 years",
+            "TIME"
+        ],
+        [
+            "Harry S. Truman",
+            "PERSON",
+            "Is_First",
+            "U.S. President",
+            "PERSON"
+        ],
+        [
+            "Queen Elizabeth",
+            "PERSON",
+            "Has_Seen",
+            "U.S. Presidents",
+            "PERSON"
+        ]
+    ]
+}

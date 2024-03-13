@@ -1,0 +1,72 @@
+{
+    "output": [
+        [
+            "Revance Therapeutics Inc.",
+            "ORG",
+            "Provide",
+            "Update",
+            "CONCEPT"
+        ],
+        [
+            "Revance Therapeutics Inc.",
+            "ORG",
+            "Expects",
+            "Complete",
+            "VERB",
+            "RT002",
+            "PRODUCT",
+            "Sakura",
+            "EVENT",
+            "Phase",
+            "3",
+            "PRODUCT",
+            "Program",
+            "AND",
+            "Start",
+            "RT002",
+            "PRODUCT",
+            "Phase",
+            "3",
+            "TRIAL",
+            "FOR",
+            "Cervical",
+            "DYSTONIA",
+            "CONCEPT"
+        ],
+        [
+            "Revance Therapeutics Inc.",
+            "ORG",
+            "Expects",
+            "Cash",
+            "ECON_INDICATOR",
+            "Burn",
+            "VERB",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Revance Therapeutics Inc.",
+            "ORG",
+            "Anticipates",
+            "2018",
+            "TIME",
+            "GAAP",
+            "ECON_INDICATOR",
+            "Research",
+            "CONCEPT",
+            "and",
+            "Development",
+            "CONCEPT",
+            "Expense",
+            "VERB",
+            "IN",
+            "RANGE",
+            "OF",
+            "$84",
+            "TO",
+            "$101",
+            "MILLION",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

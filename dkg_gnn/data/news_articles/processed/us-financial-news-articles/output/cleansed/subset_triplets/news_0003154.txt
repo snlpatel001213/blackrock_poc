@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Three-month Copper",
+            "PRODUCT",
+            "Decrease",
+            "LME",
+            "ORG"
+        ],
+        [
+            "Most-traded Copper",
+            "PRODUCT",
+            "Decrease",
+            "SHFE",
+            "ORG"
+        ],
+        [
+            "Zinc",
+            "PRODUCT",
+            "Decrease",
+            "SHFE",
+            "ORG"
+        ],
+        [
+            "Lead",
+            "PRODUCT",
+            "Relate_To",
+            "Cold Weather",
+            "CONCEPT"
+        ],
+        [
+            "Lead",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Automobiles Batteries",
+            "PRODUCT"
+        ],
+        [
+            "Cold Freeze",
+            "CONCEPT",
+            "Impact",
+            "Eastern United States",
+            "GPE"
+        ],
+        [
+            "China Central Bank",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

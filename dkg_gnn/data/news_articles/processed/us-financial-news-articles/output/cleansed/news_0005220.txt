@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Terracon",
+            "ORG",
+            "Announce",
+            "Expansion",
+            "CONCEPT"
+        ],
+        [
+            "Terracon",
+            "ORG",
+            "Acquire",
+            "Engineered Concepts",
+            "ORG"
+        ],
+        [
+            "Engineered Concepts",
+            "ORG",
+            "Specialize",
+            "Building Enclosure, Structural Engineering, Facility Investigation Services",
+            "CONCEPT"
+        ],
+        [
+            "Engineered Concepts",
+            "ORG",
+            "Serve",
+            "Clients in Commercial, Education, Government Sectors",
+            "SECTOR"
+        ],
+        [
+            "Engineered Concepts",
+            "ORG",
+            "Operate_In",
+            "Southeast and Mid-Atlantic Regions",
+            "GPE"
+        ],
+        [
+            "Terracon",
+            "ORG",
+            "Retain",
+            "Engineered Concepts Employees",
+            "PERSON"
+        ],
+        [
+            "Engineered Concepts",
+            "ORG",
+            "Hold",
+            "Licenses in 11 States",
+            "GPE"
+        ],
+        [
+            "Terracon",
+            "ORG",
+            "Operate_In",
+            "Greensboro Area and Nationally",
+            "GPE"
+        ],
+        [
+            "Terracon",
+            "ORG",
+            "Provide",
+            "Environmental, Facilities, Geotechnical, Materials Services",
+            "CONCEPT"
+        ],
+        [
+            "Terracon",
+            "ORG",
+            "Rank",
+            "30th on Engineering News-Records List of Top 500 Design Firms",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

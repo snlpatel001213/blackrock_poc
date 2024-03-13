@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Operate_In",
+            "Burger Restaurants",
+            "ORG"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Introduce",
+            "Blockchain-related Technology",
+            "CONCEPT"
+        ],
+        [
+            "Blockchain-related Technology",
+            "CONCEPT",
+            "Relate_To",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Participates_In",
+            "Customer Rewards Program",
+            "CONCEPT"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Raise",
+            "Nearly 50 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chanticleer Holdings",
+            "COMP",
+            "Operate_In",
+            "Nasdaq",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

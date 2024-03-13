@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Uber Technologies",
+            "COMP",
+            "Operate_In",
+            "Ride-hailing Company",
+            "ORG"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Has",
+            "10%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Sell",
+            "29%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Is_Member_Of",
+            "Uber",
+            "COMP"
+        ],
+        [
+            "SoftBank Group",
+            "ORG",
+            "Buy",
+            "Equity",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Valuing",
+            "$48B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Pressured",
+            "Resign",
+            "EVENT"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Clash",
+            "Benchmark",
+            "ORG"
+        ],
+        [
+            "Benchmark",
+            "ORG",
+            "Sell",
+            "Part of Stake",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Go_Into_Effect",
+            "Governance Reforms",
+            "CONCEPT"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Reduce",
+            "Influence",
+            "CONCEPT"
+        ]
+    ]
+}

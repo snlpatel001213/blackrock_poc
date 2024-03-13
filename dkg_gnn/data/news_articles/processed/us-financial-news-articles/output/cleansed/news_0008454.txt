@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "ITALEAF SPA",
+            "ORG",
+            "Says_That",
+            "Ternienergia",
+            "ORG"
+        ],
+        [
+            "Ternienergia",
+            "ORG",
+            "Sold",
+            "Lighting Saving System",
+            "PRODUCT",
+            "Consideration",
+            "EUR 480,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lighting Saving System",
+            "PRODUCT",
+            "Relate_To",
+            "Cement Factory",
+            "GPE"
+        ],
+        [
+            "Cement Factory",
+            "GPE",
+            "Located_In",
+            "Sicily",
+            "GPE"
+        ],
+        [
+            "Ternienergia",
+            "ORG",
+            "Sold",
+            "Energy Saving Worksite",
+            "PRODUCT",
+            "Consideration",
+            "EUR 1.7 MILLION",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy Saving Worksite",
+            "PRODUCT",
+            "Relate_To",
+            "Building",
+            "PRODUCT"
+        ],
+        [
+            "Building",
+            "PRODUCT",
+            "Located_In",
+            "Turin",
+            "GPE"
+        ],
+        [
+            "Ternienergia",
+            "ORG",
+            "Disposals_Provide_For",
+            "Consideration",
+            "ECON_INDICATOR",
+            "EUR 1 MILLION",
+            "ECON_INDICATOR",
+            "EUR 170,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "EUR 1 MILLION",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Trade Payables",
+            "CONCEPT"
+        ],
+        [
+            "EUR 170,000",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Work Still To Be Carried Out",
+            "CONCEPT"
+        ]
+    ]
+}

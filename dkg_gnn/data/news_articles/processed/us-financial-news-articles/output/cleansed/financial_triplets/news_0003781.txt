@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Linux",
+            "PRODUCT",
+            "Raise",
+            "Patch",
+            "PRODUCT"
+        ],
+        [
+            "Windows",
+            "PRODUCT",
+            "Raise",
+            "Patch",
+            "PRODUCT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Intel Chips",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Chips",
+            "ORG"
+        ]
+    ]
+}

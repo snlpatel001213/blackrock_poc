@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Real Madrid",
+            "COMP",
+            "Has",
+            "Ramos",
+            "PERSON"
+        ],
+        [
+            "Ramos",
+            "PERSON",
+            "Impact",
+            "Real Madrid",
+            "COMP"
+        ],
+        [
+            "Real Madrid",
+            "COMP",
+            "Participates_In",
+            "La Liga Santander",
+            "SECTOR"
+        ],
+        [
+            "Real Madrid",
+            "COMP",
+            "Control",
+            "Benzema",
+            "PERSON"
+        ],
+        [
+            "Real Madrid",
+            "COMP",
+            "Control",
+            "Bale",
+            "PERSON"
+        ],
+        [
+            "Bale",
+            "PERSON",
+            "Relate_To",
+            "Injuries"
+        ],
+        [
+            "Real Madrid",
+            "COMP",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ]
+    ]
+}

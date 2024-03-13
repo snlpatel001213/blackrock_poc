@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "NIHON PLAST Co Ltd",
+            "COMP",
+            "Raise",
+            "462.8 million yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NIHON PLAST Co Ltd",
+            "COMP",
+            "Distribute",
+            "475,000 shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "475,000 shares",
+            "FIN_INSTRUMENT",
+            "Has",
+            "NIHON PLAST Co Ltd",
+            "COMP"
+        ],
+        [
+            "462.8 million yen",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "NIHON PLAST Co Ltd",
+            "COMP"
+        ],
+        [
+            "NIHON PLAST Co Ltd",
+            "COMP",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ]
+    ]
+}

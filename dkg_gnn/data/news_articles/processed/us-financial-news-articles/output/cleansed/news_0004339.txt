@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Masco Corporation",
+            "COMP",
+            "Announce",
+            "2017 fourth quarter and full-year results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Operate_In",
+            "Home Improvement and Building Products",
+            "SECTOR"
+        ],
+        [
+            "Keith Allman",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "Behr",
+            "BRAND"
+        ],
+        [
+            "Behr",
+            "BRAND",
+            "Relate_To",
+            "Paint",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "Delta",
+            "BRAND"
+        ],
+        [
+            "Delta",
+            "BRAND",
+            "Relate_To",
+            "Faucets",
+            "PRODUCT"
+        ],
+        [
+            "Delta",
+            "BRAND",
+            "Relate_To",
+            "Bath and Shower Fixtures",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "Hansgrohe",
+            "BRAND"
+        ],
+        [
+            "Hansgrohe",
+            "BRAND",
+            "Relate_To",
+            "Faucets",
+            "PRODUCT"
+        ],
+        [
+            "Hansgrohe",
+            "BRAND",
+            "Relate_To",
+            "Bath and Shower Fixtures",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "KraftMaid",
+            "BRAND"
+        ],
+        [
+            "KraftMaid",
+            "BRAND",
+            "Relate_To",
+            "Cabinets",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "Merillat",
+            "BRAND"
+        ],
+        [
+            "Merillat",
+            "BRAND",
+            "Relate_To",
+            "Cabinets",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "Milgard",
+            "BRAND"
+        ],
+        [
+            "Milgard",
+            "BRAND",
+            "Relate_To",
+            "Windows and Doors",
+            "PRODUCT"
+        ],
+        [
+            "Masco Corporation",
+            "COMP",
+            "Control",
+            "HotSpring",
+            "BRAND"
+        ],
+        [
+            "HotSpring",
+            "BRAND",
+            "Relate_To",
+            "Spas",
+            "PRODUCT"
+        ]
+    ]
+}

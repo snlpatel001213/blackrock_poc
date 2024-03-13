@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Taco Bell",
+            "COMP",
+            "Announce",
+            "Nacho Fries",
+            "PRODUCT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Operate_In",
+            "Fast Food Industry",
+            "SECTOR"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Has",
+            "Dollar Menu",
+            "PRODUCT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Raise",
+            "$1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Participates_In",
+            "Value Promotions",
+            "CONCEPT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Has",
+            "Supreme Fries",
+            "PRODUCT"
+        ],
+        [
+            "Supreme Fries",
+            "PRODUCT",
+            "Control",
+            "Pico de Gallo",
+            "PRODUCT"
+        ],
+        [
+            "Supreme Fries",
+            "PRODUCT",
+            "Control",
+            "Beef",
+            "PRODUCT"
+        ],
+        [
+            "Supreme Fries",
+            "PRODUCT",
+            "Control",
+            "Sour Cream",
+            "PRODUCT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Has",
+            "Bell Grande Fries",
+            "PRODUCT"
+        ],
+        [
+            "Bell Grande Fries",
+            "PRODUCT",
+            "Control",
+            "Pico de Gallo",
+            "PRODUCT"
+        ],
+        [
+            "Bell Grande Fries",
+            "PRODUCT",
+            "Control",
+            "Beef",
+            "PRODUCT"
+        ],
+        [
+            "Bell Grande Fries",
+            "PRODUCT",
+            "Control",
+            "Sour Cream",
+            "PRODUCT"
+        ],
+        [
+            "Bell Grande Fries",
+            "PRODUCT",
+            "Relate_To",
+            "Larger",
+            "CONCEPT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Has",
+            "$5 Box",
+            "PRODUCT"
+        ],
+        [
+            "$5 Box",
+            "PRODUCT",
+            "Include",
+            "Nacho Fries",
+            "PRODUCT"
+        ],
+        [
+            "$5 Box",
+            "PRODUCT",
+            "Include",
+            "Doritos Locos Taco",
+            "PRODUCT"
+        ],
+        [
+            "$5 Box",
+            "PRODUCT",
+            "Include",
+            "Cheesy Gordita Crunch",
+            "PRODUCT"
+        ],
+        [
+            "$5 Box",
+            "PRODUCT",
+            "Include",
+            "Medium Drink",
+            "PRODUCT"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Impact",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taco Bell",
+            "COMP",
+            "Impact",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jack in the Box",
+            "COMP",
+            "Introduce",
+            "Value Menu",
+            "PRODUCT"
+        ],
+        [
+            "McDonalds",
+            "COMP",
+            "Relaunch",
+            "Dollar Menu",
+            "PRODUCT"
+        ],
+        [
+            "Fast Food Industry",
+            "SECTOR",
+            "Impact",
+            "Value Promotions",
+            "CONCEPT"
+        ]
+    ]
+}

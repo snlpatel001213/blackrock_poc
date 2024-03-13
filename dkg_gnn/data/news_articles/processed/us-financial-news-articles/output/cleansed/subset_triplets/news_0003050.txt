@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Negative_Impact_On",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Has",
+            "Turkish banker",
+            "PERSON"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Operate_In",
+            "Turkey",
+            "GPE"
+        ]
+    ]
+}

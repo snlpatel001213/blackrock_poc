@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Washington",
+            "GPE",
+            "Sue",
+            "Motel 6",
+            "ORG"
+        ],
+        [
+            "Motel 6",
+            "ORG",
+            "Provide",
+            "Detailed Information",
+            "CONCEPT"
+        ],
+        [
+            "Motel 6",
+            "ORG",
+            "Violate",
+            "State Consumer Protection Law",
+            "CONCEPT"
+        ],
+        [
+            "Washington Attorney General Bob Ferguson",
+            "PERSON",
+            "Announce",
+            "Suit",
+            "ORG"
+        ],
+        [
+            "Motel 6",
+            "ORG",
+            "Operate_In",
+            "Hotel Chain",
+            "COMP"
+        ],
+        [
+            "Motel 6",
+            "ORG",
+            "Provide",
+            "Guest Lists",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Immigration and Customs Enforcement",
+            "ORG/GOV",
+            "Receive",
+            "Guest Lists",
+            "CONCEPT"
+        ],
+        [
+            "Guest Lists",
+            "CONCEPT",
+            "Include",
+            "Names",
+            "CONCEPT"
+        ],
+        [
+            "Guest Lists",
+            "CONCEPT",
+            "Include",
+            "Driver\u2019s License Numbers",
+            "CONCEPT"
+        ],
+        [
+            "Guest Lists",
+            "CONCEPT",
+            "Include",
+            "Dates of Birth",
+            "CONCEPT"
+        ],
+        [
+            "Guest Lists",
+            "CONCEPT",
+            "Include",
+            "Room Numbers",
+            "CONCEPT"
+        ]
+    ]
+}

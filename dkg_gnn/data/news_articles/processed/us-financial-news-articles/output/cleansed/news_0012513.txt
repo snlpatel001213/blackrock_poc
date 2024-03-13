@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Nvidia",
+            "COMP",
+            "Reveal",
+            "Aurora Innovation",
+            "ORG"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Use",
+            "Nvidia Xavier Processor",
+            "COMP"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Operate_In",
+            "Self-driving Vehicle Industry",
+            "SECTOR"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Work_With",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Work_With",
+            "Baidu",
+            "ORG"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Work_With",
+            "Volkswagen",
+            "ORG"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Produce",
+            "Xavier Processor",
+            "PRODUCT"
+        ],
+        [
+            "Xavier Processor",
+            "PRODUCT",
+            "Deliver",
+            "30 Trillion Deep Learning Operations Per Second",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Xavier Processor",
+            "PRODUCT",
+            "Use",
+            "30 Watts Of Power",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Announce",
+            "Partnerships With Volkswagen Group And Hyundai",
+            "ORG"
+        ],
+        [
+            "Volkswagen Group",
+            "ORG",
+            "Plan",
+            "Launch Commercial Fleets Of Self-driving Electric Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Founded_By",
+            "Sterling Anderson",
+            "PERSON"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Founded_By",
+            "Drew Bagnell",
+            "PERSON"
+        ],
+        [
+            "Aurora Innovation",
+            "ORG",
+            "Founded_By",
+            "Chris Urmson",
+            "PERSON"
+        ],
+        [
+            "Sterling Anderson",
+            "PERSON",
+            "Former_Director",
+            "Tesla Autopilot Program",
+            "PRODUCT"
+        ],
+        [
+            "Drew Bagnell",
+            "PERSON",
+            "Headed",
+            "Uber Autonomy And Perception Team",
+            "PRODUCT"
+        ],
+        [
+            "Chris Urmson",
+            "PERSON",
+            "Former_Head",
+            "Google Self-driving Project",
+            "PRODUCT"
+        ]
+    ]
+}

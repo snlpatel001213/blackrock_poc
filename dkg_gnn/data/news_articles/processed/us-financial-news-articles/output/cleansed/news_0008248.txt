@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Decrease",
+            "44%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Scrap",
+            "intepirdine program",
+            "CONCEPT"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Fail",
+            "mid-stage study",
+            "EVENT"
+        ],
+        [
+            "intepirdine",
+            "PRODUCT",
+            "Not_Improve",
+            "motor function",
+            "CONCEPT"
+        ],
+        [
+            "intepirdine",
+            "PRODUCT",
+            "Fail",
+            "late-stage trial",
+            "EVENT"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Stop",
+            "testing intepirdine",
+            "PRODUCT"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "No_Evidence",
+            "further development",
+            "CONCEPT"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Test",
+            "dementia with Lewy bodies",
+            "GPE"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Fall",
+            "78%",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

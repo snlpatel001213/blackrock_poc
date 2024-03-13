@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "P10 Holdings",
+            "ORG",
+            "Operate_In",
+            "Dallas, Texas",
+            "GPE"
+        ],
+        [
+            "P10 Holdings",
+            "ORG",
+            "Has",
+            "Subsidiary",
+            "ORG"
+        ],
+        [
+            "Subsidiary",
+            "ORG",
+            "Is_Member_Of",
+            "Alternative Asset Management",
+            "SECTOR"
+        ]
+    ]
+}

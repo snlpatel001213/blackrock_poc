@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "STAG Industrial, Inc.",
+            "ORG",
+            "Announce",
+            "Company",
+            "ORG"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Release",
+            "Fourth quarter 2017 operating and financial results",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Host",
+            "Quarterly earnings conference call",
+            "EVENT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Access",
+            "Toll-free by dialing (877) 407-4018",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Access",
+            "For international callers, (201) 689-8471",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Replay",
+            "Shortly after the call",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Access",
+            "Toll-free by dialing (844) 512-2921",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Access",
+            "For international callers, (412) 317-6671",
+            "CONCEPT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Replay",
+            "Passcode for the replay is 13675090",
+            "CONCEPT"
+        ],
+        [
+            "STAG Industrial, Inc.",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Portfolio",
+            "347 properties in 37 states",
+            "GPE"
+        ],
+        [
+            "Portfolio",
+            "ORG",
+            "Consist_Of",
+            "Approximately 69 million rentable square feet",
+            "CONCEPT"
+        ]
+    ]
+}

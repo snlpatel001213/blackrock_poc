@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Monsanto Co.",
+            "COMP",
+            "Anticipate",
+            "Reaping Bigger Profits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Monsanto Co.",
+            "COMP",
+            "Produce",
+            "Roundup Herbicide",
+            "PRODUCT"
+        ],
+        [
+            "Roundup Herbicide",
+            "PRODUCT",
+            "Has",
+            "Glyphosate",
+            "CONCEPT"
+        ],
+        [
+            "Glyphosate",
+            "CONCEPT",
+            "Control",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Monsanto Co.",
+            "COMP",
+            "Participates_In",
+            "Planned Sale",
+            "EVENT"
+        ],
+        [
+            "Bayer AG",
+            "COMP",
+            "Control",
+            "Planned Sale",
+            "EVENT"
+        ],
+        [
+            "Planned Sale",
+            "EVENT",
+            "Relate_To",
+            "Monsanto Co.",
+            "COMP"
+        ],
+        [
+            "Planned Sale",
+            "EVENT",
+            "Relate_To",
+            "Bayer AG",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "WiLAN Inc",
+            "PERSON",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "TSMC",
+            "ORG",
+            "Participates_In",
+            "IP Framework Agreement",
+            "CONCEPT"
+        ],
+        [
+            "WiLAN Inc",
+            "PERSON",
+            "Announce",
+            "7-Year Intellectual Property Framework Agreement",
+            "CONCEPT"
+        ],
+        [
+            "TSMC",
+            "ORG",
+            "Control",
+            "Taiwan Semiconductor Manufacturing Co",
+            "ORG"
+        ],
+        [
+            "WiLAN Inc",
+            "PERSON",
+            "Is_Member_Of",
+            "Polaris Innovations Limited Portfolio",
+            "CONCEPT"
+        ]
+    ]
+}

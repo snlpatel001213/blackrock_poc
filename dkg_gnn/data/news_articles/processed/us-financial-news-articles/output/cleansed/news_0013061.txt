@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "U.S. Wholesale Inventories",
+            "ECON_INDICATOR",
+            "Rebound",
+            "November",
+            "TIME"
+        ],
+        [
+            "U.S. Wholesale Inventories",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Fourth Quarter",
+            "TIME"
+        ],
+        [
+            "Wholesale Inventories",
+            "ECON_INDICATOR",
+            "Increase",
+            "0.8 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Wholesale Inventories",
+            "ECON_INDICATOR",
+            "Impact",
+            "Economic Growth",
+            "CONCEPT"
+        ],
+        [
+            "Wholesale Stocks Excluding Autos",
+            "ECON_INDICATOR",
+            "Increase",
+            "0.8 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Inventory Investment",
+            "ECON_INDICATOR",
+            "Contribute",
+            "0.8 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Inventory Investment",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Economy\u2019s 3.2 % Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Auto Inventories",
+            "ECON_INDICATOR",
+            "Increase",
+            "0.7 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Auto Inventories",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "October\u2019s 0.7 % Drop",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inventories of Petroleum, Machinery and Electrical Goods",
+            "ECON_INDICATOR",
+            "Increase",
+            null,
+            null
+        ],
+        [
+            "Sales at Wholesalers",
+            "ECON_INDICATOR",
+            "Shoot Up",
+            "1.5 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Sales of Motor Vehicles",
+            "ECON_INDICATOR",
+            "Rise",
+            "1.2 %",
+            "PERCENTAGE"
+        ],
+        [
+            "Wholesalers",
+            "ECON_INDICATOR",
+            "Take",
+            "1.24 Months",
+            "TIME"
+        ],
+        [
+            "Wholesalers",
+            "ECON_INDICATOR",
+            "Clear Shelves",
+            null,
+            null
+        ],
+        [
+            "November",
+            "TIME",
+            "Follow",
+            "October",
+            "TIME"
+        ]
+    ]
+}

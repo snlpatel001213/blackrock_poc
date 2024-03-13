@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Located_In",
+            "Los Angeles",
+            "GPE"
+        ],
+        [
+            "Rachel Brosnahan",
+            "PERSON",
+            "Participates_In",
+            "Time\u2019s Up",
+            "CONCEPT"
+        ],
+        [
+            "Rachel Brosnahan",
+            "PERSON",
+            "Wear",
+            "Pale pink shimmering Zuhair Murad dress",
+            "PRODUCT"
+        ],
+        [
+            "Angelina Jolie",
+            "PERSON",
+            "Wear",
+            "White gown",
+            "PRODUCT"
+        ],
+        [
+            "Greta Gerwig",
+            "PERSON",
+            "Wear",
+            "White gown",
+            "PRODUCT"
+        ],
+        [
+            "Nicole Kidman",
+            "PERSON",
+            "Wear",
+            "Bold tones",
+            "PRODUCT"
+        ],
+        [
+            "Jessica Chastain",
+            "PERSON",
+            "Wear",
+            "Bold tones",
+            "PRODUCT"
+        ],
+        [
+            "Allison Janney",
+            "PERSON",
+            "Wear",
+            "Bold tones",
+            "PRODUCT"
+        ],
+        [
+            "Time\u2019s Up",
+            "CONCEPT",
+            "Message",
+            "Hollywood\u2019s awards season",
+            "EVENT"
+        ],
+        [
+            "Laura Brosnahan",
+            "PERSON",
+            "Editor-in-Chief",
+            "InStyle",
+            "COMP"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Raise",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Black",
+            "COLOR",
+            "Rule",
+            "Every show",
+            "EVENT"
+        ],
+        [
+            "Unity",
+            "CONCEPT",
+            "Vital",
+            "Night",
+            "TIME"
+        ],
+        [
+            "InStyle",
+            "COMP",
+            "Hopefully",
+            "Marry",
+            "Verb"
+        ],
+        [
+            "Designers",
+            "COMP",
+            "Conscious",
+            "Movement",
+            "CONCEPT"
+        ]
+    ]
+}

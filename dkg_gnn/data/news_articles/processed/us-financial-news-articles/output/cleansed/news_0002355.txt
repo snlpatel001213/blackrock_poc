@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Scrap",
+            "OneStim",
+            "ORG"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Sell",
+            "Hydraulic Fracturing Business",
+            "ORG"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Operate_In",
+            "Oilfield Services Industry",
+            "SECTOR"
+        ],
+        [
+            "Schlumberger",
+            "ORG",
+            "Buy",
+            "Hydraulic Fracturing Business",
+            "ORG"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Has",
+            "$7.9 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Raise",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Decrease",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Negative_Impact_On",
+            "Investor Reaction",
+            "CONCEPT"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Produce",
+            "Lower Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Schlumberger",
+            "ORG",
+            "Operate_In",
+            "Oilfield Services Industry",
+            "SECTOR"
+        ],
+        [
+            "Keane Group",
+            "ORG",
+            "Share_Prices_Increase",
+            "37 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Control",
+            "30 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OneStim",
+            "ORG",
+            "Contribute_To",
+            "Earnings",
+            "CONCEPT"
+        ],
+        [
+            "Schlumberger",
+            "ORG",
+            "Acquire",
+            "Cameron",
+            "ORG"
+        ],
+        [
+            "OneSubsea",
+            "ORG",
+            "Joint Venture",
+            "Schlumberger",
+            "ORG"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Monetize",
+            "30 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Schlumberger",
+            "ORG",
+            "Want",
+            "100 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OneSubsea",
+            "ORG",
+            "Joint Venture",
+            "Schlumberger",
+            "ORG"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Share_Prices_Decrease",
+            "18 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Schlumberger",
+            "ORG",
+            "Share_Prices_Increase",
+            "3 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

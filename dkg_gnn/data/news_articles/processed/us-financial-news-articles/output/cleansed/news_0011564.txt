@@ -1,0 +1,73 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Create",
+            "new internal cybersecurity group",
+            "ORG"
+        ],
+        [
+            "new internal cybersecurity group",
+            "ORG",
+            "Run_By",
+            "Leslie Culberstone",
+            "PERSON"
+        ],
+        [
+            "Leslie Culberstone",
+            "PERSON",
+            "Work_At",
+            "Intel",
+            "COMP"
+        ],
+        [
+            "new internal cybersecurity group",
+            "ORG",
+            "Named",
+            "Intel Product Assurance and Security",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Confirm",
+            "security issues",
+            "CONCEPT"
+        ],
+        [
+            "security issues",
+            "CONCEPT",
+            "Relate_To",
+            "Intel widely used microprocessors",
+            "COMP"
+        ],
+        [
+            "security issues",
+            "CONCEPT",
+            "Allow",
+            "hackers to steal sensitive information",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Appoint",
+            "Steve Smith",
+            "PERSON",
+            "To",
+            "newly formed group",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Reassign",
+            "several top executives",
+            "PERSON",
+            "To",
+            "new organization",
+            "ORG"
+        ]
+    ]
+}

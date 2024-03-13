@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "ORG",
+            "Announce",
+            "New Headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Operate_In",
+            "Second Corporate Headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Positive_Impact_On",
+            "50000 High Paying Jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Raise",
+            "Odds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Relate_To",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Austin",
+            "GPE",
+            "Raise",
+            "Odds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Austin",
+            "GPE",
+            "Relate_To",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Philadelphia",
+            "GPE",
+            "Raise",
+            "Odds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Raise",
+            "Odds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chicago",
+            "GPE",
+            "Participates_In",
+            "Amazon Headquarters Race",
+            "EVENT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Participates_In",
+            "Amazon Headquarters Race",
+            "EVENT"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "Participates_In",
+            "Amazon Headquarters Race",
+            "EVENT"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Decrease",
+            "Odds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Relate_To",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Control",
+            "Lobbyist",
+            "ORG"
+        ],
+        [
+            "PaddyPower",
+            "ORG",
+            "Operate_In",
+            "Prediction Markets",
+            "CONCEPT"
+        ],
+        [
+            "PaddyPower",
+            "ORG",
+            "Invests_In",
+            "World Events",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Negative_Impact_On",
+            "President Trump",
+            "PERSON"
+        ]
+    ]
+}

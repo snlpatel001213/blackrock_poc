@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "India",
+            "GPE",
+            "Consider",
+            "Arunachal Pradesh",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Claim",
+            "Arunachal Pradesh",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Claim",
+            "Southern Tibet",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Fought",
+            "War",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Advance",
+            "Upper Siang district",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Construct",
+            "Road",
+            "PRODUCT"
+        ],
+        [
+            "Indian troops",
+            "ORG",
+            "Confront",
+            "China",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Seize",
+            "Construction equipment",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Not recognize",
+            "Arunachal Pradesh",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Compete",
+            "India",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Compete",
+            "India",
+            "GPE",
+            "For",
+            "Political influence",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Compete",
+            "India",
+            "GPE",
+            "For",
+            "Economic influence",
+            "CONCEPT"
+        ]
+    ]
+}

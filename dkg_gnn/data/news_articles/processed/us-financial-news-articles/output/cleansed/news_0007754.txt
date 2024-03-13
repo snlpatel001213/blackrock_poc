@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Gov. Andrew Cuomo",
+            "PERSON/ORG/GOV",
+            "Lay_Out",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Gov. Andrew Cuomo",
+            "PERSON/ORG/GOV",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Relate_To",
+            "New York\u2019s Tax Code",
+            "CONCEPT"
+        ],
+        [
+            "New Year",
+            "EVENT",
+            "Temporal_Relation",
+            "Lay_Out",
+            "Relate_To"
+        ],
+        [
+            "New Federal Tax Law",
+            "EVENT",
+            "Negative_Impact_On",
+            "High-Tax Blue States",
+            "GPE"
+        ],
+        [
+            "High-Tax Blue States",
+            "GPE",
+            "Include",
+            "New York",
+            "GPE"
+        ],
+        [
+            "High-Tax Blue States",
+            "GPE",
+            "Include",
+            "New Jersey",
+            "GPE"
+        ],
+        [
+            "High-Tax Blue States",
+            "GPE",
+            "Include",
+            "California",
+            "GPE"
+        ],
+        [
+            "Gov. Andrew Cuomo",
+            "PERSON/ORG/GOV",
+            "Pledge",
+            "Put_That_Issue_At_The_Center",
+            "CONCEPT"
+        ],
+        [
+            "Aides",
+            "PERSON",
+            "Explore",
+            "Plan",
+            "CONCEPT"
+        ]
+    ]
+}

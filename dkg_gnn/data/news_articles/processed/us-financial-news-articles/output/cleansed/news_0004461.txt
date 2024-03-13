@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Businesses",
+            "ORG",
+            "Compete_For",
+            "Full-time Programmers",
+            "PERSON"
+        ],
+        [
+            "Businesses",
+            "ORG",
+            "Hire",
+            "Freelancers and Consultants",
+            "PERSON"
+        ],
+        [
+            "Forrester",
+            "ORG",
+            "Predict",
+            "Acceleration in Spending on Outsourced Software Help",
+            "PRODUCT"
+        ],
+        [
+            "2018",
+            "TIME",
+            "Relate_To",
+            "Prediction of Forrester",
+            "ORG"
+        ],
+        [
+            "Cisco",
+            "COMP",
+            "Use",
+            "Tara AI",
+            "COMP"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Use",
+            "Tara AI",
+            "COMP"
+        ],
+        [
+            "Orange Telecom",
+            "COMP",
+            "Use",
+            "Tara AI",
+            "COMP"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Develop",
+            "Scraping Engine",
+            "PRODUCT"
+        ],
+        [
+            "Scraping Engine",
+            "PRODUCT",
+            "Scour",
+            "Open Web",
+            "CONCEPT"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Have",
+            "CEO and Co-founder",
+            "PERSON"
+        ],
+        [
+            "CEO and Co-founder",
+            "PERSON",
+            "Name",
+            "Iba Masood",
+            "PERSON"
+        ],
+        [
+            "Iba Masood",
+            "PERSON",
+            "Say",
+            "Company has Raised $3 Million in Seed Funding",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Face",
+            "Competition",
+            "CONCEPT"
+        ],
+        [
+            "Competition",
+            "CONCEPT",
+            "Come",
+            "Large Tech Consultancies",
+            "ORG"
+        ],
+        [
+            "Competition",
+            "CONCEPT",
+            "Come",
+            "Freelancer and Developer Marketplaces Online",
+            "ORG"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Intend",
+            "Platform to be Go-to Resource",
+            "CONCEPT"
+        ],
+        [
+            "Platform",
+            "PRODUCT",
+            "Serve",
+            "Businesses in Need of Contractors",
+            "PERSON"
+        ],
+        [
+            "Contractors",
+            "PERSON",
+            "Have",
+            "Specialized Programming Skills",
+            "CONCEPT"
+        ],
+        [
+            "Specialized Programming Skills",
+            "CONCEPT",
+            "Include",
+            "Data Analytics, Machine Learning and Mobile",
+            "SECTOR"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Investors_In",
+            "Y Combinator",
+            "ORG"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Investors_In",
+            "Moment Ventures",
+            "ORG"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Investors_In",
+            "GSV",
+            "ORG"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Investors_In",
+            "Lattice VC",
+            "ORG"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Investors_In",
+            "Jaan Tallinn",
+            "PERSON"
+        ],
+        [
+            "New Funding",
+            "FIN_INSTRUMENT",
+            "Help",
+            "Tara AI",
+            "COMP"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Grow",
+            "Full-time Employees",
+            "PERSON"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Establish",
+            "Office in Buffalo, New York",
+            "GPE"
+        ],
+        [
+            "Tara AI",
+            "COMP",
+            "Develop",
+            "Bug Prediction Algorithms",
+            "PRODUCT"
+        ],
+        [
+            "Bug Prediction Algorithms",
+            "PRODUCT",
+            "Augment",
+            "Skills of Programmers",
+            "PERSON"
+        ],
+        [
+            "Programmers",
+            "PERSON",
+            "Cut",
+            "Time to Finalize Code",
+            "PRODUCT"
+        ]
+    ]
+}

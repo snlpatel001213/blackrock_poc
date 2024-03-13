@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Baptise",
+            "34 Infants",
+            "GPE"
+        ],
+        [
+            "34 Infants",
+            "GPE",
+            "Be_Baptised_By",
+            "Pope Francis",
+            "PERSON"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Speak",
+            "Short Improvisied Homily",
+            "CONCEPT"
+        ],
+        [
+            "Short Improvisied Homily",
+            "CONCEPT",
+            "Speak_About",
+            "Breastfeed",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Encourage",
+            "Breastfeed",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Face_Harassment",
+            "Breastfeed",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Make_Similar_Comments",
+            "Past Ceremonies",
+            "CONCEPT"
+        ],
+        [
+            "Television Pictures",
+            "PRODUCT",
+            "Show",
+            "Mother Bottle-Feed",
+            "CONCEPT"
+        ],
+        [
+            "Papal Baptism",
+            "EVENT",
+            "Restricted_To",
+            "Children_Of",
+            "PERSON"
+        ],
+        [
+            "Children_Of",
+            "PERSON",
+            "Restricted_To",
+            "Papal Baptism",
+            "EVENT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Bishop_Of",
+            "Italian Capital",
+            "GPE"
+        ],
+        [
+            "Sistine Chapel",
+            "GPE",
+            "Have",
+            "Most Famous Frescoes",
+            "CONCEPT"
+        ],
+        [
+            "Most Famous Frescoes",
+            "CONCEPT",
+            "Have",
+            "Sistine Chapel",
+            "GPE"
+        ],
+        [
+            "Michelangelo",
+            "PERSON",
+            "Paint",
+            "Frescoes",
+            "CONCEPT"
+        ],
+        [
+            "Frescoes",
+            "CONCEPT",
+            "Painted_By",
+            "Michelangelo",
+            "PERSON"
+        ]
+    ]
+}

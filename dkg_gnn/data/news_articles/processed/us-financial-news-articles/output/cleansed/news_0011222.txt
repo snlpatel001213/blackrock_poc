@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Spark Therapeutics",
+            "COMP",
+            "Announce",
+            "Plans",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Spark Therapeutics CEO",
+            "PERSON",
+            "Says",
+            "Plans",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics CEO",
+            "PERSON",
+            "Says",
+            "Expects",
+            "CONCEPT"
+        ],
+        [
+            "Luxturna Gene Therapy",
+            "PRODUCT",
+            "Be",
+            "Available",
+            "CONCEPT"
+        ],
+        [
+            "Luxturna Gene Therapy",
+            "PRODUCT",
+            "To",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "Luxturna Gene Therapy",
+            "PRODUCT",
+            "In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

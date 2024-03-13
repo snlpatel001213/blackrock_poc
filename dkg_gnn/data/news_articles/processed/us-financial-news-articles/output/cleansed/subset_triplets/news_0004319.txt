@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Spotify",
+            "COMP",
+            "Relate_To",
+            "Music",
+            "CONCEPT"
+        ],
+        [
+            "Spotify",
+            "COMP",
+            "Positive_Impact_On",
+            "Music",
+            "CONCEPT"
+        ],
+        [
+            "Lead Edge Capital",
+            "ORG",
+            "Invests_In",
+            "Spotify",
+            "COMP"
+        ],
+        [
+            "Mitch Green",
+            "PERSON",
+            "Is_Member_Of",
+            "Lead Edge Capital",
+            "ORG"
+        ],
+        [
+            "Balaji Srinivasan",
+            "PERSON",
+            "Participates_In",
+            "Discussion",
+            "CONCEPT"
+        ]
+    ]
+}

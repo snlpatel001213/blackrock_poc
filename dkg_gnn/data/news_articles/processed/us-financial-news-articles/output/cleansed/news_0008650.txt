@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "New York & Company Inc",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "New York & Company Inc",
+            "COMP",
+            "Comment_On",
+            "Holiday Performance",
+            "CONCEPT"
+        ],
+        [
+            "New York & Company Inc",
+            "COMP",
+            "Expect",
+            "Comparable Store Sales for Q4",
+            "CONCEPT",
+            "Up",
+            "Low Single-Digit Percentage Range",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York & Company Inc",
+            "COMP",
+            "Expect",
+            "Q4 Operating Income",
+            "CONCEPT",
+            "In Range",
+            "$2 Million - $4 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York & Company Inc",
+            "COMP",
+            "Comparable Store Sales for Nine-Week Period Ended Dec 30, 2017",
+            "Increase",
+            "About 3%",
+            "As Compared",
+            "Prior Year Period",
+            "CONCEPT"
+        ]
+    ]
+}

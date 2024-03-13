@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "governor of Jerusalem",
+            "PERSON",
+            "Operate_In",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "governor of Jerusalem",
+            "PERSON",
+            "Is_Member_Of",
+            "local position",
+            "SECTOR"
+        ],
+        [
+            "Antiquities Authority",
+            "ORG",
+            "Announce",
+            "find",
+            "PRODUCT"
+        ]
+    ]
+}

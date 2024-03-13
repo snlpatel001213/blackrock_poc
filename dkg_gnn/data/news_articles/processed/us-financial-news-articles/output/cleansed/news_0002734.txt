@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Threaten",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Charged_With",
+            "Threatening_The_President",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Charged_With",
+            "Other_Charges",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Post",
+            "Online_Tip_Line",
+            "PRODUCT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Threaten",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Call",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Threaten",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Threaten",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Convey",
+            "False_Information",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Threaten",
+            "Harm",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Face",
+            "11_Criminal_Counts",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Plead_Guilty",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Travis Luke Dominguez",
+            "PERSON",
+            "Face",
+            "Potential_Sentence",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Be",
+            "President",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Visit",
+            "Utah",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Speak",
+            "At_State_Capitol",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Be",
+            "Western_State",
+            "GPE"
+        ],
+        [
+            "Local_Police",
+            "ORG",
+            "Have_Online_Tip_Line",
+            "null",
+            "null"
+        ],
+        [
+            "Federal_Government",
+            "ORG/GOV",
+            "Indict",
+            "Travis Luke Dominguez",
+            "PERSON"
+        ],
+        [
+            "Federal_Government",
+            "ORG/GOV",
+            "Treat",
+            "Threats_Seriously",
+            "CONCEPT"
+        ],
+        [
+            "Federal_Government",
+            "ORG/GOV",
+            "No_Evidence",
+            "Dominguez_Travel",
+            "CONCEPT"
+        ],
+        [
+            "Court",
+            "ORG",
+            "Papers",
+            "Contain",
+            "Information"
+        ],
+        [
+            "Movie_Theater",
+            "ORG",
+            "Be_Threatened",
+            "Dominguez",
+            "PERSON"
+        ],
+        [
+            "KSL-TV",
+            "ORG",
+            "Report",
+            "Dominguez_Plead_Guilty",
+            "CONCEPT"
+        ],
+        [
+            "Utah",
+            "GPE",
+            "Have_Court_Records",
+            "null",
+            "null"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Provide",
+            "Image",
+            "IMAGE"
+        ],
+        [
+            "Alex_Dobuzinskis",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Dan_Whitcomb",
+            "PERSON",
+            "Edit",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Leslie_Adler",
+            "PERSON",
+            "Edit",
+            "Article",
+            "PRODUCT"
+        ]
+    ]
+}

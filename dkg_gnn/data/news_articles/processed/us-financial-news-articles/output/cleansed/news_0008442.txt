@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Zpg Plc",
+            "COMP",
+            "Announce",
+            "Proposed New Debt Package",
+            "CONCEPT"
+        ],
+        [
+            "Zpg Plc",
+            "COMP",
+            "Control",
+            "\u00a3200M Senior Notes Due 2023",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Zpg Plc",
+            "COMP",
+            "Control",
+            "New Revolving Credit Facility of \u00a3200M",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Zpg Plc",
+            "COMP",
+            "Decrease",
+            "Existing Revolving Credit Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Zpg Plc",
+            "COMP",
+            "Decrease",
+            "Existing Term Loans",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Zpg Plc",
+            "COMP",
+            "Raise",
+            "Proceeds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Proceeds",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Repayment",
+            "CONCEPT"
+        ],
+        [
+            "Proceeds",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Costs",
+            "CONCEPT"
+        ],
+        [
+            "Proceeds",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Expenses",
+            "CONCEPT"
+        ],
+        [
+            "Proceeds",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Fees",
+            "CONCEPT"
+        ],
+        [
+            "Proceeds",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Refinancing",
+            "CONCEPT"
+        ]
+    ]
+}

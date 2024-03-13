@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Announce",
+            "Stock Split",
+            "CONCEPT"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "ORG/EXCH"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Control",
+            "Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shares",
+            "ECON_INDICATOR",
+            "Increase",
+            "Approximately",
+            "51.5 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shares",
+            "ECON_INDICATOR",
+            "Decrease",
+            "Approximately",
+            "38.6 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Produce",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Participates_In",
+            "Food Safety",
+            "SECTOR"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Participates_In",
+            "Animal Safety",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "output": [
+        [
+            "Versace",
+            "COMP",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Blackstone",
+            "ORG",
+            "Invests_In",
+            "Versace",
+            "COMP"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Consider",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Has",
+            "Donatella Versace",
+            "PERSON"
+        ],
+        [
+            "Donatella Versace",
+            "PERSON",
+            "Doubles_As",
+            "Artistic Director",
+            "CONCEPT"
+        ],
+        [
+            "Donatella Versace",
+            "PERSON",
+            "Doubles_As",
+            "Vice-President",
+            "CONCEPT"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Post",
+            "Sales",
+            "ECON_INDICATOR",
+            "2016"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Employs",
+            "Jonathan Akeroyd",
+            "PERSON"
+        ],
+        [
+            "Jonathan Akeroyd",
+            "PERSON",
+            "Is_Member_Of",
+            "British Brand Alexander McQueen",
+            "COMP"
+        ],
+        [
+            "Jonathan Akeroyd",
+            "PERSON",
+            "Was",
+            "CEO",
+            "CONCEPT",
+            "Versace",
+            "COMP",
+            "2016"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Streamline",
+            "Management_Structure",
+            "CONCEPT"
+        ]
+    ]
+}

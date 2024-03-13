@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "petro",
+            "CRYPTOCURRENCY"
+        ],
+        [
+            "petro",
+            "CRYPTOCURRENCY",
+            "Control",
+            "Venezuelas oil reserves",
+            "GPE"
+        ],
+        [
+            "petro",
+            "CRYPTOCURRENCY",
+            "Outlawed_By",
+            "Venezuelas opposition-run parliament",
+            "ORG/GOV"
+        ],
+        [
+            "Venezuelas opposition-run parliament",
+            "ORG/GOV",
+            "Call",
+            "petro an effort",
+            "CONCEPT"
+        ],
+        [
+            "petro",
+            "CRYPTOCURRENCY",
+            "Relate_To",
+            "unrest",
+            "CONCEPT"
+        ],
+        [
+            "unrest",
+            "CONCEPT",
+            "Occur_In",
+            "a once-booming industrial city",
+            "GPE"
+        ],
+        [
+            "a once-booming industrial city",
+            "GPE",
+            "Have",
+            "food shortages",
+            "CONCEPT"
+        ],
+        [
+            "a once-booming industrial city",
+            "GPE",
+            "Have",
+            "malaria outbreak",
+            "EVENT"
+        ]
+    ]
+}

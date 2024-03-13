@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "PERSON",
+            "Run",
+            "Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "PERSON",
+            "Is",
+            "Anticorruption Candidate",
+            "CONCEPT"
+        ],
+        [
+            "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "PERSON",
+            "Frame",
+            "Himself",
+            "PERSON",
+            "As",
+            "Crusader",
+            "PERSON",
+            "Against",
+            "Rigged System",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Is",
+            "Urban Nation",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "Rising Middle Class",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Benefit",
+            "Economic Modernization",
+            "CONCEPT"
+        ],
+        [
+            "Andr\u00e9s Manuel L\u00f3pez Obrador",
+            "PERSON",
+            "Fight",
+            "Change",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "TD Ameritrade Holding Corp",
+            "COMP",
+            "Announce",
+            "Hockey's FY 2017 Total Compensation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hockey",
+            "PERSON",
+            "Control",
+            "TD Ameritrade Holding Corp",
+            "COMP"
+        ],
+        [
+            "TD Ameritrade Holding Corp",
+            "COMP",
+            "Decrease",
+            "$9.7 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Participates_In",
+            "Preserve Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Participates_In",
+            "Preserve Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Participates_In",
+            "Preserve Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "EU",
+            "ORG/GOV",
+            "Participates_In",
+            "Preserve Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Preserve Iran Nuclear Deal",
+            "EVENT"
+        ]
+    ]
+}

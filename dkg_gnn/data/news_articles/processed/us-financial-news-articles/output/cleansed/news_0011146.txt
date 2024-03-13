@@ -1,0 +1,138 @@
+{
+    "output": [
+        [
+            "Packaging Corporation of America",
+            "COMP",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Packaging Corporation of America",
+            "COMP",
+            "Release",
+            "Fourth Quarter and Full Year 2017 Results",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "On",
+            "January 31, 2018",
+            "GPE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "At",
+            "9:30 a.m.",
+            "GPE"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Dial",
+            "(855) 730-0288",
+            "NUM"
+        ],
+        [
+            "International Participants",
+            "PERSON",
+            "Dial",
+            "(832) 412-2295",
+            "NUM"
+        ],
+        [
+            "Call Leader",
+            "PERSON",
+            "Mark Kowlzan",
+            "PERSON"
+        ],
+        [
+            "Replay of the Call",
+            "EVENT",
+            "Available",
+            "From",
+            "12:00 p.m.",
+            "GPE"
+        ],
+        [
+            "Replay of the Call",
+            "EVENT",
+            "Until",
+            "11:59 p.m.",
+            "GPE"
+        ],
+        [
+            "Recording",
+            "EVENT",
+            "Accessed",
+            "By Dialing",
+            "(855) 859-2056",
+            "NUM"
+        ],
+        [
+            "International Recording Access",
+            "EVENT",
+            "Accessed",
+            "By Dialing",
+            "(404) 537-3406",
+            "NUM"
+        ],
+        [
+            "Recording Passcode",
+            "EVENT",
+            "98796102",
+            "NUM"
+        ],
+        [
+            "Call Webcast",
+            "EVENT",
+            "Accessed",
+            "At",
+            "PCA\u2019s website",
+            "COMP"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Produce",
+            "Containerboard Products",
+            "PRODUCT"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Produce",
+            "Uncoated Freesheet Paper",
+            "PRODUCT"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Based",
+            "On",
+            "Production Capacity",
+            "CONCEPT"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Fourth Largest",
+            "SECTOR"
+        ],
+        [
+            "PCA",
+            "COMP",
+            "Third Largest",
+            "SECTOR"
+        ]
+    ]
+}

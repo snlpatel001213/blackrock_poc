@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Austin, Texas",
+            "GPE"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Has",
+            "Human Capital Management Software",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Has",
+            "workplace management software",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Acquire",
+            "TelePayroll Inc.",
+            "ORG"
+        ],
+        [
+            "TelePayroll Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Southern California",
+            "GPE"
+        ],
+        [
+            "TelePayroll Inc.",
+            "ORG",
+            "Provide",
+            "HR services",
+            "PRODUCT"
+        ],
+        [
+            "TelePayroll Inc.",
+            "ORG",
+            "Provide",
+            "payroll services",
+            "PRODUCT"
+        ],
+        [
+            "TelePayroll Inc.",
+            "ORG",
+            "Provide",
+            "employee benefits services",
+            "PRODUCT"
+        ],
+        [
+            "TelePayroll Inc.",
+            "ORG",
+            "Resell",
+            "Asure Software Human Resource Information System platform",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Acquire",
+            "Pay Systems of America, Inc.",
+            "ORG"
+        ],
+        [
+            "Pay Systems of America, Inc.",
+            "ORG",
+            "Provide",
+            "HR services",
+            "PRODUCT"
+        ],
+        [
+            "Pay Systems of America, Inc.",
+            "ORG",
+            "Provide",
+            "payroll services",
+            "PRODUCT"
+        ],
+        [
+            "Pay Systems of America, Inc.",
+            "ORG",
+            "Provide",
+            "employee benefits services",
+            "PRODUCT"
+        ],
+        [
+            "Pay Systems of America, Inc.",
+            "ORG",
+            "Resell",
+            "Asure Software Human Resource Information System platform",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Acquire",
+            "Savers Administrative Services, Inc.",
+            "ORG"
+        ],
+        [
+            "Savers Administrative Services, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Carolinas",
+            "GPE"
+        ],
+        [
+            "Savers Administrative Services, Inc.",
+            "ORG",
+            "Provide",
+            "payroll services",
+            "PRODUCT"
+        ],
+        [
+            "Savers Administrative Services, Inc.",
+            "ORG",
+            "Provide",
+            "HR services",
+            "PRODUCT"
+        ],
+        [
+            "Savers Administrative Services, Inc.",
+            "ORG",
+            "Resell",
+            "Asure Software Human Resource Information System platform",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Control",
+            "Evolution",
+            "PRODUCT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Impact",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Impact",
+            "EBITDA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Service Bureau Consolidation Opportunity",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "West Coast",
+            "GPE"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Southeast",
+            "GPE"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Operate_In",
+            "Carolinas",
+            "GPE"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Participates_In",
+            "Multi-million-dollar service bureau consolidation opportunity",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Participates_In",
+            "Cross-selling opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Participates_In",
+            "Strategic acquisitions",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Participates_In",
+            "Robust pipeline of opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Raise",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Raise",
+            "EBITDA",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Relate_To",
+            "Non-GAAP EBITDA margins",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Relate_To",
+            "Mid-term goal",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Relate_To",
+            "GAAP Net Income/(Loss)",
+            "CONCEPT"
+        ],
+        [
+            "Asure Software",
+            "COMP",
+            "Relate_To",
+            "One-time expenses",
+            "CONCEPT"
+        ]
+    ]
+}

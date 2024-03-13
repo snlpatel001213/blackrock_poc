@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Deductibility",
+            "CONCEPT",
+            "Relate_To",
+            "State_And_Local",
+            "CONCEPT"
+        ],
+        [
+            "State_And_Local",
+            "CONCEPT",
+            "Relate_To",
+            "Democratic_States",
+            "GPE"
+        ],
+        [
+            "Legal_Challenge",
+            "CONCEPT",
+            "Relate_To",
+            "Political_Assault",
+            "CONCEPT"
+        ],
+        [
+            "Political_Assault",
+            "CONCEPT",
+            "Relate_To",
+            "Democratic_States",
+            "GPE"
+        ]
+    ]
+}

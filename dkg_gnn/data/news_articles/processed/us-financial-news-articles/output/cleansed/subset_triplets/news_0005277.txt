@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Friday\u2019s Labor Department report",
+            "ORG/GOV",
+            "Relate_To",
+            "December jobs market",
+            "EVENT"
+        ],
+        [
+            "December jobs market",
+            "EVENT",
+            "Has",
+            "148,000 net new jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December jobs market",
+            "EVENT",
+            "Has",
+            "4.1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment rate for black Americans",
+            "ECON_INDICATOR",
+            "Decrease",
+            "6.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment rate for black Americans",
+            "ECON_INDICATOR",
+            "Has",
+            "lowest rate ever",
+            "CONCEPT"
+        ],
+        [
+            "Bureau of Labor Statistics",
+            "ORG/GOV",
+            "Has",
+            "data tables",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Consumer Borrowing",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Consumer Borrowing",
+            "ECON_INDICATOR",
+            "Posted",
+            "Largest Monthly Gain",
+            "CONCEPT"
+        ],
+        [
+            "Largest Monthly Gain",
+            "CONCEPT",
+            "In",
+            "16 Years",
+            "TEMPORAL"
+        ],
+        [
+            "Consumer Borrowing",
+            "ECON_INDICATOR",
+            "Buoyed By",
+            "Increased Consumer Confidence",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "GPE",
+            "Relate_To",
+            "Consumer Confidence",
+            "CONCEPT"
+        ],
+        [
+            "Outstanding Consumer Credit",
+            "ECON_INDICATOR",
+            "Rose By",
+            "$27.95 Billion",
+            "NUMERICAL"
+        ],
+        [
+            "$27.95 Billion",
+            "NUMERICAL",
+            "In",
+            "November",
+            "TEMPORAL"
+        ],
+        [
+            "November",
+            "TEMPORAL",
+            "From",
+            "Prior Month",
+            "TEMPORAL"
+        ],
+        [
+            "Outstanding Consumer Credit",
+            "ECON_INDICATOR",
+            "According To",
+            "New Data",
+            "CONCEPT"
+        ],
+        [
+            "New Data",
+            "CONCEPT",
+            "From",
+            "Federal Reserve",
+            "ORG/REG"
+        ]
+    ]
+}

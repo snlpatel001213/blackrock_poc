@@ -1,0 +1,122 @@
+{
+    "output": [
+        [
+            "Oriol Junqueras",
+            "PERSON",
+            "Control",
+            "Catalan Independence Movement",
+            "CONCEPT"
+        ],
+        [
+            "Spain\u2019s Supreme Court",
+            "ORG/GOV",
+            "Order",
+            "Oriol Junqueras",
+            "PERSON",
+            "Remain_In_Custody",
+            "Catalan Separatist Leader",
+            "PERSON"
+        ],
+        [
+            "Oriol Junqueras",
+            "PERSON",
+            "Be_Held_On",
+            "Allegations_Of",
+            "Rebellion",
+            "CONCEPT",
+            "Sedition",
+            "CONCEPT",
+            "Misuse_Of_Public_Funds",
+            "CONCEPT"
+        ],
+        [
+            "Catalan Separatists",
+            "PERSON",
+            "Emerge_From",
+            "Dec_21_Election",
+            "EVENT",
+            "Second_Largest_Separatist_Group",
+            "SECTOR"
+        ],
+        [
+            "Mariano Rajoy",
+            "PERSON",
+            "Hope",
+            "Dec_21_Election",
+            "EVENT",
+            "Quash_Catalan_Independence_Movement",
+            "CONCEPT"
+        ],
+        [
+            "Catalan Separatists",
+            "PERSON",
+            "Secure",
+            "Slim_Majority",
+            "NUM",
+            "Regional_Parliament",
+            "SECTOR"
+        ],
+        [
+            "Market-friendly Unionist Party",
+            "COMP",
+            "Win",
+            "Most_Seats",
+            "NUM",
+            "Dec_21_Election",
+            "EVENT"
+        ],
+        [
+            "Carles Puigdemont",
+            "PERSON",
+            "Remain_In",
+            "Self-imposed_Exile",
+            "CONCEPT",
+            "Brussels",
+            "GPE"
+        ],
+        [
+            "Catalonia",
+            "GPE",
+            "Have",
+            "Conflict",
+            "CONCEPT",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Esquerra Republicana",
+            "COMP",
+            "Contend",
+            "Independence_Drive",
+            "CONCEPT",
+            "Legal",
+            "CONCEPT"
+        ],
+        [
+            "Esquerra Republicana",
+            "COMP",
+            "Criticize",
+            "Spanish_Government_And_Judiciary",
+            "ORG/GOV",
+            "Heavy-handed_Response",
+            "CONCEPT"
+        ],
+        [
+            "Oriol Junqueras",
+            "PERSON",
+            "Offer",
+            "Dialogue",
+            "CONCEPT"
+        ],
+        [
+            "Judges",
+            "PERSON",
+            "Believe",
+            "Oriol_Junqueras",
+            "PERSON",
+            "Not_Abandon",
+            "Conflict_With_The_State",
+            "CONCEPT"
+        ]
+    ]
+}

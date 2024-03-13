@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Sanders",
+            "PERSON",
+            "Answer",
+            "Questions",
+            "EVENT"
+        ],
+        [
+            "Sanders",
+            "PERSON",
+            "Relate_To",
+            "Press Secretary",
+            "ORG/GOV"
+        ],
+        [
+            "Sanders",
+            "PERSON",
+            "Has",
+            "Huckabee Sanders",
+            "PERSON"
+        ],
+        [
+            "Huckabee Sanders",
+            "PERSON",
+            "Answer",
+            "Questions",
+            "EVENT"
+        ],
+        [
+            "Huckabee Sanders",
+            "PERSON",
+            "Relate_To",
+            "Press Secretary",
+            "ORG/GOV"
+        ],
+        [
+            "Huckabee Sanders",
+            "PERSON",
+            "Has",
+            "Sanders",
+            "PERSON"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Negative_Impact_On",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Announce",
+            "Statement",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Has",
+            "Comments",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "President",
+            "ORG/GOV"
+        ]
+    ]
+}

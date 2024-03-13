@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Eurostat",
+            "ORG",
+            "Release",
+            "Retail Sales Data",
+            "EVENT"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Retail Trade",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Food, Drinks, Tobacco",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Non-food Products",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Textiles, Clothing, Footwear",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Electrical Goods and Furniture",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Computer Equipment, Books and Other",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Pharmaceutical and Medical Goods",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Mail Orders and Internet",
+            "SECTOR"
+        ],
+        [
+            "EA19",
+            "GPE",
+            "Has",
+            "Automotive Fuel in Specialised Stores",
+            "SECTOR"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Retail Sales Data",
+            "EVENT"
+        ]
+    ]
+}

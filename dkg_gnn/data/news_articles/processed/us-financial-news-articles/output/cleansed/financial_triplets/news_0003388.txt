@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Hearst",
+            "ORG",
+            "Is_Member_Of",
+            "Many of its Joint Ventures",
+            "ORG"
+        ],
+        [
+            "Twenty-First Century Fox",
+            "ORG",
+            "Negative_Impact_On",
+            "Many of its Joint Ventures",
+            "ORG"
+        ],
+        [
+            "Bob Iger",
+            "PERSON",
+            "Control",
+            "Disney",
+            "ORG"
+        ]
+    ]
+}

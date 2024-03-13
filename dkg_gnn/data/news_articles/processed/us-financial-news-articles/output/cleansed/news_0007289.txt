@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "British Government",
+            "ORG/GOV",
+            "Pledge",
+            "Ease Potential Harm",
+            "CONCEPT"
+        ],
+        [
+            "British Government",
+            "ORG/GOV",
+            "Operate_In",
+            "Brexit",
+            "EVENT"
+        ],
+        [
+            "100,000 Companies",
+            "COMP",
+            "May Have To",
+            "Pay Sales Tax Upfront",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Has Sympathy",
+            "Issue",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Import Goods",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Canary Wharf",
+            "GPE",
+            "Is Seen",
+            "Dusk",
+            "TIME"
+        ],
+        [
+            "Company Bosses",
+            "PERSON",
+            "Warn",
+            "Higher Prices",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "May Have To",
+            "Take Out",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "British Company",
+            "COMP",
+            "Imports Goods",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Goods",
+            "PRODUCT",
+            "Brought In",
+            "Without Paying",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Value-Added Tax",
+            "ECON_INDICATOR",
+            "Added",
+            "Product Price",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Negotiate",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Remain Part",
+            "EU-VAT Area",
+            "CONCEPT"
+        ],
+        [
+            "Nicky Morgan",
+            "PERSON",
+            "Chair",
+            "Treasury Committee",
+            "ORG"
+        ],
+        [
+            "Treasury Committee",
+            "ORG",
+            "Plan",
+            "Investigate Issue",
+            "CONCEPT"
+        ],
+        [
+            "Businesses",
+            "COMP",
+            "Find Upfront Cash",
+            "Real Problem",
+            "CONCEPT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Recognize",
+            "Cashflow Benefits",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Consider",
+            "Potential Changes",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Look At",
+            "Options",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Mitigate",
+            "Cash Flow Impacts",
+            "CONCEPT"
+        ]
+    ]
+}

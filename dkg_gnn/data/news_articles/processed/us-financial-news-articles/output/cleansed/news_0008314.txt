@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "7.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Services Sector",
+            "SECTOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Grow",
+            "7.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Revise",
+            "38.3 Trillion Yuan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Account_For",
+            "Half",
+            "CONCEPT"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Comprise",
+            "GDP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "6.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "6.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "6.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Expect",
+            "6.8%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Expect",
+            "6.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Property Investment",
+            "SECTOR",
+            "Lose",
+            "Steam",
+            "CONCEPT"
+        ],
+        [
+            "Construction",
+            "SECTOR",
+            "Lose",
+            "Steam",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Keep",
+            "GDP Growth Target",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Set",
+            "GDP Growth Target",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Target",
+            "6.5%",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

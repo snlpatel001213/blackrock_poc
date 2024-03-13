@@ -1,0 +1,227 @@
+{
+    "output": [
+        [
+            "Javier Corral",
+            "PERSON",
+            "Accuse",
+            "Finance Ministry",
+            "ORG/GOV"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Withhold",
+            "Federal Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Operate_In",
+            "Institutional Revolutionary Party",
+            "ORG/GOV"
+        ],
+        [
+            "Cesar Duarte",
+            "PERSON",
+            "Relate_To",
+            "Alleged Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Operate_In",
+            "National Action Party",
+            "ORG"
+        ],
+        [
+            "Alejandro Gutierrez",
+            "PERSON",
+            "Arrest",
+            "State and Federal Authorities",
+            "ORG"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Fail_To_Transfer",
+            "Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Expect",
+            "Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Reject",
+            "Suggestion",
+            "CONCEPT"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Ask",
+            "Extraordinary Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Not_Pay",
+            "Chihuahua",
+            "GPE"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Not_Pay",
+            "Other States",
+            "GPE"
+        ],
+        [
+            "Dispute",
+            "CONCEPT",
+            "Risk",
+            "Keep",
+            "VERB"
+        ],
+        [
+            "Attention",
+            "CONCEPT",
+            "Focus",
+            "Alleged PRI Graft",
+            "CONCEPT"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Meet",
+            "Top Ministry Officials",
+            "ORG"
+        ],
+        [
+            "Chihuahua",
+            "GPE",
+            "Investigate",
+            "Alleged Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Withhold",
+            "Money",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prosecutors",
+            "ORG",
+            "Accuse",
+            "Gutierrez",
+            "PERSON",
+            "Participate",
+            "Scheme",
+            "CONCEPT"
+        ],
+        [
+            "Scheme",
+            "CONCEPT",
+            "Involve",
+            "Divert",
+            "VERB"
+        ],
+        [
+            "Public Funds",
+            "ECON_INDICATOR",
+            "Worth",
+            "250 Million Pesos",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Public Funds",
+            "ECON_INDICATOR",
+            "Divert",
+            "PRI Coffers",
+            "ORG"
+        ],
+        [
+            "Cesar Duarte",
+            "PERSON",
+            "Accuse",
+            "Divert",
+            "VERB"
+        ],
+        [
+            "Cesar Duarte",
+            "PERSON",
+            "Predecessor",
+            "Chihuahua",
+            "GPE"
+        ],
+        [
+            "Cesar Duarte",
+            "PERSON",
+            "Choose",
+            "Successor",
+            "PERSON"
+        ],
+        [
+            "Mexican Judge",
+            "ORG",
+            "Issue",
+            "Arrest Warrant",
+            "PRODUCT"
+        ],
+        [
+            "Cesar Duarte",
+            "PERSON",
+            "In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Prosecutors",
+            "ORG",
+            "Accuse",
+            "Gutierrez",
+            "PERSON",
+            "Participate",
+            "Scheme",
+            "CONCEPT"
+        ],
+        [
+            "Scheme",
+            "CONCEPT",
+            "Involve",
+            "Divert",
+            "VERB"
+        ],
+        [
+            "Public Funds",
+            "ECON_INDICATOR",
+            "Worth",
+            "250 Million Pesos",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Public Funds",
+            "ECON_INDICATOR",
+            "Divert",
+            "PRI Coffers",
+            "ORG"
+        ],
+        [
+            "Gutierrez",
+            "PERSON",
+            "Deny",
+            "Charge",
+            "CONCEPT"
+        ]
+    ]
+}

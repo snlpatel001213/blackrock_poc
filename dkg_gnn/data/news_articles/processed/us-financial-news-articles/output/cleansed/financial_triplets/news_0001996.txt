@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Axel Galvez",
+            "PERSON",
+            "Has",
+            "deal",
+            "CONCEPT"
+        ],
+        [
+            "Axel Galvez",
+            "PERSON",
+            "Has",
+            "$7,500",
+            "ECON_INDICATOR"
+        ],
+        [
+            "untraceable",
+            "CONCEPT",
+            "Relate_To",
+            "semiautomatic",
+            "CONCEPT"
+        ],
+        [
+            "semiautomatic",
+            "CONCEPT",
+            "Relate_To",
+            "rifles",
+            "PRODUCT"
+        ],
+        [
+            "Axel Galvez",
+            "PERSON",
+            "Has",
+            "buyer",
+            "PERSON"
+        ],
+        [
+            "buyer",
+            "PERSON",
+            "Is_Member_Of",
+            "felon",
+            "PERSON"
+        ],
+        [
+            "more",
+            "CONCEPT",
+            "Relate_To",
+            "guns",
+            "PRODUCT"
+        ]
+    ]
+}

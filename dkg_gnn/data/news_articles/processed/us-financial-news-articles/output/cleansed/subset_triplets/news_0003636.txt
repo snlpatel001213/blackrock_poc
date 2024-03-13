@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Oceanwide Holdings Co Ltd",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Genworth Financial Inc",
+            "ORG",
+            "Participates_In",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "Relate_To",
+            "Chinese deals",
+            "CONCEPT"
+        ]
+    ]
+}

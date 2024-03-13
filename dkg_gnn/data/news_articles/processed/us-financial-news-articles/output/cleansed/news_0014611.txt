@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Vixxo",
+            "ORG",
+            "Name",
+            "Travis Chester",
+            "PERSON"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Serve_As",
+            "Chief Financial Officer",
+            "ORG_ROLE"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Provide",
+            "Strategic Counsel",
+            "CONCEPT"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Oversee",
+            "Vixxo Finance Teams",
+            "ORG_TEAM"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Develop_And_Implement",
+            "Company Long-Term Financial Plan",
+            "CONCEPT"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Prior_To",
+            "Join_Vixxo",
+            "ORG"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Serve_As",
+            "Vice President And Chief Financial Officer",
+            "ORG_ROLE"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Implement",
+            "Company Financial Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Previous_Senior_Leadership_Roles",
+            "Invitrogen Corporation",
+            "ORG"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Previous_Senior_Leadership_Roles",
+            "General Electric Corporation",
+            "ORG"
+        ],
+        [
+            "Vixxo",
+            "ORG",
+            "Confirm",
+            "Julie Jones Appointment",
+            "PERSON"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Join",
+            "Vixxo",
+            "ORG"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Newly_Created_Role",
+            "Chief Marketing And Strategy Officer",
+            "ORG_ROLE"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Responsible_For",
+            "Increase Vixxo Brand Identity",
+            "CONCEPT"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Responsible_For",
+            "Robust Brand And Marketing Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "From",
+            "Tech Data",
+            "ORG"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Most_Recently_Serve",
+            "Vice President Of Supplier Marketing",
+            "ORG_ROLE"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Prior_To",
+            "Tech Data",
+            "ORG"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Drive",
+            "Marketing And Solutions Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "For",
+            "Global Technology Solutions Provider Insight Enterprises",
+            "ORG"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Jim Reavey",
+            "CEO",
+            "ORG_ROLE"
+        ],
+        [
+            "Julie Jones",
+            "PERSON",
+            "Jim Reavey",
+            "CEO",
+            "ORG_ROLE"
+        ],
+        [
+            "Jim Reavey",
+            "CEO",
+            "Commenting",
+            "Appointments",
+            "CONCEPT"
+        ],
+        [
+            "Jim Reavey",
+            "CEO",
+            "Confident",
+            "Travis And Julie Play Key Roles",
+            "CONCEPT"
+        ],
+        [
+            "Travis Chester",
+            "PERSON",
+            "Provide_And_Implement",
+            "High Quality Solutions For Clients",
+            "CONCEPT"
+        ],
+        [
+            "Vixxo",
+            "ORG",
+            "Leader",
+            "Facility Management Provider",
+            "ORG_ROLE"
+        ],
+        [
+            "Vixxo",
+            "ORG",
+            "Maintains",
+            "National Network Of Service Provider Technicians",
+            "ORG_TEAM"
+        ],
+        [
+            "Vixxo",
+            "ORG",
+            "Serve",
+            "More Than 65000 Client Locations",
+            "QUANTITY"
+        ],
+        [
+            "Vixxo",
+            "ORG",
+            "Lead",
+            "Industry",
+            "SECTOR"
+        ]
+    ]
+}

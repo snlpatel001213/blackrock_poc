@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Announce",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Star2Star",
+            "ORG",
+            "Is_Member_Of",
+            "Unified Communications market",
+            "SECTOR"
+        ],
+        [
+            "Star2Star",
+            "ORG",
+            "Control",
+            "StarBlue",
+            "ORG"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Control",
+            "StarBlue",
+            "ORG"
+        ],
+        [
+            "Alan Foy",
+            "PERSON",
+            "Becomes",
+            "CEO",
+            "ORG"
+        ],
+        [
+            "Norman Worthington",
+            "PERSON",
+            "Becomes",
+            "Executive Chairman",
+            "ORG"
+        ],
+        [
+            "Nameer Kazzaz",
+            "PERSON",
+            "Assume",
+            "Group Co-CTO",
+            "TITLE"
+        ],
+        [
+            "Sergey Galchenko",
+            "PERSON",
+            "Assume",
+            "Group Co-CTO",
+            "TITLE"
+        ],
+        [
+            "Michelle Accardi",
+            "PERSON",
+            "Assume",
+            "President and Chief Revenue Officer",
+            "TITLE"
+        ],
+        [
+            "John McGovern",
+            "PERSON",
+            "Assume",
+            "Group CFO",
+            "TITLE"
+        ],
+        [
+            "David Portnowitz",
+            "PERSON",
+            "Assume",
+            "Chief Marketing Officer",
+            "TITLE"
+        ],
+        [
+            "Sarasota, Florida",
+            "GPE",
+            "Remain",
+            "North American headquarters",
+            "TITLE"
+        ],
+        [
+            "Dublin, Ireland",
+            "GPE",
+            "Remain",
+            "EMEA headquarters",
+            "TITLE"
+        ],
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Positive_Impact_On",
+            "Unified Communications market",
+            "SECTOR"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Positive_Impact_On",
+            "Unified Communications market",
+            "SECTOR"
+        ]
+    ]
+}

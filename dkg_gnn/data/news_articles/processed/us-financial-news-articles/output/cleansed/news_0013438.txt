@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Alphabet Inc.",
+            "COMP",
+            "Announce",
+            "Spectre and Meltdown chipset security flaws",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "Already deployed software patches",
+            "CONCEPT"
+        ],
+        [
+            "Spectre and Meltdown chipset security flaws",
+            "CONCEPT",
+            "Impact",
+            "Virtually all phones, computers and servers",
+            "GPE"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "Researchers with Google\u2019s Project Zero",
+            "ORG"
+        ],
+        [
+            "Researchers with Google\u2019s Project Zero",
+            "ORG",
+            "Reported",
+            "Flaws publicly",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Deploy",
+            "Patches for Meltdown and one variant of Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Create",
+            "Patch for Variant 2 of Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Release",
+            "Patches for the flaws",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Negative_Impact_On",
+            "Some personal computers and servers",
+            "COMP"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Issue",
+            "Patches for 90 percent of the chips less than 5 years old",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Focus on",
+            "Providing patches for the older chips",
+            "CONCEPT"
+        ]
+    ]
+}

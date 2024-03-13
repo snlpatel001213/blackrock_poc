@@ -1,0 +1,77 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Has",
+            "Service Revenue",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Control",
+            "Battery Gate",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Invests_In",
+            "Cash Hoard",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Positive_Impact_On",
+            "Stock Owners",
+            "PERSON"
+        ],
+        [
+            "New Tax Law",
+            "EVENT",
+            "Impact",
+            "Corporations",
+            "ORG"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Relate_To",
+            "New Tax Code",
+            "CONCEPT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Single Losing Month",
+            "EVENT",
+            "in",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Impact",
+            "Energy Sector",
+            "SECTOR"
+        ]
+    ]
+}

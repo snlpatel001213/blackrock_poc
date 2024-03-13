@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Drugmakers",
+            "ORG",
+            "Raise",
+            "U.S. Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Drugmakers",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Express",
+            "Outrage",
+            "CONCEPT"
+        ],
+        [
+            "Politicians",
+            "PERSON",
+            "Express",
+            "Outrage",
+            "CONCEPT"
+        ],
+        [
+            "Allergan Inc",
+            "COMP",
+            "Raise",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Inc",
+            "COMP",
+            "Produce",
+            "Restasis",
+            "PRODUCT"
+        ],
+        [
+            "Allergan Inc",
+            "COMP",
+            "Produce",
+            "Linzess",
+            "PRODUCT"
+        ],
+        [
+            "Allergan Inc",
+            "COMP",
+            "Control",
+            "Social Contract with Patients",
+            "CONCEPT"
+        ],
+        [
+            "Allergan Inc",
+            "COMP",
+            "Impact",
+            "Consumers",
+            "PERSON"
+        ],
+        [
+            "Amgen Inc",
+            "COMP",
+            "Raise",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amgen Inc",
+            "COMP",
+            "Produce",
+            "Enbrel",
+            "PRODUCT"
+        ],
+        [
+            "Teva Pharmaceutical Industries Inc",
+            "COMP",
+            "Raise",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Teva Pharmaceutical Industries Inc",
+            "COMP",
+            "Produce",
+            "ProAir HFA",
+            "PRODUCT"
+        ],
+        [
+            "Teva Pharmaceutical Industries Inc",
+            "COMP",
+            "Produce",
+            "ProAir RespiClick",
+            "PRODUCT"
+        ],
+        [
+            "Horizon Pharma",
+            "COMP",
+            "Raise",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "California Governor",
+            "PERSON",
+            "Sign",
+            "Legislation",
+            "EVENT"
+        ],
+        [
+            "Drug Manufacturers",
+            "ORG",
+            "Give",
+            "Notice",
+            "EVENT"
+        ],
+        [
+            "Drug Manufacturers",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ]
+    ]
+}

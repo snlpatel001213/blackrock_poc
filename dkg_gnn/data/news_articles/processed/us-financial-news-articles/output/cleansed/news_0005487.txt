@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "At",
+            "C$1.2523",
+            "or 79.85 U.S. Cents",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bond Prices",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "across the yield curve",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Falls",
+            "broadly",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Rise",
+            "supported by unrest in Iran",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Trading",
+            "at C$1.2523 to the greenback",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Up",
+            "0.1 percent",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Traded",
+            "in a range of C$1.2513 to C$1.2555",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Touched",
+            "its strongest in 2-1/2 months at C$1.2499",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Employment report for December and November trade data",
+            "are due on Friday",
+            "Type",
+            "EVENT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Raised",
+            "its benchmark interest rate for the first time in seven years in July",
+            "Type",
+            "EVENT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Then again",
+            "in September",
+            "Type",
+            "EVENT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Interest rate hikes in 2018",
+            "are expected",
+            "Type",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Producer prices",
+            "rose by 1.4 percent in November from October",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Home sales",
+            "fell 18.3 percent in 2017 from the previous year",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian auto sales",
+            "PRODUCT",
+            "Fell",
+            "for a second straight month in December",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian government bond prices",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "across the yield curve in sympathy with U.S. Treasuries",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-year",
+            "FIN_INSTRUMENT",
+            "Fell",
+            "2.5 Canadian cents to yield 1.697 percent",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year",
+            "FIN_INSTRUMENT",
+            "Declined",
+            "15 Canadian cents to yield 2.07 percent",
+            "Type",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year",
+            "FIN_INSTRUMENT",
+            "Touched",
+            "its highest level in more than two months at 2.093 percent",
+            "Type",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

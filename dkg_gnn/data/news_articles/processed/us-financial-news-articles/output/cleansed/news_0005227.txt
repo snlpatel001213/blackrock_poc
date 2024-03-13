@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "Lactalis",
+            "ORG",
+            "Acquire",
+            "siggi\u2019s",
+            "COMP"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Produce",
+            "Icelandic style skyr yogurts",
+            "PRODUCT"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Relate_To",
+            "healthier eating"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Control",
+            "simple ingredients, not a lot of sugar"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Decrease",
+            "sugar"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Participates_In",
+            "Whole Foods, Publix, Target, Wegmans and Starbucks stores"
+        ],
+        [
+            "siggi\u2019s",
+            "COMP",
+            "Is_Member_Of",
+            "Lactalis"
+        ],
+        [
+            "Emmi",
+            "ORG",
+            "Sell",
+            "22 percent stake in siggi\u2019s",
+            "COMP"
+        ],
+        [
+            "Emmi",
+            "ORG",
+            "Sell",
+            "stake",
+            "ORG",
+            "Lactalis"
+        ]
+    ]
+}

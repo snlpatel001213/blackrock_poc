@@ -1,0 +1,290 @@
+{
+    "output": [
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Has",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Operate_In",
+            "Austria\u2019s Graz Technical University",
+            "ORG"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Intel Corp.",
+            "ORG"
+        ],
+        [
+            "Intel Corp.",
+            "ORG",
+            "Produce",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Relate_To",
+            "CPU",
+            "PRODUCT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Relate_To",
+            "Kernel Memory",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Announce",
+            "Wednesday",
+            "DATE"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Expose",
+            "Core Memory",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "AMD",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "ARM Holdings",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Expose",
+            "Secret Passwords",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Expose",
+            "Photos",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Provide",
+            "Software Updates",
+            "PRODUCT"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Work",
+            "Security Fixes",
+            "CONCEPT"
+        ],
+        [
+            "Graz Team",
+            "ORG",
+            "Work_On",
+            "Tool",
+            "PRODUCT"
+        ],
+        [
+            "Tool",
+            "PRODUCT",
+            "Defend_Against",
+            "Attempts",
+            "CONCEPT"
+        ],
+        [
+            "Tool",
+            "PRODUCT",
+            "Called",
+            "KAISER",
+            "CONCEPT"
+        ],
+        [
+            "KAISER",
+            "CONCEPT",
+            "Defend",
+            "Kernel Memory",
+            "CONCEPT"
+        ],
+        [
+            "Kernel Memory",
+            "CONCEPT",
+            "Exploit",
+            "Side-channel Attack",
+            "CONCEPT"
+        ],
+        [
+            "Processors",
+            "PRODUCT",
+            "Execute",
+            "Tasks",
+            "CONCEPT"
+        ],
+        [
+            "Processors",
+            "PRODUCT",
+            "Out-of-order",
+            "Sequence",
+            "CONCEPT"
+        ],
+        [
+            "CPU",
+            "PRODUCT",
+            "Make",
+            "Speculative Call",
+            "CONCEPT"
+        ],
+        [
+            "Speculative Execution",
+            "CONCEPT",
+            "Abuse",
+            "Kernel Memory",
+            "CONCEPT"
+        ],
+        [
+            "Speculative Execution",
+            "CONCEPT",
+            "Abuse",
+            "Paul Kocher",
+            "PERSON"
+        ],
+        [
+            "Speculative Execution",
+            "CONCEPT",
+            "Abuse",
+            "Cyberus Technology",
+            "ORG"
+        ],
+        [
+            "Speculative Execution",
+            "CONCEPT",
+            "Abuse",
+            "Google Project Zero",
+            "ORG"
+        ],
+        [
+            "Paul Kocher",
+            "PERSON",
+            "Team",
+            "Cyberus Technology",
+            "ORG"
+        ],
+        [
+            "Paul Kocher",
+            "PERSON",
+            "Team",
+            "Google Project Zero",
+            "ORG"
+        ],
+        [
+            "Jann Horn",
+            "PERSON",
+            "Google Project Zero",
+            "ORG"
+        ],
+        [
+            "Jann Horn",
+            "PERSON",
+            "Develop",
+            "Attacks",
+            "CONCEPT"
+        ],
+        [
+            "Wider Team",
+            "ORG",
+            "Ready",
+            "Patches",
+            "PRODUCT"
+        ],
+        [
+            "Patches",
+            "PRODUCT",
+            "Based_On",
+            "KAISER",
+            "CONCEPT"
+        ],
+        [
+            "Patches",
+            "PRODUCT",
+            "For",
+            "Microsoft Corp",
+            "ORG"
+        ],
+        [
+            "Patches",
+            "PRODUCT",
+            "For",
+            "Apple Inc",
+            "ORG"
+        ],
+        [
+            "Patches",
+            "PRODUCT",
+            "For",
+            "Linux Open-source System",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Harder",
+            "Exploit",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Immediate",
+            "Problem",
+            "CONCEPT"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Long_Run",
+            "Bet",
+            "CONCEPT"
+        ]
+    ]
+}

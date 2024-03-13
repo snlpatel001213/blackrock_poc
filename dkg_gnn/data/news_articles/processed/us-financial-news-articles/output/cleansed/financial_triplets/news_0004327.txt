@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Nevada Sunrise Gold",
+            "ORG",
+            "Announce",
+            "Amended Non-Binding LoI",
+            "CONCEPT"
+        ],
+        [
+            "Nevada Sunrise Gold",
+            "ORG",
+            "Announce",
+            "Emgold Mining Corp",
+            "ORG"
+        ],
+        [
+            "Nevada Sunrise Gold",
+            "ORG",
+            "Has",
+            "Golden Arrow Gold-Silver Property",
+            "PRODUCT"
+        ],
+        [
+            "Emgold Mining Corp",
+            "ORG",
+            "Participates_In",
+            "Amended Non-Binding LoI",
+            "CONCEPT"
+        ],
+        [
+            "Emgold Mining Corp",
+            "ORG",
+            "Control",
+            "51% Interest",
+            "CONCEPT",
+            "Golden Arrow Gold-Silver Property",
+            "PRODUCT"
+        ]
+    ]
+}

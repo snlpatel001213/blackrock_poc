@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Is_Member_Of",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Meaningful Debate",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Raise",
+            "Legitimate Issues",
+            "CONCEPT"
+        ]
+    ]
+}

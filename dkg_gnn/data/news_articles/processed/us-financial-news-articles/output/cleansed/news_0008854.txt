@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "SunCoke Energy, Inc.",
+            "COMP",
+            "Announce",
+            "Fourth Quarter 2017 Earnings Date",
+            "EVENT"
+        ],
+        [
+            "SunCoke Energy, Inc.",
+            "COMP",
+            "Operate_In",
+            "Illinois, Indiana, Ohio, Virginia, Brazil, India",
+            "GPE"
+        ],
+        [
+            "SunCoke Energy, Inc.",
+            "COMP",
+            "Control",
+            "SunCoke Energy Partners, L.P.",
+            "COMP"
+        ],
+        [
+            "SunCoke Energy Partners, L.P.",
+            "COMP",
+            "Participates_In",
+            "Export and Domestic Material Handling Services",
+            "SERVICE"
+        ],
+        [
+            "SunCoke Energy Partners, L.P.",
+            "COMP",
+            "Operate_In",
+            "Gulf Coast, East Coast, Great Lakes and international ports",
+            "GPE"
+        ]
+    ]
+}

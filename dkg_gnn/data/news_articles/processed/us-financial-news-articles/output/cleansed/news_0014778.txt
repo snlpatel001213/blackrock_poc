@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Sign",
+            "New York Knicks",
+            "ORG"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Earn",
+            "Cleveland Cavaliers",
+            "ORG"
+        ],
+        [
+            "Cleveland Cavaliers",
+            "ORG",
+            "Is_Member_Of",
+            "NBA",
+            "ORG"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Has",
+            "Four-year Contract",
+            "ORG"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Has",
+            "$7.5 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Follow",
+            "Money Rule",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Half",
+            "Checks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Go",
+            "Separate Account",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Money",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Investments",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Automate",
+            "Finances",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Send",
+            "Money",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Send",
+            "Money",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Money",
+            "CONCEPT",
+            "Go",
+            "Retirement Savings Account",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Money",
+            "CONCEPT",
+            "Go",
+            "Emergency Fund",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Money",
+            "CONCEPT",
+            "Go",
+            "Creditords",
+            "ORG"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Build",
+            "Wealth",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Save",
+            "Time",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Simplify",
+            "Life",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Don_t",
+            "Worry",
+            "CONCEPT"
+        ],
+        [
+            "Iman Shumpert",
+            "PERSON",
+            "Find",
+            "Don_t Need Much",
+            "CONCEPT"
+        ]
+    ]
+}

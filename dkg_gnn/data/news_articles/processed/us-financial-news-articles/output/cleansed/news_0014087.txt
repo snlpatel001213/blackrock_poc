@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rioja",
+            "GPE",
+            "Produce",
+            "Red Wines",
+            "PRODUCT"
+        ],
+        [
+            "Red Wines",
+            "PRODUCT",
+            "Relate_To",
+            "Reliability",
+            "CONCEPT"
+        ],
+        [
+            "Red Wines",
+            "PRODUCT",
+            "Relate_To",
+            "Affordability",
+            "CONCEPT"
+        ],
+        [
+            "Red Wines",
+            "PRODUCT",
+            "Has",
+            "Five- or Six-Year-Old Reserva",
+            "PRODUCT"
+        ],
+        [
+            "Five- or Six-Year-Old Reserva",
+            "PRODUCT",
+            "Cost",
+            "< $20",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allison",
+            "PERSON",
+            "Buy",
+            "Red Rioja",
+            "PRODUCT"
+        ],
+        [
+            "Allison",
+            "PERSON",
+            "Say",
+            "Rioja can be too predictable",
+            "CONCEPT"
+        ]
+    ]
+}

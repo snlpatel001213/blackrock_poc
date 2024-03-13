@@ -7,4 +7,5 @@ pip install accelerate
 huggingface-cli login 
 ```
 
-use `llm_api.py` which used nvidia ngc deployed model for the triplet extraction
+use `extract_triplet.py` which used nvidia ngc deployed model for the triplet extraction
+use `add_date_to_output.py` to add date to the output from origianl articles 

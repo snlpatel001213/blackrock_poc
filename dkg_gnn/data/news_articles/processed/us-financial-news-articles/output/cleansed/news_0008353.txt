@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Rowaida El Hassan",
+            "PERSON",
+            "Participates_In",
+            "Plotting IS-inspired bomb attacks on Britain",
+            "EVENT"
+        ],
+        [
+            "Rowaida El Hassan",
+            "PERSON",
+            "Relate_To",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Rowaida El Hassan",
+            "PERSON",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Participates_In",
+            "Plotting IS-inspired bomb attacks on Britain",
+            "EVENT"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Relate_To",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Control",
+            "Two of the ingredients needed to make TATP",
+            "CONCEPT"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Has",
+            "Instruction manuals on mobile phone detonators, ricin and how to make explosives",
+            "CONCEPT"
+        ],
+        [
+            "Munir Hassan Mohammed",
+            "PERSON",
+            "Invests_In",
+            "Contacting an IS commander via Facebook",
+            "ORG"
+        ],
+        [
+            "Singlemuslim.com",
+            "COMP",
+            "Relate_To",
+            "Rowaida El Hassan",
+            "PERSON"
+        ],
+        [
+            "Singlemuslim.com",
+            "COMP",
+            "Relate_To",
+            "Munir Hassan Mohammed",
+            "PERSON"
+        ],
+        [
+            "WhatsApp",
+            "COMP",
+            "Relate_To",
+            "Rowaida El Hassan",
+            "PERSON"
+        ],
+        [
+            "WhatsApp",
+            "COMP",
+            "Relate_To",
+            "Munir Hassan Mohammed",
+            "PERSON"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Munir Hassan Mohammed",
+            "PERSON"
+        ]
+    ]
+}

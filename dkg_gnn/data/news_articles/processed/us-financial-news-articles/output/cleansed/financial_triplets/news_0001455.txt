@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympic Games",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Impact",
+            "International Pressure",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Operate_In",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Introduce",
+            "Overture",
+            "CONCEPT"
+        ]
+    ]
+}

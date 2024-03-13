@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Operate_In",
+            "IoT Security",
+            "SECTOR"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Dial",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Have",
+            "Passcode",
+            "CONCEPT"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Accessible",
+            "ForeScout Investor Relations Website",
+            "COMP"
+        ],
+        [
+            "Webcast",
+            "PRODUCT",
+            "Accessible",
+            "ForeScout Investor Relations Website",
+            "COMP"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Accessible",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Available",
+            "Wednesday, February 14, 2018",
+            "GPE"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Dial",
+            "Phone Numbers",
+            "COMP"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Have",
+            "Passcode",
+            "CONCEPT"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Help",
+            "Global 2000 Enterprises",
+            "PERSON"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Help",
+            "Government Agencies",
+            "PERSON"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Provide",
+            "Agentless Visibility",
+            "CONCEPT"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Provide",
+            "Control",
+            "CONCEPT"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Integrate",
+            "Disparate Security Tools",
+            "COMP"
+        ],
+        [
+            "ForeScout Technologies, Inc.",
+            "COMP",
+            "Help",
+            "Organizations",
+            "PERSON"
+        ],
+        [
+            "Organizations",
+            "PERSON",
+            "Accelerate",
+            "Incident Response",
+            "CONCEPT"
+        ],
+        [
+            "Organizations",
+            "PERSON",
+            "Break Down",
+            "Silos",
+            "CONCEPT"
+        ],
+        [
+            "Organizations",
+            "PERSON",
+            "Automate",
+            "Workflows",
+            "CONCEPT"
+        ],
+        [
+            "Organizations",
+            "PERSON",
+            "Optimize",
+            "Existing Investments",
+            "CONCEPT"
+        ]
+    ]
+}

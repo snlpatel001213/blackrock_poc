@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Scientists",
+            "PERSON",
+            "Participates_In",
+            "Creating Opioids",
+            "CONCEPT"
+        ],
+        [
+            "University of North Carolina",
+            "ORG",
+            "Is_Member_Of",
+            "Scientists",
+            "PERSON"
+        ]
+    ]
+}

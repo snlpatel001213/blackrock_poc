@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Tesla Inc",
+            "COMP",
+            "Produce",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Operate_In",
+            "Electric Vehicle Market",
+            "SECTOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Elon Musk",
+            "PERSON"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Raise",
+            "Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Impact",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Over 60 participants",
+            "PERSON",
+            "Participates_In",
+            "International Ice Sculpture Contest",
+            "EVENT"
+        ],
+        [
+            "14 different countries",
+            "GPE",
+            "Participates_In",
+            "International Ice Sculpture Contest",
+            "EVENT"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Pull",
+            "Blocks",
+            "PRODUCT"
+        ],
+        [
+            "Blocks",
+            "PRODUCT",
+            "From",
+            "Local River",
+            "GPE"
+        ]
+    ]
+}

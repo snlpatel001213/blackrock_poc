@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Australian shares",
+            "GPE",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Wall Street",
+            "GPE",
+            "Impact",
+            "Australian shares",
+            "GPE"
+        ],
+        [
+            "Wall Street",
+            "GPE",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "healthcare stocks",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Wall Street",
+            "GPE"
+        ],
+        [
+            "financial stocks",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Wall Street",
+            "GPE"
+        ],
+        [
+            "U.S. indexes",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Wall Street",
+            "GPE"
+        ],
+        [
+            "U.S. indexes",
+            "FIN_INSTRUMENT",
+            "Barely_Moved",
+            "null",
+            "null"
+        ],
+        [
+            "investors",
+            "PERSON",
+            "Took_a_Breather",
+            "null",
+            "null"
+        ],
+        [
+            "earnings season",
+            "EVENT",
+            "Is_Member_Of",
+            "null",
+            "null"
+        ],
+        [
+            "Australian local share price index futures",
+            "FIN_INSTRUMENT",
+            "Rose",
+            "null",
+            "null"
+        ],
+        [
+            "Australian local share price index futures",
+            "FIN_INSTRUMENT",
+            "8 points",
+            "null",
+            "null"
+        ],
+        [
+            "Australian local share price index futures",
+            "FIN_INSTRUMENT",
+            "41.4-point discount",
+            "Underlying S&P/ASX 200 index close",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "benchmark",
+            "FIN_INSTRUMENT",
+            "Rose",
+            "null",
+            "null"
+        ],
+        [
+            "benchmark",
+            "FIN_INSTRUMENT",
+            "0.1 percent",
+            "null",
+            "null"
+        ],
+        [
+            "benchmark",
+            "FIN_INSTRUMENT",
+            "Close",
+            "10-year high",
+            "null"
+        ],
+        [
+            "Monday",
+            "DATE",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "New Zealand",
+            "GPE",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "New Zealand benchmark S&P/NZX 50 index",
+            "FIN_INSTRUMENT",
+            "Rose",
+            "null",
+            "null"
+        ],
+        [
+            "Chris Thomas",
+            "PERSON",
+            "in",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Alison Williams",
+            "PERSON",
+            "Editing",
+            "null",
+            "null"
+        ]
+    ]
+}

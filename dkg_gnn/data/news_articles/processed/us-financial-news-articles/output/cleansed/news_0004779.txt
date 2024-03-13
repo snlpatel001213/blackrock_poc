@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "David Hockney",
+            "PERSON",
+            "Produce",
+            "roomfuls of colorful work",
+            "ART"
+        ],
+        [
+            "British artist David Hockney",
+            "PERSON",
+            "Exhibit",
+            "at New York\u2019s Metropolitan Museum of Art",
+            "ORG"
+        ],
+        [
+            "Mr and Mrs Clark and Percy",
+            "ART",
+            "Relate_To",
+            "British artist David Hockney",
+            "PERSON"
+        ],
+        [
+            "Mr and Mrs Clark and Percy",
+            "ART",
+            "Depict",
+            "Mr. Hockney\u2019s newly married friends",
+            "PERSON"
+        ],
+        [
+            "Mr and Mrs Clark and Percy",
+            "ART",
+            "Depict",
+            "fashion designer Ossie Clark",
+            "PERSON"
+        ],
+        [
+            "Mr and Mrs Clark and Percy",
+            "ART",
+            "Depict",
+            "textile designer Celia Birtwell",
+            "PERSON"
+        ],
+        [
+            "Mr and Mrs Clark and Percy",
+            "ART",
+            "Depict",
+            "Percy",
+            "ANIMAL"
+        ]
+    ]
+}

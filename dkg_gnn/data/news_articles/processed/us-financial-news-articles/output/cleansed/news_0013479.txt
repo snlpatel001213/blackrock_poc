@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "BNP Paribas",
+            "ORG",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Yannick Jung",
+            "PERSON",
+            "Has",
+            "Head_of_Global_Banking",
+            "TITLE"
+        ],
+        [
+            "Yannick Jung",
+            "PERSON",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Yannick Jung",
+            "PERSON",
+            "Reports_To",
+            "Yann G\u00e9rardin",
+            "PERSON"
+        ],
+        [
+            "Yann G\u00e9rardin",
+            "PERSON",
+            "Has",
+            "Head_of_Corporate_and_Institutional_Banking",
+            "TITLE"
+        ],
+        [
+            "Eirik Winter",
+            "PERSON",
+            "Has",
+            "CEO",
+            "TITLE"
+        ],
+        [
+            "Eirik Winter",
+            "PERSON",
+            "Operate_In",
+            "Nordic",
+            "GPE"
+        ],
+        [
+            "Eirik Winter",
+            "PERSON",
+            "Works_For",
+            "BNP Paribas",
+            "ORG"
+        ]
+    ]
+}

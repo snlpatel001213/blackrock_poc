@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Howard Marella",
+            "PERSON",
+            "Control",
+            "Put Options",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Howard Marella",
+            "PERSON",
+            "Participates_In",
+            "Broker Icon Alternatives",
+            "ORG"
+        ],
+        [
+            "Put Options",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "ECON_INDICATOR",
+            "Cross",
+            "25000",
+            "NUM"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "ECON_INDICATOR",
+            "Impact",
+            "Big-Number Milestone",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Stock Market",
+            "SECTOR"
+        ]
+    ]
+}

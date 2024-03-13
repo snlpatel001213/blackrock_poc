@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Control",
+            "Cash",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Announce",
+            "We'd buy GE",
+            "ORG"
+        ],
+        [
+            "GE",
+            "ORG",
+            "Relate_To",
+            "Right Number",
+            "CONCEPT"
+        ]
+    ]
+}

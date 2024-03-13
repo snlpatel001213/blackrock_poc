@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Badger Meter, Inc.",
+            "COMP",
+            "Announce",
+            "Company\u2019s 2017 fourth quarter results",
+            "EVENT"
+        ],
+        [
+            "Company\u2019s 2017 fourth quarter results",
+            "EVENT",
+            "Relate_To",
+            "Badger Meter, Inc.",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "Tuesday, February 6, 2018",
+            "GPE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "10:00 AM Central/11:00 AM Eastern time",
+            "GPE"
+        ]
+    ]
+}

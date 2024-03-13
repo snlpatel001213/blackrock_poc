@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Aussie benchmark",
+            "ECON_INDICATOR",
+            "Fall",
+            "0.6 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "All sectors",
+            "SECTOR",
+            "In",
+            "Red",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Slip",
+            "China concerns",
+            "CONCEPT"
+        ],
+        [
+            "New Zealand",
+            "GPE",
+            "Down",
+            "1.4 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dairy",
+            "SECTOR",
+            "Stocks",
+            "Weigh",
+            "CONCEPT"
+        ],
+        [
+            "Healthcare stocks",
+            "SECTOR",
+            "Weigh",
+            null,
+            null
+        ],
+        [
+            "Christopher Conway",
+            "PERSON",
+            "Head",
+            "Research and Trading",
+            "TITLE"
+        ],
+        [
+            "Australian Stock Report",
+            "ORG",
+            "Employ",
+            "Christopher Conway",
+            "PERSON"
+        ],
+        [
+            "Financials",
+            "SECTOR",
+            "Bear",
+            "Downturn",
+            "CONCEPT"
+        ],
+        [
+            "Australia and New Zealand Banking Group",
+            "COMP",
+            "Decline",
+            "0.9 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Westpac Banking Corp",
+            "COMP",
+            "Fall",
+            "about 0.7 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Commonwealth Bank of Australia",
+            "COMP",
+            "Fall",
+            "about 0.7 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CSL Ltd",
+            "COMP",
+            "Among",
+            "Biggest drags",
+            "CONCEPT"
+        ],
+        [
+            "Material stocks",
+            "SECTOR",
+            "Snap",
+            "Red",
+            "CONCEPT"
+        ],
+        [
+            "BHP Billiton Ltd",
+            "COMP",
+            "Fall",
+            "0.8 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Zealand\u2019s benchmark S&P/NZX 50 index",
+            "ECON_INDICATOR",
+            "Drop",
+            "1.4 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dairy firm A2 Milk Company",
+            "COMP",
+            "Slump",
+            "4.2 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ryman Healthcare Ltd",
+            "COMP",
+            "Post",
+            "Biggest intraday drop",
+            "CONCEPT"
+        ]
+    ]
+}

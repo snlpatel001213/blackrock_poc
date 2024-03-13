@@ -1,0 +1,65 @@
+{
+    "output": [
+        [
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Announce",
+            "Strategic Investment",
+            "CONCEPT"
+        ],
+        [
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Invests_In",
+            "Inner Spirit Holdings Ltd",
+            "ORG"
+        ],
+        [
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Provide",
+            "Inner Spirit",
+            "ORG",
+            "Cash Payment",
+            "FIN_INSTRUMENT",
+            "350000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Provide",
+            "Inner Spirit",
+            "ORG",
+            "Common Shares",
+            "FIN_INSTRUMENT",
+            "674418",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inner Spirit Holdings Ltd",
+            "ORG",
+            "Receive",
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Common Shares",
+            "FIN_INSTRUMENT",
+            "15000000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inner Spirit Holdings Ltd",
+            "ORG",
+            "Receive",
+            "Cannabis Wheaton Income Corp",
+            "COMP",
+            "Common Shares",
+            "FIN_INSTRUMENT",
+            "674418",
+            "ECON_INDICATOR",
+            "Issue Price",
+            "2.15",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Swiss airline",
+            "GPE",
+            "Taken over",
+            "investment company",
+            "ORG"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Operate_In",
+            "Low-cost carrier",
+            "ORG"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Has",
+            "sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SBC",
+            "ORG",
+            "Pay",
+            "Belair",
+            "COMP"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Participates_In",
+            "Breakup",
+            "CONCEPT"
+        ],
+        [
+            "Air Berlin",
+            "ORG",
+            "Control",
+            "Belair",
+            "COMP"
+        ],
+        [
+            "Air Berlin",
+            "ORG",
+            "File",
+            "Insolvency",
+            "CONCEPT"
+        ],
+        [
+            "Air Berlin",
+            "ORG",
+            "Halt",
+            "Operations",
+            "CONCEPT"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Layoff",
+            "Staff",
+            "PERSON"
+        ],
+        [
+            "SBC",
+            "ORG",
+            "Board member",
+            "Juergen Bremer",
+            "PERSON"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Relate_To",
+            "New business model",
+            "CONCEPT"
+        ],
+        [
+            "SBC",
+            "ORG",
+            "Talks",
+            "Potential clients",
+            "GPE"
+        ],
+        [
+            "Belair",
+            "COMP",
+            "Impact",
+            "Relauch",
+            "CONCEPT"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Attract",
+            "Interest",
+            "CONCEPT"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "File",
+            "Insolvency",
+            "CONCEPT"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Founded",
+            "Niki Lauda",
+            "PERSON"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Potential bidder",
+            "Niki Lauda",
+            "PERSON"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Sell",
+            "Assets",
+            "PRODUCT"
+        ],
+        [
+            "Lufthansa",
+            "ORG",
+            "Scrap",
+            "Plans",
+            "CONCEPT"
+        ],
+        [
+            "Niki",
+            "COMP",
+            "Unit",
+            "Air Berlin",
+            "ORG"
+        ]
+    ]
+}

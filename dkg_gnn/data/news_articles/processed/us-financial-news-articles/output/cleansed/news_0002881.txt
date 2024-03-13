@@ -1,0 +1,51 @@
+{
+    "output": [
+        [
+            "Economic Forecasters",
+            "PERSON",
+            "Impact",
+            "Eurozone Economy",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Forecast",
+            "1.7%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Independent Forecasters",
+            "PERSON",
+            "Forecast",
+            "1.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Reckon",
+            "Eurozone",
+            "GPE",
+            "grew",
+            "2.4%",
+            "ECON_INDICATOR",
+            "in",
+            "2017"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Operate_In",
+            "Eurozone",
+            "GPE"
+        ],
+        [
+            "Beno\u00eet",
+            "PERSON",
+            "Is_Member_Of",
+            "ECB",
+            "ORG/REG"
+        ]
+    ]
+}

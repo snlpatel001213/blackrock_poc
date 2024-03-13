@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Mansion",
+            "GPE",
+            "Interviews",
+            "Marc Myers",
+            "PERSON"
+        ],
+        [
+            "Marc Myers",
+            "PERSON",
+            "Interviews",
+            "Rafael Vi\u00f1oly",
+            "PERSON"
+        ],
+        [
+            "Rafael Vi\u00f1oly",
+            "PERSON",
+            "Recalls",
+            "Family\u2019s modernist home",
+            "ORG"
+        ],
+        [
+            "Rafael Vi\u00f1oly",
+            "PERSON",
+            "Likes",
+            "Piano",
+            "PRODUCT"
+        ],
+        [
+            "Rafael Vi\u00f1oly",
+            "PERSON",
+            "Creates",
+            "New York creation",
+            "GPE"
+        ],
+        [
+            "Rafael Vi\u00f1oly",
+            "PERSON",
+            "Designs",
+            "432 Park Avenue",
+            "PRODUCT"
+        ],
+        [
+            "432 Park Avenue",
+            "PRODUCT",
+            "Is",
+            "World\u2019s Tallest Residential Tower",
+            "CONCEPT"
+        ]
+    ]
+}

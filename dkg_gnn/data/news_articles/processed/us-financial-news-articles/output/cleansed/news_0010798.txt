@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Deloitte",
+            "ORG",
+            "Announce",
+            "CFO Optimism on the Rise",
+            "EVENT"
+        ],
+        [
+            "Deloitte",
+            "ORG",
+            "Operate_In",
+            "Q4 2017 CFO Signals survey",
+            "EVENT"
+        ],
+        [
+            "CFOs",
+            "PERSON",
+            "Participates_In",
+            "Deloitte\u2019s Q4 2017 CFO Signals survey",
+            "EVENT"
+        ],
+        [
+            "CFOs",
+            "PERSON",
+            "Optimism",
+            "Current State of Domestic Economy",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CFOs",
+            "PERSON",
+            "Working_On",
+            "Replacing Jobs with Automated Workforce",
+            "CONCEPT"
+        ],
+        [
+            "Toyota Motor",
+            "COMP",
+            "Announce",
+            "Pick U.S. Plant Site",
+            "EVENT"
+        ],
+        [
+            "Toyota Motor",
+            "COMP",
+            "Operate_In",
+            "Huntsville, Alabama",
+            "GPE"
+        ],
+        [
+            "Mazda Motor",
+            "COMP",
+            "Announce",
+            "Pick U.S. Plant Site",
+            "EVENT"
+        ],
+        [
+            "Mazda Motor",
+            "COMP",
+            "Operate_In",
+            "Huntsville, Alabama",
+            "GPE"
+        ],
+        [
+            "Toyota Motor",
+            "COMP",
+            "Control",
+            "Toyota",
+            "PRODUCT"
+        ],
+        [
+            "Mazda Motor",
+            "COMP",
+            "Control",
+            "Mazda",
+            "PRODUCT"
+        ],
+        [
+            "Toyota",
+            "PRODUCT",
+            "Produce",
+            "300,000 Vehicles",
+            "QUANTITY"
+        ],
+        [
+            "Huntsville, Alabama",
+            "GPE",
+            "Impact",
+            "4,000 Jobs",
+            "QUANTITY"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Promise",
+            "Security Flaw Fix",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "Intel Microchips",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Senators Push for Probe",
+            "EVENT"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Sell",
+            "Large Chunk of Intel Shares",
+            "EVENT"
+        ],
+        [
+            "U.S. Senators",
+            "PERSON",
+            "Send",
+            "Letter to SEC and Justice Department",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Lawmakers",
+            "PERSON",
+            "Discuss",
+            "$1 Trillion Infrastructure Plan",
+            "EVENT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Meet",
+            "Bipartisan Group of Senators",
+            "PERSON"
+        ],
+        [
+            "Infrastructure",
+            "CONCEPT",
+            "Include",
+            "Spending on Improvements",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Plan",
+            "Attend Davos Forum",
+            "EVENT"
+        ],
+        [
+            "Angela Ahrendts",
+            "PERSON",
+            "Interview",
+            "Tim Cook",
+            "PERSON"
+        ],
+        [
+            "Angela Ahrendts",
+            "PERSON",
+            "Leave",
+            "Job as CEO of Burberry",
+            "ORG"
+        ],
+        [
+            "Angela Ahrendts",
+            "PERSON",
+            "Take Over",
+            "Apple\u2019s Retail Business",
+            "ORG"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Cost U.S.",
+            "$300 Billion Weather Disasters",
+            "EVENT"
+        ],
+        [
+            "NOAA",
+            "ORG",
+            "Estimate",
+            "Record $306.2 Billion",
+            "QUANTITY"
+        ],
+        [
+            "NOAA",
+            "ORG",
+            "Say",
+            "Three Huge Hurricanes",
+            "EVENT"
+        ],
+        [
+            "NOAA",
+            "ORG",
+            "Most of the Damage",
+            "Weather-Related Events",
+            "CONCEPT"
+        ]
+    ]
+}

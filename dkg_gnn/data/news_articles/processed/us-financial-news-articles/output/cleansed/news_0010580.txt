@@ -1,0 +1,184 @@
+{
+    "output": [
+        [
+            "Stanford University",
+            "ORG",
+            "Evaluate",
+            "Randomized Controlled Trial Reports",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Extract",
+            "Papers",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Led",
+            "Publications",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Publish",
+            "0.03",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Publish",
+            "0.05",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Publish",
+            "0.07",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Publish",
+            "0.10",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Publish",
+            "0.20",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Publish",
+            "0.07",
+            "ECON_INDICATOR",
+            "Research and Development"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Publish",
+            "2.4",
+            "ECON_INDICATOR",
+            "Research and Development"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Publish",
+            "6.5",
+            "ECON_INDICATOR",
+            "Research and Development"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Publish",
+            "7.4",
+            "ECON_INDICATOR",
+            "Research and Development"
+        ],
+        [
+            "Denmark",
+            "GPE",
+            "Publish",
+            "14.4",
+            "ECON_INDICATOR",
+            "Research and Development"
+        ],
+        [
+            "Dr. Jared Forrester",
+            "PERSON",
+            "Explain",
+            "Publication Rates",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Andrew Vickers",
+            "PERSON",
+            "Insist",
+            "Shift Culture",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Andrew Vickers",
+            "PERSON",
+            "Not Involved",
+            "Stanford Study",
+            "CONCEPT"
+        ],
+        [
+            "Proposal",
+            "CONCEPT",
+            "Go Through",
+            "Ethics Committees",
+            "ORG"
+        ],
+        [
+            "Ethics Committees",
+            "ORG",
+            "Add",
+            "Modifications",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Sherry Wren",
+            "PERSON",
+            "Coauthor",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Sherry Wren",
+            "PERSON",
+            "Phone Interview",
+            "Reuters Health",
+            "ORG"
+        ],
+        [
+            "Dr. Jared Forrester",
+            "PERSON",
+            "Agree",
+            "Obligation",
+            "CONCEPT"
+        ],
+        [
+            "Authors",
+            "PERSON",
+            "Hope",
+            "Attention",
+            "CONCEPT"
+        ],
+        [
+            "Dedicated Surgical Research Funds",
+            "CONCEPT",
+            "Need",
+            "U.S. Based Surgical Researchers",
+            "PERSON"
+        ],
+        [
+            "Wren",
+            "PERSON",
+            "Call-to-Arms",
+            "Current System",
+            "CONCEPT"
+        ],
+        [
+            "JAMA Surgery",
+            "ORG",
+            "Online",
+            "December 27, 2017",
+            "DATE"
+        ]
+    ]
+}

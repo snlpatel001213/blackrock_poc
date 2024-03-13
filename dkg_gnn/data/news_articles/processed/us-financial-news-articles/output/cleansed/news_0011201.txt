@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Gillian Anderson",
+            "PERSON",
+            "Receive",
+            "Star",
+            "ORG/REG"
+        ],
+        [
+            "Star",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Walk of Fame",
+            "ORG/REG"
+        ]
+    ]
+}

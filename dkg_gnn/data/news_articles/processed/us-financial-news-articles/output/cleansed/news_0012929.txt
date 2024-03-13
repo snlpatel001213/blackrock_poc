@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Operate_In",
+            "Clean Technology Industry",
+            "SECTOR"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Produce",
+            "Microturbine Energy Systems",
+            "PRODUCT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Trade_On",
+            "NASDAQ:CPST",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Announce",
+            "Preliminary Financial Results",
+            "EVENT"
+        ],
+        [
+            "Preliminary Financial Results",
+            "EVENT",
+            "Relate_To",
+            "Q3 Fiscal 2018",
+            "TIME"
+        ],
+        [
+            "Preliminary Financial Results",
+            "EVENT",
+            "Has",
+            "91% of Target Adjusted EBITDA Breakeven Revenue Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Preliminary Financial Results",
+            "EVENT",
+            "Has",
+            "12% Year-over-Year Quarterly Revenue Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Preliminary Financial Results",
+            "EVENT",
+            "Has",
+            "33% Year-over-Year Cash Usage Decline",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Preliminary Financial Results",
+            "EVENT",
+            "Relate_To",
+            "Fiscal Third Quarter Ended December 31, 2017",
+            "TIME"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Control",
+            "Management",
+            "PERSON"
+        ],
+        [
+            "Management",
+            "PERSON",
+            "Impact",
+            "Capstone\u2019s Preliminary Third Quarter Results",
+            "EVENT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Participates_In",
+            "Initiatives to Diversify and Increase Revenue",
+            "CONCEPT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Participates_In",
+            "Initiatives to Increase Service Gross Margin",
+            "CONCEPT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Participates_In",
+            "Initiatives to Reduce Operating Expenses",
+            "CONCEPT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Participates_In",
+            "Initiatives to Achieve Adjusted EBITDA Breakeven",
+            "CONCEPT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Control",
+            "Total Cash, Cash Equivalents and Restricted Cash",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Control",
+            "Borrowings on the Line of Credit Facility",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Receive",
+            "Financing Activities",
+            "EVENT"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Has",
+            "New Product Orders",
+            "EVENT"
+        ],
+        [
+            "New Product Orders",
+            "EVENT",
+            "Has",
+            "0.7:1 Book-to-Bill Ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Capstone Turbine Corporation",
+            "COMP",
+            "Issue",
+            "Press Release",
+            "EVENT"
+        ]
+    ]
+}

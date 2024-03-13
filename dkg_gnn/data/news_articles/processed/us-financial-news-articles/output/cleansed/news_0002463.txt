@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Clear Media Ltd",
+            "ORG",
+            "Has",
+            "employee",
+            "PERSON"
+        ],
+        [
+            "employee",
+            "PERSON",
+            "Steal",
+            "76 million yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "76 million yuan",
+            "ECON_INDICATOR",
+            "Equal",
+            "11.7 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "11.7 million",
+            "ECON_INDICATOR",
+            "Equal",
+            "180.58 million HK dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "employee",
+            "PERSON",
+            "Cashier",
+            "Company\u2019,s finance department",
+            "ORG"
+        ],
+        [
+            "Company\u2019,s finance department",
+            "ORG",
+            "Deposit",
+            "funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "funds",
+            "ECON_INDICATOR",
+            "With",
+            "mainland bank",
+            "ORG"
+        ],
+        [
+            "Clear Media Ltd",
+            "ORG",
+            "File",
+            "case",
+            "EVENT"
+        ],
+        [
+            "case",
+            "EVENT",
+            "Not impact",
+            "Clear Media\u2019,s day-to-day operations",
+            "ORG"
+        ],
+        [
+            "Clear Media Ltd",
+            "ORG",
+            "Establish",
+            "internal committee",
+            "ORG"
+        ]
+    ]
+}

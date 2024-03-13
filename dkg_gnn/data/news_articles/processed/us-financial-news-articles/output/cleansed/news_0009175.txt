@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "SevenHills Benefit Partners",
+            "COMP",
+            "Merge",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "The Cleveland Company",
+            "COMP",
+            "Merge",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "SevenHills Cleveland Benefit Partners",
+            "COMP",
+            "Operate_In",
+            "Local Benefit Market",
+            "GPE"
+        ],
+        [
+            "Christopher Schneeman",
+            "PERSON",
+            "Is_Member_Of",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "Christopher Schneeman",
+            "PERSON",
+            "CEO",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "John Cleveland",
+            "PERSON",
+            "Is_Member_Of",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "John Cleveland",
+            "PERSON",
+            "CFO",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "Michelle Maher",
+            "PERSON",
+            "Is_Member_Of",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "Michelle Maher",
+            "PERSON",
+            "COO",
+            "SevenHills Cleveland Benefit Partners",
+            "COMP"
+        ],
+        [
+            "SevenHills Cleveland Benefit Partners",
+            "COMP",
+            "Employ",
+            "25",
+            "NUMBER"
+        ],
+        [
+            "SevenHills Cleveland Benefit Partners",
+            "COMP",
+            "Plan",
+            "Expand",
+            "NULL"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "XpresSpa Group Inc.",
+            "COMP",
+            "Announce",
+            "trading on Nasdaq under ticker symbol XSPA",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "XpresSpa Group",
+            "COMP",
+            "Relate_To",
+            "health and wellness holding company",
+            "CONCEPT"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Operate_In",
+            "Airport spa company",
+            "SECTOR"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Positive_Impact_On",
+            "customer experiences",
+            "CONCEPT"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Produce",
+            "premium spa services",
+            "PRODUCT"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Produce",
+            "luxury travel products and accessories",
+            "PRODUCT"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Serve",
+            "almost one million customers per year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "XpresSpa",
+            "COMP",
+            "Locate_In",
+            "United States, Holland, and United Arab Emirates",
+            "GPE"
+        ],
+        [
+            "Group Mobile",
+            "COMP",
+            "Is_Member_Of",
+            "XpresSpa Group non-core assets",
+            "CONCEPT"
+        ],
+        [
+            "Infomedia",
+            "COMP",
+            "Is_Member_Of",
+            "XpresSpa Group non-core assets",
+            "CONCEPT"
+        ],
+        [
+            "intellectual property assets",
+            "CONCEPT",
+            "Is_Member_Of",
+            "XpresSpa Group non-core assets",
+            "CONCEPT"
+        ],
+        [
+            "intellectual property assets",
+            "CONCEPT",
+            "Relate_To",
+            "content delivery, remote monitoring, ad-insertion, bitcoin, and telecom infrastructure",
+            "CONCEPT"
+        ]
+    ]
+}

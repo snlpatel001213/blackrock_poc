@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Acquire",
+            "RECOTHROM",
+            "PRODUCT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Acquire",
+            "PREVELEAK",
+            "PRODUCT"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Produce",
+            "Thrombin",
+            "CONCEPT"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Impact",
+            "Hemostasis",
+            "CONCEPT"
+        ],
+        [
+            "PREVELEAK",
+            "PRODUCT",
+            "Reinforce",
+            "Sutured Connections",
+            "CONCEPT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Operate_In",
+            "Surgical Innovation",
+            "CONCEPT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Operate_In",
+            "Medical Products",
+            "CONCEPT"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Indicated",
+            "Hemostasis",
+            "CONCEPT"
+        ],
+        [
+            "PREVELEAK",
+            "PRODUCT",
+            "Indicated",
+            "Vascular Reconstructions",
+            "CONCEPT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Commit",
+            "Surgical Innovation",
+            "CONCEPT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Commit",
+            "Advancing Surgical Innovation",
+            "CONCEPT"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Used_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Used_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Used_In",
+            "Adults",
+            "PERSON"
+        ],
+        [
+            "RECOTHROM",
+            "PRODUCT",
+            "Used_In",
+            "Pediatric Populations",
+            "PERSON"
+        ],
+        [
+            "PREVELEAK",
+            "PRODUCT",
+            "Approved",
+            "United States",
+            "GPE"
+        ],
+        [
+            "PREVELEAK",
+            "PRODUCT",
+            "Approved",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Expect",
+            "Accretive",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Expect",
+            "Closing",
+            "EVENT"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Expect",
+            "First Half",
+            "TIME"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Expect",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Acquire",
+            "Mallinckrodt plc",
+            "ORG"
+        ],
+        [
+            "Baxter International Inc.",
+            "ORG",
+            "Acquire",
+            "Two Hemostat and Sealant Products",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Starbucks",
+            "COMP",
+            "Introduce",
+            "Blonde Espresso",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Operate_In",
+            "Restaurants",
+            "GPE"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Relate_To",
+            "Coffee Drinkers",
+            "PERSON"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Has",
+            "Mild Flavor",
+            "CONCEPT"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Has",
+            "Crisp Flavor",
+            "CONCEPT"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Has",
+            "Creamy Texture",
+            "CONCEPT"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Cost",
+            "Same Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Participates_In",
+            "Permanent Menu",
+            "CONCEPT"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Impact",
+            "New Coffee Drinkers",
+            "PERSON"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Control",
+            "Baristas",
+            "PERSON"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Raise",
+            "Caffeine",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Blonde Espresso",
+            "PRODUCT",
+            "Relate_To",
+            "Latin America",
+            "GPE"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Compete_With",
+            "Dunkin' Donuts",
+            "COMP"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Compete_With",
+            "McDonald's",
+            "COMP"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Under_Pressure_To",
+            "Revitalize",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Expect",
+            "Global Same-store Sales Growth",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

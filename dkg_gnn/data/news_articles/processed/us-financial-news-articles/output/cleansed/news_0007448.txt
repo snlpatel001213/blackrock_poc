@@ -1,0 +1,75 @@
+{
+    "output": [
+        [
+            "Acerus Pharmaceuticals Corporation",
+            "COMP",
+            "Enter",
+            "Licensing Agreement",
+            "ORG"
+        ],
+        [
+            "Acerus Pharmaceuticals Corporation",
+            "COMP",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Acerus Pharmaceuticals Corporation",
+            "COMP",
+            "Control",
+            "Urivarx",
+            "PRODUCT"
+        ],
+        [
+            "Innovus",
+            "ORG",
+            "Participates_In",
+            "Licensing Agreement",
+            "ORG"
+        ],
+        [
+            "Innovus",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Innovus",
+            "ORG",
+            "Oversee",
+            "Manufacturing",
+            "CONCEPT"
+        ],
+        [
+            "Innovus",
+            "ORG",
+            "Receive",
+            "Supply Price",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Innovus",
+            "ORG",
+            "Receive",
+            "Payment",
+            "FIN_INSTRUMENT",
+            "at",
+            "Signing",
+            "EVENT"
+        ],
+        [
+            "Acerus Pharmaceuticals Corporation",
+            "COMP",
+            "Pay",
+            "Milestones",
+            "FIN_INSTRUMENT",
+            "based on",
+            "Acerus",
+            "achieving",
+            "Certain Sales Targets",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

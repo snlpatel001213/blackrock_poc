@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Operate_In",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Sanctions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kellyanne Conway",
+            "PERSON",
+            "Is_Member_Of",
+            "Trump Administration",
+            "ORG/GOV"
+        ]
+    ]
+}

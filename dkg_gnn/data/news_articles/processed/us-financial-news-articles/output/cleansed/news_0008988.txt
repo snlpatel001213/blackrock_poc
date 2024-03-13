@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Consider",
+            "Join",
+            "VERB"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Participates_In",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Is_Member_Of",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Participates_In",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Is_Member_Of",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "US",
+            "GPE"
+        ],
+        [
+            "World Economic Forum",
+            "EVENT",
+            "Host",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Noah Barkin",
+            "PERSON",
+            "Explain",
+            "Ideological Battle",
+            "CONCEPT"
+        ]
+    ]
+}

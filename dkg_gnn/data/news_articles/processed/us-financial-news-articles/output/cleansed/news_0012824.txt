@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "Negative_Impact_On",
+            "Facebook Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Buying",
+            "CONCEPT"
+        ],
+        [
+            "Facebook Shares",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Buying",
+            "CONCEPT"
+        ]
+    ]
+}

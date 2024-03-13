@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Catherine Deneuve",
+            "PERSON",
+            "Denounce",
+            "Metoo Campaign",
+            "EVENT"
+        ],
+        [
+            "Catherine Deneuve",
+            "PERSON",
+            "Join",
+            "99 Other Women",
+            "PERSON"
+        ],
+        [
+            "99 Other Women",
+            "PERSON",
+            "Denounce",
+            "Backlash Against Men",
+            "CONCEPT"
+        ],
+        [
+            "Backlash Against Men",
+            "CONCEPT",
+            "Relate_To",
+            "Harvey Weinstein Scandal",
+            "EVENT"
+        ]
+    ]
+}

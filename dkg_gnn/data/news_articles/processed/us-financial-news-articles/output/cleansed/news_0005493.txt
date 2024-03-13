@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Discuss",
+            "Stocks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Stocks",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "New Highs",
+            "CONCEPT"
+        ]
+    ]
+}

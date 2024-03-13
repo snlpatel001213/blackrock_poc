@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Operate_In",
+            "Six Southeastern States",
+            "GPE"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Control",
+            "200 Supermarkets",
+            "COMP"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Control",
+            "Neighborhood Shopping Centers",
+            "COMP"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Control",
+            "Fluid Dairy Facility",
+            "COMP"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Trade",
+            "NASDAQ Stock Market\u2019s Global Select Market",
+            "EXCH"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Has",
+            "Class A Common Stock",
+            "SECURITY"
+        ],
+        [
+            "Ingles Markets, Incorporated",
+            "ORG",
+            "Has",
+            "Class B Common Stock",
+            "SECURITY"
+        ],
+        [
+            "Class A Common Stock",
+            "SECURITY",
+            "Payable",
+            "January 18, 2018",
+            "DATE"
+        ],
+        [
+            "Class B Common Stock",
+            "SECURITY",
+            "Payable",
+            "January 18, 2018",
+            "DATE"
+        ],
+        [
+            "Class A Common Stock",
+            "SECURITY",
+            "Record",
+            "January 11, 2018",
+            "DATE"
+        ],
+        [
+            "Class B Common Stock",
+            "SECURITY",
+            "Record",
+            "January 11, 2018",
+            "DATE"
+        ]
+    ]
+}

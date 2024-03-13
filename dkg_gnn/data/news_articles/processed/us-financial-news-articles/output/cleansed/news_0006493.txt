@@ -1,0 +1,134 @@
+{
+    "output": [
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Impact",
+            "Form",
+            "CONCEPT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Operate_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Win",
+            "Title",
+            "PRODUCT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Defeat",
+            "Rublev",
+            "PERSON"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Slip",
+            "Rankings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "End",
+            "Year",
+            "TIME"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Cite",
+            "Right Knee Injury",
+            "CONCEPT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Lose",
+            "Match",
+            "EVENT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Frustrate",
+            "Monfils",
+            "PERSON"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Project",
+            "Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Match",
+            "Monfils",
+            "PERSON",
+            "Firepower",
+            "CONCEPT"
+        ],
+        [
+            "Frenchmen",
+            "PERSON",
+            "Make",
+            "Good Day",
+            "CONCEPT"
+        ],
+        [
+            "Frenchmen",
+            "PERSON",
+            "Return",
+            "Form",
+            "CONCEPT"
+        ],
+        [
+            "Frenchmen",
+            "PERSON",
+            "Win",
+            "Title",
+            "PRODUCT"
+        ],
+        [
+            "Frenchmen",
+            "PERSON",
+            "Play",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Dominic Thiem",
+            "PERSON",
+            "Withdraw",
+            "Match",
+            "EVENT",
+            "Illness",
+            "CONCEPT"
+        ],
+        [
+            "Gilles Simon",
+            "PERSON",
+            "Win",
+            "Title",
+            "PRODUCT"
+        ],
+        [
+            "Kevin Anderson",
+            "PERSON",
+            "Lose",
+            "Match",
+            "EVENT"
+        ]
+    ]
+}

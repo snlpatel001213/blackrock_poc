@@ -1,0 +1,90 @@
+{
+    "output": [
+        [
+            "Gunman",
+            "PERSON",
+            "Kills",
+            "Two Christians",
+            "PERSON"
+        ],
+        [
+            "Two Christians",
+            "PERSON",
+            "Are_Member_Of",
+            "Christianity",
+            "CONCEPT"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Shoots",
+            "At",
+            "GPE"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Flees",
+            "Scene",
+            "GPE"
+        ],
+        [
+            "Image",
+            "PRODUCT",
+            "Shows",
+            "Body",
+            "PRODUCT"
+        ],
+        [
+            "Body",
+            "PRODUCT",
+            "Is_Covered_In",
+            "Blood",
+            "PRODUCT"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Claims",
+            "Attack",
+            "EVENT"
+        ],
+        [
+            "Christian Minority",
+            "PERSON",
+            "Is_Targeted_In",
+            "Recent_Years",
+            "TIME"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Wages",
+            "Insurgency",
+            "EVENT"
+        ],
+        [
+            "Alcohol",
+            "PRODUCT",
+            "Is_Sold",
+            "Specialist_Shops",
+            "GPE"
+        ],
+        [
+            "Alcohol",
+            "PRODUCT",
+            "Is_Sold",
+            "Licensed_Premises",
+            "GPE"
+        ],
+        [
+            "Some Islamists",
+            "PERSON",
+            "Say",
+            "Alcohol",
+            "PRODUCT",
+            "Should_Be_Banned",
+            "CONCEPT"
+        ]
+    ]
+}

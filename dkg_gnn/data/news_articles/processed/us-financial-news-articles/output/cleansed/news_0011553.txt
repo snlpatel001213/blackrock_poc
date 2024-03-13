@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Control",
+            "Oil Output Cuts",
+            "EVENT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Operate_In",
+            "Oil Producing Nations",
+            "GPE"
+        ],
+        [
+            "Shale Companies",
+            "ORG",
+            "Produce",
+            "Shale Oil",
+            "PRODUCT"
+        ],
+        [
+            "Brent Crude",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Highest Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil-Producing Nations",
+            "GPE",
+            "Reel",
+            "Price Collapse",
+            "EVENT"
+        ],
+        [
+            "Shale Producers",
+            "ORG",
+            "Whet",
+            "Appetite",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Not_Keen",
+            "Increased Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Want",
+            "Crude Above $60",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Reduce",
+            "Gap in State Budget",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Advocate",
+            "Higher Prices",
+            "CONCEPT"
+        ],
+        [
+            "US Production",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "10 Million Barrels per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shale Drillers",
+            "ORG",
+            "Contribute",
+            "Soaring Output",
+            "PRODUCT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Think",
+            "Rally Driven by Iran Unrest",
+            "EVENT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Worry",
+            "Sharp Decline in Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Say",
+            "Market Fundamentals Strong",
+            "CONCEPT"
+        ],
+        [
+            "Consuming Countries",
+            "GPE",
+            "Worry",
+            "Slow Economic Growth",
+            "CONCEPT"
+        ],
+        [
+            "Producers",
+            "ORG",
+            "Pump",
+            "Above Output Target",
+            "CONCEPT"
+        ]
+    ]
+}

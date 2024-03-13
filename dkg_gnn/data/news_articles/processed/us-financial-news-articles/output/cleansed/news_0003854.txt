@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Playboy",
+            "ORG",
+            "Operate_In",
+            "Magazine",
+            "PRODUCT"
+        ],
+        [
+            "Rizvi Traverse",
+            "ORG",
+            "Control",
+            "Playboy",
+            "ORG"
+        ],
+        [
+            "Rizvi Traverse",
+            "ORG",
+            "Invests_In",
+            "Playboy",
+            "ORG"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Produce",
+            "Magazine",
+            "PRODUCT"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Has",
+            "Founder",
+            "PERSON"
+        ],
+        [
+            "Hugh Hefner",
+            "PERSON",
+            "Is_Member_Of",
+            "Playboy",
+            "ORG"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Relate_To",
+            "Centerfold Nude Photos",
+            "CONCEPT"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Relate_To",
+            "Brand Partnerships",
+            "CONCEPT"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Relate_To",
+            "Legacy Print Publication",
+            "CONCEPT"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Relate_To",
+            "Bunny Logo",
+            "CONCEPT"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Negative_Impact_On",
+            "Circulation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Playboy Magazine",
+            "PRODUCT",
+            "Lose",
+            "Money",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Playboy",
+            "ORG",
+            "Decrease",
+            "Print Version",
+            "PRODUCT"
+        ]
+    ]
+}

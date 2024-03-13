@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Curtiss-Wright Corporation",
+            "COMP",
+            "Expects_To_Release",
+            "fourth quarter and full-year 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Curtiss-Wright Corporation",
+            "COMP",
+            "Has_Webcast_Conference_Call",
+            "on Thursday, February 22, 2018 at 9:00 am EST",
+            "EVENT"
+        ],
+        [
+            "David C. Adams",
+            "PERSON",
+            "Is_Member_Of",
+            "Curtiss-Wright Corporation",
+            "COMP"
+        ],
+        [
+            "David C. Adams",
+            "PERSON",
+            "Will_Host",
+            "webcast conference call",
+            "EVENT"
+        ],
+        [
+            "Glenn E. Tynan",
+            "PERSON",
+            "Is_Member_Of",
+            "Curtiss-Wright Corporation",
+            "COMP"
+        ],
+        [
+            "Glenn E. Tynan",
+            "PERSON",
+            "Will_Host",
+            "webcast conference call",
+            "EVENT"
+        ],
+        [
+            "Financial press release",
+            "PRODUCT",
+            "Posted_In",
+            "Investor Relations section",
+            "SECTOR"
+        ],
+        [
+            "Financial press release",
+            "PRODUCT",
+            "Posted_In",
+            "Curtiss-Wright\u2019s website",
+            "COMP"
+        ],
+        [
+            "Webcast conference call",
+            "EVENT",
+            "Posted_In",
+            "Investor Relations section",
+            "SECTOR"
+        ],
+        [
+            "Webcast conference call",
+            "EVENT",
+            "Posted_In",
+            "Curtiss-Wright\u2019s website",
+            "COMP"
+        ],
+        [
+            "Financial presentation",
+            "PRODUCT",
+            "Posted_In",
+            "Investor Relations section",
+            "SECTOR"
+        ],
+        [
+            "Financial presentation",
+            "PRODUCT",
+            "Posted_In",
+            "Curtiss-Wright\u2019s website",
+            "COMP"
+        ],
+        [
+            "Curtiss-Wright Corporation",
+            "COMP",
+            "Operate_In",
+            "Commercial, industrial, defense and energy markets",
+            "SECTOR"
+        ],
+        [
+            "Curtiss-Wright Corporation",
+            "COMP",
+            "Employs",
+            "approximately 8,000 people worldwide",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jim Ryan",
+            "PERSON",
+            "Works_For",
+            "Curtiss-Wright Corporation",
+            "COMP"
+        ],
+        [
+            "Jim Ryan",
+            "PERSON",
+            "Communication_Method",
+            "704-869-4621",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jim Ryan",
+            "PERSON",
+            "Communication_Method",
+            "jim.ryan@curtisswright.com",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Die",
+            "Ireland\u2019, Jan 7",
+            "GPE"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Serve",
+            "World Trade Organisation",
+            "ORG"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Serve",
+            "Goldman Sachs",
+            "COMP"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Serve",
+            "Ireland\u2019s European Union commissioner",
+            "ORG/GOV"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Serve",
+            "Ireland\u2019s attorney general",
+            "ORG/GOV"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Relate_To",
+            "Irish Foreign Minister Simon Coveney",
+            "PERSON"
+        ],
+        [
+            "Peter Sutherland",
+            "PERSON",
+            "Relate_To",
+            "Irish national broadcaster RTE",
+            "ORG"
+        ]
+    ]
+}

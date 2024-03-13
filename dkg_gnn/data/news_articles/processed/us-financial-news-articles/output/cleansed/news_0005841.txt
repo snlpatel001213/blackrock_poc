@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "British lawmakers",
+            "PERSON",
+            "Recommend",
+            "latte levy",
+            "CONCEPT"
+        ],
+        [
+            "latte levy",
+            "CONCEPT",
+            "Impact_On",
+            "recyclable cup myth",
+            "CONCEPT"
+        ],
+        [
+            "paper coffee cups",
+            "PRODUCT",
+            "Relate_To",
+            "recyclable cup myth",
+            "CONCEPT"
+        ],
+        [
+            "British lawmakers",
+            "PERSON",
+            "Control",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Has",
+            "plastic bag charges",
+            "CONCEPT"
+        ],
+        [
+            "American cities",
+            "GPE",
+            "Has",
+            "plastic bag charges",
+            "CONCEPT"
+        ]
+    ]
+}

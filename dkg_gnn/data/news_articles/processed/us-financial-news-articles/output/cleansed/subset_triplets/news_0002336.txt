@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Stock futures",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Higher Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unrest in Iran",
+            "EVENT",
+            "Is_Member_Of",
+            "Energy Trading",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Eiger BioPharmaceuticals Inc",
+            "COMP",
+            "Stop",
+            "Development of its drug",
+            "PRODUCT"
+        ],
+        [
+            "Drug",
+            "PRODUCT",
+            "Fail",
+            "Mid-stage study",
+            "EVENT"
+        ],
+        [
+            "Drug",
+            "PRODUCT",
+            "Fail",
+            "Improving pulmonary vascular resistance",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Continue",
+            "Testing the drug for lymphedema",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Data for a mid-stage trial in lymphedema",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Shares Slump",
+            "About 39 percent to $9.7",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

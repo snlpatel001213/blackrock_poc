@@ -1,0 +1,240 @@
+{
+    "output": [
+        [
+            "Tesla Inc",
+            "COMP",
+            "Produce",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Operate_In",
+            "Electric Vehicle Market",
+            "SECTOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Has",
+            "Elon Musk",
+            "PERSON"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Delay",
+            "Production Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Plan",
+            "5000 Vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Share",
+            "Decrease",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "High Cash Burn",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Raise",
+            "Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Deliver",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Fall_Short",
+            "Wall Street Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Deliver",
+            "Total",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "High Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Predict",
+            "Reach",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "Delays",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "Reservation-holders",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Impact",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Burn",
+            "Capital Expenditures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "Brokerages Estimates",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Say",
+            "860 Model 3",
+            "PRODUCT",
+            "In_Transit",
+            "Customers"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Deliver",
+            "Total",
+            "ECON_INDICATOR",
+            "Including",
+            "Model S",
+            "PRODUCT",
+            "Model X",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "Analysts Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Predict",
+            "Reach",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Increase",
+            "Production Rate",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Face",
+            "Conventional Car Factory",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Start",
+            "$35000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Have",
+            "500000 Reservations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Face",
+            "Production Snags",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Face",
+            "Critics Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Face",
+            "Demand Issues",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Face",
+            "Revenue Delay",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Face",
+            "Cash Raise Difficulty",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Trade",
+            "46 Percent",
+            "ECON_INDICATOR",
+            "Above",
+            "Price",
+            "ECON_INDICATOR",
+            "A_Year_Ago",
+            "TIME"
+        ]
+    ]
+}

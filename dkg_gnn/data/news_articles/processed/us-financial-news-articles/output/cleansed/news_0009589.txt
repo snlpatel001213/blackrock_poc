@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Prince Harry",
+            "PERSON",
+            "Visit",
+            "Reprezent Radio",
+            "ORG"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Visit",
+            "Reprezent Radio",
+            "ORG"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Relate_To",
+            "Young People Support",
+            "CONCEPT"
+        ],
+        [
+            "Reprezent Radio",
+            "ORG",
+            "Support",
+            "Young People",
+            "CONCEPT"
+        ]
+    ]
+}

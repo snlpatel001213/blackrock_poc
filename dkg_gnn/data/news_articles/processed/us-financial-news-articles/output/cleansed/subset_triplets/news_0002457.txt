@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Pershing Square",
+            "ORG",
+            "Participates_In",
+            "Insider Trading Suit Settlement",
+            "EVENT"
+        ],
+        [
+            "Valeant Pharmaceuticals International Inc",
+            "COMP",
+            "Participates_In",
+            "Insider Trading Suit Settlement",
+            "EVENT"
+        ],
+        [
+            "Bill Ackman",
+            "PERSON",
+            "Is_Member_Of",
+            "Pershing Square",
+            "ORG"
+        ]
+    ]
+}

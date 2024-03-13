@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "VDMA",
+            "ORG",
+            "Announce",
+            "No_Impact_On_Trade_Ties",
+            "GPE"
+        ],
+        [
+            "Protests in Iran",
+            "EVENT",
+            "Relate_To",
+            "Domestic_Political_Situation",
+            "CONCEPT"
+        ],
+        [
+            "BDI",
+            "ORG",
+            "Announce",
+            "Rise_in_Exports_to_Iran",
+            "GPE"
+        ]
+    ]
+}

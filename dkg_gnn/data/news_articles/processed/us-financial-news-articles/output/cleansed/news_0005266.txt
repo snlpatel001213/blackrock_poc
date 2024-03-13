@@ -1,0 +1,162 @@
+{
+    "output": [
+        [
+            "Flooding",
+            "CONCEPT",
+            "Impact",
+            "Flight Delays",
+            "CONCEPT"
+        ],
+        [
+            "Water Main Break",
+            "CONCEPT",
+            "Cause",
+            "Flooding",
+            "CONCEPT"
+        ],
+        [
+            "Terminal 4",
+            "GPE",
+            "Suspend",
+            "International Flight Arrivals",
+            "CONCEPT"
+        ],
+        [
+            "Terminal 4",
+            "GPE",
+            "Divert",
+            "Passengers",
+            "PERSON"
+        ],
+        [
+            "Port Authority of New York and New Jersey",
+            "ORG/GOV",
+            "Operate",
+            "JFK International Airport",
+            "GPE"
+        ],
+        [
+            "Port Authority of New York and New Jersey",
+            "ORG/GOV",
+            "Advise",
+            "Travelers",
+            "PERSON"
+        ],
+        [
+            "Terminal 4",
+            "GPE",
+            "Have",
+            "Water",
+            "CONCEPT"
+        ],
+        [
+            "Port Authority",
+            "ORG/GOV",
+            "Investigate",
+            "Cause",
+            "CONCEPT"
+        ],
+        [
+            "JFK International Airport",
+            "GPE",
+            "Crawl Back",
+            "Normal",
+            "CONCEPT"
+        ],
+        [
+            "Winter Storm",
+            "CONCEPT",
+            "Label",
+            "Bomb Cyclone",
+            "CONCEPT"
+        ],
+        [
+            "Thursday",
+            "DATE",
+            "Force",
+            "JFK International Airport",
+            "GPE",
+            "Close"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Follow",
+            "Thursday"
+        ],
+        [
+            "Friday",
+            "DATE",
+            "Resume",
+            "Operations",
+            "CONCEPT"
+        ],
+        [
+            "Friday Morning to Sunday Afternoon",
+            "TIMEPERIOD",
+            "Include",
+            "More Than 500 Flights",
+            "CONCEPT",
+            "Cancel",
+            "Nearly 1,400 Flights",
+            "CONCEPT",
+            "Delay"
+        ],
+        [
+            "Flight-Tracking Website FlightAware",
+            "ORG",
+            "Provide",
+            "Flight Information",
+            "CONCEPT"
+        ],
+        [
+            "Extreme Cold",
+            "CONCEPT",
+            "Create",
+            "Cascading Series of Issues",
+            "CONCEPT"
+        ],
+        [
+            "Equipment",
+            "CONCEPT",
+            "Freeze",
+            "Baggage Handling",
+            "CONCEPT"
+        ],
+        [
+            "Staff Shortages",
+            "CONCEPT",
+            "Compound",
+            "Issues",
+            "CONCEPT"
+        ],
+        [
+            "Heavier Than Normal Passenger Loads",
+            "CONCEPT",
+            "Compound",
+            "Issues",
+            "CONCEPT"
+        ],
+        [
+            "Passengers",
+            "PERSON",
+            "Stuck",
+            "Planes",
+            "VEHICLE"
+        ],
+        [
+            "Airlines",
+            "ORG",
+            "Experience",
+            "Backlog",
+            "CONCEPT"
+        ],
+        [
+            "Terminals",
+            "GPE",
+            "Crowd",
+            "Stranded Passengers",
+            "PERSON"
+        ]
+    ]
+}

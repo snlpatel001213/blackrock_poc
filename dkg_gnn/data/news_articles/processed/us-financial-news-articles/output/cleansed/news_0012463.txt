@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Rohingya Muslim insurgents",
+            "PERSON",
+            "Ambush",
+            "vehicle",
+            "COMP"
+        ],
+        [
+            "vehicle",
+            "COMP",
+            "Transport",
+            "someone",
+            "PERSON"
+        ],
+        [
+            "someone",
+            "PERSON",
+            "Go_To",
+            "hospital",
+            "COMP"
+        ],
+        [
+            "Rohingya Muslim insurgents",
+            "PERSON",
+            "Wound",
+            "three people",
+            "PERSON"
+        ],
+        [
+            "three people",
+            "PERSON",
+            "Include",
+            "two members",
+            "PERSON"
+        ],
+        [
+            "two members",
+            "PERSON",
+            "Of",
+            "security forces",
+            "ORG/GOV"
+        ],
+        [
+            "Rohingya Muslim insurgents",
+            "PERSON",
+            "Claim",
+            "responsibility",
+            "CONCEPT"
+        ],
+        [
+            "coordinated raids",
+            "CONCEPT",
+            "On",
+            "30 security posts",
+            "COMP"
+        ],
+        [
+            "ARSA",
+            "PERSON",
+            "Mount",
+            "sporadic attacks",
+            "CONCEPT"
+        ],
+        [
+            "ARSA",
+            "PERSON",
+            "Identified_By",
+            "military",
+            "ORG/GOV"
+        ],
+        [
+            "vehicle",
+            "COMP",
+            "Attacked_By",
+            "20 insurgents",
+            "PERSON"
+        ],
+        [
+            "20 insurgents",
+            "PERSON",
+            "Use",
+            "homemade mines and small arms",
+            "COMP"
+        ],
+        [
+            "ARSA",
+            "PERSON",
+            "Is_Member_Of",
+            "extremist Bengali terrorists",
+            "PERSON"
+        ],
+        [
+            "sporadic gunfire",
+            "CONCEPT",
+            "Heard_At",
+            "time of the ambush",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Discuss",
+            "plan to repatriate",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Likely_To",
+            "raise doubts",
+            "CONCEPT"
+        ]
+    ]
+}

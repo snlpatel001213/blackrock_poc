@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Alcohol",
+            "COMP"
+        ],
+        [
+            "Alcohol",
+            "COMP",
+            "Impact",
+            "Cancer Risk",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Participates_In",
+            "Study",
+            "ORG"
+        ],
+        [
+            "Study",
+            "ORG",
+            "Announce",
+            "Alcohol Damage DNA",
+            "CONCEPT"
+        ],
+        [
+            "Alcohol",
+            "COMP",
+            "Negative_Impact_On",
+            "DNA",
+            "CONCEPT"
+        ],
+        [
+            "DNA",
+            "CONCEPT",
+            "Impact",
+            "Seven Types Cancer Risk",
+            "CONCEPT"
+        ]
+    ]
+}

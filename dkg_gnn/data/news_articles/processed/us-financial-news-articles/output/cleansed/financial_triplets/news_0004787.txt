@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Produce",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Operate_In",
+            "Electric Car Maker",
+            "ORG"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Has",
+            "Production Goals",
+            "CONCEPT"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Control",
+            "Tesla Inc.",
+            "COMP"
+        ]
+    ]
+}

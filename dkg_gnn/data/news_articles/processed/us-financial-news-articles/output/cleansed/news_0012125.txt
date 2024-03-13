@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Sell",
+            "U.S. Government Bonds",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Government Bonds",
+            "ORG/GOV",
+            "Has",
+            "10-year Treasury note",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year Treasury note",
+            "ECON_INDICATOR",
+            "Yield",
+            "Nearly 10 months high",
+            "TIME"
+        ],
+        [
+            "10-year Treasury note",
+            "ECON_INDICATOR",
+            "Positive_Impact_On",
+            "Mortgage Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mortgage Rates",
+            "ECON_INDICATOR",
+            "Rise",
+            "Average 30-year fixed mortgage rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average 30-year fixed mortgage rate",
+            "ECON_INDICATOR",
+            "Reach",
+            "Eight-month high",
+            "TIME"
+        ]
+    ]
+}

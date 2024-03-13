@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Sarah Hegazy",
+            "PERSON",
+            "Released_On",
+            "Bail",
+            "ORG"
+        ],
+        [
+            "Ahmed Alaa",
+            "PERSON",
+            "Released_On",
+            "Bail",
+            "ORG"
+        ],
+        [
+            "Sarah Hegazy",
+            "PERSON",
+            "Fined",
+            "2,000 Egyptian pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ahmed Alaa",
+            "PERSON",
+            "Fined",
+            "2,000 Egyptian pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Detain",
+            "Sarah Hegazy",
+            "PERSON"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Detain",
+            "Ahmed Alaa",
+            "PERSON"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Charge",
+            "Promoting_Sexual_Deviancy",
+            "CONCEPT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Respond_To",
+            "Public_Support_For_LGBT_Rights",
+            "CONCEPT"
+        ],
+        [
+            "Mashrou\u2019 Leila",
+            "COMP",
+            "Headline",
+            "Concert",
+            "EVENT"
+        ],
+        [
+            "Mashrou\u2019 Leila",
+            "COMP",
+            "Lead_Singer",
+            "Openly_Gay_Person",
+            "PERSON"
+        ],
+        [
+            "Local_Media",
+            "COMP",
+            "Compare",
+            "Homosexuals",
+            "PERSON"
+        ],
+        [
+            "Local_Media",
+            "COMP",
+            "Regard",
+            "Combating_Spread_Of_Homosexuality",
+            "CONCEPT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Under_Fire",
+            "Human_Rights_Record",
+            "CONCEPT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Regard",
+            "Police",
+            "ORG"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Regard",
+            "State_Aligned_Media",
+            "ORG"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Regard",
+            "Religious_Establishment",
+            "ORG"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Regard",
+            "Combating_Spread_Of_Homosexuality",
+            "CONCEPT"
+        ]
+    ]
+}

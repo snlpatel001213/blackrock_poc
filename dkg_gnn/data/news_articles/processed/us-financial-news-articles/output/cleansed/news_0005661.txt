@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Announce",
+            "Series of actions",
+            "CONCEPT"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Operate_In",
+            "H.R. 1, also known as the Tax Cuts and Jobs Act",
+            "EVENT"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Impact",
+            "Earnings for the fourth quarter of 2017",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Write_Down",
+            "Deferred tax asset",
+            "ASSET"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Surrender",
+            "Bank-owned life insurance (BOLI) policies",
+            "ASSET"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Realize",
+            "Fraud loss charge",
+            "EXPENSE"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Grant",
+            "WSFS Foundation",
+            "ORG"
+        ],
+        [
+            "H.R. 1, also known as the Tax Cuts and Jobs Act",
+            "EVENT",
+            "Result_In",
+            "Reduction in the top corporate income tax rate from 35% to 21%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Estimate",
+            "Incremental income tax charge of approximately $12 \u2013 $13 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Anticipate",
+            "Negative earnings per share (EPS) impact of approximately $0.37 \u2013 $0.40",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Surrender",
+            "BOLI policies in 2018",
+            "CONCEPT"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Anticipate",
+            "Impact on EPS of approximately $0.25",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Record",
+            "Pre-tax operating expense of approximately $2.8 million",
+            "EXPENSE"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Contribute",
+            "$1.5 million (pre-tax) to the WSFS Foundation",
+            "ORG"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Expect",
+            "Report fourth quarter and full-year 2017 results on January 22, 2018",
+            "EVENT"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Operate_In",
+            "Delaware, Pennsylvania, Virginia, and Nevada",
+            "GPE"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Provide",
+            "Commercial banking, retail banking, cash management and trust and wealth management",
+            "CONCEPT"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Have",
+            "$6.88 billion in assets on its balance sheet",
+            "ASSET"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Have",
+            "$18.07 billion in assets under management and administration",
+            "ASSET"
+        ],
+        [
+            "WSFS Financial Corporation",
+            "ORG",
+            "Operate_From",
+            "77 offices",
+            "FACILITY"
+        ]
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Worst Child Mortality Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Group of 20 Wealthy Democracies",
+            "GPE"
+        ],
+        [
+            "Analysis",
+            "CONCEPT",
+            "Announce",
+            "Worst Child Mortality Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Impact",
+            "Grave Metric",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "Child Mortality Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health Affairs",
+            "ORG",
+            "Release",
+            "Analysis",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Persistently",
+            "Outpace",
+            "Grave Metric",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Exceed",
+            "Excess Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Spend",
+            "More Money",
+            "FIN_INSTRUMENT",
+            "On",
+            "Health Care",
+            "FIN_INSTRUMENT",
+            "For",
+            "Kids"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Highest Poverty Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Poor Educational Outcomes",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Weak Social Safety Net",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Call",
+            "Substantial Cuts",
+            "FIN_INSTRUMENT",
+            "On",
+            "CHIP",
+            "PRODUCT"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Call",
+            "Substantial Cuts",
+            "FIN_INSTRUMENT",
+            "On",
+            "Supplemental Nutrition Assistance Program",
+            "PRODUCT"
+        ],
+        [
+            "CHIP",
+            "PRODUCT",
+            "Cover",
+            "About 9 Million Kids",
+            "COMP"
+        ],
+        [
+            "Health Affairs",
+            "ORG",
+            "Note",
+            "First Study",
+            "CONCEPT",
+            "To",
+            "Compare",
+            "Mortality",
+            "ECON_INDICATOR",
+            "Among",
+            "Children",
+            "COMP",
+            "Of",
+            "All",
+            "Ages",
+            "COMP",
+            "In",
+            "United States",
+            "GPE",
+            "To",
+            "Other",
+            "Wealthy",
+            "Countries",
+            "GPE"
+        ]
+    ]
+}

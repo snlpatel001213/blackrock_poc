@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Treasury Secretary Mnuchin",
+            "PERSON",
+            "Expect",
+            "new sanctions on Iran",
+            "EVENT"
+        ],
+        [
+            "U.S. Treasury Secretary Steve Mnuchin",
+            "PERSON",
+            "Operate_In",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Control",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Government",
+            "ORG/GOV",
+            "Impact",
+            "new sanctions on Iran",
+            "EVENT"
+        ],
+        [
+            "new sanctions on Iran",
+            "EVENT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "U.S. Government",
+            "ORG/GOV",
+            "Impose",
+            "new, targeted measures",
+            "EVENT"
+        ],
+        [
+            "new, targeted measures",
+            "EVENT",
+            "Relate_To",
+            "Iranian businesses and people",
+            "COMP/GPE"
+        ]
+    ]
+}

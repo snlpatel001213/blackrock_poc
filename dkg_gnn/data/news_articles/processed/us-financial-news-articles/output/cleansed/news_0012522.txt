@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "SPI Energy Co., Ltd.",
+            "COMP",
+            "Announce",
+            "Scott Sullivan Join",
+            "PERSON"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Participates_In",
+            "SPI US Region",
+            "ORG"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Operate_In",
+            "Cleantech Industry",
+            "CONCEPT"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Control",
+            "Synergenic Sales Group",
+            "ORG"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Relate_To",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Relate_To",
+            "PV Panel Manufacturers",
+            "COMP"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Relate_To",
+            "Power Electronic Manufacturers",
+            "COMP"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Relate_To",
+            "Fuel Cell Manufacturers",
+            "COMP"
+        ],
+        [
+            "Scott Sullivan",
+            "PERSON",
+            "Relate_To",
+            "Renewable Project Developers",
+            "COMP"
+        ],
+        [
+            "SPI Energy Co., Ltd.",
+            "COMP",
+            "Operate_In",
+            "Cleantech Industry",
+            "CONCEPT"
+        ],
+        [
+            "SPI Energy Co., Ltd.",
+            "COMP",
+            "Control",
+            "Online Energy E-commerce",
+            "PRODUCT"
+        ],
+        [
+            "SPI Energy Co., Ltd.",
+            "COMP",
+            "Control",
+            "B2B E-commerce Platform",
+            "PRODUCT"
+        ],
+        [
+            "Xiaofeng Peng",
+            "PERSON",
+            "Control",
+            "SPI Energy",
+            "COMP"
+        ]
+    ]
+}

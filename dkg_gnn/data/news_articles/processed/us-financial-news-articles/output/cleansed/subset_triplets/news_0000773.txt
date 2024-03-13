@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Ruling mullahs",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "IRGC",
+            "ORG"
+        ],
+        [
+            "Tehran regime",
+            "ORG/GOV",
+            "Has",
+            "Nuclear deal",
+            "CONCEPT"
+        ]
+    ]
+}

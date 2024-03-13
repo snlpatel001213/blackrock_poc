@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Kate Kelland",
+            "PERSON",
+            "Write",
+            "Human antibodies made in cows",
+            "PRODUCT"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Relate_To",
+            "MERS",
+            "EVENT"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Operate_In",
+            "Cows",
+            "GPE"
+        ],
+        [
+            "Cows",
+            "GPE",
+            "Has",
+            "Transchromosomic cattle",
+            "COMP"
+        ],
+        [
+            "Transchromosomic cattle",
+            "COMP",
+            "Produce",
+            "Human antibodies",
+            "PRODUCT"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Safe_In",
+            "Healthy volunteers",
+            "GPE"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Persist_In",
+            "Bloodstream",
+            "GPE"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Impact_On",
+            "MERS virus",
+            "EVENT"
+        ],
+        [
+            "SAB-301",
+            "PRODUCT",
+            "Co_Lead",
+            "John Beigel",
+            "PERSON"
+        ],
+        [
+            "SAB-301",
+            "PRODUCT",
+            "Funded_By",
+            "U.S. government",
+            "ORG/GOV"
+        ],
+        [
+            "SAB-301",
+            "PRODUCT",
+            "Publish",
+            "Lancet Infectious Diseases journal",
+            "COMP"
+        ],
+        [
+            "SAB-301",
+            "PRODUCT",
+            "Test",
+            "People infected with MERS",
+            "GPE"
+        ],
+        [
+            "Idea",
+            "CONCEPT",
+            "Develop",
+            "Years",
+            "TIME"
+        ],
+        [
+            "Idea",
+            "CONCEPT",
+            "Use",
+            "Human antibodies",
+            "PRODUCT"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Harvest",
+            "Human plasma",
+            "PRODUCT"
+        ],
+        [
+            "Human antibodies",
+            "PRODUCT",
+            "Give",
+            "Other patients",
+            "GPE"
+        ],
+        [
+            "Scientists",
+            "PERSON",
+            "Turn",
+            "Transchromosomic cattle",
+            "COMP"
+        ],
+        [
+            "Transchromosomic cattle",
+            "COMP",
+            "Manufacture",
+            "Specific antibodies",
+            "PRODUCT"
+        ],
+        [
+            "Transchromosomic cattle",
+            "COMP",
+            "Incorporate",
+            "Human DNA",
+            "PRODUCT"
+        ],
+        [
+            "Transchromosomic cattle",
+            "COMP",
+            "Stimulate",
+            "Immune systems",
+            "CONCEPT"
+        ],
+        [
+            "MERS virus",
+            "EVENT",
+            "Cause",
+            "Deadly outbreaks",
+            "EVENT"
+        ],
+        [
+            "MERS virus",
+            "EVENT",
+            "Have",
+            "Case fatality rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MERS virus",
+            "EVENT",
+            "Kill",
+            "At least 740 people worldwide",
+            "GPE"
+        ],
+        [
+            "MERS virus",
+            "EVENT",
+            "Report",
+            "More than 80 percent of MERS cases",
+            "EVENT"
+        ],
+        [
+            "MERS virus",
+            "EVENT",
+            "Identify",
+            "Saudi Arabia",
+            "GPE"
+        ],
+        [
+            "World Health Organization",
+            "ORG/REG",
+            "Report",
+            "MERS cases",
+            "EVENT"
+        ],
+        [
+            "Leidos Biomedical Research",
+            "COMP",
+            "Co_Lead",
+            "John Beigel",
+            "PERSON"
+        ],
+        [
+            "John Beigel",
+            "PERSON",
+            "Say",
+            "Data from study suggest",
+            "CONCEPT"
+        ],
+        [
+            "John Beigel",
+            "PERSON",
+            "Say",
+            "Further research into the treatment is warranted",
+            "CONCEPT"
+        ],
+        [
+            "Catherine Evans",
+            "PERSON",
+            "Edit",
+            "Article",
+            "PRODUCT"
+        ]
+    ]
+}

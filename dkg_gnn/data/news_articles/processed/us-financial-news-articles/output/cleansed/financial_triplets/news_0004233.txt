@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Announce",
+            "Trump's tweets",
+            "CONCEPT"
+        ],
+        [
+            "N. Korea",
+            "GPE",
+            "Relate_To",
+            "Taunts",
+            "CONCEPT"
+        ]
+    ]
+}

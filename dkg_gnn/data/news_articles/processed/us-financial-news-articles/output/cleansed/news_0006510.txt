@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Aflac Inc.",
+            "COMP",
+            "Announce",
+            "Virgil R. Miller",
+            "PERSON"
+        ],
+        [
+            "Virgil R. Miller",
+            "PERSON",
+            "Promoted_To",
+            "President of Aflac Group Insurance",
+            "ORG/POS"
+        ],
+        [
+            "Virgil R. Miller",
+            "PERSON",
+            "And",
+            "Executive Vice President",
+            "ORG/POS"
+        ],
+        [
+            "Virgil R. Miller",
+            "PERSON",
+            "Chief Operating Officer",
+            "Aflac U.S.",
+            "ORG/POS"
+        ],
+        [
+            "Aflac Inc.",
+            "COMP",
+            "Announce",
+            "Jamie A. Lee",
+            "PERSON"
+        ],
+        [
+            "Jamie A. Lee",
+            "PERSON",
+            "Promoted_To",
+            "Senior Vice President",
+            "ORG/POS"
+        ],
+        [
+            "Jamie A. Lee",
+            "PERSON",
+            "Chief Service Officer",
+            "Aflac U.S.",
+            "ORG/POS"
+        ]
+    ]
+}

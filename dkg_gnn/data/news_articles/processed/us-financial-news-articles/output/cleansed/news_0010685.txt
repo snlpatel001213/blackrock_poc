@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Lloyds Banking Group plc",
+            "ORG",
+            "Operate_In",
+            "Lloyds Bank",
+            "ORG"
+        ],
+        [
+            "Lloyds Banking Group plc",
+            "ORG",
+            "Issue",
+            "6NC5 euro holdco",
+            "PRODUCT"
+        ],
+        [
+            "Lloyds Banking Group plc",
+            "ORG",
+            "Issue",
+            "EUR750m 1.5% Sep 2027s",
+            "PRODUCT"
+        ],
+        [
+            "Lloyds Bank",
+            "ORG",
+            "Bookrunner",
+            "6NC5 euro holdco",
+            "PRODUCT"
+        ],
+        [
+            "Lloyds Bank",
+            "ORG",
+            "Bookrunner",
+            "EUR750m 1.5% Sep 2027s",
+            "PRODUCT"
+        ],
+        [
+            "CA CIB",
+            "ORG",
+            "Joint_Lead",
+            "EUR750m 1.5% Sep 2027s",
+            "PRODUCT"
+        ],
+        [
+            "DB",
+            "ORG",
+            "Joint_Lead",
+            "EUR750m 1.5% Sep 2027s",
+            "PRODUCT"
+        ],
+        [
+            "MS",
+            "ORG",
+            "Joint_Lead",
+            "EUR750m 1.5% Sep 2027s",
+            "PRODUCT"
+        ]
+    ]
+}

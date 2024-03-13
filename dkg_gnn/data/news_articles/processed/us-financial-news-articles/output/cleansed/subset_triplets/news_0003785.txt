@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Negative_Impact_On",
+            "Intel Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Has",
+            "Exploit",
+            "CONCEPT"
+        ]
+    ]
+}

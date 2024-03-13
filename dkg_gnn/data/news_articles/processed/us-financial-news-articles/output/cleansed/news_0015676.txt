@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Univest Corporation of Pennsylvania",
+            "ORG",
+            "Announce",
+            "Earnings Release",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Univest Corporation of Pennsylvania",
+            "ORG",
+            "Operate_In",
+            "Mid-Atlantic Region",
+            "GPE"
+        ],
+        [
+            "Univest Corporation of Pennsylvania",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Univest Bank and Trust Co.",
+            "ORG",
+            "Is_Member_Of",
+            "Univest Corporation of Pennsylvania",
+            "ORG"
+        ],
+        [
+            "Univest Bank and Trust Co.",
+            "ORG",
+            "Operate_In",
+            "Mid-Atlantic Region",
+            "GPE"
+        ],
+        [
+            "Univest Bank and Trust Co.",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Univest Wealth Management",
+            "ORG",
+            "Is_Member_Of",
+            "Univest Corporation of Pennsylvania",
+            "ORG"
+        ],
+        [
+            "Univest Wealth Management",
+            "ORG",
+            "Operate_In",
+            "Mid-Atlantic Region",
+            "GPE"
+        ],
+        [
+            "Univest Wealth Management",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Earnings Release",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pre-registration",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dial-in number",
+            "PRODUCT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Replay Dial-in number",
+            "PRODUCT",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ]
+    ]
+}

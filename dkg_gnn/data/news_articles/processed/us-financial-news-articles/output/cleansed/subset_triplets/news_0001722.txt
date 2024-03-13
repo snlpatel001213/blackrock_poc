@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Aurora Cannabis Inc",
+            "COMP",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Aurora Cannabis Inc",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Aurora Cannabis Inc",
+            "COMP",
+            "Announce",
+            "Licensing deal",
+            "CONCEPT"
+        ],
+        [
+            "Aurora Cannabis Inc",
+            "COMP",
+            "Announce",
+            "CannaRoyalty Corp",
+            "ORG"
+        ],
+        [
+            "CannaRoyalty Corp",
+            "ORG",
+            "Relate_To",
+            "Cannabis-infused consumer products",
+            "CONCEPT"
+        ],
+        [
+            "CanniMed Therapeutics",
+            "COMP",
+            "Participates_In",
+            "Plan to prevent shareholders",
+            "CONCEPT"
+        ]
+    ]
+}

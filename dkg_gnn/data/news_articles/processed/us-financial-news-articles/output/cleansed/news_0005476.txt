@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Control",
+            "German Government",
+            "ORG/GOV"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Participates_In",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Is_Member_Of",
+            "Christian Democrats",
+            "ORG"
+        ],
+        [
+            "Christian Democrats",
+            "ORG",
+            "Raise",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Negotiations",
+            "EVENT",
+            "Relate_To",
+            "Social Democrats",
+            "ORG"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Are_Member_Of",
+            "Germany",
+            "GPE"
+        ]
+    ]
+}

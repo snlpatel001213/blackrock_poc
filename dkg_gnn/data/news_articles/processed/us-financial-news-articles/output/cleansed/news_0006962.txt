@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Nottingham Forest",
+            "COMP",
+            "Appoint",
+            "Aitor Karanka",
+            "PERSON"
+        ],
+        [
+            "Aitor Karanka",
+            "PERSON",
+            "Operate_In",
+            "Championship",
+            "SECTOR"
+        ],
+        [
+            "Nottingham Forest",
+            "COMP",
+            "Beat",
+            "Arsenal",
+            "COMP"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Aitor Karanka",
+            "PERSON",
+            "Fired_By",
+            "Middlesbrough",
+            "COMP"
+        ],
+        [
+            "Middlesbrough",
+            "COMP",
+            "Relegation",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Aitor Karanka",
+            "PERSON",
+            "Guide",
+            "Middlesbrough",
+            "COMP"
+        ],
+        [
+            "Middlesbrough",
+            "COMP",
+            "Promotion",
+            "Championship",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Winston Churchill",
+            "PERSON",
+            "Relate_To",
+            "Cigar",
+            "PRODUCT"
+        ],
+        [
+            "George Burns",
+            "PERSON",
+            "Relate_To",
+            "Cigar",
+            "PRODUCT"
+        ],
+        [
+            "Groucho Marx",
+            "PERSON",
+            "Relate_To",
+            "Cigar",
+            "PRODUCT"
+        ],
+        [
+            "Bill Hroncich",
+            "PERSON",
+            "Has",
+            "Rare Cigar Claim",
+            "CONCEPT"
+        ]
+    ]
+}

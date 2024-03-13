@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Capitaland Retail China Trust",
+            "COMP",
+            "Enter",
+            "Facility Agreement",
+            "EVENT"
+        ],
+        [
+            "HSBC Institutional Trust Services (Singapore)",
+            "ORG",
+            "As_Co_Trustee",
+            "Capitaland Retail China Trust",
+            "COMP"
+        ],
+        [
+            "S$750.0 Million",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Facility Agreement",
+            "EVENT"
+        ],
+        [
+            "Capitaland Mall Asia",
+            "ORG",
+            "Control",
+            "Capitaland Retail China Trust",
+            "COMP"
+        ],
+        [
+            "Manager",
+            "ORG",
+            "Participates_In",
+            "Facility Agreement",
+            "EVENT"
+        ],
+        [
+            "Capitaland Mall Asia",
+            "ORG",
+            "Operate_In",
+            "Company Sector",
+            "SECTOR"
+        ]
+    ]
+}

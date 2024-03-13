@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "KFC",
+            "COMP",
+            "Announce",
+            "tweet",
+            "EVENT"
+        ],
+        [
+            "KFC",
+            "COMP",
+            "Relate_To",
+            "Trump's tweet",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "tweet",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "Kim Jong-Un's statement",
+            "EVENT"
+        ],
+        [
+            "Kim Jong-Un",
+            "PERSON",
+            "Announce",
+            "New Year's Day address",
+            "EVENT"
+        ],
+        [
+            "KFC",
+            "COMP",
+            "Negative_Impact_On",
+            "McDonald's",
+            "COMP"
+        ]
+    ]
+}

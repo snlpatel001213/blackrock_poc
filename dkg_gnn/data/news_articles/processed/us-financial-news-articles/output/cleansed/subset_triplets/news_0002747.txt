@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Lawyer",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Book",
+            "PRODUCT"
+        ]
+    ]
+}

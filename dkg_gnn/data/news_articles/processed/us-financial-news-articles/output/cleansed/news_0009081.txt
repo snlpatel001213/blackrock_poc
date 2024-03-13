@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Operate_In",
+            "Oil and Gas Industry",
+            "SECTOR"
+        ],
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Own",
+            "Offshore Drilling Units",
+            "COMP"
+        ],
+        [
+            "Offshore Drilling Units",
+            "COMP",
+            "Consist_Of",
+            "28 offshore drilling units",
+            "COMP"
+        ],
+        [
+            "28 offshore drilling units",
+            "COMP",
+            "Include",
+            "14 drillships and semisubmersibles",
+            "COMP"
+        ],
+        [
+            "28 offshore drilling units",
+            "COMP",
+            "Include",
+            "14 jackups",
+            "COMP"
+        ],
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Focus_On",
+            "Ultra-deepwater and High-specification Jackup Drilling Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Registered_In",
+            "England and Wales",
+            "GPE"
+        ],
+        [
+            "Noble Corporation plc",
+            "ORG",
+            "Public",
+            "Public Limited Company",
+            "ORG"
+        ]
+    ]
+}

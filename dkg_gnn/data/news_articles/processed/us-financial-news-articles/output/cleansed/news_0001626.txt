@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Has",
+            "New drug approvals",
+            "CONCEPT"
+        ],
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Increase",
+            "Drug Approvals",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Year",
+            "2017",
+            "TIME"
+        ],
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "More_than_Double",
+            "Drug Approvals",
+            "CONCEPT",
+            "Year",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Fred Katayama",
+            "PERSON",
+            "Reports_On",
+            "Acceleration_of_Approvals",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "AMD",
+            "COMP",
+            "Big_Winner_From",
+            "Chip_Flaw_Fiasco",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "More_Than_11_Billion_Dollar_Stock_Value_Wiped_Out",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Negative_Impact_On",
+            "Stock_Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Companies",
+            "SECTOR",
+            "Participates_In",
+            "Diversify_Their_Chip_Security_Architecture_Risk",
+            "EVENT"
+        ],
+        [
+            "Companies",
+            "SECTOR",
+            "Buy",
+            "AMD_Server_Chips",
+            "PRODUCT"
+        ]
+    ]
+}

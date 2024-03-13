@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Has",
+            "Defense ministry",
+            "ORG"
+        ],
+        [
+            "Su-24 bombers",
+            "COMP",
+            "Produce",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Su-35S fighters",
+            "COMP",
+            "Produce",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "An-72 transport plane",
+            "COMP",
+            "Produce",
+            "Russia",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "PriceSmart Inc.",
+            "COMP",
+            "Has",
+            "profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PriceSmart Inc.",
+            "COMP",
+            "Has",
+            "net income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PriceSmart Inc.",
+            "COMP",
+            "Posted",
+            "revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PriceSmart Inc.",
+            "COMP",
+            "Shares",
+            "Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PriceSmart Inc.",
+            "COMP",
+            "Shares",
+            "Hit",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Automated Insights",
+            "ORG",
+            "Generate",
+            "story",
+            "EVENT"
+        ],
+        [
+            "Automated Insights",
+            "ORG",
+            "Using",
+            "data",
+            "CONCEPT"
+        ],
+        [
+            "Zacks Investment Research",
+            "ORG",
+            "Access",
+            "Zacks stock report",
+            "EVENT"
+        ],
+        [
+            "Zacks Investment Research",
+            "ORG",
+            "On",
+            "PSMT",
+            "COMP"
+        ]
+    ]
+}

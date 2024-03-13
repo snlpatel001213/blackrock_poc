@@ -1,0 +1,37 @@
+{
+    "output": [
+        [
+            "Aphria Inc.",
+            "COMP",
+            "Enter",
+            "Double Diamond Farms",
+            "COMP"
+        ],
+        [
+            "Aphria Inc.",
+            "COMP",
+            "Relate_To",
+            "Strategic Relationship",
+            "CONCEPT"
+        ],
+        [
+            "Double Diamond Farms",
+            "COMP",
+            "Produce",
+            "120,000 kgs",
+            "ECON_INDICATOR",
+            "of",
+            "Cannabis",
+            "PRODUCT",
+            "Annually",
+            "TEMPORAL"
+        ],
+        [
+            "Aphria Inc.",
+            "COMP",
+            "Control",
+            "Additional Cannabis Production",
+            "CONCEPT"
+        ]
+    ]
+}

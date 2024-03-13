@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Control",
+            "iPhone",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Raise",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Two Shareholders",
+            "PERSON",
+            "Raise",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Kids",
+            "PERSON",
+            "Get_Hooked_On",
+            "iPhone",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Positive_Impact_On",
+            "Profits",
+            "CONCEPT"
+        ]
+    ]
+}

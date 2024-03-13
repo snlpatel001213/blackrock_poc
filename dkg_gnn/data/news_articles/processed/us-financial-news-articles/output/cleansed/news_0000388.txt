@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "SHANGHAI Composite index",
+            "INDEX",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "CSI300 index",
+            "INDEX",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Financial sector",
+            "SECTOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Consumer staples sector",
+            "SECTOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Real estate index",
+            "SECTOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Healthcare sub-index",
+            "SECTOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Chinese H-shares",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Hang Seng Index",
+            "INDEX",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Shenzhen index",
+            "INDEX",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "ChiNext Composite index",
+            "INDEX",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "MSCI\u2019s Asia ex-Japan stock index",
+            "INDEX",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Nikkei index",
+            "INDEX",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Anhui Leimingkehua Co Ltd",
+            "COMP",
+            "Increase",
+            "10.03",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bbmg Corp",
+            "COMP",
+            "Increase",
+            "10.02",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tianjin Capital Environmental Protection Group Co Ltd",
+            "COMP",
+            "Increase",
+            "10.02",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jiangsu Protruly Vision Technology Group Co Ltd",
+            "COMP",
+            "Decrease",
+            "5.01",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOCO Inter-Telecom Co Ltd",
+            "COMP",
+            "Decrease",
+            "4.98",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Byd Co Ltd",
+            "COMP",
+            "Increase",
+            "2.8",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Pacific Insurance Group Co Ltd",
+            "COMP",
+            "Increase",
+            "2.08",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Communications Construction Co Ltd",
+            "COMP",
+            "Increase",
+            "1.98",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PetroChina Co Ltd",
+            "COMP",
+            "Decrease",
+            "1.25",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangzhou Automobile Group Co Ltd",
+            "COMP",
+            "Decrease",
+            "1.1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dongfeng Motor Group Co Ltd",
+            "COMP",
+            "Decrease",
+            "1.0",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

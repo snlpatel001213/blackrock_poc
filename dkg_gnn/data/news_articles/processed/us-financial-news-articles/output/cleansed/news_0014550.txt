@@ -1,0 +1,83 @@
+{
+    "output": [
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Announce",
+            "Sale of Big Fish Games",
+            "ORG"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Sell",
+            "Big Fish",
+            "ORG"
+        ],
+        [
+            "Big Fish Games",
+            "ORG",
+            "Bought_By",
+            "Aristocrat Technologies",
+            "ORG"
+        ],
+        [
+            "Aristocrat Technologies",
+            "ORG",
+            "Subsidiary_Of",
+            "Aristocrat Leisure Limited",
+            "ORG"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Proceeds_Used_For",
+            "General Corporate Purposes",
+            "CONCEPT"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Approve",
+            "$500 Million",
+            "ECON_INDICATOR",
+            "Share Repurchases",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Headquartered_In",
+            "Louisville",
+            "GPE"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Industry_Leading",
+            "Racing, Gaming and Online Entertainment",
+            "SECTOR"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Ownership_Of",
+            "TwinSpires.com",
+            "PRODUCT"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Forward_Looking_Statements",
+            "Future Events",
+            "CONCEPT"
+        ],
+        [
+            "Churchill Downs Incorporated",
+            "ORG",
+            "Risks_and_Uncertainties",
+            "Actual Performance",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "output": [
+        [
+            "Ecuador",
+            "GPE",
+            "Explore",
+            "Mediation",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Participates_In",
+            "Assange Standoff",
+            "EVENT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Participates_In",
+            "Assange Standoff",
+            "EVENT"
+        ],
+        [
+            "International Community",
+            "CONCEPT",
+            "Called_For_Cooperation_From",
+            "Ecuador",
+            "GPE"
+        ],
+        [
+            "Rafael Correa",
+            "PERSON",
+            "Granted",
+            "Asylum",
+            "CONCEPT"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Received",
+            "Asylum",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Concerned_Over",
+            "Assange Complicated Situation",
+            "CONCEPT"
+        ],
+        [
+            "Lenin Moreno",
+            "PERSON",
+            "Described",
+            "Assange",
+            "PERSON",
+            "as",
+            "Hacker",
+            "CONCEPT"
+        ],
+        [
+            "Lenin Moreno",
+            "PERSON",
+            "Stressed",
+            "Assange",
+            "PERSON",
+            "not",
+            "be_Kicked_Out",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Considering",
+            "Mediation",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Exploring",
+            "Possibility_of_Mediation",
+            "CONCEPT"
+        ],
+        [
+            "Third Country",
+            "GPE",
+            "Could_Lead",
+            "Potential_Mediation",
+            "CONCEPT"
+        ],
+        [
+            "Person",
+            "PERSON",
+            "Could_Lead",
+            "Potential_Mediation",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Cannot_Reach_Solution",
+            "Without",
+            "CONCEPT",
+            "International_Cooperation",
+            "CONCEPT"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Cannot_Reach_Solution",
+            "Without",
+            "CONCEPT",
+            "UK Cooperation",
+            "GPE"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Showed_Interest",
+            "Finding_Solution",
+            "CONCEPT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Dropped",
+            "Investigation",
+            "CONCEPT",
+            "Rape_Allegations",
+            "CONCEPT"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Fears",
+            "Prosecution",
+            "CONCEPT",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Prosecution",
+            "Assange",
+            "PERSON",
+            "WikiLeaks Publication",
+            "CONCEPT"
+        ],
+        [
+            "WikiLeaks",
+            "ORG",
+            "Published",
+            "Thousands",
+            "NUM",
+            "Classified",
+            "CONCEPT",
+            "Military",
+            "CONCEPT",
+            "Diplomatic",
+            "CONCEPT",
+            "Documents",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Largest_Information_Leaks",
+            "History",
+            "CONCEPT"
+        ]
+    ]
+}

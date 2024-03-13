@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Cheer",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "David Nadel",
+            "PERSON",
+            "Operate_In",
+            "Royce Funds",
+            "ORG"
+        ],
+        [
+            "Royce Funds",
+            "ORG",
+            "Has",
+            "David Nadel",
+            "PERSON"
+        ],
+        [
+            "David Nadel",
+            "PERSON",
+            "Is_Member_Of",
+            "Portfolio Manager",
+            "CONCEPT"
+        ],
+        [
+            "David Nadel",
+            "PERSON",
+            "Is_Member_Of",
+            "Principal",
+            "CONCEPT"
+        ],
+        [
+            "International Stocks",
+            "COMP",
+            "Has",
+            "Pretty Strong Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Small Caps",
+            "COMP",
+            "Participates_In",
+            "International Stocks",
+            "COMP"
+        ],
+        [
+            "Small Caps",
+            "COMP",
+            "Has",
+            "Pretty Strong Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Aleksandra Michalska",
+            "PERSON",
+            "Report",
+            "Outlook",
+            "CONCEPT"
+        ]
+    ]
+}

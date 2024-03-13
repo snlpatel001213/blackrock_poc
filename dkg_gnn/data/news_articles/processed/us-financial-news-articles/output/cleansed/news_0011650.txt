@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Ballston Quarter",
+            "GPE",
+            "Operate_In",
+            "Virginia",
+            "GPE"
+        ],
+        [
+            "Ballston Quarter",
+            "GPE",
+            "Has",
+            "Retail Space",
+            "COMP"
+        ],
+        [
+            "Retail Space",
+            "COMP",
+            "Spread Over",
+            "Three Levels",
+            "COMP"
+        ],
+        [
+            "Ballston Common Mall",
+            "GPE",
+            "Is",
+            "Former",
+            "COMP"
+        ],
+        [
+            "Ballston Common Mall",
+            "GPE",
+            "Scrubbed",
+            "Name",
+            "COMP"
+        ],
+        [
+            "Retail Industry",
+            "SECTOR",
+            "Undergo",
+            "Shift",
+            "CONCEPT"
+        ],
+        [
+            "Shift",
+            "CONCEPT",
+            "To",
+            "E-commerce",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Chung Hyeon",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Chung Hyeon",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "John Millman",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Has",
+            "Mid-match blip",
+            "CONCEPT"
+        ],
+        [
+            "Denis Istomin",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Jared Donaldson",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Harrison",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Yannick Hanfmann",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Two SEC teams playing in Atlanta",
+            "EVENT",
+            "Participates_In",
+            "2018 National Championship Game",
+            "EVENT"
+        ],
+        [
+            "2018 National Championship Game",
+            "EVENT",
+            "Operate_In",
+            "NCAA",
+            "ORG"
+        ],
+        [
+            "Nick Saban",
+            "PERSON",
+            "Control",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Clemson",
+            "GPE",
+            "Participates_In",
+            "2018 National Championship Game",
+            "EVENT"
+        ],
+        [
+            "Rose Bowl",
+            "EVENT",
+            "Operate_In",
+            "NCAA",
+            "ORG"
+        ],
+        [
+            "ScoreBig",
+            "COMP",
+            "Has",
+            "Upper level seats",
+            "CONCEPT"
+        ]
+    ]
+}

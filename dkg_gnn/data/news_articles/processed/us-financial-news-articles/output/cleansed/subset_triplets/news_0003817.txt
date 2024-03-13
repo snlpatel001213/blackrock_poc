@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "People with heart disease",
+            "GPE",
+            "Has",
+            "better long-term survival odds",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Impact",
+            "higher risk of death",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Impact",
+            "more heart risk factors",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Impact",
+            "less likely to be on heart medications",
+            "CONCEPT"
+        ],
+        [
+            "marital status",
+            "CONCEPT",
+            "Is_Member_Of",
+            "independent risk factor",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Raise",
+            "cardiovascular death",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Raise",
+            "heart attack",
+            "CONCEPT"
+        ],
+        [
+            "unmarried patients",
+            "GPE",
+            "Raise",
+            "death from any cause",
+            "CONCEPT"
+        ],
+        [
+            "widowed patients",
+            "GPE",
+            "Negative_Impact_On",
+            "heart attack or cardiovascular death",
+            "CONCEPT"
+        ],
+        [
+            "divorced, separated and never-married patients",
+            "GPE",
+            "Negative_Impact_On",
+            "heart attack or cardiovascular death",
+            "CONCEPT"
+        ]
+    ]
+}

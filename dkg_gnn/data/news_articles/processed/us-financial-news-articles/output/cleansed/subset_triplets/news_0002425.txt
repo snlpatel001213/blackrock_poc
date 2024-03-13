@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "AgriBank",
+            "ORG",
+            "Operate_In",
+            "15-state Farm Credit District",
+            "ORG/GOV"
+        ],
+        [
+            "AgriBank",
+            "ORG",
+            "Has",
+            "over $100 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AgriBank",
+            "ORG",
+            "Is_Member_Of",
+            "14 Farm Credit Associations",
+            "ORG"
+        ],
+        [
+            "AgriBank",
+            "ORG",
+            "Relate_To",
+            "farmer and rancher customers",
+            "PERSON"
+        ]
+    ]
+}

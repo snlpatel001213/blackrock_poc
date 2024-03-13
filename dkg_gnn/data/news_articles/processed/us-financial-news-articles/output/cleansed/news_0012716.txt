@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Syrian child",
+            "PERSON",
+            "Pulled_From",
+            "Rubble",
+            "GPE"
+        ],
+        [
+            "Rubble",
+            "GPE",
+            "Believed_To_Have_Been_Destroyed_In",
+            "Airstrike",
+            "EVENT"
+        ],
+        [
+            "Rescue workers",
+            "PERSON",
+            "Pulling_Out",
+            "Crying child",
+            "PERSON"
+        ],
+        [
+            "Building",
+            "GPE",
+            "Believed_To_Have_Been_Destroyed_In",
+            "Airstrike",
+            "EVENT"
+        ]
+    ]
+}

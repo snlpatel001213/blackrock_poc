@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Armed robbers",
+            "PERSON",
+            "Steal",
+            "Jewelry",
+            "PRODUCT"
+        ],
+        [
+            "Ritz Paris hotel",
+            "GPE",
+            "Located_In",
+            "Paris",
+            "GPE"
+        ],
+        [
+            "Jewelry",
+            "PRODUCT",
+            "Possibly_Worth",
+            "$5 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ritz Paris hotel",
+            "GPE",
+            "Hosted",
+            "Axe-wielding robbers",
+            "PERSON"
+        ]
+    ]
+}

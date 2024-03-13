@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Tata Group",
+            "ORG",
+            "Open_To",
+            "Bid",
+            "ORG/REG"
+        ],
+        [
+            "Tata Group",
+            "ORG",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Singapore Airlines",
+            "ORG",
+            "Open_To",
+            "Bid",
+            "ORG/REG"
+        ],
+        [
+            "Singapore Airlines",
+            "ORG",
+            "Operate_In",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Is_Member_Of",
+            "Tata Group",
+            "ORG"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Is_Member_Of",
+            "Singapore Airlines",
+            "ORG"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Evaluate",
+            "Bid",
+            "ORG/REG"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Potential_Bid_For",
+            "Air India",
+            "COMP"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Saddled_With",
+            "Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Nationalised_In",
+            "1953",
+            "TIME"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Tata Group",
+            "ORG",
+            "Interest_In",
+            "Bid",
+            "ORG/REG"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Lease",
+            "Aircraft",
+            "PRODUCT"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Total_Aircrafts",
+            "17",
+            "QUANTITY"
+        ]
+    ]
+}

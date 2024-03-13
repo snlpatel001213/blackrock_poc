@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Peugeot",
+            "COMP",
+            "Acquire",
+            "Vauxhall",
+            "COMP"
+        ],
+        [
+            "Vauxhall",
+            "COMP",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Has",
+            "Vauxhall",
+            "COMP"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Decrease",
+            "Workforce",
+            "ORG"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Operate_In",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Produce",
+            "Astra Sports Tourer",
+            "PRODUCT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Relate_To",
+            "UK Car Plant",
+            "COMP"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Control",
+            "One Shift",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Impact",
+            "Competitiveness",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Raise",
+            "Fears",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Invests_In",
+            "Shorter Hours",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Decide",
+            "Renew Production",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Impact",
+            "Britain\u2019s Ability",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Negative_Impact_On",
+            "Job Losses",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Negative_Impact_On",
+            "Plant Closures",
+            "CONCEPT"
+        ],
+        [
+            "PSA",
+            "COMP",
+            "Participates_In",
+            "Cost-cutting Plans",
+            "CONCEPT"
+        ],
+        [
+            "Unite",
+            "ORG",
+            "Is_Member_Of",
+            "Trade Union",
+            "COMP"
+        ],
+        [
+            "Unite",
+            "ORG",
+            "Represent",
+            "Employees",
+            "ORG"
+        ],
+        [
+            "Unite",
+            "ORG",
+            "Raise",
+            "Fears",
+            "CONCEPT"
+        ],
+        [
+            "Unite",
+            "ORG",
+            "Cite",
+            "Falling Demand",
+            "CONCEPT"
+        ],
+        [
+            "Unite",
+            "ORG",
+            "State",
+            "Building Wrong Car",
+            "CONCEPT"
+        ],
+        [
+            "Carlos Tavares",
+            "PERSON",
+            "Visit",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "John Cooper",
+            "PERSON",
+            "Represent",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "John Cooper",
+            "PERSON",
+            "State",
+            "Building Wrong Car",
+            "CONCEPT"
+        ]
+    ]
+}

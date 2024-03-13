@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Allot Communications",
+            "COMP",
+            "Announce",
+            "Earnings Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allot Communications",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Allot Communications",
+            "COMP",
+            "Has",
+            "Network Intelligence and Security Solutions",
+            "CONCEPT"
+        ],
+        [
+            "Allot Communications",
+            "COMP",
+            "Control",
+            "Network Traffic",
+            "CONCEPT"
+        ],
+        [
+            "Allot Communications",
+            "COMP",
+            "Control",
+            "Network Security Services",
+            "CONCEPT"
+        ],
+        [
+            "Allot Communications",
+            "COMP",
+            "Participates_In",
+            "Service Provider Market",
+            "SECTOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Earnings Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investor Relations Contact",
+            "ORG",
+            "Is_Member_Of",
+            "Allot Communications",
+            "COMP"
+        ],
+        [
+            "Public Relations Contact",
+            "ORG",
+            "Is_Member_Of",
+            "Allot Communications",
+            "COMP"
+        ]
+    ]
+}

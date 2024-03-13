@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Jan Kniffen",
+            "PERSON",
+            "Discuss",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "February",
+            "GPE",
+            "Relate_To",
+            "More Money",
+            "CONCEPT"
+        ],
+        [
+            "More Money",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Sales",
+            "CONCEPT"
+        ]
+    ]
+}

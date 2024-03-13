@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "Bank of Korea",
+            "ORG/GOV"
+        ],
+        [
+            "Bank of Korea",
+            "ORG/GOV",
+            "Control",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Monetary Policy",
+            "CONCEPT",
+            "Not_Decide_On",
+            "Foreign Exchange Rates",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Korea",
+            "ORG/GOV",
+            "Leave",
+            "Currency Moves",
+            "CONCEPT"
+        ],
+        [
+            "Currency Moves",
+            "CONCEPT",
+            "Relate_To",
+            "Market Forces",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Korea",
+            "ORG/GOV",
+            "Respond",
+            "If Changes in Won Get Too Big",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Korea",
+            "ORG/GOV",
+            "Stick_To",
+            "Principle",
+            "CONCEPT"
+        ],
+        [
+            "Principle",
+            "CONCEPT",
+            "Is",
+            "Take Active Steps When Herd Behavior Is Seen",
+            "CONCEPT"
+        ]
+    ]
+}

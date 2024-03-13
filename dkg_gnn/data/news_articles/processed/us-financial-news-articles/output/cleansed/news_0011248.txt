@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Say",
+            "Trump wants to be loved",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Characterize",
+            "Fire and Fury",
+            "PRODUCT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Pushback",
+            "Wolff",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Praise",
+            "Wolff",
+            "PERSON"
+        ],
+        [
+            "Wolff",
+            "PERSON",
+            "Like",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Annoyed",
+            "Publicity of Book",
+            "PRODUCT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Strike back",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Strike back",
+            "Wolff",
+            "PERSON"
+        ],
+        [
+            "Wolff",
+            "PERSON",
+            "Find",
+            "Trump Skills as Salesman",
+            "CONCEPT"
+        ]
+    ]
+}

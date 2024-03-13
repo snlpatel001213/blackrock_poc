@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Cryptocurrencies",
+            "CONCEPT",
+            "Relate_To",
+            "Blockchain Technology",
+            "CONCEPT"
+        ],
+        [
+            "Blockchain Technology",
+            "CONCEPT",
+            "Produce",
+            "Decentralized Computing",
+            "CONCEPT"
+        ],
+        [
+            "Blockchain Technology",
+            "CONCEPT",
+            "Produce",
+            "Open-source Software",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Announce",
+            "Mitch Steves's Estimate",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrencies",
+            "CONCEPT",
+            "Control",
+            "Roughly $730 Billion Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mitch Steves",
+            "PERSON",
+            "Operate_In",
+            "RBC Capital Markets",
+            "ORG"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Has",
+            "Market Cap of More Than $250 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Well-known Digital Currency",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nine",
+            "ECON_INDICATOR",
+            "Has",
+            "Dead",
+            "CONCEPT"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "Has",
+            "Injured",
+            "CONCEPT"
+        ],
+        [
+            "Prison Riot",
+            "EVENT",
+            "Relate_To",
+            "Gang Rivalry",
+            "CONCEPT"
+        ]
+    ]
+}

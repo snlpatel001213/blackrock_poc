@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "State of Emergency",
+            "ORG/REG",
+            "Operate_In",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Current State of Emergency",
+            "ORG/REG",
+            "Relate_To",
+            "Two Church Bombings",
+            "EVENT"
+        ],
+        [
+            "Two Church Bombings",
+            "EVENT",
+            "Negative_Impact_On",
+            "At Least 45 People",
+            "PERSON"
+        ],
+        [
+            "At Least 45 People",
+            "PERSON",
+            "Is_Member_Of",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "State of Emergency",
+            "ORG/REG",
+            "Operate_In",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "State of Emergency",
+            "ORG/REG",
+            "Operate_In",
+            "Egypt",
+            "GPE"
+        ]
+    ]
+}

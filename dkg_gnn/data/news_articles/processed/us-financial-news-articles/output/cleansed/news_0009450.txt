@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Abbvie Inc.",
+            "COMP",
+            "Announce",
+            "Reduction In Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Abbvie Inc.",
+            "COMP",
+            "Plan",
+            "Significant Investment",
+            "FIN_INSTRUMENT",
+            "US",
+            "GPE"
+        ],
+        [
+            "Abbvie Inc.",
+            "COMP",
+            "Plan",
+            "Advance Neuroscience Pipeline",
+            "CONCEPT"
+        ],
+        [
+            "Risankizumab",
+            "PRODUCT",
+            "Can Be",
+            "$5 Billion Drug",
+            "FIN_INSTRUMENT",
+            "By 2025",
+            "TIME"
+        ],
+        [
+            "Upadacitinib",
+            "PRODUCT",
+            "Can Reach",
+            "$6.5 Billion Sales",
+            "FIN_INSTRUMENT",
+            "By 2025",
+            "TIME",
+            "With Six Indications",
+            "PRODUCT"
+        ],
+        [
+            "Abbvie",
+            "COMP",
+            "Expects",
+            "Move At Least Ten Drugs",
+            "PRODUCT",
+            "To Clinical Trials",
+            "EVENT",
+            "In Next 12 Months",
+            "TIME"
+        ],
+        [
+            "Abbvie Inc.",
+            "COMP",
+            "Will Look",
+            "Ways To Return Additional Cash",
+            "FIN_INSTRUMENT",
+            "To Shareholders",
+            "PERSON"
+        ]
+    ]
+}

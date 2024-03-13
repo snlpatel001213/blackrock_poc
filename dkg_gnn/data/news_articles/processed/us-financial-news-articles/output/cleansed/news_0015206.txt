@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Cuba",
+            "GPE",
+            "Control",
+            "Periodo Especial",
+            "EVENT"
+        ],
+        [
+            "Soviet Union",
+            "GPE",
+            "Negative_Impact_On",
+            "Periodo Especial",
+            "EVENT"
+        ],
+        [
+            "Cubans",
+            "PERSON",
+            "Mimic",
+            "Long Beard",
+            "CONCEPT"
+        ],
+        [
+            "Cubans",
+            "PERSON",
+            "Criticize",
+            "Fidel Castro",
+            "PERSON"
+        ]
+    ]
+}

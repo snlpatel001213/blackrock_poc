@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Acquire",
+            "DST Systems Inc",
+            "COMP"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Pay",
+            "$84",
+            "ECON_INDICATOR",
+            "For",
+            "Each",
+            "DST Share",
+            "COMP"
+        ],
+        [
+            "DST Systems Inc",
+            "COMP",
+            "Stock",
+            "Price",
+            "Increase",
+            "To",
+            "$79.89",
+            "ECON_INDICATOR"
+        ],
+        [
+            "DST Systems Inc",
+            "COMP",
+            "Stock",
+            "Price",
+            "Increase",
+            "To",
+            "$83",
+            "ECON_INDICATOR",
+            "In",
+            "Premarket Trading"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Seeks",
+            "To",
+            "Expand",
+            "Its",
+            "Footprint",
+            "In",
+            "Financial Technology Software",
+            "SECTOR"
+        ]
+    ]
+}

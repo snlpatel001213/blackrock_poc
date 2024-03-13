@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "AAR CORP.",
+            "COMP",
+            "Announce",
+            "Cash Dividend",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "AAR CORP.",
+            "COMP",
+            "Operate_In",
+            "Illinois",
+            "GPE"
+        ],
+        [
+            "AAR CORP.",
+            "COMP",
+            "Has",
+            "Aviation Services",
+            "SECTOR"
+        ],
+        [
+            "AAR CORP.",
+            "COMP",
+            "Has",
+            "Expeditionary Services",
+            "SECTOR"
+        ],
+        [
+            "AAR CORP.",
+            "COMP",
+            "Operate_In",
+            "Two Operating Segments",
+            "SECTOR"
+        ],
+        [
+            "Cash Dividend",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Stockholders",
+            "PERSON"
+        ],
+        [
+            "Stockholders",
+            "PERSON",
+            "Participates_In",
+            "Quarterly Cash Dividend",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Quarterly Cash Dividend",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Dividend",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dividend",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Stockholders",
+            "PERSON"
+        ],
+        [
+            "Stockholders",
+            "PERSON",
+            "Participates_In",
+            "Close of Business",
+            "EVENT"
+        ],
+        [
+            "Close of Business",
+            "EVENT",
+            "Relate_To",
+            "January 22, 2018",
+            "DATE"
+        ]
+    ]
+}

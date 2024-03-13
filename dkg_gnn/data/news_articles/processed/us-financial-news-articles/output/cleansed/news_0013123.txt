@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Riot Blockchain Inc.",
+            "COMP",
+            "Establishes",
+            "Digital Green Energy Corp",
+            "ORG"
+        ],
+        [
+            "Digital Green Energy Corp",
+            "ORG",
+            "Relate_To",
+            "International Infrastructure Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Riot Blockchain Inc.",
+            "COMP",
+            "Identifying",
+            "Projects",
+            "CONCEPT"
+        ],
+        [
+            "Projects",
+            "CONCEPT",
+            "Have",
+            "Large Energy Capacity",
+            "CONCEPT"
+        ],
+        [
+            "Projects",
+            "CONCEPT",
+            "Have",
+            "Cost-Efficient Rate",
+            "CONCEPT"
+        ],
+        [
+            "Cost-Efficient Rate",
+            "CONCEPT",
+            "For",
+            "Cryptocurrency Mining",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrency Mining",
+            "CONCEPT",
+            "And",
+            "Data Center Operations",
+            "CONCEPT"
+        ]
+    ]
+}

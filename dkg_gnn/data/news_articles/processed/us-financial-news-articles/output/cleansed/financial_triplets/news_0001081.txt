@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Cargo vessel",
+            "COMP",
+            "Has",
+            "Ten crew members",
+            "PERSON"
+        ],
+        [
+            "Shanghai",
+            "GPE",
+            "Participates_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "Relate_To",
+            "Xinhua News Agency",
+            "ORG"
+        ]
+    ]
+}

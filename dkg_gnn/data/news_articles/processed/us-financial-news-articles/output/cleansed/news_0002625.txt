@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Green Street Advisors",
+            "ORG",
+            "Operate_In",
+            "Real Estate Sector",
+            "SECTOR"
+        ],
+        [
+            "Green Street Advisors",
+            "ORG",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Peter Papadakos",
+            "PERSON",
+            "Is_Member_Of",
+            "Green Street Advisors",
+            "ORG"
+        ]
+    ]
+}

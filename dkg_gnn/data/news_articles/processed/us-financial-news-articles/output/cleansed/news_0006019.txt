@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "McRae Williams",
+            "PERSON",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Operate_In",
+            "Freestyle Skiing",
+            "SECTOR"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Win",
+            "X Games",
+            "EVENT"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Age",
+            "27",
+            "NUM"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Reside",
+            "Salt Lake City",
+            "GPE"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Plan",
+            "New Trick",
+            "CONCEPT"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Determined",
+            "Add Olympic Medal",
+            "CONCEPT"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "End_Career",
+            "Real Life",
+            "CONCEPT"
+        ],
+        [
+            "McRae Williams",
+            "PERSON",
+            "Live",
+            "Utah Backcountry",
+            "GPE"
+        ],
+        [
+            "Winter Olympics",
+            "EVENT",
+            "Occur",
+            "Pyeongchang",
+            "GPE"
+        ],
+        [
+            "Winter Olympics",
+            "EVENT",
+            "Occur",
+            "Beijing",
+            "GPE"
+        ],
+        [
+            "X Games",
+            "EVENT",
+            "Occur",
+            "Tignes",
+            "GPE"
+        ],
+        [
+            "X Games",
+            "EVENT",
+            "Win",
+            "McRae Williams",
+            "PERSON"
+        ],
+        [
+            "Freestyle Skiing",
+            "SECTOR",
+            "Have",
+            "Slopestyle",
+            "CONCEPT"
+        ],
+        [
+            "Freestyle Skiing",
+            "SECTOR",
+            "Have",
+            "Big Air",
+            "CONCEPT"
+        ],
+        [
+            "Utah Backcountry",
+            "GPE",
+            "Shred",
+            "McRae Williams",
+            "PERSON"
+        ]
+    ]
+}

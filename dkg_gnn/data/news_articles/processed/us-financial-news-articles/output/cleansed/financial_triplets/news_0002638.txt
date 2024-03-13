@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "152",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Underlying Strength",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "output": [
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Raise",
+            "Bull Run in Markets",
+            "EVENT"
+        ],
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Predict",
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Hike Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Predict",
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Hike Rates Three Times",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Told",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Hikes",
+            "Rates",
+            "ECON_INDICATOR",
+            "Three Times",
+            "ECON_INDICATOR",
+            "This Year",
+            "TIME"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Believe",
+            "Three to Four Hikes",
+            "ECON_INDICATOR",
+            "Would Be",
+            "Relate_To",
+            "Appropriate",
+            "QUALITY"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Will Be",
+            "Voting Member",
+            "QUALITY",
+            "On",
+            "Relate_To",
+            "FOMC",
+            "ORG/REG"
+        ],
+        [
+            "Quick Normalization of Rates",
+            "CONCEPT",
+            "Be",
+            "Problematic",
+            "QUALITY",
+            "For",
+            "Relate_To",
+            "Markets",
+            "SECTOR"
+        ],
+        [
+            "Markets",
+            "SECTOR",
+            "Have Priced In",
+            "Two Increases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "I think",
+            "PERSON",
+            "If",
+            "Relate_To",
+            "You Go",
+            "Relate_To",
+            "Three or Four",
+            "ECON_INDICATOR",
+            "It Is Going",
+            "Relate_To",
+            "Be",
+            "Relate_To",
+            "Problematic",
+            "QUALITY",
+            "For",
+            "Relate_To",
+            "The Market",
+            "SECTOR"
+        ],
+        [
+            "That",
+            "PUNCTUATION",
+            "Might",
+            "Relate_To",
+            "Be",
+            "Relate_To",
+            "What",
+            "Relate_To",
+            "Provides",
+            "Relate_To",
+            "A Correct",
+            "QUALITY",
+            "In",
+            "Relate_To",
+            "This Bull Run",
+            "EVENT",
+            "That",
+            "Relate_To",
+            "Were Seeing",
+            "QUALITY"
+        ],
+        [
+            "Stock Markets",
+            "SECTOR",
+            "Rallied",
+            "For",
+            "Relate_To",
+            "Much of",
+            "Relate_To",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Three Major Indexes",
+            "SECTOR",
+            "Hit",
+            "Multiple Record-High Levels",
+            "QUALITY"
+        ],
+        [
+            "That Optimism",
+            "CONCEPT",
+            "Has",
+            "Relate_To",
+            "Continued",
+            "Relate_To",
+            "Into",
+            "Relate_To",
+            "This Year",
+            "TIME"
+        ],
+        [
+            "More Hawkish Fed Members",
+            "SECTOR",
+            "Have Argued",
+            "Relate_To",
+            "An Overly Accommodative Environment",
+            "CONCEPT",
+            "Could Cause",
+            "Relate_To",
+            "Bubbles",
+            "CONCEPT"
+        ],
+        [
+            "Some Market Watchers",
+            "SECTOR",
+            "Warned",
+            "Relate_To",
+            "Acceleration in Inflation",
+            "CONCEPT",
+            "Given",
+            "Relate_To",
+            "The Stronger Economy",
+            "CONCEPT",
+            "And",
+            "Relate_To",
+            "Low Unemployment",
+            "CONCEPT"
+        ],
+        [
+            "Yoshikami",
+            "PERSON",
+            "Doesnt Think",
+            "Relate_To",
+            "Inflation",
+            "CONCEPT",
+            "Will Rise",
+            "Relate_To",
+            "At a Faster Pace",
+            "QUALITY",
+            "This Year",
+            "TIME"
+        ],
+        [
+            "Im a Little Suspect",
+            "PERSON",
+            "That",
+            "Relate_To",
+            "Were Actually Going",
+            "Relate_To",
+            "See",
+            "Relate_To",
+            "That Kind of Acceleration",
+            "QUALITY"
+        ]
+    ]
+}

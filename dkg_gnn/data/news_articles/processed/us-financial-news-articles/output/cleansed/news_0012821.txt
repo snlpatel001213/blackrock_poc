@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Shenguan Holdings (Group) Ltd",
+            "COMP",
+            "Expect",
+            "Decrease",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shenguan Holdings (Group) Ltd",
+            "COMP",
+            "Relate_To",
+            "Average Selling Price",
+            "CONCEPT"
+        ],
+        [
+            "Average Selling Price",
+            "CONCEPT",
+            "Impact",
+            "Shenguan Holdings (Group) Ltd",
+            "COMP"
+        ],
+        [
+            "Average Selling Price",
+            "CONCEPT",
+            "Decrease",
+            "certain industries",
+            "SECTOR"
+        ]
+    ]
+}

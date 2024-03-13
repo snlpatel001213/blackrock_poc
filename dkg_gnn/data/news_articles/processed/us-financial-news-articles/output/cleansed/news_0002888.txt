@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Office Depot Inc.",
+            "COMP",
+            "Announce",
+            "Joseph T. Lower",
+            "PERSON"
+        ],
+        [
+            "Joseph T. Lower",
+            "PERSON",
+            "Relate_To",
+            "CFO",
+            "CONCEPT"
+        ],
+        [
+            "Office Depot Inc.",
+            "COMP",
+            "Replace",
+            "Stephen Hare",
+            "PERSON"
+        ],
+        [
+            "Joseph T. Lower",
+            "PERSON",
+            "Operate_In",
+            "B/E Aerospace",
+            "COMP"
+        ]
+    ]
+}

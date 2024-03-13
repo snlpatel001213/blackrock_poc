@@ -1,0 +1,107 @@
+{
+    "output": [
+        [
+            "Russian Federal Anti-Monopoly Service (FAS)",
+            "ORG/REG",
+            "Investigate",
+            "Sale of Natural Gas Assets",
+            "EVENT"
+        ],
+        [
+            "Russian Federal Anti-Monopoly Service (FAS)",
+            "ORG/REG",
+            "Consider",
+            "Complaint",
+            "EVENT",
+            "Rosneft",
+            "COMP"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Unsatisfied",
+            "Terms of Sale",
+            "EVENT"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Run",
+            "Close Ally of President Vladimir Putin",
+            "PERSON"
+        ],
+        [
+            "Alrosa",
+            "COMP",
+            "Decline",
+            "Comment",
+            "EVENT"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Potential Buyer",
+            "EVENT"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Chief Executive",
+            "Igor Sechin",
+            "PERSON"
+        ],
+        [
+            "Igor Sechin",
+            "PERSON",
+            "Ally",
+            "President Vladimir Putin",
+            "PERSON"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Applied",
+            "Clearance to Take Part in Alrosa Auction",
+            "EVENT"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "File Complaints",
+            "Federal Anti-Monopoly Service (FAS)",
+            "ORG/REG",
+            "Finance Ministry",
+            "ORG/GOV",
+            "Subsoil Agency Rosnedra",
+            "ORG/REG"
+        ],
+        [
+            "Rosneft",
+            "COMP",
+            "Won",
+            "Legal Battle",
+            "EVENT",
+            "Sistema",
+            "COMP"
+        ],
+        [
+            "Sistema",
+            "COMP",
+            "Out of Pocket",
+            "100 Billion Roubles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sistema",
+            "COMP",
+            "Close to Prime Minister Dmitry Medvedev",
+            "PERSON"
+        ],
+        [
+            "Bashneft",
+            "COMP",
+            "Subsidiary of Rosneft",
+            "COMP"
+        ]
+    ]
+}

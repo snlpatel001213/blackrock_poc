@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "People\u2019s Bank of China",
+            "ORG/GOV",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ],
+        [
+            "Bond Market",
+            "SECTOR",
+            "Participates_In",
+            "Leverage Ratios",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bond Market",
+            "SECTOR",
+            "Participates_In",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Transactions",
+            "CONCEPT",
+            "Relate_To",
+            "Regulations",
+            "CONCEPT"
+        ]
+    ]
+}

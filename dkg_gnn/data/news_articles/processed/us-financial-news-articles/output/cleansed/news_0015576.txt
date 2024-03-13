@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Moody\u2018s",
+            "ORG",
+            "Announce",
+            "Stable Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Latin America, Caribbean Sovereigns",
+            "GPE",
+            "Relate_To",
+            "Stable Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Moody\u2018s",
+            "ORG",
+            "Expect",
+            "Debt Ratios",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Most Latin America, Caribbean Sovereigns",
+            "GPE",
+            "Impact",
+            "Debt Ratios",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Moody\u2018s",
+            "ORG",
+            "Assume",
+            "US-Related Policy Risks",
+            "CONCEPT"
+        ],
+        [
+            "Latin America, Caribbean Outlook",
+            "GPE",
+            "Relate_To",
+            "US-Related Policy Risks",
+            "CONCEPT"
+        ],
+        [
+            "NAFTA Renegotiations",
+            "EVENT",
+            "Relate_To",
+            "US-Related Policy Risks",
+            "CONCEPT"
+        ]
+    ]
+}

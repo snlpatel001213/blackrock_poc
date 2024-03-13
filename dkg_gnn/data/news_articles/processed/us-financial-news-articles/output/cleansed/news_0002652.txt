@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Allstate Corp",
+            "ORG",
+            "Name",
+            "Mario Rizzo",
+            "PERSON",
+            "r",
+            "CFO",
+            "POS"
+        ],
+        [
+            "Mario Rizzo",
+            "PERSON",
+            "Replace",
+            "Steven Shebik",
+            "PERSON",
+            "r",
+            "CFO",
+            "POS"
+        ],
+        [
+            "Allstate Corp",
+            "ORG",
+            "Promote",
+            "Shebik",
+            "PERSON",
+            "r",
+            "Vice Chairman",
+            "POS"
+        ],
+        [
+            "Thomas Wilson",
+            "PERSON",
+            "Take_On",
+            "Additional Role",
+            "President",
+            "POS",
+            "Allstate Corp",
+            "ORG"
+        ],
+        [
+            "Allstate Corp",
+            "ORG",
+            "Plan",
+            "Retirement",
+            "Matthew Winter",
+            "PERSON",
+            "r",
+            "President",
+            "POS"
+        ],
+        [
+            "Allstate Corp",
+            "ORG",
+            "Name",
+            "Glenn Shapiro",
+            "PERSON",
+            "r",
+            "President",
+            "POS",
+            "Allstate Personal Lines",
+            "ORG"
+        ]
+    ]
+}

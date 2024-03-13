@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "American Airlines",
+            "COMP",
+            "Operate_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Operate_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Relate_To",
+            "Charitable Causes",
+            "CONCEPT"
+        ]
+    ]
+}

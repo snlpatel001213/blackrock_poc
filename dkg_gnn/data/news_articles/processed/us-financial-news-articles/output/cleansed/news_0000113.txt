@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Sign",
+            "Contract",
+            "EVENT"
+        ],
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Operate_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Provide",
+            "54 Additional Twindexx Vario Double-Deck Coaches",
+            "PRODUCT"
+        ],
+        [
+            "Israel Railways",
+            "ORG",
+            "Receive",
+            "54 Additional Twindexx Vario Double-Deck Coaches",
+            "PRODUCT"
+        ],
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Deliver",
+            "New Coaches",
+            "PRODUCT"
+        ],
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Relate_To",
+            "Framework Agreement",
+            "EVENT"
+        ],
+        [
+            "Framework Agreement",
+            "EVENT",
+            "Valued_At",
+            "104 Million Euro",
+            "ECON_INDICATOR"
+        ],
+        [
+            "104 Million Euro",
+            "ECON_INDICATOR",
+            "Equivalent_To",
+            "126 Million Dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bombardier Inc.",
+            "ORG",
+            "Complete_Delivery",
+            "By August 2020",
+            "DATE"
+        ]
+    ]
+}

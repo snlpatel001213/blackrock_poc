@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Is_Member_Of",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Reports",
+            "CONCEPT",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Conduct",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Pyongyang",
+            "GPE"
+        ]
+    ]
+}

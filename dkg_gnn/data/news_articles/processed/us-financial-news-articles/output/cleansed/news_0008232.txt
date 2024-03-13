@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Harbin Electric Corp",
+            "ORG",
+            "Awarded",
+            "GE Power",
+            "ORG/REG",
+            "Order",
+            "FIN_INSTRUMENT",
+            "2",
+            "9F.05",
+            "Gas Turbines",
+            "PRODUCT",
+            "State Power Investment Corporation",
+            "ORG/GOV",
+            "Langfang Power Plant",
+            "GPE"
+        ],
+        [
+            "GE",
+            "ORG",
+            "Relate_To",
+            "Order",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

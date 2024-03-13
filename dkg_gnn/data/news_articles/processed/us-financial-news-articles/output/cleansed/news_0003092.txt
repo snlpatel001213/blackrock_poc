@@ -1,0 +1,178 @@
+{
+    "output": [
+        [
+            "Boko Haram",
+            "ORG/REG",
+            "Displace",
+            "People",
+            "GPE"
+        ],
+        [
+            "People",
+            "GPE",
+            "Struggle",
+            "Find",
+            "Goods"
+        ],
+        [
+            "Bakasi Camp",
+            "GPE",
+            "Have",
+            "Displaced People",
+            "GPE"
+        ],
+        [
+            "Bakasi",
+            "GPE",
+            "Operate_In",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "Northeast",
+            "GPE",
+            "Have",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Camps",
+            "GPE",
+            "Rare",
+            "Opportunities",
+            "SECTOR"
+        ],
+        [
+            "Food",
+            "PRODUCT",
+            "Often",
+            "Not",
+            "Want"
+        ],
+        [
+            "Bakasi",
+            "GPE",
+            "Swap",
+            "Goods",
+            "PRODUCT"
+        ],
+        [
+            "Herbs",
+            "PRODUCT",
+            "Make",
+            "Soup",
+            "PRODUCT"
+        ],
+        [
+            "Groundnut",
+            "PRODUCT",
+            "Help",
+            "Breastfeeding Mother",
+            "PERSON"
+        ],
+        [
+            "Laundry Detergent",
+            "PRODUCT",
+            "For",
+            "Family Clothes",
+            "PRODUCT"
+        ],
+        [
+            "Umaru Usman Kaski",
+            "PERSON",
+            "Hope",
+            "Trade",
+            "Firewood",
+            "PRODUCT"
+        ],
+        [
+            "Cash Distribution",
+            "ACTIVITY",
+            "Fraught",
+            "Risk",
+            "SECTOR"
+        ],
+        [
+            "Reports",
+            "PRODUCT",
+            "Corruption",
+            "Humanitarian Crisis",
+            "EVENT"
+        ],
+        [
+            "Government Officials",
+            "PERSON",
+            "Aid Workers",
+            "PERSON",
+            "Soldiers",
+            "PERSON",
+            "Allege",
+            "Skim",
+            "Top",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aid",
+            "PRODUCT",
+            "Vast Majority",
+            "Come",
+            "Overseas",
+            "GPE"
+        ],
+        [
+            "Nigeria Displaced",
+            "GPE",
+            "Find",
+            "Ways",
+            "Balance",
+            "Receive",
+            "Needs",
+            "SECTOR"
+        ],
+        [
+            "Abdulwahal Abdulla",
+            "PERSON",
+            "Hope",
+            "Trade",
+            "Tilapia",
+            "PRODUCT",
+            "Cooking Oil",
+            "PRODUCT"
+        ],
+        [
+            "Abdulla",
+            "PERSON",
+            "Buy",
+            "Tilapia",
+            "Because",
+            "Products",
+            "Scarce"
+        ],
+        [
+            "Nasiru Buba",
+            "PERSON",
+            "Trade",
+            "Laundry Detergent",
+            "PRODUCT",
+            "Groundnuts",
+            "PRODUCT"
+        ],
+        [
+            "Buba",
+            "PERSON",
+            "Wife",
+            "Deliver",
+            "Baby",
+            "EVENT"
+        ],
+        [
+            "Buba",
+            "PERSON",
+            "Need",
+            "Groundnuts",
+            "PRODUCT",
+            "Breast Milk",
+            "PRODUCT"
+        ]
+    ]
+}

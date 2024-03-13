@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Sarah Gray",
+            "PERSON",
+            "Write",
+            "Footage",
+            "EVENT"
+        ],
+        [
+            "Tesla Model X",
+            "PRODUCT",
+            "Pull",
+            "Semi Truck",
+            "PRODUCT"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Retweet",
+            "Footage",
+            "EVENT"
+        ],
+        [
+            "Kyle Connor",
+            "PERSON",
+            "Post",
+            "Video",
+            "EVENT"
+        ],
+        [
+            "Ben Spreen",
+            "PERSON",
+            "Drive",
+            "Model X",
+            "PRODUCT"
+        ],
+        [
+            "Model X",
+            "PRODUCT",
+            "Use",
+            "Slip Start mode",
+            "CONCEPT"
+        ],
+        [
+            "Model X",
+            "PRODUCT",
+            "Help",
+            "Navigate",
+            "CONCEPT"
+        ],
+        [
+            "Fortune",
+            "COMP",
+            "Contact",
+            "Spreen",
+            "PERSON"
+        ],
+        [
+            "Fortune",
+            "COMP",
+            "Contact",
+            "Connor",
+            "PERSON"
+        ],
+        [
+            "Bomb cyclone storm",
+            "EVENT",
+            "Hammer",
+            "East Coast",
+            "GPE"
+        ],
+        [
+            "Tesla Model X P100D",
+            "PRODUCT",
+            "Drive",
+            "90-mile trip",
+            "EVENT"
+        ],
+        [
+            "Tesla Model X P100D",
+            "PRODUCT",
+            "Declare",
+            "Nearly perfect winter car",
+            "CONCEPT"
+        ],
+        [
+            "Fortune",
+            "COMP",
+            "Test Drive",
+            "Tesla Model X P100D",
+            "PRODUCT"
+        ]
+    ]
+}

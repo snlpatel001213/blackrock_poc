@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Raise",
+            "10%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Invests_In",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Founders Fund",
+            "ORG",
+            "Invests_In",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Operate_In",
+            "Crypto Currencies",
+            "SECTOR"
+        ]
+    ]
+}

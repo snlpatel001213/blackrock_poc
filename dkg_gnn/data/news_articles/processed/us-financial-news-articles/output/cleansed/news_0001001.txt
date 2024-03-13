@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Nike",
+            "ORG",
+            "Produce",
+            "Coutinho Barcelona shirts",
+            "PRODUCT"
+        ],
+        [
+            "Nike",
+            "ORG",
+            "Client",
+            "Coutinho",
+            "PERSON"
+        ],
+        [
+            "Nike",
+            "ORG",
+            "Relate_To",
+            "Advertising error",
+            "CONCEPT"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Has",
+            "Camp Nou",
+            "PRODUCT"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Control",
+            "Coutinho transfer",
+            "CONCEPT"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Unfazed",
+            "Nike ad",
+            "CONCEPT"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Manager",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Coutinho",
+            "PERSON",
+            "Score",
+            "Goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Coutinho",
+            "PERSON",
+            "Provide",
+            "Assists",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Coutinho",
+            "PERSON",
+            "Injured",
+            "Thigh injury",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Play",
+            "FA Cup",
+            "EVENT"
+        ]
+    ]
+}

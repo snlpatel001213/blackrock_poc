@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Harumafuji",
+            "PERSON",
+            "Fined",
+            "500,000 yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Assault",
+            "junior wrestler",
+            "PERSON"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Impact",
+            "Sumo image",
+            "CONCEPT"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Hit",
+            "Takanoiwa",
+            "PERSON"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Angered",
+            "Takanoiwa",
+            "PERSON"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Slap",
+            "Takanoiwa",
+            "PERSON"
+        ],
+        [
+            "Harumafuji",
+            "PERSON",
+            "Lawyer",
+            "Release",
+            "EVENT"
+        ],
+        [
+            "Sumo",
+            "ORG",
+            "Struggle",
+            "Reform",
+            "VERB"
+        ],
+        [
+            "Sumo",
+            "ORG",
+            "Have",
+            "Improvements",
+            "VERB"
+        ],
+        [
+            "Trainee",
+            "PERSON",
+            "Beaten",
+            "Death",
+            "EVENT"
+        ]
+    ]
+}

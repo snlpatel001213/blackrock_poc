@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Losses_Relate_To",
+            "Purchases",
+            "COMP"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "File",
+            "Lead_Plaintiff_Applications",
+            "ORG/GOV"
+        ],
+        [
+            "Novan, Inc.",
+            "COMP",
+            "Involved_In",
+            "Securities_Class_Action_Lawsuit",
+            "ORG/GOV"
+        ],
+        [
+            "Novan, Inc.",
+            "COMP",
+            "Shares",
+            "Class_Period",
+            "TIMEPERIOD"
+        ],
+        [
+            "Novan, Inc.",
+            "COMP",
+            "Shares",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "United_States_District_Court",
+            "ORG/GOV",
+            "Action_Pending_In",
+            "Middle_District_of_North_Carolina",
+            "GPE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Help_Recover",
+            "Share_of_Billions_of_Dollars",
+            "MONEY"
+        ],
+        [
+            "ClaimsFiler",
+            "ORG",
+            "Single_Mission",
+            "Serve_Information_Source",
+            "CONCEPT"
+        ],
+        [
+            "ClaimsFiler",
+            "ORG",
+            "Team_of_Experts",
+            "Monitor",
+            "SECTOR"
+        ],
+        [
+            "ClaimsFiler",
+            "ORG",
+            "Cull_Information",
+            "Variety_of_Sources",
+            "CONCEPT"
+        ]
+    ]
+}

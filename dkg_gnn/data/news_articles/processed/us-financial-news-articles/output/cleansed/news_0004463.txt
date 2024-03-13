@@ -1,0 +1,206 @@
+{
+    "output": [
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Sued",
+            "Fetch Media Ltd",
+            "ORG"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Refuse_To_Pay",
+            "Bills",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Claim",
+            "Ads_Being_Generated",
+            "PRODUCT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Call",
+            "Fraudulent",
+            "CONCEPT"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "File_Lawsuit",
+            "Tuesday",
+            "EVENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Accuse",
+            "Fetch Media Ltd",
+            "ORG"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Fail",
+            "Pass_Back_Rebates_And_Commissions",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Pursue",
+            "Related_Claims",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Operate_In",
+            "San_Francisco",
+            "GPE"
+        ],
+        [
+            "Ad_Fraud",
+            "CONCEPT",
+            "Persistent_Issue",
+            "Online_Advertising",
+            "SECTOR"
+        ],
+        [
+            "Ad_Fraud",
+            "CONCEPT",
+            "Called",
+            "Click_Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Suggest",
+            "Uber_Dismiss_Case",
+            "EVENT"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Assign",
+            "Rogers",
+            "PERSON"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Ask",
+            "Direct_Uber_Pay",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Owe",
+            "Invoices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Not_Respond",
+            "Requests_For_Comment",
+            "CONCEPT"
+        ],
+        [
+            "Association_Of_National_Advertisers",
+            "ORG",
+            "Estimate",
+            "Marketers_Lose",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Hire",
+            "Fetch Media Ltd",
+            "ORG"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Pay",
+            "Legitimate_Clicks",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Claim",
+            "Fetch_Wrongly_Claim_Credit",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Say",
+            "Fetch_Failure_Stop_Ad_Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Contribute",
+            "At_Least",
+            "50_Million",
+            "ECON_INDICATOR",
+            "Of_Damages",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Say",
+            "Ad_Fraud_Surfaced",
+            "EVENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Ask",
+            "Not_Place_Ads",
+            "CONCEPT",
+            "On",
+            "Breitbart.com",
+            "GPE"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Call",
+            "Uber",
+            "COMP",
+            "Faithless_Business_Partner",
+            "CONCEPT"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Help",
+            "Uber",
+            "COMP",
+            "Monitor_Ad_Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Fetch Media Ltd",
+            "ORG",
+            "Register",
+            "More_Than",
+            "35_Million",
+            "ECON_INDICATOR",
+            "Riders",
+            "CONCEPT"
+        ]
+    ]
+}

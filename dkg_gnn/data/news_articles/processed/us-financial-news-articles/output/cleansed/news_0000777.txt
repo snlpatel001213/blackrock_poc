@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Storm Eleanor",
+            "EVENT",
+            "Impact",
+            "Porthcawl",
+            "GPE"
+        ],
+        [
+            "Shembe faith",
+            "CONCEPT",
+            "Participates_In",
+            "Annual Pilgrimage",
+            "EVENT"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Crash",
+            "Truck",
+            "PRODUCT",
+            "North of Lima",
+            "GPE"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "Mourn",
+            "Apartment Fire",
+            "EVENT",
+            "Bronx",
+            "GPE"
+        ],
+        [
+            "South Korean Government Official",
+            "PERSON",
+            "Check",
+            "Direct Communications Hotline",
+            "PRODUCT",
+            "North Korean Side",
+            "PERSON",
+            "Panmunjom",
+            "GPE"
+        ],
+        [
+            "Palestinian Woman",
+            "PERSON",
+            "Rest",
+            "House",
+            "PRODUCT",
+            "Khan Younis Refugee Camp",
+            "GPE"
+        ],
+        [
+            "Couple",
+            "PERSON",
+            "Take",
+            "Selfie",
+            "PRODUCT",
+            "Rawal Lake",
+            "GPE"
+        ],
+        [
+            "Alexandra Conopoy",
+            "PERSON",
+            "Die",
+            "Incident",
+            "EVENT",
+            "Scarce of Pork",
+            "CONCEPT",
+            "Charallave",
+            "GPE"
+        ],
+        [
+            "Girl",
+            "PERSON",
+            "Stand",
+            "Binoculars",
+            "PRODUCT",
+            "Near Demilitarized Zone",
+            "PRODUCT",
+            "Separating the Two Koreas",
+            "CONCEPT",
+            "Paju",
+            "GPE"
+        ],
+        [
+            "Supermoon",
+            "EVENT",
+            "Rise",
+            "Frankfurt",
+            "GPE"
+        ],
+        [
+            "FDNY Firemen",
+            "PERSON",
+            "Work",
+            "Apartment Building",
+            "PRODUCT",
+            "Bronx",
+            "GPE"
+        ],
+        [
+            "Aisha Umaru",
+            "PERSON",
+            "Hold",
+            "Basin of Milk",
+            "PRODUCT",
+            "Umari Usman Kaski",
+            "PERSON",
+            "Firewood",
+            "PRODUCT",
+            "Bakasi IDP Camp",
+            "GPE",
+            "Maiduguri",
+            "GPE"
+        ],
+        [
+            "Winston Reid",
+            "PERSON",
+            "In Action",
+            "Salomon Rondon",
+            "PERSON"
+        ],
+        [
+            "Members of Dalit Community",
+            "PERSON",
+            "Detained",
+            "Police",
+            "PERSON",
+            "Mumbai",
+            "GPE"
+        ],
+        [
+            "Customer",
+            "PERSON",
+            "Browse",
+            "Recreational Marijuana Products",
+            "PRODUCT",
+            "MedMen Store",
+            "ORG",
+            "West Hollywood",
+            "GPE"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Take Part",
+            "Pro-Government Rallies",
+            "EVENT",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Visitors",
+            "PERSON",
+            "Attend",
+            "3D Light Show",
+            "PRODUCT",
+            "Harbin Sun Island International Snow Sculpture Art Expo",
+            "ORG",
+            "Harbin",
+            "GPE"
+        ],
+        [
+            "Pedestrians",
+            "PERSON",
+            "Walk",
+            "Street",
+            "PRODUCT",
+            "Bundled",
+            "ADJ",
+            "Extreme Cold",
+            "CONCEPT",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Fish",
+            "Thin Ice",
+            "PRODUCT",
+            "Covering Yenisei River",
+            "PRODUCT",
+            "Outside Krasnoyarsk",
+            "GPE"
+        ],
+        [
+            "Members of Miracle Team",
+            "PERSON",
+            "Listen",
+            "Coach",
+            "PERSON",
+            "Before Training Session",
+            "EVENT",
+            "El Salam Club",
+            "ORG",
+            "Cairo",
+            "GPE"
+        ],
+        [
+            "Young Devotee",
+            "PERSON",
+            "Grasp",
+            "Water",
+            "PRODUCT",
+            "Offer",
+            "VERB",
+            "Prayers",
+            "PRODUCT",
+            "Bank of Hanumante River",
+            "PRODUCT",
+            "During Swasthani Brata Katha Festival",
+            "EVENT",
+            "Bhaktapur",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "output": [
+        [
+            "Denver",
+            "GPE",
+            "Has",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Relate_To",
+            "Glut",
+            "CONCEPT"
+        ],
+        [
+            "Glut",
+            "CONCEPT",
+            "Relate_To",
+            "Sparkling New",
+            "CONCEPT",
+            "High-End",
+            "CONCEPT",
+            "Rental Apartments",
+            "PRODUCT"
+        ],
+        [
+            "Rental Apartments",
+            "PRODUCT",
+            "Have",
+            "Amenities",
+            "CONCEPT"
+        ],
+        [
+            "Amenities",
+            "CONCEPT",
+            "Include",
+            "Gyms",
+            "PRODUCT",
+            "Roof Decks",
+            "PRODUCT",
+            "Sometimes",
+            "ADV",
+            "Pet Spas",
+            "PRODUCT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Will_Use",
+            "Rental Apartments",
+            "PRODUCT",
+            "To_House",
+            "Teachers",
+            "PERSON",
+            "Medical_Technicians",
+            "PERSON",
+            "Others",
+            "PERSON"
+        ],
+        [
+            "Others",
+            "PERSON",
+            "Can_t_Afford",
+            "City_s",
+            "GPE",
+            "Soiaring",
+            "ADJ",
+            "Rents",
+            "CONCEPT"
+        ],
+        [
+            "City",
+            "GPE",
+            "Along_With",
+            "Employers",
+            "ORG",
+            "Charitable_Foundations",
+            "ORG",
+            "Will_Pay",
+            "Difference",
+            "CONCEPT"
+        ],
+        [
+            "Difference",
+            "CONCEPT",
+            "Between",
+            "What_Lower-Income",
+            "ADJ",
+            "Resident",
+            "PERSON",
+            "Can_Afford",
+            "CONCEPT",
+            "And",
+            "Market",
+            "CONCEPT",
+            "Rent",
+            "CONCEPT",
+            "Of",
+            "An",
+            "DET",
+            "Apartment",
+            "PRODUCT"
+        ]
+    ]
+}

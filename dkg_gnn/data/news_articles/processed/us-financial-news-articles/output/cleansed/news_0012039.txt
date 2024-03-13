@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Western Digital Corp.",
+            "COMP",
+            "Set",
+            "Q2 Fiscal 2018 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Western Digital Corp.",
+            "COMP",
+            "Announce",
+            "Conference Call/Webcast",
+            "EVENT"
+        ],
+        [
+            "Western Digital Corp.",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Western Digital Corp.",
+            "COMP",
+            "Release",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Plan",
+            "Release Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Broadcast",
+            "Conference Call/Webcast",
+            "EVENT"
+        ],
+        [
+            "Conference Call/Webcast",
+            "EVENT",
+            "Broadcast",
+            "Live",
+            "null"
+        ],
+        [
+            "Conference Call/Webcast",
+            "EVENT",
+            "Access",
+            "Online",
+            "null"
+        ],
+        [
+            "Conference Call/Webcast",
+            "EVENT",
+            "Access",
+            "Archived",
+            "null"
+        ],
+        [
+            "Live and Archived Conference Call/Webcast",
+            "EVENT",
+            "Access",
+            "Online",
+            "null"
+        ],
+        [
+            "Live and Archived Conference Call/Webcast",
+            "EVENT",
+            "Can",
+            "Access",
+            "null"
+        ],
+        [
+            "Call",
+            "null",
+            "Replay",
+            "Number",
+            "null"
+        ],
+        [
+            "Call",
+            "null",
+            "Replay",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Call",
+            "null",
+            "Replay",
+            "International",
+            "GPE"
+        ],
+        [
+            "Call",
+            "null",
+            "Replay",
+            "Required",
+            "null"
+        ],
+        [
+            "Call",
+            "null",
+            "Replay",
+            "Passcode",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Create",
+            "Environments",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Drive",
+            "Innovation",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Help",
+            "Customers",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Capture",
+            "Preserve",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Access",
+            "Transform",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Diversity",
+            "Data",
+            "null"
+        ],
+        [
+            "Data",
+            "null",
+            "Thrive",
+            "Environments",
+            "null"
+        ],
+        [
+            "Data",
+            "null",
+            "Centric",
+            "Solutions",
+            "null"
+        ],
+        [
+            "Western Digital",
+            "ORG",
+            "Marketed",
+            "Solutions",
+            "null"
+        ],
+        [
+            "G-Technology",
+            "BRAND",
+            "Tegile",
+            "Upthere",
+            "BRAND"
+        ],
+        [
+            "WD",
+            "BRAND",
+            "Brands",
+            "null",
+            "null"
+        ]
+    ]
+}

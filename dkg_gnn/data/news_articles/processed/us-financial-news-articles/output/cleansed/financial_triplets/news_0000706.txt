@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Announce",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Operate_In",
+            "Asia Sector",
+            "SECTOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Invests_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Invests_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "David Roche",
+            "PERSON",
+            "Relate_To",
+            "Independent Strategy",
+            "ORG"
+        ],
+        [
+            "David Roche",
+            "PERSON",
+            "Relate_To",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Participates_In",
+            "Cold War",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Participates_In",
+            "Cold War",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Decrease",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Decrease",
+            "Nuclear Weapons",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Raise",
+            "Sanctions",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "Sanctions",
+            "CONCEPT"
+        ],
+        [
+            "Pyongyang",
+            "GPE",
+            "Relate_To",
+            "Seoul",
+            "GPE"
+        ],
+        [
+            "Pyongyang",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Relate_To",
+            "United States",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "United States",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Nuclear Button",
+            "CONCEPT"
+        ]
+    ]
+}

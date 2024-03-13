@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Buxton",
+            "ORG",
+            "Operate_In",
+            "Industry Sectors",
+            "SECTOR"
+        ],
+        [
+            "2018 Retail and Restaurant Real Estate Outlook",
+            "EVENT",
+            "Relate_To",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "2018 Retail and Restaurant Real Estate Outlook",
+            "EVENT",
+            "Relate_To",
+            "Restaurant Industry",
+            "SECTOR"
+        ],
+        [
+            "Buxton",
+            "ORG",
+            "Operate_In",
+            "SCOUT analytics tool",
+            "PRODUCT"
+        ],
+        [
+            "Buxton",
+            "ORG",
+            "Has",
+            "Clients",
+            "PERSON"
+        ],
+        [
+            "Clients",
+            "PERSON",
+            "Raise",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Buxton",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Buxton",
+            "ORG",
+            "Is_Member_Of",
+            "Industry",
+            "SECTOR"
+        ]
+    ]
+}

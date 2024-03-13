@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Announce",
+            "Jesse Luis",
+            "PERSON"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Has",
+            "President & CEO",
+            "PERSON"
+        ],
+        [
+            "Jesse Luis",
+            "PERSON",
+            "Has",
+            "over two decades",
+            "CONCEPT"
+        ],
+        [
+            "Jesse Luis",
+            "PERSON",
+            "Operate_In",
+            "Real Estate and Hospitality",
+            "SECTOR"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Operate_In",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Participates_In",
+            "Development Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Has",
+            "Vice President of Development",
+            "PERSON"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Has",
+            "Retail concourse",
+            "PRODUCT"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Has",
+            "Fully integrated resort casino",
+            "COMP"
+        ],
+        [
+            "Foxwoods Resort Casino",
+            "ORG",
+            "Has",
+            "Unique guest experiences",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Hezbollah",
+            "ORG",
+            "Impact",
+            "Syrian war",
+            "EVENT"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "Control",
+            "Syrian war",
+            "EVENT"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "Relate_To",
+            "Iran",
+            "ORG"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "Operate_In",
+            "Lebanon",
+            "GPE"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "Participates_In",
+            "Conflict",
+            "EVENT"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "Has",
+            "Weapons",
+            "PRODUCT"
+        ]
+    ]
+}

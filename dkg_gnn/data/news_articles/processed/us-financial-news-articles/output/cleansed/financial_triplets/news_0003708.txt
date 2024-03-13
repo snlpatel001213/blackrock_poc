@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Announce",
+            "Susan A. Knudson",
+            "PERSON"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Operate_In",
+            "Biopharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Neothetics",
+            "COMP",
+            "Is_Member_Of",
+            "Biopharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Avera Pharmaceuticals",
+            "COMP",
+            "Is_Member_Of",
+            "Biopharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Has",
+            "Deep and Diverse Pipeline",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Operate_In",
+            "Clinical-stage Biotechnology",
+            "SECTOR"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "PF708",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "Anthrax Vaccine Candidates",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "Hematology/Oncology Products",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "Biosimilar Candidates",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "Lucentis\u00ae Biosimilar",
+            "PRODUCT"
+        ],
+        [
+            "Pfenex Inc.",
+            "COMP",
+            "Produce",
+            "Neulasta\u00ae Biosimilar",
+            "PRODUCT"
+        ]
+    ]
+}

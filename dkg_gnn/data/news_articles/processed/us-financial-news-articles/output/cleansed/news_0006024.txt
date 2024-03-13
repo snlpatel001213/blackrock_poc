@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Moshe Harel",
+            "PERSON",
+            "Has",
+            "International Arrest Warrant",
+            "ORG/REG"
+        ],
+        [
+            "Moshe Harel",
+            "PERSON",
+            "Arrested",
+            null,
+            "ORG/GPE"
+        ],
+        [
+            "Moshe Harel",
+            "PERSON",
+            "Requested_Extradition",
+            null,
+            "ORG/GPE"
+        ],
+        [
+            "Moshe Harel",
+            "PERSON",
+            "Accused",
+            "Human Organ Trafficking Scandal",
+            "CONCEPT"
+        ],
+        [
+            "Moshe Harel",
+            "PERSON",
+            "Lure",
+            "Donors",
+            "PERSON"
+        ],
+        [
+            "Donors",
+            "PERSON",
+            "Come",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Donors",
+            "PERSON",
+            "Come",
+            "Ex-Soviet Union",
+            "GPE"
+        ],
+        [
+            "Recipients",
+            "PERSON",
+            "Pay",
+            "80,000-100,000 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Some Donors",
+            "PERSON",
+            "Never Receive",
+            "Any Money",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Medicus Clinic",
+            "ORG",
+            "On",
+            "Residential Road",
+            "GPE"
+        ],
+        [
+            "Medicus Clinic",
+            "ORG",
+            "Outskirts",
+            "Pristina",
+            "GPE"
+        ],
+        [
+            "Lutfi Dervishi",
+            "PERSON",
+            "Sentenced",
+            "8 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lutfi Dervishi",
+            "PERSON",
+            "Sentenced",
+            "Organized Crime",
+            "CONCEPT"
+        ],
+        [
+            "Lutfi Dervishi",
+            "PERSON",
+            "Sentenced",
+            "Human Trafficking",
+            "CONCEPT"
+        ],
+        [
+            "Arban Dervishi",
+            "PERSON",
+            "Sentenced",
+            "7 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arban Dervishi",
+            "PERSON",
+            "Sentenced",
+            "Organized Crime",
+            "CONCEPT"
+        ],
+        [
+            "Arban Dervishi",
+            "PERSON",
+            "Sentenced",
+            "Human Trafficking",
+            "CONCEPT"
+        ],
+        [
+            "Lutfi Dervishi",
+            "PERSON",
+            "Recaptured",
+            null,
+            "ORG/GPE"
+        ],
+        [
+            "Lutfi Dervishi",
+            "PERSON",
+            "Retrial",
+            null,
+            "ORG/GPE"
+        ],
+        [
+            "Yusuf Sonmez",
+            "PERSON",
+            "At Large",
+            null,
+            "ORG/GPE"
+        ],
+        [
+            "Dick Marty",
+            "PERSON",
+            "Accuse",
+            "Kosovo Albanian Guerrilla Fighters",
+            "PERSON"
+        ],
+        [
+            "Kosovo Albanian Guerrilla Fighters",
+            "PERSON",
+            "Harvest",
+            "Organs",
+            "CONCEPT"
+        ],
+        [
+            "Captives",
+            "PERSON",
+            "Mainly",
+            "Serbs",
+            "PERSON"
+        ],
+        [
+            "Council of Europe",
+            "ORG",
+            "Envoy",
+            "Dick Marty",
+            "PERSON"
+        ],
+        [
+            "Special Court",
+            "ORG",
+            "Set Up",
+            "Tackle",
+            "CONCEPT"
+        ],
+        [
+            "Marty\u2019s Allegations",
+            "CONCEPT",
+            "No Indictments",
+            "null",
+            "ORG"
+        ]
+    ]
+}

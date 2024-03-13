@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Jordan",
+            "GPE",
+            "Has",
+            "Intelligence Department",
+            "ORG"
+        ],
+        [
+            "Intelligence Department",
+            "ORG",
+            "Arrest",
+            "17 Members",
+            "PERSON"
+        ],
+        [
+            "Cell",
+            "ORG",
+            "Is_Member_Of",
+            "Islamic State",
+            "ORG/REG"
+        ],
+        [
+            "Cell",
+            "ORG",
+            "Plan",
+            "Attacks",
+            "EVENT"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Target",
+            "Security Installations",
+            "COMP"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Target",
+            "Shopping Malls",
+            "COMP"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Target",
+            "Moderate Religious Figures",
+            "PERSON"
+        ],
+        [
+            "Cell",
+            "ORG",
+            "Confiscate",
+            "Weapons and Explosives",
+            "PRODUCT"
+        ]
+    ]
+}

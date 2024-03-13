@@ -1,0 +1,145 @@
+{
+    "output": [
+        [
+            "TOKYO",
+            "GPE",
+            "Locate_In",
+            "Tsukiji Fish Market",
+            "ORG"
+        ],
+        [
+            "Tsukiji Fish Market",
+            "ORG",
+            "Relate_To",
+            "Tokyo 2020 Olympics",
+            "EVENT"
+        ],
+        [
+            "Hiroshi Onodera",
+            "PERSON",
+            "President_Of",
+            "LEOC Co. Ltd",
+            "ORG"
+        ],
+        [
+            "LEOC Co. Ltd",
+            "ORG",
+            "Own",
+            "Ginza Onodera",
+            "ORG"
+        ],
+        [
+            "Ginza Onodera",
+            "ORG",
+            "Locate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Ginza Onodera",
+            "ORG",
+            "Locate_In",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Hiroshi Onodera",
+            "PERSON",
+            "Pay",
+            "36.45 Million Yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "405-kg Bluefin Tuna",
+            "PRODUCT",
+            "Sold_At",
+            "Tsukiji Fish Market",
+            "ORG"
+        ],
+        [
+            "405-kg Bluefin Tuna",
+            "PRODUCT",
+            "Pacific",
+            "CONCEPT"
+        ],
+        [
+            "405-kg Bluefin Tuna",
+            "PRODUCT",
+            "Use_In",
+            "Sushi",
+            "PRODUCT"
+        ],
+        [
+            "Tuna",
+            "PRODUCT",
+            "Prized",
+            "Worldwide",
+            "GPE"
+        ],
+        [
+            "Tuna",
+            "PRODUCT",
+            "Overfishing",
+            "CONCEPT"
+        ],
+        [
+            "Pacific Bluefin Tuna",
+            "PRODUCT",
+            "Endangered_Species",
+            "CONCEPT"
+        ],
+        [
+            "Jamie Gibbon",
+            "PERSON",
+            "Pacific Bluefin Tuna",
+            "Expert_For",
+            "Pew Charitable Trusts",
+            "ORG"
+        ],
+        [
+            "Pew Charitable Trusts",
+            "ORG",
+            "Warn",
+            "Growing_Demand",
+            "CONCEPT"
+        ],
+        [
+            "Tsukiji Market",
+            "ORG",
+            "Draw",
+            "Tens_Of_Thousands_Of_Visitors",
+            "ECON_INDICATOR",
+            "Yearly"
+        ],
+        [
+            "Tsukiji Market",
+            "ORG",
+            "Part_Of",
+            "Tourism_Boom",
+            "CONCEPT"
+        ],
+        [
+            "Tourism_Boom",
+            "CONCEPT",
+            "Key_Part",
+            "Prime_Minister_Shinzo_Abe\u2019s",
+            "PERSON",
+            "Economic_Revival_Plan",
+            "CONCEPT"
+        ],
+        [
+            "Mitsuko Yamaguchi",
+            "PERSON",
+            "Owner",
+            "Seafood_Store",
+            "ORG"
+        ],
+        [
+            "Tsukiji Fish Market",
+            "ORG",
+            "Final_Auction",
+            "This_Year",
+            "TIME"
+        ]
+    ]
+}

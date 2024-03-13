@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Lose",
+            "Camila Giorgi",
+            "PERSON"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Has",
+            "World number 13",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Negative_Impact_On",
+            "Winning Streak",
+            "CONCEPT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Meet",
+            "Petra Kvitova",
+            "PERSON"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Meet",
+            "Mirjana Lucic-Baroni",
+            "PERSON"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Run",
+            "Jan. 15-28",
+            "DATE"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Announce",
+            "One U.S. service member",
+            "PERSON"
+        ],
+        [
+            "One U.S. service member",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Wound",
+            "Four others",
+            "PERSON"
+        ],
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Participates_In",
+            "Combat engagement",
+            "CONCEPT"
+        ],
+        [
+            "Incident",
+            "EVENT",
+            "Take_Place",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Incident",
+            "EVENT",
+            "Locate",
+            "Achin",
+            "GPE"
+        ],
+        [
+            "Nangarhar",
+            "GPE",
+            "Has",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Generally_Known_As",
+            "Daesh",
+            "ORG"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Grow_To_Become",
+            "Dangerous militant group",
+            "ORG"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Appear",
+            "Start of 2015",
+            "DATE"
+        ],
+        [
+            "Nangarhar",
+            "GPE",
+            "Frequently_Fought",
+            "Taliban",
+            "ORG"
+        ],
+        [
+            "Nangarhar",
+            "GPE",
+            "Targeted",
+            "U.S. air strikes",
+            "EVENT"
+        ],
+        [
+            "Taliban",
+            "ORG",
+            "Relate_To",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "U.S. Troops",
+            "PERSON",
+            "Be",
+            "About 14000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Troops",
+            "PERSON",
+            "Allow",
+            "Accompany Afghan forces",
+            "PERSON"
+        ],
+        [
+            "U.S. Troops",
+            "PERSON",
+            "Allow",
+            "Battalion level",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Troops",
+            "PERSON",
+            "Potentially_Put",
+            "Greater risk",
+            "CONCEPT"
+        ]
+    ]
+}

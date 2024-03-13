@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "CEE MARKETS-Weak dollar helps zloty though central bank keeps loose stance",
+            "EVENT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Retreat",
+            "null",
+            "null"
+        ],
+        [
+            "Zloty",
+            "FIN_INSTRUMENT",
+            "Firm",
+            "null",
+            "null"
+        ],
+        [
+            "Polish central bank",
+            "ORG/GOV",
+            "Retain",
+            "Loose policy stance",
+            "CONCEPT"
+        ],
+        [
+            "Polish central bank",
+            "ORG/GOV",
+            "Keep",
+            "Interest rates on hold",
+            "CONCEPT"
+        ],
+        [
+            "Governor Adam Glapinski",
+            "PERSON",
+            "Reiterate",
+            "No need for a change in rates this year",
+            "CONCEPT"
+        ],
+        [
+            "Governor Adam Glapinski",
+            "PERSON",
+            "Add",
+            "Rates may stay on hold even after 2018",
+            "CONCEPT"
+        ],
+        [
+            "Zloty",
+            "FIN_INSTRUMENT",
+            "Firm",
+            "0.15 percent against the euro",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dollar selling",
+            "null",
+            "After",
+            "Report that China was ready to slow or halt its U.S. treasury purchases",
+            "EVENT"
+        ],
+        [
+            "Central European government bonds",
+            "null",
+            "Follow",
+            "Rise in U.S. bond yields",
+            "CONCEPT"
+        ],
+        [
+            "Zloty",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "2-1/2-year high on Friday",
+            "TIME"
+        ],
+        [
+            "Erste analyst Katarzyna Rzentarzewska",
+            "PERSON",
+            "See",
+            "Possibility of the first rate hike in the fourth quarter of 2018",
+            "TIME"
+        ],
+        [
+            "Katarzyna Rzentarzewska",
+            "PERSON",
+            "Say",
+            "If inflation expectations keep increasing and overshooting of inflation target becomes highly likely",
+            "CONCEPT"
+        ],
+        [
+            "A surge in wages",
+            "null",
+            "Fuel",
+            "Rebound in inflation in the region since 2016",
+            "TIME"
+        ],
+        [
+            "Czech and Romanian central banks",
+            "ORG/GOV",
+            "Start",
+            "Raise rates from record-low levels",
+            "CONCEPT"
+        ],
+        [
+            "Romanian bank",
+            "ORG/GOV",
+            "Deliver",
+            "First hike in a decade",
+            "EVENT"
+        ],
+        [
+            "Czech National Bank Governor Jiri Rusnok",
+            "PERSON",
+            "Expect",
+            "At least two more rate hikes by 25 basis points each this year",
+            "TIME"
+        ],
+        [
+            "Czech National Bank",
+            "ORG/GOV",
+            "Show",
+            "2.4 percent annual inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Czech Prime Minister Andrej Babis",
+            "PERSON",
+            "Battling",
+            "Allegations his business empire illegally tapped EU subsidies a decade ago",
+            "EVENT"
+        ],
+        [
+            "Andrej Babis",
+            "PERSON",
+            "Look",
+            "Certain to lose a parliamentary confidence vote on Wednesday",
+            "TIME"
+        ],
+        [
+            "Andrej Babis",
+            "PERSON",
+            "Still",
+            "Likely to retain power",
+            "CONCEPT"
+        ],
+        [
+            "Politics",
+            "CONCEPT",
+            "Rarely",
+            "Influence Czech markets anyway",
+            "CONCEPT"
+        ],
+        [
+            "Polish markets",
+            "null",
+            "Remain",
+            "Unaffected by political developments",
+            "EVENT"
+        ],
+        [
+            "New Prime Minister Mateusz Morawiecki",
+            "PERSON",
+            "Fire",
+            "Several senior ministers",
+            "CONCEPT"
+        ],
+        [
+            "Mateusz Morawiecki",
+            "PERSON",
+            "Visit",
+            "Brussels on Tuesday in an effort to patch up relations with the EU",
+            "EVENT"
+        ],
+        [
+            "ING analysts",
+            "ORG",
+            "Say",
+            "Change in the position of the head of the Ministry of Foreign Affairs and the Minister of the Environment may signal a desire to mitigate conflicts with the European Union",
+            "CONCEPT"
+        ]
+    ]
+}

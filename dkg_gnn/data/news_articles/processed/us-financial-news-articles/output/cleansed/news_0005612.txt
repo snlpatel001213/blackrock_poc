@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Tarveda Therapeutics, Inc.",
+            "COMP",
+            "Appoint",
+            "Brian Roberts",
+            "PERSON"
+        ],
+        [
+            "Brian Roberts",
+            "PERSON",
+            "Operate_In",
+            "Life Sciences, Medtech and Media Industries",
+            "SECTOR"
+        ],
+        [
+            "Tarveda Therapeutics, Inc.",
+            "COMP",
+            "Has",
+            "Pentarins",
+            "CONCEPT"
+        ],
+        [
+            "Pentarins",
+            "CONCEPT",
+            "Operate_In",
+            "Solid Tumors",
+            "SECTOR"
+        ],
+        [
+            "Tarveda Therapeutics, Inc.",
+            "COMP",
+            "Participates_In",
+            "Phase 1/2a Clinical Trials",
+            "EVENT"
+        ],
+        [
+            "Tarveda Therapeutics, Inc.",
+            "COMP",
+            "Relate_To",
+            "Oncology Drug Programs",
+            "SECTOR"
+        ],
+        [
+            "Brian Roberts",
+            "PERSON",
+            "Previously_Work_At",
+            "Avedro, Inc.",
+            "COMP"
+        ],
+        [
+            "Avedro, Inc.",
+            "COMP",
+            "Operate_In",
+            "Biotechnology and Medical Device Industry",
+            "SECTOR"
+        ],
+        [
+            "Brian Roberts",
+            "PERSON",
+            "Previously_Work_At",
+            "Insulet Corporation",
+            "COMP"
+        ],
+        [
+            "Insulet Corporation",
+            "COMP",
+            "Operate_In",
+            "Tubeless Insulin Pump Technology",
+            "SECTOR"
+        ],
+        [
+            "Brian Roberts",
+            "PERSON",
+            "Previously_Work_At",
+            "Jingle Networks",
+            "COMP"
+        ],
+        [
+            "Jingle Networks",
+            "COMP",
+            "Operate_In",
+            "Mobile Voice-Ad Services",
+            "SECTOR"
+        ],
+        [
+            "Brian Roberts",
+            "PERSON",
+            "Previously_Work_At",
+            "Digitas",
+            "COMP"
+        ],
+        [
+            "Digitas",
+            "COMP",
+            "Operate_In",
+            "Digital Marketing and Media Services",
+            "SECTOR"
+        ],
+        [
+            "Pentarins",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Solid Tumor Treatment",
+            "SECTOR"
+        ],
+        [
+            "Tarveda Therapeutics, Inc.",
+            "COMP",
+            "Impact",
+            "Patient Care in Oncology",
+            "SECTOR"
+        ]
+    ]
+}

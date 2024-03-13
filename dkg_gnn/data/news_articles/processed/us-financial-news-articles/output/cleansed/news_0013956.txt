@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Markets",
+            "FIN_INSTRUMENT",
+            "Open",
+            "Strong",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trading",
+            "FIN_INSTRUMENT",
+            "Occur",
+            "Premarket",
+            "TIME"
+        ],
+        [
+            "Bob Pisani",
+            "PERSON",
+            "Report",
+            "What_s_Moving",
+            "EVENT"
+        ],
+        [
+            "Delta",
+            "COMP",
+            "Achieve",
+            "Fresh Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "American Airlines",
+            "COMP",
+            "Achieve",
+            "Fresh Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Earnings Season",
+            "EVENT",
+            "Begin",
+            null,
+            null
+        ]
+    ]
+}

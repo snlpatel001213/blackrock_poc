@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Is_Member_Of",
+            "House Minority Leader",
+            "ORG/GOV"
+        ],
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Remain_Optimistic_About",
+            "Potential Agreements",
+            "CONCEPT"
+        ],
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Skeptical",
+            "Breakthrough",
+            "EVENT"
+        ],
+        [
+            "Washington Republicans",
+            "ORG/GOV",
+            "Participates_In",
+            "Budget",
+            "CONCEPT"
+        ],
+        [
+            "Washington Republicans",
+            "ORG/GOV",
+            "Participates_In",
+            "Immigration",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Tell",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Have",
+            "Capitol Office",
+            "GPE"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Have",
+            "Budget Pact",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Have",
+            "Pentagon",
+            "MIL"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Have",
+            "Domestic Agencies",
+            "ORG"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Have",
+            "Budget Crunch",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Room_For_Compromise",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Protections",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Young Immigrants",
+            "PERSON"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Brought_Into_Country_Illegally",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Border Security",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Stricter Rules",
+            "CONCEPT"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Relatives_Of_Legal_Immigrants",
+            "PERSON"
+        ],
+        [
+            "California Democrat",
+            "PERSON",
+            "Say",
+            "Seeking_To_Join_Them_In_US",
+            "GPE"
+        ]
+    ]
+}

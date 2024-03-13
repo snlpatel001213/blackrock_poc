@@ -1,0 +1,1 @@
+{'output': [['Apple', 'COMP', 'Produce', 'fix', 'PRODUCT'], ['fix', 'PRODUCT', 'Relate_To', 'Spectre chip flaw', 'CONCEPT'], ['Spectre chip flaw', 'CONCEPT', 'Impact', 'products', 'COMP'], ['products', 'COMP', 'Operate_In', 'nearly every modern computing device', 'GPE'], ['major chipmakers', 'ORG', 'Disclose', 'flaws', 'CONCEPT']]}

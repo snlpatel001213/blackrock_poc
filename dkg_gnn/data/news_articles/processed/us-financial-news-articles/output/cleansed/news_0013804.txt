@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Diet Coke",
+            "PRODUCT",
+            "Has",
+            "new flavors",
+            "PRODUCT"
+        ],
+        [
+            "Diet Coke",
+            "PRODUCT",
+            "Has",
+            "redesigned cans",
+            "PRODUCT"
+        ],
+        [
+            "Diet Coke",
+            "PRODUCT",
+            "Introduce",
+            "January 2018",
+            "TIME"
+        ],
+        [
+            "Kenyon Weston",
+            "COMP",
+            "Operate_In",
+            "Huddersfield",
+            "GPE"
+        ],
+        [
+            "Kenyon Weston",
+            "COMP",
+            "Work_On",
+            "Diet Coke",
+            "PRODUCT"
+        ],
+        [
+            "Matthew Kenyon",
+            "PERSON",
+            "Is_Member_Of",
+            "Kenyon Weston",
+            "COMP"
+        ],
+        [
+            "Chris Weston",
+            "PERSON",
+            "Is_Member_Of",
+            "Kenyon Weston",
+            "COMP"
+        ],
+        [
+            "James Sommerville",
+            "PERSON",
+            "Control",
+            "Coca-Cola",
+            "ORG/GOV"
+        ],
+        [
+            "James Sommerville",
+            "PERSON",
+            "Say",
+            "marriage of the two works well",
+            "CONCEPT"
+        ],
+        [
+            "Elyse Larouere",
+            "PERSON",
+            "Work_On",
+            "Diet Coke",
+            "PRODUCT"
+        ],
+        [
+            "Elyse Larouere",
+            "PERSON",
+            "Run",
+            "Shift",
+            "COMP"
+        ],
+        [
+            "Shift",
+            "COMP",
+            "Operate_In",
+            "Outdoor design camps",
+            "EVENT"
+        ],
+        [
+            "New flavors",
+            "PRODUCT",
+            "Tested_With",
+            "more than 10,000 people",
+            "QUANTITY"
+        ],
+        [
+            "New flavors",
+            "PRODUCT",
+            "Focus_On",
+            "millennials",
+            "PERSON"
+        ],
+        [
+            "Coca-Cola",
+            "ORG/GOV",
+            "Reinvent",
+            "itself",
+            "CONCEPT"
+        ],
+        [
+            "Coca-Cola",
+            "ORG/GOV",
+            "Call",
+            "Diet Coke a work in progress",
+            "CONCEPT"
+        ],
+        [
+            "Original Diet Coke flavor",
+            "PRODUCT",
+            "Remain",
+            "same",
+            "CONCEPT"
+        ],
+        [
+            "New lineup",
+            "PRODUCT",
+            "Available",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "New lineup",
+            "PRODUCT",
+            "Available",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Coca-Cola",
+            "ORG/GOV",
+            "Look_At",
+            "future plans",
+            "CONCEPT"
+        ]
+    ]
+}

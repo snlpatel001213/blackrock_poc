@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "2016 Campaign",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "Trump White House",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Control",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Operate_In",
+            "Tea-Party Movement",
+            "SECTOR"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Trump Campaign",
+            "EVENT"
+        ],
+        [
+            "Ivanka Trump",
+            "PERSON",
+            "Operate_In",
+            "West Wing",
+            "ORG"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Operate_In",
+            "West Wing",
+            "ORG"
+        ],
+        [
+            "Kellyanne Conway",
+            "PERSON",
+            "Participates_In",
+            "Trump Campaign",
+            "EVENT"
+        ],
+        [
+            "Kellyanne Conway",
+            "PERSON",
+            "Operate_In",
+            "Cable-News",
+            "SECTOR"
+        ],
+        [
+            "Melania Trump",
+            "PERSON",
+            "Relate_To",
+            "New York Post",
+            "ORG"
+        ],
+        [
+            "Don Jr.",
+            "PERSON",
+            "Relate_To",
+            "Trump Tower Russia Meeting",
+            "EVENT"
+        ],
+        [
+            "Trump Tower",
+            "GPE",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "Trump Campaign",
+            "EVENT",
+            "Impact",
+            "Trump Presidency",
+            "CONCEPT"
+        ],
+        [
+            "Trump Campaign",
+            "EVENT",
+            "Negative_Impact_On",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "Trump Campaign",
+            "EVENT",
+            "Relate_To",
+            "Crooked Hillary",
+            "CONCEPT"
+        ],
+        [
+            "Trump Campaign",
+            "EVENT",
+            "Has",
+            "Far-Right Campaign Architect",
+            "PERSON"
+        ],
+        [
+            "Trump Campaign",
+            "EVENT",
+            "Has",
+            "Chief Strategist",
+            "PERSON"
+        ]
+    ]
+}

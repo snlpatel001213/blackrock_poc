@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Barcelona",
+            "GPE",
+            "Has",
+            "Dembele",
+            "PERSON"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Join",
+            "Barcelona",
+            "GPE"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Introduce",
+            "Dembele",
+            "PERSON"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Injured",
+            "Getafe",
+            "GPE"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Operate_In",
+            "La Liga",
+            "SECTOR"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Surgery",
+            "Finland",
+            "GPE"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Travel",
+            "Vigo",
+            "GPE"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Host",
+            "Levante",
+            "GPE"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Operate_In",
+            "Copa del Rey",
+            "EVENT"
+        ]
+    ]
+}

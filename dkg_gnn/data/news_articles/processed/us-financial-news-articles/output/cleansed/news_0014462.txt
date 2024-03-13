@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "BAWAG",
+            "COMP",
+            "Operate_In",
+            "Austria",
+            "GPE"
+        ],
+        [
+            "BAWAG",
+            "COMP",
+            "Has",
+            "Online Banking Services",
+            "PRODUCT"
+        ],
+        [
+            "BAWAG",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "BAWAG",
+            "COMP",
+            "Impact",
+            "Technical Problems",
+            "CONCEPT"
+        ],
+        [
+            "A1 Group",
+            "COMP",
+            "Is_Member_Of",
+            "Telekom Austria",
+            "COMP"
+        ],
+        [
+            "A1 Group",
+            "COMP",
+            "Control",
+            "Power Supply System",
+            "PRODUCT"
+        ],
+        [
+            "A1 Group",
+            "COMP",
+            "Has",
+            "Data Center",
+            "PRODUCT"
+        ],
+        [
+            "A1 Group",
+            "COMP",
+            "Relate_To",
+            "Battery Damage",
+            "CONCEPT"
+        ],
+        [
+            "A1 Group",
+            "COMP",
+            "Relate_To",
+            "IT System",
+            "PRODUCT"
+        ]
+    ]
+}

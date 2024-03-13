@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "United Nations",
+            "ORG",
+            "Has",
+            "human rights experts",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "execution",
+            "EVENT"
+        ],
+        [
+            "Asma Jahangir",
+            "PERSON",
+            "Is_Member_Of",
+            "U.N. special rapporteur on human rights in Iran",
+            "ORG"
+        ],
+        [
+            "Agnes Callamard",
+            "PERSON",
+            "Is_Member_Of",
+            "U.N. special rapporteur on extrajudicial, summary or arbitrary executions",
+            "ORG"
+        ]
+    ]
+}

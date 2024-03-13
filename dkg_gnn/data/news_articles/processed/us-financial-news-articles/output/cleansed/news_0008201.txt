@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "One Mega Millions",
+            "EVENT",
+            "Impact",
+            " $450 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Control",
+            " $450 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$450 million",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Mega Millions",
+            "EVENT"
+        ],
+        [
+            "Winning numbers",
+            "CONCEPT",
+            "Has",
+            "28-30-39-59-70-10",
+            "GPE"
+        ],
+        [
+            "28-30-39-59-70-10",
+            "GPE",
+            "Participates_In",
+            "Winning numbers",
+            "CONCEPT"
+        ],
+        [
+            "Winning numbers",
+            "CONCEPT",
+            "Announce",
+            "Friday night",
+            "EVENT"
+        ],
+        [
+            "Friday night",
+            "EVENT",
+            "Announce",
+            "Winning numbers",
+            "CONCEPT"
+        ],
+        [
+            "Winning ticket",
+            "COMP",
+            "Is_Member_Of",
+            "One Mega Millions",
+            "EVENT"
+        ],
+        [
+            "Winning ticket",
+            "COMP",
+            "Location_Uncertain",
+            "Not immediately known",
+            "GPE"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Increase",
+            "$570 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$570 million",
+            "ECON_INDICATOR",
+            "Raise",
+            "Powerball",
+            "EVENT"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Operate_In",
+            "Other national lottery game",
+            "EVENT"
+        ],
+        [
+            "Jackpots",
+            "CONCEPT",
+            "Refer_To",
+            "Annuity options",
+            "CONCEPT"
+        ],
+        [
+            "Annuity options",
+            "CONCEPT",
+            "Refer_To",
+            "Jackpots",
+            "CONCEPT"
+        ],
+        [
+            "Payments",
+            "CONCEPT",
+            "Made_Over",
+            "29 years",
+            "TIME"
+        ],
+        [
+            "Most winners",
+            "COMP",
+            "Opt",
+            "Cash options",
+            "CONCEPT"
+        ],
+        [
+            "Cash options",
+            "CONCEPT",
+            "Opted_By",
+            "Most winners",
+            "COMP"
+        ],
+        [
+            "$281 million",
+            "ECON_INDICATOR",
+            "Equal",
+            "Mega Millions cash option",
+            "CONCEPT"
+        ],
+        [
+            "$358.5 million",
+            "ECON_INDICATOR",
+            "Equal",
+            "Powerball cash option",
+            "CONCEPT"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Has",
+            "One in 302.5 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Has",
+            "One in 292.2 million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

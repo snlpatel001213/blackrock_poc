@@ -1,0 +1,71 @@
+{
+    "output": [
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Impact",
+            "Areas less accustomed to frigid conditions",
+            "GPE"
+        ],
+        [
+            "Bomb Cyclone Grayson",
+            "EVENT",
+            "Negative_Impact_On",
+            "Local Economy",
+            "GPE"
+        ],
+        [
+            "Southern Local Governments",
+            "ORG/GOV",
+            "Lack",
+            "Essential Resources",
+            "CONCEPT"
+        ],
+        [
+            "Southern Local Governments",
+            "ORG/GOV",
+            "Little_Experience",
+            "Emergency Preparedness",
+            "CONCEPT"
+        ],
+        [
+            "The Walt Disney Company",
+            "COMP",
+            "Difficulty",
+            "Finding",
+            "Winter Storm Insurance",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "The Walt Disney Company",
+            "COMP",
+            "Hedge",
+            "Operations",
+            "Against",
+            "Torrential Rainfall",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Reducing",
+            "Investment",
+            "Weather Risk Management",
+            "CONCEPT"
+        ],
+        [
+            "Luis Ballesteros",
+            "PERSON",
+            "Assistant_Professor",
+            "George Washington University",
+            "ORG"
+        ],
+        [
+            "Luis Ballesteros",
+            "PERSON",
+            "Follow",
+            "Twitter",
+            "CONCEPT"
+        ]
+    ]
+}

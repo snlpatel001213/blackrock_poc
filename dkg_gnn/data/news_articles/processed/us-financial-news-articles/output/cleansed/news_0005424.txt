@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter 2017 Earnings Results",
+            "EVENT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Operate_In",
+            "Bethesda, Maryland",
+            "GPE"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Produce",
+            "More than 6400 properties",
+            "COMP"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Control",
+            "30 leading hotel brands",
+            "SECTOR"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Operate_In",
+            "126 countries and territories",
+            "GPE"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Operate",
+            "Marriott Rewards",
+            "PRODUCT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Operate",
+            "The Ritz-Carlton Rewards",
+            "PRODUCT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Operate",
+            "Starwood Preferred Guest",
+            "PRODUCT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Has",
+            "Company News Center",
+            "PRODUCT"
+        ],
+        [
+            "Fourth Quarter 2017 Earnings Results",
+            "EVENT",
+            "Relate_To",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth Quarter 2017 Earnings Results",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Thursday, February 15, 2018",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "10 a.m. ET",
+            "TIME"
+        ],
+        [
+            "Mr. Arne Sorenson",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Ms. Leeny Oberg",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Webcast",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Telephone Dial-In Number",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Conference ID",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Telephone Replay",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Transcript",
+            "PRODUCT"
+        ],
+        [
+            "Marriott International, Inc.",
+            "ORG",
+            "Has",
+            "Investor Relations Website",
+            "PRODUCT"
+        ]
+    ]
+}

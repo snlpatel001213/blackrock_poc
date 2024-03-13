@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Residents of Ain Sefra",
+            "PERSON",
+            "Welcome",
+            "Snow",
+            "EVENT"
+        ],
+        [
+            "Ain Sefra",
+            "GPE",
+            "Located_In",
+            "Northern Algeria",
+            "GPE"
+        ],
+        [
+            "Snow",
+            "EVENT",
+            "Occur_In",
+            "Sahara",
+            "GPE"
+        ],
+        [
+            "Sahara",
+            "GPE",
+            "Classified_As",
+            "Hottest Desert",
+            "CONCEPT"
+        ]
+    ]
+}

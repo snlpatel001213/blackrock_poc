@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Sri Lanka\u2019s central bank",
+            "ORG/GOV",
+            "Take_Action",
+            "Swarnamahal Financial Services PLC",
+            "COMP"
+        ],
+        [
+            "Swarnamahal Financial Services PLC",
+            "COMP",
+            "Has",
+            "ETI Finance Ltd",
+            "COMP"
+        ],
+        [
+            "ETI Finance Ltd",
+            "COMP",
+            "Curb",
+            "Withdrawals of maturing deposits",
+            "null"
+        ],
+        [
+            "Central Bank Governor Indrajit Coomaraswamy",
+            "PERSON",
+            "Operate_In",
+            "Sri Lanka\u2019s central bank",
+            "ORG/GOV"
+        ],
+        [
+            "Central Bank Governor Indrajit Coomaraswamy",
+            "PERSON",
+            "Relate_To",
+            "Panel",
+            "null"
+        ],
+        [
+            "Panel",
+            "null",
+            "Appoint",
+            "Temporary_Measure",
+            "null"
+        ],
+        [
+            "Panel",
+            "null",
+            "Safeguard",
+            "Interests of depositors and other creditors",
+            "null"
+        ],
+        [
+            "Central Bank Governor Indrajit Coomaraswamy",
+            "PERSON",
+            "Search",
+            "Investor",
+            "null"
+        ],
+        [
+            "Two distressed firms",
+            "COMP",
+            "Account",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two distressed firms",
+            "COMP",
+            "Impact",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Central Bank Governor Indrajit Coomaraswamy",
+            "PERSON",
+            "Mobilize",
+            "Expertise",
+            "null"
+        ],
+        [
+            "Central Bank Governor Indrajit Coomaraswamy",
+            "PERSON",
+            "Stand_Behind",
+            "Institutions",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "CELLNOVO GROUP SA",
+            "ORG",
+            "Operate_In",
+            "Gdynia Newsroom",
+            "GPE"
+        ],
+        [
+            "CELLNOVO GROUP SA",
+            "ORG",
+            "Produce",
+            "Insulin Cartridges",
+            "PRODUCT"
+        ],
+        [
+            "CELLNOVO GROUP SA",
+            "ORG",
+            "Optimise",
+            "Manufacturing of Insulin Cartridges",
+            "EVENT"
+        ],
+        [
+            "Flex",
+            "ORG",
+            "Participates_In",
+            "Optimisation Process",
+            "EVENT"
+        ],
+        [
+            "Manufacturing Line",
+            "COMP",
+            "Expected",
+            "Fully Operational",
+            "CONCEPT"
+        ],
+        [
+            "Manufacturing Line",
+            "COMP",
+            "Impact",
+            "Q2 2018",
+            "DATE"
+        ]
+    ]
+}

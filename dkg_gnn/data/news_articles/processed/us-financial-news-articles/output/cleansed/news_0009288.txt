@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Softbank",
+            "ORG",
+            "Invests_In",
+            "460 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "460 million euros",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "561 million dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Softbank",
+            "ORG",
+            "Impact",
+            "Auto1",
+            "COMP"
+        ],
+        [
+            "Auto1",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Auto1",
+            "COMP",
+            "Announce",
+            "Monday",
+            "EVENT"
+        ],
+        [
+            "Softbank",
+            "ORG",
+            "Has",
+            "Vision Fund",
+            "ORG"
+        ],
+        [
+            "Vision Fund",
+            "ORG",
+            "Raise",
+            "more than 90 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vision Fund",
+            "ORG",
+            "Control",
+            "Saudi Arabia",
+            "GPE"
+        ],
+        [
+            "Vision Fund",
+            "ORG",
+            "Control",
+            "Abu Dhabi",
+            "GPE"
+        ],
+        [
+            "Auto1",
+            "COMP",
+            "Produce",
+            "used cars",
+            "PRODUCT"
+        ],
+        [
+            "Auto1",
+            "COMP",
+            "Relate_To",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Auto1",
+            "COMP",
+            "Control",
+            "more than 30 countries",
+            "GPE"
+        ]
+    ]
+}

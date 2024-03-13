@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Control",
+            "Private Brands Businesses",
+            "SECTOR"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Acquire",
+            "Bob Evans Farms",
+            "COMP"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Announce",
+            "New Leadership Appointments",
+            "EVENT"
+        ],
+        [
+            "Jim Dwyer",
+            "PERSON",
+            "Lead",
+            "Private Brands Businesses",
+            "SECTOR"
+        ],
+        [
+            "Mike Townsley",
+            "PERSON",
+            "Lead",
+            "Refrigerated Retail",
+            "SECTOR"
+        ],
+        [
+            "Mark Westphal",
+            "PERSON",
+            "Lead",
+            "Foodservice",
+            "SECTOR"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Plan",
+            "Explore Alternatives",
+            "CONCEPT"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Relate_To",
+            "IPO",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Relate_To",
+            "Private Equity Placement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Relate_To",
+            "Sale of Businesses",
+            "CONCEPT"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Relate_To",
+            "Strategic Combination",
+            "CONCEPT"
+        ]
+    ]
+}

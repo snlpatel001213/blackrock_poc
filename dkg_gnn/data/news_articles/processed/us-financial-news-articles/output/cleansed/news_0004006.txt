@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Sign",
+            "Order",
+            "ORG/REG"
+        ],
+        [
+            "Order",
+            "EVENT",
+            "Relate_To",
+            "Voter Fraud Commission",
+            "ORG/REG"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Announce",
+            "Decision",
+            "CONCEPT"
+        ],
+        [
+            "Decision",
+            "CONCEPT",
+            "Relate_To",
+            "Disbanding Voter Fraud Commission",
+            "ORG/REG"
+        ],
+        [
+            "Some States",
+            "GPE",
+            "Refuse",
+            "Provide Voter Information",
+            "CONCEPT"
+        ],
+        [
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG/REG",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "White House Spokeswoman Sarah Huckabee Sanders",
+            "PERSON",
+            "Announce",
+            "Next Steps",
+            "CONCEPT"
+        ],
+        [
+            "Next Steps",
+            "CONCEPT",
+            "Relate_To",
+            "Administration",
+            "ORG"
+        ],
+        [
+            "Administration",
+            "ORG",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "See",
+            "Commission",
+            "ORG/REG"
+        ],
+        [
+            "Commission",
+            "ORG/REG",
+            "Relate_To",
+            "Conservative Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Campaign",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Minority Voters",
+            "GPE"
+        ],
+        [
+            "Conservative Campaign",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Poor People",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Justify",
+            "Unfounded Claims",
+            "CONCEPT"
+        ],
+        [
+            "Claims",
+            "CONCEPT",
+            "Relate_To",
+            "Popular Vote",
+            "CONCEPT"
+        ],
+        [
+            "Past Studies",
+            "EVENT",
+            "Find",
+            "Voter Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Voter Fraud",
+            "CONCEPT",
+            "Rare",
+            null,
+            "NONE"
+        ]
+    ]
+}

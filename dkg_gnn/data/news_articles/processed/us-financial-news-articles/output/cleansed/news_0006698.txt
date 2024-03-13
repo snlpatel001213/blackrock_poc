@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "PFB Corporation",
+            "COMP",
+            "Announce",
+            "Normal Course Issuer Bid",
+            "EVENT"
+        ],
+        [
+            "PFB Corporation",
+            "COMP",
+            "Control",
+            "Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "PFB Corporation",
+            "COMP",
+            "Operate_In",
+            "Company Sector",
+            "SECTOR"
+        ],
+        [
+            "PFB Corporation",
+            "COMP",
+            "Purchase",
+            "Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Common Shares",
+            "FIN_INSTRUMENT",
+            "Belong_To",
+            "PFB Corporation",
+            "COMP"
+        ]
+    ]
+}

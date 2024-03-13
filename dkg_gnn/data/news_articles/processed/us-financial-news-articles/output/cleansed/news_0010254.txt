@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Zhejiang Jingu Co Ltd",
+            "COMP",
+            "Control",
+            "High-tech Enterprise",
+            "ORG"
+        ],
+        [
+            "High-tech Enterprise",
+            "ORG",
+            "Has",
+            "Tax Preference",
+            "CONCEPT"
+        ],
+        [
+            "Zhejiang Jingu Co Ltd",
+            "COMP",
+            "Receive",
+            "Tax Preference",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Secret Service",
+            "ORG/GOV",
+            "Has",
+            "Fire",
+            "EVENT"
+        ],
+        [
+            "Secret Service",
+            "ORG/GOV",
+            "Operate_In",
+            "Chappaqua, New York",
+            "GPE"
+        ],
+        [
+            "Secret Service",
+            "ORG/GOV",
+            "Relate_To",
+            "Bill Clinton",
+            "PERSON"
+        ],
+        [
+            "Secret Service",
+            "ORG/GOV",
+            "Relate_To",
+            "Hillary Clinton",
+            "PERSON"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Impact",
+            "Structure",
+            "COMP"
+        ],
+        [
+            "Structure",
+            "COMP",
+            "Is_Member_Of",
+            "Clintons\u2019 Home",
+            "GPE"
+        ],
+        [
+            "Clintons\u2019 Home",
+            "GPE",
+            "Locate_In",
+            "Chappaqua, New York",
+            "GPE"
+        ],
+        [
+            "Clintons\u2019 Home",
+            "GPE",
+            "Purchase",
+            "1999",
+            "DATE"
+        ],
+        [
+            "Clintons\u2019 Home",
+            "GPE",
+            "Size",
+            "5,232-square-foot",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

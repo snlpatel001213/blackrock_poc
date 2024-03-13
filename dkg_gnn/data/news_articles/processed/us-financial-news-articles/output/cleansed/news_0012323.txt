@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dick Bove",
+            "PERSON",
+            "Announce",
+            "2018",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dick Bove",
+            "PERSON",
+            "Relate_To",
+            "banks",
+            "SECTOR"
+        ],
+        [
+            "2018",
+            "ECON_INDICATOR",
+            "Impact",
+            "banks",
+            "SECTOR"
+        ]
+    ]
+}

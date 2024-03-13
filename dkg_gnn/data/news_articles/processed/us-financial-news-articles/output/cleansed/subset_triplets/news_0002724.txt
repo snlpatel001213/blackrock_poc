@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Univar",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Operate_In",
+            "Nordic Region",
+            "GPE"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Control",
+            "Kemetyl Industrial Chemicals",
+            "ORG"
+        ],
+        [
+            "Kemetyl Industrial Chemicals",
+            "ORG",
+            "Produce",
+            "Sustainable Products",
+            "PRODUCT"
+        ],
+        [
+            "Kemetyl Industrial Chemicals",
+            "ORG",
+            "Relate_To",
+            "Life Sciences Market",
+            "CONCEPT"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Positive_Impact_On",
+            "Brand",
+            "CONCEPT"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Positive_Impact_On",
+            "Leading Position in Pharmaceutical Market",
+            "SECTOR"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Positive_Impact_On",
+            "Expertise in Water Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Kemetyl Industrial Chemicals",
+            "ORG",
+            "Participates_In",
+            "Industrial Market",
+            "SECTOR"
+        ],
+        [
+            "Kemetyl",
+            "ORG",
+            "Is_Member_Of",
+            "Kemetyl Group",
+            "ORG"
+        ],
+        [
+            "Kemetyl",
+            "ORG",
+            "Operate_In",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Kemetyl",
+            "ORG",
+            "Operate_In",
+            "Norway",
+            "GPE"
+        ],
+        [
+            "Univar",
+            "ORG",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Kemetyl Group",
+            "ORG",
+            "Produce",
+            "Turnover of some \u20ac140 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Darrell Issa",
+            "PERSON",
+            "Announce",
+            "Retire",
+            "CONCEPT"
+        ],
+        [
+            "Darrell Issa",
+            "PERSON",
+            "Is_Member_Of",
+            "California GOP",
+            "ORG"
+        ],
+        [
+            "California GOP",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "output": [
+        [
+            "Nairobi",
+            "GPE",
+            "Report",
+            "Lake Turkana Wind Power project",
+            "PROJECT"
+        ],
+        [
+            "Jan 8",
+            "DATE",
+            "Report",
+            "Lake Turkana Wind Power project",
+            "PROJECT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Lake Turkana Wind Power project",
+            "PROJECT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Has",
+            "310 MW wind power plant",
+            "PRODUCT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Depend",
+            "heavily",
+            "CONCEPT",
+            "on",
+            "geothermal and hydro power",
+            "SECTOR"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Produce",
+            "2,341 MW",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lake Turkana Wind Power project",
+            "PROJECT",
+            "Critical",
+            "power line",
+            "PRODUCT"
+        ],
+        [
+            "Lake Turkana Wind Power project",
+            "PROJECT",
+            "Link",
+            "national grid",
+            "SECTOR"
+        ],
+        [
+            "Lake Turkana Wind Power project",
+            "PROJECT",
+            "Locate",
+            "Loiyangalani",
+            "GPE"
+        ],
+        [
+            "Lake Turkana Wind Power project",
+            "PROJECT",
+            "Locate",
+            "Suswa",
+            "GPE"
+        ],
+        [
+            "Danish wind turbine maker",
+            "COMP",
+            "Supply",
+            "wind farm\u2019s 365 turbines",
+            "PRODUCT"
+        ],
+        [
+            "Vestas Wind Systems",
+            "COMP",
+            "Ready",
+            "wind farm",
+            "PROJECT"
+        ],
+        [
+            "Vestas Wind Systems",
+            "COMP",
+            "Supply",
+            "turbines",
+            "PRODUCT"
+        ],
+        [
+            "Wind power",
+            "SECTOR",
+            "Provide",
+            "25 MW",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy and Petroleum Cabinet Secretary",
+            "PERSON",
+            "Say",
+            "power line is 70 percent complete",
+            "CONCEPT"
+        ],
+        [
+            "Energy and Petroleum Cabinet Secretary",
+            "PERSON",
+            "Look",
+            "for",
+            "CONCEPT",
+            "contractor",
+            "COMP"
+        ],
+        [
+            "Energy and Petroleum Cabinet Secretary",
+            "PERSON",
+            "Expect",
+            "decision in the next week",
+            "CONCEPT"
+        ],
+        [
+            "Kenyan government",
+            "ORG/GOV",
+            "Decide",
+            "get their own contractor",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "KP&P Africa",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Aldwych International",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Investment Fund for Developing Countries",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Finnish Fund for Industrial Cooperation",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Norwegian Investment Fund for Developing Countries",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Sandpiper",
+            "COMP"
+        ],
+        [
+            "Lake Turkana consortium",
+            "ORG",
+            "Consist",
+            "Vestas",
+            "COMP"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Acquire",
+            "Vestas\u2019 12.5 percent stake",
+            "ECON_INDICATOR",
+            "in the project",
+            "PROJECT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Expect",
+            "50 MW of power",
+            "ECON_INDICATOR",
+            "from a solar power plant",
+            "PRODUCT",
+            "in Garissa",
+            "GPE",
+            "to be connected to the gird in September",
+            "DATE"
+        ]
+    ]
+}

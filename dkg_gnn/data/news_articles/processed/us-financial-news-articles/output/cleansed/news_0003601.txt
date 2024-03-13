@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Introduce",
+            "$1 $2 $3 Dollar Menu",
+            "PRODUCT"
+        ],
+        [
+            "$1 $2 $3 Dollar Menu",
+            "PRODUCT",
+            "Include",
+            "Bargain Items",
+            "CONCEPT"
+        ],
+        [
+            "$1 $2 $3 Dollar Menu",
+            "PRODUCT",
+            "Operate_In",
+            "Fast Food Sector",
+            "SECTOR"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Discontinue",
+            "Original Dollar Menu",
+            "PRODUCT"
+        ],
+        [
+            "Original Dollar Menu",
+            "PRODUCT",
+            "Include",
+            "McDouble Cheeseburger",
+            "PRODUCT"
+        ],
+        [
+            "Original Dollar Menu",
+            "PRODUCT",
+            "Include",
+            "Four Chicken McNuggets",
+            "PRODUCT"
+        ],
+        [
+            "Original Dollar Menu",
+            "PRODUCT",
+            "Include",
+            "Large Sweet Tea",
+            "PRODUCT"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Stock",
+            "McDonald\u2019s Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "McDonald\u2019s Stock",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "41%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Top Pick",
+            "Analyst Top Pick",
+            "CONCEPT"
+        ]
+    ]
+}

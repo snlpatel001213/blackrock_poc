@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "BioCorRx Inc.",
+            "COMP",
+            "Retain",
+            "Priya Jambhekar",
+            "PERSON"
+        ],
+        [
+            "BioCorRx Inc.",
+            "COMP",
+            "Retain",
+            "Bruce Firestone",
+            "PERSON"
+        ],
+        [
+            "Priya Jambhekar",
+            "PERSON",
+            "Relate_To",
+            "Regulatory & Quality Operations",
+            "CONCEPT"
+        ],
+        [
+            "Bruce Firestone",
+            "PERSON",
+            "Relate_To",
+            "Pharmaceutical Research & Development",
+            "CONCEPT"
+        ],
+        [
+            "BioCorRx Inc.",
+            "COMP",
+            "Prepare",
+            "pre-Investigational New Drug",
+            "EVENT"
+        ],
+        [
+            "BioCorRx Inc.",
+            "COMP",
+            "Seek",
+            "FDA Approval",
+            "EVENT"
+        ],
+        [
+            "BioCorRx Inc.",
+            "COMP",
+            "Operate_In",
+            "Alcohol and Opioid Addictions Treatment",
+            "SECTOR"
+        ],
+        [
+            "BICX102",
+            "PRODUCT",
+            "Relate_To",
+            "Naltrexone Implant",
+            "PRODUCT"
+        ],
+        [
+            "BICX102",
+            "PRODUCT",
+            "Relate_To",
+            "Opioid and Alcohol Use Disorders Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Priya Jambhekar",
+            "PERSON",
+            "Has",
+            "Over 25 Years Experience",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Priya Jambhekar",
+            "PERSON",
+            "Operate_In",
+            "Worldwide Regulatory, Quality, Clinical and Pharmacovigilance Operations",
+            "CONCEPT"
+        ],
+        [
+            "Priya Jambhekar",
+            "PERSON",
+            "Participates_In",
+            "Product Registration and Commercial Support",
+            "CONCEPT"
+        ],
+        [
+            "Bruce Firestone",
+            "PERSON",
+            "Has",
+            "Over 30 Years Experience",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bruce Firestone",
+            "PERSON",
+            "Produce",
+            "Over 15 Product Approvals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bruce Firestone",
+            "PERSON",
+            "Relate_To",
+            "Chemistry, Manufacturing and Controls Expertise",
+            "CONCEPT"
+        ],
+        [
+            "Bruce Firestone",
+            "PERSON",
+            "Relate_To",
+            "Small Molecules, Drug and Drug-Device Combinations, Sustained-Release Products, Semisolids, Topical and Intravitreal Routes of Administration",
+            "CONCEPT"
+        ]
+    ]
+}

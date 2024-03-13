@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Motel 6",
+            "COMP",
+            "Operate_In",
+            "Washington State",
+            "GPE"
+        ],
+        [
+            "Guest Data",
+            "CONCEPT",
+            "Relate_To",
+            "Immigration Agents",
+            "ORG/GOV"
+        ],
+        [
+            "Motel 6",
+            "COMP",
+            "Control",
+            "Blackstone Group LP",
+            "ORG"
+        ]
+    ]
+}

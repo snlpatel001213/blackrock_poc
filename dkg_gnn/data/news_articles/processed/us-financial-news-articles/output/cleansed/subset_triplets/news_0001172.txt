@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Terminus",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Operate_In",
+            "Account-based Marketing",
+            "SECTOR"
+        ],
+        [
+            "BrightFunnel",
+            "ORG",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Is_Member_Of",
+            "Revenue Team",
+            "SECTOR"
+        ],
+        [
+            "Terminus",
+            "ORG",
+            "Introduce",
+            "Platform",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Starz",
+            "COMP",
+            "Has",
+            "Lions Gate Entertainment",
+            "ORG"
+        ],
+        [
+            "Starz",
+            "COMP",
+            "Demand",
+            "Altice USA Inc",
+            "ORG"
+        ],
+        [
+            "Altice USA Inc",
+            "ORG",
+            "Make",
+            "False Statement",
+            "CONCEPT"
+        ],
+        [
+            "Starz",
+            "COMP",
+            "Operate_In",
+            "Cable Network",
+            "COMP"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Advise",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starz",
+            "COMP",
+            "Pull",
+            "Signal",
+            "PRODUCT"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Announce",
+            "No longer carry",
+            "RELATE_TO"
+        ],
+        [
+            "Starz",
+            "COMP",
+            "Has",
+            "$8.99",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starz",
+            "COMP",
+            "Has",
+            "Online Video Service",
+            "PRODUCT"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Advise",
+            "Sign up",
+            "VERB"
+        ]
+    ]
+}

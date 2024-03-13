@@ -1,0 +1,1 @@
+{'output': [['CNBC', 'ORG', 'Announce', 'Steve Liesman', 'PERSON'], ['Steve Liesman', 'PERSON', 'Provide', 'Preview', 'CONCEPT'], ['Preview', 'CONCEPT', 'Relate_To', 'Monthly Jobs Numbers', 'ECON_INDICATOR'], ['Monthly Jobs Numbers', 'ECON_INDICATOR', 'Operate_In', 'U.S. Department of Labor', 'ORG/GOV'], ['U.S. Department of Labor', 'ORG/GOV', 'Control', 'Fed', 'ORG/REG']]}

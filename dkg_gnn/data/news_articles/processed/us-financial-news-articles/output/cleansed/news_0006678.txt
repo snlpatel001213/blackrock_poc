@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "markets",
+            "FIN_INSTRUMENT",
+            "Too_Euphoric",
+            null,
+            "NULL"
+        ],
+        [
+            "economy",
+            "ECON_INDICATOR",
+            "Decent",
+            null,
+            "NULL"
+        ],
+        [
+            "2000",
+            "TIME",
+            "Compare",
+            "what we saw",
+            "NULL"
+        ],
+        [
+            "Diane Swonk",
+            "PERSON",
+            "Says",
+            "DS Economics",
+            "ORG"
+        ]
+    ]
+}

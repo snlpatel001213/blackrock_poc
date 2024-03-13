@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Arjun",
+            "PERSON",
+            "Arrive",
+            "America",
+            "GPE"
+        ],
+        [
+            "Priya",
+            "PERSON",
+            "Arrive",
+            "America",
+            "GPE"
+        ],
+        [
+            "Arjun",
+            "PERSON",
+            "Approved",
+            "H-1B Visa",
+            "ORG"
+        ],
+        [
+            "Priya",
+            "PERSON",
+            "Granted",
+            "H-4 Visa",
+            "ORG"
+        ],
+        [
+            "Priya",
+            "PERSON",
+            "Has",
+            "Graduate Degree",
+            "CONCEPT"
+        ],
+        [
+            "Priya",
+            "PERSON",
+            "Experience",
+            "Computer Programming",
+            "CONCEPT"
+        ],
+        [
+            "Priya",
+            "PERSON",
+            "Barred",
+            "Work",
+            "CONCEPT"
+        ]
+    ]
+}

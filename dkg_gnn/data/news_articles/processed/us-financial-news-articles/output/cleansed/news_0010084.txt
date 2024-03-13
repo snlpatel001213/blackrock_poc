@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Strain",
+            "Financial Stability",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Have",
+            "Unsteady Incomes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Have",
+            "Record Levels of Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Create",
+            "Gaps",
+            "CONCEPT",
+            "in",
+            "Financial Inclusion",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Push",
+            "Traditional Milestones",
+            "CONCEPT",
+            "Out of Reach",
+            "CONCEPT"
+        ]
+    ]
+}

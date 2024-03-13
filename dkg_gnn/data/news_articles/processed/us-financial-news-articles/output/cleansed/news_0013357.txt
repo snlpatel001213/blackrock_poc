@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Caterpillar",
+            "COMP",
+            "Climb",
+            "Record Open",
+            "EVENT"
+        ],
+        [
+            "JP Morgan",
+            "ORG",
+            "Upgrade",
+            "Caterpillar",
+            "COMP"
+        ],
+        [
+            "Bank of America",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Rise",
+            null,
+            null
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Participates_In",
+            "Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen",
+            "COMP",
+            "Participates_In",
+            "Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Pandora Media",
+            "COMP",
+            "Slip",
+            null,
+            null
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Downgrade",
+            "Pandora Media",
+            "COMP"
+        ]
+    ]
+}

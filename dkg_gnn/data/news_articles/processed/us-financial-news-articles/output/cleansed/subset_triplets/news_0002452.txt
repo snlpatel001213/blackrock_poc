@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Carroll Organization",
+            "ORG",
+            "Announce",
+            "Formation of Joint Venture",
+            "ORG/REG"
+        ],
+        [
+            "Carroll Organization",
+            "ORG",
+            "Introduce",
+            "Multifamily Portfolio",
+            "ORG"
+        ],
+        [
+            "Carroll Organization",
+            "ORG",
+            "Operate_In",
+            "Multifamily Investment",
+            "SECTOR"
+        ],
+        [
+            "PGIM Real Estate",
+            "ORG/REG",
+            "Participates_In",
+            "Joint Venture",
+            "ORG"
+        ],
+        [
+            "PGIM Real Estate",
+            "ORG/REG",
+            "Operate_In",
+            "Institutional Investors",
+            "ORG/REG"
+        ]
+    ]
+}

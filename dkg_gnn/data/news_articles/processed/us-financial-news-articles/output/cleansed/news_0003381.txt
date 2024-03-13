@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "New Mexico",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "Permian Basin",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "Energy Companies",
+            "ORG",
+            "Invest_In",
+            "New Mexico",
+            "GPE"
+        ],
+        [
+            "Production",
+            "CONCEPT",
+            "Impact_On",
+            "State Revenue",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Surpass",
+            "Oklahoma",
+            "GPE"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Surpass",
+            "California",
+            "GPE"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Rank_After",
+            "Texas",
+            "GPE"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Rank_After",
+            "North Dakota",
+            "GPE"
+        ],
+        [
+            "U.S. Energy Information Agency",
+            "ORG",
+            "Release",
+            "Production Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Permian Basin",
+            "GPE",
+            "Straddle",
+            "Texas-New Mexico Border",
+            "GPE"
+        ],
+        [
+            "U.S. Production",
+            "CONCEPT",
+            "Increase",
+            "800000 Barrels Per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hobbs",
+            "GPE",
+            "Located_In",
+            "New Mexico",
+            "GPE"
+        ],
+        [
+            "Hobbs",
+            "GPE",
+            "Experience",
+            "Influx of Families",
+            "CONCEPT"
+        ],
+        [
+            "Public Schools",
+            "ORG",
+            "Enrollment",
+            "Surpass",
+            "Previous High"
+        ],
+        [
+            "Exploration and Production Companies",
+            "ORG",
+            "Operate_In",
+            "Southeastern New Mexico",
+            "GPE"
+        ],
+        [
+            "Midstream Companies",
+            "ORG",
+            "Operate_In",
+            "Southeastern New Mexico",
+            "GPE"
+        ],
+        [
+            "Southeastern New Mexico",
+            "GPE",
+            "Long_Term_Play_For",
+            "Companies",
+            "ORG"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Plan",
+            "Capital Investments",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "At least eight killed, dozens hurt in fire, stampede in Portugal",
+            "EVENT"
+        ],
+        [
+            "Vila Nova da Rainha",
+            "GPE",
+            "Located_In",
+            "Northern Portugal",
+            "GPE"
+        ],
+        [
+            "Local leisure association",
+            "ORG",
+            "Place_Of",
+            "Vila Nova da Rainha",
+            "GPE"
+        ],
+        [
+            "Two-storey popular gathering place",
+            "COMP",
+            "Operate_In",
+            "Vila Nova da Rainha",
+            "GPE"
+        ],
+        [
+            "Over 60 people",
+            "PERSON",
+            "Participates_In",
+            "Card tournament",
+            "EVENT"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Impact",
+            "At least eight killed, dozens hurt",
+            "EVENT"
+        ],
+        [
+            "Mayor Jose Antonio de Jesus",
+            "PERSON",
+            "Role",
+            "Mayor",
+            "ORG"
+        ],
+        [
+            "Televised remarks",
+            "EVENT",
+            "Relate_To",
+            "Mayor Jose Antonio de Jesus",
+            "PERSON"
+        ],
+        [
+            "Over 60 people",
+            "PERSON",
+            "Assisted_By",
+            "Several dozen people injured",
+            "PERSON"
+        ],
+        [
+            "Local media",
+            "ORG",
+            "Cite",
+            "Firefighters",
+            "PERSON"
+        ],
+        [
+            "Firefighters",
+            "PERSON",
+            "Say",
+            "Explosion of a heating boiler",
+            "EVENT"
+        ],
+        [
+            "Portugal",
+            "GPE",
+            "Suffer_From",
+            "Deadliest ever forest fires",
+            "EVENT"
+        ],
+        [
+            "Deadliest ever forest fires",
+            "EVENT",
+            "Kill",
+            "Over 100 people",
+            "PERSON"
+        ],
+        [
+            "Worst loss of human lives",
+            "EVENT",
+            "In_Living_Memory",
+            "Country",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "James Damore",
+            "PERSON",
+            "Sue",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Discriminate",
+            "Against",
+            "PERSON",
+            "and",
+            "PERSON"
+        ],
+        [
+            "James Damore",
+            "PERSON",
+            "Write",
+            "Memo",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Fire",
+            "James Damore",
+            "PERSON"
+        ],
+        [
+            "James Damore",
+            "PERSON",
+            "Join",
+            "David Gudeman",
+            "PERSON"
+        ],
+        [
+            "David Gudeman",
+            "PERSON",
+            "Engineer",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Harmeet Dhillon",
+            "PERSON",
+            "Represent",
+            "James Damore",
+            "PERSON",
+            "and",
+            "David Gudeman",
+            "PERSON"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Encourage",
+            "Hiring",
+            "Managers",
+            "PERSON",
+            "Consider",
+            "Protected",
+            "Categories",
+            "CONCEPT"
+        ],
+        [
+            "James Damore",
+            "PERSON",
+            "Hire",
+            "Dhillon",
+            "PERSON",
+            "Law",
+            "Firm"
+        ],
+        [
+            "Dhillon",
+            "PERSON",
+            "Law",
+            "Firm",
+            "Publish",
+            "Blog",
+            "Post",
+            "Encourage",
+            "Google",
+            "ORG",
+            "Employees",
+            "PERSON",
+            "Reach",
+            "Out"
+        ]
+    ]
+}

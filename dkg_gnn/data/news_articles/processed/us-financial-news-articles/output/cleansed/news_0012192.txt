@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Revance Therapeutics Inc",
+            "COMP",
+            "Announce",
+            "Interim 8-Week Phase 2A Results",
+            "EVENT"
+        ],
+        [
+            "Revance Therapeutics Inc",
+            "COMP",
+            "Produce",
+            "RT002",
+            "PRODUCT"
+        ],
+        [
+            "RT002",
+            "PRODUCT",
+            "Treat",
+            "Plantar Fasciitis",
+            "EVENT"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Show",
+            "Robust Impact on Pain",
+            "CONCEPT"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Greater Than 50% Reduction",
+            "Patients Treated with RT002",
+            "COMP"
+        ],
+        [
+            "RT002",
+            "PRODUCT",
+            "Appear",
+            "Generally Safe and Well-Tolerated",
+            "CONCEPT"
+        ],
+        [
+            "Revance Therapeutics Inc",
+            "COMP",
+            "Expect",
+            "Conduct Another Phase 2A Trial",
+            "EVENT"
+        ]
+    ]
+}

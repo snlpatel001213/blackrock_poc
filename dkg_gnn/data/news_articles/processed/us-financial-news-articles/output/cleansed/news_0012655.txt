@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Senate Banking Committee",
+            "ORG/GOV",
+            "Hold",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Senate Banking Committee",
+            "ORG/GOV",
+            "Discuss",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Source",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "U.S. Senate\u2019s financial services panel",
+            "ORG/GOV",
+            "Hold",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Country\u2019s top markets regulators",
+            "ORG/REG",
+            "Participates_In",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Commodity Futures Trading Commission",
+            "ORG/REG",
+            "Has",
+            "Chairman",
+            "PERSON"
+        ],
+        [
+            "Christopher Giancarlo",
+            "PERSON",
+            "Is_Member_Of",
+            "Commodity Futures Trading Commission",
+            "ORG/REG"
+        ],
+        [
+            "Securities and Exchange Commission",
+            "ORG/REG",
+            "Has",
+            "Chairman",
+            "PERSON"
+        ],
+        [
+            "Jay Clayton",
+            "PERSON",
+            "Is_Member_Of",
+            "Securities and Exchange Commission",
+            "ORG/REG"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Rising Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Financial System",
+            "SECTOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Impact",
+            "Considerable Risks",
+            "CONCEPT"
+        ],
+        [
+            "CFTC",
+            "ORG/REG",
+            "Allow",
+            "List Bitcoin Futures Contracts",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CME Group Inc",
+            "COMP",
+            "List",
+            "Bitcoin Futures Contracts",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CBOE Global Markets Inc",
+            "COMP",
+            "List",
+            "Bitcoin Futures Contracts",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CFTC",
+            "ORG/REG",
+            "Review",
+            "Process For Listing Digital Currency Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Criticize",
+            "CFTC",
+            "ORG/REG"
+        ],
+        [
+            "Five Fund Managers",
+            "COMP",
+            "Shelve",
+            "Plans To Launch ETFs",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin Futures",
+            "FIN_INSTRUMENT",
+            "Have",
+            "Concerns From The SEC",
+            "ORG/REG"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Relate_To",
+            "Liquidity Of The Underlying Futures Market",
+            "CONCEPT"
+        ]
+    ]
+}

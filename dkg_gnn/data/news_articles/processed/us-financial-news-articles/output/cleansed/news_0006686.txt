@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Gentex Corp",
+            "COMP",
+            "Announce",
+            "Retirement",
+            "EVENT"
+        ],
+        [
+            "Gentex Corp",
+            "COMP",
+            "Announce",
+            "Resignation",
+            "EVENT"
+        ],
+        [
+            "Fred Bauer",
+            "PERSON",
+            "Relate_To",
+            "Retirement",
+            "EVENT"
+        ],
+        [
+            "Fred Bauer",
+            "PERSON",
+            "Relate_To",
+            "Resignation",
+            "EVENT"
+        ],
+        [
+            "James Wallace",
+            "PERSON",
+            "Is_Member_Of",
+            "Board",
+            "ORG"
+        ],
+        [
+            "Fred Bauer",
+            "PERSON",
+            "Was_Member_Of",
+            "Board",
+            "ORG"
+        ],
+        [
+            "Fred Bauer",
+            "PERSON",
+            "Control",
+            "CEO",
+            "POSITION"
+        ],
+        [
+            "James Wallace",
+            "PERSON",
+            "Control",
+            "Chairman",
+            "POSITION"
+        ],
+        [
+            "Gentex Corp",
+            "COMP",
+            "Operate_In",
+            "Company",
+            "SECTOR"
+        ]
+    ]
+}

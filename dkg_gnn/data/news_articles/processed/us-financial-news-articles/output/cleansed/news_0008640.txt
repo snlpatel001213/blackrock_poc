@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sandoz Canada",
+            "ORG",
+            "Announce",
+            "Ontario Has Added Erelzi",
+            "EVENT"
+        ],
+        [
+            "Erelzi",
+            "PRODUCT",
+            "Relate_To",
+            "Treatment of Multiple Inflammatory Diseases",
+            "CONCEPT"
+        ],
+        [
+            "Novartis AG",
+            "ORG",
+            "Is_Member_Of",
+            "Sandoz Canada",
+            "ORG"
+        ]
+    ]
+}

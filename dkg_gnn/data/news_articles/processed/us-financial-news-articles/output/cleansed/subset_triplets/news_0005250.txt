@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Uber",
+            "COMP",
+            "Has",
+            "Kalanick",
+            "PERSON"
+        ],
+        [
+            "SoftBank",
+            "ORG",
+            "Participates_In",
+            "Tender Offer",
+            "EVENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Participates_In",
+            "Tender Offer",
+            "EVENT"
+        ]
+    ]
+}

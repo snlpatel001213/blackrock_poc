@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "SEC",
+            "ORG/REG",
+            "Warn",
+            "Bitcoin Investors",
+            "PERSON"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Relate_To",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Participates_In",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Notice",
+            "Illegal Actors",
+            "PERSON"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Not_Able_To",
+            "Recoup",
+            "VERB",
+            "Lost Investments",
+            "FIN_INSTRUMENT",
+            "From",
+            "Illegal Actors",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,238 @@
+{
+    "output": [
+        [
+            "Sempra Energy",
+            "ORG",
+            "Announce",
+            "2.5 billion dollars of shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Announce",
+            "1.5 billion dollars of Mandatory Convertible Preferred Stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Operate_In",
+            "Energy Future Holdings Corp.",
+            "ORG"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Operate_In",
+            "Oncor Electric Delivery Company LLC",
+            "ORG"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Control",
+            "Mandatory Convertible Preferred Stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Participates_In",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Merger and related costs and expenses",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Planned future debt financings",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Repay indebtedness",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Capital expenditures",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Investments",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Finance",
+            "Possibly repurchases of its common stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Grant",
+            "Underwriters",
+            "ORG",
+            "Option",
+            "Purchase",
+            "Shares of its common stock"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Act_As",
+            "Joint bookrunners of the equity offerings",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Act_As",
+            "Representatives of the underwriters",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Act_As",
+            "Joint bookrunners of the equity offerings",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Act_As",
+            "Representatives of the underwriters",
+            "CONCEPT"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Act_As",
+            "Joint bookrunners of the equity offerings",
+            "CONCEPT"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Act_As",
+            "Representatives of the underwriters",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Enter_Into",
+            "Forward sale agreements",
+            "CONCEPT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Sell",
+            "Shares of its common stock",
+            "PRODUCT"
+        ],
+        [
+            "Forward purchasers",
+            "ORG",
+            "Borrow",
+            "Shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Forward purchasers",
+            "ORG",
+            "Sell",
+            "Shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Buy",
+            "Shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Sell",
+            "Shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Deliver",
+            "Shares of its common stock",
+            "PRODUCT"
+        ],
+        [
+            "Forward purchasers",
+            "ORG",
+            "Receive",
+            "Shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Forward purchasers",
+            "ORG",
+            "Pay",
+            "Cash proceeds per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mandatory Convertible Preferred Stock",
+            "PRODUCT",
+            "Have",
+            "Liquidation preference",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mandatory Convertible Preferred Stock",
+            "PRODUCT",
+            "Convert_Into",
+            "Shares of Sempra Energy common stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Determine",
+            "Number of shares of common stock",
+            "PRODUCT"
+        ],
+        [
+            "Sempra Energy",
+            "ORG",
+            "Negotiate",
+            "Dividend rate and conversion terms",
+            "CONCEPT"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Representatives",
+            "of the underwriters",
+            "CONCEPT"
+        ]
+    ]
+}

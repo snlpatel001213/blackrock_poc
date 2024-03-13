@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Has",
+            "Iranian President",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "21 People",
+            "PERSON"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "High Youth Unemployment",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Costly Living Standards",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Alleged Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Change of Government",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "End to Clerical Rule",
+            "CONCEPT"
+        ],
+        [
+            "French President",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "France",
+            "GPE"
+        ]
+    ]
+}

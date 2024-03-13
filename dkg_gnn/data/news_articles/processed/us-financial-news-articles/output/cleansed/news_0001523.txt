@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Leicester City",
+            "COMP",
+            "Has",
+            "Claude Puel",
+            "PERSON"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Not_Rush",
+            "Return",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Play_Against",
+            "Fleetwood Town",
+            "GPE"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Relate_To",
+            "Groin Strain",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Win",
+            "King Power Stadium",
+            "GPE"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Have",
+            "Wes Morgan",
+            "PERSON"
+        ],
+        [
+            "Wes Morgan",
+            "PERSON",
+            "Injure",
+            "Hamstring",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Travel_To",
+            "Chelsea",
+            "GPE"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Champions",
+            "Premier League",
+            "SECTOR"
+        ]
+    ]
+}

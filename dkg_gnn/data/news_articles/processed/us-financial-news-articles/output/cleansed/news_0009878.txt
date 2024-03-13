@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Mathews Appointment",
+            "EVENT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Has",
+            "Limited-Overs Skipper",
+            "TITLE"
+        ],
+        [
+            "Sri Lanka",
+            "GPE",
+            "Operate_In",
+            "Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Relate_To",
+            "Mathews Appointment",
+            "EVENT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Relate_To",
+            "Limited-Overs Skipper",
+            "TITLE"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Negative_Impact_On",
+            "Zimbabwe Defeat",
+            "EVENT"
+        ],
+        [
+            "Dinesh Chandimal",
+            "PERSON",
+            "Has",
+            "Test Captain",
+            "TITLE"
+        ],
+        [
+            "Upul Tharanga",
+            "PERSON",
+            "Has",
+            "Limited-Overs Captain",
+            "TITLE"
+        ],
+        [
+            "Thisara Perera",
+            "PERSON",
+            "Has",
+            "Temporary Captain",
+            "TITLE"
+        ],
+        [
+            "Thilanga Sumathipala",
+            "PERSON",
+            "Is_Member_Of",
+            "Sri Lanka Cricket",
+            "ORG"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Invests_In",
+            "Sri Lanka Cricket",
+            "ORG"
+        ],
+        [
+            "Sri Lanka Cricket",
+            "ORG",
+            "Control",
+            "Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Participates_In",
+            "Tri-Series",
+            "EVENT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Participates_In",
+            "World Cup",
+            "EVENT"
+        ],
+        [
+            "Angelo Mathews",
+            "PERSON",
+            "Operate_In",
+            "Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Bangladesh",
+            "GPE",
+            "Operate_In",
+            "Tri-Series",
+            "EVENT"
+        ],
+        [
+            "Zimbabwe",
+            "GPE",
+            "Operate_In",
+            "Tri-Series",
+            "EVENT"
+        ]
+    ]
+}

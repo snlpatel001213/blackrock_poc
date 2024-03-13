@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Announce",
+            "reopen a cross-border communication channel",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Operate_In",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Impact",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Ri Son Gwon",
+            "PERSON"
+        ],
+        [
+            "Ri Son Gwon",
+            "PERSON",
+            "Is_Member_Of",
+            "Committee for the Peaceful Reunification",
+            "ORG"
+        ],
+        [
+            "Committee for the Peaceful Reunification",
+            "ORG",
+            "Operate_In",
+            "North Korea",
+            "GPE"
+        ]
+    ]
+}

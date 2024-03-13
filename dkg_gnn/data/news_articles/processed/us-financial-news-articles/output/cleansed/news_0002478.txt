@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Announce",
+            "Release Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Operate_In",
+            "Georgia",
+            "GPE"
+        ],
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Operate_In",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Operate_In",
+            "Northern Florida",
+            "GPE"
+        ],
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Operate_In",
+            "South Carolina",
+            "GPE"
+        ],
+        [
+            "Edwin W. Hortman, Jr.",
+            "PERSON",
+            "Participates_In",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Dennis J. Zember Jr.",
+            "PERSON",
+            "Participates_In",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Nicole S. Stokes",
+            "PERSON",
+            "Participates_In",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Ameris Bancorp",
+            "COMP",
+            "Has",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Teleconference",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

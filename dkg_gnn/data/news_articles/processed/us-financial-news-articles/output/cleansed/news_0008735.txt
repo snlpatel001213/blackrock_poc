@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Has",
+            "Financial Terms Were Not Disclosed",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Expects",
+            "Transaction",
+            "EVENT"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Operate_In",
+            "2018 Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Expects",
+            "Transaction",
+            "EVENT"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "To Be",
+            "Accretive Thereafter",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Acquires",
+            "Majority Interest",
+            "CONCEPT"
+        ],
+        [
+            "Henry Schein Inc",
+            "COMP",
+            "Acquires",
+            "ABASE",
+            "ORG"
+        ],
+        [
+            "ABASE",
+            "ORG",
+            "Is_Member_Of",
+            "Veterinary Health Care Products",
+            "SECTOR"
+        ],
+        [
+            "ABASE",
+            "ORG",
+            "Located_In",
+            "Sao Paulo",
+            "GPE"
+        ],
+        [
+            "ABASE",
+            "ORG",
+            "Located_In",
+            "Brazil",
+            "GPE"
+        ]
+    ]
+}

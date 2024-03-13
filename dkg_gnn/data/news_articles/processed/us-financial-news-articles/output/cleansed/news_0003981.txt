@@ -1,0 +1,64 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Dissolve",
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Create",
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG"
+        ],
+        [
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Install",
+            "Mike Pence",
+            "PERSON",
+            "As",
+            "Chairman",
+            "PERSON",
+            "Of",
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Blame",
+            "Voter Fraud",
+            "CONCEPT",
+            "For",
+            "Loss",
+            "CONCEPT",
+            "In",
+            "Popular Vote",
+            "ECON_INDICATOR",
+            "To",
+            "Hillary Clinton",
+            "PERSON"
+        ],
+        [
+            "Presidential Advisory Commission on Election Integrity",
+            "ORG",
+            "Face",
+            "Resistance",
+            "CONCEPT",
+            "From",
+            "State Election Officials",
+            "PERSON"
+        ]
+    ]
+}

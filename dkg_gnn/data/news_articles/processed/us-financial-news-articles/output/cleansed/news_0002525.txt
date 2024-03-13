@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Nine",
+            "CONCEPT",
+            "Impact",
+            "14",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "Die",
+            "Nine",
+            "CONCEPT"
+        ],
+        [
+            "Prison riot",
+            "EVENT",
+            "Occur",
+            "Monday",
+            "CONCEPT"
+        ],
+        [
+            "Prison",
+            "ORG/GOV",
+            "Locate",
+            "Goi\u00e2nia",
+            "GPE"
+        ],
+        [
+            "Prisoners",
+            "PERSON",
+            "Escape",
+            "106",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Recapture",
+            "27",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prison riot",
+            "EVENT",
+            "Relate_To",
+            "Prison walls",
+            "FACILITY"
+        ],
+        [
+            "Riot",
+            "EVENT",
+            "Rooted_In",
+            "Gang rivalry",
+            "CONCEPT"
+        ],
+        [
+            "Prison violence",
+            "EVENT",
+            "Mar",
+            "2017",
+            "DATE"
+        ],
+        [
+            "Prisons",
+            "ORG/GOV",
+            "Suffer",
+            "Endemic violence",
+            "CONCEPT"
+        ],
+        [
+            "Prisons",
+            "ORG/GOV",
+            "Overcrowded",
+            "Severely",
+            "CONCEPT"
+        ],
+        [
+            "Prison conditions",
+            "CONCEPT",
+            "Call",
+            "Medieval",
+            "CONCEPT"
+        ],
+        [
+            "Food",
+            "PRODUCT",
+            "Scarce",
+            "Prisons",
+            "ORG/GOV"
+        ],
+        [
+            "Cells",
+            "FACILITY",
+            "Packed",
+            "Inmates",
+            "PERSON"
+        ],
+        [
+            "Inmates",
+            "PERSON",
+            "No space",
+            "Lie down",
+            "CONCEPT"
+        ],
+        [
+            "Guards",
+            "PERSON",
+            "Allocate",
+            "Resources",
+            "CONCEPT"
+        ],
+        [
+            "Guards",
+            "PERSON",
+            "Assign",
+            "Five",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guards",
+            "PERSON",
+            "Watch over",
+            "900",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

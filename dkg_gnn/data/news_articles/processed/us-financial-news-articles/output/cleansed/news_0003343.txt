@@ -1,0 +1,92 @@
+{
+    "output": [
+        [
+            "Canadian Solar Inc.",
+            "COMP",
+            "Announce",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "CSI New Energy Holding Co., Ltd.",
+            "COMP",
+            "Has",
+            "Completed",
+            "EVENT"
+        ],
+        [
+            "Three solar power plants",
+            "PRODUCT",
+            "Participates_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Shenzhen Energy Nanjing Holding Co., Ltd.",
+            "COMP",
+            "Buy",
+            "Three solar power plants",
+            "PRODUCT"
+        ],
+        [
+            "Shenzhen Energy Nanjing Holding Co., Ltd.",
+            "COMP",
+            "Subsidiary_Of",
+            "Shenzhen Energy Group Co., Ltd.",
+            "ORG/GOV"
+        ],
+        [
+            "Sale",
+            "EVENT",
+            "Close",
+            "December 29, 2017",
+            "DATE"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Expect",
+            "Recognize",
+            "Revenue",
+            "ECON_INDICATOR",
+            "Fourth quarter of 2017",
+            "DATE"
+        ],
+        [
+            "Canadian Solar",
+            "COMP",
+            "Developer",
+            "Solar power plants",
+            "PRODUCT"
+        ],
+        [
+            "Shenzhen Energy",
+            "COMP",
+            "Traditional energy companies",
+            "SECTOR"
+        ],
+        [
+            "Shenzhen Energy",
+            "COMP",
+            "Looking_To",
+            "Own",
+            "SECTOR"
+        ],
+        [
+            "Shenzhen Energy",
+            "COMP",
+            "Grow",
+            "Renewable energy assets",
+            "PRODUCT"
+        ],
+        [
+            "Trend",
+            "CONCEPT",
+            "Bring",
+            "Cleaner air",
+            "CONCEPT",
+            "China",
+            "GPE"
+        ]
+    ]
+}

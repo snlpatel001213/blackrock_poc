@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trendlines Group Ltd",
+            "COMP",
+            "Produce",
+            "Composite Sinus Stent",
+            "PRODUCT"
+        ],
+        [
+            "Composite Sinus Stent",
+            "PRODUCT",
+            "Relate_To",
+            "Portfolio CO",
+            "PERSON"
+        ],
+        [
+            "Portfolio CO",
+            "PERSON",
+            "Is_Member_Of",
+            "Trendlines Group Ltd",
+            "COMP"
+        ],
+        [
+            "United States FDA",
+            "ORG/REG",
+            "Control",
+            "Regulatory Clearance",
+            "ORG/REG"
+        ]
+    ]
+}

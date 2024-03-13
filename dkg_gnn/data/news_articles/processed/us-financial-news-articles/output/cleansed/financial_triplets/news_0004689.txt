@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "Sandy Spring Bancorp, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sandy Spring Bancorp, Inc.",
+            "ORG",
+            "Operate_In",
+            "Central Maryland, Northern Virginia, and Greater Washington, D.C. Market",
+            "GPE"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Subsidiaries",
+            "ORG"
+        ],
+        [
+            "Sandy Spring Insurance Corporation",
+            "ORG",
+            "Is_Member_Of",
+            "Sandy Spring Bank",
+            "COMP"
+        ],
+        [
+            "West Financial Services, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Sandy Spring Bank",
+            "COMP"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Investor Relations Page",
+            "PRODUCT"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Internet-Based Replay",
+            "PRODUCT"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Telephone Voice Replay",
+            "PRODUCT"
+        ],
+        [
+            "Sandy Spring Bank",
+            "COMP",
+            "Has",
+            "Contact Information",
+            "PRODUCT"
+        ],
+        [
+            "Sandy Spring Bancorp, Inc.",
+            "ORG",
+            "Has",
+            "Headquarters",
+            "PRODUCT",
+            "in",
+            "Olney, Maryland",
+            "GPE"
+        ]
+    ]
+}

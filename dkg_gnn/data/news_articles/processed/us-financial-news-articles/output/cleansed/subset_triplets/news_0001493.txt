@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Frank Sullivan",
+            "PERSON",
+            "Relate_To",
+            "RPM International",
+            "ORG"
+        ],
+        [
+            "RPM International",
+            "ORG",
+            "Operate_In",
+            "Industrial Market",
+            "SECTOR"
+        ],
+        [
+            "RPM International",
+            "ORG",
+            "Control",
+            "Tax Reform Bill",
+            "EVENT"
+        ],
+        [
+            "Tax Reform Bill",
+            "EVENT",
+            "Positive_Impact_On",
+            "Manufacturing",
+            "SECTOR"
+        ]
+    ]
+}

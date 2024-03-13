@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Petroleo Brasileiro SA",
+            "COMP",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Settlement",
+            "EVENT",
+            "Positive_Impact_On",
+            "Petrobras",
+            "COMP"
+        ]
+    ]
+}

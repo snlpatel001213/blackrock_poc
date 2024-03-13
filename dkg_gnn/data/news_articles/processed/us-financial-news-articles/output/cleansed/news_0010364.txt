@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Noble Group",
+            "ORG",
+            "Sell",
+            "American power and natural gas unit",
+            "PRODUCT",
+            "Price",
+            "$168 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Noble Group",
+            "ORG",
+            "Sell",
+            "American power and natural gas unit",
+            "PRODUCT",
+            "Original Price",
+            "$250 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Noble Group",
+            "ORG",
+            "Control",
+            "American power and natural gas unit",
+            "PRODUCT"
+        ],
+        [
+            "Mercuria",
+            "ORG",
+            "Buy",
+            "American power and natural gas unit",
+            "PRODUCT",
+            "Price",
+            "$168 million",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

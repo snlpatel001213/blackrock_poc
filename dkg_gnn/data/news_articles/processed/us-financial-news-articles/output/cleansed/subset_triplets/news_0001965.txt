@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Robert Bork",
+            "PERSON",
+            "Relate_To",
+            "Constitutional Crisis",
+            "CONCEPT"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Relate_To",
+            "Robert Mueller",
+            "PERSON"
+        ],
+        [
+            "Special Counsel Robert Mueller",
+            "PERSON",
+            "Relate_To",
+            "Constitutional Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Robert Bork",
+            "PERSON",
+            "Operate_In",
+            "Nation",
+            "GPE"
+        ],
+        [
+            "Robert Bork",
+            "PERSON",
+            "Relate_To",
+            "Air",
+            "CONCEPT"
+        ]
+    ]
+}

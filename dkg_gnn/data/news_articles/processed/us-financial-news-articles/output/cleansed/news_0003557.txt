@@ -1,0 +1,199 @@
+{
+    "output": [
+        [
+            "Japanese manufacturing activity",
+            "CONCEPT",
+            "Expand",
+            "December",
+            "TIME"
+        ],
+        [
+            "Manufacturing activity",
+            "CONCEPT",
+            "Has",
+            "Fastest Pace",
+            "CONCEPT"
+        ],
+        [
+            "Fastest Pace",
+            "CONCEPT",
+            "In",
+            "Almost Four Years",
+            "TIME"
+        ],
+        [
+            "Manufacturing Activity",
+            "CONCEPT",
+            "Impact",
+            "Steady Economic Growth",
+            "CONCEPT"
+        ],
+        [
+            "Steady Economic Growth",
+            "CONCEPT",
+            "Continue",
+            "New Year",
+            "TIME"
+        ],
+        [
+            "Markit/Nikkei Japan Manufacturing Final Purchasing Managers Index (PMI)",
+            "ECON_INDICATOR",
+            "Is",
+            "54.0",
+            "TIME"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "Slightly Below",
+            "Preliminary Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "Above",
+            "Final Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "At",
+            "Highest",
+            "CONCEPT"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "Since",
+            "February 2014",
+            "TIME"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "Above",
+            "50 Threshold",
+            "CONCEPT"
+        ],
+        [
+            "PMI",
+            "ECON_INDICATOR",
+            "For",
+            "16th Straight Month",
+            "TIME"
+        ],
+        [
+            "Index",
+            "CONCEPT",
+            "Relate_To",
+            "New Orders",
+            "CONCEPT"
+        ],
+        [
+            "New Orders",
+            "CONCEPT",
+            "Accelerate",
+            "December",
+            "TIME"
+        ],
+        [
+            "Final Index",
+            "ECON_INDICATOR",
+            "For New Orders",
+            "56.2",
+            "TIME"
+        ],
+        [
+            "New Orders",
+            "CONCEPT",
+            "Below",
+            "Flash Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Orders",
+            "CONCEPT",
+            "Above",
+            "Final 54.7",
+            "TIME"
+        ],
+        [
+            "Final Output Price Index",
+            "ECON_INDICATOR",
+            "51.0",
+            "TIME"
+        ],
+        [
+            "Output Price Index",
+            "CONCEPT",
+            "Less Than",
+            "Flash Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Output Price Index",
+            "CONCEPT",
+            "Below",
+            "Final 51.3",
+            "TIME"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Task",
+            "Secure Parliamentary Approval",
+            "CONCEPT"
+        ],
+        [
+            "Task",
+            "CONCEPT",
+            "Of",
+            "National Budget",
+            "CONCEPT"
+        ],
+        [
+            "National Budget",
+            "CONCEPT",
+            "For",
+            "Fiscal 2018",
+            "TIME"
+        ],
+        [
+            "Fiscal 2018",
+            "TIME",
+            "Starting",
+            "April",
+            "TIME"
+        ],
+        [
+            "Cabinet",
+            "ORG/GOV",
+            "Approve",
+            "Record Budget",
+            "CONCEPT"
+        ],
+        [
+            "Record Budget",
+            "CONCEPT",
+            "For",
+            "Fiscal 2018",
+            "TIME"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Hopes",
+            "Keep Economy",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "On Track",
+            "Sustained Recovery",
+            "CONCEPT"
+        ]
+    ]
+}

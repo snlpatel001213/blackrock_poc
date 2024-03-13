@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Zimmer Biomet Holdings, Inc.",
+            "COMP",
+            "Announce",
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT"
+        ],
+        [
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT",
+            "Operate_In",
+            "Total shoulder arthroplasty",
+            "EVENT"
+        ],
+        [
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT",
+            "Control",
+            "Zimmer Biomet Holdings, Inc.",
+            "COMP"
+        ],
+        [
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT",
+            "Participates_In",
+            "Patients with good bone stock",
+            "GPE"
+        ],
+        [
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT",
+            "Impact",
+            "Improved pre to post-operative patient outcomes",
+            "CONCEPT"
+        ],
+        [
+            "Zimmer Biomet Holdings, Inc.",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Zimmer Biomet Holdings, Inc.",
+            "COMP",
+            "Invests_In",
+            "Clinical study in the U.S.",
+            "EVENT"
+        ],
+        [
+            "Sidus \u00ae Stem-Free Shoulder system",
+            "PRODUCT",
+            "Relate_To",
+            "Strong clinical performance",
+            "CONCEPT"
+        ]
+    ]
+}

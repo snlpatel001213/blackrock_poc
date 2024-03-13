@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Namibia",
+            "GPE",
+            "Import",
+            "Poultry",
+            "PRODUCT"
+        ],
+        [
+            "Namibia",
+            "GPE",
+            "Relate_To",
+            "Poultry Shortages",
+            "CONCEPT"
+        ],
+        [
+            "Namibia",
+            "GPE",
+            "Suspend_Trade",
+            "Belgium",
+            "GPE"
+        ],
+        [
+            "Namibia",
+            "GPE",
+            "Suspend_Trade",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Namibia",
+            "GPE",
+            "Resume_Imports",
+            "Belgium",
+            "GPE"
+        ],
+        [
+            "Namibia",
+            "GPE",
+            "Resume_In_Transit_Movement",
+            "Belgium",
+            "GPE"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Outbreak",
+            "H5N8 Bird Flu",
+            "CONCEPT"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Suspend_Trade",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Report",
+            "Effectiveness of Control Measures",
+            "CONCEPT"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Declare_Freedom",
+            "World Organization for Animal Health",
+            "ORG"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Commercial Supplier",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Import_Poultry",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "World Organization for Animal Health",
+            "ORG",
+            "Require",
+            "No Evidence of Infection in Poultry for Three Months",
+            "CONCEPT"
+        ],
+        [
+            "Adrianatus Maseke",
+            "PERSON",
+            "Chief Veterinary Officer",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "Adrianatus Maseke",
+            "PERSON",
+            "Directorate of Veterinary Services",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "Willem Schutz",
+            "PERSON",
+            "Meat Board Manager Operations",
+            "Namibia",
+            "GPE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Nyasha Nyaungwa",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Edit",
+            "Elaine Hardcastle",
+            "PERSON"
+        ]
+    ]
+}

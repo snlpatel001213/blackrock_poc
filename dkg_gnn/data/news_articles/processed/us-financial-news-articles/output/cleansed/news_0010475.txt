@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Cancel",
+            "planned trip",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "planned trip",
+            "EVENT",
+            "Relate_To",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "planned trip",
+            "EVENT",
+            "Relate_To",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "British newspapers",
+            "ORG",
+            "Report",
+            "change in plans",
+            "EVENT"
+        ],
+        [
+            "change in plans",
+            "EVENT",
+            "Relate_To",
+            "U.S. leader\u2019s desire",
+            "CONCEPT"
+        ],
+        [
+            "change in plans",
+            "EVENT",
+            "Relate_To",
+            "protests",
+            "EVENT"
+        ]
+    ]
+}

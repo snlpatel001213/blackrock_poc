@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Kilroy Realty Corporation",
+            "ORG",
+            "Announce",
+            "2017 fourth quarter financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kilroy Realty Corporation",
+            "ORG",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Kilroy Realty Corporation",
+            "ORG",
+            "Has",
+            "Ticker symbol KRC",
+            "COMP"
+        ],
+        [
+            "Kilroy Realty Corporation",
+            "ORG",
+            "Operate_In",
+            "West Coast",
+            "GPE"
+        ],
+        [
+            "Kilroy Realty Corporation",
+            "ORG",
+            "Has",
+            "stabilized portfolio",
+            "SECTOR"
+        ]
+    ]
+}

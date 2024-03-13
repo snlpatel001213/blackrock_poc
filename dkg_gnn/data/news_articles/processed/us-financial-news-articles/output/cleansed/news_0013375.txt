@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Continental",
+            "ORG",
+            "Operate_In",
+            "Auto Parts and Tire Maker",
+            "COMP"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Participates_In",
+            "Electric and Self-Driving Vehicles",
+            "CONCEPT"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Invests_In",
+            "Future Corporate Structure",
+            "CONCEPT"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Review",
+            "Combustion-Engine Business",
+            "COMP"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Relate_To",
+            "Rolf Woller",
+            "PERSON"
+        ],
+        [
+            "Rolf Woller",
+            "PERSON",
+            "Head",
+            "Investor Relations",
+            "COMP"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Announce",
+            "Structural Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Is_Member_Of",
+            "Car Industry",
+            "SECTOR"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Consider",
+            "Creating Holding Company",
+            "CONCEPT"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Consider",
+            "Listing More Profitable Divisions",
+            "COMP"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Consider",
+            "Combining Some Operations",
+            "COMP"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Consider",
+            "Advisers",
+            "ORG"
+        ],
+        [
+            "Continental",
+            "ORG",
+            "Consider",
+            "Strategic Revamp",
+            "CONCEPT"
+        ]
+    ]
+}

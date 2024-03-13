@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Barclays PLC",
+            "ORG",
+            "Mandate",
+            "Barclays",
+            "ORG"
+        ],
+        [
+            "Barclays PLC",
+            "ORG",
+            "Issue",
+            "15yr benchmark",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Barclays PLC",
+            "ORG",
+            "Issue",
+            "tap of its GBP950m 3.125% January 2024",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "15yr benchmark",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Sterling holdco transaction",
+            "SECTOR"
+        ],
+        [
+            "tap of its GBP950m 3.125% January 2024",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Sterling holdco transaction",
+            "SECTOR"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Control",
+            "15yr benchmark",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Control",
+            "tap of its GBP950m 3.125% January 2024",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

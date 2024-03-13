@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Announce",
+            "Main Refinancing Operation",
+            "EVENT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Allotment Intended Volume",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Reference Number",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Min Allotment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Transaction Type",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Fixed Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Operation Type",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Max Bid Limit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Procedure",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tender Date",
+            "DATE"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Marg. Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Start Date",
+            "DATE"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "% of All. at Fixed Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Maturity Date",
+            "DATE"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tot Amount Allotted",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Duration",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Weight. Avg. Allot. Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tot Bid Amount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Auction Type",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tot Number of Bidders",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Allotment Method",
+            "TEXT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Estimate of autonomous factors",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Benchmark allotment",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

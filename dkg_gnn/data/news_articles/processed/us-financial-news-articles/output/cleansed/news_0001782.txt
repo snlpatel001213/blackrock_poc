@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Gunman",
+            "PERSON",
+            "Negative_Impact_On",
+            "One Deputy",
+            "PERSON"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Negative_Impact_On",
+            "Sheriffs Deputies",
+            "ORG"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Control",
+            "Firearm",
+            "PRODUCT"
+        ],
+        [
+            "Gunman",
+            "PERSON",
+            "Shoot",
+            "Suspect",
+            "PERSON"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Fatally_Shot",
+            "null",
+            "null"
+        ],
+        [
+            "One Deputy",
+            "PERSON",
+            "Killed",
+            "null",
+            "null"
+        ],
+        [
+            "Sheriffs Deputies",
+            "ORG",
+            "Respond_To",
+            "Disturbance",
+            "CONCEPT"
+        ],
+        [
+            "Disturbance",
+            "CONCEPT",
+            "Located_Near",
+            "Denver",
+            "GPE"
+        ]
+    ]
+}

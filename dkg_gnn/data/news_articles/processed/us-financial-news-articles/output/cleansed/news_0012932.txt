@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "MEI Pharma",
+            "ORG",
+            "Announce",
+            "FDA Clearance",
+            "EVENT"
+        ],
+        [
+            "MEI Pharma",
+            "ORG",
+            "Operate_In",
+            "Oncology Company",
+            "ORG"
+        ],
+        [
+            "Voruciclib",
+            "PRODUCT",
+            "Has",
+            "CDK9 Inhibitor",
+            "PRODUCT"
+        ],
+        [
+            "Voruciclib",
+            "PRODUCT",
+            "Control",
+            "Expression of MCL-1",
+            "CONCEPT"
+        ],
+        [
+            "Voruciclib",
+            "PRODUCT",
+            "Participates_In",
+            "B-cell Malignancies Treatment",
+            "SECTOR"
+        ],
+        [
+            "Voruciclib",
+            "PRODUCT",
+            "Relate_To",
+            "BCL-2 Inhibitor",
+            "PRODUCT"
+        ],
+        [
+            "MEI Pharma",
+            "ORG",
+            "Plan",
+            "Phase 1 Study",
+            "EVENT"
+        ],
+        [
+            "Voruciclib",
+            "PRODUCT",
+            "Impact",
+            "Safety, Tolerability, Pharmacokinetics, Pharmacodynamics, and Preliminary Clinical Activity",
+            "CONCEPT"
+        ],
+        [
+            "Daniel P. Gold",
+            "PERSON",
+            "Is_Member_Of",
+            "MEI Pharma",
+            "ORG"
+        ],
+        [
+            "Daniel P. Gold",
+            "PERSON",
+            "Say",
+            "Potential Novel Approach for Treatment of B-cell Malignancies",
+            "CONCEPT"
+        ]
+    ]
+}

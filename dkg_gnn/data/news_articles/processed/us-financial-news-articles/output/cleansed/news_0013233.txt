@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Thai military junta",
+            "ORG/GOV"
+        ],
+        [
+            "Thai military junta",
+            "ORG/GOV",
+            "Operate_In",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Impact",
+            "Thai democracy",
+            "CONCEPT"
+        ],
+        [
+            "Thai military junta",
+            "ORG/GOV",
+            "Delay",
+            "General election",
+            "EVENT"
+        ],
+        [
+            "Thai military junta",
+            "ORG/GOV",
+            "Control",
+            "Ban on political campaigning",
+            "CONCEPT"
+        ],
+        [
+            "Thai military junta",
+            "ORG/GOV",
+            "Operate_In",
+            "Government House",
+            "COMP"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Produce",
+            "Cardboard cutout gesture",
+            "CONCEPT"
+        ],
+        [
+            "Cardboard cutout gesture",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Media criticism",
+            "CONCEPT"
+        ],
+        [
+            "Human Rights Watch",
+            "ORG",
+            "Criticise",
+            "Cardboard cutout gesture",
+            "CONCEPT"
+        ],
+        [
+            "Children\u2019s Day",
+            "EVENT",
+            "Occur_On",
+            "Second Saturday of January",
+            "DATE"
+        ],
+        [
+            "Thai military junta",
+            "ORG/GOV",
+            "Invites",
+            "Children",
+            "CONCEPT"
+        ],
+        [
+            "Children",
+            "CONCEPT",
+            "Allow",
+            "Posing with weapons and tanks",
+            "CONCEPT"
+        ],
+        [
+            "Children",
+            "CONCEPT",
+            "Allow",
+            "Sitting at prime minister\u2019s work desk",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "output": [
+        [
+            "Allergan",
+            "COMP",
+            "Cut",
+            "more than 1,000 jobs",
+            "GPE"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Eliminate",
+            "400 open positions",
+            "GPE"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Expect",
+            "$300 million to $400 million",
+            "ECON_INDICATOR",
+            "this year",
+            "TIME"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Anticipate",
+            "changes will cost $125 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Make",
+            "Botox",
+            "PRODUCT"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Participates_In",
+            "cost-reduction efforts",
+            "CONCEPT"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Is_Member_Of",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Announce",
+            "filing",
+            "EVENT",
+            "Wednesday",
+            "TIME"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Plan",
+            "cost-cutting and restructuring program",
+            "CONCEPT"
+        ],
+        [
+            "Brent Saunders",
+            "PERSON",
+            "Tell",
+            "analysts",
+            "SECTOR",
+            "on an earnings call",
+            "EVENT"
+        ],
+        [
+            "Shares of Allergan",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "more than 20 percent",
+            "ECON_INDICATOR",
+            "in the last 12 months",
+            "TIME"
+        ],
+        [
+            "Shares of Allergan",
+            "FIN_INSTRUMENT",
+            "Up",
+            "1.1 percent",
+            "ECON_INDICATOR",
+            "midday Wednesday",
+            "TIME"
+        ]
+    ]
+}

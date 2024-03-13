@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "FleetPride Inc.",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "FleetPride Inc.",
+            "ORG",
+            "Operate_In",
+            "Irving",
+            "GPE"
+        ],
+        [
+            "Truck Parts & Equipment",
+            "ORG",
+            "Operate_In",
+            "Kansas",
+            "GPE"
+        ],
+        [
+            "Truck Parts & Equipment",
+            "ORG",
+            "Has",
+            "Three Branches",
+            "SECTOR"
+        ],
+        [
+            "FleetPride Inc.",
+            "ORG",
+            "Operate_In",
+            "Five Regional Distribution Centers",
+            "SECTOR"
+        ],
+        [
+            "FleetPride Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Independent Heavy-Duty Aftermarket Channel",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Cambridge researchers",
+            "PERSON",
+            "Operate_In",
+            "Cambridge",
+            "GPE"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Produce",
+            "green energy",
+            "CONCEPT"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Cheaper_Than",
+            "existing plant and algal models",
+            "PRODUCT"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Self_Repairing",
+            "null",
+            "null"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Self_Replicating",
+            "null",
+            "null"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Biodegradable",
+            "null",
+            "null"
+        ],
+        [
+            "algae-powered fuel cell",
+            "PRODUCT",
+            "Sustainable",
+            "null",
+            "null"
+        ]
+    ]
+}

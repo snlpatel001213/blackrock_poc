@@ -1,0 +1,29 @@
+{
+    "output": [
+        [
+            "Citi Private Bank",
+            "ORG",
+            "Recommend",
+            "Financial Sector Stocks",
+            "SECTOR",
+            "in",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Ken Peng",
+            "PERSON",
+            "Work_For",
+            "Citi Private Bank",
+            "ORG"
+        ],
+        [
+            "Asia",
+            "GPE",
+            "Experience_Currency_Gain",
+            "against",
+            "Dollar",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

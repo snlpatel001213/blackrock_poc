@@ -1,0 +1,112 @@
+{
+    "output": [
+        [
+            "CBRE Group Inc.",
+            "ORG",
+            "Hire",
+            "Andrew Kupiec",
+            "PERSON"
+        ],
+        [
+            "Andrew Kupiec",
+            "PERSON",
+            "Formerly_Work_For",
+            "Zipcar Inc.",
+            "ORG"
+        ],
+        [
+            "Andrew Kupiec",
+            "PERSON",
+            "Lead",
+            "High-tech Team",
+            "ORG"
+        ],
+        [
+            "High-tech Team",
+            "ORG",
+            "Customize",
+            "Apps",
+            "PRODUCT"
+        ],
+        [
+            "Apps",
+            "PRODUCT",
+            "Help",
+            "Tenants and Building Owners",
+            "PERSON"
+        ],
+        [
+            "Tenants and Building Owners",
+            "PERSON",
+            "Navigate",
+            "Workplace Design and Amenities",
+            "CONCEPT"
+        ],
+        [
+            "App",
+            "PRODUCT",
+            "Enable",
+            "Office Workers",
+            "PERSON"
+        ],
+        [
+            "Office Workers",
+            "PERSON",
+            "Do",
+            "Such Things",
+            "CONCEPT"
+        ],
+        [
+            "Such Things",
+            "CONCEPT",
+            "Include",
+            "Locate Colleagues",
+            "CONCEPT"
+        ],
+        [
+            "Locate Colleagues",
+            "CONCEPT",
+            "Navigate Buildings",
+            "CONCEPT"
+        ],
+        [
+            "Reserve Workspaces",
+            "CONCEPT"
+        ],
+        [
+            "Learn About Area Events",
+            "CONCEPT"
+        ],
+        [
+            "Order Food and Beverages",
+            "CONCEPT"
+        ],
+        [
+            "Andrew Kupiec",
+            "PERSON",
+            "Plan",
+            "Build",
+            "VERB"
+        ],
+        [
+            "Build",
+            "VERB",
+            "Sizable",
+            "Team",
+            "ORG"
+        ],
+        [
+            "Sizable Team",
+            "ORG",
+            "Partly",
+            "From",
+            "VERB"
+        ],
+        [
+            "From",
+            "VERB",
+            "Consumer-Products",
+            "CONCEPT"
+        ]
+    ]
+}

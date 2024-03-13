@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Gilles Simon",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Anderson",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Gilles Simon",
+            "PERSON",
+            "Has",
+            "Fluent Style",
+            "CONCEPT"
+        ],
+        [
+            "Gilles Simon",
+            "PERSON",
+            "Has",
+            "Nimble Footwork",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Anderson",
+            "PERSON",
+            "Has",
+            "2.03m Height",
+            "CONCEPT"
+        ]
+    ]
+}

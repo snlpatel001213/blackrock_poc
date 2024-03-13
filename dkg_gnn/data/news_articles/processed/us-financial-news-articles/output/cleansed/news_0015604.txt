@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "UK",
+            "GPE",
+            "Not_Pay",
+            "EU",
+            "ORG/GOV"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Operate_In",
+            "Financial_Services_Market",
+            "SECTOR"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Is_Member_Of",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Position",
+            "Unchanged",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Continue",
+            "Working_Together",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Continue",
+            "Take_Part",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Contribute",
+            "Fair_Share_Of_Costs",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Robbins Arroyo LLP",
+            "ORG",
+            "Announce",
+            "Investors filed a class action complaint against Credit Suisse",
+            "EVENT"
+        ],
+        [
+            "Credit Suisse Group AG",
+            "COMP",
+            "Operate_In",
+            "Various financial services worldwide",
+            "SECTOR"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Control",
+            "Nearly $3 billion in distressed debt and U.S. collateralized loan obligations",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Negative_Impact_On",
+            "Shareholder values",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Credit Suisse officials",
+            "PERSON",
+            "Relate_To",
+            "SEC filings",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Has",
+            "Risk management processes and sophisticated control systems",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse traders",
+            "PERSON",
+            "Impact",
+            "Outsized illiquid positions",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Raise",
+            "$633 million write-down",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Relate_To",
+            "Bank's distressed debt and CLO positions",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

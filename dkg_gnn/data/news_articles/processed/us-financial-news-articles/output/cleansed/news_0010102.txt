@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Haider al-Abadi",
+            "PERSON",
+            "Announce",
+            "re-election",
+            "ORG/GOV"
+        ],
+        [
+            "Haider al-Abadi",
+            "PERSON",
+            "Operate_In",
+            "Iraq",
+            "GPE"
+        ],
+        [
+            "Haider al-Abadi",
+            "PERSON",
+            "Participates_In",
+            "May 12 parliamentary elections",
+            "EVENT"
+        ],
+        [
+            "victory alliance",
+            "ORG",
+            "Is_Member_Of",
+            "Haider al-Abadi",
+            "PERSON"
+        ],
+        [
+            "victory alliance",
+            "ORG",
+            "Participates_In",
+            "May 12 parliamentary elections",
+            "EVENT"
+        ],
+        [
+            "Nuri al-Maliki",
+            "PERSON",
+            "Announce",
+            "running in the elections",
+            "EVENT"
+        ],
+        [
+            "Nuri al-Maliki",
+            "PERSON",
+            "Operate_In",
+            "Iraq",
+            "GPE"
+        ],
+        [
+            "Nuri al-Maliki",
+            "PERSON",
+            "Heads",
+            "Dawa party",
+            "ORG"
+        ],
+        [
+            "Dawa party",
+            "ORG",
+            "Endorse",
+            "Haider al-Abadi",
+            "PERSON"
+        ],
+        [
+            "state of law",
+            "ORG",
+            "Competes_With",
+            "victory alliance",
+            "ORG"
+        ],
+        [
+            "Haider al-Abadi",
+            "PERSON",
+            "Credit",
+            "rebuilding the army",
+            "ORG"
+        ],
+        [
+            "Haider al-Abadi",
+            "PERSON",
+            "Credit",
+            "defeating Islamic State",
+            "ORG"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Have",
+            "majority Shi\u2018ite Arab community",
+            "SECTOR"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Have",
+            "power-sharing system",
+            "CONCEPT"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Have",
+            "Sunni Arab MPs",
+            "SECTOR"
+        ],
+        [
+            "May 12 parliamentary elections",
+            "EVENT",
+            "Impact",
+            "Iraq",
+            "GPE"
+        ],
+        [
+            "May 12 parliamentary elections",
+            "EVENT",
+            "Approve",
+            "parliament",
+            "ORG"
+        ]
+    ]
+}

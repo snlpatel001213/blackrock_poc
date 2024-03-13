@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Johanna Konta",
+            "PERSON",
+            "Retire",
+            "null",
+            "null"
+        ],
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Next_Plays",
+            "Pliskova/Kanepi Winner",
+            "PERSON"
+        ],
+        [
+            "Aliaksandra Sasnovich",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Aliaksandra Sasnovich",
+            "PERSON",
+            "Win",
+            "Alize Cornet",
+            "PERSON"
+        ],
+        [
+            "Anastasija Sevastova",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Aleksandra Krunic",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ]
+    ]
+}

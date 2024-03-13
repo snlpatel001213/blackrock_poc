@@ -1,0 +1,110 @@
+{
+    "output": [
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Plan",
+            "Open most federal waters off the United States to oil leases",
+            "EVENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Control",
+            "Three miles nearest to shore",
+            "GPE"
+        ],
+        [
+            "California",
+            "GPE",
+            "Decide",
+            "Permits for any oil pipelines",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Operators",
+            "ORG",
+            "Tend not to operate",
+            "States that don\u2019t want production",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Book",
+            "PERSON",
+            "Analyst",
+            "ClearView Energy Partners",
+            "ORG"
+        ],
+        [
+            "Oil companies",
+            "ORG",
+            "Face",
+            "Financial, regulatory and legal problems",
+            "CONCEPT"
+        ],
+        [
+            "Brown",
+            "PERSON",
+            "Join",
+            "U.S. senators and other state officials",
+            "ORG",
+            "Appeal",
+            "Obama",
+            "PERSON",
+            "Ban California offshore drilling",
+            "EVENT"
+        ],
+        [
+            "Californians",
+            "GPE",
+            "Opposed",
+            "Offshore drilling",
+            "CONCEPT"
+        ],
+        [
+            "Kristen Hislop",
+            "PERSON",
+            "With",
+            "Environmental Defense Center",
+            "ORG",
+            "Remember",
+            "1969 oil spill",
+            "EVENT"
+        ],
+        [
+            "Linda Krop",
+            "PERSON",
+            "Legal counsel",
+            "Environmental Defense Center",
+            "ORG"
+        ],
+        [
+            "1972 federal coastal act",
+            "EVENT",
+            "Give",
+            "California extensive input on federal actions along the coast",
+            "CONCEPT"
+        ],
+        [
+            "Dayna Bochco",
+            "PERSON",
+            "Chairwoman",
+            "California Coastal Commission",
+            "ORG"
+        ],
+        [
+            "California Coastal Commission",
+            "ORG",
+            "Authority",
+            "Oppose offshore leases",
+            "EVENT"
+        ],
+        [
+            "Robert Jablon",
+            "PERSON",
+            "Contributed",
+            "Report",
+            "EVENT"
+        ]
+    ]
+}

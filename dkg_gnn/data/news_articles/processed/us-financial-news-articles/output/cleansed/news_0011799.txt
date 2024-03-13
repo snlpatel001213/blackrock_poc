@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "German workers",
+            "PERSON",
+            "Participates_In",
+            "Wage Disputes",
+            "EVENT"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Control",
+            "German workers",
+            "PERSON"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Negative_Impact_On",
+            "Employers",
+            "PERSON"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Push_For",
+            "Higher Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IG Metall",
+            "ORG",
+            "Push_For",
+            "Shorter Hours",
+            "CONCEPT"
+        ],
+        [
+            "3.9 million German workers",
+            "PERSON",
+            "Relate_To",
+            "Higher Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3.9 million German workers",
+            "PERSON",
+            "Relate_To",
+            "Shorter Hours",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Says",
+            "Oprah",
+            "PERSON"
+        ],
+        [
+            "Oprah",
+            "PERSON",
+            "Relate_To",
+            "Run_For_President",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Think",
+            "Oprah",
+            "PERSON",
+            "Not",
+            "Run_For_President",
+            "CONCEPT"
+        ]
+    ]
+}

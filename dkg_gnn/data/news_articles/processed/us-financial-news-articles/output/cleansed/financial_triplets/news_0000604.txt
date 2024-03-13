@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Atlantic Investment Management",
+            "ORG",
+            "Operate_In",
+            "Hedge Fund",
+            "ORG"
+        ],
+        [
+            "Marcato Capital Management",
+            "ORG",
+            "Participates_In",
+            "Proxy fight",
+            "CONCEPT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Participates_In",
+            "Proxy fight",
+            "CONCEPT"
+        ],
+        [
+            "Deckers Outdoor Corp.",
+            "COMP",
+            "Participates_In",
+            "Proxy fight",
+            "CONCEPT"
+        ],
+        [
+            "Hain Celestial Group",
+            "COMP",
+            "Relate_To",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "Rent-A-Center",
+            "COMP",
+            "Relate_To",
+            "Change",
+            "CONCEPT"
+        ]
+    ]
+}

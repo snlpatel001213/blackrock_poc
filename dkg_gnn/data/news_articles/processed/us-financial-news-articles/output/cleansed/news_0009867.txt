@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Announce",
+            "Engaged",
+            "EVENT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Relate_To",
+            "Goop",
+            "ORG"
+        ],
+        [
+            "Goop",
+            "ORG",
+            "Produce",
+            "Lifestyle Magazine",
+            "PRODUCT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Marry",
+            "Brad Falchuk",
+            "PERSON"
+        ]
+    ]
+}

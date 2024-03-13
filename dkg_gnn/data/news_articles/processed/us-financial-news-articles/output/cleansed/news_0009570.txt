@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "OAG",
+            "ORG",
+            "Publish",
+            "List",
+            "EVENT"
+        ],
+        [
+            "OAG",
+            "ORG",
+            "Rank",
+            "On-time Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OAG",
+            "ORG",
+            "Trawl",
+            "Flight Records",
+            "EVENT"
+        ],
+        [
+            "airBaltic",
+            "COMP",
+            "Achieve",
+            "OTP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "airBaltic",
+            "COMP",
+            "Headquartered",
+            "Riga",
+            "GPE"
+        ],
+        [
+            "airBaltic",
+            "COMP",
+            "Fly",
+            "Destinations",
+            "EVENT"
+        ],
+        [
+            "Hong Kong Airlines",
+            "COMP",
+            "Come",
+            "Second",
+            "SECTOR"
+        ],
+        [
+            "Hawaiian Airlines",
+            "COMP",
+            "Come",
+            "Third",
+            "SECTOR"
+        ],
+        [
+            "Hawaiian Airlines",
+            "COMP",
+            "Most Punctual",
+            "North American Airline",
+            "SECTOR"
+        ],
+        [
+            "Japan Airlines",
+            "COMP",
+            "Top",
+            "Mega Airlines",
+            "SECTOR"
+        ],
+        [
+            "All Nippon Airways",
+            "COMP",
+            "Followed",
+            "Japanese Carrier",
+            "SECTOR"
+        ],
+        [
+            "Delta Airlines",
+            "COMP",
+            "Achieve",
+            "OTP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Delta Airlines",
+            "COMP",
+            "Major Carrier",
+            "SECTOR"
+        ],
+        [
+            "Air China",
+            "COMP",
+            "Laggard",
+            "Major Carrier",
+            "SECTOR"
+        ],
+        [
+            "Air China",
+            "COMP",
+            "Arrive or Depart",
+            "Within 15 Minutes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tokyo Haneda",
+            "COMP",
+            "Top",
+            "Mega-size Category",
+            "SECTOR"
+        ],
+        [
+            "Tokyo Haneda",
+            "COMP",
+            "Hit",
+            "On-time Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Osaka International",
+            "COMP",
+            "Top",
+            "Global Airports",
+            "SECTOR"
+        ],
+        [
+            "Osaka International",
+            "COMP",
+            "Hit",
+            "On-time Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sapporo Okadama",
+            "COMP",
+            "Third",
+            "Global Airports",
+            "SECTOR"
+        ],
+        [
+            "Sapporo Okadama",
+            "COMP",
+            "Hit",
+            "On-time Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salt Lake City International",
+            "COMP",
+            "Achieve",
+            "OTP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Minneapolis-St Paul International",
+            "COMP",
+            "Top",
+            "Major Airports",
+            "SECTOR"
+        ],
+        [
+            "Minneapolis-St Paul International",
+            "COMP",
+            "Operate",
+            "On-time Performance",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

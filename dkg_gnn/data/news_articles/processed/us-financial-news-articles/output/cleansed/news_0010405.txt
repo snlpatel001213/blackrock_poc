@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Marcus Andrade",
+            "PERSON",
+            "Announce",
+            "AML BitCoin",
+            "PRODUCT"
+        ],
+        [
+            "Marcus Andrade",
+            "PERSON",
+            "Is_Member_Of",
+            "NAC Foundation",
+            "ORG"
+        ],
+        [
+            "NAC Foundation",
+            "ORG",
+            "Create",
+            "AML BitCoin",
+            "PRODUCT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Operate_In",
+            "Digital Currency",
+            "SECTOR"
+        ],
+        [
+            "NAC Foundation",
+            "ORG",
+            "Introduce",
+            "ICO",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "NAC Foundation",
+            "ORG",
+            "Control",
+            "AML BitCoin",
+            "PRODUCT"
+        ],
+        [
+            "NAC Foundation",
+            "ORG",
+            "Participates_In",
+            "Coin Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Has",
+            "AML",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Has",
+            "KYC",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Has",
+            "Security Protocols",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Relate_To",
+            "Anti-Money Laundering",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Relate_To",
+            "Know-Your-Customer",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Impact",
+            "Coin Purchasers",
+            "PERSON"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Available_On",
+            "Digital Currency Exchanges",
+            "SECTOR"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Trading Symbol",
+            "ABTC",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "International Acceptance",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Use",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Differentiate",
+            "Other Cryptocurrencies",
+            "PRODUCT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Compliant",
+            "USA PATRIOT Act",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Compliant",
+            "Bank Secrecy Act",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Has",
+            "Security Compliance",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Has",
+            "Blockchain Technology",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Strengthen",
+            "Acceptance and Use",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Relate_To",
+            "Digital Currencies",
+            "SECTOR"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Relate_To",
+            "National Security",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Relate_To",
+            "Financial Protection",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Virtual Currency",
+            "Not Legal Tender",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Virtual Currency",
+            "Not Backed by Government",
+            "CONCEPT"
+        ],
+        [
+            "AML BitCoin",
+            "PRODUCT",
+            "Virtual Currency",
+            "Not Subject to Consumer Protections",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ethiopia",
+            "GPE",
+            "Is_Member_Of",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Sao Silvestre road race",
+            "EVENT",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Operate_In",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Produce",
+            "News",
+            "CONCEPT"
+        ]
+    ]
+}

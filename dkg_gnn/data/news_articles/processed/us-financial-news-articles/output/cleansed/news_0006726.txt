@@ -1,0 +1,212 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Announce",
+            "emission limit on coal-fired power generators",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Set",
+            "emission limit on coal-fired power generators",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Force",
+            "coal-fired power generators",
+            "ORG/COMP"
+        ],
+        [
+            "coal-fired power generators",
+            "ORG/COMP",
+            "Close",
+            "without technology",
+            "CONCEPT"
+        ],
+        [
+            "coal-fired power generators",
+            "ORG/COMP",
+            "Fit",
+            "carbon capture technology",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Meet",
+            "climate targets",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "End",
+            "unabated coal-fired power generation",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "2025",
+            "End",
+            "unabated coal-fired power generation",
+            "EVENT"
+        ],
+        [
+            "Department for Business, Energy and Industrial Strategy (BEIS)",
+            "ORG/GOV",
+            "Flesh out",
+            "plan",
+            "CONCEPT"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Set",
+            "emission limit",
+            "EVENT"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Set",
+            "emission limit of up to 450 grammes of CO2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Make sure",
+            "polluting plants close",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Introduce",
+            "tax on CO2 emissions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "2013",
+            "Introduce",
+            "tax on CO2 emissions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "coal power generation",
+            "ORG/COMP",
+            "Plummet",
+            "since the industrial revolution",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Last year",
+            "First day of coal-free power generation",
+            "EVENT"
+        ],
+        [
+            "6 gigawatts (GW)",
+            "ECON_INDICATOR",
+            "In use",
+            "coal-fired power capacity",
+            "ORG/COMP"
+        ],
+        [
+            "6 gigawatts (GW)",
+            "ECON_INDICATOR",
+            "Capable",
+            "powering around 6 million homes",
+            "CONCEPT"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Expect",
+            "coal-fired power capacity to fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Expect",
+            "coal-fired power capacity to fall to 1.5 GW",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BEIS",
+            "ORG/GOV",
+            "Expect",
+            "other forms of generation will make up the shortfall",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "2025",
+            "Close",
+            "many of the country\u2019s nuclear power plants",
+            "ORG/COMP"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Late 2020s",
+            "Close",
+            "many of the country\u2019s nuclear power plants",
+            "ORG/COMP"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Few new plants being built",
+            "nuclear power plants",
+            "ORG/COMP"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "2017",
+            "Start payments under a capacity market",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Capacity Market",
+            "Ensure",
+            "sufficient capacity in place to replace unabated coal units",
+            "ORG/COMP"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Cut carbon dioxide emissions",
+            "2050",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Cut carbon dioxide emissions",
+            "80 percent below 1990 levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Drive",
+            "counter global warming",
+            "CONCEPT"
+        ]
+    ]
+}

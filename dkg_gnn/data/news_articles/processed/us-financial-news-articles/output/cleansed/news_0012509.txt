@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dan Gurney",
+            "PERSON",
+            "Announce",
+            "Family",
+            "FAMILY"
+        ],
+        [
+            "Dan Gurney",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Dan Gurney",
+            "PERSON",
+            "Control",
+            "Pneumonia",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Family",
+            "FAMILY",
+            "Announce",
+            "Dan Gurney Death",
+            "EVENT"
+        ]
+    ]
+}

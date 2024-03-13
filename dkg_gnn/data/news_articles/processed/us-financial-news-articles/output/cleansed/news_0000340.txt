@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Delta Air Lines Inc.",
+            "COMP",
+            "Accused",
+            "Bias",
+            "CONCEPT"
+        ],
+        [
+            "Delta Air Lines Inc.",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Delta Air Lines Inc.",
+            "COMP",
+            "Discriminate",
+            "Flight Attendants",
+            "PERSON"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Relate_To",
+            "Religion",
+            "CONCEPT"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Relate_To",
+            "Nationality",
+            "CONCEPT"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Harassed",
+            null,
+            null
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Denied",
+            "Promotions",
+            "CONCEPT"
+        ],
+        [
+            "Flight Attendants",
+            "PERSON",
+            "Unfairly",
+            "Disciplined",
+            "CONCEPT"
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Operate_In",
+            "Delta Air Lines Inc.",
+            "COMP"
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Ethnic Jews and Israelis",
+            "PERSON"
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Cannot be trusted",
+            null
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Are aggressive and inappropriate",
+            null
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Engage in strange behaviors",
+            null
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Conduct prayers on the flight",
+            null
+        ],
+        [
+            "Managers",
+            "PERSON",
+            "Assume",
+            "Require special dietary accommodations",
+            null
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Royal Zoological Society of Scotland",
+            "ORG",
+            "Announce",
+            "Polar bear cub birth",
+            "EVENT"
+        ],
+        [
+            "Highland Wildlife Park",
+            "ORG",
+            "Operate_In",
+            "Scotland",
+            "GPE"
+        ],
+        [
+            "Arktos",
+            "PERSON",
+            "Participates_In",
+            "Polar bear breeding",
+            "EVENT"
+        ],
+        [
+            "Polar bear cub",
+            "CONCEPT",
+            "Impact",
+            "Polar bear population",
+            "CONCEPT"
+        ],
+        [
+            "Polar bear cub",
+            "CONCEPT",
+            "Relate_To",
+            "Climate Change",
+            "CONCEPT"
+        ]
+    ]
+}

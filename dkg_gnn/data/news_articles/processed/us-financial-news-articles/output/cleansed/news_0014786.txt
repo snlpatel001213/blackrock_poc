@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Arkansas",
+            "GPE",
+            "Participates_In",
+            "Game",
+            "EVENT"
+        ],
+        [
+            "LSU",
+            "GPE",
+            "Participates_In",
+            "Game",
+            "EVENT"
+        ],
+        [
+            "Arkansas",
+            "GPE",
+            "Lose",
+            "LSU",
+            "GPE"
+        ],
+        [
+            "LSU",
+            "GPE",
+            "Win",
+            "Arkansas",
+            "GPE"
+        ],
+        [
+            "Will Wade",
+            "PERSON",
+            "Coach",
+            "LSU",
+            "GPE"
+        ],
+        [
+            "Aaron Epps",
+            "PERSON",
+            "Score",
+            "13 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aaron Epps",
+            "PERSON",
+            "Score",
+            "11 Rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Skylar Mays",
+            "PERSON",
+            "Score",
+            "12 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Randy Onwuasor",
+            "PERSON",
+            "Score",
+            "12 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Duop Reath",
+            "PERSON",
+            "Score",
+            "11 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jaylen Barford",
+            "PERSON",
+            "Score",
+            "17 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arkansas",
+            "GPE",
+            "Shoot",
+            "33.3 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LSU",
+            "GPE",
+            "Shoot",
+            "52.7 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arkansas",
+            "GPE",
+            "Lead",
+            "LSU",
+            "GPE"
+        ],
+        [
+            "LSU",
+            "GPE",
+            "Lead",
+            "Arkansas",
+            "GPE"
+        ],
+        [
+            "Tremont Waters",
+            "PERSON",
+            "Make",
+            "3-Pointers",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "LSU",
+            "GPE",
+            "Host",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Arkansas",
+            "GPE",
+            "Host",
+            "Missouri",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Gianni Versace",
+            "PERSON",
+            "Operate_In",
+            "Fashion Industry",
+            "SECTOR"
+        ],
+        [
+            "Gianni Versace",
+            "PERSON",
+            "Produce",
+            "Versace",
+            "COMP"
+        ],
+        [
+            "21st Century Fox",
+            "COMP",
+            "Announce",
+            "TV Series",
+            "PRODUCT"
+        ],
+        [
+            "Penelope Cruz",
+            "PERSON",
+            "Participates_In",
+            "TV Series",
+            "PRODUCT"
+        ],
+        [
+            "Ricky Martin",
+            "PERSON",
+            "Participates_In",
+            "TV Series",
+            "PRODUCT"
+        ],
+        [
+            "Andrew Cunanan",
+            "PERSON",
+            "Negative_Impact_On",
+            "Gianni Versace",
+            "PERSON"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Control",
+            "Medusa Head Logo",
+            "CONCEPT"
+        ],
+        [
+            "Blackstone",
+            "COMP",
+            "Invests_In",
+            "Versace",
+            "COMP"
+        ],
+        [
+            "Donatella Versace",
+            "PERSON",
+            "Is_Member_Of",
+            "Versace",
+            "COMP"
+        ],
+        [
+            "Donatella Versace",
+            "PERSON",
+            "Is_Member_Of",
+            "Fashion Industry",
+            "SECTOR"
+        ],
+        [
+            "Versace",
+            "COMP",
+            "Relate_To",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Relate_To",
+            "Vulgar Favors",
+            "PRODUCT"
+        ],
+        [
+            "TV Series",
+            "PRODUCT",
+            "Relate_To",
+            "Book",
+            "PRODUCT"
+        ]
+    ]
+}

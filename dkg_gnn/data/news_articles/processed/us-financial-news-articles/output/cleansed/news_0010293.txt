@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lonking Holdings Ltd",
+            "COMP",
+            "Sells",
+            "2.128 Million Shares",
+            "QUANTITY"
+        ],
+        [
+            "Singapore\u2019s GIC Private Ltd",
+            "ORG/GOV",
+            "Sells",
+            "2.128 Million Shares",
+            "QUANTITY"
+        ],
+        [
+            "Lonking Holdings Ltd",
+            "COMP",
+            "Owned By",
+            "Singapore\u2019s GIC Private Ltd",
+            "ORG/GOV"
+        ],
+        [
+            "Singapore\u2019s GIC Private Ltd",
+            "ORG/GOV",
+            "Owns",
+            "4.97 Percent Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lonking Holdings Ltd",
+            "COMP",
+            "Owned Previously",
+            "5.02 Percent Stake",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

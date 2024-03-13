@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Retail sales",
+            "ECON_INDICATOR",
+            "Increase",
+            "Nov",
+            "GPE"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Spend",
+            "iPhone X",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Participates_In",
+            "Black Friday promotions",
+            "EVENT"
+        ],
+        [
+            "Local dollar",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "3-month peak",
+            "TIME"
+        ],
+        [
+            "Australian Bureau of Statistics (ABS)",
+            "ORG",
+            "Release",
+            "Retail sales data",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Household goods",
+            "SECTOR",
+            "Increase",
+            "4.5 percent",
+            "PERCENT"
+        ],
+        [
+            "Other retailing",
+            "SECTOR",
+            "Increase",
+            "2.2 percent",
+            "PERCENT"
+        ],
+        [
+            "Consumer spending",
+            "CONCEPT",
+            "Under_pressure",
+            "Record-high household debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Consumer spending",
+            "CONCEPT",
+            "Under_pressure",
+            "Sluggish wage growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reserve Bank of Australia (RBA)",
+            "ORG/GOV",
+            "In_no_rush",
+            "Raise interest rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Futures markets",
+            "FIN_INSTRUMENT",
+            "Narrow",
+            "Odds of a hike in rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reserve Bank of Australia (RBA)",
+            "ORG/GOV",
+            "Fully_priced_in",
+            "Rise from 1.5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Household consumption",
+            "CONCEPT",
+            "Expanded",
+            "Slowest pace since 2008",
+            "TIME"
+        ],
+        [
+            "Diana Mousina",
+            "PERSON",
+            "Senior economist",
+            "AMP Capital",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Set_up_shop",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Expanding",
+            "Offerings",
+            "PRODUCT"
+        ],
+        [
+            "ABS",
+            "ORG",
+            "Measure",
+            "Online sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Online sales",
+            "ECON_INDICATOR",
+            "Surge",
+            "22 percent",
+            "PERCENT"
+        ],
+        [
+            "National Australia Bank",
+            "ORG",
+            "Estimate",
+            "Consumers spent A$24 billion online",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Traditional retailers",
+            "COMP",
+            "Better_December_holiday_season",
+            "First feared",
+            "SENTIMENT"
+        ],
+        [
+            "Survey",
+            "EVENT",
+            "Show",
+            "Improvement in consumer confidence",
+            "CONCEPT"
+        ],
+        [
+            "ANZ and Roy Morgan",
+            "ORG",
+            "Survey",
+            "Consumer confidence",
+            "CONCEPT"
+        ]
+    ]
+}

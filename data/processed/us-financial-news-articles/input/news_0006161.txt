@@ -1,0 +1,12 @@
+Jan 3 (Reuters) - Researchers from Google, academia and cybersecurity firms discovered two flaws in computer chips that affect nearly all modern computers.
+* "Meltdown" is a flaw that affects laptops, desktop computers and internet servers with Intel chips and could let hackers steal data, such as passwords saved in Web browsers. Microsoft Corp, Apple Inc and Linux, the three major operating systems, are all issuing updates, though the Apple and Microsoft have not said precisely when.
+* "Spectre" affects chips in smartphones and tablets, as well as computer chips from Intel and Advanced Micro Devices Inc . Hackers can trick apps into leaking sensitive information.
+* Spectre is less dangerous than Meltdown, but will be more difficult to patch.
+* Consumers should check with their device maker and operating system provider for security updates and install them as soon as possible.
+* Alphabet Inc's Google said Android phones with the most recent security updates are protected, and users of popular web services like Gmail are also safe. Chromebook users on older versions will need to install an update whose release date has not been set. Chrome web browser users are expected to receive a patch Jan. 23.
+* Researchers say an update is in the work for Apple laptops and desktops, but it is not yet clear whether the company's iPhones and iPads are at risk.
+* Major cloud services aimed at business customers - including Amazon Web Services, Google Cloud Platform and Microsoft Azure - say they have already patched most of their services and will fix the rest soon.
+For more information:
+* Google's security blog: http://bit.ly/2qiRQJn 
+* Amazon Web Services: http://amzn.to/2EPHzaZ 
+(Reporting by Stephen Nellis, Salvador Rodriguez and Paresh Dave in San Francisco; Editing by Lisa Shumaker)

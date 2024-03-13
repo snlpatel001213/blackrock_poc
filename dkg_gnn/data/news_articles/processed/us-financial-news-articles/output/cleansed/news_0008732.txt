@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Aberdeen Singapore Fund, Inc.",
+            "COMP",
+            "Announce",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Aberdeen Singapore Fund, Inc.",
+            "COMP",
+            "Operate_In",
+            "Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Relate_To",
+            "Fund",
+            "COMP"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Has",
+            "Investment Return",
+            "CONCEPT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Has",
+            "Principal Value",
+            "CONCEPT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Impact",
+            "Investor",
+            "PERSON"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Participates_In",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Has",
+            "Shares",
+            "COMP"
+        ],
+        [
+            "Shares",
+            "COMP",
+            "Trade",
+            "Premium",
+            "CONCEPT"
+        ],
+        [
+            "Shares",
+            "COMP",
+            "Trade",
+            "Discount",
+            "CONCEPT"
+        ],
+        [
+            "NAV",
+            "CONCEPT",
+            "Belong_To",
+            "Fund",
+            "COMP"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Has",
+            "Objective",
+            "CONCEPT"
+        ]
+    ]
+}

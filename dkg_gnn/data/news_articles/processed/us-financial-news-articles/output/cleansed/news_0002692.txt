@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Banner Corp",
+            "ORG",
+            "Announce",
+            "Write Down Of Deferred Tax Asset And Balance Sheet Restructuring",
+            "EVENT"
+        ],
+        [
+            "Banner Corp",
+            "ORG",
+            "Control",
+            "Year End Assets Of Less Than $10 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Banner Corp",
+            "ORG",
+            "Relate_To",
+            "Tax Cuts And Job Act",
+            "EVENT"
+        ],
+        [
+            "Banner Corp",
+            "ORG",
+            "Impact",
+            "One-Time Net Tax Charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Banner Corp",
+            "ORG",
+            "Sell",
+            "Approximately $450 Million Of Investment Securities",
+            "PRODUCT"
+        ],
+        [
+            "Banner Corp",
+            "ORG",
+            "Anticipate",
+            "Blended Effective Federal & State Tax Rate",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

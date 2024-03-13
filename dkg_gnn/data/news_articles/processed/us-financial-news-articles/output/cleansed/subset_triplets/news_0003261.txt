@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "The Wall Street Journal",
+            "ORG",
+            "Produce",
+            "News",
+            "PRODUCT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Government",
+            "ORG"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Participates_In",
+            "Government",
+            "ORG"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Relate_To",
+            "Moderates",
+            "SECTOR"
+        ],
+        [
+            "September",
+            "EVENT",
+            "Relate_To",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Impact",
+            "Iran",
+            "GPE"
+        ]
+    ]
+}

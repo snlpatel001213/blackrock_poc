@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Altus Towarzystwo Funduszy Inwestycyjnych SA",
+            "ORG",
+            "Sign",
+            "Agreement",
+            "OTHER"
+        ],
+        [
+            "Altus Towarzystwo Funduszy Inwestycyjnych SA",
+            "ORG",
+            "Transfer",
+            "Management",
+            "OTHER"
+        ],
+        [
+            "Altus 59 Fundusz Inwestycyjny Zamkni\u0119ty Fund",
+            "PRODUCT",
+            "Transfer",
+            "Management",
+            "OTHER"
+        ],
+        [
+            "Saturn Towarzystwo Funduszy Inwestycyjnych SA",
+            "ORG",
+            "Receive",
+            "Transfer",
+            "OTHER"
+        ],
+        [
+            "Saturn Towarzystwo Funduszy Inwestycyjnych SA",
+            "ORG",
+            "Control",
+            "Altus 59 Fundusz Inwestycyjny Zamkni\u0119ty Fund",
+            "PRODUCT"
+        ]
+    ]
+}

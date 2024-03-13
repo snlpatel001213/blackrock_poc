@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Nordstrom Inc.\u2019s Rack",
+            "COMP",
+            "Has",
+            "president",
+            "PERSON"
+        ],
+        [
+            "president",
+            "PERSON",
+            "Retire",
+            null,
+            null
+        ],
+        [
+            "Nordstrom Inc.\u2019s Rack",
+            "COMP",
+            "Operate_In",
+            "Retail sector",
+            "SECTOR"
+        ],
+        [
+            "president",
+            "PERSON",
+            "Is_Member_Of",
+            "Nordstrom Inc.\u2019s Rack",
+            "COMP"
+        ],
+        [
+            "Karen McKibbin",
+            "PERSON",
+            "Succeeded_By",
+            "Geevy Thomas",
+            "PERSON"
+        ],
+        [
+            "Geevy Thomas",
+            "PERSON",
+            "Participates_In",
+            "Nordstrom Inc.\u2019s Rack",
+            "COMP"
+        ],
+        [
+            "Geevy Thomas",
+            "PERSON",
+            "Control",
+            "Chief Innovation Officer",
+            "POSITION"
+        ],
+        [
+            "Nordstrom Inc.\u2019s Rack",
+            "COMP",
+            "Relate_To",
+            "Growth",
+            "CONCEPT"
+        ]
+    ]
+}

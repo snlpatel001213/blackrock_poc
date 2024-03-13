@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "FTSE 100",
+            "FIN_INSTRUMENT",
+            "Up",
+            0.45,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Positive_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Positive_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sainsbury",
+            "COMP",
+            "Positive_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Debenhams",
+            "COMP",
+            "Negative_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mothercare",
+            "COMP",
+            "Negative_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Utilities",
+            "SECTOR",
+            "Negative_Impact_On",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Persimmon",
+            "COMP",
+            "Decrease",
+            "Share Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Micro Focus",
+            "COMP",
+            "Raise",
+            "Share Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Hewlett Packard Enterprise",
+            "COMP",
+            "Relate_To",
+            "Micro Focus",
+            "COMP"
+        ]
+    ]
+}

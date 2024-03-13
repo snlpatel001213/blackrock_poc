@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Avenue Therapeutics Inc.",
+            "COMP",
+            "Announce",
+            "Dosing of First Patient in Phase 3 Safety Trial of IV Tramadol",
+            "EVENT"
+        ],
+        [
+            "Avenue Therapeutics Inc.",
+            "COMP",
+            "Control",
+            "IV Tramadol",
+            "PRODUCT"
+        ],
+        [
+            "IV Tramadol",
+            "PRODUCT",
+            "Relate_To",
+            "Management of Postoperative Pain",
+            "CONCEPT"
+        ]
+    ]
+}

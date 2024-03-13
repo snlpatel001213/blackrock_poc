@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Produce",
+            "Sedans",
+            "PRODUCT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Negative_Impact_On",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

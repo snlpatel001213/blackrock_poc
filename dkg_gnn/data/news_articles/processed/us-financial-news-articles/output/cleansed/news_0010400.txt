@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "Skywest Inc",
+            "COMP",
+            "Report",
+            "Combined December 2017 Traffic",
+            "EVENT"
+        ],
+        [
+            "Skywest Inc",
+            "COMP",
+            "Operate_In",
+            "Aviation Industry",
+            "SECTOR"
+        ],
+        [
+            "Skywest Inc",
+            "COMP",
+            "Reported",
+            "151,437 Block Hours",
+            "ECON_INDICATOR",
+            "in",
+            "December 2017",
+            "GPE"
+        ],
+        [
+            "Skywest Inc",
+            "COMP",
+            "Decrease",
+            "5,351 Block Hours",
+            "ECON_INDICATOR",
+            "from",
+            "December 2016",
+            "GPE"
+        ],
+        [
+            "Skywest Inc",
+            "COMP",
+            "Load Factor",
+            "80.9 Percent",
+            "ECON_INDICATOR",
+            "in",
+            "December 2017",
+            "GPE"
+        ],
+        [
+            "Skywest Inc",
+            "COMP",
+            "Decrease",
+            "0.4 Pct Points",
+            "ECON_INDICATOR",
+            "from",
+            "December 2016",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Ahold Delhaize",
+            "ORG",
+            "Has",
+            "1,799,547",
+            "ECON_INDICATOR"
+        ],
+        [
+            "1,799,547",
+            "ECON_INDICATOR",
+            "Raise",
+            "\u20ac33.1 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ahold Delhaize",
+            "ORG",
+            "Announce",
+            "\u20ac2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ahold Delhaize",
+            "ORG",
+            "Operate_In",
+            "The Netherlands",
+            "GPE"
+        ],
+        [
+            "Ahold Delhaize",
+            "ORG",
+            "Issue",
+            "Press Release",
+            "PRODUCT"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Relate_To",
+            "EU Regulation",
+            "CONCEPT"
+        ]
+    ]
+}

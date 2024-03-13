@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Invests_In",
+            "Natural Gas Rally",
+            "EVENT"
+        ],
+        [
+            "Natural Gas",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Natural Gas",
+            "CONCEPT",
+            "Decrease",
+            "21%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Natural Gas",
+            "CONCEPT",
+            "Relate_To",
+            "Gas-Fired Power Plants",
+            "COMP"
+        ],
+        [
+            "Natural Gas",
+            "CONCEPT",
+            "Relate_To",
+            "Record Exports",
+            "EVENT"
+        ],
+        [
+            "Gas-Fired Power Plants",
+            "COMP",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Record Exports",
+            "EVENT",
+            "Operate_In",
+            "Global Trade Sector",
+            "SECTOR"
+        ]
+    ]
+}

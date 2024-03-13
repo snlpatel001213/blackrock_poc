@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Radius Health",
+            "ORG",
+            "Announce",
+            "Elhan Webb",
+            "PERSON"
+        ],
+        [
+            "Elhan Webb",
+            "PERSON",
+            "Has",
+            "CFA\u00ae charterholder",
+            "CONCEPT"
+        ],
+        [
+            "Roche Diagnostics",
+            "ORG",
+            "Is_Member_Of",
+            "Roche Group",
+            "ORG"
+        ],
+        [
+            "Radius Health",
+            "ORG",
+            "Operate_In",
+            "Biopharmaceutical Company",
+            "ORG"
+        ]
+    ]
+}

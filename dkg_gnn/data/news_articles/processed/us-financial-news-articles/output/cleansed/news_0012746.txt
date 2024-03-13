@@ -1,0 +1,143 @@
+{
+    "output": [
+        [
+            "Shire",
+            "ORG",
+            "Create",
+            "Two Distinct Business Units",
+            "ORG"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Considering",
+            "Spin Off",
+            "ORG"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Relate_To",
+            "Spin Off",
+            "ORG"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Group",
+            "ORG"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Acquire",
+            "Baxalta",
+            "ORG"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Decrease",
+            "$20 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Ambition",
+            "Achieving",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Forecast",
+            "2020",
+            "DATE"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Make",
+            "Attention Deficit Hyperactivity Disorder (ADHD)",
+            "CONCEPT"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Make",
+            "Vyvanse",
+            "PRODUCT"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Say",
+            "Could Be Worth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Standalone Group",
+            "ORG"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Relate_To",
+            "Spin Off",
+            "ORG"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Relate_To",
+            "Standalone Group",
+            "ORG"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Relate_To",
+            "Worth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyperactivity Drugs",
+            "PRODUCT",
+            "Relate_To",
+            "As Much As",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Paul Sandle",
+            "PERSON",
+            "Reporting",
+            "London",
+            "GPE"
+        ],
+        [
+            "Paul Sandle",
+            "PERSON",
+            "Reporting",
+            "Listed Pharmaceutical Group",
+            "ORG"
+        ],
+        [
+            "Kate Holton",
+            "PERSON",
+            "Editing",
+            "London",
+            "GPE"
+        ],
+        [
+            "Kate Holton",
+            "PERSON",
+            "Editing",
+            "Listed Pharmaceutical Group",
+            "ORG"
+        ]
+    ]
+}

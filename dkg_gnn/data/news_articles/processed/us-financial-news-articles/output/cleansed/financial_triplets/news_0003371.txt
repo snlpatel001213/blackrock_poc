@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "WASHINGTON",
+            "GPE",
+            "Announce",
+            "CFTC",
+            "ORG/REG"
+        ],
+        [
+            "Meetings",
+            "EVENT",
+            "Relate_To",
+            "Review Process",
+            "CONCEPT"
+        ],
+        [
+            "Review Process",
+            "CONCEPT",
+            "Relate_To",
+            "Allowing Futures",
+            "CONCEPT"
+        ]
+    ]
+}

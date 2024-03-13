@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mischa Zverev",
+            "PERSON",
+            "Operate_In",
+            "Brisbane",
+            "GPE"
+        ],
+        [
+            "Winner of Tuesday\u2019s match",
+            "PERSON",
+            "Participates_In",
+            "Tennis match",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Has",
+            "Great serve",
+            "CONCEPT"
+        ]
+    ]
+}

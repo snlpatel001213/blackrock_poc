@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Locate",
+            "Mudslides",
+            "EVENT"
+        ],
+        [
+            "Mudslides",
+            "EVENT",
+            "Negative_Impact_On",
+            "People",
+            "PERSON"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Number",
+            5,
+            "ECON_INDICATOR"
+        ]
+    ]
+}

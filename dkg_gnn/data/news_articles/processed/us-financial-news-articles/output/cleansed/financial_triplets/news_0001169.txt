@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Top business schools",
+            "ORG",
+            "Participates_In",
+            "Subsidizing Cost",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-year master\u2019s degrees in business administration",
+            "PRODUCT",
+            "Has",
+            "MBA",
+            "PRODUCT"
+        ],
+        [
+            "Young professionals",
+            "PERSON",
+            "Participates_In",
+            "Strengthening Job Market",
+            "SECTOR"
+        ],
+        [
+            "New technology",
+            "CONCEPT",
+            "Relate_To",
+            "Online Environment",
+            "CONCEPT"
+        ]
+    ]
+}

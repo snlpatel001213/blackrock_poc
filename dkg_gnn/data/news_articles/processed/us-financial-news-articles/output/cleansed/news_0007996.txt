@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "Dialogic Corporation",
+            "ORG",
+            "Has",
+            "Converged Communication Division",
+            "ORG/REG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Operate_In",
+            "Unified Communications",
+            "CONCEPT"
+        ],
+        [
+            "Dialogic Corporation",
+            "ORG",
+            "Operate_In",
+            "Communication Industry",
+            "SECTOR"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Acquire",
+            "Key Assets",
+            "ORG"
+        ],
+        [
+            "Converged Communication Division",
+            "ORG/REG",
+            "Has",
+            "Gateways",
+            "PRODUCT"
+        ],
+        [
+            "Converged Communication Division",
+            "ORG/REG",
+            "Has",
+            "Interface Boards",
+            "PRODUCT"
+        ],
+        [
+            "Converged Communication Division",
+            "ORG/REG",
+            "Has",
+            "Recurring Services Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Employees",
+            "PERSON"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Customers",
+            "GPE"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Channel Partners",
+            "ORG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Supply Chain Capabilities",
+            "PRODUCT"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Complementary Products",
+            "PRODUCT"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Increase Profitability",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Enterprise Customers",
+            "GPE"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add Service Provider Customers",
+            "GPE"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Add OEM Customers",
+            "GPE"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Expect",
+            "Expand Operations",
+            "CONCEPT"
+        ],
+        [
+            "CCD product lines",
+            "PRODUCT",
+            "Will Become",
+            "Integral Part",
+            "PRODUCT"
+        ],
+        [
+            "Jim Machi",
+            "PERSON",
+            "Join",
+            "Sangoma",
+            "COMP"
+        ],
+        [
+            "Jim Machi",
+            "PERSON",
+            "Will Lead",
+            "Division",
+            "ORG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Acquire",
+            "Assets",
+            "ORG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Pay",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Extend",
+            "Borrowing Capability",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Consolidate",
+            "Results",
+            "ORG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Provide",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "INFOR Financial Inc.",
+            "ORG",
+            "Act",
+            "Advisor",
+            "PRODUCT"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Discuss",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "Sangoma Technologies Corporation",
+            "COMP",
+            "Traded",
+            "TSX Venture Exchange",
+            "EXCH"
+        ],
+        [
+            "Dialogic",
+            "ORG",
+            "Leader",
+            "Cloud Optimized Solutions",
+            "PRODUCT"
+        ]
+    ]
+}

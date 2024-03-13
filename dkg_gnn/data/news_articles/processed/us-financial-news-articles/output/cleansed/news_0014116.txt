@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Time Warner",
+            "COMP",
+            "Buy",
+            "America Online",
+            "COMP"
+        ],
+        [
+            "Time Warner",
+            "COMP",
+            "Operate_In",
+            "Year 2000",
+            "GPE"
+        ],
+        [
+            "America Online",
+            "COMP",
+            "Be_Bought_By",
+            "Time Warner",
+            "COMP"
+        ],
+        [
+            "America Online",
+            "COMP",
+            "Operate_In",
+            "Year 2000",
+            "GPE"
+        ]
+    ]
+}

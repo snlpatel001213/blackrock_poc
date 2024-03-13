@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Canadian M&A",
+            "ECON_INDICATOR",
+            "Decrease",
+            "2017",
+            "GPE"
+        ],
+        [
+            "Rising equity markets",
+            "CONCEPT",
+            "Impact",
+            "Canadian M&A",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Clarity on U.S. tax reform",
+            "CONCEPT",
+            "Impact",
+            "Canadian M&A",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. tax system",
+            "CONCEPT",
+            "Relate_To",
+            "U.S. tax reform",
+            "CONCEPT"
+        ],
+        [
+            "U.S. corporate income tax rate",
+            "ECON_INDICATOR",
+            "Control",
+            "U.S. tax system",
+            "CONCEPT"
+        ],
+        [
+            "Healthy economies",
+            "CONCEPT",
+            "Has",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Healthy economies",
+            "CONCEPT",
+            "Has",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Negotiations over renewal",
+            "CONCEPT",
+            "Relate_To",
+            "NAFTA",
+            "CONCEPT"
+        ]
+    ]
+}

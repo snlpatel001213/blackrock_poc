@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "ReWalk Robotics",
+            "COMP",
+            "Appoint",
+            "Ori Gon",
+            "PERSON"
+        ],
+        [
+            "Ori Gon",
+            "PERSON",
+            "Succeeds",
+            "Kevin Hershberger",
+            "PERSON"
+        ],
+        [
+            "ReWalk Robotics",
+            "COMP",
+            "Appoint",
+            "Ori Gon",
+            "PERSON",
+            "as",
+            "CFO",
+            "COMP"
+        ]
+    ]
+}

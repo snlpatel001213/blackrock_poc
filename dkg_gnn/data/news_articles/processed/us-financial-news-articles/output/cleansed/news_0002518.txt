@@ -1,0 +1,184 @@
+{
+    "output": [
+        [
+            "Abbott",
+            "PERSON",
+            "Raise",
+            "Abbott Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "J.P. Morgan Chase",
+            "ORG",
+            "Upgrade",
+            "Abbott",
+            "PERSON"
+        ],
+        [
+            "J.P. Morgan Chase",
+            "ORG",
+            "Raise",
+            "Price Target",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Operate_In",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "FreeStyle Libre",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "Alinity Family",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "HeartMate 3",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "Confirm Rx",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Introduce",
+            "MRI-compatible ICDs",
+            "PRODUCT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Abbott Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Relate_To",
+            "Glucose Monitoring",
+            "CONCEPT"
+        ],
+        [
+            "FreeStyle Libre",
+            "PRODUCT",
+            "Has",
+            "No Fingerpricks",
+            "CONCEPT"
+        ],
+        [
+            "Rival Dexcom",
+            "ORG",
+            "Introduce",
+            "Sensor",
+            "PRODUCT"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Expect",
+            "$550M",
+            "ECON_INDICATOR",
+            "In",
+            "2017"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Expect",
+            "$1.5B",
+            "ECON_INDICATOR",
+            "In",
+            "2022"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Expect",
+            "$68M",
+            "ECON_INDICATOR",
+            "In",
+            "2018"
+        ],
+        [
+            "Abbott",
+            "PERSON",
+            "Expect",
+            "Organic Growth",
+            "CONCEPT",
+            "Of",
+            "5.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Expect",
+            "Sales",
+            "CONCEPT",
+            "Of",
+            "$30.51B",
+            "ECON_INDICATOR",
+            "In",
+            "2022"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Expect",
+            "Big Discrepancies",
+            "CONCEPT",
+            "In",
+            "Diabetes",
+            "SECTOR"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Expect",
+            "Big Discrepancies",
+            "CONCEPT",
+            "In",
+            "Electrophysiology",
+            "SECTOR"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Expect",
+            "Big Discrepancies",
+            "CONCEPT",
+            "In",
+            "Heart Failure",
+            "SECTOR"
+        ],
+        [
+            "Analyst Michael Weinstein",
+            "PERSON",
+            "Model",
+            "Double-Digit CAGRs",
+            "CONCEPT",
+            "Through",
+            "End of Decade",
+            "CONCEPT"
+        ]
+    ]
+}

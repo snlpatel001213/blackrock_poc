@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Fitch",
+            "ORG/REG",
+            "Reiterate",
+            "U.S. Downgrade Warning",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Could_Lose",
+            "Triple-A Credit Rating",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Congress",
+            "ORG/GOV",
+            "Does_Not_Raise",
+            "Borrowing Limit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Treasury Department",
+            "ORG/GOV",
+            "Exhaust",
+            "Borrowing Options",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Run_Dry",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Congress",
+            "ORG/GOV",
+            "Does_Not_Meet",
+            "Domestic Obligations",
+            "CONCEPT"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Maintains",
+            "Top Credit Rating",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Moody\u2019s Investors Service",
+            "ORG/REG",
+            "Maintains",
+            "Top Credit Rating",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Standard & Poor\u2019s",
+            "ORG/REG",
+            "Stripped",
+            "Highest Rating",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Keeps",
+            "AA+ Grade",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

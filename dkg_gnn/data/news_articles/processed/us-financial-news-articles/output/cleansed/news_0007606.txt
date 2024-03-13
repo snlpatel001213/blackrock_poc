@@ -1,0 +1,250 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Lead",
+            "Minority Government",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Deliver",
+            "Britain Exit from EU",
+            "ORG/REG"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Under Pressure",
+            "Deliver Domestic Policy",
+            "SECTOR"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Force",
+            "Damian Green",
+            "PERSON",
+            "Resign"
+        ],
+        [
+            "Damian Green",
+            "PERSON",
+            "Make",
+            "Misleading Statements",
+            "CONCEPT"
+        ],
+        [
+            "Damian Green",
+            "PERSON",
+            "Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Tell",
+            "BBC",
+            "ORG",
+            "Interview"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Make",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Announce",
+            "Reshuffle",
+            "CONCEPT"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Not Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Philip Hammond",
+            "PERSON",
+            "Not Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Amber Rudd",
+            "PERSON",
+            "Not Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "David Davis",
+            "PERSON",
+            "Not Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Announce",
+            "First Secretary of State",
+            "COMP",
+            "Replace",
+            "Damian Green",
+            "PERSON"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Bring",
+            "Younger Women",
+            "PERSON",
+            "Non-white Lawmakers",
+            "PERSON",
+            "Cabinet",
+            "COMP"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Abandon",
+            "Plans",
+            "CONCEPT",
+            "Give",
+            "Lawmakers",
+            "CONCEPT",
+            "Vote",
+            "CONCEPT",
+            "Overturn",
+            "Ban",
+            "Fox Hunting",
+            "CONCEPT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Earn",
+            "Plaudits",
+            "CONCEPT",
+            "Europe",
+            "GPE",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Government",
+            "Criticized",
+            "CONCEPT",
+            "Rising Rail Fares",
+            "CONCEPT",
+            "Postponed Hospital Operations",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Run",
+            "Neck and Neck",
+            "CONCEPT",
+            "Labour Party",
+            "ORG",
+            "Opinion Polls",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Split",
+            "Differences",
+            "CONCEPT",
+            "Relationship",
+            "Britain",
+            "GPE",
+            "Seek",
+            "CONCEPT",
+            "EU",
+            "GPE",
+            "After",
+            "Leave",
+            "CONCEPT",
+            "EU",
+            "GPE",
+            "2019",
+            "TIME"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Expect",
+            "Ministers",
+            "PERSON",
+            "Lose",
+            "Job",
+            "COMP",
+            "Move",
+            "Different Roles",
+            "COMP"
+        ],
+        [
+            "Patrick McLoughlin",
+            "PERSON",
+            "Minister",
+            "COMP",
+            "Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Justine Greening",
+            "PERSON",
+            "Education",
+            "COMP",
+            "Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Greg Clark",
+            "PERSON",
+            "Business",
+            "COMP",
+            "Lose",
+            "Job",
+            "COMP"
+        ],
+        [
+            "Andrea Leadsom",
+            "PERSON",
+            "Government",
+            "COMP",
+            "Leader",
+            "COMP",
+            "Lower House",
+            "COMP",
+            "Parliament",
+            "ORG"
+        ],
+        [
+            "Sunday Times",
+            "ORG",
+            "Report",
+            "Changes",
+            "CONCEPT",
+            "Not Cite",
+            "Sources",
+            "CONCEPT"
+        ]
+    ]
+}

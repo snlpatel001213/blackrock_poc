@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Win",
+            "Adelboden\u2019s Chuenisbaegli mountain",
+            "GPE"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Win",
+            "giant slalom",
+            "EVENT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Win",
+            "slalom",
+            "EVENT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Operate_In",
+            "Alpine skiing",
+            "SECTOR"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Has",
+            "7 World Cup races win",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Has",
+            "52 career tally",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Control",
+            "7 successive overall World Cup title",
+            "CONCEPT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Participates_In",
+            "Pyeongchang Olympic Games",
+            "EVENT"
+        ],
+        [
+            "Marcel Hirscher",
+            "PERSON",
+            "Lead",
+            "874 points in the overall World Cup standings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Compete",
+            "slalom",
+            "EVENT"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Compete",
+            "Adelboden\u2019s Chuenisbaegli mountain",
+            "GPE"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Compete",
+            "Austrian Marcel Hirscher",
+            "PERSON"
+        ],
+        [
+            "Michael Matt",
+            "PERSON",
+            "Compete",
+            "Henrik Kristoffersen",
+            "PERSON"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Compete",
+            "slalom",
+            "EVENT"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Compete",
+            "Adelboden\u2019s Chuenisbaegli mountain",
+            "GPE"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Compete",
+            "Austrian Marcel Hirscher",
+            "PERSON"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Compete",
+            "Michael Matt",
+            "PERSON"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Has",
+            "6 runner-up in races this season",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Has",
+            "0.13 seconds behind",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henrik Kristoffersen",
+            "PERSON",
+            "Has",
+            "1.51.10 seconds overall time",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alexis Pinturault",
+            "PERSON",
+            "Compete",
+            "overall World Cup standings",
+            "CONCEPT"
+        ],
+        [
+            "Alexis Pinturault",
+            "PERSON",
+            "Has",
+            "547 points",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

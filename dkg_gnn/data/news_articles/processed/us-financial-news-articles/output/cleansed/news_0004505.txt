@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Blaster",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Cut_Ties_With",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Have_Nothing_To_Do_With",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Lost_His_Mind",
+            "null",
+            "null"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "To_Blame_For",
+            "Loss_Of_Senate_Seat_In_Alabama",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Values_Loyalty",
+            "Associates_And_Employees",
+            "null"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Express_Derision_And_Astonishment_Over",
+            "Meeting_In_Trump_Tower",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Call_Meeting_Treasonous",
+            "null",
+            "null"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Call_Meeting_Unpatriotic",
+            "null",
+            "null"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Sure_That_Trump_Jr_Would_Take_Russians_To_Meet_His_Father",
+            "null",
+            "null"
+        ],
+        [
+            "Three_Senior_Guys_In_The_Campaign",
+            "null",
+            "Thought_It_Was_A_Good_Idea_To_Meet_With_Foreign_Government",
+            "null",
+            "null"
+        ],
+        [
+            "Trump_Tower",
+            "GPE",
+            "Located_In",
+            "New_York",
+            "GPE"
+        ],
+        [
+            "Trump_Tower",
+            "GPE",
+            "Has_Conference_Room_On_25th_Floor",
+            "null",
+            "null"
+        ],
+        [
+            "Intermediary",
+            "null",
+            "Proposed_Meeting",
+            "null",
+            "null"
+        ],
+        [
+            "Trump_Jr",
+            "PERSON",
+            "Responded_Email_Love_It",
+            "null",
+            "null"
+        ],
+        [
+            "Steve_Bannon",
+            "PERSON",
+            "Incredulous_About_Meeting",
+            "null",
+            "null"
+        ],
+        [
+            "Steve_Bannon",
+            "PERSON",
+            "Concluding_Sarcastically",
+            "Brain_Trust_They_Had",
+            "null"
+        ]
+    ]
+}

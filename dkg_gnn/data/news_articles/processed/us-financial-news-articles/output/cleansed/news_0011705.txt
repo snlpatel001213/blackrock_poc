@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Agree",
+            "Pay",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Settle",
+            "Class-action Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Accused",
+            "Drivers",
+            "PERSON"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Include",
+            "Sales Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Include",
+            "Black Car Fund Fee",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Calculate",
+            "Service Fees",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Advertise",
+            "Guaranteed Compensation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Deny",
+            "Allegations",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Settle",
+            "Avoid",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Admit",
+            "Underpay Drivers",
+            "CONCEPT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Misclassify",
+            "Drivers",
+            "PERSON"
+        ],
+        [
+            "Drivers",
+            "PERSON",
+            "Collect",
+            "Fees",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Dismiss",
+            "Claims",
+            "CONCEPT"
+        ]
+    ]
+}

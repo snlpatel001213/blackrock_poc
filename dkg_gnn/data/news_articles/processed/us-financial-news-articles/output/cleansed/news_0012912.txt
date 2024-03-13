@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Sebastien Loeb",
+            "PERSON",
+            "Withdraw",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Lead",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Sebastien Loeb",
+            "PERSON",
+            "Operate_In",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Operate_In",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Carlos Sainz",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Bernhard Ten Brinke",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Adrien van Beveren",
+            "PERSON",
+            "Lead",
+            "Bikes Category",
+            "SECTOR"
+        ],
+        [
+            "Joan Barreda",
+            "PERSON",
+            "Win",
+            "Stage",
+            "EVENT"
+        ],
+        [
+            "Adrien van Beveren",
+            "PERSON",
+            "Operate_In",
+            "Yamaha",
+            "COMP"
+        ],
+        [
+            "Kevin Benevides",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Move",
+            "Peru-Bolivia-Argentina",
+            "GPE"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Stage",
+            "Pisco to San Juan de Marcona",
+            "GPE"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Enter",
+            "Bolivia",
+            "GPE"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Enter",
+            "High-altitude Stages",
+            "GPE"
+        ]
+    ]
+}

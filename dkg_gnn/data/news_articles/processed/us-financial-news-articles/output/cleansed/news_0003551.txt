@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Metropolitan Museum of Art",
+            "ORG",
+            "Announce",
+            "Charge Fixed Admission Fee",
+            "CONCEPT"
+        ],
+        [
+            "Metropolitan Museum of Art",
+            "ORG",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "Out-of-state Visitors",
+            "PERSON",
+            "Pay",
+            "Suggested Donation",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Weiss",
+            "PERSON",
+            "Told",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Has",
+            "Three-day Pass",
+            "CONCEPT"
+        ],
+        [
+            "Out-of-state Visitors",
+            "PERSON",
+            "Not",
+            "Members",
+            "CONCEPT"
+        ],
+        [
+            "Out-of-state Visitors",
+            "PERSON",
+            "Not",
+            "Live",
+            "In",
+            "New York State",
+            "GPE"
+        ],
+        [
+            "New Policy",
+            "CONCEPT",
+            "Affect",
+            "About",
+            "31",
+            "PERCENT",
+            "Of",
+            "Visitors",
+            "PERSON"
+        ],
+        [
+            "New Policy",
+            "CONCEPT",
+            "Generate",
+            "Extra",
+            "$5 Million to $11 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Has",
+            "Annual Operating Budget",
+            "OF",
+            "$305 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Home",
+            "To",
+            "Thousands",
+            "OF",
+            "Exhibits",
+            "CONCEPT"
+        ],
+        [
+            "City",
+            "GPE",
+            "Leased",
+            "Land",
+            "To",
+            "Museum",
+            "ORG"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Switch",
+            "To",
+            "Suggested Donations",
+            "CONCEPT"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Update",
+            "Lease",
+            "WITH",
+            "City",
+            "GPE"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Receive",
+            "Neither",
+            "Substantial State Funding",
+            "CONCEPT"
+        ],
+        [
+            "Museum",
+            "ORG",
+            "Nor",
+            "Rely",
+            "On",
+            "Fixed Admission Prices",
+            "CONCEPT"
+        ],
+        [
+            "City",
+            "GPE",
+            "Cover",
+            "Little Less",
+            "Than",
+            "10",
+            "PERCENT",
+            "Of",
+            "Museum",
+            "ORG expenses"
+        ],
+        [
+            "City",
+            "GPE",
+            "May",
+            "Reduce",
+            "Contribution",
+            "TO",
+            "Other",
+            "Cultural Institutions",
+            "ORG"
+        ],
+        [
+            "Donations",
+            "CONCEPT",
+            "At",
+            "Door",
+            "Rise",
+            "To",
+            "16 or 17",
+            "PERCENT",
+            "Under",
+            "New Policy",
+            "CONCEPT"
+        ]
+    ]
+}

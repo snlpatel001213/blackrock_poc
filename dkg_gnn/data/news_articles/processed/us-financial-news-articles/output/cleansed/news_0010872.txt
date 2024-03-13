@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Withdraw",
+            "U.S. Domestic Stock Funds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investment Company Institute (ICI)",
+            "ORG",
+            "Release",
+            "Data",
+            "DATA"
+        ],
+        [
+            "U.S. Domestic Stock Funds",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Withdrawal",
+            "EVENT"
+        ],
+        [
+            "Jeremy Grantham",
+            "PERSON",
+            "Assert",
+            "Market is in a \u201cmelt-up\u201d",
+            "EVENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Has",
+            "More than tripled since its 2009 low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Scott Wren",
+            "PERSON",
+            "Say",
+            "Bull market was born on pessimism",
+            "EVENT"
+        ],
+        [
+            "Wells Fargo & Co\u2019s Investment Institute",
+            "ORG",
+            "Has",
+            "Note on Wednesday",
+            "EVENT"
+        ],
+        [
+            "Bull Market",
+            "CONCEPT",
+            "Move",
+            "Toward a general feeling of optimism",
+            "EVENT"
+        ],
+        [
+            "Funds focused on equities outside the United States",
+            "FIN_INSTRUMENT",
+            "Attract",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "World Stock Funds",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Inflows",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.-based bond fund",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Net inflows",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Long-dated Treasuries",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Yield spike",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices",
+            "CONCEPT",
+            "Push",
+            "Down sharply",
+            "EVENT"
+        ],
+        [
+            "U.S.-based bond fund",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Net inflows",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ICI data",
+            "ORG",
+            "Does not include",
+            "Fund inflows or withdrawals",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "UFT Charter School",
+            "ORG",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "UFT Charter School",
+            "ORG",
+            "Run_By",
+            "United Federation of Teachers",
+            "ORG"
+        ],
+        [
+            "UFT Charter School",
+            "ORG",
+            "Has",
+            "3%",
+            "ECON_INDICATOR",
+            "English-language learners",
+            "CONCEPT"
+        ],
+        [
+            "Traditional public schools",
+            "ORG",
+            "In_Area",
+            "UFT Charter School",
+            "ORG",
+            "Has",
+            "12%",
+            "ECON_INDICATOR",
+            "English-language learners",
+            "CONCEPT"
+        ],
+        [
+            "UFT Charter School",
+            "ORG",
+            "Has",
+            "8%",
+            "ECON_INDICATOR",
+            "Students with disabilities",
+            "CONCEPT"
+        ],
+        [
+            "Traditional public schools",
+            "ORG",
+            "In_Area",
+            "UFT Charter School",
+            "ORG",
+            "Relate_To",
+            "Students with disabilities",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Awards",
+            "CONCEPT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "Chris Witherspoon",
+            "PERSON",
+            "Participates_In",
+            "Fandango",
+            "ORG"
+        ],
+        [
+            "Fandango",
+            "ORG",
+            "Discusses",
+            "Box Office Boost",
+            "CONCEPT"
+        ],
+        [
+            "Box Office Boost",
+            "CONCEPT",
+            "Impact",
+            "Golden Globes Winners",
+            "EVENT"
+        ],
+        [
+            "#MeToo Movement",
+            "CONCEPT",
+            "Participates_In",
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "Traditional Media",
+            "CONCEPT",
+            "Relate_To",
+            "New Media",
+            "CONCEPT"
+        ],
+        [
+            "Hollywood",
+            "GPE",
+            "Operate_In",
+            "Entertainment Industry",
+            "SECTOR"
+        ]
+    ]
+}

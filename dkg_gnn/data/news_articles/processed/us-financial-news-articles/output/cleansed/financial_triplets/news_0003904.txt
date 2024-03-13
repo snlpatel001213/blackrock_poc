@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "President",
+            "PERSON"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Has",
+            "Prime Minister",
+            "PERSON"
+        ],
+        [
+            "2015 Agreement",
+            "EVENT",
+            "Relate_To",
+            "Comfort Women",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear_And_Missile_Development",
+            "CONCEPT"
+        ]
+    ]
+}

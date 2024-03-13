@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Melinta Therapeutics, Inc.",
+            "COMP",
+            "Announce",
+            "Appoint",
+            "PERSON"
+        ],
+        [
+            "Melinta Therapeutics, Inc.",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Lisa DeFrancesco",
+            "PERSON",
+            "Participates_In",
+            "Investor Relations",
+            "ORG"
+        ],
+        [
+            "Lisa DeFrancesco",
+            "PERSON",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Lisa DeFrancesco",
+            "PERSON",
+            "Raise",
+            "Melinta Therapeutics, Inc.",
+            "COMP"
+        ],
+        [
+            "Dan Wechsler",
+            "PERSON",
+            "Control",
+            "Melinta Therapeutics, Inc.",
+            "COMP"
+        ],
+        [
+            "Dan Wechsler",
+            "PERSON",
+            "Relate_To",
+            "Melinta Therapeutics, Inc.",
+            "COMP"
+        ],
+        [
+            "John Bluth",
+            "PERSON",
+            "Relate_To",
+            "Cempra",
+            "COMP"
+        ]
+    ]
+}

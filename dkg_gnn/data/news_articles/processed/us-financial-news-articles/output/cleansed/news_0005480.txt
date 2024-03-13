@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Baptise",
+            "34 infants",
+            "GPE"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Tell",
+            "Mothers",
+            "PERSON"
+        ],
+        [
+            "Mothers",
+            "PERSON",
+            "Feel_free",
+            "Breastfeed",
+            "PERSON"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Make",
+            "Similar_comments",
+            "PERSON"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Face",
+            "Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Bishop_of",
+            "Rome",
+            "GPE"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Restricted",
+            "Papal_baptism",
+            "EVENT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Employee",
+            "Vatican",
+            "ORG"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Employee",
+            "Diocese_of_Rome",
+            "ORG"
+        ]
+    ]
+}

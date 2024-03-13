@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Aramark",
+            "ORG",
+            "Announce",
+            "Aramark Services",
+            "ORG"
+        ],
+        [
+            "Aramark Services",
+            "ORG",
+            "Intend_To",
+            "offer",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aramark Services",
+            "ORG",
+            "Issuer",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aramark Services",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Notes",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Securities Act",
+            "CONCEPT"
+        ],
+        [
+            "Notes",
+            "FIN_INSTRUMENT",
+            "Not_Registered_Under",
+            "Securities Act",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Operate_In",
+            "19_countries",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Recognized_As",
+            "World's_Most_Admired_Companies",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Recognized_As",
+            "employer_of_choice",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Have",
+            "270000_team_members",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Deliver",
+            "experiences",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Focusing_On",
+            "social_responsibility",
+            "CONCEPT"
+        ],
+        [
+            "Aramark",
+            "ORG",
+            "Cautionary_Statements_Regarding",
+            "forward_looking_statements",
+            "CONCEPT"
+        ]
+    ]
+}

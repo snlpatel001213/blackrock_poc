@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Explosion",
+            "EVENT",
+            "Kill",
+            "23",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Injure",
+            "dozens",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Has",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Idlib",
+            "GPE",
+            "Located_In",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Idlib",
+            "GPE",
+            "Experience",
+            "Explosion",
+            "EVENT"
+        ],
+        [
+            "Jillian Kitchener",
+            "PERSON",
+            "Report",
+            "Explosion",
+            "EVENT"
+        ]
+    ]
+}

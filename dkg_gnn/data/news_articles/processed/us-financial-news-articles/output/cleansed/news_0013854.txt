@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Geeya Technology Co Ltd.",
+            "COMP",
+            "Has",
+            "Securities misrepresentation liability disputes lawsuit",
+            "EVENT"
+        ],
+        [
+            "47 individuals",
+            "PERSON",
+            "Participates_In",
+            "Securities misrepresentation liability disputes lawsuit",
+            "EVENT"
+        ],
+        [
+            "Geeya Technology Co Ltd.",
+            "COMP",
+            "Ordered_To",
+            "Pay 1.8 million yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Geeya Technology Co Ltd.",
+            "COMP",
+            "Ordered_To",
+            "Bear lawsuit related costs of 245,183.11 yuan",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

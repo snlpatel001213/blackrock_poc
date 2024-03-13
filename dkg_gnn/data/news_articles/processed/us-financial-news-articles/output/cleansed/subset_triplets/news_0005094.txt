@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "UK",
+            "GPE",
+            "Control",
+            "Car Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Negative_Impact_On",
+            "British Businesses",
+            "ORG"
+        ],
+        [
+            "UK Consumer Confidence",
+            "CONCEPT",
+            "Impact",
+            "Car Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK Consumer Confidence",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Retail Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "IPsoft",
+            "ORG",
+            "Announce",
+            "Anurag Harsh",
+            "PERSON"
+        ],
+        [
+            "Anurag Harsh",
+            "PERSON",
+            "Operate_In",
+            "Technology Industry",
+            "SECTOR"
+        ],
+        [
+            "IPsoft",
+            "ORG",
+            "Control",
+            "Amelia",
+            "PRODUCT"
+        ],
+        [
+            "Amelia",
+            "PRODUCT",
+            "Is_Member_Of",
+            "AI Technology",
+            "CONCEPT"
+        ],
+        [
+            "Anurag Harsh",
+            "PERSON",
+            "Raise",
+            "Understanding of AI",
+            "CONCEPT"
+        ]
+    ]
+}

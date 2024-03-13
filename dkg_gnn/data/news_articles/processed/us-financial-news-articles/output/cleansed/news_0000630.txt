@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Stable",
+            " ",
+            " "
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Introduce",
+            "$60.40",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Not_Far_Off",
+            "June 2015 high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent crude futures",
+            "FIN_INSTRUMENT",
+            "Stable",
+            " ",
+            " "
+        ],
+        [
+            "Brent crude futures",
+            "FIN_INSTRUMENT",
+            "Introduce",
+            "$66.55",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent crude futures",
+            "FIN_INSTRUMENT",
+            "Not_Far_Off",
+            "May 2015 high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil prices",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Strong demand",
+            "CONCEPT"
+        ],
+        [
+            "Oil prices",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "OPEC and Russia",
+            "ORG/GOV"
+        ],
+        [
+            "Markets",
+            "CONCEPT",
+            "Relate_To",
+            "Multiple but temporary supply disruptions",
+            "CONCEPT"
+        ],
+        [
+            "Markets",
+            "CONCEPT",
+            "Relate_To",
+            "Record speculative long bet",
+            "CONCEPT"
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Rise",
+            " ",
+            " "
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Has",
+            "10 million barrel per day target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Increase",
+            "16 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Reach",
+            "9.75 million bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Control",
+            "Output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Pledge",
+            "Reduce output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Achieve",
+            "300,000 bpd reduction",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Output",
+            "10.98 million bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chinese economy",
+            "GPE",
+            "Relate_To",
+            "2018 concerns",
+            "CONCEPT"
+        ],
+        [
+            "Chinese economy",
+            "GPE",
+            "Relate_To",
+            "Lower than expected demand growth",
+            "CONCEPT"
+        ],
+        [
+            "Brent crude",
+            "FIN_INSTRUMENT",
+            "See",
+            "$60 per barrel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WTI",
+            "FIN_INSTRUMENT",
+            "See",
+            "$57 per barrel",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

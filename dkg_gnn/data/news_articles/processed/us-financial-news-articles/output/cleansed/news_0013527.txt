@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Is_Member_Of",
+            "Charles Munger",
+            "PERSON"
+        ],
+        [
+            "Charles Munger",
+            "PERSON",
+            "Announce",
+            "Bubbles",
+            "CONCEPT",
+            "In",
+            "Venture Capital",
+            "SECTOR"
+        ],
+        [
+            "Charles Munger",
+            "PERSON",
+            "Announce",
+            "Bubbles",
+            "CONCEPT",
+            "In",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Control",
+            "Charles Munger",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Energy firms",
+            "ORG",
+            "Increase",
+            "Number of rigs drilling for oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy firms",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Baker Hughes",
+            "ORG",
+            "Announce",
+            "Rig count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baker Hughes",
+            "ORG",
+            "Operate_In",
+            "Energy services",
+            "SECTOR"
+        ],
+        [
+            "Drillers",
+            "ORG",
+            "Add",
+            "87 oil rigs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total count",
+            "ECON_INDICATOR",
+            "Increase_To",
+            "185",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Highest_Level_Since",
+            "March 2017",
+            "TIME"
+        ],
+        [
+            "Drillers",
+            "ORG",
+            "Add",
+            "89 rigs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy firms",
+            "ORG",
+            "Increase",
+            "Number of rigs operating",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy firms",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "U.S. crude prices",
+            "ECON_INDICATOR",
+            "Climb_Over",
+            "$50 a barrel",
+            "MONEY"
+        ],
+        [
+            "Analysts",
+            "ORG",
+            "Said",
+            "Drillers would return to the well pad",
+            "CONCEPT"
+        ],
+        [
+            "U.S. crude futures",
+            "ECON_INDICATOR",
+            "Trade_Around",
+            "$64 a barrel",
+            "MONEY"
+        ],
+        [
+            "Drilling in Canada",
+            "ORG",
+            "Seasonal",
+            null,
+            null
+        ],
+        [
+            "Canadian rig count",
+            "ECON_INDICATOR",
+            "Increase",
+            "In January",
+            "TIME"
+        ],
+        [
+            "Canadian rig count",
+            "ECON_INDICATOR",
+            "Decline",
+            "In the spring",
+            "TIME"
+        ],
+        [
+            "Industry",
+            "ORG",
+            "Calls",
+            "Snow melt",
+            "CONCEPT"
+        ],
+        [
+            "Snow melt",
+            "CONCEPT",
+            "Named",
+            "Spring break up",
+            "CONCEPT"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Jump",
+            "From 52",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "High_For_The_Year",
+            "207",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Fall",
+            "To as low as 24",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Climb",
+            "To 129 rigs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rising crude prices",
+            "ECON_INDICATOR",
+            "Encourage",
+            "Drillers to add rigs",
+            "CONCEPT"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Fall",
+            "To 62",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rig count",
+            "ECON_INDICATOR",
+            "Drop",
+            "During the Christmas break",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Operate_In",
+            "Aerospace Markets",
+            "SECTOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Operate_In",
+            "Telecommunications Markets",
+            "SECTOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Operate_In",
+            "Internet Infrastructure Markets",
+            "SECTOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Operate_In",
+            "Enterprise Markets",
+            "SECTOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Operate_In",
+            "Military Markets",
+            "SECTOR"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Produce",
+            "Advanced Composite Materials",
+            "PRODUCT"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Produce",
+            "Primary and Secondary Structures and Assemblies",
+            "PRODUCT"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Produce",
+            "Low-Volume Tooling",
+            "PRODUCT"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Produce",
+            "High-Technology Digital Printed Circuit Materials",
+            "PRODUCT"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Produce",
+            "RF/Microwave Printed Circuit Materials",
+            "PRODUCT"
+        ],
+        [
+            "Park Electrochemical Corp.",
+            "COMP",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Impact",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

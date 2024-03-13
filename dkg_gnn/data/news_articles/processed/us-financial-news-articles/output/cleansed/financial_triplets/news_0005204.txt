@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "EU",
+            "ORG/GOV",
+            "Has",
+            "Potential",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "ORG/GOV",
+            "Operate_In",
+            "Cuba",
+            "GPE"
+        ],
+        [
+            "Political Dialogue and Cooperation Agreement",
+            "CONCEPT",
+            "Relate_To",
+            "Cooperation",
+            "CONCEPT"
+        ],
+        [
+            "Political Dialogue and Cooperation Agreement",
+            "CONCEPT",
+            "Relate_To",
+            "Trade",
+            "CONCEPT"
+        ],
+        [
+            "Political Dialogue and Cooperation Agreement",
+            "CONCEPT",
+            "Relate_To",
+            "Investment",
+            "CONCEPT"
+        ],
+        [
+            "Political Dialogue and Cooperation Agreement",
+            "CONCEPT",
+            "Relate_To",
+            "Political Dialogue",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "ORG/GOV",
+            "Positive_Impact_On",
+            "Cuba",
+            "GPE"
+        ],
+        [
+            "Cuba",
+            "GPE",
+            "Participates_In",
+            "U.S.-Cuba rapprochement",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Brown & Toland Physicians",
+            "ORG",
+            "Announce",
+            "Kelly Robison",
+            "PERSON"
+        ],
+        [
+            "Brown & Toland Physicians",
+            "ORG",
+            "Operate_In",
+            "San Francisco Bay Area",
+            "GPE"
+        ],
+        [
+            "Optum",
+            "ORG",
+            "Is_Member_Of",
+            "UnitedHealthGroup",
+            "ORG"
+        ]
+    ]
+}

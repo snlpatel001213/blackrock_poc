@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ebix Inc.",
+            "ORG",
+            "Ended",
+            "Bid",
+            "CONCEPT"
+        ],
+        [
+            "Ebix Inc.",
+            "ORG",
+            "Relate_To",
+            "Vara Tech\u2019s Unit",
+            "ORG"
+        ],
+        [
+            "Vara Tech\u2019s Unit",
+            "ORG",
+            "Operate_In",
+            "VARA UNITED PRIVATE LIMITED",
+            "GPE"
+        ],
+        [
+            "Ebix Inc.",
+            "ORG",
+            "Participates_In",
+            "Strategic Consulting JV",
+            "CONCEPT"
+        ]
+    ]
+}

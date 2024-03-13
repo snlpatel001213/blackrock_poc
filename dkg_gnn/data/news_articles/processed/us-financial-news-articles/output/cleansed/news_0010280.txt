@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Select",
+            "Victoria Nuland",
+            "PERSON"
+        ],
+        [
+            "Victoria Nuland",
+            "PERSON",
+            "Has",
+            "Center for a New American Security",
+            "ORG"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Victoria Nuland",
+            "PERSON",
+            "Control",
+            "Center for a New American Security",
+            "ORG"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Has",
+            "Robert O. Work",
+            "PERSON"
+        ],
+        [
+            "Robert O. Work",
+            "PERSON",
+            "Control",
+            "Center for a New American Security",
+            "ORG"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Participates_In",
+            "National Security",
+            "CONCEPT"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Participates_In",
+            "Defense",
+            "CONCEPT"
+        ],
+        [
+            "Victoria Nuland",
+            "PERSON",
+            "Impact",
+            "Center for a New American Security",
+            "ORG"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Positive_Impact_On",
+            "National Security",
+            "CONCEPT"
+        ],
+        [
+            "Center for a New American Security",
+            "ORG",
+            "Positive_Impact_On",
+            "Defense",
+            "CONCEPT"
+        ]
+    ]
+}

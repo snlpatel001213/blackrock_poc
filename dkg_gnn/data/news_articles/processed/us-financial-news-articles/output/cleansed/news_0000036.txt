@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "DOW JONES",
+            "EVENT",
+            "Operate_In",
+            "News Corp",
+            "ORG"
+        ],
+        [
+            "News Corp",
+            "ORG",
+            "Is_Member_Of",
+            "Diversified media",
+            "SECTOR"
+        ],
+        [
+            "News Corp",
+            "ORG",
+            "Is_Member_Of",
+            "News",
+            "SECTOR"
+        ],
+        [
+            "News Corp",
+            "ORG",
+            "Is_Member_Of",
+            "Education",
+            "SECTOR"
+        ],
+        [
+            "News Corp",
+            "ORG",
+            "Is_Member_Of",
+            "Information services",
+            "SECTOR"
+        ]
+    ]
+}

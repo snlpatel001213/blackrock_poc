@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Microchips",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Disclose",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Disclose",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Consumers",
+            "PERSON"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Require",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Expect",
+            "Few Performance Problems",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Report",
+            "Little to No Performance Impact",
+            "CONCEPT"
+        ],
+        [
+            "CERT",
+            "ORG/GOV",
+            "Withdraw",
+            "Recommendation",
+            "CONCEPT"
+        ],
+        [
+            "CERT",
+            "ORG/GOV",
+            "Say",
+            "Operating System Updates Mitigate Attacks",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Discover",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Say",
+            "All CPUs Are Affected",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gruss",
+            "PERSON",
+            "Say",
+            "Software Updates Can Fix Most Problems",
+            "CONCEPT"
+        ],
+        [
+            "Browser Makers",
+            "ORG",
+            "Confirm",
+            "Patches Do Not Protect iOS Users",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Say",
+            "No Known Instances of Hackers Taking Advantage",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Release",
+            "Patch for Safari Web Browser",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Say",
+            "Hundreds of Millions of iPhone and iPad Users May Not Have Secure Means of Web Browsing",
+            "CONCEPT"
+        ]
+    ]
+}

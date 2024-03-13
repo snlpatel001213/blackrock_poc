@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "People's Bank of China",
+            "ORG/GOV"
+        ],
+        [
+            "People's Bank of China",
+            "ORG/GOV",
+            "Relate_To",
+            "Local Governments",
+            "GPE"
+        ],
+        [
+            "Bitcoin Miners",
+            "PERSON",
+            "Produce",
+            "Bitcoins",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoins",
+            "PRODUCT",
+            "Impact",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Is_Member_Of",
+            "World",
+            "GPE"
+        ]
+    ]
+}

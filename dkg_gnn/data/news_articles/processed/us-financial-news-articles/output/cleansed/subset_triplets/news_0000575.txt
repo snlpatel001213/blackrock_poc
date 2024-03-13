@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "U.S. central bank",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "EVENT"
+        ],
+        [
+            "U.S. economy",
+            "GPE",
+            "Relate_To",
+            "FOMC minutes",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Geopolitical uncertainty",
+            "EVENT"
+        ],
+        [
+            "Kim Jong-un",
+            "PERSON",
+            "Relate_To",
+            "Geopolitical uncertainty",
+            "EVENT"
+        ]
+    ]
+}

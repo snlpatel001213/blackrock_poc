@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Great Wall",
+            "GPE",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Fortune Cookies",
+            "PRODUCT",
+            "Invent",
+            "Japanese Man",
+            "PERSON"
+        ],
+        [
+            "Fortune Cookies",
+            "PRODUCT",
+            "Not_Relate_To",
+            "Chinese",
+            "GPE"
+        ],
+        [
+            "Colleague",
+            "PERSON",
+            "From",
+            "Beijing",
+            "GPE"
+        ],
+        [
+            "Colleague",
+            "PERSON",
+            "Confused",
+            "Optimistic Tone",
+            "CONCEPT"
+        ],
+        [
+            "Colleague",
+            "PERSON",
+            "First Visit",
+            "US",
+            "GPE"
+        ]
+    ]
+}

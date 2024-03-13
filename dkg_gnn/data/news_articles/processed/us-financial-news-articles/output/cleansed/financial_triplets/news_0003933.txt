@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Hezbollah",
+            "ORG",
+            "Has",
+            "Nasrallah",
+            "PERSON"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Economic_Discontent",
+            "CONCEPT"
+        ],
+        [
+            "Economic",
+            "CONCEPT",
+            "Relate_To",
+            "Bankruptcy",
+            "CONCEPT"
+        ],
+        [
+            "Bankruptcy",
+            "CONCEPT",
+            "Relate_To",
+            "Banks",
+            "ORG"
+        ],
+        [
+            "Bankruptcy",
+            "CONCEPT",
+            "Relate_To",
+            "Companies",
+            "ORG"
+        ]
+    ]
+}

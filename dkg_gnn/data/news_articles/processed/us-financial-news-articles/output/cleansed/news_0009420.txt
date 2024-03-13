@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iranian foreign ministry",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iran\u2019s nuclear programme",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iran\u2019s Atomic Energy Organization",
+            "ORG"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Operate_In",
+            "UN nuclear watchdog",
+            "ORG"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Operate_In",
+            "International Atomic Energy Agency",
+            "ORG"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "U.S. sanctions on Iran\u2019s oil exports",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "JCPOA",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Nuclear pact",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Nuclear deal",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "October",
+            "TIME"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Mid-January",
+            "TIME"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "World Powers",
+            "ORG",
+            "Control",
+            "Nuclear deal",
+            "CONCEPT"
+        ],
+        [
+            "World Powers",
+            "ORG",
+            "Control",
+            "JCPOA",
+            "CONCEPT"
+        ],
+        [
+            "World Powers",
+            "ORG",
+            "Control",
+            "Nuclear pact",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Is_Member_Of",
+            "World Powers",
+            "ORG"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Is_Member_Of",
+            "World Powers",
+            "ORG"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Is_Member_Of",
+            "World Powers",
+            "ORG"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Is_Member_Of",
+            "World Powers",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Is_Member_Of",
+            "World Powers",
+            "ORG"
+        ],
+        [
+            "Jim Mattis",
+            "PERSON",
+            "Control",
+            "U.S. Defense Secretary",
+            "ORG"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "News",
+            "EVENT"
+        ],
+        [
+            "Bozorgmehr Sharafedin",
+            "PERSON",
+            "Write",
+            "Article",
+            "EVENT"
+        ]
+    ]
+}

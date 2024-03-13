@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "U.S. President",
+            "ORG/GOV"
+        ],
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Ambassador to the United Nations",
+            "ORG/GOV"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Nuclear standoff",
+            "EVENT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Nuclear button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear button",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Impact",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Dismiss",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Bigger nuclear button",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Nuclear policy",
+            "CONCEPT"
+        ],
+        [
+            "Joe Biden",
+            "PERSON",
+            "Criticize",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decrease",
+            "Allies confidence",
+            "CONCEPT"
+        ],
+        [
+            "Haley",
+            "PERSON",
+            "Think",
+            "Trump tweet is good idea",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Keep",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Haley",
+            "PERSON",
+            "Say",
+            "U.S. will not reduce pressure on North Korea",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Can",
+            "Destroy North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Should not",
+            "Dramatize nuclear button",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Can",
+            "Destroy North Korea too",
+            "GPE"
+        ],
+        [
+            "Mike Pompeo",
+            "PERSON",
+            "Is_Member_Of",
+            "CIA Director",
+            "ORG"
+        ],
+        [
+            "Pompeo",
+            "PERSON",
+            "Defend",
+            "Trump nuclear button comment",
+            "CONCEPT"
+        ],
+        [
+            "U.S. policy",
+            "CONCEPT",
+            "Relate_To",
+            "Denuclearization of Korean peninsula",
+            "CONCEPT"
+        ],
+        [
+            "Pompeo",
+            "PERSON",
+            "Believe",
+            "North Korea is few months away from crossing threshold",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Can",
+            "Put U.S. city at risk of nuclear attack",
+            "CONCEPT"
+        ],
+        [
+            "Pompeo",
+            "PERSON",
+            "Reject",
+            "New York Times article",
+            "PRODUCT"
+        ],
+        [
+            "U.S. intelligence agencies",
+            "ORG",
+            "Have",
+            "Understanding of North Korea capabilities and intent",
+            "CONCEPT"
+        ],
+        [
+            "Pompeo",
+            "PERSON",
+            "Assert",
+            "North Korea is being strangled by Trump",
+            "PERSON"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Agree",
+            "Hold official talks soon with South Korea",
+            "GPE"
+        ]
+    ]
+}

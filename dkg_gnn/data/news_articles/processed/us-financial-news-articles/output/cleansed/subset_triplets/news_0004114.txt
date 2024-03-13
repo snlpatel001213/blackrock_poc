@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Announce",
+            "Completed Acquisition",
+            "EVENT"
+        ],
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Operate_In",
+            "Construction Aggregates Industry",
+            "SECTOR"
+        ],
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Has",
+            "Three Granite Quarries",
+            "ORG"
+        ],
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Has",
+            "16 Rail Distribution Yards",
+            "ORG"
+        ],
+        [
+            "Certain Former Holdings",
+            "ORG",
+            "Relate_To",
+            "Operations in Tennessee, Virginia",
+            "GPE"
+        ],
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Invests_In",
+            "Blue Water Industries LLC",
+            "COMP"
+        ],
+        [
+            "Vulcan Materials Company",
+            "COMP",
+            "Has",
+            "Outstanding Employees",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Department stores",
+            "COMP",
+            "Lead",
+            "Job losses",
+            "EVENT"
+        ],
+        [
+            "General merchandisers",
+            "COMP",
+            "Lead",
+            "Job losses",
+            "EVENT"
+        ],
+        [
+            "Retail industry",
+            "SECTOR",
+            "Suffer",
+            "Job losses",
+            "EVENT"
+        ],
+        [
+            "U.S. economy",
+            "ORG/GOV",
+            "Create",
+            "148,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Expect",
+            "190,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail industry",
+            "SECTOR",
+            "Shed",
+            "nearly 70,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Department stores",
+            "COMP",
+            "Lose",
+            "more than 8,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General merchandisers",
+            "COMP",
+            "Lose",
+            "nearly 20,000 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health and personal care stores",
+            "COMP",
+            "Lose",
+            "3,900 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Clothing and accessories stores",
+            "COMP",
+            "Lose",
+            "3,800 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Food and beverage stores",
+            "COMP",
+            "Add",
+            "6,500 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Electronics and appliances retailers",
+            "COMP",
+            "Gain",
+            "3,800 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Furniture stores",
+            "COMP",
+            "Add",
+            "2,200 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Motor vehicle parts dealers",
+            "COMP",
+            "Add",
+            "2,900 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bureau of Labor Statistics",
+            "ORG/REG",
+            "Release",
+            "net changes in the retail industry",
+            "EVENT"
+        ]
+    ]
+}

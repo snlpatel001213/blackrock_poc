@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Frigid weather",
+            "CONCEPT",
+            "Impact",
+            "Heating Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Frigid weather",
+            "CONCEPT",
+            "Increase",
+            "Energy Usage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Severe winter storm",
+            "CONCEPT",
+            "Disrupt",
+            "Refinery Operations",
+            "COMP"
+        ],
+        [
+            "Severe winter storm",
+            "CONCEPT",
+            "Cause",
+            "Electrical Outages",
+            "COMP"
+        ],
+        [
+            "Temperatures",
+            "CONCEPT",
+            "Below",
+            "Average",
+            "CONCEPT"
+        ],
+        [
+            "Temperatures",
+            "CONCEPT",
+            "Set",
+            "Records",
+            "CONCEPT"
+        ],
+        [
+            "Power outages",
+            "CONCEPT",
+            "Fall",
+            "123,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Power outages",
+            "CONCEPT",
+            "Concentrated",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Natural gas prices",
+            "CONCEPT",
+            "At",
+            "All-time record",
+            "CONCEPT"
+        ],
+        [
+            "Benchmark U.S. heating oil futures",
+            "CONCEPT",
+            "Near",
+            "Highest in almost three years",
+            "CONCEPT"
+        ],
+        [
+            "U.S. natural gas demand",
+            "CONCEPT",
+            "Surpass",
+            "Previous single-day record",
+            "CONCEPT"
+        ],
+        [
+            "U.S. natural gas demand",
+            "CONCEPT",
+            "Expected",
+            "Remain near record highs",
+            "CONCEPT"
+        ],
+        [
+            "Next-day gas prices in New York City",
+            "CONCEPT",
+            "Jump",
+            "Record $140.25",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spot gas in New England",
+            "CONCEPT",
+            "Soar",
+            "Record $82.75",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nuclear plant",
+            "COMP",
+            "Remain shut",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "Entergy Corp",
+            "COMP",
+            "Operate",
+            "Pilgrim Station",
+            "COMP"
+        ],
+        [
+            "ISO New England",
+            "ORG",
+            "Operate",
+            "Region\u2019s power grid",
+            "COMP"
+        ],
+        [
+            "Average U.S. average home heating oil price",
+            "CONCEPT",
+            "Rise",
+            "5.4 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices for the 2017-18 period",
+            "CONCEPT",
+            "Above",
+            "2016-17 levels",
+            "CONCEPT"
+        ],
+        [
+            "Next-day power prices in New England",
+            "CONCEPT",
+            "Rise",
+            "Highest since January 2014",
+            "CONCEPT"
+        ],
+        [
+            "PJM",
+            "ORG",
+            "E-PJWHRTP-IX",
+            "U.S. Mid-Atlantic and Midwest region",
+            "GPE"
+        ],
+        [
+            "Heating oil shortage",
+            "CONCEPT",
+            "Concern",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Distillate inventories",
+            "CONCEPT",
+            "At",
+            "Lowest levels",
+            "CONCEPT"
+        ],
+        [
+            "Tankers carrying diesel and heating oil",
+            "COMP",
+            "Set out",
+            "Europe for the United States",
+            "GPE"
+        ],
+        [
+            "Reliance on heating oil",
+            "CONCEPT",
+            "Highest",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "Northern U.S. refiners",
+            "COMP",
+            "Not report",
+            "Problems",
+            "CONCEPT"
+        ],
+        [
+            "Philadelphia Energy Solutions",
+            "COMP",
+            "Postpone",
+            "Planned work",
+            "COMP"
+        ],
+        [
+            "Ridgebury Pioneer",
+            "COMP",
+            "Delay",
+            "Philadelphia area",
+            "GPE"
+        ]
+    ]
+}

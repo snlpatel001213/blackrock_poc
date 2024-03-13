@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Fire",
+            "EVENT",
+            "Break_Out",
+            "Clintons\u2019 home",
+            "GPE"
+        ],
+        [
+            "Clintons\u2019 home",
+            "GPE",
+            "Operate_In",
+            "Chappaqua, New York",
+            "GPE"
+        ],
+        [
+            "Fire Department",
+            "ORG",
+            "Fight",
+            "Fire",
+            "EVENT"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Put_Out",
+            "null",
+            "null"
+        ],
+        [
+            "Police Department",
+            "ORG/GOV",
+            "Say",
+            "No injuries sustained by the fire",
+            "CONCEPT"
+        ],
+        [
+            "Ambulance",
+            "VEHICLE",
+            "Leave",
+            "Without transport",
+            "null"
+        ]
+    ]
+}

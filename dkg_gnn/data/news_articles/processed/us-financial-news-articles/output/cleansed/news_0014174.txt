@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Circus",
+            "CONCEPT",
+            "Maintains",
+            "Flesh-and-Blood Appeal",
+            "CONCEPT"
+        ],
+        [
+            "Charlie Chaplin",
+            "PERSON",
+            "Says",
+            "Circus",
+            "CONCEPT"
+        ],
+        [
+            "Budapest International Circus Festival",
+            "EVENT",
+            "Celebrates",
+            "250 Years of Modern Circus",
+            "CONCEPT"
+        ],
+        [
+            "Budapest International Circus Festival",
+            "EVENT",
+            "Remaining Relevant",
+            "Even in Digital Era",
+            "CONCEPT"
+        ],
+        [
+            "Eugene Chaplin",
+            "PERSON",
+            "Says",
+            "Budapest International Circus Festival",
+            "EVENT"
+        ]
+    ]
+}

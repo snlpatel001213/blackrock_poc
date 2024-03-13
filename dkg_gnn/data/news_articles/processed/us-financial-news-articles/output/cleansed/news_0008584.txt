@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "Tom Steyer",
+            "PERSON",
+            "Is_Member_Of",
+            "Dems",
+            "ORG"
+        ],
+        [
+            "Dems",
+            "ORG",
+            "Impact",
+            "November Election",
+            "EVENT"
+        ],
+        [
+            "November Election",
+            "EVENT",
+            "Negative_Impact_On",
+            "We",
+            "PERSON"
+        ],
+        [
+            "Tom Steyer",
+            "PERSON",
+            "Found",
+            "NextGen America",
+            "ORG"
+        ],
+        [
+            "NextGen America",
+            "ORG",
+            "Discuss",
+            "Democratic Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Tom Steyer",
+            "PERSON",
+            "Think",
+            "About",
+            "Relate_To",
+            "Tax Reform",
+            "CONCEPT"
+        ]
+    ]
+}

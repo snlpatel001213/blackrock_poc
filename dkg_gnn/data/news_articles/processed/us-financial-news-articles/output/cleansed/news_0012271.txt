@@ -1,0 +1,138 @@
+{
+    "output": [
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Is_Member_Of",
+            "Sector",
+            "SECTOR"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has",
+            "Tanya Bakalov",
+            "PERSON"
+        ],
+        [
+            "Tanya Bakalov",
+            "PERSON",
+            "Is",
+            "Founder",
+            "CONCEPT"
+        ],
+        [
+            "Tanya Bakalov",
+            "PERSON",
+            "Win",
+            "EY Entrepreneur of the Year Award",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Control",
+            "Platform",
+            "PRODUCT"
+        ],
+        [
+            "Platform",
+            "PRODUCT",
+            "Relate_To",
+            "Engagement",
+            "CONCEPT"
+        ],
+        [
+            "Platform",
+            "PRODUCT",
+            "Relate_To",
+            "Talent Management",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Raise",
+            "2.7m",
+            "ECON_INDICATOR",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "2.7m",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Funding",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Backed_By",
+            "Bain Capital Ventures",
+            "ORG"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Backed_By",
+            "Osage Ventures",
+            "ORG"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Backed_By",
+            "VT Technology Ventures",
+            "ORG"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Backed_By",
+            "Angels",
+            "PERSON"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Operate_In",
+            "Boston",
+            "GPE"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has_Website",
+            "www.HelloTeam.com",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has_Social_Media",
+            "Twitter (@helloteaminc)",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has_Social_Media",
+            "LinkedIn (HelloTeam)",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has_Contact",
+            "hello@helloteam.com",
+            "CONCEPT"
+        ],
+        [
+            "HelloTeam, Inc.",
+            "COMP",
+            "Has_Contact",
+            "857-263-3936",
+            "CONCEPT"
+        ]
+    ]
+}

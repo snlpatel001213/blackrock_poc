@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. Army Corps of Engineers",
+            "ORG/GOV",
+            "Operate_In",
+            "Alaska",
+            "GPE"
+        ],
+        [
+            "Pebble Limited Partnership",
+            "ORG",
+            "Has",
+            "Canadian miners",
+            "ORG"
+        ],
+        [
+            "Region",
+            "GPE",
+            "Has",
+            "World\u2019s biggest sockeye salmon runs",
+            "CONCEPT"
+        ],
+        [
+            "Bristol Bay",
+            "GPE",
+            "Has",
+            "Salmon runs",
+            "CONCEPT"
+        ],
+        [
+            "Pebble Limited Partnership",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ]
+    ]
+}

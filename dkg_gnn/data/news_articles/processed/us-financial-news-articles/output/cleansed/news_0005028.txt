@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Win",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Beat",
+            "Ryan Harrison",
+            "PERSON"
+        ],
+        [
+            "Ryan Harrison",
+            "PERSON",
+            "Double_Fault",
+            "null",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Carve_Out",
+            "Break",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Claim",
+            "First_Set",
+            "null"
+        ],
+        [
+            "Ryan Harrison",
+            "PERSON",
+            "Drop_Serve",
+            "null",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Break",
+            "null",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Thrill",
+            "Crowd",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Love",
+            "Playing_In_Front_Of",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Lift",
+            "Trophy",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Rise",
+            "World_Rankings",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Make",
+            "Strong_Start",
+            "null"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Have",
+            "Semi-final_Victory",
+            "null"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Withdraw",
+            "Australian_Open",
+            "EVENT"
+        ],
+        [
+            "Kei Nishikori",
+            "PERSON",
+            "Withdraw",
+            "Australian_Open",
+            "EVENT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Battle",
+            "Injury_Problems",
+            "null"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Battle",
+            "Injury_Problems",
+            "null"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Battle",
+            "Injury_Problems",
+            "null"
+        ]
+    ]
+}

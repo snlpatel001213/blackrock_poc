@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Deluxe Entertainment Services Group",
+            "ORG",
+            "Announce",
+            "Deluxe Distribution",
+            "ORG"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Operate_In",
+            "Distribution Supply Chain",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Appoint",
+            "Andrew Bell",
+            "PERSON"
+        ],
+        [
+            "Andrew Bell",
+            "PERSON",
+            "Has",
+            "SVP, Operations and Technology, EMEA",
+            "TITLE"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Appoint",
+            "George Eyles",
+            "PERSON"
+        ],
+        [
+            "George Eyles",
+            "PERSON",
+            "Has",
+            "SVP, Commercial and Business Development, Worldwide",
+            "TITLE"
+        ],
+        [
+            "Andrew Bell",
+            "PERSON",
+            "Relate_To",
+            "Deluxe Distribution",
+            "ORG"
+        ],
+        [
+            "George Eyles",
+            "PERSON",
+            "Relate_To",
+            "Deluxe Distribution",
+            "ORG"
+        ],
+        [
+            "Andrew Bell",
+            "PERSON",
+            "Participates_In",
+            "Operational Activities",
+            "CONCEPT"
+        ],
+        [
+            "Andrew Bell",
+            "PERSON",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "George Eyles",
+            "PERSON",
+            "Lead",
+            "Sales and Business Development",
+            "CONCEPT"
+        ],
+        [
+            "George Eyles",
+            "PERSON",
+            "Lead",
+            "Global Commercial Teams",
+            "CONCEPT"
+        ],
+        [
+            "George Eyles",
+            "PERSON",
+            "Support",
+            "Digital Cinema",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Consolidate",
+            "Operations and Commercial Team",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Provide",
+            "Integrated Workflow",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Enable",
+            "Clients",
+            "PERSON"
+        ],
+        [
+            "Clients",
+            "PERSON",
+            "Share",
+            "Stories",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Simplify",
+            "Value Chain",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Offer",
+            "Improved Automation, Integration and Management",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Serve",
+            "Clients",
+            "PERSON"
+        ],
+        [
+            "Deluxe",
+            "ORG",
+            "Has",
+            "Three Distinct Yet Unified Global Entities",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe",
+            "ORG",
+            "Move",
+            "Towards",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe",
+            "ORG",
+            "Become",
+            "Virtualized Services and Platform Provider",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe",
+            "ORG",
+            "Rely",
+            "Talents of More Than 7,500 of the Industrys Premier Artists, Experts, Engineers and Innovators",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Offer",
+            "Scaled, End-to-End Solutions",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Deliver",
+            "Content",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Transform",
+            "Localize and Distribute",
+            "CONCEPT"
+        ],
+        [
+            "Deluxe Distribution",
+            "ORG",
+            "Relied_Upon",
+            "Worlds Leading Content Creators, Aggregators and Distributors",
+            "CONCEPT"
+        ]
+    ]
+}

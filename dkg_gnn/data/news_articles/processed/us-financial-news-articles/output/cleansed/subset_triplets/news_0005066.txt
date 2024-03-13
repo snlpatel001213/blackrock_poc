@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Participates_In",
+            "NATO",
+            "ORG/GOV"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Participates_In",
+            "NATO",
+            "ORG/GOV"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Relate_To",
+            "Ankara",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Negative_Impact_On",
+            "Arrests of German citizens",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Control",
+            "Post-coup crackdown",
+            "CONCEPT"
+        ]
+    ]
+}

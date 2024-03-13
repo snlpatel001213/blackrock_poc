@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Europe",
+            "GPE",
+            "Introduce",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "European Commission",
+            "ORG/GOV",
+            "Operate_In",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Financial Industry",
+            "SECTOR",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Market Participants",
+            "PERSON",
+            "Participates_In",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Regulators",
+            "PERSON",
+            "Control",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Regulators",
+            "PERSON",
+            "Impact",
+            "Financial Markets",
+            "SECTOR"
+        ],
+        [
+            "Regulators",
+            "PERSON",
+            "Positive_Impact_On",
+            "Investor Confidence",
+            "CONCEPT"
+        ],
+        [
+            "Stocks",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Bonds",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Foreign Exchange",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Commodities",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "ETFs",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Liquidnet",
+            "COMP",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Rebecca Healey",
+            "PERSON",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Over-the-counter Contracts",
+            "PRODUCT",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Exchanges",
+            "COMP",
+            "Relate_To",
+            "Mifid II",
+            "EVENT"
+        ],
+        [
+            "Erste Bank",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Andreas Treichl",
+            "PERSON",
+            "Has",
+            "CEO",
+            "COMP"
+        ],
+        [
+            "Fund Managers",
+            "PERSON",
+            "Pay",
+            "Brokers",
+            "COMP"
+        ],
+        [
+            "Fund Managers",
+            "PERSON",
+            "Pay",
+            "Banks",
+            "COMP"
+        ],
+        [
+            "Brokers",
+            "COMP",
+            "Receive",
+            "Payment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Banks",
+            "COMP",
+            "Receive",
+            "Payment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Fund Managers",
+            "PERSON",
+            "Relate_To",
+            "Research",
+            "CONCEPT"
+        ],
+        [
+            "Fund Managers",
+            "PERSON",
+            "Relate_To",
+            "Trading Services",
+            "CONCEPT"
+        ],
+        [
+            "Fund Managers",
+            "PERSON",
+            "Relate_To",
+            "Transparency",
+            "CONCEPT"
+        ],
+        [
+            "Clients",
+            "PERSON",
+            "Relate_To",
+            "Fund Management",
+            "SECTOR"
+        ],
+        [
+            "Overall Spend",
+            "ECON_INDICATOR",
+            "Fall",
+            "Analysis",
+            "CONCEPT"
+        ]
+    ]
+}

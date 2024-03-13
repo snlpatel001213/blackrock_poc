@@ -1,0 +1,26 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Relate_To",
+            "Battery-gate",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Impact",
+            "Older Phones",
+            "COMP",
+            "Negative_Impact_On"
+        ]
+    ]
+}

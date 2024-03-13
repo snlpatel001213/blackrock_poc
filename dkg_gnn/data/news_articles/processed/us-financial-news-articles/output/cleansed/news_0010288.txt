@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Wuhan Thalys Medical Technology Inc.",
+            "COMP",
+            "Sign",
+            "Contract",
+            "EVENT",
+            "Relate_To",
+            "Centralized Purchasing and Supply",
+            "CONCEPT"
+        ],
+        [
+            "Wuhan Thalys Medical Technology Inc.",
+            "COMP",
+            "Sign",
+            "Contract",
+            "EVENT",
+            "Relate_To",
+            "Test Reagent",
+            "PRODUCT"
+        ],
+        [
+            "Wuhan Thalys Medical Technology Inc.",
+            "COMP",
+            "Sign",
+            "Contract",
+            "EVENT",
+            "Relate_To",
+            "Consumable",
+            "PRODUCT"
+        ],
+        [
+            "Wuhan Thalys Medical Technology Inc.",
+            "COMP",
+            "Participates_In",
+            "Pingdu People\u2019s Hospital",
+            "GPE",
+            "Contract",
+            "China Resources Shandong Pharmaceutical Co Ltd",
+            "COMP"
+        ]
+    ]
+}

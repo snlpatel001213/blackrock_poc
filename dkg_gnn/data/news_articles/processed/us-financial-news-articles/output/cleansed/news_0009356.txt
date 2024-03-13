@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Sell",
+            "$56 bln supply",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Help",
+            "U.S. bonds firm",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Auction",
+            "new three-year notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Auction",
+            "10-year notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Auction",
+            "30-year bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. central bank",
+            "ORG/GOV",
+            "Expected",
+            "to continue hiking interest rates",
+            "CONCEPT"
+        ],
+        [
+            "Sales",
+            "FIN_INSTRUMENT",
+            "Expected",
+            "to go well",
+            "CONCEPT"
+        ],
+        [
+            "Three-year yield",
+            "ECON_INDICATOR",
+            "Rise",
+            "as high as was 2.071 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yield on the U.S. 10-year note",
+            "ECON_INDICATOR",
+            "Pulled",
+            "to a high of 2.489 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "German bond yields",
+            "ECON_INDICATOR",
+            "Stronger",
+            "helped U.S. Treasuries firm",
+            "CONCEPT"
+        ],
+        [
+            "Trading volumes",
+            "CONCEPT",
+            "Low",
+            "on Monday",
+            "DATE"
+        ]
+    ]
+}

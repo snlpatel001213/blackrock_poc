@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Ottawa Senators",
+            "COMP",
+            "Dominate",
+            "Toronto Maple Leafs",
+            "COMP"
+        ],
+        [
+            "Tom Pyatt",
+            "PERSON",
+            "Score",
+            "Winning Goal",
+            "PRODUCT"
+        ],
+        [
+            "Craig Anderson",
+            "PERSON",
+            "Make",
+            "45 Saves",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thomas Chabot",
+            "PERSON",
+            "Open",
+            "Scoring",
+            "EVENT"
+        ],
+        [
+            "Mike Hoffman",
+            "PERSON",
+            "Double",
+            "Lead",
+            "EVENT"
+        ],
+        [
+            "Andreas Borgman",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "James van Riemsdyk",
+            "PERSON",
+            "Tally",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Gabriel Dumont",
+            "PERSON",
+            "Restore",
+            "Lead",
+            "EVENT"
+        ],
+        [
+            "Morgan Rielly",
+            "PERSON",
+            "Tie",
+            "Clash",
+            "EVENT"
+        ],
+        [
+            "Frederik Andersen",
+            "PERSON",
+            "Stop",
+            "Shots",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

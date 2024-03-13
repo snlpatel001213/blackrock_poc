@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Cleantech Solutions International Inc",
+            "COMP",
+            "Cease Trading",
+            "CLNT",
+            "TICKER"
+        ],
+        [
+            "Cleantech Solutions International Inc",
+            "COMP",
+            "Commence Trading",
+            "SEII",
+            "TICKER"
+        ],
+        [
+            "CLNT",
+            "TICKER",
+            "Relate_To",
+            "Cleantech Solutions International Inc",
+            "COMP"
+        ],
+        [
+            "SEII",
+            "TICKER",
+            "Relate_To",
+            "Cleantech Solutions International Inc",
+            "COMP"
+        ]
+    ]
+}

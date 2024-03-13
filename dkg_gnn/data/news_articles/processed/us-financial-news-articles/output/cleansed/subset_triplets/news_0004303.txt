@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Historical_Significance",
+            "CONCEPT"
+        ],
+        [
+            "Global Economic Growth",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Global Economic Growth",
+            "CONCEPT",
+            "Operate_In",
+            "Global Economy",
+            "SECTOR"
+        ]
+    ]
+}

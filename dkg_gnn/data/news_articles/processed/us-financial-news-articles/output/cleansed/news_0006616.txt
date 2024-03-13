@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "FanDuel",
+            "COMP",
+            "Introduce",
+            "Bitcoin Bowl",
+            "EVENT"
+        ],
+        [
+            "FanDuel",
+            "COMP",
+            "Operate_In",
+            "Fantasy Football",
+            "EVENT"
+        ],
+        [
+            "FanDuel",
+            "COMP",
+            "Participates_In",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "FanDuel",
+            "COMP",
+            "Positive_Impact_On",
+            "Bitcoin Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "FanDuel",
+            "COMP",
+            "Control",
+            "Gaming Platform",
+            "COMP"
+        ],
+        [
+            "FanDuel",
+            "COMP",
+            "Invests_In",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "User",
+            "PERSON",
+            "Participates_In",
+            "Bitcoin Bowl",
+            "EVENT"
+        ],
+        [
+            "User",
+            "PERSON",
+            "Participates_In",
+            "Fantasy Football",
+            "EVENT"
+        ],
+        [
+            "User",
+            "PERSON",
+            "Positive_Impact_On",
+            "Bitcoin Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "FanDuel",
+            "COMP"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "User",
+            "PERSON"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitfinex",
+            "COMP",
+            "Control",
+            "Bitcoin Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitstamp",
+            "COMP",
+            "Control",
+            "Bitcoin Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Coinbase",
+            "COMP",
+            "Control",
+            "Bitcoin Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "itBit",
+            "COMP",
+            "Control",
+            "Bitcoin Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CoinDesk",
+            "COMP",
+            "Control",
+            "Bitcoin Price Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Trade Commission",
+            "ORG/GOV",
+            "Warn",
+            "User",
+            "PERSON"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Advise",
+            "User",
+            "PERSON"
+        ],
+        [
+            "Mark Cuban",
+            "PERSON",
+            "Voice",
+            "Opinion",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Voice",
+            "Opinion",
+            "CONCEPT"
+        ]
+    ]
+}

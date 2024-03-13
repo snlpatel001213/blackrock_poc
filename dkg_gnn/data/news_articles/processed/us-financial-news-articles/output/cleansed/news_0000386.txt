@@ -1,0 +1,129 @@
+{
+    "output": [
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Has",
+            "Best Performance",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Stock Market",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Best Performance",
+            "CONCEPT"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Is_Member_Of",
+            "Bridgewater Associates LP",
+            "ORG"
+        ],
+        [
+            "Bridgewater Associates LP",
+            "ORG",
+            "Control",
+            "Hedge-fund",
+            "COMP"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Looks_At",
+            "World",
+            "CONCEPT"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Through",
+            "Unique Prism",
+            "CONCEPT"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Thinks",
+            "Path Ahead",
+            "CONCEPT"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Could Be",
+            "Bleaker",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Relate_To",
+            "Start",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Explain",
+            "Events",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Break_Down",
+            "Events",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "August 2007",
+            "Marked",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Worst Financial Crisis",
+            "Since",
+            "CONCEPT"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Great Depression",
+            "CONCEPT"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Break_Down",
+            "Events",
+            "CONCEPT"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Finance and Banking Editors",
+            "Break_Down",
+            "Events"
+        ],
+        [
+            "Associated Press",
+            "ORG",
+            "Photo",
+            "Associated Press",
+            "ORG"
+        ],
+        [
+            "Associated Press",
+            "ORG",
+            "Originally Published",
+            "Aug. 18, 2017",
+            "DATE"
+        ]
+    ]
+}

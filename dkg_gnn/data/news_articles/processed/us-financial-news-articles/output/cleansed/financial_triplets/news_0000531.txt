@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Drift",
+            "ORG",
+            "Has",
+            "Jim Kelliher",
+            "PERSON"
+        ],
+        [
+            "Jim Kelliher",
+            "PERSON",
+            "Operate_In",
+            "Finance Field",
+            "SECTOR"
+        ],
+        [
+            "Actifio",
+            "ORG",
+            "Is_Member_Of",
+            "Enterprise Data Management Space",
+            "SECTOR"
+        ],
+        [
+            "LogMeIn",
+            "ORG",
+            "Operate_In",
+            "Software Industry",
+            "SECTOR"
+        ],
+        [
+            "Jim Kelliher",
+            "PERSON",
+            "Participates_In",
+            "LogMeIn IPO",
+            "EVENT"
+        ]
+    ]
+}

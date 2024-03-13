@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Future Farm Technologies Inc.",
+            "ORG",
+            "Announce",
+            "10-acre operating greenhouse acquisition",
+            "EVENT"
+        ],
+        [
+            "Future Farm Technologies Inc.",
+            "ORG",
+            "Operate_In",
+            "Florida cannabis market",
+            "SECTOR"
+        ],
+        [
+            "10-acre operating greenhouse acquisition",
+            "EVENT",
+            "Generate",
+            "2.8m USD",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-acre operating greenhouse acquisition",
+            "EVENT",
+            "Has",
+            "400,000 USD",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-acre operating greenhouse acquisition",
+            "EVENT",
+            "Control",
+            "cannabis cultivation and processing business",
+            "COMP"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Populate",
+            "20,984,000 residents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Has",
+            "Orlando",
+            "GPE"
+        ],
+        [
+            "Orlando",
+            "GPE",
+            "Attract",
+            "62 million visitors annually",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Greenhouse",
+            "PRODUCT",
+            "Operate_In",
+            "designated legal grow zone",
+            "SECTOR"
+        ],
+        [
+            "Greenhouse",
+            "PRODUCT",
+            "Produce",
+            "ornamental plants",
+            "PRODUCT"
+        ],
+        [
+            "Greenhouse",
+            "PRODUCT",
+            "Sell",
+            "big-box stores throughout North America",
+            "COMP"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Intends_To",
+            "apply for licensing as a cannabis cultivator with the State of Florida",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Explore",
+            "growing hemp on the remaining acreage of farmland",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Pay",
+            "6% finder fee to Atlas Capital Advisors, LLC",
+            "EVENT"
+        ],
+        [
+            "Brightfield Group",
+            "ORG",
+            "Project",
+            "hemp cannabis products will have 1billion in annual sales by 2020",
+            "EVENT"
+        ]
+    ]
+}

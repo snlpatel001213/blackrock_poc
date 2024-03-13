@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Negative_Impact_On",
+            "Dollar Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Dollar Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Has",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rate",
+            "CONCEPT"
+        ]
+    ]
+}

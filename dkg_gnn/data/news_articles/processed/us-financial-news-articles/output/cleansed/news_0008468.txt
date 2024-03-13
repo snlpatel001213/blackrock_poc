@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "SpaceX",
+            "COMP",
+            "Launch",
+            "Zuma",
+            "PRODUCT"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Belong_To",
+            "US Government",
+            "ORG/GOV"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Operate_In",
+            "SpaceX",
+            "COMP"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Not_Separate_From",
+            "Falcon 9",
+            "PRODUCT"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Plummet_Back",
+            "Atmosphere",
+            "GPE"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Blame",
+            "Payload",
+            "PRODUCT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Blame",
+            "Mechanisms",
+            "PRODUCT"
+        ]
+    ]
+}

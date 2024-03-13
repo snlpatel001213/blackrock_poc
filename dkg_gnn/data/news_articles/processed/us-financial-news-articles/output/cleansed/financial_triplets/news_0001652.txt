@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lincoln Financial Group",
+            "ORG",
+            "Announce",
+            "Joe Mrozek",
+            "PERSON"
+        ],
+        [
+            "Joe Mrozek",
+            "PERSON",
+            "Is_Member_Of",
+            "Intermediary Retirement Plan Services",
+            "SECTOR"
+        ],
+        [
+            "Intermediary Retirement Plan Services",
+            "SECTOR",
+            "Operate_In",
+            "Lincoln Financial Distributors",
+            "ORG"
+        ],
+        [
+            "Joe Mrozek",
+            "PERSON",
+            "Participates_In",
+            "Small Market 401(k) Segment",
+            "SECTOR"
+        ],
+        [
+            "Wholesaling Team",
+            "SECTOR",
+            "Impact",
+            "Positive Outcomes",
+            "CONCEPT"
+        ]
+    ]
+}

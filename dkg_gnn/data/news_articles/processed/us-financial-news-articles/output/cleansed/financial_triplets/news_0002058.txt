@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "GLD gold ETF",
+            "PRODUCT"
+        ],
+        [
+            "GLD gold ETF",
+            "PRODUCT",
+            "Has",
+            "record-breaking rally",
+            "EVENT"
+        ],
+        [
+            "GLD gold ETF",
+            "PRODUCT",
+            "Raise",
+            "11 days in a row",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

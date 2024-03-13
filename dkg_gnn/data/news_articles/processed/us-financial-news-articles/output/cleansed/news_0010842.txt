@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Pioneer Natural Resources Co",
+            "COMP",
+            "Announce",
+            "Noncash Decrease",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pioneer Natural Resources Co",
+            "COMP",
+            "Relate_To",
+            "Federal Corporate Rate Change",
+            "CONCEPT"
+        ],
+        [
+            "Pioneer Natural Resources Co",
+            "COMP",
+            "Impact",
+            "Income Tax Provision",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pioneer Natural Resources Co",
+            "COMP",
+            "Expects",
+            "Positive Impact",
+            "CONCEPT"
+        ]
+    ]
+}

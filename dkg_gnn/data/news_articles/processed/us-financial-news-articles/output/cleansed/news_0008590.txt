@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Participates_In",
+            "Proxy Fight",
+            "EVENT",
+            "With",
+            "Procter & Gamble",
+            "ORG"
+        ],
+        [
+            "Nelson Peltz",
+            "PERSON",
+            "Is_Member_Of",
+            "Trian Fund Management",
+            "ORG"
+        ],
+        [
+            "Procter & Gamble",
+            "ORG",
+            "Participates_In",
+            "Proxy Fight",
+            "EVENT",
+            "With",
+            "Trian Fund Management",
+            "ORG"
+        ],
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Relate_To",
+            "Investors"
+        ],
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Discuss",
+            "How_Investors_Can_Better_Work_With_Companies_They_Own",
+            "CONCEPT"
+        ],
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Has",
+            "CEO_and_Founding_Partner",
+            "PERSON",
+            "Nelson_Peltz"
+        ]
+    ]
+}

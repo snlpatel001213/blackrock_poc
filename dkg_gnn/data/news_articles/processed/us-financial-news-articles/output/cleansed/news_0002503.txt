@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Ends",
+            "Steady",
+            "CURRENCY"
+        ],
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Operate_In",
+            "Sri Lanka",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "CURRENCY",
+            "Demand",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "CURRENCY",
+            "Conversion",
+            "Exporters",
+            "PERSON"
+        ],
+        [
+            "Importers",
+            "PERSON",
+            "Demand",
+            "Dollar",
+            "CURRENCY"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Demand",
+            "Dollar",
+            "CURRENCY"
+        ],
+        [
+            "Spot rupee",
+            "CURRENCY",
+            "Trade",
+            "153.80",
+            "null"
+        ],
+        [
+            "Spot rupee",
+            "CURRENCY",
+            "End",
+            "153.70/80",
+            "null"
+        ],
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Fall",
+            "2.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sri Lankan rupee",
+            "CURRENCY",
+            "Drop",
+            "3.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Currency dealer",
+            "PERSON",
+            "Speak",
+            "Dull day",
+            "null"
+        ],
+        [
+            "Importers",
+            "PERSON",
+            "Few",
+            "Market",
+            "null"
+        ],
+        [
+            "Exporters",
+            "PERSON",
+            "Reluctant",
+            "Come",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Announce",
+            "Key economic policies",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Dependent",
+            "Monetary policy",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Intervene",
+            "Volatility",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Build",
+            "Reserves",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Sort",
+            "New derivatives regulations",
+            "null"
+        ],
+        [
+            "Forward trading",
+            "null",
+            "Slow",
+            "Currency",
+            "null"
+        ],
+        [
+            "Foreign exchange intervention policies",
+            "null",
+            "Adopt",
+            "Flexible exchange rate regime",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Maintain",
+            "Competitive exchange rate",
+            "null"
+        ],
+        [
+            "Dealers",
+            "PERSON",
+            "Say",
+            "Import pressure",
+            "null"
+        ],
+        [
+            "Central bank",
+            "ORG",
+            "Sort",
+            "New derivatives regulations",
+            "null"
+        ]
+    ]
+}

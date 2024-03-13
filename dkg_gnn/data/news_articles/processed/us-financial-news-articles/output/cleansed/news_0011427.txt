@@ -1,0 +1,216 @@
+{
+    "output": [
+        [
+            "Kohl\u2019s Corp",
+            "COMP",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Kohl\u2019s Corp",
+            "COMP",
+            "Plan",
+            "Lease",
+            "Has"
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Part_Of",
+            "Kohl\u2019s Corp",
+            "COMP"
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Shrink",
+            null,
+            null
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Leave",
+            "Unused Footage",
+            "CONCEPT"
+        ],
+        [
+            "Unused Footage",
+            "CONCEPT",
+            "Lease",
+            null,
+            null
+        ],
+        [
+            "Retailers",
+            "COMP",
+            "Such",
+            "Grocery Stores or Convenience Stores",
+            "COMP"
+        ],
+        [
+            "Kevin Mansell",
+            "PERSON",
+            "Say",
+            null,
+            null
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Roughly",
+            "300",
+            "NUMBER"
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Right-sized",
+            null,
+            null
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Identify",
+            "Partners",
+            "ORG"
+        ],
+        [
+            "Partners",
+            "ORG",
+            "Include",
+            "Well-capitalized Companies",
+            "COMP"
+        ],
+        [
+            "Well-capitalized Companies",
+            "COMP",
+            "Have",
+            "High Traffic in Grocery and Convenience",
+            "CONCEPT"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Prefer",
+            "Partnerships with Competitors",
+            "COMP"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Cut",
+            "Size",
+            "CONCEPT"
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Manage",
+            "Inventories",
+            "CONCEPT"
+        ],
+        [
+            "Stores",
+            "COMP",
+            "Manage",
+            "Costs",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Build",
+            "Small-format Stores",
+            "COMP"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Access",
+            "Customers in Suburbs",
+            "GPE"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Post",
+            "Strong Holiday Sales",
+            "EVENT"
+        ],
+        [
+            "Sales",
+            "EVENT",
+            "Helped",
+            "Online Sales",
+            "CONCEPT"
+        ],
+        [
+            "Sales",
+            "EVENT",
+            "Helped",
+            "Revamp of its Beauty Departments",
+            "CONCEPT"
+        ],
+        [
+            "Sales",
+            "EVENT",
+            "Helped",
+            "Partnerships with Brands",
+            "COMP"
+        ],
+        [
+            "Partnerships",
+            "CONCEPT",
+            "Include",
+            "Under Armour and Nike",
+            "COMP"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Shares",
+            "Up 9 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Shares",
+            "Hit",
+            "More than One-year High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Shares",
+            "Reach",
+            "$59.31",
+            "CURRENCY"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Vibhuti Sharma",
+            "PERSON"
+        ],
+        [
+            "Vibhuti Sharma",
+            "PERSON",
+            "In",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "By",
+            "Saumyadeb Chakrabarty and Shounak Dasgupta",
+            "PERSON"
+        ]
+    ]
+}

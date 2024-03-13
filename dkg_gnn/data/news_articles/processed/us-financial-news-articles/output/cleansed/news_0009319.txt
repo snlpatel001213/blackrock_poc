@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "John Roberts",
+            "PERSON",
+            "Has",
+            "Chief Justice",
+            "ORG/GOV"
+        ],
+        [
+            "John Roberts",
+            "PERSON",
+            "Announce",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Relate_To",
+            "Sexual Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Operate_In",
+            "Federal Judiciary",
+            "ORG/GOV"
+        ],
+        [
+            "Report",
+            "PRODUCT",
+            "Produce",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Report",
+            "PRODUCT",
+            "Announce",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Report",
+            "PRODUCT",
+            "Control",
+            "John Roberts",
+            "PERSON"
+        ],
+        [
+            "Report",
+            "PRODUCT",
+            "Control",
+            "Federal Judiciary",
+            "ORG/GOV"
+        ],
+        [
+            "Judge Alex Kozinski",
+            "PERSON",
+            "Retire",
+            "Ninth U.S. Circuit Court of Appeals",
+            "ORG/GOV"
+        ],
+        [
+            "Judge Alex Kozinski",
+            "PERSON",
+            "Negative_Impact_On",
+            "Federal Judiciary",
+            "ORG/GOV"
+        ],
+        [
+            "Former Clerks",
+            "PERSON",
+            "Participates_In",
+            "Accuse",
+            "CONCEPT"
+        ],
+        [
+            "Judge Alex Kozinski",
+            "PERSON",
+            "Accuse",
+            "Inappropriate Behavior",
+            "CONCEPT"
+        ],
+        [
+            "Inappropriate Behavior",
+            "CONCEPT",
+            "Relate_To",
+            "Sexual Harassment",
+            "CONCEPT"
+        ]
+    ]
+}

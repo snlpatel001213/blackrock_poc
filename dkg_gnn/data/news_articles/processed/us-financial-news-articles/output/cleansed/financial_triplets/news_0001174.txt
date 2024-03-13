@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Saama Technologies, Inc.",
+            "ORG",
+            "Announce",
+            "Dr. Makarand Jawadekar",
+            "PERSON"
+        ],
+        [
+            "Dr. Makarand Jawadekar",
+            "PERSON",
+            "Has",
+            "over three decades of drug discovery and development experience",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Makarand Jawadekar",
+            "PERSON",
+            "Participates_In",
+            "Drug delivery technologies",
+            "CONCEPT"
+        ],
+        [
+            "Saama Technologies",
+            "ORG",
+            "Operate_In",
+            "Life Sciences Industry",
+            "SECTOR"
+        ],
+        [
+            "Dr. Makarand Jawadekar",
+            "PERSON",
+            "Positive_Impact_On",
+            "Saama Technologies future roadmap",
+            "CONCEPT"
+        ],
+        [
+            "Saama Technologies",
+            "ORG",
+            "Positive_Impact_On",
+            "Human health worldwide",
+            "CONCEPT"
+        ]
+    ]
+}

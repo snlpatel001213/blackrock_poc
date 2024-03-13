@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Hip-hop/R&B",
+            "CONCEPT",
+            "Overtook",
+            "Rock",
+            "CONCEPT"
+        ],
+        [
+            "Hip-hop/R&B",
+            "CONCEPT",
+            "Represented",
+            "24.5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hip-hop/R&B",
+            "CONCEPT",
+            "Participates_In",
+            "Music Consumption",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Location_Of",
+            "Music Consumption",
+            "CONCEPT"
+        ],
+        [
+            "Nielsen Music",
+            "ORG",
+            "Found",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "2017",
+            "DATE",
+            "Time_Of",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Nielsen Music",
+            "ORG",
+            "Announce",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Hip-hop/R&B",
+            "CONCEPT",
+            "Accounted_For",
+            "Just shy of 21 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rock",
+            "CONCEPT",
+            "Participates_In",
+            "Music Purchases",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Location_Of",
+            "Music Purchases",
+            "CONCEPT"
+        ],
+        [
+            "Ed Sheeran",
+            "PERSON",
+            "Most_Popular_Album",
+            "Divide",
+            "PRODUCT"
+        ],
+        [
+            "Ed Sheeran",
+            "PERSON",
+            "Sold",
+            "2.764 million copies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ed Sheeran",
+            "PERSON",
+            "Factored_In",
+            "Streaming and Individual Track Purchases",
+            "CONCEPT"
+        ],
+        [
+            "Kendrick Lamar",
+            "PERSON",
+            "Second_Most_Popular",
+            "Damn",
+            "PRODUCT"
+        ],
+        [
+            "Kendrick Lamar",
+            "PERSON",
+            "Album-Equivalent_Sales",
+            "2.747 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taylor Swift",
+            "PERSON",
+            "Topped",
+            "Whole Album Purchase",
+            "CONCEPT"
+        ],
+        [
+            "Taylor Swift",
+            "PERSON",
+            "Sales",
+            "1.9 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Drake",
+            "PERSON",
+            "First",
+            "Top 10 List of Total Consumption of Artists",
+            "CONCEPT"
+        ],
+        [
+            "Kendrick Lamar",
+            "PERSON",
+            "Second",
+            "Top 10 List of Total Consumption of Artists",
+            "CONCEPT"
+        ],
+        [
+            "Ed Sheeran",
+            "PERSON",
+            "Third",
+            "Top 10 List of Total Consumption of Artists",
+            "CONCEPT"
+        ],
+        [
+            "Taylor Swift",
+            "PERSON",
+            "Fourth",
+            "Top 10 List of Total Consumption of Artists",
+            "CONCEPT"
+        ],
+        [
+            "Vinyl",
+            "PRODUCT",
+            "12th_Straight_Year",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "LPs",
+            "PRODUCT",
+            "Comprised",
+            "14 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Physical Album Sales",
+            "CONCEPT",
+            "LPs",
+            "Part of",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Location_Of",
+            "Physical Album Sales",
+            "CONCEPT"
+        ],
+        [
+            "The Beatles",
+            "PERSON",
+            "Most_Popular_Vinyl_Album",
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "PRODUCT"
+        ],
+        [
+            "The Beatles",
+            "PERSON",
+            "Reissued",
+            "Sgt. Pepper's Lonely Hearts Club Band",
+            "PRODUCT"
+        ],
+        [
+            "1967",
+            "DATE",
+            "Year_Of",
+            "First Release",
+            "EVENT"
+        ],
+        [
+            "2017",
+            "DATE",
+            "Year_Of",
+            "50th Anniversary",
+            "EVENT"
+        ],
+        [
+            "Older Generation",
+            "CONCEPT",
+            "Driving",
+            "Sales of LP Records",
+            "CONCEPT"
+        ]
+    ]
+}

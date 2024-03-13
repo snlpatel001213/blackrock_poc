@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "AfD lawmaker",
+            "PERSON",
+            "Participates_In",
+            "Incitement",
+            "CONCEPT"
+        ],
+        [
+            "Incitement",
+            "CONCEPT",
+            "Relate_To",
+            "Hatred",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "Jana Partners",
+            "ORG"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "CalSTRS",
+            "ORG"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Control",
+            "Apple Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Control",
+            "Apple Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Consider",
+            "Develop Software",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Study",
+            "Impact of Excessive Phone Use",
+            "CONCEPT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Not Immediately Respond",
+            "Request for Comment",
+            "EVENT"
+        ],
+        [
+            "Jana",
+            "ORG",
+            "Not Immediately Respond",
+            "Request for Comment",
+            "EVENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Reputation Could Be Hurt",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Worry",
+            "Apple Reputation",
+            "CONCEPT"
+        ],
+        [
+            "Jana",
+            "ORG",
+            "Worry",
+            "Apple Reputation",
+            "CONCEPT"
+        ],
+        [
+            "Half of Teenagers",
+            "GPE",
+            "Feel Addicted",
+            "Mobile Phones",
+            "PRODUCT"
+        ],
+        [
+            "Teenagers",
+            "GPE",
+            "Report Feeling",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Cancel",
+            "World Tour",
+            "EVENT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Go",
+            "Therapy",
+            "EVENT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Link",
+            "Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Low Self-esteem",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Depression",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Addiction",
+            "Social Media",
+            "PRODUCT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Addiction",
+            "Instagram",
+            "PRODUCT"
+        ]
+    ]
+}

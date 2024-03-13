@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Policeman Shot Dead",
+            "EVENT"
+        ],
+        [
+            "Deputy Sheriff",
+            "PERSON",
+            "Die_From",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Pierce County Sheriff\u2019s Department",
+            "ORG/GOV",
+            "Say",
+            "Officer Struck",
+            "EVENT"
+        ],
+        [
+            "Tacoma News Tribune",
+            "ORG",
+            "Report",
+            "Shooting Erupt",
+            "EVENT"
+        ],
+        [
+            "Suspected Burglars",
+            "PERSON",
+            "Flee",
+            "House",
+            "GPE"
+        ],
+        [
+            "Deputies",
+            "PERSON",
+            "Chase",
+            "Suspected Burglars",
+            "PERSON"
+        ],
+        [
+            "White Male Suspect",
+            "PERSON",
+            "Found",
+            "Dead",
+            "EVENT"
+        ],
+        [
+            "Black Male Suspect",
+            "PERSON",
+            "Remain",
+            "Unidentified",
+            "CONCEPT"
+        ],
+        [
+            "Sheriff\u2019s Department",
+            "ORG/GOV",
+            "Say",
+            "Manhunt Under Way",
+            "EVENT"
+        ]
+    ]
+}

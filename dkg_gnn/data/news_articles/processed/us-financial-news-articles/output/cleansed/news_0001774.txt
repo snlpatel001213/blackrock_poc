@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Israeli archaeologists",
+            "PERSON",
+            "Unveil",
+            "clay seal impression",
+            "ORG"
+        ],
+        [
+            "clay seal impression",
+            "PRODUCT",
+            "Belong_To",
+            "governor of the city",
+            "PERSON"
+        ],
+        [
+            "governor of the city",
+            "PERSON",
+            "Is_Member_Of",
+            "biblical Jerusalem",
+            "GPE"
+        ],
+        [
+            "artifact",
+            "PRODUCT",
+            "Likely_Attached_To",
+            "shipment",
+            "PRODUCT"
+        ],
+        [
+            "shipment",
+            "PRODUCT",
+            "Sent",
+            "souvenir",
+            "PRODUCT"
+        ],
+        [
+            "souvenir",
+            "PRODUCT",
+            "On_Behalf_Of",
+            "governor",
+            "PERSON"
+        ],
+        [
+            "governor",
+            "PERSON",
+            "Most_Prominent_Local_Position",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "impression",
+            "PRODUCT",
+            "Unearthed_Near",
+            "plaza of Western Wall",
+            "GPE"
+        ],
+        [
+            "plaza of Western Wall",
+            "GPE",
+            "Located_In",
+            "Old City of Jerusalem",
+            "GPE"
+        ],
+        [
+            "impression",
+            "PRODUCT",
+            "Depicts",
+            "two standing men",
+            "PERSON"
+        ],
+        [
+            "two standing men",
+            "PERSON",
+            "Face",
+            "each other",
+            "PERSON"
+        ],
+        [
+            "two standing men",
+            "PERSON",
+            "Wear",
+            "striped garments",
+            "PRODUCT"
+        ],
+        [
+            "garments",
+            "PRODUCT",
+            "Reach_Down_To",
+            "knees",
+            "BODY"
+        ],
+        [
+            "impression",
+            "PRODUCT",
+            "Support",
+            "Biblical rendering",
+            "CONCEPT"
+        ],
+        [
+            "Biblical rendering",
+            "CONCEPT",
+            "Existence_Of",
+            "governor of the city",
+            "PERSON"
+        ],
+        [
+            "governor of the city",
+            "PERSON",
+            "Mentioned",
+            "2 Kings",
+            "TEXT"
+        ],
+        [
+            "Joshua",
+            "PERSON",
+            "Hold",
+            "position",
+            "POSITION"
+        ],
+        [
+            "position",
+            "POSITION",
+            "Governor_Of",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "governor of the city",
+            "PERSON",
+            "Mentioned",
+            "2 Chronicles",
+            "TEXT"
+        ],
+        [
+            "Masseiah",
+            "PERSON",
+            "Hold",
+            "position",
+            "POSITION"
+        ],
+        [
+            "position",
+            "POSITION",
+            "Governor_Of",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "Announcement",
+            "EVENT",
+            "Come",
+            "several weeks after",
+            "EVENT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "Recognition",
+            "EVENT",
+            "Overturn",
+            "decades-old policy",
+            "CONCEPT"
+        ],
+        [
+            "decades-old policy",
+            "CONCEPT",
+            "On_Status_Of",
+            "city",
+            "GPE"
+        ],
+        [
+            "Stir",
+            "EVENT",
+            "Palestinian protests",
+            "international concern",
+            "CONCEPT"
+        ]
+    ]
+}

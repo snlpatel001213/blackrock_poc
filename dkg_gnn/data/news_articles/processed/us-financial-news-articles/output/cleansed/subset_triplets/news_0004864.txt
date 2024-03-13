@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Planes collide at Toronto's Pearson Airport",
+            "EVENT"
+        ],
+        [
+            "Toronto\u2019s Pearson Airport",
+            "GPE",
+            "Participates_In",
+            "Planes collide",
+            "EVENT"
+        ]
+    ]
+}

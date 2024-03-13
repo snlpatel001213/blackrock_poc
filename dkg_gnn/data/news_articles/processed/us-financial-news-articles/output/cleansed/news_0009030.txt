@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Identify",
+            "Virtual Reality",
+            "CONCEPT"
+        ],
+        [
+            "VR Firms",
+            "SECTOR",
+            "Include",
+            "Jaunt China",
+            "COMP"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "State",
+            "Monday",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Amazing Vision",
+            "CONCEPT"
+        ],
+        [
+            "Artificial Intelligence",
+            "CONCEPT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Electric Cars",
+            "CONCEPT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "VR",
+            "CONCEPT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Augmented Reality",
+            "CONCEPT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Is_Member_Of",
+            "SECTOR",
+            "SECTOR"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Produce",
+            "VR Content",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Produce",
+            "Hardware",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Produce",
+            "Software",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Produce",
+            "Applications",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Participates_In",
+            "VR Competition",
+            "EVENT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Produce",
+            "Film Project",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Operate_In",
+            "Beijing",
+            "GPE"
+        ],
+        [
+            "James Fong",
+            "PERSON",
+            "Is",
+            "CEO",
+            "COMP"
+        ],
+        [
+            "James Fong",
+            "PERSON",
+            "Speak_At",
+            "Conference",
+            "EVENT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Want",
+            "Bring More Content",
+            "PRODUCT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Work_With",
+            "Schools",
+            "ORG"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Try",
+            "Develop Ability",
+            "CONCEPT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Try",
+            "Create Good VR Narrative",
+            "CONCEPT"
+        ],
+        [
+            "Jaunt China",
+            "COMP",
+            "Try",
+            "Create VR Interactive-Ness",
+            "CONCEPT"
+        ],
+        [
+            "Good Content",
+            "CONCEPT",
+            "Is_Universal",
+            "True",
+            "CONCEPT"
+        ],
+        [
+            "Good Stories",
+            "CONCEPT",
+            "Recognize",
+            "People",
+            "PERSON"
+        ],
+        [
+            "VR Film-making",
+            "CONCEPT",
+            "Train",
+            "Students",
+            "PERSON"
+        ]
+    ]
+}

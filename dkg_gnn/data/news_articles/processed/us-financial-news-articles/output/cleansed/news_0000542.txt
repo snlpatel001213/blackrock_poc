@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Vistagen Therapeutics Inc",
+            "COMP",
+            "Receive",
+            "FDA Fast Track Designation",
+            "ORG/REG"
+        ],
+        [
+            "Av-101",
+            "PRODUCT",
+            "Relate_To",
+            "Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Av-101",
+            "PRODUCT",
+            "Relate_To",
+            "Major Depressive Disorder",
+            "CONCEPT"
+        ],
+        [
+            "Vistagen Therapeutics Inc",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Vistagen Therapeutics Inc",
+            "COMP",
+            "Plan_To",
+            "Dose First Patient",
+            "EVENT",
+            "AV-101 Phase 2 MDD Adjunctive Treatment Study",
+            "EVENT"
+        ]
+    ]
+}

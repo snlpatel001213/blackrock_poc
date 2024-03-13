@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Consider",
+            "Join",
+            "TPP",
+            "ORG"
+        ],
+        [
+            "TPP",
+            "ORG",
+            "Help",
+            "Revitalize",
+            null,
+            null
+        ],
+        [
+            "TPP",
+            "ORG",
+            "Bolster",
+            "Exports",
+            "GPE",
+            null
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Participates_In",
+            "Negotiations",
+            "ORG",
+            null
+        ],
+        [
+            "TPP",
+            "ORG",
+            "Include",
+            "Members",
+            null,
+            null
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Not",
+            "Share",
+            "Border",
+            "GPE"
+        ],
+        [
+            "TPP",
+            "ORG",
+            "Future",
+            "Appeared",
+            "Tatters",
+            null
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Honor",
+            "Campaign Pledge",
+            null,
+            null
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Pull_Out",
+            "TPP",
+            "ORG",
+            null
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Introduce",
+            "Ryanair UK",
+            "ORG"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Has",
+            "Three",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "UK domestic routes",
+            "SECTOR"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Impact",
+            "Hard Brexit",
+            "EVENT"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Impact",
+            "Travel disruption",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Impact",
+            "Demand",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "Dublin",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "Three intra-UK routes",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Storm Eleanor",
+            "EVENT",
+            "Impact",
+            "Corsica",
+            "GPE"
+        ],
+        [
+            "Storm Eleanor",
+            "EVENT",
+            "Relate_To",
+            "Winds",
+            "CONCEPT"
+        ],
+        [
+            "EDF",
+            "ORG",
+            "Control",
+            "Enedis",
+            "ORG"
+        ]
+    ]
+}

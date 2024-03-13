@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Neiman Marcus Group Ltd",
+            "COMP",
+            "Operate_In",
+            "Luxury Retailer",
+            "SECTOR"
+        ],
+        [
+            "Ralph Lauren Corp",
+            "COMP",
+            "Operate_In",
+            "Upscale Clothing Manufacturer",
+            "SECTOR"
+        ],
+        [
+            "St. John Knits International Inc",
+            "COMP",
+            "Operate_In",
+            "Luxury Apparel Retailer",
+            "SECTOR"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "COMP",
+            "Has",
+            "Nearly 5 Billion Dollars Debt",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

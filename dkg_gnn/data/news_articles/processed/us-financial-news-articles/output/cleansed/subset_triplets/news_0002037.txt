@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Orbital ATK",
+            "ORG",
+            "Has",
+            "NGL System",
+            "PRODUCT"
+        ],
+        [
+            "NGL System",
+            "PRODUCT",
+            "Relate_To",
+            "National Security Space Missions",
+            "CONCEPT"
+        ],
+        [
+            "Orbital ATK",
+            "ORG",
+            "Impact",
+            "NGL Program",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Air Force Space and Missile Systems Center",
+            "ORG/GOV",
+            "Participates_In",
+            "NGL Program",
+            "CONCEPT"
+        ]
+    ]
+}

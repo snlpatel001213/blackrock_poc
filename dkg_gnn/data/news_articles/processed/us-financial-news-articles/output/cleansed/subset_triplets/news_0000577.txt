@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lombard Finance",
+            "ORG",
+            "Has",
+            "Offshore Loans",
+            "PRODUCT"
+        ],
+        [
+            "Offshore Loans",
+            "PRODUCT",
+            "Operate_In",
+            "Channel Island",
+            "GPE"
+        ],
+        [
+            "Ring-fencing Rules",
+            "CONCEPT",
+            "Control",
+            "UK Banks",
+            "ORG"
+        ],
+        [
+            "UK Banks",
+            "ORG",
+            "Participates_In",
+            "Retail Operations",
+            "SECTOR"
+        ],
+        [
+            "Retail Operations",
+            "SECTOR",
+            "Relate_To",
+            "Depositors Money",
+            "CONCEPT"
+        ]
+    ]
+}

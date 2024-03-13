@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Kensho",
+            "ORG",
+            "Analyze",
+            "Utilities",
+            "SECTOR"
+        ],
+        [
+            "Kensho",
+            "ORG",
+            "Analyze",
+            "Energy",
+            "SECTOR"
+        ],
+        [
+            "Utilities",
+            "SECTOR",
+            "Perform",
+            "Right_After",
+            "CONCEPT"
+        ],
+        [
+            "Energy",
+            "SECTOR",
+            "Perform",
+            "Right_After",
+            "CONCEPT"
+        ],
+        [
+            "New_Year",
+            "EVENT",
+            "Relate_To",
+            "Utilities",
+            "SECTOR"
+        ],
+        [
+            "New_Year",
+            "EVENT",
+            "Relate_To",
+            "Energy",
+            "SECTOR"
+        ]
+    ]
+}

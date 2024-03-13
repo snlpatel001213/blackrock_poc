@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Huron Capital",
+            "ORG",
+            "Announce",
+            "Valentus Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Acquire",
+            "US Coatings",
+            "ORG"
+        ],
+        [
+            "US Coatings",
+            "ORG",
+            "Founded",
+            "2000",
+            "CONCEPT"
+        ],
+        [
+            "Mike Reed",
+            "PERSON",
+            "Partner",
+            "Valentus Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Don Thomas",
+            "PERSON",
+            "Partner",
+            "Valentus Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Larry LeSeure",
+            "PERSON",
+            "Partner",
+            "Valentus Specialty Chemicals",
+            "ORG"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Leverage",
+            "Infrastructure",
+            "CONCEPT"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Leverage",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Leverage",
+            "Manufacturing Capacity",
+            "CONCEPT"
+        ],
+        [
+            "US Coatings",
+            "ORG",
+            "Have",
+            "Research and Development Lab",
+            "CONCEPT"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Expand",
+            "Distribution",
+            "CONCEPT"
+        ],
+        [
+            "Valentus Specialty Chemicals",
+            "ORG",
+            "Operate_In",
+            "Protective Coatings Sector",
+            "SECTOR"
+        ],
+        [
+            "Valentus",
+            "ORG",
+            "Introduce",
+            "Advanced Protective Maintenance Coatings System",
+            "CONCEPT"
+        ],
+        [
+            "Valentus",
+            "ORG",
+            "Collaborate",
+            "Eastman Chemical",
+            "ORG"
+        ],
+        [
+            "Valentus-US Coatings",
+            "ORG",
+            "Provide",
+            "Exceptional Technology",
+            "CONCEPT"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Have",
+            "Six Committed Private Equity Funds",
+            "CONCEPT"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Raise",
+            "$1.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Invested",
+            "Over 140 Companies",
+            "CONCEPT"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Employ",
+            "Over 11,000 People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Sector Focus",
+            "Business Services",
+            "SECTOR"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Sector Focus",
+            "Consumer Products & Services",
+            "SECTOR"
+        ],
+        [
+            "Huron Capital",
+            "ORG",
+            "Sector Focus",
+            "Specialty Industrials",
+            "SECTOR"
+        ]
+    ]
+}

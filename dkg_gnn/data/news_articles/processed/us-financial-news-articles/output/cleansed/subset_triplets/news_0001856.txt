@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jon Steinberg",
+            "PERSON",
+            "Is_Member_Of",
+            "Cheddar Inc.",
+            "COMP"
+        ],
+        [
+            "Dick Traum",
+            "PERSON",
+            "Is_Member_Of",
+            "Achilles Kids",
+            "COMP"
+        ],
+        [
+            "NYSE",
+            "GPE",
+            "Participates_In",
+            "Closing Bell",
+            "EVENT"
+        ],
+        [
+            "Nasdaq",
+            "GPE",
+            "Participates_In",
+            "Closing Bell",
+            "EVENT"
+        ]
+    ]
+}

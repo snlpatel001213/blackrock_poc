@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Announce",
+            "Abandon Research",
+            "EVENT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Operate_In",
+            "New Drugs",
+            "EVENT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Negative_Impact_On",
+            "Alzheimer\u2019s Disease",
+            "CONCEPT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Negative_Impact_On",
+            "Parkinson\u2019s Disease",
+            "CONCEPT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Eliminate",
+            "300 Positions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Redistribute",
+            "Research Funding",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Not_Change",
+            "Research Funding",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Invest",
+            "Dementia Discovery Fund",
+            "ORG/REG"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Participates_In",
+            "Develop Treatments",
+            "EVENT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Invest",
+            "Neuroscience Research Projects",
+            "EVENT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Present",
+            "JP Morgan healthcare conference",
+            "EVENT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Partner",
+            "Johnson & Johnson",
+            "COMP"
+        ],
+        [
+            "Bapineuzumab",
+            "PRODUCT",
+            "Fail",
+            "Help Patients",
+            "CONCEPT"
+        ],
+        [
+            "Bapineuzumab",
+            "PRODUCT",
+            "Additional Work",
+            "Called Off",
+            "EVENT"
+        ]
+    ]
+}

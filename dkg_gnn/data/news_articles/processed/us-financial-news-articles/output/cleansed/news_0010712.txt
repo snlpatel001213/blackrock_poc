@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Control",
+            "Cattle Grazing Rights",
+            "CONCEPT"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Participates_In",
+            "Armed 2014 Standoff",
+            "EVENT"
+        ],
+        [
+            "Federal Law Enforcement Officers",
+            "ORG/GOV",
+            "Participates_In",
+            "Armed 2014 Standoff",
+            "EVENT"
+        ],
+        [
+            "U.S. District Judge Gloria Navarro",
+            "PERSON",
+            "Decrease",
+            "Criminal Case",
+            "CONCEPT"
+        ],
+        [
+            "U.S. District Judge Gloria Navarro",
+            "PERSON",
+            "Cite",
+            "Multiple Willful Evidence Violations",
+            "CONCEPT"
+        ],
+        [
+            "Prosecutors",
+            "PERSON",
+            "Commit",
+            "Prosecutorial Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Prosecutors",
+            "PERSON",
+            "Prevent",
+            "Fair Trial",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "output": [
+        [
+            "Centene Corp",
+            "COMP",
+            "Has",
+            "1.4 Million Enrollees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Centene Corp",
+            "COMP",
+            "Increase",
+            "400000",
+            "ECON_INDICATOR",
+            "Q3",
+            "2017",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Centene Corp",
+            "COMP",
+            "Increase",
+            "200000",
+            "ECON_INDICATOR",
+            "Last Year",
+            "GPE"
+        ],
+        [
+            "Centene Corp",
+            "COMP",
+            "Operate_In",
+            "Individual Insurance Market",
+            "SECTOR"
+        ],
+        [
+            "Centene Corp",
+            "COMP",
+            "Expand",
+            "Operations",
+            "VERB",
+            "New States",
+            "GPE"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Propose",
+            "Rule",
+            "VERB",
+            "Allow",
+            "VERB",
+            "Buy",
+            "VERB",
+            "Health Insurance",
+            "PRODUCT",
+            "Not Comply",
+            "VERB",
+            "Obamacare Requirements",
+            "VERB"
+        ],
+        [
+            "Obamacare",
+            "CONCEPT",
+            "Has",
+            "Requirements",
+            "VERB"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Try",
+            "VERB",
+            "Unwind",
+            "VERB",
+            "Obamacare",
+            "CONCEPT"
+        ],
+        [
+            "Tamara Mathias",
+            "PERSON",
+            "Report",
+            "VERB",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "J.P. Morgan Healthcare Conference",
+            "EVENT",
+            "Host",
+            "Centene Corp",
+            "COMP",
+            "Present",
+            "VERB",
+            "Announcement",
+            "VERB"
+        ]
+    ]
+}

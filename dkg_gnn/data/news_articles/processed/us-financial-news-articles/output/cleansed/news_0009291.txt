@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Vila Nova da Rainha",
+            "GPE",
+            "Located_In",
+            "Northern Portugal",
+            "GPE"
+        ],
+        [
+            "Leisure association",
+            "ORG",
+            "Host",
+            "Card Tournament",
+            "EVENT"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Kill",
+            "Eight people",
+            "PERSON"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Injure",
+            "Dozens people",
+            "PERSON"
+        ],
+        [
+            "Stampede",
+            "EVENT",
+            "Injure",
+            "Dozens people",
+            "PERSON"
+        ],
+        [
+            "Jose Antonio de Jesus",
+            "PERSON",
+            "Mayor",
+            "Vila Nova da Rainha",
+            "GPE"
+        ],
+        [
+            "Two-storey gathering place",
+            "ORG",
+            "Belong_To",
+            "Vila Nova da Rainha",
+            "GPE"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Cause",
+            "Explosion of heating boiler",
+            "CONCEPT"
+        ],
+        [
+            "Portugal",
+            "GPE",
+            "Suffer",
+            "Deadliest forest fires",
+            "EVENT"
+        ],
+        [
+            "Deadliest forest fires",
+            "EVENT",
+            "Kill",
+            "Over 100 people",
+            "PERSON"
+        ],
+        [
+            "Deadliest forest fires",
+            "EVENT",
+            "Cause",
+            "Worst loss of human lives",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "uprising",
+            "EVENT"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "political delegitimization",
+            "CONCEPT"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "regime",
+            "ORG/GOV"
+        ],
+        [
+            "Ray Takeyh",
+            "PERSON",
+            "Claim",
+            "uprising",
+            "EVENT"
+        ],
+        [
+            "Ray Takeyh",
+            "PERSON",
+            "Claim",
+            "political delegitimization",
+            "CONCEPT"
+        ],
+        [
+            "Ray Takeyh",
+            "PERSON",
+            "Claim",
+            "regime",
+            "ORG/GOV"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "postelection unrest",
+            "EVENT"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "Islamic Republic",
+            "ORG/GOV"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "delegitimized",
+            "CONCEPT"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "Iranians",
+            "PERSON"
+        ],
+        [
+            "Mark Dubowitz",
+            "PERSON",
+            "Claim",
+            "sham elections",
+            "EVENT"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Participates_In",
+            "presidential contests",
+            "EVENT"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Participates_In",
+            "lively presidential contests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "regime",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Islamic Republic",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "presidential contests",
+            "EVENT"
+        ]
+    ]
+}

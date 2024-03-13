@@ -1,0 +1,47 @@
+{
+    "output": [
+        [
+            "Next",
+            "ORG",
+            "Operate_In",
+            "British clothing retailer",
+            "ORG"
+        ],
+        [
+            "Next",
+            "ORG",
+            "Increase",
+            "Confidence",
+            "CONCEPT"
+        ],
+        [
+            "Next",
+            "ORG",
+            "Return",
+            "Share Buyback",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Next",
+            "ORG",
+            "Upgrade",
+            "Profit Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "ORG",
+            "Plan",
+            "Return",
+            "Return",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Next",
+            "ORG",
+            "Share",
+            "Up",
+            "CONCEPT"
+        ]
+    ]
+}

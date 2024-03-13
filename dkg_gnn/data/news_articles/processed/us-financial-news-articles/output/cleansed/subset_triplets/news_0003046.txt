@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Impact",
+            "Presidential Record",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Impact",
+            "Iowa Polls",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Has",
+            "Public Falling Out",
+            "EVENT"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Is_Member_Of",
+            "Republican Party",
+            "ORG"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Operate_In",
+            "Senate Judiciary Committee",
+            "ORG"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Participates_In",
+            "Demand for Accountability",
+            "CONCEPT"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Relate_To",
+            "Steele Dossier",
+            "CONCEPT"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Impact",
+            "Trump Team",
+            "ORG"
+        ],
+        [
+            "Senator Chuck Grassley",
+            "PERSON",
+            "Impact",
+            "Investigation of Potential Crimes",
+            "CONCEPT"
+        ]
+    ]
+}

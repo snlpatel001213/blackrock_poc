@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Announce",
+            "Bonus",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Operate_In",
+            "Aviation Sector",
+            "SECTOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Control",
+            "Employees",
+            "PERSON"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Raise",
+            "Cash Bonus",
+            "EVENT"
+        ],
+        [
+            "Cash Bonus",
+            "EVENT",
+            "Is_Member_Of",
+            "Bonus",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Participates_In",
+            "Tax Reform Legislation",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Control",
+            "Fleet",
+            "PRODUCT"
+        ],
+        [
+            "Fleet",
+            "PRODUCT",
+            "Relate_To",
+            "Boeing",
+            "COMP"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Produce",
+            "737 MAX",
+            "PRODUCT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Impact",
+            "Fleet Investment",
+            "CONCEPT"
+        ],
+        [
+            "Fleet Investment",
+            "CONCEPT",
+            "Relate_To",
+            "Boeing",
+            "COMP"
+        ]
+    ]
+}

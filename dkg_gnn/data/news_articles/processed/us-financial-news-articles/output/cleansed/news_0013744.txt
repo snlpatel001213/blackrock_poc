@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Has",
+            "Harvey Weinstein",
+            "PERSON"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Fired_From",
+            "Weinstein Co.",
+            "COMP"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Weighs",
+            "offers",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Operate_In",
+            "Bankruptcy",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "File",
+            "Bankruptcy",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Halts",
+            "lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Bring",
+            "allegations",
+            "CONCEPT"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Deny",
+            "allegations",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Claim",
+            "misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Participates_In",
+            "Bankruptcy_Court",
+            "ORG"
+        ],
+        [
+            "Bankruptcy_Court",
+            "ORG",
+            "Bring",
+            "transparency",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Treat",
+            "alleged_victims",
+            "PERSON"
+        ],
+        [
+            "Cris Armenta",
+            "PERSON",
+            "Represent",
+            "alleged_victims",
+            "PERSON"
+        ],
+        [
+            "Cris Armenta",
+            "PERSON",
+            "Argue",
+            "deals",
+            "CONCEPT"
+        ],
+        [
+            "Weinstein Co.",
+            "COMP",
+            "Halts",
+            "civil_lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Individually",
+            "Sued",
+            "CONCEPT"
+        ]
+    ]
+}

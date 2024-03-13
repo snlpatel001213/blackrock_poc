@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Slump",
+            "2018",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "4-month low",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Slide",
+            "9.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Negative_Impact_On",
+            "Basket of trading peers",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Terminate",
+            "QE",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Begin",
+            "Talk about rate rises",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Get_More_Aggressive",
+            "null",
+            "null"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Weaken",
+            "Wide range of assets",
+            "GPE"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Test",
+            "New line-up at the Fed",
+            "ORG/GOV"
+        ],
+        [
+            "FOMC",
+            "ORG/GOV",
+            "Change",
+            "3 important people",
+            "PERSON"
+        ],
+        [
+            "Markets",
+            "PERSON",
+            "Say",
+            "Newcomers",
+            "PERSON"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "1.1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Back",
+            "Sight of 2.5-year peak",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "End",
+            "QE program",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Put",
+            "Timing of rate rise",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Say",
+            "Rates can stay where they are until 2019",
+            "CONCEPT"
+        ],
+        [
+            "Markets",
+            "PERSON",
+            "Question",
+            "ECB message",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Drop",
+            "Two important words",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "PERSON",
+            "Price",
+            "Short-term interest rates at a higher level",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Mean",
+            "Interest rate rise for the euro zone",
+            "SECTOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Change",
+            "Message",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Imply",
+            "Interest rate rise as soon as end of 2018",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Breaks",
+            "25,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Occur",
+            "First Time",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Ever",
+            "NA",
+            "TEMPORAL"
+        ]
+    ]
+}

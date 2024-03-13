@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "RioCan",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RioCan",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "RioCan",
+            "ORG",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "RioCan",
+            "ORG"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "RioCan",
+            "ORG",
+            "Produce",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Relate_To",
+            "RioCan",
+            "ORG"
+        ],
+        [
+            "RioCan",
+            "ORG",
+            "Operate_In",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Relate_To",
+            "RioCan",
+            "ORG"
+        ],
+        [
+            "RioCan",
+            "ORG",
+            "Control",
+            "Portfolio",
+            "SECTOR"
+        ],
+        [
+            "Portfolio",
+            "SECTOR",
+            "Has",
+            "Net Leasable Area",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "grocery stores",
+            "GPE",
+            "Operate_In",
+            "Food Industry",
+            "SECTOR"
+        ],
+        [
+            "rotisserie chickens",
+            "PRODUCT",
+            "Relate_To",
+            "Golden Goose",
+            "CONCEPT"
+        ],
+        [
+            "rotisserie chickens",
+            "PRODUCT",
+            "Has",
+            "Spit-Roasted",
+            "CONCEPT"
+        ],
+        [
+            "rotisserie chickens",
+            "PRODUCT",
+            "Relate_To",
+            "Prepared Foods",
+            "CONCEPT"
+        ],
+        [
+            "grocery stores",
+            "GPE",
+            "Negative_Impact_On",
+            "Packaged Foods",
+            "PRODUCT"
+        ]
+    ]
+}

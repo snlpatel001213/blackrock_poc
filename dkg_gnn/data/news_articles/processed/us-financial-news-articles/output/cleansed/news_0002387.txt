@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Immune cells",
+            "ORG",
+            "Linked_To",
+            "Breast Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Immune cells",
+            "ORG",
+            "Participates_In",
+            "Early Spread",
+            "EVENT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Trigger",
+            "Chain Reaction",
+            "CONCEPT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Enable",
+            "Early Cancer Cells",
+            "CONCEPT",
+            "To Leave",
+            "Breast",
+            "GPE"
+        ],
+        [
+            "Dissemination",
+            "CONCEPT",
+            "Occurs",
+            "Milk Ducts",
+            "GPE"
+        ],
+        [
+            "Dissemination",
+            "CONCEPT",
+            "Prevent",
+            "Early",
+            "ADJ",
+            "Dissemination",
+            "CONCEPT",
+            "Deadly Metastasis",
+            "CONCEPT"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Involved_In",
+            "Early Dissemination",
+            "CONCEPT"
+        ],
+        [
+            "Process",
+            "CONCEPT",
+            "Occurs",
+            "Exactly",
+            "ADV",
+            "How",
+            "Prevent",
+            "Novel Therapies",
+            "CONCEPT"
+        ],
+        [
+            "Treatment",
+            "CONCEPT",
+            "Better",
+            "Current Standard",
+            "CONCEPT",
+            "Treating Metastatic Disease",
+            "CONCEPT",
+            "After",
+            "ADP",
+            "Appeared",
+            "VERB"
+        ],
+        [
+            "Macrophages",
+            "ORG",
+            "Assisting",
+            "Early Metastases",
+            "CONCEPT"
+        ],
+        [
+            "Patients",
+            "ORG",
+            "Not_Necessarily_Cured",
+            "Early Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Metastases",
+            "CONCEPT",
+            "Happen",
+            "Before",
+            "ADP",
+            "You_Ever_See",
+            "CONCEPT",
+            "Screening Test",
+            "CONCEPT"
+        ]
+    ]
+}

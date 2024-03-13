@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Deutsche Boerse",
+            "ORG",
+            "Announce",
+            "Gold Investment",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Boerse",
+            "ORG",
+            "Operate_In",
+            "Xetra-Gold",
+            "PRODUCT"
+        ],
+        [
+            "Xetra-Gold",
+            "PRODUCT",
+            "Has",
+            "Physical Gold",
+            "PRODUCT"
+        ],
+        [
+            "Total Assets",
+            "CONCEPT",
+            "Has",
+            "6.1 Billion Euros",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Total Assets",
+            "CONCEPT",
+            "Relate_To",
+            "7.3 Billion Dollars",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

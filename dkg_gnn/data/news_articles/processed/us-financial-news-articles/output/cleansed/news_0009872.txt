@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Cerus Corp",
+            "COMP",
+            "Announce",
+            "Cerus Corporation",
+            "ORG"
+        ],
+        [
+            "Cerus Corp",
+            "COMP",
+            "Expects",
+            "$43.6 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cerus Corp",
+            "COMP",
+            "Has",
+            "$16.2 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cerus Corp",
+            "COMP",
+            "Has",
+            "Q4 of 2017",
+            "TEMPORAL"
+        ],
+        [
+            "Cerus Corp",
+            "COMP",
+            "Has",
+            "Full Year 2017",
+            "TEMPORAL"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Kitchee",
+            "COMP",
+            "Sign",
+            "Forlan",
+            "PERSON"
+        ],
+        [
+            "Kitchee",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Kitchee",
+            "COMP",
+            "Participates_In",
+            "Asian Champions League",
+            "EVENT"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Play_For",
+            "Kitchee",
+            "COMP"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Played_For",
+            "Uruguay",
+            "GPE"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Played_For",
+            "Manchester United",
+            "COMP"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Played_For",
+            "Mumbai City",
+            "COMP"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Played_For",
+            "Villarreal",
+            "COMP"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Played_For",
+            "Atletico Madrid",
+            "COMP"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Won",
+            "Golden Ball Award",
+            "AWARD"
+        ],
+        [
+            "Forlan",
+            "PERSON",
+            "Finish_Top_Scorer",
+            "La Liga",
+            "SECTOR"
+        ]
+    ]
+}

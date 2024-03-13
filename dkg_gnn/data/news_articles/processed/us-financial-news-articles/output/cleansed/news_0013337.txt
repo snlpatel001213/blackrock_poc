@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "SINPAS REIT",
+            "COMP",
+            "Has",
+            "Omer Faruk Celik",
+            "PERSON"
+        ],
+        [
+            "Omer Faruk Celik",
+            "PERSON",
+            "Sell",
+            "38.5 Million Nominal Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "38.5 Million Nominal Shares",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "SINPAS REIT",
+            "COMP"
+        ],
+        [
+            "SINPAS REIT",
+            "COMP",
+            "Control",
+            "6.4 Percent Stakes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "6.4 Percent Stakes",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "SINPAS REIT",
+            "COMP"
+        ],
+        [
+            "SINPAS REIT",
+            "COMP",
+            "Sell",
+            "0.78 Lira Per Share",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

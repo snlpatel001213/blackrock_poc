@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Andrews & Springer LLC",
+            "ORG",
+            "Operate_In",
+            "Securities Class Action Law Firm",
+            "SECTOR"
+        ],
+        [
+            "Yangtze River Development",
+            "COMP",
+            "Investigated_For",
+            "Breach of Fiduciary Duty",
+            "CONCEPT"
+        ],
+        [
+            "Yangtze River Development",
+            "COMP",
+            "Listed_On",
+            "NASDAQGS",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Craig J. Springer, Esq.",
+            "PERSON",
+            "Works_At",
+            "Andrews & Springer LLC",
+            "ORG"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Protect",
+            "Investments",
+            "CONCEPT"
+        ]
+    ]
+}

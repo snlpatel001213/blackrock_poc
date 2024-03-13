@@ -1,0 +1,247 @@
+{
+    "output": [
+        [
+            "Street crews",
+            "ORG",
+            "Race_Through",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "Crews",
+            "ORG",
+            "Clear",
+            "Snow-clogged Streets",
+            "COMP"
+        ],
+        [
+            "Blizzard",
+            "EVENT",
+            "Cause",
+            "Snowfall",
+            "COMP"
+        ],
+        [
+            "Blizzard",
+            "EVENT",
+            "Impact",
+            "Northeast",
+            "GPE"
+        ],
+        [
+            "National Weather Service",
+            "ORG/GOV",
+            "Warn",
+            "Brutal Cold",
+            "COMP"
+        ],
+        [
+            "Brutal Cold",
+            "EVENT",
+            "Reach",
+            "New England",
+            "GPE"
+        ],
+        [
+            "Brutal Cold",
+            "EVENT",
+            "Reach",
+            "Midwest",
+            "GPE"
+        ],
+        [
+            "Brutal Cold",
+            "EVENT",
+            "Reach",
+            "Carolinas",
+            "GPE"
+        ],
+        [
+            "Brutal Cold",
+            "EVENT",
+            "Break",
+            "Low-temperature Records",
+            "COMP"
+        ],
+        [
+            "Dan Pydynowski",
+            "PERSON",
+            "State",
+            "Highs in Single Digits",
+            "COMP"
+        ],
+        [
+            "Dan Pydynowski",
+            "PERSON",
+            "State",
+            "Intense Wind Chills",
+            "COMP"
+        ],
+        [
+            "Cold",
+            "EVENT",
+            "Extend",
+            "Mid-Atlantic States",
+            "GPE"
+        ],
+        [
+            "Cold",
+            "EVENT",
+            "Raise",
+            "Risk",
+            "COMP"
+        ],
+        [
+            "Road Salt",
+            "COMP",
+            "Not Work",
+            "Melt Ice",
+            "COMP"
+        ],
+        [
+            "Massachusetts Transportation Officials",
+            "ORG",
+            "Warn",
+            "Dangerous Temperatures",
+            "COMP"
+        ],
+        [
+            "Utility Companies",
+            "ORG",
+            "Repair",
+            "Downed Power Lines",
+            "COMP"
+        ],
+        [
+            "Utility Companies",
+            "ORG",
+            "Issue",
+            "Warnings",
+            "COMP"
+        ],
+        [
+            "National Grid",
+            "ORG",
+            "Recommend",
+            "Take Shelter",
+            "COMP"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Dump",
+            "Foot or More of Snow",
+            "COMP"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Blamed",
+            "17 Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "Cancel",
+            "Classes",
+            "COMP"
+        ],
+        [
+            "Baltimore",
+            "GPE",
+            "Cancel",
+            "Classes",
+            "COMP"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Open",
+            "COMP"
+        ],
+        [
+            "Newark",
+            "GPE",
+            "Open",
+            "COMP"
+        ],
+        [
+            "Commuter Railways",
+            "ORG",
+            "Report",
+            "Delays",
+            "COMP"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Cause",
+            "3-foot Tidal Surge",
+            "COMP"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "See",
+            "Extensive Flooding",
+            "COMP"
+        ],
+        [
+            "Scituate",
+            "GPE",
+            "See",
+            "Extensive Flooding",
+            "COMP"
+        ],
+        [
+            "John F. Kennedy",
+            "COMP",
+            "Resume",
+            "Flights",
+            "COMP"
+        ],
+        [
+            "LaGuardia",
+            "COMP",
+            "Resume",
+            "Flights",
+            "COMP"
+        ],
+        [
+            "Bombogenesis",
+            "CONCEPT",
+            "Power",
+            "Storm",
+            "EVENT"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Activate",
+            "500 Members",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Guard",
+            "ORG",
+            "Assist",
+            "Emergency Response",
+            "COMP"
+        ],
+        [
+            "U.S. Department of Defense",
+            "ORG/GOV",
+            "Report",
+            "Traffic Accidents",
+            "COMP"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Extend",
+            "Eastern Canada",
+            "GPE"
+        ]
+    ]
+}

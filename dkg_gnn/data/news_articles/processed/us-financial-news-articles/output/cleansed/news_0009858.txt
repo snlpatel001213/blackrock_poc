@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Agree Realty Corporation",
+            "COMP",
+            "Announce",
+            "Fourth Quarter 2017 Earnings Release Date",
+            "EVENT"
+        ],
+        [
+            "Agree Realty Corporation",
+            "COMP",
+            "Operate_In",
+            "Michigan",
+            "GPE"
+        ],
+        [
+            "Agree Realty Corporation",
+            "COMP",
+            "Control",
+            "Properties",
+            "PRODUCT"
+        ],
+        [
+            "Agree Realty Corporation",
+            "COMP",
+            "Listed_On",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Properties",
+            "PRODUCT",
+            "Contain",
+            "Gross Leasable Space",
+            "CONCEPT"
+        ],
+        [
+            "Gross Leasable Space",
+            "CONCEPT",
+            "Approximate",
+            "8.7 Million Square Feet",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

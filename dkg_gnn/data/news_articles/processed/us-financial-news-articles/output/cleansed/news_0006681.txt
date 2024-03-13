@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "One tourist killed, 12 injured in air balloon crash in Egypt",
+            "EVENT"
+        ],
+        [
+            "Tourist",
+            "PERSON",
+            "Die_In",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "12",
+            "ECON_INDICATOR",
+            "Impact",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Hot air balloon",
+            "PRODUCT",
+            "Crash",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Tourists",
+            "PERSON",
+            "Involved_In",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Various nationalities",
+            "GPE",
+            "Involved_In",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Near",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Bad weather conditions",
+            "CONCEPT",
+            "Cause",
+            "Air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Health ministry",
+            "ORG",
+            "Identify",
+            "Dead person",
+            "PERSON"
+        ],
+        [
+            "Dead person",
+            "PERSON",
+            "Identified_As",
+            "36-year-old woman",
+            "PERSON"
+        ],
+        [
+            "12 injured",
+            "ECON_INDICATOR",
+            "Treated",
+            "Luxor International Hospital",
+            "ORG"
+        ],
+        [
+            "2",
+            "ECON_INDICATOR",
+            "In",
+            "Serious condition",
+            "CONCEPT"
+        ],
+        [
+            "2013",
+            "DATE",
+            "Relate_To",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ],
+        [
+            "19 people",
+            "ECON_INDICATOR",
+            "Die",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Mostly Asian and European tourists",
+            "PERSON",
+            "Involved_In",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Hot air balloon",
+            "PRODUCT",
+            "Catch_Fire",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Mid-air gas explosion",
+            "CONCEPT",
+            "Cause",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Near",
+            "Previous hot air balloon crash",
+            "EVENT"
+        ]
+    ]
+}

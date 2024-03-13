@@ -1,0 +1,142 @@
+{
+    "output": [
+        [
+            "Andy Murray",
+            "PERSON",
+            "Battles_With",
+            "Hip Injury",
+            "CONCEPT"
+        ],
+        [
+            "Mats Wilander",
+            "PERSON",
+            "Believes",
+            "Andy Murray",
+            "PERSON",
+            "Can_Return",
+            "Top",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "May_Need",
+            "Surgery",
+            "CONCEPT"
+        ],
+        [
+            "Mats Wilander",
+            "PERSON",
+            "Host",
+            "Game_Set_and_Mats",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Slipped",
+            "16th",
+            "ECON_INDICATOR",
+            "World",
+            "ORG/GOV"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Battled_Back",
+            "Injury",
+            "CONCEPT",
+            "Before"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Took_Time_Off",
+            "Back_Surgery",
+            "CONCEPT",
+            "2013"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Returned",
+            "Play",
+            "VERB",
+            "Best_Tennis"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Draw_On",
+            "Past_Experiences",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Get_Himself",
+            "100_Percent",
+            "ECON_INDICATOR",
+            "Fit"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Come_Back",
+            "No_Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Battles",
+            "Elbow_Injury",
+            "CONCEPT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Battles",
+            "Knee_Injury",
+            "CONCEPT"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Returns",
+            "Knee_Injury",
+            "CONCEPT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Did",
+            "Last_Year",
+            "EVENT",
+            "Stunning_Fashion"
+        ],
+        [
+            "Mats Wilander",
+            "PERSON",
+            "Says",
+            "Not_Necessarily",
+            "CONCEPT",
+            "Age_Thing"
+        ],
+        [
+            "Mats Wilander",
+            "PERSON",
+            "Says",
+            "More_About",
+            "CONCEPT",
+            "Miles_On_Clock"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Yet_To_Decide",
+            "Surgery",
+            "CONCEPT"
+        ]
+    ]
+}

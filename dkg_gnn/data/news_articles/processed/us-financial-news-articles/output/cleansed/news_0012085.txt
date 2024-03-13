@@ -1,0 +1,111 @@
+{
+    "output": [
+        [
+            "Muhammadu Buhari",
+            "PERSON",
+            "Control",
+            "Nigeria",
+            "GPE"
+        ],
+        [
+            "Muhammadu Buhari",
+            "PERSON",
+            "Impact",
+            "Security and Stability",
+            "CONCEPT"
+        ],
+        [
+            "Muhammadu Buhari",
+            "PERSON",
+            "Campaign_Pledge",
+            "Election in 2015",
+            "EVENT"
+        ],
+        [
+            "Muslim Cattle Herders",
+            "PERSON",
+            "Clash_With",
+            "Christian Farmers",
+            "PERSON"
+        ],
+        [
+            "Terve Akase",
+            "PERSON",
+            "Attribute",
+            "71 Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Terve Akase",
+            "PERSON",
+            "Work_For",
+            "Government of Benue state",
+            "ORG/GOV"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Unable_To_Verify",
+            "Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ibrahim Idris",
+            "PERSON",
+            "Tell",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Ibrahim Idris",
+            "PERSON",
+            "Police_Inspector_General",
+            "Nigeria",
+            "GPE"
+        ],
+        [
+            "Ibrahim Idris",
+            "PERSON",
+            "Deploy",
+            "More Police",
+            "PERSON",
+            "To",
+            "Benue state",
+            "GPE"
+        ],
+        [
+            "Ibrahim Idris",
+            "PERSON",
+            "Say",
+            "Nigeria",
+            "GPE",
+            "Secure"
+        ],
+        [
+            "Nigerian Troops",
+            "PERSON",
+            "Deploy",
+            "Insecurity",
+            "CONCEPT",
+            "More_Than_30",
+            "States",
+            "GPE"
+        ],
+        [
+            "Anamesere Igboeroteonwu",
+            "PERSON",
+            "Reporting",
+            "Clash",
+            "EVENT",
+            "Adamawa",
+            "GPE"
+        ],
+        [
+            "Paul Carsten",
+            "PERSON",
+            "Writing",
+            "Richard Balmforth",
+            "PERSON"
+        ]
+    ]
+}

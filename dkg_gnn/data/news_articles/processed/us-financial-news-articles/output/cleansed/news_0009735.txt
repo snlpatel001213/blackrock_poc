@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "Beijing",
+            "GPE",
+            "Impact",
+            "Air Quality",
+            "CONCEPT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Operate_In",
+            "Northern China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Cut",
+            "Air Pollution Levels",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "Coal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "Cement Production",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "Steel Production",
+            "CONCEPT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Publish",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Report",
+            "Air Pollution",
+            "CONCEPT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Report",
+            "China",
+            "GPE"
+        ],
+        [
+            "Heilongjiang",
+            "GPE",
+            "Jump",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Anhui",
+            "GPE",
+            "Jump",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Jiangsu",
+            "GPE",
+            "Jump",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Huang Wei",
+            "PERSON",
+            "Say",
+            "Policies Favoring Coal",
+            "CONCEPT"
+        ],
+        [
+            "Huang Wei",
+            "PERSON",
+            "Say",
+            "Policies Favoring Heavy Industry",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Grow",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Industrial Sector",
+            "SECTOR",
+            "Boost",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Construction Boom",
+            "EVENT",
+            "Boost",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Expected",
+            "Steel Output Record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Linfen",
+            "GPE",
+            "Rise",
+            "Air Pollution",
+            "CONCEPT"
+        ],
+        [
+            "Taiyuan",
+            "GPE",
+            "Improve",
+            "Air Quality",
+            "CONCEPT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Find",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Find",
+            "Disparity",
+            "CONCEPT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Find",
+            "Pollution Action Plan",
+            "EVENT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Find",
+            "28 City Campaign",
+            "EVENT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Find",
+            "Surrounding Cities",
+            "GPE"
+        ],
+        [
+            "PM2.5 Levels",
+            "CONCEPT",
+            "Fall",
+            "Year-on-Year",
+            "TEMPORAL"
+        ],
+        [
+            "PM2.5 Levels",
+            "CONCEPT",
+            "Fall",
+            "Peak Period for Heating",
+            "EVENT"
+        ],
+        [
+            "PM2.5 Levels",
+            "CONCEPT",
+            "Fall",
+            "23 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "28 Cities",
+            "EVENT",
+            "Fall",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Surrounding Cities",
+            "GPE",
+            "Fall",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "28 Cities",
+            "EVENT",
+            "Fall",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Surrounding Cities",
+            "GPE",
+            "Fall",
+            "PM2.5 Levels",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Calculate",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Independent Website",
+            "ORG",
+            "Track",
+            "Air Quality Data",
+            "CONCEPT"
+        ],
+        [
+            "Aqistudy.cn",
+            "ORG",
+            "Track",
+            "Official Air Quality Data",
+            "CONCEPT"
+        ]
+    ]
+}

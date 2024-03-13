@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "J.P. Morgan Healthcare Conference",
+            "EVENT",
+            "Host",
+            "Merck",
+            "ORG"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "CEO",
+            "Ken Frazier",
+            "PERSON"
+        ],
+        [
+            "Ken Frazier",
+            "PERSON",
+            "Say",
+            "Consumers should receive more rebates",
+            "CONCEPT"
+        ],
+        [
+            "Ken Frazier",
+            "PERSON",
+            "Favor",
+            "Amazon entering drug distribution",
+            "COMP"
+        ],
+        [
+            "Ken Frazier",
+            "PERSON",
+            "Not Surprised",
+            "Trump accusation",
+            "EVENT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Negotiate",
+            "Rebates",
+            "CONCEPT"
+        ],
+        [
+            "Rebates",
+            "CONCEPT",
+            "Go",
+            "Distribution system",
+            "SECTOR"
+        ],
+        [
+            "Rebates",
+            "CONCEPT",
+            "Not pass on",
+            "Consumers",
+            "GPE"
+        ],
+        [
+            "Pharmaceutical companies",
+            "ORG",
+            "Pay",
+            "Rebates",
+            "CONCEPT"
+        ],
+        [
+            "Branded companies",
+            "ORG",
+            "Have",
+            "List price",
+            "CONCEPT"
+        ],
+        [
+            "A third",
+            "QUANTITY",
+            "Go",
+            "Distribution system",
+            "SECTOR"
+        ],
+        [
+            "Distribution system",
+            "SECTOR",
+            "Include",
+            "Insurance companies",
+            "ORG"
+        ],
+        [
+            "Distribution system",
+            "SECTOR",
+            "Include",
+            "PBMs",
+            "ORG"
+        ],
+        [
+            "PBMs",
+            "ORG",
+            "Push back",
+            "Blame for rising prices",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Favor",
+            "Efficient drug delivery",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Potential",
+            "Enter drug-delivery business",
+            "COMP"
+        ],
+        [
+            "Drugmakers",
+            "ORG",
+            "Face criticism",
+            "Raising prices",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Blast",
+            "Drug companies for prices",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Continue",
+            "Work with administration and Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Credit",
+            "Trump focus on American business",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Raise",
+            "Prices every year",
+            "CONCEPT"
+        ],
+        [
+            "Frazier",
+            "PERSON",
+            "Defend",
+            "Price hikes",
+            "CONCEPT"
+        ],
+        [
+            "Price hikes",
+            "CONCEPT",
+            "Modest",
+            "Low- to mid-single digits",
+            "QUANTITY"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Expect",
+            "Attention on drug prices",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Oppose",
+            "Price controls",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Support",
+            "Market-based approach",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Benefit",
+            "Recent tax bill",
+            "EVENT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Allocate",
+            "Capital",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Spend",
+            "Money on science",
+            "CONCEPT"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Build",
+            "Plants",
+            "COMP"
+        ],
+        [
+            "Merck",
+            "ORG",
+            "Hire",
+            "People",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,250 @@
+{
+    "output": [
+        [
+            "Samsung Electronics Co",
+            "COMP",
+            "Has",
+            "Memory Chip Industry",
+            "SECTOR"
+        ],
+        [
+            "Memory Chip Industry",
+            "SECTOR",
+            "Operate_In",
+            "Chip Boom",
+            "EVENT"
+        ],
+        [
+            "Samsung Electronics Co",
+            "COMP",
+            "Control",
+            "Flash Memory Chips",
+            "PRODUCT"
+        ],
+        [
+            "Flash Memory Chips",
+            "PRODUCT",
+            "Drop",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SK Hynix",
+            "COMP",
+            "Fall",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Memory Chip Industry",
+            "SECTOR",
+            "Expand",
+            "Nearly 70 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Memory Chip Industry",
+            "SECTOR",
+            "Enjoy",
+            "Unprecedented Boom",
+            "EVENT"
+        ],
+        [
+            "Smartphones",
+            "PRODUCT",
+            "Require",
+            "More Powerful Chips",
+            "PRODUCT"
+        ],
+        [
+            "Supply",
+            "CONCEPT",
+            "Become",
+            "More Disciplined",
+            "EVENT"
+        ],
+        [
+            "Memory Chips",
+            "PRODUCT",
+            "Likely",
+            "See",
+            "Gradual Price Decline",
+            "EVENT"
+        ],
+        [
+            "NAND Flash Memory Chips",
+            "PRODUCT",
+            "Grow",
+            "43 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nomura",
+            "COMP",
+            "Estimates",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Western Digital",
+            "COMP",
+            "Seek",
+            "Catch Up",
+            "EVENT"
+        ],
+        [
+            "Toshiba Corp",
+            "COMP",
+            "Seek",
+            "Catch Up",
+            "EVENT"
+        ],
+        [
+            "Micron Technology Inc",
+            "COMP",
+            "Seek",
+            "Catch Up",
+            "EVENT"
+        ],
+        [
+            "Smartphone Vendors",
+            "COMP",
+            "Include",
+            "More Memory",
+            "PRODUCT"
+        ],
+        [
+            "Average DRAM Memory",
+            "PRODUCT",
+            "Jump",
+            "38 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NAND Content",
+            "PRODUCT",
+            "Jump",
+            "84 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Industry",
+            "SECTOR",
+            "Stay",
+            "Profitable",
+            "EVENT"
+        ],
+        [
+            "Samsung",
+            "COMP",
+            "Control",
+            "About 40 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Flash Memory Chip Market",
+            "SECTOR",
+            "Soften",
+            "Somewhat",
+            "EVENT"
+        ],
+        [
+            "DRAM Memory Chip Market",
+            "SECTOR",
+            "About",
+            "$20 Billion Bigger",
+            "ECON_INDICATOR"
+        ],
+        [
+            "DRAM Manufacturers",
+            "COMP",
+            "Rush",
+            "Ramp Up Production",
+            "EVENT"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Decline",
+            "As Much As 18 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Smartphone Makers",
+            "COMP",
+            "Account",
+            "One-Third",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Smartphone Makers",
+            "COMP",
+            "Press",
+            "Suppliers",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Pay",
+            "Close Attention",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Look",
+            "Possible Price Fixing",
+            "EVENT"
+        ],
+        [
+            "Samsung",
+            "COMP",
+            "Get",
+            "More Than 50 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Samsung",
+            "COMP",
+            "Memory Business Revenue",
+            "China",
+            "GPE"
+        ],
+        [
+            "Clients",
+            "COMP",
+            "Pressure",
+            "Suppliers",
+            "COMP"
+        ],
+        [
+            "NDRC",
+            "ORG/GOV",
+            "Pay",
+            "Close Attention",
+            "EVENT"
+        ],
+        [
+            "DRAMeXchange",
+            "COMP",
+            "Track",
+            "Chip Prices",
+            "PRODUCT"
+        ],
+        [
+            "Samsung Securities",
+            "COMP",
+            "Affiliate",
+            "Samsung Electronics",
+            "COMP"
+        ],
+        [
+            "Samsung Securities",
+            "COMP",
+            "Hard",
+            "Predict",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Economic Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Rising Cost of Living",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "GDP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Inequality",
+            "CONCEPT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Operate_In",
+            "Islamic Republic",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Ayatollah Ali Khamenei",
+            "PERSON"
+        ],
+        [
+            "Ayatollah Ali Khamenei",
+            "PERSON",
+            "Control",
+            "Setad",
+            "ORG"
+        ],
+        [
+            "Setad",
+            "ORG",
+            "Impact",
+            "Poverty Line",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Revolutionary Guard",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Basij militia",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Tweet",
+            "Support for Iranian People",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Impact",
+            "Economic Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Enemies",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Outside Agitators",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Pro-Government Protests",
+            "EVENT"
+        ],
+        [
+            "Pro-Government Protests",
+            "EVENT",
+            "Relate_To",
+            "Death to America",
+            "CONCEPT"
+        ]
+    ]
+}

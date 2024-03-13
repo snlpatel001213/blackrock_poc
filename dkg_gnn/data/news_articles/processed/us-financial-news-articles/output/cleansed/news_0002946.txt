@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Replace",
+            "Karen Katz",
+            "PERSON"
+        ],
+        [
+            "Karen Katz",
+            "PERSON",
+            "Step_Aside",
+            " ",
+            " "
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Appoint",
+            "new CEO",
+            "PERSON"
+        ],
+        [
+            "Karen Katz",
+            "PERSON",
+            "Retain",
+            "board seat",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Hunt",
+            "new leader",
+            "PERSON"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Struggle",
+            "nearly $5 billion debt load",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Explore",
+            "options to change its capital structure or sell itself",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Abandon",
+            "plan",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Talk",
+            "Canadian retailer Hudson Bay Co",
+            "ORG"
+        ],
+        [
+            "Hudson Bay Co",
+            "ORG",
+            "Talk",
+            "Neiman Marcus Group Ltd",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus Group Ltd",
+            "ORG",
+            "Fall_Apart",
+            "talks",
+            "ORG"
+        ]
+    ]
+}

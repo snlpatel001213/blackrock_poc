@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Douglas Elliman Real Estate",
+            "ORG",
+            "Announce",
+            "Sales_Volume_Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Douglas Elliman Real Estate",
+            "ORG",
+            "Announce",
+            "Average_Sales_Price_Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Republican tax plan",
+            "ORG/GOV",
+            "Impact",
+            "Manhattan real estate",
+            "GPE"
+        ],
+        [
+            "Top",
+            "CONCEPT",
+            "Impact",
+            "Prices_and_Sales",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

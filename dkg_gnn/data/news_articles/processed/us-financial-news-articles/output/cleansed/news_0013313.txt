@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Says",
+            "rescind Trump visit invitation",
+            "EVENT"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Not_believe",
+            "be sensible",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Invitation",
+            "Trump visit",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Accepted",
+            "visit invitation last year",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Important",
+            "ally",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Partner",
+            "security",
+            "SECTOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Partner",
+            "economic",
+            "SECTOR"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Arrive",
+            "Downing Street",
+            "ORG"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Claim",
+            "Trumpalise Queen",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Seen",
+            "Queen",
+            "PERSON"
+        ],
+        [
+            "Queen Elizabeth",
+            "PERSON",
+            "Well_capable",
+            "take Trump",
+            "PERSON"
+        ],
+        [
+            "Queen Elizabeth",
+            "PERSON",
+            "Reign",
+            "65_year",
+            "CONCEPT"
+        ],
+        [
+            "Harry S. Truman",
+            "PERSON",
+            "Start",
+            "Presidents",
+            "SECTOR"
+        ],
+        [
+            "No",
+            "CONCEPT",
+            "Date",
+            "set",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Visit",
+            "Queen",
+            "PERSON"
+        ],
+        [
+            "William James",
+            "PERSON",
+            "Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Stephen Addison",
+            "PERSON",
+            "Editing",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

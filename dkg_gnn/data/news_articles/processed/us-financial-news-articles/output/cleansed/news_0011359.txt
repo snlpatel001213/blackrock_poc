@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "find",
+            "EVENT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Discover",
+            "skulls",
+            "GPE"
+        ],
+        [
+            "authorities",
+            "ORG",
+            "Say",
+            "find",
+            "EVENT"
+        ],
+        [
+            "western Mexico",
+            "GPE",
+            "Suffer",
+            "violence",
+            "EVENT"
+        ],
+        [
+            "region",
+            "GPE",
+            "Have",
+            "increasing violence",
+            "EVENT"
+        ],
+        [
+            "drug cartels",
+            "ORG",
+            "War",
+            "each other",
+            "ORG"
+        ],
+        [
+            "government official",
+            "ORG",
+            "Speak",
+            "condition",
+            "ORG"
+        ],
+        [
+            "Pacific state of Nayarit",
+            "GPE",
+            "Locate",
+            "skulls",
+            "GPE"
+        ],
+        [
+            "skulls",
+            "GPE",
+            "Belong",
+            "person",
+            "PERSON"
+        ],
+        [
+            "skulls",
+            "GPE",
+            "Bury",
+            "three shallow graves",
+            "GPE"
+        ],
+        [
+            "site",
+            "GPE",
+            "Investigate",
+            "human remains",
+            "GPE"
+        ],
+        [
+            "Nayarit",
+            "GPE",
+            "Hit",
+            "gang-related killings",
+            "EVENT"
+        ],
+        [
+            "murders",
+            "EVENT",
+            "Push",
+            "record high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "In",
+            "2017",
+            "DATE"
+        ],
+        [
+            "Jalisco New Generation Cartel",
+            "ORG",
+            "Base",
+            "neighboring Jalisco state",
+            "GPE"
+        ],
+        [
+            "gang",
+            "ORG",
+            "Struggle",
+            "rivals",
+            "ORG"
+        ],
+        [
+            "Sinaloa Cartel",
+            "ORG",
+            "Of",
+            "Joaquin \u201cEl Chapo\u201d Guzman",
+            "PERSON"
+        ],
+        [
+            "Nayarit\u2019s attorney general",
+            "ORG",
+            "Arrest",
+            "San Diego",
+            "GPE"
+        ],
+        [
+            "U.S. authorities",
+            "ORG",
+            "Arrest",
+            "Nayarit\u2019s attorney general",
+            "ORG"
+        ],
+        [
+            "Nayarit\u2019s attorney general",
+            "ORG",
+            "Charge",
+            "drug trafficking",
+            "EVENT"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "By",
+            "Lizbeth Diaz",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "By",
+            "Paul Tait",
+            "PERSON"
+        ]
+    ]
+}

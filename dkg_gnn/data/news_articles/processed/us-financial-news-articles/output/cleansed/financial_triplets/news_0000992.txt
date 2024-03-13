@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "German Foreign Minister",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Sigmar Gabriel",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Protesters Death",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Andres Garcia-Amaya",
+            "PERSON",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fixed Income Strategist",
+            "ORG",
+            "Announce",
+            "Hike Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Zoe Financial",
+            "ORG",
+            "Participates_In",
+            "Outlook",
+            "EVENT"
+        ],
+        [
+            "Matthew Diczok",
+            "PERSON",
+            "Participates_In",
+            "Outlook",
+            "EVENT"
+        ],
+        [
+            "Merrill Lynch & U.S. Trust",
+            "ORG",
+            "Participates_In",
+            "Outlook",
+            "EVENT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Relate_To",
+            "Outlook",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Is_Member_Of",
+            "Tech Giants",
+            "ORG"
+        ],
+        [
+            "Tech Giants",
+            "ORG",
+            "Participates_In",
+            "Tech Sector",
+            "SECTOR"
+        ]
+    ]
+}

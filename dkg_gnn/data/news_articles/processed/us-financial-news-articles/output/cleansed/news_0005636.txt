@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Participates_In",
+            "Auckland Classic",
+            "EVENT"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Participates_In",
+            "Auckland Final",
+            "EVENT"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Defeat",
+            "Sofia Kenin",
+            "PERSON"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Defeat",
+            "Sachia Vickery",
+            "PERSON"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Participates_In",
+            "Auckland Final",
+            "EVENT"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Defeat",
+            "Polona Hercog",
+            "PERSON"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Defeat",
+            "Hsieh Su-wei",
+            "PERSON"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Control",
+            "Auckland Tennis Centre",
+            "ORG"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Operate_In",
+            "Tennis Sector",
+            "SECTOR"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Operate_In",
+            "Tennis Sector",
+            "SECTOR"
+        ]
+    ]
+}

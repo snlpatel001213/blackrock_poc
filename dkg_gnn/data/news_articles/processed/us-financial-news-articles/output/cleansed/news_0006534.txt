@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "25000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Charge_Past",
+            "25000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Positive_Impact_On",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "US Companies",
+            "COMP",
+            "Shrink",
+            "Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Individual Investors",
+            "PERSON",
+            "Retreat",
+            "US Stocks",
+            "SECTOR"
+        ],
+        [
+            "Retail-Investor Mutual Funds",
+            "COMP",
+            "Pull_Out",
+            "$1 Trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail-Investor Mutual Funds",
+            "COMP",
+            "Target",
+            "US Stocks",
+            "SECTOR"
+        ]
+    ]
+}

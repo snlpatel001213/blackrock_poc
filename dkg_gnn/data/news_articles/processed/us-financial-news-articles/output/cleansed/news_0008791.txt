@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Establish",
+            "2% Inflation Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Consider",
+            "Changes",
+            "SECTOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Ben Bernanke",
+            "PERSON",
+            "Say",
+            "Fed should revisit framework",
+            "CONCEPT"
+        ]
+    ]
+}

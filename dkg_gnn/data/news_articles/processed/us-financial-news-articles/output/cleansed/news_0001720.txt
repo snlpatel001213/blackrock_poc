@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Inflation",
+            "CONCEPT",
+            "Impact",
+            "Michael Preiss",
+            "PERSON"
+        ],
+        [
+            "Michael Preiss",
+            "PERSON",
+            "Is_Member_Of",
+            "Taurus Wealth Advisors",
+            "ORG"
+        ],
+        [
+            "Taurus Wealth Advisors",
+            "ORG",
+            "Relate_To",
+            "Dollar",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "GPE",
+            "Expects",
+            "Weaker",
+            "CONCEPT"
+        ]
+    ]
+}

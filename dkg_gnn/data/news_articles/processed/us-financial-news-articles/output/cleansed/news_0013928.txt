@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "U.S. farmers",
+            "PERSON",
+            "Plant",
+            "white corn",
+            "PRODUCT"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Make up",
+            "roughly 1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Command",
+            "a premium",
+            "ECON_INDICATOR"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Can be bought",
+            "at prices below cost of production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Sold",
+            "to makers of ethanol or animal feed",
+            "ORG"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Used by",
+            "companies such as Frito-Lay",
+            "COMP"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Eaten",
+            "as part of the breakfast staple pap",
+            "CONCEPT"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Used in",
+            "patties known as arepas",
+            "CONCEPT"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Prone to",
+            "more severe price fluctuations",
+            "CONCEPT"
+        ],
+        [
+            "yellow corn",
+            "PRODUCT",
+            "More widely grown",
+            "than white corn",
+            "PRODUCT"
+        ],
+        [
+            "CBOT March corn futures",
+            "FIN_INSTRUMENT",
+            "Last traded",
+            "a 1/4 cent lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Grown",
+            "in a few U.S. states",
+            "GPE"
+        ],
+        [
+            "white corn",
+            "PRODUCT",
+            "Buyers",
+            "primarily food companies",
+            "ORG"
+        ],
+        [
+            "U.S. Department of Agriculture",
+            "ORG",
+            "Provides",
+            "data on exports of U.S. white corn",
+            "PRODUCT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Likely to",
+            "return to its status as a net exporter",
+            "CONCEPT"
+        ],
+        [
+            "Lewis B. Osterbur and Associates",
+            "COMP",
+            "Buys",
+            "specialty grain",
+            "PRODUCT"
+        ],
+        [
+            "Reed White",
+            "PERSON",
+            "A farmer in",
+            "Sturgis, Kentucky",
+            "GPE"
+        ],
+        [
+            "Reed White",
+            "PERSON",
+            "Plants",
+            "no white corn",
+            "PRODUCT"
+        ],
+        [
+            "Reed White",
+            "PERSON",
+            "Plants",
+            "only yellow corn",
+            "PRODUCT"
+        ],
+        [
+            "Andersons Inc",
+            "COMP",
+            "Has",
+            "a waiting list for farmers interested in growing white corn",
+            "PRODUCT"
+        ],
+        [
+            "Andersons Inc",
+            "COMP",
+            "Supplies",
+            "white corn to a local tortilla maker",
+            "ORG"
+        ]
+    ]
+}

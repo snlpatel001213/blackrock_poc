@@ -1,0 +1,55 @@
+{
+    "output": [
+        [
+            "People\u2019s Bank of China (PBOC)",
+            "ORG/GOV",
+            "Can_Tell",
+            "Local Governments",
+            "ORG/GOV"
+        ],
+        [
+            "Local Governments",
+            "ORG/GOV",
+            "Regulate",
+            "Bitcoin Miners",
+            "ORG"
+        ],
+        [
+            "Bitcoin Miners",
+            "ORG",
+            "Power_Usage",
+            "Regulate",
+            "ORG"
+        ],
+        [
+            "People\u2019s Bank of China (PBOC)",
+            "ORG/GOV",
+            "Limit",
+            "Bitcoin Mining",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Order",
+            "Initial Coin Offerings",
+            "ORG",
+            "Cease"
+        ],
+        [
+            "China",
+            "GPE",
+            "Order",
+            "Cryptocurrency Trading Exchanges",
+            "ORG",
+            "Shuttered"
+        ],
+        [
+            "Bitcoin Miners",
+            "ORG",
+            "Fear",
+            "Next Target",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Altice USA Inc.",
+            "COMP",
+            "Files",
+            "Class A and Class B Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Altice USA Inc.",
+            "COMP",
+            "Relate_To",
+            "Altice N.V.",
+            "ORG"
+        ],
+        [
+            "Altice N.V.",
+            "ORG",
+            "Control",
+            "Class A and Class B Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Altice N.V.",
+            "ORG",
+            "Impact",
+            "Altice USA Inc.",
+            "COMP"
+        ]
+    ]
+}

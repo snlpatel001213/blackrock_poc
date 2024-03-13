@@ -1,0 +1,135 @@
+{
+    "output": [
+        [
+            "Ukraine",
+            "GPE",
+            "Accuse",
+            "Pro-Russian Separatists",
+            "ORG"
+        ],
+        [
+            "Pro-Russian Separatists",
+            "ORG",
+            "Accuse",
+            "Ukraine",
+            "GPE"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Report",
+            "Three Servicemen Killed",
+            "PERSON"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Operate_In",
+            "Conflict",
+            "CONCEPT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Back",
+            "Insurgency",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "France",
+            "GPE",
+            "Russia",
+            "GPE",
+            "Ukraine",
+            "GPE",
+            "Broker",
+            "Ceasefire Deal",
+            "CONCEPT"
+        ],
+        [
+            "Conflict",
+            "CONCEPT",
+            "Kill",
+            "More Than Ten Thousand People",
+            "PERSON"
+        ],
+        [
+            "Separatist Side",
+            "ORG",
+            "Increase",
+            "Intensity And Density Of Its Firing",
+            "CONCEPT"
+        ],
+        [
+            "Ukrainian Troops",
+            "ORG",
+            "Fire Artillery",
+            "Towards Rebel Positions",
+            "ORG"
+        ],
+        [
+            "Rebel Leadership",
+            "ORG",
+            "Accuse",
+            "Ukraine",
+            "GPE",
+            "Use Artillery",
+            "CONCEPT"
+        ],
+        [
+            "Under",
+            "Ceasefire Agreement",
+            "All Heavy Weapons",
+            "Meant",
+            "Withdraw",
+            "CONCEPT"
+        ],
+        [
+            "International Community",
+            "ORG",
+            "Call",
+            "Deploy U.N. Peacekeepers",
+            "ORG",
+            "Donbass Region",
+            "GPE"
+        ],
+        [
+            "Kiev",
+            "GPE",
+            "Moscow",
+            "GPE",
+            "Back",
+            "Idea",
+            "CONCEPT"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Russia",
+            "GPE",
+            "Disagree",
+            "Positioned",
+            "Rebel-Controlled Part",
+            "GPE",
+            "Ukraine-Russia Border",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Deny",
+            "Accusations",
+            "Ukraine",
+            "GPE",
+            "NATO",
+            "ORG",
+            "Support",
+            "Rebels",
+            "ORG",
+            "Troops And Weapons",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Exchange-traded funds",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Record Year",
+            "EVENT"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Announce",
+            "Record Flows",
+            "EVENT"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Control",
+            "$463 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stock Funds",
+            "FIN_INSTRUMENT",
+            "Receive",
+            "$330 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Debt and Fixed-income Funds",
+            "FIN_INSTRUMENT",
+            "Receive",
+            "$119 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Downturn",
+            "EVENT"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Pullback",
+            "EVENT"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Manage",
+            "$3.4 Trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Long-term Mutual Funds",
+            "SECTOR"
+        ],
+        [
+            "U.S. ETF investing",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Money Markets",
+            "SECTOR"
+        ]
+    ]
+}

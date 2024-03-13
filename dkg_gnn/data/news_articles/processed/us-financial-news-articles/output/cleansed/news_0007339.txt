@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Jimmy Anderson",
+            "PERSON",
+            "Participates_In",
+            "Ashes Series",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Operate_In",
+            "Right Track",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Not",
+            "Need",
+            "VERB"
+        ],
+        [
+            "England",
+            "GPE",
+            "Overhaul",
+            "Their Squad",
+            "ORG"
+        ],
+        [
+            "Andy Flower",
+            "PERSON",
+            "Resign",
+            "Coach",
+            "ORG"
+        ],
+        [
+            "England",
+            "GPE",
+            "Bowlers",
+            "Fail",
+            "VERB"
+        ],
+        [
+            "England",
+            "GPE",
+            "Batsmen",
+            "Score",
+            "VERB"
+        ],
+        [
+            "England",
+            "GPE",
+            "Made Strides",
+            "Right Direction",
+            "CONCEPT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Suspended",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Preparations",
+            "Adequate",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Played",
+            "Pressure Situations",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Not Dealt",
+            "Pressure Situations",
+            "CONCEPT"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "England",
+            "GPE"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "Toured Australia",
+            "GPE"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "Wrong End",
+            "DIRECTION"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "Fantastic",
+            "ADJ"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Captain",
+            "Level Headed",
+            "ADJ"
+        ]
+    ]
+}

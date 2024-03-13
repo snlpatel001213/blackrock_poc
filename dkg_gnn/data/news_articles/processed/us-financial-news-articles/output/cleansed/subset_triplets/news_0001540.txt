@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Market Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "Market Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Introduce",
+            "Record Market Cap",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stellar",
+            "COMP",
+            "Positive_Impact_On",
+            "Cryptocurrencies Combined Market Value",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

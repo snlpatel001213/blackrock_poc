@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "LifeVantage",
+            "COMP",
+            "Operate_In",
+            "Utah",
+            "GPE"
+        ],
+        [
+            "Zhang",
+            "PERSON",
+            "File",
+            "Securities Class Action",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Violate",
+            "Sections 10(b) and/or 20(a)",
+            "CONCEPT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Violate",
+            "Rule 10b-5",
+            "CONCEPT"
+        ],
+        [
+            "Lead Plaintiffs",
+            "PERSON",
+            "File",
+            "Motion for Leave to File a Second Amended Complaint",
+            "EVENT"
+        ],
+        [
+            "Lead Plaintiffs",
+            "PERSON",
+            "Denied",
+            "Motion for Leave to Amend",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Enter",
+            "Final Judgment in Favor",
+            "CONCEPT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Dismiss",
+            "Case with Prejudice",
+            "EVENT"
+        ],
+        [
+            "Johnson",
+            "PERSON",
+            "File",
+            "Shareholder Derivative Action",
+            "EVENT"
+        ],
+        [
+            "Rupp",
+            "PERSON",
+            "File",
+            "Shareholder Derivative Action",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Breach",
+            "Fiduciary Duties",
+            "CONCEPT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Consolidate",
+            "Shareholder Derivative Actions",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Defer",
+            "Shareholder Derivative Actions",
+            "EVENT"
+        ],
+        [
+            "Hansen",
+            "PERSON",
+            "File",
+            "Shareholder Derivative Action",
+            "EVENT"
+        ],
+        [
+            "Baker",
+            "PERSON",
+            "File",
+            "Shareholder Derivative Action",
+            "EVENT"
+        ],
+        [
+            "Inforzato",
+            "PERSON",
+            "File",
+            "Shareholder Derivative Action",
+            "EVENT"
+        ],
+        [
+            "Plaintiffs",
+            "PERSON",
+            "Agree",
+            "Voluntary Dismissal",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Notice",
+            "Voluntary Dismissal",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Order",
+            "Notice to Shareholders",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Provide",
+            "Notice",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Right_To",
+            "Intervene_In",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Motion_To_Intervene",
+            "Inforzato_Action",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Own",
+            "Shares_In_LifeVantage",
+            "CONCEPT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Pursue",
+            "Claims_In_Inforzato",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Motions_To_Intervene",
+            "Filed_With_Clerk_Of_Court",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Mailed",
+            "Copy_Of_Motion_To_Intervene",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "File",
+            "Motion_To_Intervene",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Mailed",
+            "Copy_Of_Motion_To_Intervene",
+            "EVENT"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Clerk_Of_Court",
+            "United_States_District_Court_For_The_District_Of_Utah",
+            "ORG"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "Milo_Steven_Marsden",
+            "Dorsey_&_Whitney_LLP",
+            "ORG"
+        ],
+        [
+            "LifeVantage",
+            "COMP",
+            "John_P._Stigi_III",
+            "Sheppard, Mullin, Richter & Hampton, LLP",
+            "ORG"
+        ]
+    ]
+}

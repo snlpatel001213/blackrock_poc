@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lorde",
+            "PERSON",
+            "Participates_In",
+            "Artistic Boycott of Israel",
+            "CONCEPT"
+        ],
+        [
+            "Lorde",
+            "PERSON",
+            "Operate_In",
+            "New Zealand",
+            "GPE"
+        ],
+        [
+            "Rabbi Shmuley Boteach",
+            "PERSON",
+            "Control",
+            "The World Values Network",
+            "ORG"
+        ],
+        [
+            "The World Values Network",
+            "ORG",
+            "Relate_To",
+            "Global Anti-Semitic Boycott of Israel",
+            "CONCEPT"
+        ],
+        [
+            "The World Values Network",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ]
+    ]
+}

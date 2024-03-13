@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "Sodexo",
+            "COMP",
+            "Has",
+            "Sodexo Chairwoman Sophie Bellon",
+            "PERSON"
+        ],
+        [
+            "Sodexo",
+            "COMP",
+            "Sign",
+            "Global Partnership Deal",
+            "EVENT",
+            "With",
+            "Huawei",
+            "COMP"
+        ],
+        [
+            "Huawei",
+            "COMP",
+            "Has",
+            "Huawei Chairwoman Sun Yafang",
+            "PERSON"
+        ],
+        [
+            "Sodexo",
+            "COMP",
+            "Operate_In",
+            "Facilities Management Services",
+            "SECTOR"
+        ],
+        [
+            "Huawei",
+            "COMP",
+            "Control",
+            "$400 million worth",
+            "ECON_INDICATOR",
+            "Of",
+            "Upcoming Integrated Facilities Management Services Projects",
+            "PRODUCT"
+        ],
+        [
+            "Sodexo",
+            "COMP",
+            "Participates_In",
+            "Agreement Signing",
+            "EVENT",
+            "With",
+            "Huawei",
+            "COMP",
+            "In",
+            "Presence",
+            "OF",
+            "French finance minister Bruno Le Maire",
+            "PERSON",
+            "And",
+            "Chinese trade minister Zhong Shan",
+            "PERSON"
+        ]
+    ]
+}

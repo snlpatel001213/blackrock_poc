@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "RLI Corp.",
+            "COMP",
+            "Announce",
+            "fourth quarter 2017 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Hold",
+            "quarterly conference call",
+            "EVENT"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Operate_In",
+            "specialty insurer",
+            "SECTOR"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Produce",
+            "diverse, niche property, casualty and surety markets",
+            "SECTOR"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Control",
+            "RLI Insurance Company",
+            "ORG"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Control",
+            "Mt. Hawley Insurance Company",
+            "ORG"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Control",
+            "Contractors Bonding and Insurance Company",
+            "ORG"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Rated",
+            "A+ \u201cSuperior\u201d",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Pay",
+            "regular dividends for 42 consecutive years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RLI Corp.",
+            "COMP",
+            "Deliver",
+            "underwriting profits for 21 consecutive years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aaron Jacoby",
+            "PERSON",
+            "Is_Member_Of",
+            "RLI Corp.",
+            "COMP"
+        ],
+        [
+            "Aaron Jacoby",
+            "PERSON",
+            "Position",
+            "Vice President, Corporate Development",
+            "TITLE"
+        ]
+    ]
+}

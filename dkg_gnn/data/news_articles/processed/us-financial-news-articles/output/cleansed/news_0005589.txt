@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Bristol-Myers Squibb",
+            "COMP",
+            "Record",
+            "$3 billion charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb",
+            "COMP",
+            "Relate_To",
+            "U.S. tax reform law",
+            "ORG/GOV"
+        ],
+        [
+            "Bristol-Myers Squibb",
+            "COMP",
+            "Decrease",
+            "Net earnings per share forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb",
+            "COMP",
+            "Decrease",
+            "Tax rate forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S. Tax Reform Law",
+            "ORG/GOV",
+            "Impact",
+            "Bristol-Myers Squibb",
+            "COMP"
+        ],
+        [
+            "U.S. Tax Reform Law",
+            "ORG/GOV",
+            "Change",
+            "Corporate income tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Tax Reform Law",
+            "ORG/GOV",
+            "Exempt",
+            "U.S. corporations from U.S. taxes on most future foreign profits",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. Tax Reform Law",
+            "ORG/GOV",
+            "Set",
+            "One-time tax for U.S. business profits now held overseas",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. Tax Reform Law",
+            "ORG/GOV",
+            "Prevent",
+            "Companies from shifting profits out of the United States to lower-tax jurisdictions abroad",
+            "CONCEPT"
+        ]
+    ]
+}

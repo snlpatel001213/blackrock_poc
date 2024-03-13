@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "Thousands of Greeks",
+            "GPE",
+            "Protest",
+            "new reforms",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Set",
+            "restrictions on the right to strike",
+            "CONCEPT"
+        ],
+        [
+            "Athens",
+            "GPE",
+            "Used",
+            "Athens metro",
+            "COMP"
+        ],
+        [
+            "Athens metro",
+            "COMP",
+            "Cause",
+            "traffic gridlock",
+            "CONCEPT"
+        ],
+        [
+            "Athens",
+            "GPE",
+            "Have",
+            "state-run hospitals",
+            "COMP"
+        ],
+        [
+            "State-run hospitals",
+            "COMP",
+            "Rely",
+            "reserve staff",
+            "COMP"
+        ],
+        [
+            "Doctors",
+            "PERSON",
+            "Walk off",
+            "job",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Expect",
+            "work stoppages",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Approve",
+            "bill",
+            "COMP"
+        ],
+        [
+            "Bill",
+            "COMP",
+            "Restructure",
+            "family benefits",
+            "COMP"
+        ],
+        [
+            "Bill",
+            "COMP",
+            "Introduce",
+            "new process for foreclosures on overdue loans",
+            "CONCEPT"
+        ],
+        [
+            "Bill",
+            "COMP",
+            "Make",
+            "harder to call a strike",
+            "CONCEPT"
+        ],
+        [
+            "PAME",
+            "COMP",
+            "Chant",
+            "Hands off strikes",
+            "CONCEPT"
+        ],
+        [
+            "PAME",
+            "COMP",
+            "Shout",
+            "slogans",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Require",
+            "bailouts",
+            "COMP"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Have",
+            "ruling Syriza",
+            "COMP"
+        ],
+        [
+            "Syriza",
+            "COMP",
+            "Elected",
+            "2015",
+            "DATE"
+        ],
+        [
+            "Syriza",
+            "COMP",
+            "Roots",
+            "left-wing labour activism",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Present",
+            "retired ship officer George Papaspyropoulos",
+            "PERSON"
+        ],
+        [
+            "Retired ship officer George Papaspyropoulos",
+            "PERSON",
+            "Say",
+            "essentially abolishes the right to strike",
+            "CONCEPT"
+        ],
+        [
+            "Retired ship officer George Papaspyropoulos",
+            "PERSON",
+            "Refer",
+            "junta",
+            "COMP"
+        ],
+        [
+            "Junta",
+            "COMP",
+            "Rule",
+            "Greece",
+            "GPE"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Present",
+            "goverment",
+            "COMP"
+        ],
+        [
+            "Goverment",
+            "COMP",
+            "Leftist",
+            "name only",
+            "CONCEPT"
+        ],
+        [
+            "Goverment",
+            "COMP",
+            "Junta",
+            "deeds",
+            "CONCEPT"
+        ],
+        [
+            "Unions",
+            "COMP",
+            "Call",
+            "strikes",
+            "CONCEPT"
+        ],
+        [
+            "Unions",
+            "COMP",
+            "Require",
+            "support of one-third of their members",
+            "CONCEPT"
+        ],
+        [
+            "New law",
+            "COMP",
+            "Raise",
+            "support required to call a strike",
+            "CONCEPT"
+        ],
+        [
+            "Creditords",
+            "COMP",
+            "Hope",
+            "limit the frequency of strikes",
+            "CONCEPT"
+        ],
+        [
+            "Creditords",
+            "COMP",
+            "Hope",
+            "improve productivity",
+            "CONCEPT"
+        ],
+        [
+            "Productivity",
+            "CONCEPT",
+            "Lag",
+            "about 20 percent behind the European Union average",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Require",
+            "reforms",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Receive",
+            "tranches of bailout aid",
+            "COMP"
+        ],
+        [
+            "Bailout aid",
+            "COMP",
+            "Expires",
+            "August",
+            "DATE"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Receive",
+            "40.2 billion euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New tranche",
+            "COMP",
+            "Worth",
+            "around 4.5 billion euros",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

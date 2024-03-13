@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Indian shares",
+            "GPE",
+            "End",
+            "Nearly flat",
+            "CONCEPT"
+        ],
+        [
+            "Housing Development Finance Corp Ltd",
+            "COMP",
+            "Fall",
+            null,
+            null
+        ],
+        [
+            "Tata Consultancy Services",
+            "COMP",
+            "Surge",
+            null,
+            null
+        ],
+        [
+            "NSE index",
+            "GPE",
+            "Close",
+            "0.05 percent lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BSE index",
+            "GPE",
+            "End",
+            "0.03 percent down",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nifty IT index",
+            "GPE",
+            "Close",
+            "2.2 percent higher",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tata Consultancy Services",
+            "COMP",
+            "Post",
+            "December-quarter results",
+            "EVENT"
+        ],
+        [
+            "Housing Development Finance Corp",
+            "COMP",
+            "Slip",
+            "0.5 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

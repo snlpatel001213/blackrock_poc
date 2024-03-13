@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Announce",
+            "2017 net profits will fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Control",
+            "poultry selling prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Control",
+            "pigs selling prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Produce",
+            "pork",
+            "PRODUCT"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Produce",
+            "poultry meat",
+            "PRODUCT"
+        ],
+        [
+            "H7N9 bird flu",
+            "EVENT",
+            "Negative_Impact_On",
+            "poultry selling prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Raise",
+            "total sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Raise",
+            "average weights",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Participates_In",
+            "live chickens demand",
+            "CONCEPT"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Switch",
+            "new broiler breeds",
+            "CONCEPT"
+        ],
+        [
+            "Guangdong Wen\u2019s Foodstuff",
+            "COMP",
+            "Expand",
+            "sales of chilled poultry meat",
+            "PRODUCT"
+        ]
+    ]
+}

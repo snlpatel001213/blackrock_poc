@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Bill Gates",
+            "PERSON",
+            "Impact",
+            "Eradicating Polio",
+            "CONCEPT"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Impact",
+            "Researching Treatments for Alzheimer's",
+            "CONCEPT"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Impact",
+            "Improving Public Education Systems",
+            "CONCEPT"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Has",
+            "Foundation",
+            "ORG"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Participates_In",
+            "Brain Health",
+            "CONCEPT"
+        ]
+    ]
+}

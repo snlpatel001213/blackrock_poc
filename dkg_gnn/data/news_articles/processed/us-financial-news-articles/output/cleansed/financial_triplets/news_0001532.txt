@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Announce",
+            "Treasonous",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Is_Member_Of",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Impact",
+            "Stock Market",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

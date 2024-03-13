@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Big consumer groups",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Procter & Gamble",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Nestl\u00e9",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Procter & Gamble",
+            "COMP",
+            "Relate_To",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Relate_To",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "Nestl\u00e9",
+            "COMP",
+            "Relate_To",
+            "Sales Growth",
+            "CONCEPT"
+        ],
+        [
+            "Sales Growth",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Procter & Gamble",
+            "COMP"
+        ],
+        [
+            "Sales Growth",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Unilever",
+            "COMP"
+        ],
+        [
+            "Sales Growth",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Nestl\u00e9",
+            "COMP"
+        ],
+        [
+            "Consumer Tastes",
+            "CONCEPT",
+            "Relate_To",
+            "Highly Processed Products",
+            "CONCEPT"
+        ],
+        [
+            "Low Inflation",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Companies",
+            "ORG"
+        ]
+    ]
+}

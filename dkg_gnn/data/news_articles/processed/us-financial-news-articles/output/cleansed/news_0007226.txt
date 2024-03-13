@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "Wadsworth Atheneum Museum of Art",
+            "ORG",
+            "Mount",
+            "Gorey\u2019s Worlds",
+            "EVENT"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Feature",
+            "Edward Gorey",
+            "PERSON",
+            "Personal Collection"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Include",
+            "Rare Examples",
+            "CONCEPT",
+            "of his own drawings"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Have",
+            "Works on Paper",
+            "CONCEPT",
+            "by French Artists"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Include",
+            "Eug\u00e8ne Delacroix",
+            "PERSON"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Include",
+            "\u00c9douard Manet",
+            "PERSON"
+        ],
+        [
+            "Gorey\u2019s Worlds",
+            "EVENT",
+            "Include",
+            "Jean Dubuffet",
+            "PERSON"
+        ]
+    ]
+}

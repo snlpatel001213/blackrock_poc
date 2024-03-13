@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "FTSE 100",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Record",
+            "GPE"
+        ],
+        [
+            "FTSE 250",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Record",
+            "GPE"
+        ],
+        [
+            "Glencore",
+            "COMP",
+            "Impact",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BHP Billiton",
+            "COMP",
+            "Impact",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Anglo American",
+            "COMP",
+            "Impact",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Centrica",
+            "COMP",
+            "Decrease",
+            null,
+            "null"
+        ],
+        [
+            "Direct Line",
+            "COMP",
+            "Decrease",
+            null,
+            "null"
+        ],
+        [
+            "Pendragon",
+            "COMP",
+            "Decrease",
+            null,
+            "null"
+        ],
+        [
+            "Lookers",
+            "COMP",
+            "Decrease",
+            null,
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Sell",
+            "Steinhoff Bonds",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Has",
+            "Accounting Irregularity",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "More than 40 multinational retail brands",
+            "SECTOR"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Produce",
+            "Conforama, Mattress Firm and Poundland",
+            "PRODUCT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Buy",
+            "Steinhoff Bonds",
+            "PRODUCT"
+        ],
+        [
+            "Steinhoff Bonds",
+            "PRODUCT",
+            "Impact",
+            "ECB Investment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Steinhoff Bonds",
+            "PRODUCT",
+            "Decrease",
+            "55 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff Bonds",
+            "PRODUCT",
+            "Relate_To",
+            "Value at which it was issued",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steinhoff Bonds",
+            "PRODUCT",
+            "Operate_In",
+            "ECB Stimulus Programme",
+            "SECTOR"
+        ]
+    ]
+}

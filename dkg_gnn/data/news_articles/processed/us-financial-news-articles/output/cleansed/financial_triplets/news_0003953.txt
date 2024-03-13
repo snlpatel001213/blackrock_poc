@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "BioNTech",
+            "ORG",
+            "Raise",
+            "$270 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Has",
+            "close to $950 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Participates_In",
+            "cancer immunotherapies development",
+            "CONCEPT"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Control",
+            "around 700 employees",
+            "PERSON"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Has",
+            "corporate partnerships",
+            "SECTOR"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Has",
+            "majority owners Thomas and Andreas Struengmann",
+            "PERSON"
+        ],
+        [
+            "BioNTech",
+            "ORG",
+            "Has",
+            "latest Series A financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Personalized cancer vaccine",
+            "PRODUCT",
+            "Impact",
+            "cancer patients",
+            "PERSON"
+        ],
+        [
+            "Personalized cancer vaccine",
+            "PRODUCT",
+            "Relate_To",
+            "immunotherapy drugs",
+            "PRODUCT"
+        ],
+        [
+            "Immunotherapy drugs",
+            "PRODUCT",
+            "Produce",
+            "Merck & Co",
+            "ORG"
+        ],
+        [
+            "Immunotherapy drugs",
+            "PRODUCT",
+            "Produce",
+            "Bristol-Myers Squibb",
+            "ORG"
+        ],
+        [
+            "Immunotherapy drugs",
+            "PRODUCT",
+            "Produce",
+            "Roche",
+            "ORG"
+        ]
+    ]
+}

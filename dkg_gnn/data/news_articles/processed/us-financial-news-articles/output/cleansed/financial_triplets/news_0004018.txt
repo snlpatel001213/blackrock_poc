@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Korean Peninsula",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Control",
+            "Nuclear Button",
+            "CONCEPT"
+        ]
+    ]
+}

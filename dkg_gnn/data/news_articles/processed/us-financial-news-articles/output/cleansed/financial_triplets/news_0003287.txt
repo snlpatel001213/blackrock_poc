@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Glencore",
+            "ORG",
+            "Has",
+            "Tahmoor",
+            "GPE"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Tahmoor",
+            "GPE",
+            "Produce",
+            "Coal",
+            "PRODUCT"
+        ],
+        [
+            "Coal",
+            "PRODUCT",
+            "Relate_To",
+            "Coking Coal",
+            "PRODUCT"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Steel Business",
+            "SECTOR"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "International",
+            "CONCEPT"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Whyalla",
+            "GPE"
+        ],
+        [
+            "Glencore",
+            "ORG",
+            "Operate_In",
+            "Australian Hunter Valley",
+            "GPE"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "GFG Alliance",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

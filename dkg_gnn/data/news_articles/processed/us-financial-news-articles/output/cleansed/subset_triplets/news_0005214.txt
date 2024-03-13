@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Raise",
+            "$14",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "ORG",
+            "Raise",
+            "earnings per share forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "earnings per share forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Consumer discretionary",
+            "SECTOR",
+            "Impact",
+            "Positive",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Telecom",
+            "SECTOR",
+            "Impact",
+            "Positive",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Utilities",
+            "SECTOR",
+            "Impact",
+            "Negative",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real estate",
+            "SECTOR",
+            "Impact",
+            "Negative",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

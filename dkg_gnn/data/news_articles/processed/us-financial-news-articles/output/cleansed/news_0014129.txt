@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Big Banks",
+            "ORG",
+            "Has",
+            "Special Charges",
+            "CONCEPT"
+        ],
+        [
+            "Big Banks",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Big Banks",
+            "ORG",
+            "Report",
+            "$31 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Big Banks",
+            "ORG",
+            "Report",
+            "Tax-Related Hits",
+            "CONCEPT"
+        ],
+        [
+            "Fourth Quarter",
+            "EVENT",
+            "Relate_To",
+            "Bank Earnings",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Banks",
+            "ORG",
+            "Likely_To",
+            "Record",
+            "Has"
+        ],
+        [
+            "U.S. Banks",
+            "ORG",
+            "Likely_To",
+            "Report",
+            "Has"
+        ],
+        [
+            "U.S. Banks",
+            "ORG",
+            "Disclose",
+            "Tax-Related Hits",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Banks",
+            "ORG",
+            "Make",
+            "Public Comments",
+            "CONCEPT"
+        ]
+    ]
+}

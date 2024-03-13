@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Scott Scherr",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Mitchell Dauerman",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Ultimate Software",
+            "COMP",
+            "Operate_In",
+            "Cloud",
+            "CONCEPT"
+        ],
+        [
+            "Ultimate Software",
+            "COMP",
+            "Has",
+            "More than 35 million people records",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ultimate Software",
+            "COMP",
+            "Has",
+            "More than 4,000 customers",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

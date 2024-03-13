@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Steve Smith",
+            "PERSON",
+            "Score",
+            "6000 test runs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Operate_In",
+            "Test Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Belong_To",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Is_Member_Of",
+            "New South Wales",
+            "COMP"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Speak",
+            "Reporters",
+            "ORG"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Belong_To",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Belong_To",
+            "Australia Cricket Team",
+            "COMP"
+        ],
+        [
+            "Australia Cricket Team",
+            "COMP",
+            "Play",
+            "Ashes Series",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Score",
+            "102 not out",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Play",
+            "Fourth Test",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Score",
+            "239",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Play",
+            "Third Test",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Score",
+            "82",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Play",
+            "Fifth Test",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Ranked",
+            "Top",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Compare_To",
+            "Donald Bradman",
+            "PERSON"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Compare_To",
+            "Garfield Sobers",
+            "PERSON"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Bowl",
+            "Steve Smith",
+            "PERSON"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Bowl",
+            "In_Nets",
+            "CONCEPT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Move",
+            "A lot",
+            "CONCEPT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Hard_To_Bowl_To",
+            "Pat Cummins",
+            "PERSON"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Smart_Batsman",
+            "True",
+            "CONCEPT"
+        ]
+    ]
+}

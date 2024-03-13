@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Has",
+            "Tabetha Boyajian",
+            "PERSON"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Operate_In",
+            "Cygnus",
+            "GPE"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Dim",
+            "null",
+            "null"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Relate_To",
+            "Dyson Sphere",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Control",
+            "Dust",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Impact",
+            "Light",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Negative_Impact_On",
+            "Starlight",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Participates_In",
+            "Astronomical Observations",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Raise",
+            "Light Dips",
+            "CONCEPT"
+        ],
+        [
+            "Tabby\u2019s Star",
+            "GPE",
+            "Decrease",
+            "Brightness",
+            "CONCEPT"
+        ],
+        [
+            "Tabetha Boyajian",
+            "PERSON",
+            "Identify",
+            "Idiosyncrasies",
+            "CONCEPT"
+        ],
+        [
+            "Tabetha Boyajian",
+            "PERSON",
+            "Instrumental",
+            "Identification",
+            "CONCEPT"
+        ],
+        [
+            "Dyson Sphere",
+            "CONCEPT",
+            "Hypothetical",
+            "null",
+            "null"
+        ],
+        [
+            "Dyson Sphere",
+            "CONCEPT",
+            "Relate_To",
+            "Star",
+            "GPE"
+        ],
+        [
+            "Dust",
+            "CONCEPT",
+            "Control",
+            "Tabby\u2019s Star",
+            "GPE"
+        ],
+        [
+            "Dust",
+            "CONCEPT",
+            "Impact",
+            "Starlight",
+            "CONCEPT"
+        ],
+        [
+            "Dust",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Light",
+            "CONCEPT"
+        ],
+        [
+            "Light",
+            "CONCEPT",
+            "Dim",
+            "null",
+            "null"
+        ],
+        [
+            "Light",
+            "CONCEPT",
+            "Dip",
+            "null",
+            "null"
+        ],
+        [
+            "Light",
+            "CONCEPT",
+            "Decrease",
+            "Brightness",
+            "CONCEPT"
+        ],
+        [
+            "Astronomical Observations",
+            "CONCEPT",
+            "Participates_In",
+            "Tabby\u2019s Star",
+            "GPE"
+        ],
+        [
+            "Astronomical Observations",
+            "CONCEPT",
+            "Operate_In",
+            "Maui",
+            "GPE"
+        ],
+        [
+            "Astronomical Observations",
+            "CONCEPT",
+            "Operate_In",
+            "Canary Islands",
+            "GPE"
+        ],
+        [
+            "Light Dips",
+            "CONCEPT",
+            "Raise",
+            "Tabby\u2019s Star",
+            "GPE"
+        ],
+        [
+            "Brightness",
+            "CONCEPT",
+            "Decrease",
+            "Tabby\u2019s Star",
+            "GPE"
+        ]
+    ]
+}

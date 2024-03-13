@@ -1,0 +1,107 @@
+{
+    "output": [
+        [
+            "Bulgarians",
+            "PERSON",
+            "Protest_Against",
+            "Ski Area Expansion",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Decide",
+            "Construction of Ski Runs",
+            "EVENT"
+        ],
+        [
+            "Pirin National Park",
+            "GPE",
+            "Locate_In",
+            "Bulgaria",
+            "GPE"
+        ],
+        [
+            "Environmentalists",
+            "PERSON",
+            "Protest_Against",
+            "Government Decision",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Breach",
+            "Nature Protection Laws",
+            "CONCEPT"
+        ],
+        [
+            "Ski Area Expansion",
+            "EVENT",
+            "Lead_To",
+            "Destruction of Centuries-Old Pine Trees",
+            "CONCEPT"
+        ],
+        [
+            "Pirin National Park",
+            "GPE",
+            "UNESCO World Heritage Site",
+            "NONE"
+        ],
+        [
+            "Journalist",
+            "PERSON",
+            "Demonstrator",
+            "NONE"
+        ],
+        [
+            "Environment Minister",
+            "PERSON",
+            "Sabotage",
+            "Main Goal of Ministry",
+            "CONCEPT"
+        ],
+        [
+            "Environment Ministry",
+            "ORG",
+            "Argue",
+            "Construction in Two Percent of Park Territory",
+            "CONCEPT"
+        ],
+        [
+            "Environment Ministry",
+            "ORG",
+            "Allow",
+            "Building of Facilities to Collect Drinking Water",
+            "CONCEPT"
+        ],
+        [
+            "Opponents",
+            "PERSON",
+            "Say",
+            "Loophole to Allow Bigger Construction Projects",
+            "CONCEPT"
+        ],
+        [
+            "Counter Protest",
+            "EVENT",
+            "Support",
+            "Construction of Second Ski Lift",
+            "PRODUCT"
+        ],
+        [
+            "Police",
+            "PERSON",
+            "Protest",
+            "Over Pay",
+            "NONE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Provide",
+            "Salary Increases at Interior Ministry",
+            "ORG"
+        ]
+    ]
+}

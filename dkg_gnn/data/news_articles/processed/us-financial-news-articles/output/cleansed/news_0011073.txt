@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "First Year in Office",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Diplomatic Progress",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Key Countries",
+            "GPE"
+        ],
+        [
+            "World Economic Forum",
+            "ORG",
+            "Express_Concern",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "World Economic Forum",
+            "ORG",
+            "Organize",
+            "Annual Meeting",
+            "EVENT"
+        ],
+        [
+            "World Economic Forum",
+            "ORG",
+            "Located_In",
+            "Davos, Switzerland",
+            "GPE"
+        ]
+    ]
+}

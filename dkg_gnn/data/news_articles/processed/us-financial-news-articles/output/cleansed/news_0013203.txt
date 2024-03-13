@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Decrease",
+            "Cryptocurrencies",
+            "COMP"
+        ],
+        [
+            "Coinmarketcap.com",
+            "ORG",
+            "Remove",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Exchanges",
+            "ORG",
+            "Relate_To",
+            "Cryptocurrencies",
+            "COMP"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Control",
+            "Cryptocurrency Crackdown",
+            "EVENT"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "Relate_To",
+            "Hacks and Scandals",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "COMP",
+            "Relate_To",
+            "Mainstream Investment",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Respond_To",
+            "Remarkable Rise of Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Regulators",
+            "ORG/REG",
+            "Respond_To",
+            "Cryptocurrencies",
+            "COMP"
+        ]
+    ]
+}

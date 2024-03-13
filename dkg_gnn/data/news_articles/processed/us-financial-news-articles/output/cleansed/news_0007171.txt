@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Trading_At",
+            "1.2412",
+            "RATIO"
+        ],
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Up",
+            "0.6",
+            "PERCENT"
+        ],
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Touch",
+            "1.2355",
+            "RATIO"
+        ],
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Expectation",
+            "Rate Hike",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Next Rate Decision",
+            "Jan. 17",
+            "DATE"
+        ],
+        [
+            "Chances",
+            "CONCEPT",
+            "Doubled",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Trade Deficit",
+            "2.54 billion",
+            "CURRENCY"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "November",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Speculators",
+            "CONCEPT",
+            "Cut",
+            "Bullish Bets",
+            "CONCEPT"
+        ],
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Net Long Positions",
+            "14,739",
+            "COUNT"
+        ],
+        [
+            "Commodities",
+            "CONCEPT",
+            "Sentiment",
+            "Good",
+            "EVALUATION"
+        ],
+        [
+            "Commodities",
+            "CONCEPT",
+            "Help",
+            "Lend",
+            "VERB"
+        ],
+        [
+            "Loonie",
+            "FIN_INSTRUMENT",
+            "Strength",
+            "Over",
+            "PERIOD"
+        ],
+        [
+            "Canadian dollar",
+            "FIN_INSTRUMENT",
+            "Helped",
+            "Over",
+            "PERIOD"
+        ],
+        [
+            "Holiday Period",
+            "CONCEPT",
+            "Into",
+            "New Year",
+            "TIME"
+        ],
+        [
+            "Oil",
+            "PRODUCT",
+            "Price",
+            "Highest",
+            "COMPARATIVE"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Export",
+            "One",
+            "COUNT"
+        ],
+        [
+            "North American Free Trade Agreement",
+            "EVENT",
+            "Outlook",
+            "Uncertain",
+            "EVALUATION"
+        ],
+        [
+            "Loonie",
+            "FIN_INSTRUMENT",
+            "Weigh",
+            "Over",
+            "PERIOD"
+        ],
+        [
+            "U.S. dollar",
+            "FIN_INSTRUMENT",
+            "Pared Gains",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Basket",
+            "CONCEPT",
+            "Major Currencies",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Canadian government bond prices",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "Across",
+            "DIRECTION"
+        ],
+        [
+            "Canadian government bond prices",
+            "FIN_INSTRUMENT",
+            "Two-year",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Down",
+            "12.5 Canadian cents",
+            "CURRENCY"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Yield",
+            "1.774",
+            "PERCENT"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Touch",
+            "Highest",
+            "COMPARATIVE"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Yield",
+            "1.786",
+            "PERCENT"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Yield",
+            "Highest",
+            "COMPARATIVE"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Yield",
+            "June 2011",
+            "DATE"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Yield",
+            "Narrowed",
+            "VERB"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Spread",
+            "-18.6",
+            "BASIS_POINTS"
+        ],
+        [
+            "Two-year",
+            "CONCEPT",
+            "Spread",
+            "Nov. 9",
+            "DATE"
+        ]
+    ]
+}

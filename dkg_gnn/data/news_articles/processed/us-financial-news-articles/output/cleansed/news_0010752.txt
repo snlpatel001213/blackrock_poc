@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Thomas Donohue",
+            "PERSON",
+            "Discuss",
+            "Chamber of Commerce",
+            "ORG"
+        ],
+        [
+            "Thomas Donohue",
+            "PERSON",
+            "Relate_To",
+            "NAFTA",
+            "EVENT"
+        ],
+        [
+            "Chamber of Commerce",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "NAFTA",
+            "EVENT",
+            "Impact",
+            "Global Trade",
+            "CONCEPT"
+        ]
+    ]
+}

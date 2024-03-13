@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Liverpool",
+            "GPE",
+            "Has",
+            "Kings Dock car park",
+            "COMP"
+        ],
+        [
+            "Kings Dock car park",
+            "COMP",
+            "Has",
+            "1600 vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fire",
+            "CONCEPT",
+            "Impact",
+            "Kings Dock car park",
+            "COMP"
+        ],
+        [
+            "Fire",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Hundreds of vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fire",
+            "CONCEPT",
+            "Relate_To",
+            "Liverpool Echo Arena",
+            "COMP"
+        ]
+    ]
+}

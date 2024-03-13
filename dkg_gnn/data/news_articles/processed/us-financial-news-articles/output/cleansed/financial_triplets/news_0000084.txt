@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "CSRA Inc.",
+            "COMP",
+            "Announce",
+            "Third Amendment to Credit Agreement",
+            "EVENT"
+        ],
+        [
+            "CSRA Inc.",
+            "COMP",
+            "Control",
+            "Tranche A2 Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CSRA Inc.",
+            "COMP",
+            "Control",
+            "Revolving Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tranche A2 Facility",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Credit Agreement",
+            "EVENT"
+        ],
+        [
+            "Revolving Facility",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Credit Agreement",
+            "EVENT"
+        ],
+        [
+            "Term Loan B Advances",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Credit Agreement",
+            "EVENT"
+        ]
+    ]
+}

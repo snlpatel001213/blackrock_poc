@@ -1,0 +1,284 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Leave",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Visit",
+            "Camp David",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Travel_With",
+            "Paul Ryan",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Travel_With",
+            "Mitch McConnell",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Discuss",
+            "Legislative Priorities",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Discuss",
+            "Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Achieve",
+            "Major Legislative Victory",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Eager",
+            "More Wins",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Target",
+            "Infrastructure Policy",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Target",
+            "Overhaul of Welfare Programs",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Timing of Legislation",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Political Priority",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "November Midterm Elections",
+            "EVENT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Account",
+            "Inept Trump White House",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Cause",
+            "Uproar",
+            "EVENT"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Call",
+            "Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Criticize",
+            "Republican Establishment Figures",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Break",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Bannon Lost His Mind",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Sit Down",
+            "Chart Course Forward",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Make Views Clear",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Healthcare",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Fiscal 2019 Budget",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Opioid Crisis",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Discuss",
+            "Effort to Win Senate Confirmation",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "John Cornyn",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Kevin McCarthy",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Steve Scalise",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Rex Tillerson",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Jim Mattis",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Kirstjen Nielsen",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Scott Pruitt",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Handful of Senior White House Advisers",
+            "PERSON",
+            "Attend",
+            "Camp David Meeting",
+            "CONCEPT"
+        ],
+        [
+            "John Cornyn",
+            "PERSON",
+            "Say",
+            "Coordination is Really Important",
+            "CONCEPT"
+        ],
+        [
+            "John Cornyn",
+            "PERSON",
+            "Look Forward",
+            "Having Conversations",
+            "CONCEPT"
+        ],
+        [
+            "John Cornyn",
+            "PERSON",
+            "Make Sure",
+            "Priorities Aligned",
+            "CONCEPT"
+        ]
+    ]
+}

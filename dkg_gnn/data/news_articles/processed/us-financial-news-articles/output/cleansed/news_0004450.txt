@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Ireland",
+            "GPE",
+            "Size",
+            "EUR4bn",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Moody\u2019s A2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Standard & Poor\u2019s A+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Fitch Ratings A+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "CITI",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "DANSKE BANK",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "DAVY",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "J.P. MORGAN",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "MORGAN STANLEY",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Mandate",
+            "NOMURA",
+            "ORG"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Introduce",
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Euro",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Mature",
+            "15 May 2028",
+            "DATE"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Pay",
+            "10 Jan",
+            "DATE"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Irish law",
+            "LEGAL"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "List",
+            "Dublin",
+            "GPE"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Denominate",
+            "0.01",
+            "QUANTITY"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Register",
+            "Reg S",
+            "LEGAL"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Short first coupon",
+            "15 May 2018",
+            "DATE"
+        ]
+    ]
+}

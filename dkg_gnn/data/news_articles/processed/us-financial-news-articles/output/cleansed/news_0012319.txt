@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Has",
+            "Second Warmest Year",
+            "EVENT"
+        ],
+        [
+            "Second Warmest Year",
+            "EVENT",
+            "Behind",
+            "2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2016",
+            "ECON_INDICATOR",
+            "Has",
+            "Sweltering",
+            "CONCEPT"
+        ],
+        [
+            "Signs of Climate Change",
+            "CONCEPT",
+            "Range",
+            "Wildfires",
+            "EVENT"
+        ],
+        [
+            "Signs of Climate Change",
+            "CONCEPT",
+            "Range",
+            "Thaw of Arctic Ice",
+            "EVENT"
+        ],
+        [
+            "European Union Monitoring Center",
+            "ORG/GOV",
+            "Said",
+            "Thursday",
+            "GPE"
+        ]
+    ]
+}

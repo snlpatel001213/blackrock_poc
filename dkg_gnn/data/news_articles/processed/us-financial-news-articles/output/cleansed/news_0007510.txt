@@ -1,0 +1,243 @@
+{
+    "output": [
+        [
+            "Accenture",
+            "ORG",
+            "Announce",
+            "Survey",
+            "EVENT"
+        ],
+        [
+            "Survey",
+            "EVENT",
+            "Include",
+            "21000 People",
+            "PERSON"
+        ],
+        [
+            "Survey",
+            "EVENT",
+            "Conducted",
+            "October and November 2017",
+            "GPE"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Use",
+            "Digital Voice Assistants",
+            "ORG"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Use",
+            "Smartphones",
+            "COMP"
+        ],
+        [
+            "Digital Voice Assistants",
+            "ORG",
+            "Like",
+            "Amazon Echo",
+            "COMP"
+        ],
+        [
+            "Digital Voice Assistants",
+            "ORG",
+            "Like",
+            "Google Home",
+            "COMP"
+        ],
+        [
+            "Next Big Wave",
+            "CONCEPT",
+            "Centered",
+            "Digital Assistants",
+            "ORG"
+        ],
+        [
+            "Smartphone Makers",
+            "COMP",
+            "Lag",
+            "Amazon and Google",
+            "ORG"
+        ],
+        [
+            "Smartphone Makers",
+            "COMP",
+            "Lag",
+            "Digital Assistants",
+            "ORG"
+        ],
+        [
+            "Trouble",
+            "CONCEPT",
+            "For",
+            "Smartphone Makers",
+            "COMP"
+        ],
+        [
+            "Sub-group",
+            "PERSON",
+            "Use",
+            "Smartphones",
+            "COMP"
+        ],
+        [
+            "Sub-group",
+            "PERSON",
+            "Use",
+            "Phones",
+            "COMP"
+        ],
+        [
+            "Sub-group",
+            "PERSON",
+            "Do",
+            "Less Online Purchasing",
+            "ACT"
+        ],
+        [
+            "Sub-group",
+            "PERSON",
+            "Do",
+            "Fewer Searches",
+            "ACT"
+        ],
+        [
+            "Survey",
+            "EVENT",
+            "Project",
+            "Ownership",
+            "ACT"
+        ],
+        [
+            "Ownership",
+            "ACT",
+            "Skyrocket",
+            "2018",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Accenture",
+            "Estimated",
+            "21 Percent",
+            "NUMBER"
+        ],
+        [
+            "Online Population",
+            "PERSON",
+            "Own",
+            "Digital Assistant Device",
+            "ORG"
+        ],
+        [
+            "End of 2018",
+            "GPE",
+            "37 Percent",
+            "NUMBER",
+            "PERSON"
+        ],
+        [
+            "India",
+            "GPE",
+            "Figure",
+            "Go",
+            "39 Percent",
+            "NUMBER"
+        ],
+        [
+            "Online Population",
+            "PERSON",
+            "Today",
+            "14 Percent",
+            "NUMBER"
+        ],
+        [
+            "Online Surveys",
+            "EVENT",
+            "Present",
+            "Skewed Representation",
+            "CONCEPT"
+        ],
+        [
+            "Respondents",
+            "PERSON",
+            "Self-select",
+            "Average Consumers",
+            "PERSON"
+        ],
+        [
+            "Smartphones",
+            "COMP",
+            "Dominate",
+            "Consumer Attention",
+            "CONCEPT"
+        ],
+        [
+            "Smartphone Companies",
+            "COMP",
+            "Behind",
+            "Home Digital Assistants",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "First Released",
+            "Echo",
+            "COMP"
+        ],
+        [
+            "First Google Home",
+            "COMP",
+            "Came Out",
+            "November 2016",
+            "GPE"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Planned",
+            "Release",
+            "ACT"
+        ],
+        [
+            "HomePod",
+            "COMP",
+            "For",
+            "2017 Holiday Season",
+            "GPE"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Announce",
+            "Delay",
+            "ACT"
+        ],
+        [
+            "Release",
+            "ACT",
+            "Until Early 2018",
+            "GPE"
+        ],
+        [
+            "Samsung",
+            "ORG",
+            "Aiming",
+            "Release",
+            "ACT"
+        ],
+        [
+            "Smart Speaker",
+            "COMP",
+            "Of Its Own",
+            "First Half of 2018",
+            "GPE"
+        ]
+    ]
+}

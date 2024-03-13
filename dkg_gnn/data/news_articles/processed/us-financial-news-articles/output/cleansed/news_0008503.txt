@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "U.S. Government",
+            "ORG/GOV",
+            "Operate_In",
+            "U.S. Central Bank Space",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Central Bank Space",
+            "ORG/REG",
+            "Has",
+            "Three Officials",
+            "PERSON"
+        ],
+        [
+            "Three Officials",
+            "PERSON",
+            "Participates_In",
+            "Speak",
+            "EVENT"
+        ],
+        [
+            "Benchmark 10-Year Treasury Note",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yield on the 10-Year Treasury Note",
+            "ECON_INDICATOR",
+            "Raise",
+            null,
+            null
+        ],
+        [
+            "Yield on the 10-Year Treasury Note",
+            "ECON_INDICATOR",
+            "Type",
+            "Percentage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "30-Year Treasury Bond",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yield on the 30-Year Treasury Bond",
+            "ECON_INDICATOR",
+            "Decrease",
+            null,
+            null
+        ],
+        [
+            "Yield on the 30-Year Treasury Bond",
+            "ECON_INDICATOR",
+            "Type",
+            "Percentage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bond Yields",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bond Yields",
+            "FIN_INSTRUMENT",
+            "Inverse_Relation",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Front_and_Center",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Has",
+            "Central Bank",
+            "ORG/REG"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "May",
+            "Raise Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Twice",
+            "Raise Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Without",
+            "Significant Pressure on Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "San Francisco Fed President",
+            "PERSON",
+            "Delivering",
+            "Remarks",
+            "EVENT"
+        ],
+        [
+            "Boston Fed President",
+            "PERSON",
+            "Delivering",
+            "Remarks",
+            "EVENT"
+        ],
+        [
+            "San Francisco Fed President",
+            "PERSON",
+            "Is_Not",
+            "Voting Member",
+            "PERSON"
+        ],
+        [
+            "Boston Fed President",
+            "PERSON",
+            "Is_Not",
+            "Voting Member",
+            "PERSON"
+        ],
+        [
+            "Markets",
+            "FIN_INSTRUMENT",
+            "Mulling",
+            "Latest Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Provide",
+            "Latest Figures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nonfarm Payroll Data",
+            "ECON_INDICATOR",
+            "Come_In",
+            "Below Market Expectations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Add",
+            "148000 Jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Market Estimates",
+            "ECON_INDICATOR",
+            "Expect",
+            "190000 Jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reuters Poll",
+            "EVENT",
+            "Provide",
+            "Market Estimates",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

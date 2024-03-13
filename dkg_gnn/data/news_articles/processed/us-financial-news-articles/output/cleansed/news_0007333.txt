@@ -1,0 +1,243 @@
+{
+    "output": [
+        [
+            "E.ON",
+            "COMP",
+            "Sell",
+            "Uniper",
+            "COMP"
+        ],
+        [
+            "E.ON",
+            "COMP",
+            "Operate_In",
+            "German Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Operate_In",
+            "Power Plants",
+            "COMP"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Buy",
+            "Uniper",
+            "COMP"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Operate_In",
+            "Finland",
+            "GPE"
+        ],
+        [
+            "E.ON",
+            "COMP",
+            "Has",
+            "Management Board",
+            "ORG"
+        ],
+        [
+            "Management Board",
+            "ORG",
+            "Operate_In",
+            "E.ON",
+            "COMP"
+        ],
+        [
+            "Management Board",
+            "ORG",
+            "Hold",
+            "Uniper Stock",
+            "PRODUCT"
+        ],
+        [
+            "Management Board",
+            "ORG",
+            "Tender",
+            "Shares",
+            "PRODUCT"
+        ],
+        [
+            "Management Board",
+            "ORG",
+            "Tender",
+            "Shares",
+            "PRODUCT",
+            "To",
+            "Fortum",
+            "COMP"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Oppose",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Expose",
+            "Gas- and Coal-fired Power Plants",
+            "COMP"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Believe",
+            "Investment Support",
+            "CONCEPT"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Support",
+            "Clean and Secure Energy Future",
+            "CONCEPT"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Trade",
+            "25.90 Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Offer",
+            "22 Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Spokesman",
+            "Say",
+            "Relate_To",
+            "Uniper Can Compete",
+            "CONCEPT"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Spokesman",
+            "Say",
+            "Relate_To",
+            "Stand-alone Company",
+            "CONCEPT"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Hold",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Hold",
+            "Shareholders",
+            "PERSON",
+            "Tender",
+            "Shares",
+            "PRODUCT"
+        ],
+        [
+            "Uniper",
+            "COMP",
+            "Hold",
+            "Shareholders",
+            "PERSON",
+            "Tender",
+            "Shares",
+            "PRODUCT",
+            "To",
+            "Fortum",
+            "COMP"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Run",
+            "Bid",
+            "EVENT",
+            "Until",
+            "Jan. 16",
+            "DATE"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Possibly",
+            "Launch",
+            "EVENT",
+            "Between",
+            "Jan. 20",
+            "DATE",
+            "and",
+            "Feb. 2",
+            "DATE"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Gain",
+            "Control",
+            "CONCEPT",
+            "Of",
+            "Uniper",
+            "COMP"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Propose",
+            "Domination Agreement",
+            "EVENT",
+            "Or",
+            "Launch",
+            "Second Bid",
+            "EVENT"
+        ],
+        [
+            "Fortum",
+            "COMP",
+            "Launch",
+            "Second Bid",
+            "EVENT",
+            "At",
+            "Premium",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Institutional Investors",
+            "PERSON",
+            "Do",
+            "Usually",
+            "Relate_To",
+            "Large Investments",
+            "CONCEPT",
+            "At",
+            "Later Stage",
+            "CONCEPT"
+        ],
+        [
+            "Inderes",
+            "COMP",
+            "Have",
+            "Reduce Rating",
+            "CONCEPT",
+            "On",
+            "Fortum",
+            "COMP"
+        ]
+    ]
+}

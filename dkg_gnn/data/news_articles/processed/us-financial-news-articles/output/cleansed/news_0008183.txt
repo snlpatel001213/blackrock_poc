@@ -1,0 +1,111 @@
+{
+    "output": [
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Cruise_Past",
+            "Daria Gavrilova",
+            "PERSON"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Beat",
+            "Daria Gavrilova",
+            "PERSON"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Help",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Overcome",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Set",
+            "Hopman Cup Final",
+            "EVENT"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Play",
+            "Unbelievable",
+            "CONCEPT"
+        ],
+        [
+            "Angelique Kerber",
+            "PERSON",
+            "Reason",
+            "Germany",
+            "GPE",
+            "In_Final"
+        ],
+        [
+            "Alexander Zverev",
+            "PERSON",
+            "Give_Credit",
+            "Angelique Kerber",
+            "PERSON"
+        ],
+        [
+            "Alexander Zverev",
+            "PERSON",
+            "Partner",
+            "Angelique Kerber",
+            "PERSON"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Whitewash",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Reach",
+            "Final",
+            "EVENT"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Group_Winners",
+            "Hopman Cup"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Face",
+            "Switzerland",
+            "GPE",
+            "In_Final"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "All_Conquering",
+            "Hopman Cup"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Belinda Bencic",
+            "PERSON",
+            "Not_Lose",
+            "Match",
+            "Hopman Cup"
+        ]
+    ]
+}

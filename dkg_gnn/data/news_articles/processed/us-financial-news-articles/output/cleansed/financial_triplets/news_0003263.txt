@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Women",
+            "PERSON",
+            "Participates_In",
+            "Sex Parties",
+            "EVENT"
+        ],
+        [
+            "Silicon Valley",
+            "GPE",
+            "Operate_In",
+            "Sex Parties",
+            "EVENT"
+        ],
+        [
+            "Emily Chang",
+            "PERSON",
+            "Announce",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Real Estate",
+            "SECTOR",
+            "Relate_To",
+            "Women",
+            "PERSON"
+        ],
+        [
+            "Public Relations",
+            "SECTOR",
+            "Relate_To",
+            "Women",
+            "PERSON"
+        ]
+    ]
+}

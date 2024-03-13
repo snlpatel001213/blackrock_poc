@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Jurors",
+            "PERSON",
+            "Ask",
+            "Note",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Charged",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Operate_In",
+            "Halkbank",
+            "ORG"
+        ],
+        [
+            "Halkbank",
+            "ORG",
+            "Has",
+            "State",
+            "ORG/GOV"
+        ],
+        [
+            "Halkbank",
+            "ORG",
+            "Deny",
+            "Illegal Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Charged",
+            "Bank Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Charged",
+            "Money Laundering",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Charged",
+            "Conspiracy Charges",
+            "CONCEPT"
+        ],
+        [
+            "U.S. District Judge Richard Berman",
+            "PERSON",
+            "Tell",
+            "Jury",
+            "PERSON"
+        ],
+        [
+            "Jury",
+            "PERSON",
+            "Deliberate",
+            "Case",
+            "CONCEPT"
+        ],
+        [
+            "Case",
+            "CONCEPT",
+            "Relate_To",
+            "Diplomatic Relations",
+            "CONCEPT"
+        ],
+        [
+            "Diplomatic Relations",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Diplomatic Relations",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Reza Zarrab",
+            "PERSON",
+            "Testify",
+            "U.S. Prosecutors",
+            "ORG"
+        ],
+        [
+            "Reza Zarrab",
+            "PERSON",
+            "Plead",
+            "Guilty",
+            "CONCEPT"
+        ],
+        [
+            "Reza Zarrab",
+            "PERSON",
+            "Violate",
+            "Sanctions",
+            "CONCEPT"
+        ],
+        [
+            "Reza Zarrab",
+            "PERSON",
+            "Implicate",
+            "Turkish Officials",
+            "PERSON"
+        ],
+        [
+            "Turkish Officials",
+            "PERSON",
+            "Implicated",
+            "Scheme",
+            "CONCEPT"
+        ],
+        [
+            "President Tayyip Erdogan",
+            "PERSON",
+            "Implicated",
+            "Scheme",
+            "CONCEPT"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Spokesman",
+            "Unsuccessful",
+            "CONCEPT"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Dismiss",
+            "Case",
+            "CONCEPT"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Describe",
+            "Politically Motivated Attack",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Deny",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Prosecutors",
+            "ORG",
+            "Charge",
+            "Nine People",
+            "PERSON"
+        ],
+        [
+            "U.S. Prosecutors",
+            "ORG",
+            "Arrest",
+            "Zarrab",
+            "PERSON"
+        ],
+        [
+            "U.S. Prosecutors",
+            "ORG",
+            "Arrest",
+            "Atilla",
+            "PERSON"
+        ]
+    ]
+}

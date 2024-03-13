@@ -1,0 +1,1 @@
+{'output': [['Jim Cramer', 'PERSON', 'Discuss', 'Stocks', 'FIN_INSTRUMENT'], ['Jim Cramer', 'PERSON', 'Watch', 'Events', 'EVENT'], ['Events', 'EVENT', 'Include', 'Conferences', 'EVENT'], ['Conferences', 'EVENT', 'Two', 'GPE'], ['GPE', 'GPE', 'Major', 'NULL'], ['Events', 'EVENT', 'Include', 'Earnings', 'NULL'], ['Earnings', 'NULL', 'From', 'Banks', 'ORG/REG']]}

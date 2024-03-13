@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "ABB Ltd",
+            "COMP",
+            "Named",
+            "Formula E title sponsor",
+            "EVENT"
+        ],
+        [
+            "ABB Ltd",
+            "COMP",
+            "Operate_In",
+            "Robotics, Power, Heavy Electrical Equipment and Automation Technology",
+            "SECTOR"
+        ],
+        [
+            "ABB Ltd",
+            "COMP",
+            "Has",
+            "World\u2019s largest base of fast-charging stations for electric vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Formula E",
+            "EVENT",
+            "Relate_To",
+            "Environmentally friendly Racing Series",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "EVENT",
+            "Hold",
+            "Race in Switzerland",
+            "GPE"
+        ],
+        [
+            "Formula E",
+            "EVENT",
+            "Participates_In",
+            "First time international motor racing returns to Switzerland since 1950s",
+            "EVENT"
+        ],
+        [
+            "Swiss driver Sebastien Buemi",
+            "PERSON",
+            "Participates_In",
+            "Formula E",
+            "EVENT"
+        ],
+        [
+            "Swiss driver Sebastien Buemi",
+            "PERSON",
+            "Win",
+            "Formula E Championship",
+            "EVENT"
+        ],
+        [
+            "Swiss Bank Julius Baer",
+            "COMP",
+            "Sponsor",
+            "Formula E",
+            "EVENT"
+        ],
+        [
+            "ABB CEO Ulrich Spiesshofer",
+            "PERSON",
+            "Say",
+            "Extremely excited to partner with Formula E",
+            "CONCEPT"
+        ],
+        [
+            "ABB",
+            "COMP",
+            "Control",
+            "Latest Electrification and Digital Technologies",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "EVENT",
+            "First Race",
+            "Morocco",
+            "GPE"
+        ]
+    ]
+}

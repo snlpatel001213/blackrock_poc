@@ -1,0 +1,220 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Cyberspace Administration of China",
+            "ORG/GOV"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Scolded",
+            "China",
+            "GPE"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Has",
+            "Alipay",
+            "PRODUCT"
+        ],
+        [
+            "Alipay",
+            "PRODUCT",
+            "Enroll",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Automatically",
+            "Enrolled",
+            "Enrolled"
+        ],
+        [
+            "Alipay",
+            "PRODUCT",
+            "Relate_To",
+            "Credit Scoring System",
+            "CONCEPT"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Has",
+            "Sesame Credit",
+            "PRODUCT"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Collect",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Share",
+            "Analysis",
+            "CONCEPT"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Partners",
+            "Partners",
+            "COMP"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Opt",
+            "Opt",
+            "PRODUCT"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Unchecked",
+            "Unchecked",
+            "PRODUCT"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Apologise",
+            "Last Week",
+            "TIME"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Cancel",
+            "Default Option",
+            "PRODUCT"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Has",
+            "Nie Zhengjun",
+            "PERSON"
+        ],
+        [
+            "Nie Zhengjun",
+            "PERSON",
+            "Chief Privacy Officer",
+            "Position",
+            "CONCEPT"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Board of Directors",
+            "Oversee",
+            "VERB"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Oversee",
+            "Privacy-Related Matters",
+            "CONCEPT"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Quote",
+            "Alipay",
+            "PRODUCT"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Quote",
+            "Sesame Credit",
+            "PRODUCT"
+        ],
+        [
+            "Alipay",
+            "PRODUCT",
+            "Learn",
+            "Lesson",
+            "CONCEPT"
+        ],
+        [
+            "Sesame Credit",
+            "PRODUCT",
+            "Learn",
+            "Lesson",
+            "CONCEPT"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Tell",
+            "Ant Financial",
+            "COMP"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Fail",
+            "Meet",
+            "VERB"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Personal Information Security Standards",
+            "CONCEPT"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Summon",
+            "Ant Financial",
+            "COMP"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Meeting",
+            "Last Saturday",
+            "TIME"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Carry out",
+            "Special Rectifications",
+            "CONCEPT"
+        ],
+        [
+            "CAC",
+            "ORG/GOV",
+            "Effective Measures",
+            "Prevent",
+            "VERB"
+        ],
+        [
+            "Similar Incidents",
+            "CONCEPT",
+            "Recurring",
+            "Recurring",
+            "VERB"
+        ]
+    ]
+}

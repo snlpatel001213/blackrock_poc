@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Johnson & Johnson",
+            "ORG",
+            "Control",
+            "Unit",
+            "ORG",
+            "Recall",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Unit",
+            "ORG",
+            "Produce",
+            "Heart Device",
+            "PRODUCT",
+            "With",
+            "Faulty Valve",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson Medical Devices",
+            "ORG",
+            "Invests_In",
+            "Unit",
+            "ORG"
+        ],
+        [
+            "Unit",
+            "ORG",
+            "Has",
+            "Sterilmed",
+            "COMP"
+        ],
+        [
+            "Class_I_Recall",
+            "EVENT",
+            "Relate_To",
+            "Faulty_Devices",
+            "PRODUCT"
+        ],
+        [
+            "Faulty_Devices",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Serious_Injury_Or_Death",
+            "CONCEPT"
+        ]
+    ]
+}

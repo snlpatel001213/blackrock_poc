@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Kevin Gilliam",
+            "PERSON",
+            "Work_At",
+            "General Electric Co.",
+            "ORG"
+        ],
+        [
+            "Kevin Gilliam",
+            "PERSON",
+            "Retire_From",
+            "General Electric Co.",
+            "ORG"
+        ],
+        [
+            "Kevin Gilliam",
+            "PERSON",
+            "Do",
+            "Chores",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Gilliam",
+            "PERSON",
+            "Work_At",
+            "Fort Wayne Children\u2019s Zoo",
+            "ORG"
+        ],
+        [
+            "Fort Wayne\u2019s old General Electric Co. campus",
+            "ORG",
+            "Locate_In",
+            "Fort Wayne",
+            "GPE"
+        ]
+    ]
+}

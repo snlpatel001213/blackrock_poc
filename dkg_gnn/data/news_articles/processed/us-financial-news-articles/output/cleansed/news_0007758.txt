@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Euro",
+            "ECON_INDICATOR",
+            "Decrease",
+            "NA",
+            "NA"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Profit_Taking",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Relate_To",
+            "Euro",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Control",
+            "Monetary_Policy",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Impact",
+            "Euro",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Mike Ashley",
+            "PERSON",
+            "Suffer",
+            "Paper Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mike Ashley",
+            "PERSON",
+            "Has",
+            "Stake",
+            "COMP"
+        ],
+        [
+            "Debenhams Plc",
+            "COMP",
+            "Issue",
+            "Profit Warning",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Whitbread Plc",
+            "COMP",
+            "Appoint",
+            "Adam Crozier",
+            "PERSON"
+        ],
+        [
+            "Costa Coffee",
+            "COMP",
+            "Operate_In",
+            "Unknown",
+            "SECTOR"
+        ],
+        [
+            "Premier Inn",
+            "COMP",
+            "Operate_In",
+            "Unknown",
+            "SECTOR"
+        ],
+        [
+            "Aldi Inc",
+            "COMP",
+            "Increase",
+            "Minimum Hourly Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aldi Inc",
+            "COMP",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Waitrose",
+            "COMP",
+            "Ban",
+            "Sales",
+            "EVENT"
+        ],
+        [
+            "Energy Drinks",
+            "PRODUCT",
+            "Have",
+            "High Levels",
+            "CONCEPT"
+        ],
+        [
+            "Energy Drinks",
+            "PRODUCT",
+            "Impact",
+            "Children's Health",
+            "CONCEPT"
+        ],
+        [
+            "Society of Motor Manufacturers and Traders",
+            "ORG",
+            "Reveal",
+            "Average CO2 Emissions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Society of Motor Manufacturers and Traders",
+            "ORG",
+            "Operate_In",
+            "Automotive Sector",
+            "SECTOR"
+        ],
+        [
+            "Unilever Plc",
+            "COMP",
+            "Confirm",
+            "Close Operations",
+            "EVENT"
+        ],
+        [
+            "Unilever Plc",
+            "COMP",
+            "Own",
+            "Colman's Mustard",
+            "PRODUCT"
+        ],
+        [
+            "MusicMagpie",
+            "COMP",
+            "Plan",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "MusicMagpie",
+            "COMP",
+            "Operate_In",
+            "Consumer Goods Sector",
+            "SECTOR"
+        ],
+        [
+            "Britain's Economy",
+            "CONCEPT",
+            "Pick Up Speed",
+            "Unknown",
+            "SECTOR"
+        ],
+        [
+            "Philip Morris International Inc",
+            "COMP",
+            "Place",
+            "Adverts",
+            "EVENT"
+        ],
+        [
+            "Philip Morris International Inc",
+            "COMP",
+            "Make",
+            "Marlboros",
+            "PRODUCT"
+        ],
+        [
+            "Ticketmaster",
+            "COMP",
+            "Ban",
+            "Claim",
+            "EVENT"
+        ]
+    ]
+}

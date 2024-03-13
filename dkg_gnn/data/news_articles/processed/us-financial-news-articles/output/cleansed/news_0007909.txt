@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "The Dead Rabbit",
+            "GPE",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "The Dead Rabbit",
+            "GPE",
+            "Increase",
+            "5,500 square feet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "The Dead Rabbit",
+            "GPE",
+            "Has",
+            "two-floor space",
+            "COMP"
+        ],
+        [
+            "The Dead Rabbit",
+            "GPE",
+            "Participates_In",
+            "lower Manhattan",
+            "GPE"
+        ],
+        [
+            "The Dead Rabbit",
+            "GPE",
+            "Impact",
+            "2 hours wait time",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "kglobal",
+            "ORG",
+            "Announce",
+            "Noam Gelfond",
+            "PERSON"
+        ],
+        [
+            "Noam Gelfond",
+            "PERSON",
+            "Has",
+            "Director of Business Development",
+            "CONCEPT"
+        ],
+        [
+            "Noam Gelfond",
+            "PERSON",
+            "Has",
+            "head of West Coast Operations",
+            "CONCEPT"
+        ],
+        [
+            "Noam Gelfond",
+            "PERSON",
+            "Participates_In",
+            "Ketchum",
+            "ORG"
+        ],
+        [
+            "Noam Gelfond",
+            "PERSON",
+            "Participates_In",
+            "kglobal",
+            "ORG"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Control",
+            "trade associations",
+            "ORG"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Control",
+            "think tanks",
+            "ORG"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Control",
+            "Fortune 100 companies",
+            "ORG"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Control",
+            "manufacturers",
+            "ORG"
+        ],
+        [
+            "kglobal",
+            "ORG",
+            "Control",
+            "government agencies",
+            "ORG"
+        ]
+    ]
+}

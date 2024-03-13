@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Sunoco LP",
+            "ORG",
+            "Announce",
+            "Upsizing And Pricing Of Private Offering Of Senior Notes",
+            "EVENT"
+        ],
+        [
+            "Sunoco LP",
+            "ORG",
+            "Control",
+            "Senior Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Senior Notes",
+            "FIN_INSTRUMENT",
+            "Has",
+            "4.875%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Senior Notes",
+            "FIN_INSTRUMENT",
+            "Due",
+            "2023",
+            "DATE"
+        ],
+        [
+            "Sunoco LP",
+            "ORG",
+            "Sale",
+            "Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Notes",
+            "FIN_INSTRUMENT",
+            "Settle",
+            "January 23, 2018",
+            "DATE"
+        ]
+    ]
+}

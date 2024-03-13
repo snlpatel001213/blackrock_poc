@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Negative_Impact_On",
+            "ETFs",
+            "COMP"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Negative_Impact_On",
+            "ETFs",
+            "COMP"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "North American Free Trade Agreement",
+            "EVENT"
+        ],
+        [
+            "North American Free Trade Agreement",
+            "EVENT",
+            "Relate_To",
+            "ETFs",
+            "COMP"
+        ],
+        [
+            "Dominic Chu",
+            "PERSON",
+            "Take_A_Look_At",
+            "ETFs",
+            "COMP"
+        ],
+        [
+            "Dominic Chu",
+            "PERSON",
+            "Take_A_Look_At",
+            "Individual Stocks",
+            "COMP"
+        ]
+    ]
+}

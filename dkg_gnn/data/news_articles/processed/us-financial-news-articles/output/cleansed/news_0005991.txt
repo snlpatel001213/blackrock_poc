@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Republican",
+            "PERSON",
+            "Win",
+            "Virginia House Seat",
+            "ORG/GOV"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Is_Member_Of",
+            "Republican",
+            "PERSON"
+        ],
+        [
+            "David Yancey",
+            "PERSON",
+            "Win",
+            "Lottery-style Drawing",
+            "EVENT"
+        ],
+        [
+            "Lottery-style Drawing",
+            "EVENT",
+            "Resolve",
+            "Tied Virginia House of Delegates Race",
+            "EVENT"
+        ],
+        [
+            "Republican",
+            "PERSON",
+            "Control",
+            "51-49 Advantage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "51-49 Advantage",
+            "ECON_INDICATOR",
+            "In",
+            "100-seat House",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Turner",
+            "ORG",
+            "Is_Member_Of",
+            "AT&T",
+            "ORG"
+        ],
+        [
+            "John Martin",
+            "PERSON",
+            "Participates_In",
+            "Turner",
+            "ORG"
+        ],
+        [
+            "Turner",
+            "ORG",
+            "Control",
+            "Time Warner",
+            "ORG"
+        ],
+        [
+            "Turner",
+            "ORG",
+            "Impact",
+            "Video",
+            "CONCEPT"
+        ],
+        [
+            "Video",
+            "CONCEPT",
+            "Relate_To",
+            "Mobile",
+            "GPE"
+        ],
+        [
+            "Turner",
+            "ORG",
+            "Announce",
+            "Growth",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Royal Zoological Society of Scotland",
+            "ORG",
+            "Announce",
+            "Polar bear cub birth",
+            "EVENT"
+        ],
+        [
+            "Victoria",
+            "PERSON",
+            "Give_Birth",
+            "Polar bear cub",
+            "ANIMAL"
+        ],
+        [
+            "Highland Wildlife Park",
+            "ORG",
+            "Locate",
+            "Polar bear cub birth",
+            "EVENT"
+        ],
+        [
+            "Una Richardson",
+            "PERSON",
+            "Hear",
+            "High pitched cries",
+            "SOUND"
+        ],
+        [
+            "Una Richardson",
+            "PERSON",
+            "Operate_In",
+            "Highland Wildlife Park",
+            "ORG"
+        ],
+        [
+            "Polar bear",
+            "ANIMAL",
+            "Need",
+            "Privacy",
+            "CONCEPT"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "Undeveloped",
+            "Immune system",
+            "BODYSYSTEM"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "Dependent",
+            "Mother\u2019s milk",
+            "PRODUCT"
+        ],
+        [
+            "Polar bear breeding season",
+            "EVENT",
+            "Begin",
+            "March",
+            "DATE"
+        ],
+        [
+            "Victoria",
+            "PERSON",
+            "Mate",
+            "Arktos",
+            "PERSON"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "High",
+            "Mortality rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "Emerge",
+            "Blind",
+            "BODYSYSTEM"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "Open",
+            "Eyes",
+            "BODYSYSTEM"
+        ],
+        [
+            "Polar bear cub",
+            "ANIMAL",
+            "Risk",
+            "Being killed or abandoned",
+            "EVENT"
+        ]
+    ]
+}

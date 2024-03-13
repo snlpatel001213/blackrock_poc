@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "McDonald\u2019s",
+            "COMP",
+            "Introduce",
+            "$1 $2 $3 Dollar Menu",
+            "PRODUCT"
+        ],
+        [
+            "$1 $2 $3 Dollar Menu",
+            "PRODUCT",
+            "Operate_In",
+            "Fast Food Sector",
+            "SECTOR"
+        ]
+    ]
+}

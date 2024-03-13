@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Metrovacesa",
+            "COMP",
+            "Announce",
+            "Intention to Float",
+            "EVENT"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Operate_In",
+            "Spanish Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Participates_In",
+            "Widening Shareholder Base",
+            "CONCEPT"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Impact",
+            "Accessing Capital Markets",
+            "CONCEPT"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Control",
+            "Banco Santander",
+            "ORG/REG"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Control",
+            "BBVA",
+            "ORG/REG"
+        ],
+        [
+            "Metrovacesa",
+            "COMP",
+            "Produce",
+            "Net Asset Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Net Asset Value",
+            "ECON_INDICATOR",
+            "Equal",
+            "3.2 Billion Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3.2 Billion Euros",
+            "ECON_INDICATOR",
+            "Equal",
+            "0.8353 Euros",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Canadian Government",
+            "ORG/GOV",
+            "Send",
+            "Three Cabinet Ministers",
+            "PERSON"
+        ],
+        [
+            "Three Cabinet Ministers",
+            "PERSON",
+            "Promote",
+            "Trade and NAFTA",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Send",
+            "75 Percent",
+            "ECON_INDICATOR",
+            "Goods Exports",
+            "PRODUCT",
+            "To",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Recognize",
+            "Important Period",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Prepare",
+            "All Scenarios",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Hopeful",
+            "Make Progress",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Focused",
+            "Achieving",
+            "CONCEPT",
+            "Including",
+            "Montreal",
+            "GPE"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Instruct",
+            "Promote",
+            "Trade and NAFTA",
+            "CONCEPT"
+        ],
+        [
+            "Public Safety Minister Ralph Goodale",
+            "PERSON",
+            "Wrap Up",
+            "Two-Day Trip",
+            "EVENT",
+            "To",
+            "Kentucky",
+            "GPE"
+        ],
+        [
+            "Agriculture Minister Lawrence MacAulay",
+            "PERSON",
+            "Visit",
+            "Tennessee",
+            "GPE",
+            "Over",
+            "Weekend"
+        ],
+        [
+            "Environment Minister Catherine McKenna",
+            "PERSON",
+            "Be",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Pessimistic",
+            "Prospects",
+            "CONCEPT",
+            "For",
+            "1994 Trade Treaty",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "President Donald Trump",
+            "PERSON",
+            "Blame",
+            "NAFTA",
+            "CONCEPT",
+            "For",
+            "Loss",
+            "ECON_INDICATOR",
+            "Of",
+            "Hundreds",
+            "NUM",
+            "Of",
+            "US",
+            "GPE",
+            "Manufacturing Jobs",
+            "PRODUCT",
+            "And",
+            "Big Trade Deficit",
+            "ECON_INDICATOR",
+            "With",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Negotiators",
+            "PERSON",
+            "Make",
+            "Progress",
+            "CONCEPT",
+            "On",
+            "Less Controversial Issues",
+            "CONCEPT",
+            "But",
+            "Leave",
+            "Untouched",
+            "Thorniest Subjects",
+            "CONCEPT",
+            "Of",
+            "Sourcing",
+            "Auto Parts",
+            "PRODUCT",
+            "Dispute Settlement",
+            "CONCEPT",
+            "And",
+            "Expiry Clause",
+            "CONCEPT"
+        ],
+        [
+            "Trade Experts",
+            "PERSON",
+            "Predict",
+            "Unless Canada and Mexico",
+            "GPE",
+            "Make",
+            "Some Concessions",
+            "CONCEPT",
+            "In",
+            "Montreal",
+            "GPE",
+            "Trump",
+            "More Tempted",
+            "Issue",
+            "Notice",
+            "PRODUCT",
+            "Of",
+            "Withdrawal",
+            "PRODUCT",
+            "From",
+            "NAFTA",
+            "CONCEPT"
+        ]
+    ]
+}

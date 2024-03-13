@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Art Cashin",
+            "PERSON",
+            "Discuss",
+            "Dow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Art Cashin",
+            "PERSON",
+            "Work_At",
+            "UBS",
+            "ORG"
+        ],
+        [
+            "Bob Pisani",
+            "PERSON",
+            "Speak_With",
+            "Art Cashin",
+            "PERSON"
+        ],
+        [
+            "Bob Pisani",
+            "PERSON",
+            "Report_On",
+            "Market Action",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "ECON_INDICATOR",
+            "Cross",
+            "25000",
+            "Numeric"
+        ]
+    ]
+}

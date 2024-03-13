@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Reports",
+            "Positive Interim Data",
+            "CONCEPT"
+        ],
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Produce",
+            "Oprx-106",
+            "PRODUCT"
+        ],
+        [
+            "Oprx-106",
+            "PRODUCT",
+            "Impact",
+            "Patients with Ulcerative Colitis",
+            "GPE"
+        ],
+        [
+            "Oprx-106",
+            "PRODUCT",
+            "Tolerated",
+            "Well",
+            "CONCEPT"
+        ],
+        [
+            "Oprx-106",
+            "PRODUCT",
+            "Relate_To",
+            "Adverse Events",
+            "CONCEPT"
+        ],
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Expects",
+            "Report Full Results",
+            "CONCEPT"
+        ],
+        [
+            "Protalix Biotherapeutics Inc.",
+            "ORG",
+            "Expects",
+            "End of Q1 2018",
+            "TIME"
+        ]
+    ]
+}

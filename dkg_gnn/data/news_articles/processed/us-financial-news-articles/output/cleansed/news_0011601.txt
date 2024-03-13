@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Stricken Iranian oil tanker",
+            "GPE",
+            "Locate",
+            "Japan\u2019s exclusive economic zone (EEZ)",
+            "GPE"
+        ],
+        [
+            "Stricken Iranian oil tanker",
+            "GPE",
+            "On_Fire",
+            "Japan\u2019s Coast Guard",
+            "ORG/GOV"
+        ],
+        [
+            "Stricken Iranian oil tanker",
+            "GPE",
+            "Drift",
+            "Sokkozaki",
+            "GPE"
+        ],
+        [
+            "Stricken Iranian oil tanker",
+            "GPE",
+            "Drift_Southwest",
+            "Amami Oshima",
+            "GPE"
+        ],
+        [
+            "Stricken Iranian oil tanker",
+            "GPE",
+            "Has_Speed",
+            "2.2 km (1.37 miles)",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,141 @@
+{
+    "output": [
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Lead",
+            "Ladies Competition",
+            "EVENT"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Perform",
+            "Short Program",
+            "EVENT"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Execute",
+            "Flawlessly",
+            "RELATE_TO"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Notch",
+            "Highest Ever U.S. Championships Short Program Score",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Challenge",
+            "Bradie Tennell",
+            "PERSON"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Enter",
+            "Championships",
+            "EVENT",
+            "With",
+            "Distinction",
+            "RELATE_TO"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Land",
+            "Triple Axel",
+            "PRODUCT",
+            "In",
+            "International Competition",
+            "EVENT"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Stumble",
+            "Upon",
+            "Landing",
+            "PRODUCT"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Stay",
+            "On",
+            "Feet",
+            "RELATE_TO"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Recover",
+            "EVENT"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Rewarded",
+            "Highest Technical Score",
+            "ECON_INDICATOR",
+            "Of",
+            "The",
+            "Night",
+            "EVENT"
+        ],
+        [
+            "Karen Wang",
+            "PERSON",
+            "Placed",
+            "Third",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ashley Wagner",
+            "PERSON",
+            "Languish",
+            "Fifth Place",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ashley Wagner",
+            "PERSON",
+            "Head",
+            "Mental Season",
+            "EVENT"
+        ],
+        [
+            "Ashley Wagner",
+            "PERSON",
+            "Focus",
+            "Get",
+            "Herself",
+            "Close",
+            "Enough",
+            "Distance",
+            "RELATE_TO"
+        ],
+        [
+            "Ashley Wagner",
+            "PERSON",
+            "Make",
+            "Real Killing",
+            "CONCEPT",
+            "In",
+            "Long",
+            "PRODUCT"
+        ],
+        [
+            "Ladies",
+            "EVENT",
+            "Conclude",
+            "Long Program",
+            "PRODUCT"
+        ]
+    ]
+}

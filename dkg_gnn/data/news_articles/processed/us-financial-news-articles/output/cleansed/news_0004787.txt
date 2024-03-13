@@ -1,0 +1,129 @@
+{
+    "output": [
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Produce",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Operate_In",
+            "Electric Car Maker",
+            "ORG"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Has",
+            "Production Goals",
+            "CONCEPT"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Make",
+            "2425",
+            "ECON_INDICATOR",
+            "Model 3s",
+            "PRODUCT"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Control",
+            "Tesla Inc.",
+            "COMP"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Promise",
+            "20000",
+            "ECON_INDICATOR",
+            "Model 3s",
+            "PRODUCT",
+            "per",
+            "Month",
+            "TIME"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Exceed",
+            "Overall Sales Targets",
+            "CONCEPT",
+            "Model S Sedans",
+            "PRODUCT",
+            "Model X SUVs",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Deliver",
+            "101312",
+            "ECON_INDICATOR",
+            "Model S Sedans",
+            "PRODUCT",
+            "Model X SUVs",
+            "PRODUCT",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Increase",
+            "33",
+            "ECON_INDICATOR",
+            "percent",
+            "CONCEPT",
+            "over",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Progress",
+            "Significant",
+            "CONCEPT",
+            "Reducing Production Bottlenecks",
+            "CONCEPT",
+            "End",
+            "Fourth Quarter",
+            "TIME"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Expect",
+            "Make",
+            "20000",
+            "ECON_INDICATOR",
+            "Model 3s",
+            "PRODUCT",
+            "per",
+            "Month",
+            "TIME",
+            "End",
+            "Second Quarter",
+            "TIME"
+        ],
+        [
+            "Tesla Inc.",
+            "COMP",
+            "Potential Buyers",
+            "More Than",
+            "500000",
+            "ECON_INDICATOR",
+            "Model 3",
+            "PRODUCT",
+            "Waiting List",
+            "CONCEPT"
+        ]
+    ]
+}

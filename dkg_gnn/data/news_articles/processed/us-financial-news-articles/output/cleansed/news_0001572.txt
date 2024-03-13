@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "ORG",
+            "Announce",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Operate_In",
+            "Technology sector",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Positive_Impact_On",
+            "50,000 high paying jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Initial favorite",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Chances decline",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Share perch with",
+            "Austin, Tex",
+            "GPE"
+        ],
+        [
+            "Austin, Tex",
+            "GPE",
+            "Larger list of contenders",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Philadelphia",
+            "GPE",
+            "Slight improvement in outlook",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Washington, DC",
+            "GPE",
+            "Slight improvement in outlook",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Chicago",
+            "GPE",
+            "Notable omission",
+            "First list",
+            "EVENT"
+        ],
+        [
+            "Chicago",
+            "GPE",
+            "Now there",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Notable omission",
+            "First list",
+            "EVENT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Now there",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Boston",
+            "GPE",
+            "Fallen slightly",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Prospects dimmed significantly",
+            "Amazons second corporate headquarters",
+            "PRODUCT"
+        ],
+        [
+            "Atlanta",
+            "GPE",
+            "Engaged a lobbyist there",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "PaddyPower",
+            "ORG",
+            "Provide insight",
+            "Real world outcomes",
+            "CONCEPT"
+        ],
+        [
+            "PaddyPower",
+            "ORG",
+            "Does not accept bets from Americans",
+            "Americans",
+            "PERSON"
+        ]
+    ]
+}

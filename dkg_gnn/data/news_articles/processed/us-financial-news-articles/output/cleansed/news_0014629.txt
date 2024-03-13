@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Has",
+            "Carl Arnet",
+            "PERSON"
+        ],
+        [
+            "Carl Arnet",
+            "PERSON",
+            "Say",
+            "changed vision and purpose",
+            "CONCEPT"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Operate_In",
+            "Oil and Gas Industry",
+            "SECTOR"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Expose_To",
+            "Oil Price Risk",
+            "CONCEPT"
+        ],
+        [
+            "Carl Arnet",
+            "PERSON",
+            "Want",
+            "focus on small to medium size discoveries",
+            "CONCEPT"
+        ],
+        [
+            "Carl Arnet",
+            "PERSON",
+            "Want",
+            "prove company can deliver on Dussafu",
+            "GPE"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Longer Term Aim",
+            "separately list oil and gas activity",
+            "CONCEPT"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Have",
+            "new preliminary reserve estimates for Tortue",
+            "PRODUCT"
+        ],
+        [
+            "Tortue",
+            "PRODUCT",
+            "Calculate",
+            "estimates of total gross economically recoverable oil reserves",
+            "CONCEPT"
+        ],
+        [
+            "NSAI",
+            "ORG",
+            "Calculate",
+            "Proved (1p) reserves of 15.9 million bbls",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NSAI",
+            "ORG",
+            "Calculate",
+            "Proved + probable (2p) reserves of 23.5 million bbls",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NSAI",
+            "ORG",
+            "Calculate",
+            "Proved + probable + possible (3p) reserves of 31.4 million bbls",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NSAI",
+            "ORG",
+            "Reserve_Review",
+            "does not include other 3 discovered fields in license",
+            "CONCEPT"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "See",
+            "increase in activity",
+            "CONCEPT"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "See",
+            "challenging pricing",
+            "CONCEPT"
+        ],
+        [
+            "BW Offshore Ltd",
+            "COMP",
+            "Don\u2019t See",
+            "return levels they like to pursue in the FPSO business",
+            "CONCEPT"
+        ]
+    ]
+}

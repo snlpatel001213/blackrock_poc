@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Charlie Munger",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Greg Abel",
+            "PERSON",
+            "Relate_To",
+            "Berkshire Hathaway Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Relate_To",
+            "Berkshire Hathaway Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Has",
+            "Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Charlie Munger",
+            "PERSON",
+            "Express_Opinion",
+            "Promoting Greg Abel and Ajit Jain is a good idea",
+            "CONCEPT"
+        ]
+    ]
+}

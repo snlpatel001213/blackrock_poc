@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Qatar National Bank",
+            "COMP",
+            "Sell",
+            "$720 mln Formosa bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Qatar National Bank",
+            "COMP",
+            "Operate_In",
+            "Gulf",
+            "GPE"
+        ],
+        [
+            "Formosa bond",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Taiwan",
+            "GPE"
+        ],
+        [
+            "Formosa bond",
+            "FIN_INSTRUMENT",
+            "Denominated_In",
+            "currencies other than the Taiwanese dollar",
+            "CONCEPT"
+        ],
+        [
+            "Qatari banks",
+            "COMP",
+            "Efforts",
+            "diversify funding resources",
+            "CONCEPT"
+        ],
+        [
+            "Qatari banks",
+            "COMP",
+            "Impacted_By",
+            "regional diplomatic rift",
+            "CONCEPT"
+        ],
+        [
+            "Standard Chartered",
+            "COMP",
+            "Control",
+            "issue of the bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Standard Chartered",
+            "COMP",
+            "Sole_Manager",
+            "issue of the bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "QNB",
+            "COMP",
+            "Issued",
+            "$630 million Formosa bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "QNB",
+            "COMP",
+            "Issued",
+            "$1.1 billion Formosa bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Abu Dhabi Commercial Bank",
+            "COMP",
+            "Raise",
+            "$540 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Abu Dhabi Commercial Bank",
+            "COMP",
+            "Operate_In",
+            "Abu Dhabi",
+            "GPE"
+        ],
+        [
+            "Abu Dhabi Commercial Bank",
+            "COMP",
+            "Discussing",
+            "potential debt sales",
+            "CONCEPT"
+        ],
+        [
+            "Qatar National Bank",
+            "COMP",
+            "Raise",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Qatar National Bank",
+            "COMP",
+            "Refinance",
+            "existing debt facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of America Merrill Lynch",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Barclays",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "MUFG",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SMBC",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mizuho Bank",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United Overseas Bank",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Banca Intesa Sanpaolo",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Standard Chartered",
+            "COMP",
+            "Lead",
+            "$3 billion loan",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,8 @@
+By Jonathan Vanian January 5, 2018 
+Apple Watch is safe from two major computer chip vulnerabilities called Spectre and Meltdown that have sent big companies scrambling to release software updates to avert potential hacking, according to Apple. 
+Apple (aapl) said Friday that while its Mac computers and iOS-powered devices like the iPhone and iPad are affected, its Internet-connected smartwatch is impervious to the attacks. But the company did not explain why. 
+To fix the Meltdown vulnerability , which is largely focused on Intel’s computer and server chips, Apple said it has released patches to its MacOS, iOS, and tvOS (the operating system for the Apple TV digital media player). Apple Watch is powered by a separate operating system, WatchOS , which is variant of iOS. 
+Apple said that it would soon release software patches for the company’s Safari web browser that is intended to prevent possible hacking attempts based on the Spectre bug. Unlike the iPhone, iPad, Mac computers, Apple does not have a version of its Safari web browser for Apple Watch. 
+G et Data Sheet , Fortune’s technology newsletter. 
+The Spectre bug potentially affects more devices than Meltdown because it can target chips from Intel (intc) , AMD (amd) , and ARM chips. However, Apple said the Meltdown bug “has the most potential to be exploited” by hackers. 
+Other companies that have released patches for their web browsers to against the Spectre bug include Microsoft (mcrs) and Mozilla. Google (goog) said it would debut an update on Jan. 23 that is intended to better safeguard its Chrome browser, and recommended that users adjust their browser settings to turn on the “site isolation” feature that helps prevent hackers from obtaining people’s data. SPONSORED FINANCIAL CONTENT 

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "J&L Marketing",
+            "ORG",
+            "Announce",
+            "Kirk Cave",
+            "PERSON"
+        ],
+        [
+            "Kirk Cave",
+            "PERSON",
+            "Has",
+            "over twenty years of experience",
+            "CONCEPT"
+        ],
+        [
+            "Kirk Cave",
+            "PERSON",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "Scott Joseph",
+            "PERSON",
+            "Is_Member_Of",
+            "J&L Marketing",
+            "ORG"
+        ]
+    ]
+}

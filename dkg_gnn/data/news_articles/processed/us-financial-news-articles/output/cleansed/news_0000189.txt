@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mark Todd",
+            "PERSON",
+            "Works_At",
+            "National Australia Bank",
+            "ORG"
+        ],
+        [
+            "National Australia Bank",
+            "ORG",
+            "Has",
+            "US spending",
+            "CONCEPT"
+        ],
+        [
+            "National Australia Bank",
+            "ORG",
+            "Has",
+            "Fed response",
+            "CONCEPT"
+        ]
+    ]
+}

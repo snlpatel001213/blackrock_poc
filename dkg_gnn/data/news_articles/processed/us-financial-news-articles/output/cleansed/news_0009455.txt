@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Roger Federer",
+            "PERSON",
+            "Control",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Not_Play",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Kei Nishikori",
+            "PERSON",
+            "Not_Play",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Injury",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Injury",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Play",
+            "Hopman Cup",
+            "EVENT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Win",
+            "Hopman Cup",
+            "EVENT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Favorite",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Number_Two",
+            "World",
+            "ORG/REG"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Number_One",
+            "World",
+            "ORG/REG"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Relate_To",
+            "Experience",
+            "CONCEPT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Relate_To",
+            "Smooth Style",
+            "CONCEPT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Relate_To",
+            "Injury_Free",
+            "CONCEPT"
+        ]
+    ]
+}

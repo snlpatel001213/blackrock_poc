@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Biomerica Inc",
+            "COMP",
+            "Control",
+            "Colorectal Screening Test",
+            "PRODUCT"
+        ],
+        [
+            "Colorectal Screening Test",
+            "PRODUCT",
+            "Has",
+            "Early Warning Signs",
+            "CONCEPT"
+        ],
+        [
+            "Colorectal Screening Test",
+            "PRODUCT",
+            "Relate_To",
+            "Colorectal Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica Inc",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "China Food and Drug Administration (CFDA)",
+            "ORG/REG",
+            "Approve",
+            "Colorectal Screening Test",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Return_To_Action",
+            "Jan 10-12 Kooyong Classic",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Participates_In",
+            "Tie Break Tens",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Decide",
+            "Participation at Australian Open",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "SECTOR"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Crowned_Champion",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Negative_Impact_On",
+            "Elbow Injury",
+            "CONCEPT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Withdraw",
+            "Abu Dhabi Event",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Withdraw",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Face",
+            "Final Fitness Test",
+            "EVENT"
+        ]
+    ]
+}

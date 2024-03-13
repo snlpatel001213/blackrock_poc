@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Peugeot-maker PSA",
+            "COMP",
+            "Announce",
+            "400 cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peugeot-maker PSA",
+            "COMP",
+            "Operate_In",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "Ellesmere Port",
+            "GPE",
+            "Reduce",
+            "one shift",
+            "CONCEPT"
+        ],
+        [
+            "Peugeot-maker PSA",
+            "COMP",
+            "Control",
+            "Astra model",
+            "PRODUCT"
+        ],
+        [
+            "Peugeot-maker PSA",
+            "COMP",
+            "Decide",
+            "renew production",
+            "CONCEPT"
+        ]
+    ]
+}

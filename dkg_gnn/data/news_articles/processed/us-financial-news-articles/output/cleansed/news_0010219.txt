@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Has",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Operate_In",
+            "January 25, 2018",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Operate_In",
+            "2:00 p.m. PST",
+            "TIME"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Operate_In",
+            "5:00 p.m. EST",
+            "TIME"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Control",
+            "Dial-in Numbers",
+            "CONCEPT"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Control",
+            "Conference ID",
+            "CONCEPT"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Control",
+            "Audio Webcast",
+            "CONCEPT"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Control",
+            "Replay Information",
+            "CONCEPT"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Produce",
+            "Processing Equipment",
+            "PRODUCT"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Food Processing Industry",
+            "SECTOR"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Walla Walla",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Beusichem",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Hasselt",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Redmond",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Sacramento",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Melbourne",
+            "GPE"
+        ],
+        [
+            "Key Technology, Inc.",
+            "COMP",
+            "Operate_In",
+            "Santiago de Quer\u00e9taro",
+            "GPE"
+        ]
+    ]
+}

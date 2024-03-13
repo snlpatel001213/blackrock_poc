@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Trump Campaign",
+            "ORG"
+        ],
+        [
+            "Trump Campaign",
+            "ORG",
+            "Control",
+            "Candidate Trump",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Negative_Impact_On",
+            "Trump Base",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Natural Gas Futures",
+            "FIN_INSTRUMENT",
+            "Dip",
+            "US Natural Gas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Natural Gas",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Predict",
+            "Spot Shortages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Relate_To",
+            "Harsh Cold Snap",
+            "CONCEPT"
+        ],
+        [
+            "John Kilduff",
+            "PERSON",
+            "Estimate",
+            "Quarter of Stored Natural Gas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Kilduff",
+            "PERSON",
+            "Works_At",
+            "Again Capital",
+            "ORG"
+        ],
+        [
+            "EIA",
+            "ORG",
+            "Release",
+            "Weekly Data",
+            "EVENT"
+        ],
+        [
+            "John Kilduff",
+            "PERSON",
+            "Expect",
+            "Draw Down",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "See",
+            "No Chance",
+            "CONCEPT"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Predict",
+            "Shortage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shortage",
+            "ECON_INDICATOR",
+            "Impact",
+            "Higher Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bomb Cyclone",
+            "EVENT",
+            "Compound",
+            "Cold Spell",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone",
+            "EVENT",
+            "Create",
+            "Blizzard Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Bomb Cyclone",
+            "EVENT",
+            "Dub",
+            "Massive Winter Storm",
+            "EVENT"
+        ],
+        [
+            "New England",
+            "GPE",
+            "Part_Of",
+            "East Coast",
+            "GPE"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Expect",
+            "Record Drawdown",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Futures Market",
+            "ORG",
+            "Expect",
+            "Storage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Market",
+            "ORG",
+            "Focus",
+            "Comparison",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "ORG",
+            "Walk",
+            "Spring",
+            "SEASON"
+        ],
+        [
+            "Market",
+            "ORG",
+            "Below",
+            "Five Year Average",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Market",
+            "ORG",
+            "Question",
+            "Produce Way Out",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "ORG",
+            "Confident",
+            "Shortage of Gas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henry Hub Cash",
+            "FIN_INSTRUMENT",
+            "Volatile",
+            "null",
+            "null"
+        ],
+        [
+            "Meisel",
+            "PERSON",
+            "Believe",
+            "Limited Supply Shortages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Meisel",
+            "PERSON",
+            "Works_At",
+            "Bespoke Weather",
+            "ORG"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Note",
+            "Just in Time Shale Production",
+            "CONCEPT"
+        ],
+        [
+            "New England",
+            "GPE",
+            "Market",
+            "High Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Meisel",
+            "PERSON",
+            "Possible",
+            "Colder Weather",
+            "CONCEPT"
+        ],
+        [
+            "City of Boston",
+            "GPE",
+            "Tie",
+            "100-Year-Old Record",
+            "EVENT"
+        ],
+        [
+            "City of Boston",
+            "GPE",
+            "Experience",
+            "Seven Consecutive Days",
+            "DURATION"
+        ],
+        [
+            "Temperatures",
+            "ECON_INDICATOR",
+            "Not Top",
+            "20 Degrees Fahrenheit",
+            "TEMPERATURE"
+        ]
+    ]
+}

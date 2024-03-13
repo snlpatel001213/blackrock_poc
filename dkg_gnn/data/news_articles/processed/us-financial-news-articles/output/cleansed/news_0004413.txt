@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Norway Labour Party",
+            "ORG",
+            "Has",
+            "Trond Giske",
+            "PERSON"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Suspended",
+            "null",
+            "null"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Reject",
+            "Allegations",
+            "CONCEPT"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Relate_To",
+            "Sexual Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Jonas Gahr Stoere",
+            "PERSON",
+            "Say",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Relieved",
+            "Duty",
+            "CONCEPT"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Member",
+            "Norway Parliament",
+            "GPE"
+        ],
+        [
+            "Trond Giske",
+            "PERSON",
+            "Chief Spokesman",
+            "Economic Policy",
+            "CONCEPT"
+        ],
+        [
+            "Finland",
+            "GPE",
+            "Has",
+            "Finns Party",
+            "ORG"
+        ],
+        [
+            "Finns Party",
+            "ORG",
+            "Quit",
+            "Deputy Head",
+            "PERSON"
+        ],
+        [
+            "#MeToo",
+            "CONCEPT",
+            "Named",
+            "Time Magazine Person of Year",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "American Public Education, Inc.",
+            "ORG",
+            "Operate_In",
+            "Education Sector",
+            "SECTOR"
+        ],
+        [
+            "American Public Education, Inc.",
+            "ORG",
+            "Release",
+            "Fourth Quarter and Full Year 2017 Results",
+            "EVENT"
+        ],
+        [
+            "American Public Education, Inc.",
+            "ORG",
+            "Webcast",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "American Public University System",
+            "ORG",
+            "Is_Member_Of",
+            "American Public Education, Inc.",
+            "ORG"
+        ],
+        [
+            "Hondros College of Nursing",
+            "ORG",
+            "Is_Member_Of",
+            "American Public Education, Inc.",
+            "ORG"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Broadcast_At",
+            "500 p.m. Eastern time on Tuesday, February 27, 2018",
+            "TIME"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Open_To",
+            "Listeners_Through_Webcast_Section",
+            "CONCEPT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Available",
+            "Two Hours_After_Conclusion_of_Live_Conference_Call",
+            "TIME"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Archived",
+            "One Year",
+            "DURATION"
+        ]
+    ]
+}

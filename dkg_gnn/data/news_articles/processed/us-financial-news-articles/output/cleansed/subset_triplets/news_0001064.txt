@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Jonathan Fenby",
+            "PERSON",
+            "Announce",
+            "Chinese consumer stocks do really well",
+            "CONCEPT"
+        ],
+        [
+            "Jonathan Fenby",
+            "PERSON",
+            "Relate_To",
+            "Chinese government policies",
+            "CONCEPT"
+        ],
+        [
+            "Chinese government",
+            "GPE",
+            "Control",
+            "Policies",
+            "CONCEPT"
+        ],
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Is_Member_Of",
+            "Chinese government",
+            "GPE"
+        ],
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Impact",
+            "China fairer place",
+            "CONCEPT"
+        ],
+        [
+            "Communist Party",
+            "ORG",
+            "Participates_In",
+            "Initiatives",
+            "CONCEPT"
+        ],
+        [
+            "Initiatives",
+            "CONCEPT",
+            "Relate_To",
+            "Health, education and pension services",
+            "CONCEPT"
+        ],
+        [
+            "CSI 300 index",
+            "SECTOR",
+            "Operate_In",
+            "Shanghai and Shenzhen",
+            "GPE"
+        ],
+        [
+            "Beverage company",
+            "SECTOR",
+            "Produce",
+            "Kweichow Moutai",
+            "COMP"
+        ],
+        [
+            "Supermarket chain",
+            "SECTOR",
+            "Produce",
+            "Yonghui Superstores",
+            "COMP"
+        ],
+        [
+            "TS Lombard",
+            "ORG",
+            "Has",
+            "Jonathan Fenby",
+            "PERSON"
+        ]
+    ]
+}

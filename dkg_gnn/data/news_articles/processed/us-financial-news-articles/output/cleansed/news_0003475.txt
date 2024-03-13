@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Kyle Naughton",
+            "PERSON",
+            "Banned",
+            "Three Games",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Has",
+            "Kyle Naughton",
+            "PERSON"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Participates_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Operate_In",
+            "League Games",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Operate_In",
+            "FA Cup",
+            "SECTOR"
+        ],
+        [
+            "Watford",
+            "GPE",
+            "Involved_In",
+            "Stamping Incident",
+            "EVENT"
+        ],
+        [
+            "Stefano Okaka",
+            "PERSON",
+            "Involved_In",
+            "Stamping Incident",
+            "EVENT"
+        ],
+        [
+            "English Football Association",
+            "ORG",
+            "Charge",
+            "Kyle Naughton",
+            "PERSON"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Miss",
+            "League Games",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Miss",
+            "FA Cup Game",
+            "SECTOR"
+        ],
+        [
+            "Wolverhampton Wanderers",
+            "GPE",
+            "Involved_In",
+            "FA Cup Game",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Bottom",
+            "League Table",
+            "SECTOR"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Pick_Up",
+            "First Win",
+            "EVENT"
+        ],
+        [
+            "Swansea",
+            "GPE",
+            "Win",
+            "Five Games",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Carlos Carvalhal",
+            "PERSON",
+            "New Manager",
+            "Swansea",
+            "GPE"
+        ]
+    ]
+}

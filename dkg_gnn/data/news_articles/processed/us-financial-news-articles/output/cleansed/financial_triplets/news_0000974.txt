@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Paychex",
+            "ORG",
+            "Produce",
+            "Small Business Jobs Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Paychex",
+            "ORG",
+            "Announce",
+            "Small Business Hiring Slowed",
+            "CONCEPT"
+        ],
+        [
+            "Paychex",
+            "ORG",
+            "Operate_In",
+            "Human Resources Firm",
+            "SECTOR"
+        ],
+        [
+            "Small Business",
+            "GPE",
+            "Participates_In",
+            "Economy",
+            "SECTOR"
+        ],
+        [
+            "Small Business",
+            "GPE",
+            "Negative_Impact_On",
+            "Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Small Business Jobs Index",
+            "ECON_INDICATOR",
+            "Decrease",
+            "0.16 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Small Business Jobs Index",
+            "ECON_INDICATOR",
+            "Decrease",
+            "0.78 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

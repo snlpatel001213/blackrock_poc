@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Deane Dray",
+            "PERSON",
+            "Announce",
+            "GE",
+            "COMP"
+        ],
+        [
+            "GE",
+            "COMP",
+            "Operate_In",
+            "2018",
+            "GPE"
+        ],
+        [
+            "GE",
+            "COMP",
+            "Is_Member_Of",
+            "Worst Dow Stock",
+            "CONCEPT"
+        ]
+    ]
+}

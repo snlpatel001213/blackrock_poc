@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Andrew Cuomo",
+            "PERSON",
+            "Lead",
+            "New York",
+            "GPE"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Has",
+            "High State and Local Taxes",
+            "CONCEPT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Challenge",
+            "Federal Law",
+            "ORG/GOV"
+        ],
+        [
+            "Andrew Cuomo",
+            "PERSON",
+            "Run",
+            "Third Term",
+            "CONCEPT"
+        ],
+        [
+            "Andrew Cuomo",
+            "PERSON",
+            "Philosophy",
+            "Pragmatic Progressivism",
+            "CONCEPT"
+        ],
+        [
+            "Andrew Cuomo",
+            "PERSON",
+            "Relate_To",
+            "Mario Cuomo",
+            "PERSON"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Have",
+            "List of Issues",
+            "CONCEPT"
+        ]
+    ]
+}

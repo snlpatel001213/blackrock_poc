@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Wheeler Real Estate Investment Trust Inc",
+            "COMP",
+            "Announce",
+            "Resignation of CFO",
+            "PERSON"
+        ],
+        [
+            "Wilkes Graham",
+            "PERSON",
+            "Has",
+            "Intention to Resign as CFO",
+            "ORG/REG"
+        ],
+        [
+            "Wheeler Real Estate Investment Trust Inc",
+            "COMP",
+            "Operate_In",
+            "Real Estate Sector",
+            "SECTOR"
+        ],
+        [
+            "Wilkes Graham",
+            "PERSON",
+            "Participates_In",
+            "Transition Period",
+            "TIME"
+        ],
+        [
+            "Wheeler Real Estate Investment Trust Inc",
+            "COMP",
+            "Engage",
+            "Professional Search Firm",
+            "ORG"
+        ],
+        [
+            "Professional Search Firm",
+            "ORG",
+            "Hire",
+            "Graham\u2019s Replacement",
+            "PERSON"
+        ]
+    ]
+}

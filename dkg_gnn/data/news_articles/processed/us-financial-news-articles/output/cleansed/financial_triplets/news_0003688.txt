@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Promacta",
+            "PRODUCT",
+            "Has",
+            "Breakthrough Therapy Designation",
+            "CONCEPT"
+        ],
+        [
+            "Promacta",
+            "PRODUCT",
+            "Operate_In",
+            "Severe Aplastic Anemia",
+            "CONCEPT"
+        ],
+        [
+            "Promacta",
+            "PRODUCT",
+            "Operate_In",
+            "Chronic Immune Thrombocytopenia",
+            "CONCEPT"
+        ],
+        [
+            "Regulatory Filings",
+            "CONCEPT",
+            "Relate_To",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Regulatory Filings",
+            "CONCEPT",
+            "Relate_To",
+            "European Union",
+            "GPE"
+        ]
+    ]
+}

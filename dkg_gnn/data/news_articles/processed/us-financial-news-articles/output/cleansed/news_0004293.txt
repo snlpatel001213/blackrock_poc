@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "McDonalds",
+            "ORG",
+            "Test",
+            "Archburger",
+            "PRODUCT"
+        ],
+        [
+            "Archburger",
+            "PRODUCT",
+            "Operate_In",
+            "Tulsa",
+            "GPE"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Use",
+            "Fresh Beef",
+            "CONCEPT"
+        ],
+        [
+            "Fresh Beef",
+            "CONCEPT",
+            "Relate_To",
+            "Archburger",
+            "PRODUCT"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Participates_In",
+            "Test",
+            "CONCEPT"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Operate_In",
+            "Fast Food Chain",
+            "SECTOR"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Introduce",
+            "Fresh Beef Quarter Pounders",
+            "PRODUCT"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Control",
+            "14000 Restaurants",
+            "COMP"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Impact",
+            "Same Store Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Improve",
+            "Image",
+            "CONCEPT"
+        ],
+        [
+            "McDonalds",
+            "ORG",
+            "Invests_In",
+            "Feedback",
+            "CONCEPT"
+        ]
+    ]
+}

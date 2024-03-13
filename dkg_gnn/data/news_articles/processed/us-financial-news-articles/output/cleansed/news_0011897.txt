@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Companies",
+            "COMP",
+            "Provide",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "Q1 earnings",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "U.S. tax cuts",
+            "ECON_INDICATOR",
+            "Impact",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "PNC Asset Management Group",
+            "ORG",
+            "Has",
+            "Bill Stone",
+            "PERSON"
+        ]
+    ]
+}

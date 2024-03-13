@@ -1,7 +1,9 @@
 *.zip
 *.gz
-*.json
 *.safetensors
 *.model
 *.nemo
 *.bin
+dgl.sh
+git.sh
+

@@ -1,0 +1,195 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Air",
+            "Mad Money",
+            "ORG/SHOW"
+        ],
+        [
+            "Index Funds",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Stock Market",
+            "GPE"
+        ],
+        [
+            "Money",
+            "CONCEPT",
+            "Impact",
+            "Stock Market",
+            "GPE"
+        ],
+        [
+            "Treasury Yield Rates",
+            "ECON_INDICATOR",
+            "Control",
+            "Money",
+            "CONCEPT"
+        ],
+        [
+            "Publicly-Traded Companies",
+            "COMP",
+            "Decrease"
+        ],
+        [
+            "Share Buyback Programs",
+            "CONCEPT",
+            "Participates_In",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Major Old-Line Companies",
+            "COMP",
+            "Control",
+            "Stock Retirement",
+            "CONCEPT"
+        ],
+        [
+            "Walmart",
+            "COMP",
+            "Is_Member_Of",
+            "Major Old-Line Companies",
+            "COMP"
+        ],
+        [
+            "3M",
+            "COMP",
+            "Is_Member_Of",
+            "Major Old-Line Companies",
+            "COMP"
+        ],
+        [
+            "Valuation",
+            "CONCEPT",
+            "Relate_To",
+            "Market Stalwarts",
+            "COMP"
+        ],
+        [
+            "Congress",
+            "ORG/GOV",
+            "Introduce",
+            "Tax Law",
+            "CONCEPT"
+        ],
+        [
+            "Caterpillar",
+            "COMP",
+            "Raise",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "J.P. Morgan",
+            "COMP",
+            "Announce",
+            "Upgrade",
+            "CONCEPT"
+        ],
+        [
+            "Tesla",
+            "COMP",
+            "Enjoy",
+            "Unexpected Boosts",
+            "CONCEPT"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Rally",
+            "In Face",
+            "High Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Tech Stock",
+            "PRODUCT",
+            "Relate_To",
+            "Valuation",
+            "CONCEPT"
+        ],
+        [
+            "Model 3 Sedan",
+            "PRODUCT",
+            "Relate_To",
+            "Production Goals",
+            "CONCEPT"
+        ],
+        [
+            "Tech-Seeking Investors",
+            "PERSON",
+            "View",
+            "News",
+            "EVENT",
+            "Positive_Impact_On",
+            "Tesla",
+            "COMP"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Announce",
+            "Partnerships",
+            "CONCEPT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Participates_In",
+            "Partnerships",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen",
+            "COMP",
+            "Participates_In",
+            "Partnerships",
+            "CONCEPT"
+        ],
+        [
+            "Stock Shortages",
+            "CONCEPT",
+            "Has",
+            "Stocks",
+            "COMP"
+        ],
+        [
+            "Index Funds",
+            "FIN_INSTRUMENT",
+            "Own",
+            "Stocks",
+            "COMP"
+        ],
+        [
+            "Lower Valuations",
+            "CONCEPT",
+            "Has",
+            "Stocks",
+            "COMP"
+        ],
+        [
+            "Negative News",
+            "CONCEPT",
+            "Viewed",
+            "Positive",
+            "CONCEPT",
+            "By",
+            "Investors",
+            "PERSON",
+            "Has",
+            "Impact",
+            "Stocks",
+            "COMP"
+        ],
+        [
+            "Shocking News",
+            "CONCEPT",
+            "Exposed",
+            "Market Sentiment",
+            "CONCEPT"
+        ]
+    ]
+}

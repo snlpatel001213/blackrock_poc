@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S. stock futures",
+            "FIN_INSTRUMENT",
+            "Higher",
+            "null",
+            "null"
+        ],
+        [
+            "Dow",
+            "COMP",
+            "Smash Records",
+            "null",
+            "null"
+        ],
+        [
+            "S&P 500",
+            "COMP",
+            "Smash Records",
+            "null",
+            "null"
+        ],
+        [
+            "Nasdaq",
+            "COMP",
+            "Smash Records",
+            "null",
+            "null"
+        ],
+        [
+            "Yesterday",
+            "EVENT",
+            "Smash Records",
+            "Dow",
+            "COMP"
+        ],
+        [
+            "Yesterday",
+            "EVENT",
+            "Smash Records",
+            "S&P 500",
+            "COMP"
+        ],
+        [
+            "Yesterday",
+            "EVENT",
+            "Smash Records",
+            "Nasdaq",
+            "COMP"
+        ]
+    ]
+}

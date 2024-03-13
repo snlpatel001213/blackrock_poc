@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jilin Jian Yisheng Pharmaceutical Co Ltd.",
+            "COMP",
+            "Change",
+            "Accounting Policy",
+            "CONCEPT"
+        ],
+        [
+            "Ministry of Finance",
+            "ORG/GOV",
+            "Disclose",
+            "Accounting Standards",
+            "CONCEPT"
+        ],
+        [
+            "Jilin Jian Yisheng Pharmaceutical Co Ltd.",
+            "COMP",
+            "Relate_To",
+            "Accounting Standards for Business Enterprises No. 16",
+            "CONCEPT"
+        ],
+        [
+            "Ministry of Finance",
+            "ORG/GOV",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Singapore",
+            "GPE",
+            "Has",
+            "Ministry of Trade and Industry",
+            "ORG"
+        ],
+        [
+            "Ministry of Trade and Industry",
+            "ORG",
+            "Announce",
+            "GDP",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GDP",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Fourth Quarter",
+            "TIME"
+        ],
+        [
+            "GDP",
+            "ECON_INDICATOR",
+            "Impact",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economic Growth",
+            "ECON_INDICATOR",
+            "Slow",
+            "null",
+            "null"
+        ],
+        [
+            "Manufacturing",
+            "SECTOR",
+            "Lost",
+            "Steam",
+            "null"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Pickup",
+            "null",
+            "null"
+        ],
+        [
+            "Manufacturing",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Positive_Impact_On",
+            "Economic Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Full-year Growth",
+            "ECON_INDICATOR",
+            "Fastest",
+            "Three Years",
+            "TIME"
+        ],
+        [
+            "Full-year Growth",
+            "ECON_INDICATOR",
+            "In",
+            "Top End",
+            "null"
+        ],
+        [
+            "Full-year Growth",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Government Official Forecast Range",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Grow",
+            "null",
+            "null"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Expand",
+            "Nearly Four Years",
+            "TIME"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Expand",
+            "2014",
+            "TIME"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Grow",
+            "2.0 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Expect",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Expect",
+            "1.5 to 3.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asian Economies",
+            "SECTOR",
+            "Remain",
+            "Solid Footing",
+            "null"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Trade-reliant",
+            "null",
+            "null"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Enjoy",
+            "Boost",
+            "null"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "From",
+            "Improvement",
+            "null"
+        ],
+        [
+            "Global Demand",
+            "ECON_INDICATOR",
+            "Improve",
+            "null",
+            "null"
+        ],
+        [
+            "Manufacturing Sector",
+            "SECTOR",
+            "Lose",
+            "Shine",
+            "null"
+        ],
+        [
+            "Manufacturing Sector",
+            "SECTOR",
+            "Contract",
+            "11.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manufacturing Sector",
+            "SECTOR",
+            "Grow",
+            "6.2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Construction Sector",
+            "SECTOR",
+            "Contract",
+            "3.6 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Grow",
+            "7.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Record",
+            "Fastest Growth",
+            "null"
+        ],
+        [
+            "Services Sector",
+            "SECTOR",
+            "Record",
+            "Fourth Quarter of 2016",
+            "TIME"
+        ]
+    ]
+}

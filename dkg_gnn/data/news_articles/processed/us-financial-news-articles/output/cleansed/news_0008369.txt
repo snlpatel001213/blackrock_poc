@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Partner",
+            "Uber Technologies Inc",
+            "ORG"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Partner",
+            "Volkswagen AG",
+            "ORG"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Produce",
+            "GPU computing technology",
+            "PRODUCT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Use",
+            "Nvidia technology",
+            "PRODUCT"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Operate_In",
+            "Self-driving car industry",
+            "SECTOR"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Operate_In",
+            "Self-driving car industry",
+            "SECTOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Develop",
+            "Self-driving programme",
+            "CONCEPT"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Positive_Impact_On",
+            "Uber self-driving programme",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen AG",
+            "ORG",
+            "Infuse",
+            "Nvidia artificial intelligence technology",
+            "PRODUCT"
+        ],
+        [
+            "Volkswagen AG",
+            "ORG",
+            "Operate_In",
+            "Future lineup",
+            "SECTOR"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Have",
+            "320 companies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Produce",
+            "Nvidia Drive",
+            "PRODUCT"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Produce",
+            "Xavier processors",
+            "PRODUCT"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Relate_To",
+            "Chips for driverless cars",
+            "CONCEPT"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Relate_To",
+            "Data centers",
+            "CONCEPT"
+        ],
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Relate_To",
+            "Artificial intelligence",
+            "CONCEPT"
+        ]
+    ]
+}

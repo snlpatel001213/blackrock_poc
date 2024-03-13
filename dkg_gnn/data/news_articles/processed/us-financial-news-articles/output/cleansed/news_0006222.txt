@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Rio de Janeiro",
+            "GPE",
+            "Has",
+            "New Year celebrations",
+            "EVENT"
+        ],
+        [
+            "Copacabana beach",
+            "GPE",
+            "Has",
+            "New Year celebrations",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "demilitarized zone",
+            "CONCEPT"
+        ],
+        [
+            "North",
+            "GPE",
+            "Relate_To",
+            "demilitarized zone",
+            "CONCEPT"
+        ],
+        [
+            "Paju",
+            "GPE",
+            "Located_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Niagara Falls",
+            "GPE",
+            "Has",
+            "Horseshoe Falls",
+            "GPE"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Has",
+            "Niagara Falls",
+            "GPE"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "Charallave",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Frankfurt",
+            "GPE"
+        ],
+        [
+            "Bronx",
+            "GPE",
+            "Has",
+            "apartment fire",
+            "EVENT"
+        ],
+        [
+            "Spain",
+            "GPE",
+            "Has",
+            "Punta Galea",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Inanda",
+            "GPE"
+        ],
+        [
+            "Houston",
+            "GPE",
+            "Has",
+            "flood",
+            "EVENT"
+        ],
+        [
+            "Nepal",
+            "GPE",
+            "Has",
+            "Swasthani Brata Katha festival",
+            "EVENT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Has",
+            "New Year's Eve party",
+            "EVENT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Has",
+            "bus crash",
+            "EVENT"
+        ],
+        [
+            "Kerala",
+            "GPE",
+            "Has",
+            "Cochin Carnival",
+            "EVENT"
+        ],
+        [
+            "London",
+            "GPE",
+            "Has",
+            "supermoon",
+            "EVENT"
+        ],
+        [
+            "Gaza Strip",
+            "GPE",
+            "Has",
+            "refugee camp",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Brittany coast",
+            "GPE"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Has",
+            "Daraa",
+            "GPE"
+        ],
+        [
+            "Nigeria",
+            "GPE",
+            "Has",
+            "Bakasi IDP camp",
+            "EVENT"
+        ],
+        [
+            "Mexico City",
+            "GPE",
+            "Has",
+            "Santa Muerte prayer",
+            "EVENT"
+        ],
+        [
+            "Khan Younis",
+            "GPE",
+            "Has",
+            "refugee camp",
+            "EVENT"
+        ],
+        [
+            "Panmunjom",
+            "GPE",
+            "Has",
+            "direct communications hotline",
+            "CONCEPT"
+        ],
+        [
+            "Tepito",
+            "GPE",
+            "Has",
+            "Santa Muerte prayer",
+            "EVENT"
+        ]
+    ]
+}

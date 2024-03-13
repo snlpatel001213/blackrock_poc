@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Cadre",
+            "COMP",
+            "Partner",
+            "Goldman Sachs Group Inc",
+            "COMP"
+        ],
+        [
+            "Goldman Sachs Group Inc",
+            "COMP",
+            "Invest",
+            "Cadre",
+            "COMP"
+        ],
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Operate_In",
+            "Private Wealth Management",
+            "SECTOR"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Operate_In",
+            "Real Estate Investment",
+            "SECTOR"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Take_Advantage",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Offer",
+            "Alternative",
+            "CONCEPT"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Co_founded_By",
+            "Ryan Williams",
+            "PERSON"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Co_founded_By",
+            "Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Co_founded_By",
+            "Joshua Kushner",
+            "PERSON"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Relate_To",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Joshua Kushner",
+            "PERSON",
+            "Relate_To",
+            "Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Joshua Kushner",
+            "PERSON",
+            "Venture_Capitalist",
+            "NA",
+            "NA"
+        ],
+        [
+            "Cadre",
+            "COMP",
+            "Close",
+            "Transaction Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Participates_In",
+            "Equity Financing Round",
+            "EVENT"
+        ],
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Invest",
+            "Cadre",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Led_By",
+            "Andreessen Horowitz",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Participate",
+            "Breyer Capital",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Participate",
+            "Ford Foundation",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Participate",
+            "General Catalyst",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Participate",
+            "Khosla Ventures",
+            "COMP"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Participate",
+            "Thrive Capital",
+            "COMP"
+        ]
+    ]
+}

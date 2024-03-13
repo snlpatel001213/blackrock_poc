@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Prevail",
+            "Denis Shapovalov",
+            "PERSON"
+        ],
+        [
+            "Denis Shapovalov",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Struggle",
+            "Serve",
+            "CONCEPT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Save",
+            "Break Point",
+            "CONCEPT"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Overcome",
+            "Denis Shapovalov",
+            "PERSON"
+        ],
+        [
+            "Kyle Edmund",
+            "PERSON",
+            "Play",
+            "Chung Hyeon",
+            "PERSON"
+        ],
+        [
+            "Chung Hyeon",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Chung Hyeon",
+            "PERSON",
+            "World Number",
+            "58",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gilles Muller",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Gilles Muller",
+            "PERSON",
+            "World Number",
+            "5",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gilles Muller",
+            "PERSON",
+            "Withstand",
+            "Barrage",
+            "CONCEPT"
+        ],
+        [
+            "Gilles Muller",
+            "PERSON",
+            "Lose",
+            "Chung Hyeon",
+            "PERSON"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Withdraw",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Hip Issue",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Unsure",
+            "Recover",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Michael Mmoh",
+            "PERSON",
+            "Win",
+            "Federico Delbonis",
+            "PERSON"
+        ],
+        [
+            "Michael Mmoh",
+            "PERSON",
+            "First Match",
+            "ATP Tour",
+            "EVENT"
+        ],
+        [
+            "Michael Mmoh",
+            "PERSON",
+            "Defeat",
+            "Seven",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michael Mmoh",
+            "PERSON",
+            "Play",
+            "Mischa Zverev",
+            "PERSON"
+        ],
+        [
+            "Mischa Zverev",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Denis Istomin",
+            "PERSON",
+            "Win",
+            "Damir Dzumhur",
+            "PERSON"
+        ],
+        [
+            "Denis Istomin",
+            "PERSON",
+            "Stun",
+            "Seven",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Damir Dzumhur",
+            "PERSON",
+            "Participates_In",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Damir Dzumhur",
+            "PERSON",
+            "World Number",
+            "7",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

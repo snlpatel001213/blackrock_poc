@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Truco Enterprises",
+            "COMP",
+            "Announce",
+            "Lisa Walsh",
+            "PERSON"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Join",
+            "Truco Enterprises",
+            "COMP"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Operate_In",
+            "Consumer Packaged Goods",
+            "SECTOR"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Experience_In",
+            "Food and Beverage Space",
+            "SECTOR"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Top_Priorities",
+            "Expansion of Distribution",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Top_Priorities",
+            "Acceleration of Company Growth",
+            "CONCEPT"
+        ],
+        [
+            "David Lowe",
+            "PERSON",
+            "Chairman",
+            "Board of Truco",
+            "ORG"
+        ],
+        [
+            "David Lowe",
+            "PERSON",
+            "Statement",
+            "Lisa is a Proven Leader",
+            "CONCEPT"
+        ],
+        [
+            "On the Border",
+            "PRODUCT",
+            "Currently",
+            "Fastest Growing Tortilla Chip Brand",
+            "CONCEPT"
+        ],
+        [
+            "Board",
+            "ORG",
+            "Confident",
+            "Lisa Can Leverage Skillset",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Commitment",
+            "Leading High-Performing Teams",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Champion",
+            "Gender Equality",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Spearhead",
+            "Diversity and Inclusion Initiatives",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Senior Vice President",
+            "PepsiCo Sales",
+            "COMP"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Led",
+            "Global Strategy for One of PepsiCo\u2019s Largest Customers",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Responsible",
+            "Portfolio Including Frito-Lay, Quaker Foods and All of PepsiCo\u2019s Beverage Businesses",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Held",
+            "Variety of Roles in General Management, Sales, Strategy, Category Management and Industry Engagement",
+            "CONCEPT"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Board Chair",
+            "Network of Executive Women",
+            "ORG"
+        ],
+        [
+            "Lisa Walsh",
+            "PERSON",
+            "Received",
+            "Bachelor\u2019s Degree in Psychology from Lafayette College",
+            "EDUCATION"
+        ],
+        [
+            "Truco Enterprises",
+            "COMP",
+            "Portfolio Company",
+            "Insignia Capital Group",
+            "ORG"
+        ],
+        [
+            "Insignia Capital Group",
+            "ORG",
+            "Portfolio Companies",
+            "Truco Enterprises",
+            "COMP"
+        ],
+        [
+            "Insignia Capital Group",
+            "ORG",
+            "Portfolio Companies",
+            "Century Snacks",
+            "COMP"
+        ],
+        [
+            "Insignia Capital Group",
+            "ORG",
+            "Portfolio Companies",
+            "Tillamook Country Smoker",
+            "COMP"
+        ]
+    ]
+}

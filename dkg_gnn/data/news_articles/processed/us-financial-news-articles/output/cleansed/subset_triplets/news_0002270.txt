@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Buffalo Bills",
+            "GPE",
+            "Participates_In",
+            "Playoffs",
+            "EVENT"
+        ],
+        [
+            "LeSean McCoy",
+            "PERSON",
+            "Operate_In",
+            "Bills Offense",
+            "SECTOR"
+        ],
+        [
+            "Marcus Murphy",
+            "PERSON",
+            "Relate_To",
+            "Bills Running Back",
+            "SECTOR"
+        ],
+        [
+            "Mike Tolbert",
+            "PERSON",
+            "Relate_To",
+            "Bills Running Back",
+            "SECTOR"
+        ],
+        [
+            "Marcus Murphy",
+            "PERSON",
+            "Operate_In",
+            "Bills Game",
+            "EVENT"
+        ],
+        [
+            "Mike Tolbert",
+            "PERSON",
+            "Operate_In",
+            "Bills Game",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Gary Cohn",
+            "PERSON"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Participates_In",
+            "Bloomberg TV",
+            "ORG"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "David Tepper",
+            "PERSON"
+        ],
+        [
+            "David Tepper",
+            "PERSON",
+            "Relate_To",
+            "earnings projections",
+            "CONCEPT"
+        ],
+        [
+            "David Tepper",
+            "PERSON",
+            "Relate_To",
+            "economic outlook",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Gary Cohn",
+            "PERSON"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "global economies",
+            "GPE"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "companies",
+            "COMP"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "earnings perspective",
+            "CONCEPT"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "effect of tax reform in the stock market",
+            "CONCEPT"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "capital expenditure",
+            "CONCEPT"
+        ],
+        [
+            "Gary Cohn",
+            "PERSON",
+            "Relate_To",
+            "five years of expensing",
+            "CONCEPT"
+        ]
+    ]
+}

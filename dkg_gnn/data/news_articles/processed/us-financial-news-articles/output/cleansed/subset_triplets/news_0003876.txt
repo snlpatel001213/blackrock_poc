@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Savara Inc",
+            "COMP",
+            "Announce",
+            "Peter Ginsberg",
+            "PERSON"
+        ],
+        [
+            "Peter Ginsberg",
+            "PERSON",
+            "Is_Member_Of",
+            "Savara Inc",
+            "COMP"
+        ]
+    ]
+}

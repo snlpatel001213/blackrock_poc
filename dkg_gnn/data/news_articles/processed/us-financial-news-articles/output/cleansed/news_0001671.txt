@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Powerball",
+            "PRODUCT",
+            "Control",
+            "Lottery",
+            "ORG"
+        ],
+        [
+            "Mega Millions",
+            "PRODUCT",
+            "Control",
+            "Lottery",
+            "ORG"
+        ],
+        [
+            "Powerball",
+            "PRODUCT",
+            "Impact",
+            "$400 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mega Millions",
+            "PRODUCT",
+            "Impact",
+            "$400 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winners",
+            "PERSON",
+            "Watch_Out_For",
+            "Tax Bite",
+            "CONCEPT"
+        ]
+    ]
+}

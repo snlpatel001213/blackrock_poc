@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Peloton",
+            "COMP",
+            "Introduce",
+            "Treadmill",
+            "PRODUCT"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Operate_In",
+            "Interactive Cycling Platform",
+            "SECTOR"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Price Tag",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Monthly Fee",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Says",
+            "Company Growth",
+            "CONCEPT"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Says",
+            "Revenue Doubled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Developed_Using",
+            "3-D Printing Technology",
+            "CONCEPT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Screen",
+            "PRODUCT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Live Classes",
+            "CONCEPT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Leaderboard",
+            "PRODUCT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "Core and Weight Training",
+            "CONCEPT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Has",
+            "New Line of Weights",
+            "PRODUCT"
+        ],
+        [
+            "Treadmill",
+            "PRODUCT",
+            "Employs",
+            "Slats",
+            "CONCEPT"
+        ],
+        [
+            "Slats",
+            "CONCEPT",
+            "Developed_Using",
+            "3-D Printing Technology",
+            "CONCEPT"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Has",
+            "Hundreds of Thousands of Members",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Has",
+            "Facebook Page",
+            "PRODUCT"
+        ],
+        [
+            "Facebook Page",
+            "PRODUCT",
+            "Has",
+            "Members",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Members",
+            "ECON_INDICATOR",
+            "Give",
+            "Thumbs-Up Emojis",
+            "PRODUCT"
+        ],
+        [
+            "Members",
+            "ECON_INDICATOR",
+            "Question",
+            "Move Away from Core Brand",
+            "CONCEPT"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Has",
+            "Competitors",
+            "SECTOR"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Worried about",
+            "Technology Company",
+            "SECTOR"
+        ],
+        [
+            "Peloton",
+            "COMP",
+            "Investor",
+            "Comcast/NBCUniversal",
+            "COMP"
+        ]
+    ]
+}

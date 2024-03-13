@@ -1,0 +1,83 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Propose",
+            "Inter-Korean Military Talks",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Propose",
+            "Family Reunion",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Propose",
+            "Joint Activities",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Delegation",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Athletes",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Cheering Squad",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Meet",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Discuss",
+            "North Korea's Participation",
+            "CONCEPT",
+            "In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Propose",
+            "March Together",
+            "CONCEPT",
+            "At",
+            "Opening Ceremony",
+            "CONCEPT",
+            "Of",
+            "Olympics",
+            "EVENT"
+        ]
+    ]
+}

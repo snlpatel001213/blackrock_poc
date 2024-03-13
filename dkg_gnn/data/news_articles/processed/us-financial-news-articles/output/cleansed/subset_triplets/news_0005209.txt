@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Liquefied Natural Gas Prices",
+            "ECON_INDICATOR",
+            "Decrease",
+            "Record Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LNG Prices",
+            "ECON_INDICATOR",
+            "Has",
+            "Inner Mongolia Region",
+            "GPE"
+        ],
+        [
+            "LNG Prices",
+            "ECON_INDICATOR",
+            "Has",
+            "Shaanxi Province",
+            "GPE"
+        ],
+        [
+            "Trucked-LNG Dealer",
+            "ORG",
+            "Is_Member_Of",
+            "Tangshan Huapu Gas Co",
+            "ORG"
+        ],
+        [
+            "Industrial Users",
+            "ORG",
+            "Participates_In",
+            "Gas Supply",
+            "CONCEPT"
+        ],
+        [
+            "Residential Users",
+            "ORG",
+            "Participates_In",
+            "Gas Supply",
+            "CONCEPT"
+        ],
+        [
+            "Industrial Users",
+            "ORG",
+            "Participates_In",
+            "Coal Heating",
+            "CONCEPT"
+        ],
+        [
+            "Industrial Users",
+            "ORG",
+            "Participates_In",
+            "Supply Shortages",
+            "CONCEPT"
+        ],
+        [
+            "Industrial Users",
+            "ORG",
+            "Participates_In",
+            "Liquefied Petroleum Gas",
+            "PRODUCT"
+        ],
+        [
+            "Steel Mills",
+            "ORG",
+            "Participates_In",
+            "Operations",
+            "CONCEPT"
+        ],
+        [
+            "Imported LNG Prices",
+            "ECON_INDICATOR",
+            "Has",
+            "Caofeidian Receiving Terminal",
+            "COMP"
+        ],
+        [
+            "Imported LNG Prices",
+            "ECON_INDICATOR",
+            "Has",
+            "Qingdao Terminal",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "Ryanair",
+            "ORG",
+            "Apply_For",
+            "UK license",
+            "ORG/GOV"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Ryanair UK",
+            "ORG",
+            "File",
+            "Application",
+            "ORG/GOV"
+        ],
+        [
+            "Ryanair UK",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Fear",
+            "Major travel disruption",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Plan",
+            "Pivot growth",
+            "CONCEPT",
+            "Away_From",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "ORG",
+            "Three",
+            "UK domestic routes",
+            "COMP",
+            "Account_For",
+            "2 percent",
+            "ECON_INDICATOR",
+            "Of",
+            "Ryanair",
+            "ORG",
+            "Business"
+        ]
+    ]
+}

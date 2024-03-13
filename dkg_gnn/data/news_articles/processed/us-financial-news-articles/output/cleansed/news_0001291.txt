@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Announce",
+            "Ms. Yoori Lee Appointment",
+            "PERSON"
+        ],
+        [
+            "Ms. Yoori Lee",
+            "PERSON",
+            "Replace",
+            "Professor Yossef Av-Gay",
+            "PERSON"
+        ],
+        [
+            "Professor Yossef Av-Gay",
+            "PERSON",
+            "Step_Down",
+            " ",
+            " "
+        ],
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Board_of_Directors",
+            "ORG"
+        ],
+        [
+            "Ms. Yoori Lee",
+            "PERSON",
+            "Participates_In",
+            "AIT Therapeutics Inc.",
+            "COMP"
+        ],
+        [
+            "Ms. Yoori Lee",
+            "PERSON",
+            "Co_Founder",
+            "Trio Health Advisory Group",
+            "ORG"
+        ],
+        [
+            "Trio Health Advisory Group",
+            "ORG",
+            "Operate_In",
+            "Healthcare Industry",
+            "SECTOR"
+        ],
+        [
+            "Trio Health Advisory Group",
+            "ORG",
+            "Has",
+            "Technology_Platform",
+            "ORG"
+        ],
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Impact",
+            "Patient_Care",
+            "CONCEPT"
+        ],
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Produce",
+            "Nitric_Oxide_Generator_System",
+            "PRODUCT"
+        ],
+        [
+            "Nitric_Oxide_Generator_System",
+            "PRODUCT",
+            "Treat",
+            "Pulmonary_Hypertension",
+            "CONCEPT"
+        ],
+        [
+            "AIT Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Scientific_Advisory_Board",
+            "ORG"
+        ]
+    ]
+}

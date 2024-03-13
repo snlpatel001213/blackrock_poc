@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Ivory Coast",
+            "GPE",
+            "Has",
+            "Ivorian Army",
+            "ORG/GOV"
+        ],
+        [
+            "Ivorian Army",
+            "ORG/GOV",
+            "Operate_In",
+            "Ivory Coast",
+            "GPE"
+        ],
+        [
+            "Ivorian Army",
+            "ORG/GOV",
+            "Participates_In",
+            "Mutinies",
+            "EVENT"
+        ],
+        [
+            "Mutinies",
+            "EVENT",
+            "Relate_To",
+            "Bouake",
+            "GPE"
+        ],
+        [
+            "Bouake",
+            "GPE",
+            "Has",
+            "Residents",
+            "PERSON"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Experience",
+            "Gunshots",
+            "CONCEPT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Experience",
+            "Heavy Weapons Fire",
+            "CONCEPT"
+        ],
+        [
+            "Bouake",
+            "GPE",
+            "Has",
+            "Military Bases",
+            "FACILITY"
+        ],
+        [
+            "Military Bases",
+            "FACILITY",
+            "Experience",
+            "Gunshots",
+            "CONCEPT"
+        ],
+        [
+            "Military Bases",
+            "FACILITY",
+            "Experience",
+            "Heavy Weapons Fire",
+            "CONCEPT"
+        ],
+        [
+            "Bouake",
+            "GPE",
+            "Has",
+            "Mutineers",
+            "PERSON"
+        ],
+        [
+            "Mutineers",
+            "PERSON",
+            "Lead",
+            "Mutinies",
+            "EVENT"
+        ],
+        [
+            "Mutineers",
+            "PERSON",
+            "Have",
+            "Demands",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Cave_In",
+            "Demands",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Dispatches",
+            "Soldiers",
+            "PERSON"
+        ],
+        [
+            "Soldiers",
+            "PERSON",
+            "Reinforce",
+            "Positions",
+            "FACILITY"
+        ],
+        [
+            "Ivory Coast",
+            "GPE",
+            "Is",
+            "Top Cocoa Grower",
+            "SECTOR"
+        ],
+        [
+            "Ivory Coast",
+            "GPE",
+            "Has",
+            "International Investors",
+            "PERSON"
+        ],
+        [
+            "Ivory Coast",
+            "GPE",
+            "Emerged",
+            "Political Crisis",
+            "EVENT"
+        ],
+        [
+            "Ivory Coast",
+            "GPE",
+            "Is",
+            "Africa Fastest Growing Economies",
+            "SECTOR"
+        ],
+        [
+            "Ivorian Army",
+            "ORG/GOV",
+            "Cobbled_Together",
+            "Rival Rebel and Loyalist Factions",
+            "PERSON"
+        ],
+        [
+            "Ivorian Army",
+            "ORG/GOV",
+            "Has",
+            "Dangerous Divisions",
+            "CONCEPT"
+        ]
+    ]
+}

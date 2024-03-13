@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Leicester City",
+            "COMP",
+            "Has",
+            "Claude Puel",
+            "PERSON"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Relate_To",
+            "Groin Strain",
+            "CONCEPT"
+        ]
+    ]
+}

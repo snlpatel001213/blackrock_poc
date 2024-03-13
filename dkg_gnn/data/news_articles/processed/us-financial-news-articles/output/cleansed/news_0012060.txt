@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "MoviePass",
+            "COMP",
+            "Add",
+            "1.5 Million Subscribers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MoviePass",
+            "COMP",
+            "Operate_In",
+            "Reuters",
+            "ORG/REG"
+        ],
+        [
+            "Reuters",
+            "ORG/REG",
+            "Control",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Produce",
+            "News",
+            "CONCEPT"
+        ],
+        [
+            "News",
+            "CONCEPT",
+            "Relate_To",
+            "Business",
+            "CONCEPT"
+        ],
+        [
+            "News",
+            "CONCEPT",
+            "Relate_To",
+            "Financial",
+            "CONCEPT"
+        ],
+        [
+            "News",
+            "CONCEPT",
+            "Relate_To",
+            "National",
+            "CONCEPT"
+        ],
+        [
+            "News",
+            "CONCEPT",
+            "Relate_To",
+            "International",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "output": [
+        [
+            "U.S. Auto Industry",
+            "SECTOR",
+            "Suffer",
+            "Sales Decline",
+            "ECON_INDICATOR",
+            {
+                "year": 2017,
+                "type": "DATE"
+            }
+        ],
+        [
+            "U.S. Auto Industry",
+            "SECTOR",
+            "Relate_To",
+            "Financial Crisis",
+            "CONCEPT",
+            {
+                "year": 2009,
+                "type": "DATE"
+            }
+        ],
+        [
+            "Car Makers",
+            "ORG",
+            "Report",
+            "Sales Decline",
+            "ECON_INDICATOR",
+            {
+                "month": 12,
+                "type": "DATE"
+            }
+        ],
+        [
+            "Car Makers",
+            "ORG",
+            "Expect",
+            "Sales Fall",
+            "ECON_INDICATOR",
+            {
+                "year": 2018,
+                "type": "DATE"
+            }
+        ],
+        [
+            "17-million mark",
+            "ECON_INDICATOR",
+            "Below",
+            "Sales Level",
+            "ECON_INDICATOR",
+            {
+                "year": 2018,
+                "type": "DATE"
+            }
+        ],
+        [
+            "Sales Level",
+            "ECON_INDICATOR",
+            "Exceed",
+            "17-million mark",
+            "ECON_INDICATOR",
+            {
+                "year": 2014,
+                "type": "DATE"
+            }
+        ]
+    ]
+}

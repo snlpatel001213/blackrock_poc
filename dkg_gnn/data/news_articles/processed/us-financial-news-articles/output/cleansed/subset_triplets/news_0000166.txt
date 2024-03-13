@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ethiopia",
+            "GPE",
+            "Announce",
+            "National Reconciliation",
+            "CONCEPT"
+        ],
+        [
+            "Hailemariam Desalegn",
+            "PERSON",
+            "Control",
+            "Ethiopia",
+            "GPE"
+        ],
+        [
+            "Jailed Politicians",
+            "PERSON",
+            "Relate_To",
+            "Prosecution",
+            "CONCEPT"
+        ],
+        [
+            "Jailed Politicians",
+            "PERSON",
+            "Relate_To",
+            "Sentenced",
+            "CONCEPT"
+        ]
+    ]
+}

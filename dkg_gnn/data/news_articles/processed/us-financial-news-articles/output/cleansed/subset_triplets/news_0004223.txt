@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Cendyn",
+            "COMP",
+            "Announce",
+            "Tim Sullivan",
+            "PERSON"
+        ],
+        [
+            "Tim Sullivan",
+            "PERSON",
+            "Has",
+            "Top 25 Extraordinary Minds",
+            "CONCEPT"
+        ],
+        [
+            "Tim Sullivan",
+            "PERSON",
+            "Operate_In",
+            "Hospitality Industry",
+            "SECTOR"
+        ],
+        [
+            "Cendyn",
+            "COMP",
+            "Operate_In",
+            "Hospitality Industry",
+            "SECTOR"
+        ],
+        [
+            "HSMAI",
+            "ORG",
+            "Announce",
+            "Top 25 Extraordinary Minds",
+            "CONCEPT"
+        ],
+        [
+            "Tim Sullivan",
+            "PERSON",
+            "Participates_In",
+            "HSMAI",
+            "ORG"
+        ],
+        [
+            "Tim Sullivan",
+            "PERSON",
+            "Impact",
+            "Cendyn",
+            "COMP"
+        ],
+        [
+            "Cendyn",
+            "COMP",
+            "Produce",
+            "Cendyn Hospitality Cloud",
+            "PRODUCT"
+        ],
+        [
+            "Cendyn Hospitality Cloud",
+            "PRODUCT",
+            "Relate_To",
+            "Hotel CRM",
+            "PRODUCT"
+        ],
+        [
+            "Cendyn Hospitality Cloud",
+            "PRODUCT",
+            "Relate_To",
+            "Digital Marketing",
+            "PRODUCT"
+        ],
+        [
+            "Cendyn Hospitality Cloud",
+            "PRODUCT",
+            "Relate_To",
+            "Hotel Sales",
+            "PRODUCT"
+        ],
+        [
+            "Cendyn Hospitality Cloud",
+            "PRODUCT",
+            "Relate_To",
+            "Hotel Industry",
+            "SECTOR"
+        ],
+        [
+            "Cendyn Hospitality Cloud",
+            "PRODUCT",
+            "Control",
+            "Most Integrated and Connected",
+            "CONCEPT"
+        ]
+    ]
+}

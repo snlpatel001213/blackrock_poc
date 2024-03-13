@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mount Agung",
+            "GPE",
+            "Operate_In",
+            "Bali",
+            "GPE"
+        ],
+        [
+            "Mount Agung",
+            "GPE",
+            "Control",
+            "Exclusion Zone",
+            "GPE"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Raise",
+            "Alert Status",
+            "CONCEPT"
+        ]
+    ]
+}

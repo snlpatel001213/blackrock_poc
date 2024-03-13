@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Frankfurt a.M. GE",
+            "GPE"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Control",
+            "Main Refinancing Operation",
+            "EVENT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Allotment Intended Volume",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tot Amount Allotted",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Has",
+            "Tot Bid Amount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Relate_To",
+            "Autonomous Factors",
+            "CONCEPT"
+        ],
+        [
+            "Main Refinancing Operation",
+            "EVENT",
+            "Relate_To",
+            "Liquidity Forecast",
+            "CONCEPT"
+        ]
+    ]
+}

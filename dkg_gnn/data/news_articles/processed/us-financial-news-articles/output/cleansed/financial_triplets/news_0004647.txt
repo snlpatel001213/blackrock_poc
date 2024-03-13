@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Operate_In",
+            "Biotechnology Division",
+            "SECTOR"
+        ],
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Operate_In",
+            "Protein Platform Division",
+            "SECTOR"
+        ],
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Operate_In",
+            "Diagnostic Division",
+            "SECTOR"
+        ],
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Control",
+            "Atlanta Biologicals",
+            "ORG"
+        ],
+        [
+            "Bio-Techne Corporation",
+            "COMP",
+            "Raise",
+            "Earnings per share",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

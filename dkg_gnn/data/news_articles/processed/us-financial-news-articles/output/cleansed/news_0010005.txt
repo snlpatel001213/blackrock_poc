@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ingevity Corp",
+            "COMP",
+            "Announce",
+            "Proposed Private Offering",
+            "EVENT"
+        ],
+        [
+            "Ingevity Corp",
+            "COMP",
+            "Control",
+            "Senior Unsecured Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ingevity Corp",
+            "COMP",
+            "Use_Proceeds_Of_Offering",
+            "Finance Purchase",
+            "EVENT"
+        ],
+        [
+            "Ingevity Corp",
+            "COMP",
+            "Finance Purchase",
+            "Some Assets",
+            "PRODUCT"
+        ]
+    ]
+}

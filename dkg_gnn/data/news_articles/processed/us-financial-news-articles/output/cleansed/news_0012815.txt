@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Imports from North Korea",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "UN sanctions",
+            "ORG/REG"
+        ],
+        [
+            "UN sanctions",
+            "ORG/REG",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Ballistic missile programs",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear weapons programs",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Impact",
+            "Imports from China",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Trade with North Korea",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "Products to North Korea",
+            "PRODUCT"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Impose",
+            "Sanctions on North Korea",
+            "GPE"
+        ],
+        [
+            "UN Security Council",
+            "ORG/REG",
+            "Impose",
+            "New caps on trade with North Korea",
+            "SECTOR"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Import",
+            "No iron ore, coal or lead from China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "No gasoline, jet fuel, diesel or fuel oil to North Korea",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "Products to North Korea",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Import",
+            "Non-commodities from North Korea",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "Electronics to North Korea",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "Plastic products to North Korea",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "Garments to North Korea",
+            "PRODUCT"
+        ]
+    ]
+}

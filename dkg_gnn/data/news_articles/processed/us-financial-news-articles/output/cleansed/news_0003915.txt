@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "L Brands Inc.",
+            "ORG",
+            "Reports",
+            "December 2017 Sales",
+            "EVENT"
+        ],
+        [
+            "L Brands Inc.",
+            "ORG",
+            "Updates",
+            "Fourth Quarter Earnings Guidance",
+            "EVENT"
+        ],
+        [
+            "L Brands Inc.",
+            "ORG",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "December 2017 Sales",
+            "EVENT",
+            "Raise",
+            "3 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "L Brands Inc.",
+            "ORG",
+            "Reported",
+            "Net Sales of $2.516 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Net Sales of $2.516 Billion",
+            "FIN_INSTRUMENT",
+            "Equal",
+            "December 2017 Sales",
+            "EVENT"
+        ],
+        [
+            "L Brands Inc.",
+            "ORG",
+            "Sees",
+            "Q4 Earnings Per Share About $2.00 Excluding Items",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Q4 Earnings Per Share About $2.00 Excluding Items",
+            "FIN_INSTRUMENT",
+            "Equal",
+            "Q4 Earnings Per Share View $2.05",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

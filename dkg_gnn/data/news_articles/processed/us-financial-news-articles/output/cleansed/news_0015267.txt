@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "Dutch appeals court",
+            "GPE",
+            "Uphold",
+            "Lower court ruling",
+            "ORG/GOV"
+        ],
+        [
+            "Lower court",
+            "GPE",
+            "Grant",
+            "Rights",
+            "ORG"
+        ],
+        [
+            "Stolichnaya vodka brand",
+            "PRODUCT",
+            "Belong_To",
+            "Sojuzplodoimport",
+            "ORG"
+        ],
+        [
+            "Sojuzplodoimport",
+            "ORG",
+            "Stripping",
+            "Rights",
+            "ORG"
+        ],
+        [
+            "Luxembourg-based Spirits International",
+            "ORG",
+            "Own",
+            "SPI Group",
+            "ORG"
+        ],
+        [
+            "SPI Group",
+            "ORG",
+            "Facing",
+            "Challenges",
+            "ORG"
+        ],
+        [
+            "Stolichnaya vodka brand",
+            "PRODUCT",
+            "Relate_To",
+            "Sales",
+            "EVENT"
+        ],
+        [
+            "Sales",
+            "EVENT",
+            "Govern",
+            "Netherlands",
+            "GPE"
+        ],
+        [
+            "SPI Group",
+            "ORG",
+            "Facing",
+            "Challenges",
+            "ORG"
+        ],
+        [
+            "Challenges",
+            "EVENT",
+            "Other markets",
+            "COMP"
+        ],
+        [
+            "Other markets",
+            "EVENT",
+            "Include",
+            "13 European Union countries",
+            "GPE"
+        ],
+        [
+            "Other markets",
+            "EVENT",
+            "Include",
+            "US",
+            "GPE"
+        ],
+        [
+            "Other markets",
+            "EVENT",
+            "Include",
+            "Australia",
+            "GPE"
+        ]
+    ]
+}

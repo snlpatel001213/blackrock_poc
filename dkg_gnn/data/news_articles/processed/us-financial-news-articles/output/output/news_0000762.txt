@@ -1,0 +1,1 @@
+{'output': [['Australian probe', 'ORG', 'Raise', 'seaplane', 'PRODUCT'], ['seaplane', 'PRODUCT', 'Relate_To', 'Sydney river', 'GPE'], ['Sydney river', 'GPE', 'Relate_To', "New Year's Eve", 'EVENT'], ["New Year's Eve", 'EVENT', 'Negative_Impact_On', 'six people', 'PERSON'], ['six people', 'PERSON', 'Include', 'prominent British CEO', 'PERSON']]}

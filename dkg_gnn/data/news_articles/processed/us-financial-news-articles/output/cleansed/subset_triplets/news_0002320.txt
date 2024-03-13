@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Introduce",
+            "Time\u2019s Up",
+            "ORG"
+        ],
+        [
+            "America Ferrera",
+            "PERSON",
+            "Introduce",
+            "Time\u2019s Up",
+            "ORG"
+        ],
+        [
+            "Shonda Rhimes",
+            "PERSON",
+            "Introduce",
+            "Time\u2019s Up",
+            "ORG"
+        ],
+        [
+            "Eva Longoria",
+            "PERSON",
+            "Introduce",
+            "Time\u2019s Up",
+            "ORG"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Has",
+            "Legal Defense Fund",
+            "ORG"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Has",
+            "Lofty Goals",
+            "CONCEPT"
+        ],
+        [
+            "Lofty Goals",
+            "CONCEPT",
+            "Relate_To",
+            "#MeToo Moment",
+            "CONCEPT"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Impact",
+            "Hollywood Studios",
+            "SECTOR"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Impact",
+            "Talent Agencies",
+            "SECTOR"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Positive_Impact_On",
+            "Women in Hollywood",
+            "PERSON"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Positive_Impact_On",
+            "Women in Lower-Profile Lines of Work",
+            "PERSON"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Participates_In",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Control",
+            "Legal Battles of Women",
+            "PERSON"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Has",
+            "Leaderless Approach",
+            "CONCEPT"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Has",
+            "All-Encompassing Approach",
+            "CONCEPT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Introduce",
+            "Parental Leave Policy",
+            "CONCEPT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Operate_In",
+            "Streaming Business",
+            "SECTOR"
+        ],
+        [
+            "Hilton",
+            "COMP",
+            "Introduce",
+            "Paid Leave Policy",
+            "CONCEPT"
+        ],
+        [
+            "Hilton",
+            "COMP",
+            "Operate_In",
+            "Hourly Staff",
+            "PERSON"
+        ],
+        [
+            "Chobani",
+            "COMP",
+            "Introduce",
+            "Paid Family Leave Program",
+            "CONCEPT"
+        ],
+        [
+            "Chobani",
+            "COMP",
+            "Operate_In",
+            "Factory Workers",
+            "PERSON"
+        ],
+        [
+            "Ikea",
+            "COMP",
+            "Introduce",
+            "Program",
+            "CONCEPT"
+        ],
+        [
+            "Ikea",
+            "COMP",
+            "Operate_In",
+            "Salaried and Hourly Employees",
+            "PERSON"
+        ]
+    ]
+}

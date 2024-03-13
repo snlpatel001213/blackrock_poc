@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "JPMorgan",
+            "COMP",
+            "Host",
+            "JPMorgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Speak",
+            "JPMorgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Bill & Melinda Gates Foundation",
+            "ORG",
+            "Role",
+            "Global Health",
+            "CONCEPT"
+        ],
+        [
+            "Pharma Giants",
+            "ORG",
+            "Attend",
+            "JPMorgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Biotechs",
+            "ORG",
+            "Attend",
+            "JPMorgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Investor Class",
+            "ORG",
+            "Attend",
+            "JPMorgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Remind",
+            "Drug Industry",
+            "SECTOR"
+        ],
+        [
+            "Global Health",
+            "CONCEPT",
+            "Need",
+            "Private Sector",
+            "SECTOR"
+        ],
+        [
+            "Private Sector",
+            "SECTOR",
+            "Gain",
+            "Pursuing Breakthroughs",
+            "CONCEPT"
+        ],
+        [
+            "Emerging Markets",
+            "GPE",
+            "See Booming Populations",
+            "Coming Decades",
+            "TEMPORAL"
+        ],
+        [
+            "Tackling Diseases",
+            "CONCEPT",
+            "Right Thing",
+            "Business Proposition",
+            "CONCEPT"
+        ],
+        [
+            "Cancer Immunotherapy",
+            "CONCEPT",
+            "Prove Effective",
+            "HIV/AIDS, Malaria",
+            "CONCEPT"
+        ],
+        [
+            "CureVac",
+            "COMP",
+            "Backed",
+            "Gates Foundation",
+            "ORG"
+        ],
+        [
+            "Moderna",
+            "COMP",
+            "Backed",
+            "Gates Foundation",
+            "ORG"
+        ],
+        [
+            "mRNA Approaches",
+            "CONCEPT",
+            "Help",
+            "Vaccine and Drug Development",
+            "CONCEPT"
+        ],
+        [
+            "Cancer",
+            "CONCEPT",
+            "Potential",
+            "Help",
+            "CureVac, Moderna"
+        ],
+        [
+            "Immunological Intervention",
+            "CONCEPT",
+            "Potential",
+            "HIV, Malaria, Flu, Zika Virus",
+            "CONCEPT"
+        ]
+    ]
+}

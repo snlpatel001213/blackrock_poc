@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "CAIRO",
+            "GPE",
+            "Reporting",
+            null,
+            "NA"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            null,
+            "NA"
+        ],
+        [
+            "South African",
+            "PERSON",
+            "Die",
+            "Tourist",
+            "PERSON"
+        ],
+        [
+            "Argentinian",
+            "PERSON",
+            "Injured",
+            "Tourist",
+            "PERSON"
+        ],
+        [
+            "French",
+            "PERSON",
+            "Injured",
+            "Tourist",
+            "PERSON"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Balloon Crash",
+            "EVENT"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Operate_In",
+            "Tourism Industry",
+            "SECTOR"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Has",
+            "Political Turmoil",
+            "EVENT"
+        ],
+        [
+            "Civil Aviation Authority",
+            "ORG",
+            "Announce",
+            "Balloon Deviation",
+            "EVENT"
+        ],
+        [
+            "Balloon",
+            "PRODUCT",
+            "Carry",
+            "20 Tourists",
+            "PERSON"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Order",
+            "Highway Closure",
+            "EVENT"
+        ],
+        [
+            "Cairo International Airport",
+            "ORG",
+            "On Alert",
+            null,
+            "NA"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Historic Sites",
+            "GPE"
+        ],
+        [
+            "Nineteen",
+            "ECON_INDICATOR",
+            "Die",
+            null,
+            "NA"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Hot Air Balloon Crash",
+            "EVENT"
+        ],
+        [
+            "Hot Air Balloon",
+            "PRODUCT",
+            "Catch Fire",
+            null,
+            "NA"
+        ],
+        [
+            "Hot Air Balloon",
+            "PRODUCT",
+            "Explosion",
+            null,
+            "NA"
+        ],
+        [
+            "Asian and European",
+            "PERSON",
+            "Die",
+            "Tourist",
+            "PERSON"
+        ]
+    ]
+}

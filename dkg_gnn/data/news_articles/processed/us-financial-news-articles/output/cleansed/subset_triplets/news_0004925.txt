@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Las Vegas",
+            "GPE",
+            "Operate_In",
+            "Tourism Industry",
+            "SECTOR"
+        ],
+        [
+            "Las Vegas Convention and Visitors Authority",
+            "ORG",
+            "Has",
+            "What happens here, stays here",
+            "CONCEPT"
+        ],
+        [
+            "What happens here, stays here",
+            "CONCEPT",
+            "Relate_To",
+            "Las Vegas",
+            "GPE"
+        ],
+        [
+            "Las Vegas Convention and Visitors Authority",
+            "ORG",
+            "Produce",
+            "Ad",
+            "PRODUCT"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Operate_In",
+            "Online",
+            "SECTOR"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Operate_In",
+            "Several TV Networks",
+            "SECTOR"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Impact",
+            "Normalcy",
+            "CONCEPT"
+        ],
+        [
+            "Tourism Industry",
+            "SECTOR",
+            "Negative_Impact_On",
+            "City",
+            "GPE"
+        ]
+    ]
+}

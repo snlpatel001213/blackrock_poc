@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Yuan-denominated crude futures contract",
+            "PRODUCT",
+            "Relate_To",
+            "Dollar",
+            "GPE"
+        ],
+        [
+            "Yuan-denominated crude futures contract",
+            "PRODUCT",
+            "Impact",
+            "Dollar",
+            "GPE"
+        ],
+        [
+            "Marc Chandler",
+            "PERSON",
+            "Announce",
+            "Yuan-denominated crude futures contract",
+            "PRODUCT"
+        ],
+        [
+            "Brown Brothers Harriman",
+            "ORG",
+            "Is_Member_Of",
+            "Marc Chandler",
+            "PERSON"
+        ]
+    ]
+}

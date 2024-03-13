@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "giant display",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Advertise",
+            "hardware products",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "2018 CES show",
+            "EVENT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Operate_In",
+            "Technology sector",
+            "SECTOR"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Impact",
+            "Techies",
+            "PERSON"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Relate_To",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Announce",
+            "slew of new products",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Announce",
+            "updates for Assistant",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Debut",
+            "partnerships",
+            "RELATION"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Produce",
+            "front-facing cameras",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Impact",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Perform",
+            "more than 1 million Actions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Have",
+            "giant lead",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Control",
+            "76 percent market",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Relate_To",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Participates_In",
+            "U.S. home smart speaker market",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "ORG",
+            "Participates_In",
+            "Battle for the living room",
+            "CONCEPT"
+        ],
+        [
+            "CES show",
+            "EVENT",
+            "Participates_In",
+            "CES showroom",
+            "EVENT"
+        ],
+        [
+            "Jillian D\u2019Onfro",
+            "PERSON",
+            "Relate_To",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Jillian D\u2019Onfro",
+            "PERSON",
+            "Relate_To",
+            "Technology Reporter",
+            "SECTOR"
+        ]
+    ]
+}

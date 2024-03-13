@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Toll Brothers Inc.",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Douglas Yearley",
+            "PERSON",
+            "Is_Member_Of",
+            "Toll Brothers Inc.",
+            "COMP"
+        ],
+        [
+            "Toll Brothers Inc.",
+            "COMP",
+            "Announce",
+            "Open Market Sale",
+            "CONCEPT"
+        ],
+        [
+            "Toll Brothers Inc.",
+            "COMP",
+            "Has",
+            "Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Toll Brothers Inc.",
+            "COMP",
+            "Raise",
+            "52.08",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Douglas Yearley",
+            "PERSON",
+            "Sell",
+            "10000 Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

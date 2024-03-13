@@ -1,0 +1,140 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "COMP",
+            "Has",
+            "Impressive Retail Business",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Control",
+            "44 %",
+            "ECON_INDICATOR",
+            "Of",
+            "US E-commerce Sales",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Operate_In",
+            "Total Retail Sales Figure",
+            "ECON_INDICATOR",
+            "Of",
+            "US",
+            "GPE"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Introduce",
+            "One Click Retail",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Participates_In",
+            "Fastest-Growing Product Groups",
+            "SECTOR"
+        ],
+        [
+            "Luxury Beauty",
+            "PRODUCT",
+            "Raise",
+            "47 %",
+            "ECON_INDICATOR",
+            "From",
+            "Year Ago"
+        ],
+        [
+            "Pantry Items",
+            "PRODUCT",
+            "Raise",
+            "38 %",
+            "ECON_INDICATOR",
+            "From",
+            "Year Ago"
+        ],
+        [
+            "Grocery",
+            "PRODUCT",
+            "Raise",
+            "33 %",
+            "ECON_INDICATOR",
+            "From",
+            "Year Ago"
+        ],
+        [
+            "Furniture",
+            "PRODUCT",
+            "Raise",
+            "33 %",
+            "ECON_INDICATOR",
+            "From",
+            "Year Ago"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Produce",
+            "Consumer Electronics Division",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Participates_In",
+            "Top-Grossing Categories",
+            "SECTOR"
+        ],
+        [
+            "Home And Kitchen",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Top-Grossing Categories",
+            "SECTOR"
+        ],
+        [
+            "Publishing",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Top-Grossing Categories",
+            "SECTOR"
+        ],
+        [
+            "Books",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Publishing",
+            "PRODUCT"
+        ],
+        [
+            "Sports And Outdoors",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Top-Grossing Categories",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Introduce",
+            "Private-Label Lines",
+            "PRODUCT",
+            "Across",
+            "Numerous Retail Categories",
+            "SECTOR"
+        ]
+    ]
+}

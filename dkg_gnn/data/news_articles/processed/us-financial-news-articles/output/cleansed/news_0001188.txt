@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Raise",
+            "Winners",
+            "COMP"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Raise",
+            "Losers",
+            "COMP"
+        ],
+        [
+            "Mark Lehmann",
+            "PERSON",
+            "Debate",
+            "Invest",
+            "VERB"
+        ],
+        [
+            "Jake Dollarhide",
+            "PERSON",
+            "Debate",
+            "Invest",
+            "VERB"
+        ]
+    ]
+}

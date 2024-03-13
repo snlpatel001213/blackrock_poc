@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Synchronoss Technologies Inc.",
+            "COMP",
+            "Appoint",
+            "Mary Clark",
+            "PERSON"
+        ],
+        [
+            "Mary Clark",
+            "PERSON",
+            "Is_Member_Of",
+            "Synchronoss Technologies Inc.",
+            "COMP"
+        ]
+    ]
+}

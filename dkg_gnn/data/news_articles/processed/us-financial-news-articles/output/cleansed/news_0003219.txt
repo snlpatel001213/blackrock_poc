@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "London Bridge station",
+            "GPE",
+            "Open",
+            "Five new platforms",
+            "GPE"
+        ],
+        [
+            "London Bridge station",
+            "GPE",
+            "Operate_In",
+            "Britain\u2019,s capital",
+            "GPE"
+        ],
+        [
+            "London Bridge station",
+            "GPE",
+            "Restore_Link",
+            "London\u2019s Luton airport",
+            "GPE"
+        ],
+        [
+            "London Bridge station",
+            "GPE",
+            "Serve",
+            "Southeast England",
+            "GPE"
+        ],
+        [
+            "London Bridge station",
+            "GPE",
+            "Nears_Completion",
+            "Redevelopment",
+            "CONCEPT"
+        ],
+        [
+            "Train fares",
+            "ECON_INDICATOR",
+            "Increase",
+            "January 2, 2018",
+            "DATE"
+        ],
+        [
+            "Train fares",
+            "ECON_INDICATOR",
+            "Raise",
+            "3.4 percent",
+            "PERCENT"
+        ],
+        [
+            "Train fares",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Higher ticket prices",
+            "CONCEPT"
+        ],
+        [
+            "Unions",
+            "ORG",
+            "Protest",
+            "London Bridge",
+            "GPE"
+        ],
+        [
+            "Unions",
+            "ORG",
+            "Protest",
+            "Dozens of other UK stations",
+            "GPE"
+        ],
+        [
+            "Network Rail",
+            "ORG",
+            "Said",
+            "Average rise below inflation",
+            "CONCEPT"
+        ],
+        [
+            "Campaigners",
+            "ORG",
+            "Say",
+            "Fares should be pegged",
+            "CONCEPT"
+        ]
+    ]
+}

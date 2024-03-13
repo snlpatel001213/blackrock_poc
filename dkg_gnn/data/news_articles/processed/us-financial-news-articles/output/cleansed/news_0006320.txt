@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Create",
+            "new forests",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Climate Change",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "forest coverage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "State Forestry Administration",
+            "ORG"
+        ],
+        [
+            "State Forestry Administration",
+            "ORG",
+            "Control",
+            "forestry",
+            "SECTOR"
+        ],
+        [
+            "State Forestry Administration",
+            "ORG",
+            "Has",
+            "Zhang Jianlong",
+            "PERSON"
+        ],
+        [
+            "Zhang Jianlong",
+            "PERSON",
+            "Plant",
+            "33.8 million hectares of forest",
+            "PRODUCT"
+        ],
+        [
+            "Zhang Jianlong",
+            "PERSON",
+            "Invest",
+            "more than 538 billion yuan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Build",
+            "three new state forests",
+            "PRODUCT"
+        ],
+        [
+            "Hebei",
+            "GPE",
+            "Pledge",
+            "to raise total forest coverage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hebei",
+            "GPE",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Promote",
+            "ecological red line program",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Restrict",
+            "irrational development",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Curb",
+            "construction",
+            "ACTIVITY"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "environment ministry",
+            "ORG"
+        ],
+        [
+            "Environment ministry",
+            "ORG",
+            "Say",
+            "15 provinces had already drawn up plans",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "farmland",
+            "SECTOR"
+        ]
+    ]
+}

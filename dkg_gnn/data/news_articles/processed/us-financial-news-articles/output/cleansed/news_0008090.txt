@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Has",
+            "Monday",
+            "GPE"
+        ],
+        [
+            "Salvadoran immigrants",
+            "PERSON",
+            "Stay_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Protections",
+            "CONCEPT",
+            "Relate_To",
+            "200,000 Salvadoran immigrants",
+            "PERSON"
+        ],
+        [
+            "Protections",
+            "CONCEPT",
+            "Meant_For",
+            "Temporary",
+            "CONCEPT"
+        ],
+        [
+            "Monday",
+            "GPE",
+            "Decide_On",
+            "Protections",
+            "CONCEPT"
+        ],
+        [
+            "200,000 Salvadoran immigrants",
+            "PERSON",
+            "Look_For",
+            "Ways",
+            "CONCEPT"
+        ],
+        [
+            "Ways",
+            "CONCEPT",
+            "Circumvent",
+            "Potential_End",
+            "CONCEPT"
+        ],
+        [
+            "Potential_End",
+            "CONCEPT",
+            "Relate_To",
+            "Protections",
+            "CONCEPT"
+        ],
+        [
+            "Plan",
+            "VERB",
+            "Remain",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Decide",
+            "Protections",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "NCCC",
+            "ORG",
+            "Operate_In",
+            "Davao City",
+            "GPE"
+        ],
+        [
+            "NCCC",
+            "ORG",
+            "Has",
+            "Call_Centre",
+            "ORG"
+        ],
+        [
+            "U.S._Firm",
+            "ORG",
+            "Operate_In",
+            "Davao City",
+            "GPE"
+        ],
+        [
+            "Call_Centre",
+            "ORG",
+            "Impact",
+            "SSI",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Idera Pharmaceuticals Inc.",
+            "COMP",
+            "Provide",
+            "2018 Update And Outlook",
+            "EVENT"
+        ],
+        [
+            "Idera Pharmaceuticals Inc.",
+            "COMP",
+            "Anticipates",
+            "Current Cash Position",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Current Cash Position",
+            "ECON_INDICATOR",
+            "Capable_Of",
+            "Funding Operations",
+            "EVENT"
+        ],
+        [
+            "Funding Operations",
+            "EVENT",
+            "Into",
+            "Q2 2019",
+            "TIME"
+        ],
+        [
+            "Idera Pharmaceuticals Inc.",
+            "COMP",
+            "Further_Company_Coverage",
+            "Source text for Eikon",
+            "ORG"
+        ]
+    ]
+}

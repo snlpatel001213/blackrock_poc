@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Say",
+            "recent updates",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Operate_In",
+            "iOS, macOS and tvOS",
+            "SECTOR"
+        ],
+        [
+            "iOS, macOS and tvOS",
+            "SECTOR",
+            "Include_Protections",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Operate_In",
+            "Apple Watch",
+            "SECTOR"
+        ],
+        [
+            "Apple Watch",
+            "SECTOR",
+            "No_Need_Fix",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Operate_In",
+            "Arm processors",
+            "SECTOR"
+        ],
+        [
+            "Arm processors",
+            "SECTOR",
+            "Affected_By",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Has",
+            "new support page",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Will_Issue",
+            "updates to Safari browser",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Close",
+            "Spectre vulnerability",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Recommend",
+            "download software",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Trusted_Sources",
+            "Apple App Store",
+            "ORG"
+        ],
+        [
+            "Google",
+            "PERSON",
+            "Protect",
+            "browsers",
+            "SECTOR"
+        ],
+        [
+            "Microsoft",
+            "PERSON",
+            "Protect",
+            "browsers",
+            "SECTOR"
+        ]
+    ]
+}

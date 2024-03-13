@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Fiat Chrysler Automobiles",
+            "COMP",
+            "Has",
+            "Jeep Grand Cherokee",
+            "PRODUCT"
+        ],
+        [
+            "Fiat Chrysler Automobiles",
+            "COMP",
+            "Has",
+            "Dodge Challenger SRT Hellcat",
+            "PRODUCT"
+        ],
+        [
+            "Jeep Grand Cherokee",
+            "PRODUCT",
+            "Relate_To",
+            "Midsize Premium SUV",
+            "CONCEPT"
+        ],
+        [
+            "Dodge Challenger SRT Hellcat",
+            "PRODUCT",
+            "Relate_To",
+            "Muscle Car",
+            "CONCEPT"
+        ],
+        [
+            "Dodge Challenger SRT Hellcat",
+            "PRODUCT",
+            "Produce",
+            "707 hp",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dodge Challenger SRT Hellcat",
+            "PRODUCT",
+            "Control",
+            "Supercharged 6.2-liter pushrod V8",
+            "PRODUCT"
+        ],
+        [
+            "Dodge Challenger SRT Hellcat",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Dinner Table",
+            "CONCEPT"
+        ]
+    ]
+}

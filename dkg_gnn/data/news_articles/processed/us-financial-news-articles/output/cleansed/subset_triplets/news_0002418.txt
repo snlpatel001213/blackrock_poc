@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "BP Plc",
+            "ORG",
+            "Announce",
+            "US Tax Changes",
+            "CONCEPT"
+        ],
+        [
+            "BP Plc",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "BP Plc",
+            "ORG",
+            "Impact",
+            "BP Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP Plc",
+            "ORG",
+            "Negative_Impact_On",
+            "One-Off Non-Cash Charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP Plc",
+            "ORG",
+            "Relate_To",
+            "Q4 2017 Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP Plc",
+            "ORG",
+            "Control",
+            "US Deferred Tax Assets and Liabilities",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

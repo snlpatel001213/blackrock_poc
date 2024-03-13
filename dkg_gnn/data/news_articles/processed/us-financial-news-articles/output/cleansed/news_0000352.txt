@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Announce",
+            "Purchase",
+            "PRODUCT"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Operate_In",
+            "Oak Brook, Ill.",
+            "GPE"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Newly_Constructed_In",
+            "2017",
+            "DATE"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Home_To",
+            "Edward Health Ventures",
+            "ORG"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Include",
+            "10 exam rooms",
+            "CONCEPT"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Include",
+            "1 procedure room",
+            "CONCEPT"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Include",
+            "1 endoscopy suite",
+            "CONCEPT"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Include",
+            "4 pre-/post-recovery rooms",
+            "CONCEPT"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Located_Near",
+            "Interstate 290 and 294",
+            "CONCEPT"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Across_Street_From",
+            "Mariano\u2019s",
+            "COMP"
+        ],
+        [
+            "Edward-Elmhurst Health Center",
+            "PRODUCT",
+            "Provide",
+            "Convenient access to medical care",
+            "CONCEPT"
+        ],
+        [
+            "Edward Health Ventures",
+            "ORG",
+            "Operate_As",
+            "Edward-Elmhurst Health",
+            "PRODUCT"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Facilitated",
+            "More than $45 billion of purchases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Facilitated",
+            "More than $269 million in medical office buildings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Assist",
+            "Identifying potential acquisition opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Assist",
+            "Negotiating acquisition-related contracts",
+            "CONCEPT"
+        ],
+        [
+            "Inland Real Estate Acquisitions, LLC",
+            "ORG",
+            "Acquire",
+            "Real estate assets",
+            "CONCEPT"
+        ]
+    ]
+}

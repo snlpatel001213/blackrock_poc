@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nutrien Ltd",
+            "ORG",
+            "Operate_In",
+            "Saskatchewan",
+            "GPE"
+        ],
+        [
+            "Nutrien Ltd",
+            "ORG",
+            "Introduce",
+            "head office",
+            "COMP"
+        ],
+        [
+            "Nutrien Ltd",
+            "ORG",
+            "Is_Member_Of",
+            "fertilizer company",
+            "SECTOR"
+        ],
+        [
+            "Nutrien Ltd",
+            "ORG",
+            "Has",
+            "leading executives",
+            "PERSON"
+        ]
+    ]
+}

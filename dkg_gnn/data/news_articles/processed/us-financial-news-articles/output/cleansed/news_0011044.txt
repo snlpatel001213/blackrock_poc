@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Negative_Impact_On",
+            "Mexico ETFs",
+            "COMP"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Negative_Impact_On",
+            "Canada ETFs",
+            "COMP"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Announce",
+            "Withdrawal",
+            "EVENT"
+        ],
+        [
+            "Withdrawal",
+            "EVENT",
+            "Relate_To",
+            "NAFTA",
+            "CONCEPT"
+        ]
+    ]
+}

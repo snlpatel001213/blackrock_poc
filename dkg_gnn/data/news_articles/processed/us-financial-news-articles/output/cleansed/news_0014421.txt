@@ -1,0 +1,97 @@
+{
+    "output": [
+        [
+            "Kering",
+            "ORG",
+            "Evaluate_Options",
+            "Puma",
+            "COMP"
+        ],
+        [
+            "Puma",
+            "COMP",
+            "Relate_To",
+            "Sports Goods Brand",
+            "CONCEPT"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Spin",
+            "Puma",
+            "COMP"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Control",
+            "85%",
+            "ECON_INDICATOR",
+            "Puma",
+            "COMP"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Own",
+            "Puma",
+            "COMP"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Is_Member_Of",
+            "French Pinault family",
+            "PERSON"
+        ],
+        [
+            "Puma",
+            "COMP",
+            "Operate_In",
+            "Sporting Goods Company",
+            "COMP"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Distribute",
+            "Puma Stake",
+            "COMP",
+            "Among",
+            "Kering\u2019s Shareholders",
+            "COMP"
+        ],
+        [
+            "Pinault family",
+            "PERSON",
+            "Control",
+            "Artemis",
+            "ORG"
+        ],
+        [
+            "Artemis",
+            "ORG",
+            "Investment_Vehicle",
+            "Pinault family",
+            "PERSON"
+        ],
+        [
+            "Kering",
+            "ORG",
+            "Not_Respond",
+            "Request",
+            "EVENT",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Puma",
+            "COMP",
+            "Not_Respond",
+            "Request",
+            "EVENT",
+            "Comment",
+            "CONCEPT"
+        ]
+    ]
+}

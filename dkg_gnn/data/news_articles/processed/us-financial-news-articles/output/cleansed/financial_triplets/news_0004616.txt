@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Any disruption",
+            "CONCEPT",
+            "Impact",
+            "Oil Supplies",
+            "ORG"
+        ],
+        [
+            "Oil Supplies",
+            "ORG",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Oil Exports",
+            "ORG"
+        ],
+        [
+            "Oil Exports",
+            "ORG",
+            "Control",
+            "Prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

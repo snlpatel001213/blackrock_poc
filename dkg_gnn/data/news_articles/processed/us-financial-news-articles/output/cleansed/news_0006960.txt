@@ -1,0 +1,260 @@
+{
+    "output": [
+        [
+            "Merritt Properties",
+            "ORG",
+            "Announce",
+            "Agreement",
+            "ORG"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Has",
+            "Investment Fund",
+            "ORG/REG"
+        ],
+        [
+            "Investment Fund",
+            "ORG/REG",
+            "Managed_By",
+            "Almanac",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Commit",
+            "Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Grow",
+            "Portfolio",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Acquire",
+            "Develop",
+            "VERB"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Redevelop",
+            "Industrial Properties",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Operate_In",
+            "Baltimore-Washington Corridor",
+            "GPE"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Partner",
+            "Merritt Properties",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Known",
+            "1997",
+            "DATE"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Partner",
+            "Merritt Companies",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Same_Individuals",
+            "Company",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Founded",
+            "1981",
+            "DATE"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Originally_Under",
+            "Rothschild Realty",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Committed",
+            "$4.8 Billion",
+            "MONEY"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Committed",
+            "39 Companies",
+            "ORG"
+        ],
+        [
+            "Almanac",
+            "ORG",
+            "Pursue",
+            "Real Estate Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Own",
+            "Manage",
+            "VERB"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Nearly 16 Million Square Feet",
+            "CBD",
+            "GPE"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Class A Office",
+            "Flex",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Warehouse",
+            "Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Distribution Facilities",
+            "Data Centers",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Mixed Use Developments",
+            "Retail Locations",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "94% Occupied",
+            "PORTION"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Approximately 1200 Customers",
+            "CUSTOMER"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Local Owner Occupied Spaces",
+            "National International Fortune 500 Companies",
+            "SECTOR"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Expand",
+            "Relate_To",
+            "Almanac"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Talented Employees",
+            "Years",
+            "TIME"
+        ],
+        [
+            "Merritt Properties",
+            "ORG",
+            "Part_Of",
+            "Merritt Companies",
+            "ORG"
+        ],
+        [
+            "Merritt Companies",
+            "ORG",
+            "Include",
+            "Merritt Construction Services",
+            "ORG"
+        ],
+        [
+            "Merritt Companies",
+            "ORG",
+            "Include",
+            "Merritt Clubs",
+            "ORG"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "Leading Provider",
+            "Growth Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "Raise",
+            "$5.0 Billion",
+            "MONEY"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "Primary Investment Activity",
+            "Private Placements",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "Managed Funds",
+            "Commit",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "Commit",
+            "39 Companies",
+            "ORG"
+        ],
+        [
+            "Almanac Realty Investors",
+            "ORG",
+            "North America",
+            "GPE"
+        ]
+    ]
+}

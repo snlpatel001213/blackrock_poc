@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Simon Jessop",
+            "PERSON",
+            "Write",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Has",
+            "FTSE 100",
+            "ORG"
+        ],
+        [
+            "FTSE 100",
+            "ORG",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Earn",
+            "Salary",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Typical worker",
+            "PERSON",
+            "Earn",
+            "Median worker salary",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chartered Institute of Personnel and Development",
+            "ORG",
+            "Publish",
+            "Report",
+            "PRODUCT"
+        ],
+        [
+            "High Pay Centre",
+            "ORG",
+            "Pressure",
+            "Group",
+            "ORG"
+        ],
+        [
+            "FTSE 100 CEO",
+            "PERSON",
+            "Pay",
+            "Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Pressure",
+            "Investors",
+            "ORG"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Pressure",
+            "Rein in",
+            "Relate_To"
+        ],
+        [
+            "Wider society",
+            "ORG",
+            "Pressure",
+            "Rein in",
+            "Relate_To"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Pay",
+            "Ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Pay",
+            "Average full-time worker",
+            "PERSON"
+        ],
+        [
+            "120:1",
+            "RATIO",
+            "Is",
+            "Ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Martin Sorrell",
+            "PERSON",
+            "Best-paid",
+            "48.2 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CIPD Chief Executive",
+            "PERSON",
+            "Say",
+            "Pay cut",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CIPD Chief Executive",
+            "PERSON",
+            "Say",
+            "Growing public and shareholder concerns",
+            "CONCEPT"
+        ],
+        [
+            "CIPD Chief Executive",
+            "PERSON",
+            "Say",
+            "Prime Minister\u2019s stronger focus on boardroom excess",
+            "CONCEPT"
+        ],
+        [
+            "CIPD Chief Executive",
+            "PERSON",
+            "Say",
+            "Plans to reform corporate governance",
+            "CONCEPT"
+        ],
+        [
+            "UK Corporate Governance Code",
+            "ORG",
+            "Review",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Britain\u2019s leading companies",
+            "ORG",
+            "Force",
+            "Disclose",
+            "Relate_To"
+        ],
+        [
+            "Pay ratio",
+            "ECON_INDICATOR",
+            "Force",
+            "Boards",
+            "ORG"
+        ],
+        [
+            "Boards",
+            "ORG",
+            "Acknowledge",
+            "Gaps",
+            "CONCEPT"
+        ],
+        [
+            "High Pay Centre\u2019s Stefan Stern",
+            "PERSON",
+            "Look forward",
+            "Work with business and government",
+            "ORG"
+        ],
+        [
+            "Luke Hildyard",
+            "PERSON",
+            "Say",
+            "Just 7 percent of FTSE 100 annual reports",
+            "PRODUCT"
+        ],
+        [
+            "FTSE 100 annual reports",
+            "PRODUCT",
+            "Detail",
+            "Difference",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CEO\u2019s pay",
+            "ECON_INDICATOR",
+            "Difference",
+            "Wider workforce",
+            "PERSON"
+        ],
+        [
+            "Huge pay differences",
+            "ECON_INDICATOR",
+            "Symbolise",
+            "Companies",
+            "ORG"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Fail",
+            "Understand or appreciate the value of their workers",
+            "CONCEPT"
+        ]
+    ]
+}

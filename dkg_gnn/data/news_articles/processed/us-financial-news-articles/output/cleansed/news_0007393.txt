@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Perrigo Company Plc",
+            "COMP",
+            "Hire",
+            "Uwe Rohrhoff",
+            "PERSON"
+        ],
+        [
+            "Uwe Rohrhoff",
+            "PERSON",
+            "Be",
+            "CEO",
+            "ORG/REG"
+        ],
+        [
+            "Uwe Rohrhoff",
+            "PERSON",
+            "Be",
+            "President",
+            "ORG/REG"
+        ],
+        [
+            "Perrigo Company Plc",
+            "COMP",
+            "Has",
+            "John Hendrickson",
+            "PERSON"
+        ],
+        [
+            "John Hendrickson",
+            "PERSON",
+            "Resign",
+            "CEO",
+            "ORG/REG"
+        ],
+        [
+            "John Hendrickson",
+            "PERSON",
+            "Resign",
+            "Board Member",
+            "ORG/REG"
+        ]
+    ]
+}

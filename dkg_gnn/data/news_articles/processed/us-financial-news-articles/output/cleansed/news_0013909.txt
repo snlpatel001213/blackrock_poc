@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Zhivko Girginov",
+            "PERSON",
+            "Operate_In",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Zhivko Girginov",
+            "PERSON",
+            "Introduce",
+            "Volunteer Bike Patrol",
+            "CONCEPT"
+        ],
+        [
+            "Volunteer Bike Patrol",
+            "CONCEPT",
+            "Collect",
+            "Damaged bikes",
+            "PRODUCT"
+        ],
+        [
+            "Volunteer Bike Patrol",
+            "CONCEPT",
+            "Return",
+            "Bikes",
+            "PRODUCT"
+        ],
+        [
+            "Volunteer Bike Patrol",
+            "CONCEPT",
+            "Relate_To",
+            "Respective companies",
+            "ORG"
+        ],
+        [
+            "Zhivko Girginov",
+            "PERSON",
+            "Fund",
+            "Volunteer Bike Patrol",
+            "CONCEPT"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Have",
+            "Three main shared-bicycle operators",
+            "ORG"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Discourage",
+            "Indiscriminate bicycle parking",
+            "CONCEPT"
+        ],
+        [
+            "Land Transport Authority",
+            "ORG/GOV",
+            "Mark out",
+            "Additional yellow bike parking areas",
+            "PRODUCT"
+        ],
+        [
+            "Zhivko Girginov",
+            "PERSON",
+            "Embark on",
+            "Similar projects",
+            "CONCEPT"
+        ]
+    ]
+}

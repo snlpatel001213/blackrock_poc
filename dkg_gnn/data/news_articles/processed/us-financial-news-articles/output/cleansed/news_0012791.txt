@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Desert Golfing",
+            "PRODUCT",
+            "Operate_On",
+            "iPhone X",
+            "COMP"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Play",
+            "Desert Golfing",
+            "PRODUCT"
+        ],
+        [
+            "Friend",
+            "PERSON",
+            "Recommend",
+            "Desert Golfing",
+            "PRODUCT"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Can't_Remember",
+            "Friend",
+            "PERSON"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Need_To",
+            "Punch",
+            "Friend",
+            "PERSON"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Played",
+            "More_than_1500_holes",
+            "CONCEPT",
+            "On",
+            "Desert Golfing",
+            "PRODUCT"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Have",
+            "Omega Speedmaster Pro",
+            "COMP"
+        ],
+        [
+            "Omega Speedmaster Pro",
+            "COMP",
+            "Worn_Through",
+            "Production",
+            "EVENT"
+        ],
+        [
+            "Omega Speedmaster Pro",
+            "COMP",
+            "Got",
+            "Pre-shoot_present",
+            "CONCEPT",
+            "To_myself",
+            "PERSON"
+        ],
+        [
+            "Omega Speedmaster Pro",
+            "COMP",
+            "Has",
+            "Chronograph",
+            "PRODUCT"
+        ]
+    ]
+}

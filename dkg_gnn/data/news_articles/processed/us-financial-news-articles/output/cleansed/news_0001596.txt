@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Volkswagen AG",
+            "COMP",
+            "Participates_In",
+            "Driverless Cars",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor Co.",
+            "COMP",
+            "Participates_In",
+            "Driverless Cars",
+            "CONCEPT"
+        ],
+        [
+            "Aurora Innovation Inc.",
+            "ORG",
+            "Founded",
+            "Year Ago",
+            "TIME"
+        ],
+        [
+            "Aurora Innovation Inc.",
+            "ORG",
+            "Participates_In",
+            "Driverless Cars",
+            "CONCEPT"
+        ],
+        [
+            "Aurora Innovation Inc.",
+            "ORG",
+            "Announce",
+            "Partnerships",
+            "RELATION"
+        ],
+        [
+            "Volkswagen AG",
+            "COMP",
+            "Relate_To",
+            "Aurora Innovation Inc.",
+            "ORG"
+        ],
+        [
+            "Hyundai Motor Co.",
+            "COMP",
+            "Relate_To",
+            "Aurora Innovation Inc.",
+            "ORG"
+        ],
+        [
+            "Waymo",
+            "ORG",
+            "Competes_With",
+            "Aurora Innovation Inc.",
+            "ORG"
+        ],
+        [
+            "Waymo",
+            "ORG",
+            "Is_Member_Of",
+            "Alphabet Inc.",
+            "ORG/GOV"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Relate_To",
+            "Autonomous Vehicles",
+            "CONCEPT"
+        ],
+        [
+            "Lyft",
+            "COMP",
+            "Relate_To",
+            "Autonomous Vehicles",
+            "CONCEPT"
+        ]
+    ]
+}

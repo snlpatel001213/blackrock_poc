@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Egyptian court",
+            "ORG/GOV",
+            "Quash",
+            "Conviction",
+            "ORG"
+        ],
+        [
+            "Egyptian court",
+            "ORG/GOV",
+            "Order",
+            "Retrial",
+            "ORG"
+        ],
+        [
+            "Habib al-Adly",
+            "PERSON",
+            "Convict",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Habib al-Adly",
+            "PERSON",
+            "Sentence",
+            "Prison",
+            "COMP"
+        ],
+        [
+            "Habib al-Adly",
+            "PERSON",
+            "Serve",
+            "Hosni Mubarak",
+            "PERSON"
+        ],
+        [
+            "Hosni Mubarak",
+            "PERSON",
+            "Fall",
+            "Popular Uprising",
+            "CONCEPT"
+        ],
+        [
+            "Criminal court",
+            "ORG/GOV",
+            "Sentence",
+            "Adly",
+            "PERSON"
+        ],
+        [
+            "Criminal court",
+            "ORG/GOV",
+            "Convict",
+            "Adly",
+            "PERSON"
+        ],
+        [
+            "Criminal court",
+            "ORG/GOV",
+            "Abuse",
+            "Public Funds",
+            "CONCEPT"
+        ],
+        [
+            "Court of Cassation",
+            "ORG/GOV",
+            "Throw",
+            "Conviction",
+            "ORG"
+        ],
+        [
+            "Court of Cassation",
+            "ORG/GOV",
+            "Order",
+            "Retrial",
+            "ORG"
+        ],
+        [
+            "Retrial",
+            "ORG",
+            "Hold",
+            "Different Criminal Court",
+            "ORG"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Lawyer",
+            "Farid el-Deeb",
+            "PERSON"
+        ],
+        [
+            "Farid el-Deeb",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "COMP"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Free",
+            "Without",
+            "DET"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Two",
+            "Ministry Officials",
+            "PERSON"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Order",
+            "Refund",
+            "CONCEPT"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Fine",
+            "1.95 Billion Egyptian Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Long-Serving",
+            "Egypt Internal Security Apparatus",
+            "COMP"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Acquit",
+            "Graft Charges",
+            "CONCEPT"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Clear",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Adly",
+            "PERSON",
+            "Mubarak",
+            "Six Aides",
+            "PERSON"
+        ],
+        [
+            "Mubarak",
+            "PERSON",
+            "Charges",
+            "Relate_To",
+            "Killings",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Killings",
+            "During",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Killings",
+            "Relate_To",
+            "2011 Arab Spring",
+            "EVENT"
+        ],
+        [
+            "Reporting",
+            "VERB",
+            "Haitham Ahmed",
+            "Mahmoud Mourad",
+            "PERSON"
+        ],
+        [
+            "Writing",
+            "VERB",
+            "Arwa Gaballa",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "VERB",
+            "Mark Heinrich",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Phibro Animal Health Corporation",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "ORG"
+        ],
+        [
+            "Phibro Animal Health Corporation",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Phibro Animal Health Corporation",
+            "COMP",
+            "Has",
+            "Filings",
+            "PRODUCT"
+        ],
+        [
+            "Phibro Animal Health Corporation",
+            "COMP",
+            "Has",
+            "Chief Financial Officer",
+            "PERSON"
+        ],
+        [
+            "Company",
+            "CONCEPT",
+            "Has",
+            "Securities and Exchange Commission",
+            "ORG"
+        ],
+        [
+            "Company",
+            "CONCEPT",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "CONCEPT",
+            "Has",
+            "Chief Financial Officer",
+            "PERSON"
+        ]
+    ]
+}

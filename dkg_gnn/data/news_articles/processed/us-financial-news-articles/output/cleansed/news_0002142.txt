@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "France",
+            "GPE",
+            "Prepare",
+            "Review laws relating to assisted reproduction",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Ban",
+            "All forms of surrogacy",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Several other European countries",
+            "GPE",
+            "Ban",
+            "All forms of surrogacy",
+            "EVENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Ban",
+            "All forms of surrogacy",
+            "EVENT"
+        ],
+        [
+            "United Kingdom",
+            "GPE",
+            "Allow",
+            "Altruistic surrogacies",
+            "EVENT"
+        ],
+        [
+            "French government",
+            "ORG/GOV",
+            "Launch",
+            "Debate on a new bioethics legislative pact",
+            "EVENT"
+        ],
+        [
+            "French government",
+            "ORG/GOV",
+            "Extend",
+            "Medically assisted reproduction to female gay couples and single women",
+            "EVENT"
+        ],
+        [
+            "President Emmanuel Macron",
+            "PERSON",
+            "Favour",
+            "Extending medically assisted reproduction to female gay couples and single women",
+            "EVENT"
+        ],
+        [
+            "President Emmanuel Macron",
+            "PERSON",
+            "Oppose",
+            "Introducing surrogate motherhood",
+            "EVENT"
+        ],
+        [
+            "Public opinion",
+            "CONCEPT",
+            "Shift",
+            "In favour of surrogacy",
+            "EVENT"
+        ],
+        [
+            "Public opinion",
+            "CONCEPT",
+            "Be",
+            "Against surrogacy under any form",
+            "EVENT"
+        ],
+        [
+            "Public opinion",
+            "CONCEPT",
+            "Be",
+            "In favour of surrogacy",
+            "EVENT"
+        ],
+        [
+            "Public opinion",
+            "CONCEPT",
+            "Be",
+            "In favour of surrogacy only if there are medical reasons",
+            "EVENT"
+        ],
+        [
+            "Ifop",
+            "ORG",
+            "Publish",
+            "Poll in La Croix",
+            "EVENT"
+        ],
+        [
+            "La Croix",
+            "ORG",
+            "Publish",
+            "Poll",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Legalise",
+            "Same-sex marriage",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Make it easier",
+            "Children born through surrogacy abroad to be recognised as citizens and adopted by the partner of the child\u2019s biological father",
+            "EVENT"
+        ],
+        [
+            "France\u2019s highest court",
+            "ORG/GOV",
+            "Make it easier",
+            "Children born through surrogacy abroad to be recognised as citizens and adopted by the partner of the child\u2019s biological father",
+            "EVENT"
+        ]
+    ]
+}

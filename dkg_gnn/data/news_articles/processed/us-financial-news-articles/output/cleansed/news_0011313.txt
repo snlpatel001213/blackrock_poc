@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Anne Truitt",
+            "PERSON",
+            "Produce",
+            "nine sculptures, two paintings and 12 works on paper",
+            "PRODUCT"
+        ],
+        [
+            "Anne Truitt",
+            "PERSON",
+            "Relate_To",
+            "Tower 3",
+            "GPE"
+        ],
+        [
+            "Tower 3",
+            "GPE",
+            "Operate_In",
+            "National Gallery of Art",
+            "ORG"
+        ],
+        [
+            "National Gallery of Art",
+            "ORG",
+            "Has",
+            "luminous exhibition",
+            "EVENT"
+        ]
+    ]
+}

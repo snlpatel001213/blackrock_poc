@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "Facebook Executives",
+            "PERSON"
+        ],
+        [
+            "Facebook Executives",
+            "PERSON",
+            "Sold",
+            "Company Shares",
+            "PRODUCT"
+        ],
+        [
+            "Company Shares",
+            "PRODUCT",
+            "Value",
+            "$4 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "More_Than",
+            "Counterparts at Other Giant Technology Firms",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Stock_Price",
+            "52 Percent Surge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CEO Mark Zuckerberg",
+            "PERSON",
+            "Sold",
+            "Company Shares",
+            "PRODUCT"
+        ],
+        [
+            "Company Shares",
+            "PRODUCT",
+            "Netted",
+            "$942.5 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CEO Mark Zuckerberg",
+            "PERSON",
+            "Fund",
+            "Philanthropy",
+            "ORG"
+        ],
+        [
+            "Philanthropy",
+            "ORG",
+            "Name",
+            "Chan Zuckerberg Initiative",
+            "ORG"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "COO",
+            "Sheryl Sandberg",
+            "PERSON"
+        ],
+        [
+            "Sheryl Sandberg",
+            "PERSON",
+            "Sold",
+            "Company Shares",
+            "PRODUCT"
+        ],
+        [
+            "Company Shares",
+            "PRODUCT",
+            "Value",
+            "$316 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jan Koum",
+            "PERSON",
+            "Co-founder",
+            "WhatsApp",
+            "COMP"
+        ],
+        [
+            "WhatsApp",
+            "COMP",
+            "Facebook Board Member",
+            "Jan Koum",
+            "PERSON"
+        ],
+        [
+            "Jan Koum",
+            "PERSON",
+            "Sold",
+            "Company Shares",
+            "PRODUCT"
+        ],
+        [
+            "Company Shares",
+            "PRODUCT",
+            "Value",
+            "$2.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jan Koum",
+            "PERSON",
+            "Most_Of",
+            "Top Executives at Five Most Valuable U.S. Tech Firms",
+            "PERSON"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "CEO",
+            "Jeff Bezos",
+            "PERSON"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Sold",
+            "Amazon Stock",
+            "PRODUCT"
+        ],
+        [
+            "Amazon Stock",
+            "PRODUCT",
+            "Value",
+            "$2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Fund",
+            "Space Exploration Project",
+            "ORG"
+        ],
+        [
+            "Space Exploration Project",
+            "ORG",
+            "Name",
+            "Blue Origin",
+            "ORG"
+        ],
+        [
+            "Google",
+            "COMP",
+            "CEO",
+            "Sundar Pichai",
+            "PERSON"
+        ],
+        [
+            "Sundar Pichai",
+            "PERSON",
+            "Cashed_In",
+            "Alphabet Shares",
+            "PRODUCT"
+        ],
+        [
+            "Alphabet Shares",
+            "PRODUCT",
+            "Value",
+            "$84.3 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "CEO",
+            "Tim Cook",
+            "PERSON"
+        ],
+        [
+            "Tim Cook",
+            "PERSON",
+            "Sold",
+            "Apple Stock",
+            "PRODUCT"
+        ],
+        [
+            "Apple Stock",
+            "PRODUCT",
+            "Value",
+            "$60 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "CEO",
+            "Satya Nadella",
+            "PERSON"
+        ],
+        [
+            "Satya Nadella",
+            "PERSON",
+            "Sold",
+            "No Shares",
+            "PRODUCT"
+        ],
+        [
+            "Alphabet",
+            "COMP",
+            "CEO",
+            "Larry Page",
+            "PERSON"
+        ],
+        [
+            "Larry Page",
+            "PERSON",
+            "Sold",
+            "No Shares",
+            "PRODUCT"
+        ]
+    ]
+}

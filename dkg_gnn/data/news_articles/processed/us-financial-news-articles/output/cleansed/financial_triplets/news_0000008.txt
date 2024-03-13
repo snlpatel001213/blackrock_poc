@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Wolters Kluwer",
+            "ORG",
+            "Operate_In",
+            "Information Services Sector",
+            "SECTOR"
+        ],
+        [
+            "Shares",
+            "PRODUCT",
+            "Relate_To",
+            "Share Buyback Program 2016-2018",
+            "EVENT"
+        ],
+        [
+            "Wolters Kluwer",
+            "ORG",
+            "Announce",
+            "Share Buyback Program 2016-2018",
+            "EVENT"
+        ],
+        [
+            "Share Buyback Program 2016-2018",
+            "EVENT",
+            "Control",
+            "Repurchases",
+            "PRODUCT"
+        ],
+        [
+            "Repurchases",
+            "PRODUCT",
+            "Impact",
+            "Capital Reduction",
+            "CONCEPT"
+        ]
+    ]
+}

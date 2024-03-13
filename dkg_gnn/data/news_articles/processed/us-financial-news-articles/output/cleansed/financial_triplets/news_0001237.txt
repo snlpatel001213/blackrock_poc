@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Recro Pharma, Inc.",
+            "COMP",
+            "Announce",
+            "Several Key Promotions",
+            "ORG"
+        ],
+        [
+            "Michael Celano",
+            "PERSON",
+            "Operate_In",
+            "CDMO Division",
+            "ORG"
+        ],
+        [
+            "Recro Pharma, Inc.",
+            "COMP",
+            "Operate_In",
+            "Acute Care, Hospital Product Division",
+            "ORG"
+        ],
+        [
+            "Recro Pharma, Inc.",
+            "COMP",
+            "Operate_In",
+            "CDMO Division",
+            "ORG"
+        ],
+        [
+            "Injectable Meloxicam",
+            "PRODUCT",
+            "Relate_To",
+            "Pain Management",
+            "CONCEPT"
+        ]
+    ]
+}

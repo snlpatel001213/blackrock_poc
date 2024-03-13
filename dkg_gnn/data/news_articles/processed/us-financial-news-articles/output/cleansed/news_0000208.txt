@@ -1,0 +1,159 @@
+{
+    "output": [
+        [
+            "Egypt",
+            "GPE",
+            "Hang",
+            "four men",
+            "PERSON"
+        ],
+        [
+            "Military court",
+            "ORG",
+            "Convict",
+            "four men",
+            "PERSON"
+        ],
+        [
+            "four men",
+            "PERSON",
+            "Kill",
+            "three military students",
+            "PERSON"
+        ],
+        [
+            "Bombing",
+            "EVENT",
+            "Take place",
+            "in 2015",
+            "DATE"
+        ],
+        [
+            "Security sources",
+            "ORG",
+            "Say",
+            "on Tuesday",
+            "DATE"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Hang",
+            "15 men",
+            "PERSON"
+        ],
+        [
+            "Deadly attacks",
+            "EVENT",
+            "Take place",
+            "in Sinai peninsula",
+            "GPE"
+        ],
+        [
+            "President Abdel Fateh al-Sisi",
+            "PERSON",
+            "Take power",
+            "..",
+            "O"
+        ],
+        [
+            "Borg al-Arab prison",
+            "ORG",
+            "Locate",
+            "west of Alexandria",
+            "GPE"
+        ],
+        [
+            "Military appeals court",
+            "ORG",
+            "Reject",
+            "appeals by the defendants",
+            "PERSON"
+        ],
+        [
+            "Bombing",
+            "EVENT",
+            "Take place",
+            "in Kafr al-Sheikh",
+            "GPE"
+        ],
+        [
+            "Violence",
+            "EVENT",
+            "Follow",
+            "the ouster of President Mohamed Mursi",
+            "PERSON"
+        ],
+        [
+            "President Mohamed Mursi",
+            "PERSON",
+            "Ousted",
+            "by Sisi",
+            "PERSON"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Remove",
+            "Mursi",
+            "PERSON"
+        ],
+        [
+            "Mass protests",
+            "EVENT",
+            "Take place",
+            "against Mursi\u2019s rule",
+            "PERSON"
+        ],
+        [
+            "Court",
+            "ORG",
+            "Sentence",
+            "three others",
+            "PERSON",
+            "to death"
+        ],
+        [
+            "Salah al-Feki",
+            "PERSON",
+            "Head",
+            "of the Muslim Brotherhood\u2019s administrative office",
+            "ORG",
+            "in Kafr al-Sheikh",
+            "GPE"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Ban",
+            "the Brotherhood",
+            "ORG"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Declare",
+            "Brotherhood",
+            "ORG",
+            "a terrorist organisation"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Arrest",
+            "thousands of its members and supporters",
+            "PERSON"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Face",
+            "a growing insurgency",
+            "EVENT",
+            "from Islamic State fighters",
+            "ORG",
+            "in Sinai Peninsula",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Eiger BioPharmaceuticals, Inc.",
+            "COMP",
+            "Announce",
+            "Appointment of David Apelian",
+            "PERSON"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Participates_In",
+            "Eiger BioPharmaceuticals, Inc.",
+            "COMP"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Control",
+            "Clinical Development and Regulatory Experience",
+            "CONCEPT"
+        ],
+        [
+            "Eiger BioPharmaceuticals, Inc.",
+            "COMP",
+            "Operate_In",
+            "Rare Diseases Sector",
+            "SECTOR"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Raise",
+            "Great Value",
+            "CONCEPT"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Was",
+            "Executive VP and Chief Medical Officer of Achillion Pharmaceuticals, Inc.",
+            "COMP"
+        ],
+        [
+            "Achillion Pharmaceuticals, Inc.",
+            "COMP",
+            "Secure",
+            "$225 Million Equity Investment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Lead",
+            "Rare Disease Development Program",
+            "CONCEPT"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Completed",
+            "Residency Training in Pediatrics",
+            "CONCEPT"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Received",
+            "MD from University of Medicine and Dentistry of New Jersey",
+            "ORG"
+        ],
+        [
+            "David Apelian",
+            "PERSON",
+            "Earned",
+            "BA in Biochemistry from Rutgers University",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Nick Mulvenney",
+            "PERSON",
+            "Write_About",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Nick Mulvenney",
+            "PERSON",
+            "Write_About",
+            "England",
+            "GPE"
+        ],
+        [
+            "Nick Mulvenney",
+            "PERSON",
+            "Write_About",
+            "Ashes test",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Operate_In",
+            "Cricket",
+            "SECTOR"
+        ],
+        [
+            "England",
+            "GPE",
+            "Operate_In",
+            "Cricket",
+            "SECTOR"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Bowl",
+            "Ball",
+            "CONCEPT"
+        ],
+        [
+            "Josh Hazlewood",
+            "PERSON",
+            "Bowl",
+            "Ball",
+            "CONCEPT"
+        ],
+        [
+            "Mark Stoneman",
+            "PERSON",
+            "Bat",
+            "Ball",
+            "CONCEPT"
+        ],
+        [
+            "James Vince",
+            "PERSON",
+            "Bat",
+            "Ball",
+            "CONCEPT"
+        ],
+        [
+            "Tim Paine",
+            "PERSON",
+            "Catch",
+            "Ball",
+            "CONCEPT"
+        ],
+        [
+            "Mason Crane",
+            "PERSON",
+            "Play_As",
+            "Leg Spinner",
+            "ROLE"
+        ],
+        [
+            "Mason Crane",
+            "PERSON",
+            "Play_In",
+            "Test",
+            "SECTOR"
+        ],
+        [
+            "Mitchell Starc",
+            "PERSON",
+            "Play_As",
+            "Left-Arm Pace Spearhead",
+            "ROLE"
+        ],
+        [
+            "Mitchell Starc",
+            "PERSON",
+            "Play_In",
+            "Test",
+            "SECTOR"
+        ]
+    ]
+}

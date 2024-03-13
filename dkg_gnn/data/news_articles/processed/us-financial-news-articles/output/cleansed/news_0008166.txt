@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Denounce",
+            "Price Hike Forecasts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Denounce",
+            "Increases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Relate_To",
+            "Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Mexicans",
+            "PERSON",
+            "Unnerve",
+            "Rising Gas Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mexicans",
+            "PERSON",
+            "Unnerve",
+            "Tortilla Prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

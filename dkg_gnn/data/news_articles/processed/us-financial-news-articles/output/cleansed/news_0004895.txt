@@ -1,0 +1,70 @@
+{
+    "output": [
+        [
+            "Antonio Conte",
+            "PERSON",
+            "Says",
+            "Chelsea",
+            "ORG"
+        ],
+        [
+            "Chelsea",
+            "ORG",
+            "Consider",
+            "Ross Barkley",
+            "PERSON"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Be_A_Good_Prospect_For",
+            "Chelsea",
+            "ORG"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Undergo",
+            "Medical",
+            "PRODUCT"
+        ],
+        [
+            "Everton",
+            "ORG",
+            "Own",
+            "Ross Barkley",
+            "PERSON"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Turn_Down",
+            "Move",
+            "PRODUCT"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Recover",
+            "From",
+            "Hamstring_Injury",
+            "CONCEPT"
+        ],
+        [
+            "Farhad Moshiri",
+            "PERSON",
+            "Chairman",
+            "Of",
+            "Everton",
+            "ORG"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Has_Not_Played",
+            "For",
+            "Seven_Months",
+            "TIME"
+        ]
+    ]
+}

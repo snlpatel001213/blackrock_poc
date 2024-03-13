@@ -1,0 +1,132 @@
+{
+    "output": [
+        [
+            "Tripp Levy PLLC",
+            "ORG",
+            "Investigate",
+            "Blackhawk Network Holdings Inc.",
+            "COMP"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Control",
+            "Silver Lake",
+            "ORG/REG"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Control",
+            "P2 Capital Partners",
+            "ORG/REG"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Silver Lake",
+            "ORG/REG",
+            "Impact",
+            "Blackhawk Network Holdings Inc.",
+            "COMP"
+        ],
+        [
+            "P2 Capital Partners",
+            "ORG/REG",
+            "Impact",
+            "Blackhawk Network Holdings Inc.",
+            "COMP"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Has",
+            "Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Stock",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Has",
+            "Target Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Blackhawk Network Holdings Inc.",
+            "COMP",
+            "Senior Management",
+            "PERSON"
+        ],
+        [
+            "Senior Management",
+            "PERSON",
+            "Participates_In",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "P2 Capital Partners",
+            "ORG/REG",
+            "Beneficially Owns",
+            "Approximately 5.4%",
+            "ECON_INDICATOR",
+            "Of",
+            "Blackhawk Network Holdings Inc.",
+            "COMP"
+        ],
+        [
+            "Tripp Levy PLLC",
+            "ORG",
+            "Contact",
+            "Shareholder",
+            "PERSON"
+        ],
+        [
+            "Tripp Levy PLLC",
+            "ORG",
+            "Represent",
+            "Shareholder",
+            "PERSON"
+        ],
+        [
+            "Tripp Levy PLLC",
+            "ORG",
+            "Assisted",
+            "Recovery",
+            "EVENT",
+            "Of",
+            "Billions",
+            "ECON_INDICATOR",
+            "For",
+            "Shareholder",
+            "PERSON",
+            "In",
+            "Securities",
+            "CONCEPT",
+            "Actions",
+            "EVENT",
+            "Around",
+            "Globe",
+            "GPE"
+        ]
+    ]
+}

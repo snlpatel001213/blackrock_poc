@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Essence Ventures Llc",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "ORG"
+        ],
+        [
+            "Essence Ventures Llc",
+            "ORG",
+            "Control",
+            "Essence Communications",
+            "ORG"
+        ],
+        [
+            "Essence Communications",
+            "ORG",
+            "Operate_In",
+            "Time Inc",
+            "ORG"
+        ],
+        [
+            "Essence Ventures Llc",
+            "ORG",
+            "Is_Member_Of",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Michelle Ebanks",
+            "PERSON",
+            "Participates_In",
+            "Essence Communications",
+            "ORG"
+        ],
+        [
+            "Michelle Ebanks",
+            "PERSON",
+            "Relate_To",
+            "Company Board of Directors",
+            "ORG/GOV"
+        ]
+    ]
+}

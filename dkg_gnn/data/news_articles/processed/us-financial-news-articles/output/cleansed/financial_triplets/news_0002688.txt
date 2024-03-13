@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Challenger, Gray & Christmas",
+            "ORG",
+            "Announce",
+            "32,423 jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Challenger, Gray & Christmas",
+            "ORG",
+            "Announce",
+            "low not seen since 1990",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Challenger, Gray & Christmas",
+            "ORG",
+            "Announce",
+            "yearly total",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. employers",
+            "ORG/GOV",
+            "Announce",
+            "job cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. employers",
+            "ORG/GOV",
+            "Participates_In",
+            "tight labor market",
+            "CONCEPT"
+        ],
+        [
+            "U.S. employers",
+            "ORG/GOV",
+            "Relate_To",
+            "uncertainty surrounding health care and tax legislation",
+            "CONCEPT"
+        ],
+        [
+            "U.S. employers",
+            "ORG/GOV",
+            "Decrease",
+            "long-term staffing decisions",
+            "CONCEPT"
+        ],
+        [
+            "Retail employers",
+            "ORG",
+            "Announce",
+            "76,084 job cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail employers",
+            "ORG",
+            "Announce",
+            "28% increase from 2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail",
+            "SECTOR",
+            "Has",
+            "unprecedented cuts in retail jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health-care employers",
+            "ORG",
+            "Announce",
+            "40,732 cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health-care employers",
+            "ORG",
+            "Announce",
+            "118% increase over 2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services",
+            "SECTOR",
+            "Announce",
+            "36,174 job cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Services",
+            "SECTOR",
+            "Announce",
+            "almost quadrupled to",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pharmaceutical",
+            "SECTOR",
+            "Announce",
+            "more job cuts than last year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Health Care",
+            "SECTOR",
+            "Announce",
+            "more job cuts than last year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Construction",
+            "SECTOR",
+            "Announce",
+            "more job cuts than last year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Food industries",
+            "SECTOR",
+            "Announce",
+            "more job cuts than last year",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

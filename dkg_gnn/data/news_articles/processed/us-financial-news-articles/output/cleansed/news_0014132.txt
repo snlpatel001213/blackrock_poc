@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "CoinList",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Is_Member_Of",
+            "CoinList",
+            "COMP"
+        ],
+        [
+            "CoinList",
+            "COMP",
+            "Has",
+            "Stanford Bitcoin Group",
+            "ORG"
+        ],
+        [
+            "Stanford Bitcoin Group",
+            "ORG",
+            "Relate_To",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Discuss",
+            "Bull Case",
+            "CONCEPT"
+        ],
+        [
+            "Bull Case",
+            "CONCEPT",
+            "Relate_To",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrency",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Warren Buffett",
+            "PERSON"
+        ],
+        [
+            "Cryptocurrency",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Jamie Dimon",
+            "PERSON"
+        ]
+    ]
+}

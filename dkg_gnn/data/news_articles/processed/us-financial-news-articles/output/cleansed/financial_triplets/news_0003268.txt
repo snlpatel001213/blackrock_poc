@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Operate_In",
+            "German Government",
+            "ORG/GOV"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Relate_To",
+            "Immigration",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Relate_To",
+            "Taxation",
+            "CONCEPT"
+        ]
+    ]
+}

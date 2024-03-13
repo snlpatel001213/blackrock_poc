@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Winter Storm",
+            "EVENT",
+            "Sparks",
+            "Record Nat Gas Demand",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jon Kilduff",
+            "PERSON",
+            "Discusses",
+            "Spike in Energy Demand",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Again Capital",
+            "ORG",
+            "Employs",
+            "Jon Kilduff",
+            "PERSON"
+        ]
+    ]
+}

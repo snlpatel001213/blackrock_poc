@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Financial Conduct Authority (FCA)",
+            "ORG/REG",
+            "Has",
+            "Transitional Arrangement",
+            "CONCEPT"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "London Metal Exchange (LME)",
+            "COMP",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Relate_To",
+            "Open Access Requests",
+            "CONCEPT"
+        ],
+        [
+            "LME",
+            "COMP",
+            "Relate_To",
+            "Open Access Requests",
+            "CONCEPT"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Decrease",
+            "Consider Open Access Requests",
+            "CONCEPT"
+        ],
+        [
+            "LME",
+            "COMP",
+            "Decrease",
+            "Consider Open Access Requests",
+            "CONCEPT"
+        ]
+    ]
+}

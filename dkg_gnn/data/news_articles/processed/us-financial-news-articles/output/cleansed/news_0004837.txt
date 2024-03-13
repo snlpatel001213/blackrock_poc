@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Texas Capital Bank",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Has",
+            "Parent Company",
+            "ORG"
+        ],
+        [
+            "Texas Capital Bank",
+            "ORG",
+            "Is_Member_Of",
+            "Texas Capital Bancshares, Inc.",
+            "ORG"
+        ],
+        [
+            "Executive Management",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Fourth Quarter Results",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Relate_To",
+            "Fourth Quarter Results",
+            "EVENT"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Can_Pre_Register_For",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Unique PIN Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "International Callers",
+            "PERSON",
+            "Can_Dial",
+            "412.317.5218",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Will_Be_Webcast_Live",
+            "Home Page",
+            "PRODUCT"
+        ],
+        [
+            "Company's Website",
+            "PRODUCT",
+            "Is",
+            "http://investors.texascapitalbank.com",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Audio Replay",
+            "PRODUCT",
+            "Will_Be_Available",
+            "One Hour After",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Can_Be_Accessed_By",
+            "Dialing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Can_Be_Accessed_By",
+            "International Callers",
+            "PERSON"
+        ],
+        [
+            "Webcast",
+            "PRODUCT",
+            "Will_Be_Available",
+            "Until",
+            "EVENT"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Russell 2000\u00ae Index",
+            "ORG"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "S&P MidCap 400\u00ae",
+            "ORG"
+        ],
+        [
+            "Heather Worley",
+            "PERSON",
+            "Is",
+            "Investor Contact",
+            "PRODUCT"
+        ],
+        [
+            "Heather Worley",
+            "PERSON",
+            "Can_Be_Reached_At",
+            "214.932.6646",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Heather Worley",
+            "PERSON",
+            "Has",
+            "Email",
+            "PRODUCT"
+        ],
+        [
+            "Email",
+            "PRODUCT",
+            "Is",
+            "heather.worley@texascapitalbank.com",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

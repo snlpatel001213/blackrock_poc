@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Carillion Plc",
+            "ORG",
+            "Produce",
+            "1 billion pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Plus500 Ltd",
+            "COMP",
+            "Control",
+            "contracts for spreads in cryptocurrencies",
+            "PRODUCT"
+        ],
+        [
+            "Plus500 Ltd",
+            "COMP",
+            "Raise",
+            "profits and revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trade unions",
+            "ORG",
+            "Relate_To",
+            "workers rights",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Federal Judge",
+            "ORG/GOV",
+            "Side_With",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Control",
+            "Consumer Financial Protection Bureau",
+            "ORG"
+        ],
+        [
+            "Leandra English",
+            "PERSON",
+            "Seek",
+            "Unseat",
+            "POSITION"
+        ],
+        [
+            "Leandra English",
+            "PERSON",
+            "Claim",
+            "Rightful Acting Director",
+            "POSITION"
+        ],
+        [
+            "Mick Mulvaney",
+            "PERSON",
+            "Be",
+            "White House Budget Director",
+            "POSITION"
+        ],
+        [
+            "Mick Mulvaney",
+            "PERSON",
+            "Named",
+            "Interim Chief",
+            "POSITION"
+        ],
+        [
+            "Consumer Financial Protection Bureau",
+            "ORG",
+            "Have",
+            "Deputy Director",
+            "POSITION"
+        ],
+        [
+            "Leandra English",
+            "PERSON",
+            "Be",
+            "Deputy Director",
+            "POSITION"
+        ],
+        [
+            "Richard",
+            "PERSON",
+            "Choose",
+            "Leandra English",
+            "PERSON"
+        ],
+        [
+            "Leandra English",
+            "PERSON",
+            "Have",
+            "Obama-era Official",
+            "POSITION"
+        ]
+    ]
+}

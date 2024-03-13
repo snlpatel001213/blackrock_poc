@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "United Nations",
+            "ORG/GOV",
+            "Investigate",
+            "Attack in Congo",
+            "EVENT"
+        ],
+        [
+            "Ant\u00f3nio Guterres",
+            "PERSON",
+            "Announce",
+            "Investigation",
+            "EVENT"
+        ],
+        [
+            "Dmitry Titov",
+            "PERSON",
+            "Appoint",
+            "Lead the Probe",
+            "EVENT"
+        ],
+        [
+            "Dmitry Titov",
+            "PERSON",
+            "Relate_To",
+            "United Nations",
+            "ORG/GOV"
+        ],
+        [
+            "Investigation Team",
+            "ORG",
+            "Include",
+            "Two Tanzanian Military Officers",
+            "PERSON"
+        ],
+        [
+            "U.N. Officials",
+            "ORG",
+            "Suspect",
+            "Ugandan Rebels",
+            "ORG",
+            "Carried out",
+            "Assault",
+            "EVENT"
+        ],
+        [
+            "Ugandan Rebels",
+            "ORG",
+            "Belong_To",
+            "Allied Democratic Forces",
+            "ORG"
+        ],
+        [
+            "Allied Democratic Forces",
+            "ORG",
+            "Active_In",
+            "Area",
+            "GPE"
+        ]
+    ]
+}

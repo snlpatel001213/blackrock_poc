@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "25,000",
+            "NUMBER"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Wall Street",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Laud",
+            "Dow hitting 25,000",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Predict",
+            "Dow 30,000",
+            "NUMBER"
+        ],
+        [
+            "Zaccarelli",
+            "PERSON",
+            "Expect",
+            "Dow to set next milestone",
+            "EVENT"
+        ],
+        [
+            "Zaccarelli",
+            "PERSON",
+            "Participates_In",
+            "Independent Advisor Alliance",
+            "ORG"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "Investor Enthusiasm",
+            "CONCEPT"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Operate_In",
+            "Wall Street",
+            "ORG"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Has",
+            "105 months length",
+            "DURATION"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Relate_To",
+            "1990 to 2000 bull market",
+            "EVENT"
+        ],
+        [
+            "Valuations",
+            "CONCEPT",
+            "Remain",
+            "Stretched",
+            "CONCEPT"
+        ],
+        [
+            "Zaccarelli",
+            "PERSON",
+            "Expect",
+            "Equities to run before reaching 1990s peak",
+            "EVENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Has",
+            "18 to 18.5 forward earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Valuation",
+            "CONCEPT",
+            "Relate_To",
+            "1990s bull market peak",
+            "EVENT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Expect",
+            "Add 19% from current levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Zaccarelli",
+            "PERSON",
+            "Expect",
+            "Dow to reach 30,000 in 2019",
+            "DATE"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Capable_Of",
+            "Surprising",
+            "CONCEPT"
+        ]
+    ]
+}

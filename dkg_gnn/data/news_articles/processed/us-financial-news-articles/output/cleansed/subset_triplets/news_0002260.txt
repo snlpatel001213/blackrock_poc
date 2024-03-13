@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Washington D.C.",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Islamabad",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Sanctuaries",
+            "CONCEPT"
+        ],
+        [
+            "Afghanistan",
+            "GPE",
+            "Has",
+            "Neighboring",
+            "COMP"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "State Department",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Defense Department",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "U.S_Official",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "State_Department_Spokeswoman",
+            "PERSON"
+        ]
+    ]
+}

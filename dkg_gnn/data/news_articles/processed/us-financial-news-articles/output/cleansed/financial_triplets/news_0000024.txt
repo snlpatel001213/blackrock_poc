@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Government of Iran",
+            "ORG/GOV",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "More_than_80_Million_Iranians",
+            "PERSON"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Government of Iran",
+            "ORG/GOV"
+        ]
+    ]
+}

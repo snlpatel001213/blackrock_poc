@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Impact",
+            "Transsexual Woman Rights",
+            "CONCEPT"
+        ],
+        [
+            "Transsexual Woman",
+            "PERSON",
+            "Bank",
+            "Sperm",
+            "PRODUCT"
+        ],
+        [
+            "Transsexual Woman",
+            "PERSON",
+            "Participates_In",
+            "Baby Birth",
+            "EVENT"
+        ],
+        [
+            "Transsexual Woman",
+            "PERSON",
+            "Cannot_Be",
+            "Registered",
+            "AS",
+            "Mother",
+            "PERSON"
+        ],
+        [
+            "Federal Court of Justice",
+            "ORG/GOV",
+            "Reject",
+            "Appeal",
+            "ORG"
+        ],
+        [
+            "Transsexual Woman",
+            "PERSON",
+            "Want",
+            "Registered",
+            "AS",
+            "Second Mother",
+            "PERSON"
+        ],
+        [
+            "Child",
+            "PERSON",
+            "Born",
+            "2015",
+            "DATE"
+        ],
+        [
+            "Woman",
+            "PERSON",
+            "Give_Birth",
+            "Child",
+            "PERSON"
+        ],
+        [
+            "Woman",
+            "PERSON",
+            "Considered",
+            "Child\u2019s Legal Mother",
+            "PERSON"
+        ],
+        [
+            "Transsexual Man",
+            "PERSON",
+            "Mention",
+            "CASE",
+            "EVENT"
+        ],
+        [
+            "Transsexual Man",
+            "PERSON",
+            "Give_Birth",
+            "Baby",
+            "EVENT"
+        ],
+        [
+            "Transsexual Man",
+            "PERSON",
+            "Want",
+            "Registered",
+            "AS",
+            "Legal Father",
+            "PERSON"
+        ],
+        [
+            "Transsexual Person",
+            "PERSON",
+            "Rights_And_Duties",
+            "Depends",
+            "ON",
+            "New Gender",
+            "PERSON"
+        ],
+        [
+            "Transsexual Person",
+            "PERSON",
+            "Legal Relationship",
+            "Children",
+            "PERSON",
+            "Remain",
+            "Unchanged"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Rule",
+            "Favor",
+            "INTRODUCTION",
+            "Third Gender Category",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Identify",
+            "Either Male Or Female",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Born",
+            "Ambiguous Sexual Anatomy",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "ORG",
+            "By",
+            "Riham Alkousaa",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "ORG",
+            "By",
+            "Robin Pomeroy",
+            "PERSON"
+        ]
+    ]
+}

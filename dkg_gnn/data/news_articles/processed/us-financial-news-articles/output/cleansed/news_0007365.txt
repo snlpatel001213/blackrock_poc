@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Announce",
+            "Daniel Patt",
+            "PERSON"
+        ],
+        [
+            "Daniel Patt",
+            "PERSON",
+            "Operate_In",
+            "DARPA",
+            "ORG/GOV"
+        ],
+        [
+            "Daniel Patt",
+            "PERSON",
+            "Control",
+            "$500 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Daniel Patt",
+            "PERSON",
+            "Produce",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Introduce",
+            "Mobile Robots",
+            "PRODUCT"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Participates_In",
+            "Material Handling",
+            "CONCEPT"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Relate_To",
+            "E-commerce",
+            "CONCEPT"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Is_Member_Of",
+            "Logistics",
+            "SECTOR"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Decrease",
+            "Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Impact",
+            "Human Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Vecna Robotics",
+            "COMP",
+            "Has",
+            "Community Service",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Patt",
+            "PERSON",
+            "Invests_In",
+            "Vecna Robotics",
+            "COMP"
+        ]
+    ]
+}

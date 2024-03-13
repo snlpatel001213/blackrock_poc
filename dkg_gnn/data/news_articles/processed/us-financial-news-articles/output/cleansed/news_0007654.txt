@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "German industrial output",
+            "ECON_INDICATOR",
+            "Jump",
+            "November",
+            "TIME"
+        ],
+        [
+            "German industrial output",
+            "ECON_INDICATOR",
+            "Exceed",
+            "mid-range forecast",
+            "CONCEPT"
+        ],
+        [
+            "Exports",
+            "ECON_INDICATOR",
+            "Rise",
+            "4.1 percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Imports",
+            "ECON_INDICATOR",
+            "Rise",
+            "2.3 percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Exports",
+            "ECON_INDICATOR",
+            "Exceed",
+            "expectations",
+            "CONCEPT"
+        ],
+        [
+            "Imports",
+            "ECON_INDICATOR",
+            "Exceed",
+            "forecast",
+            "CONCEPT"
+        ],
+        [
+            "Trade surplus",
+            "ECON_INDICATOR",
+            "Widen",
+            "22.3 billion euros",
+            "CURRENCY"
+        ],
+        [
+            "Trade surplus",
+            "ECON_INDICATOR",
+            "Exceed",
+            "consensus forecast",
+            "CONCEPT"
+        ]
+    ]
+}

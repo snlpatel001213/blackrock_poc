@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Chip",
+            "PRODUCT",
+            "Has",
+            "Chip Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Programs",
+            "PRODUCT",
+            "Can_Access",
+            "Data",
+            "PRODUCT"
+        ],
+        [
+            "Chris Green",
+            "PERSON",
+            "Speaks_About",
+            "Chip Security",
+            "CONCEPT"
+        ],
+        [
+            "Chris Green",
+            "PERSON",
+            "Mentions",
+            "Legal Action",
+            "CONCEPT"
+        ],
+        [
+            "Legal Action",
+            "CONCEPT",
+            "Relate_To",
+            "Chipmakers",
+            "ORG"
+        ]
+    ]
+}

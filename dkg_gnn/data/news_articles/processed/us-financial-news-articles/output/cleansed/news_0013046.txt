@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Smart Cars",
+            "PRODUCT",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Sweet Robots",
+            "PRODUCT",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Scary Wheels",
+            "PRODUCT",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "CES 2018",
+            "EVENT",
+            "Relate_To",
+            "Tech Show",
+            "CONCEPT"
+        ],
+        [
+            "TV",
+            "PRODUCT",
+            "Contain",
+            "Wall",
+            "GPE"
+        ],
+        [
+            "Car",
+            "PRODUCT",
+            "Has",
+            "Touch Screen Dashboard",
+            "PRODUCT"
+        ],
+        [
+            "Joanna Stern",
+            "PERSON",
+            "Go_On",
+            "Hunt",
+            "CONCEPT"
+        ]
+    ]
+}

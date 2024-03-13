@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Speak",
+            "Davos Economic Forum",
+            "EVENT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Davos Economic Forum",
+            "EVENT",
+            "Relate_To",
+            "World Leaders",
+            "ORG"
+        ],
+        [
+            "Davos Economic Forum",
+            "EVENT",
+            "Relate_To",
+            "CEOs",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "New York Reit Inc.",
+            "ORG",
+            "Announce",
+            "Liquidating Distribution",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York Reit Inc.",
+            "ORG",
+            "Operate_In",
+            "Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Liquidating Distribution",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "$2.00",
+            "NUM"
+        ]
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Announce",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Impact",
+            "new drug discovery",
+            "CONCEPT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Positive_Impact_On",
+            "approval success rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Regeneron",
+            "PERSON",
+            "Operate_In",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Regeneron",
+            "PERSON",
+            "Control",
+            "genetic information",
+            "CONCEPT"
+        ],
+        [
+            "UK Biobank database",
+            "GPE",
+            "Participates_In",
+            "new drug discovery",
+            "CONCEPT"
+        ],
+        [
+            "UK Biobank database",
+            "GPE",
+            "Relate_To",
+            "improve approval success rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "500,000 people",
+            "GPE",
+            "Has",
+            "genetic information",
+            "CONCEPT"
+        ],
+        [
+            "Pfizer Inc",
+            "COMP",
+            "Invests_In",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "AbbVie Inc",
+            "COMP",
+            "Invests_In",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "AstraZeneca Plc",
+            "COMP",
+            "Invests_In",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "Alnylam Pharmaceuticals Inc",
+            "COMP",
+            "Invests_In",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "$10 million",
+            "FIN_INSTRUMENT",
+            "Invests_In",
+            "collaboration",
+            "ORG"
+        ],
+        [
+            "Exome sequencing",
+            "CONCEPT",
+            "Produce",
+            "genetic information",
+            "CONCEPT"
+        ],
+        [
+            "500,000 participants",
+            "GPE",
+            "Has",
+            "exome sequencing",
+            "CONCEPT"
+        ],
+        [
+            "2019",
+            "DATE",
+            "Relate_To",
+            "exome sequencing completion",
+            "CONCEPT"
+        ],
+        [
+            "2022",
+            "DATE",
+            "Relate_To",
+            "original exome sequencing timeline",
+            "CONCEPT"
+        ],
+        [
+            "Exome",
+            "CONCEPT",
+            "Contain",
+            "coding genes",
+            "CONCEPT"
+        ],
+        [
+            "Proteins",
+            "CONCEPT",
+            "Used_As",
+            "targets for medicines",
+            "CONCEPT"
+        ],
+        [
+            "Lifesciences industry",
+            "SECTOR",
+            "Step",
+            "giving back",
+            "CONCEPT"
+        ],
+        [
+            "Society",
+            "GPE",
+            "Receive",
+            "something",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "SECTOR",
+            "Accelerate",
+            "efforts",
+            "CONCEPT"
+        ],
+        [
+            "New drug targets",
+            "CONCEPT",
+            "Relate_To",
+            "new medicines",
+            "CONCEPT"
+        ],
+        [
+            "U.S. National Institutes of Health",
+            "ORG/GOV",
+            "Make",
+            "discoveries",
+            "CONCEPT"
+        ],
+        [
+            "Academic researchers",
+            "PERSON",
+            "Make",
+            "discoveries",
+            "CONCEPT"
+        ],
+        [
+            "Human genetic variations",
+            "CONCEPT",
+            "Link_To",
+            "human biology and disease",
+            "CONCEPT"
+        ],
+        [
+            "Sequencing capacity",
+            "CONCEPT",
+            "Increase",
+            "every year",
+            "DATE"
+        ],
+        [
+            "Whole-body imaging",
+            "CONCEPT",
+            "Has",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Periodic MRI scans",
+            "CONCEPT",
+            "Has",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Primary care information",
+            "CONCEPT",
+            "Has",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Genetic variations",
+            "CONCEPT",
+            "Limit",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Diversity",
+            "CONCEPT",
+            "Limit",
+            "UK Biobank database",
+            "GPE"
+        ],
+        [
+            "Other populations",
+            "GPE",
+            "Have",
+            "large-scale efforts",
+            "CONCEPT"
+        ],
+        [
+            "Other big projects",
+            "CONCEPT",
+            "Look_For",
+            "Regeneron",
+            "PERSON"
+        ]
+    ]
+}

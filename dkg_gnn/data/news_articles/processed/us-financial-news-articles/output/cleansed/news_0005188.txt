@@ -1,0 +1,133 @@
+{
+    "output": [
+        [
+            "Billabong International",
+            "COMP",
+            "Say",
+            "enter agreement",
+            "EVENT"
+        ],
+        [
+            "Billabong International",
+            "COMP",
+            "Sell",
+            "Australian company",
+            "GPE"
+        ],
+        [
+            "Boardriders",
+            "COMP",
+            "Buy",
+            "Billabong International",
+            "COMP"
+        ],
+        [
+            "Boardriders",
+            "COMP",
+            "Formerly",
+            "Quiksilver",
+            "COMP"
+        ],
+        [
+            "Boardriders",
+            "COMP",
+            "Make",
+            "bid",
+            "EVENT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Closing price",
+            "Thursday",
+            "DATE"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Stock price",
+            "before offer",
+            "EVENT"
+        ],
+        [
+            "Billabong directors",
+            "PERSON",
+            "Recommend",
+            "agreement",
+            "EVENT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Fulfill",
+            "condition",
+            "EVENT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Operate_In",
+            "business",
+            "CONCEPT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Face",
+            "risks",
+            "CONCEPT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Face",
+            "uncertainties",
+            "CONCEPT"
+        ],
+        [
+            "Billabong",
+            "COMP",
+            "Include",
+            "brands",
+            "CONCEPT"
+        ],
+        [
+            "Oaktree Capital Management",
+            "COMP",
+            "Hold",
+            "stake",
+            "CONCEPT"
+        ],
+        [
+            "Oaktree Capital Management",
+            "COMP",
+            "Senior lender",
+            "Billabong",
+            "COMP"
+        ],
+        [
+            "Oaktree Capital Management",
+            "COMP",
+            "Managed",
+            "funds",
+            "COMP"
+        ],
+        [
+            "Funds",
+            "COMP",
+            "Majority interest",
+            "Boardriders",
+            "COMP"
+        ],
+        [
+            "Oaktree",
+            "COMP",
+            "Not immediately",
+            "available",
+            "EVENT",
+            "for",
+            "Comment",
+            "EVENT"
+        ]
+    ]
+}

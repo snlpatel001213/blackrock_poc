@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Impact",
+            "$1.17 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Relate_To",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Relate_To",
+            "Ethereum",
+            "PRODUCT"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Relate_To",
+            "Ripple",
+            "PRODUCT"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Produce",
+            "Internet meme",
+            "CONCEPT"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Operate_In",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Control",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Dogecoin",
+            "PRODUCT",
+            "Control",
+            "Online exchanges",
+            "ORG"
+        ]
+    ]
+}

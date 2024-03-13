@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Produce",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Has",
+            "High_Profit_Data_Center_Business",
+            "SECTOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Has",
+            "Momentum",
+            "CONCEPT"
+        ]
+    ]
+}

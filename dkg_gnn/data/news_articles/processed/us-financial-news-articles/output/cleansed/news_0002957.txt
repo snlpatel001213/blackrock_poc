@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Hargreaves Lansdown",
+            "COMP",
+            "Suspend",
+            "1,200 ETFs",
+            "PRODUCT"
+        ],
+        [
+            "Hargreaves Lansdown",
+            "COMP",
+            "Suspend",
+            "300 investment trusts",
+            "PRODUCT"
+        ],
+        [
+            "Hargreaves Lansdown",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Bestinvest",
+            "COMP",
+            "Suspend",
+            "unspecified number of investment trusts",
+            "PRODUCT"
+        ],
+        [
+            "Bestinvest",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Standard Life Aberdeen",
+            "COMP",
+            "Compliant",
+            "all UK and European funds on its platform",
+            "PRODUCT"
+        ],
+        [
+            "Standard Life Aberdeen",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Charles Stanley",
+            "COMP",
+            "Not_Confirm",
+            "whether they had suspended any funds",
+            "PRODUCT"
+        ],
+        [
+            "Charles Stanley",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Interactive Investor",
+            "COMP",
+            "Not_Confirm",
+            "whether they had suspended any funds",
+            "PRODUCT"
+        ],
+        [
+            "Interactive Investor",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "PRIIPs",
+            "CONCEPT",
+            "Require",
+            "each fund to have a new Key Information Document (KID)",
+            "PRODUCT"
+        ],
+        [
+            "PRIIPs",
+            "CONCEPT",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Implement",
+            "Packaged Retail and Insurance-based Investment Products (PRIIPs) legislation",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Key Information Document (KID)",
+            "CONCEPT",
+            "Relate_To",
+            "each fund",
+            "PRODUCT"
+        ],
+        [
+            "Key Information Document (KID)",
+            "CONCEPT",
+            "Provide",
+            "information in a standardised format",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "CONCEPT",
+            "Limit_Choice",
+            "by suspensions",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "CONCEPT",
+            "Too_Slow",
+            "to implement major new regulations",
+            "CONCEPT"
+        ],
+        [
+            "MiFID II",
+            "CONCEPT",
+            "Introduce",
+            "on Jan. 3",
+            "EVENT"
+        ],
+        [
+            "MiFID II",
+            "CONCEPT",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "European regulator",
+            "ORG",
+            "Confirm",
+            "introduction of MiFID II went off without a hitch",
+            "CONCEPT"
+        ],
+        [
+            "European regulator",
+            "ORG",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ]
+    ]
+}

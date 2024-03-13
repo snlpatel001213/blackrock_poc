@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Mobile Phone Industry",
+            "SECTOR"
+        ],
+        [
+            "Aaron Pressman",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "iPhone",
+            "PRODUCT",
+            "Has",
+            "Battery",
+            "PRODUCT"
+        ],
+        [
+            "iPhone",
+            "PRODUCT",
+            "Slow_Down",
+            "Performance",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Apologize",
+            "null",
+            "null"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Replace",
+            "Battery",
+            "PRODUCT"
+        ],
+        [
+            "Mark Moskowitz",
+            "PERSON",
+            "Rate",
+            "Apple Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mark Moskowitz",
+            "PERSON",
+            "Worry",
+            "Wall Street",
+            "ORG"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Upgrade",
+            "Device",
+            "PRODUCT"
+        ],
+        [
+            "Battery",
+            "PRODUCT",
+            "Drain",
+            "null",
+            "null"
+        ],
+        [
+            "Battery",
+            "PRODUCT",
+            "Upgrade",
+            "null",
+            "null"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Lose",
+            "Sales",
+            "SECTOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Lose",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Assume",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Sell",
+            "iPhone",
+            "PRODUCT"
+        ],
+        [
+            "FactSet Research",
+            "ORG",
+            "Research",
+            "null",
+            "null"
+        ],
+        [
+            "Shares of Apple",
+            "FIN_INSTRUMENT",
+            "Up",
+            "Price",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

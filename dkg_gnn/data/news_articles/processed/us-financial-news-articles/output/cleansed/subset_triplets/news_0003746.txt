@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Fed",
+            "ORG/GOV",
+            "Relate_To",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Janus Henderson",
+            "ORG",
+            "Has",
+            "Mitul Patel",
+            "PERSON"
+        ],
+        [
+            "Janus Henderson",
+            "ORG",
+            "Announce",
+            "Mitul Patel Speech",
+            "EVENT"
+        ]
+    ]
+}

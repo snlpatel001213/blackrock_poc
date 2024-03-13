@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Participates_In",
+            "U.S. House Transportation Panel",
+            "ORG/GOV"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. House of Representatives",
+            "ORG/GOV"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Not_Seek",
+            "Re-election",
+            "CONCEPT"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Work",
+            "Pass Infrastructure Bill",
+            "CONCEPT"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Work",
+            "President Trump",
+            "PERSON"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Work",
+            "Republican and Democratic Colleagues",
+            "PERSON"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Work",
+            "Both Chambers",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Meet",
+            "Bill Shuster",
+            "PERSON"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Expect",
+            "Unveil Infrastructure Proposal",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Have",
+            "Public and Private Infrastructure Spending",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Democrats",
+            "PERSON",
+            "Want",
+            "Significantly Higher Government Spending",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Champion",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Backed",
+            "Privatize U.S. Air Traffic Control System",
+            "CONCEPT"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Face",
+            "Opposition",
+            "CONCEPT"
+        ],
+        [
+            "Bill Shuster",
+            "PERSON",
+            "Propose",
+            "Legislation",
+            "CONCEPT"
+        ],
+        [
+            "United Airlines",
+            "COMP",
+            "Ban",
+            "Practice",
+            "CONCEPT"
+        ],
+        [
+            "Congress",
+            "ORG",
+            "Expect",
+            "Take Up Airline Reforms",
+            "CONCEPT"
+        ],
+        [
+            "Congress",
+            "ORG",
+            "Expect",
+            "FAA Authorization Expires",
+            "CONCEPT"
+        ]
+    ]
+}

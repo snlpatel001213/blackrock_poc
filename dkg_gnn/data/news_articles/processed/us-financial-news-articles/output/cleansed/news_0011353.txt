@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "SKF Group",
+            "ORG",
+            "Publish",
+            "full year results",
+            "EVENT"
+        ],
+        [
+            "SKF Group",
+            "ORG",
+            "Operate_In",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "SKF Group",
+            "ORG",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "Investors",
+            "ORG",
+            "Participates_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "Analysts",
+            "ORG",
+            "Participates_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "Media",
+            "ORG",
+            "Participates_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "Conference_Call",
+            "Concept",
+            "In_Language",
+            "English",
+            "GPE"
+        ],
+        [
+            "SE",
+            "GPE",
+            "Dial_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Dial_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "US",
+            "GPE",
+            "Dial_In",
+            "Conference_Call",
+            "Concept"
+        ],
+        [
+            "Conference_Call",
+            "Concept",
+            "Time",
+            "14:00",
+            "TEMPORAL"
+        ],
+        [
+            "Conference_Call",
+            "Concept",
+            "Time",
+            "13:00",
+            "TEMPORAL"
+        ],
+        [
+            "SKF Group",
+            "ORG",
+            "Results",
+            "full year 2017",
+            "EVENT"
+        ],
+        [
+            "SKF Group",
+            "ORG",
+            "Website",
+            "Group's website",
+            "WEBSITE"
+        ],
+        [
+            "Media",
+            "ORG",
+            "Pre-book",
+            "Interviews",
+            "CONCEPT"
+        ],
+        [
+            "Alrik Danielson",
+            "PERSON",
+            "Participates_In",
+            "Interviews",
+            "CONCEPT"
+        ],
+        [
+            "Christian Johansson",
+            "PERSON",
+            "Participates_In",
+            "Interviews",
+            "CONCEPT"
+        ],
+        [
+            "Interviews",
+            "CONCEPT",
+            "Contact",
+            "Theo Kjellberg",
+            "PERSON"
+        ],
+        [
+            "Press_Relations",
+            "ORG",
+            "Contact",
+            "Theo Kjellberg",
+            "PERSON"
+        ],
+        [
+            "Theo Kjellberg",
+            "PERSON",
+            "E-mail",
+            "theo.kjellberg@skf.com",
+            "EMAIL"
+        ],
+        [
+            "Investor_Relations",
+            "ORG",
+            "Contact",
+            "Patrik Stenberg",
+            "PERSON"
+        ],
+        [
+            "Patrik Stenberg",
+            "PERSON",
+            "Phone",
+            "+46-31-337-2104",
+            "PHONE"
+        ],
+        [
+            "Patrik Stenberg",
+            "PERSON",
+            "Phone",
+            "+46-705-472-104",
+            "PHONE"
+        ],
+        [
+            "Patrik Stenberg",
+            "PERSON",
+            "E-mail",
+            "patrik.stenberg@skf.com",
+            "EMAIL"
+        ]
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "output": [
+        [
+            "Brazilian police",
+            "ORG",
+            "Request",
+            "Temer",
+            "PERSON"
+        ],
+        [
+            "Temer",
+            "PERSON",
+            "Answer",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Investigate",
+            "Temer",
+            "PERSON"
+        ],
+        [
+            "Temer",
+            "PERSON",
+            "Control",
+            "Decree",
+            "CONCEPT"
+        ],
+        [
+            "Decree",
+            "CONCEPT",
+            "Regulate",
+            "Country\u2019s ports",
+            "GPE"
+        ],
+        [
+            "Decree",
+            "CONCEPT",
+            "Benefit",
+            "Rodrimar SA",
+            "COMP"
+        ],
+        [
+            "Rodrimar SA",
+            "COMP",
+            "Operate",
+            "Services",
+            "CONCEPT"
+        ],
+        [
+            "Services",
+            "CONCEPT",
+            "In",
+            "Port of Santos",
+            "GPE"
+        ],
+        [
+            "Port of Santos",
+            "GPE",
+            "Busiest",
+            "Container port",
+            "CONCEPT"
+        ],
+        [
+            "Temer",
+            "PERSON",
+            "Manage",
+            "Avoid",
+            "Verb"
+        ],
+        [
+            "Temer",
+            "PERSON",
+            "Deny",
+            "Role",
+            "CONCEPT"
+        ],
+        [
+            "Temer",
+            "PERSON",
+            "Attorney",
+            "Answer",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Questions",
+            "CONCEPT",
+            "Content",
+            "Local magazine \u00c9poca",
+            "ORG"
+        ]
+    ]
+}

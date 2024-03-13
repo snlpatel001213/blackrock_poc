@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Thousands",
+            "CONCEPT",
+            "Participates_In",
+            "Race",
+            "EVENT"
+        ],
+        [
+            "Race",
+            "EVENT",
+            "Relate_To",
+            "Luckiest Man",
+            "CONCEPT"
+        ],
+        [
+            "Luckiest Man",
+            "CONCEPT",
+            "Impact",
+            "New Year",
+            "CONCEPT"
+        ],
+        [
+            "Nishinomiya Shrine",
+            "GPE",
+            "Operate_In",
+            "Western Japan",
+            "GPE"
+        ],
+        [
+            "Western Japan",
+            "GPE",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Men and Women",
+            "PERSON",
+            "Participates_In",
+            "Race",
+            "EVENT"
+        ]
+    ]
+}

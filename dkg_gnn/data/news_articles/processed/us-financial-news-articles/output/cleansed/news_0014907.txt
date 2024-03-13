@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Nestle",
+            "COMP",
+            "Sell",
+            "U.S. Confectionary Business",
+            "COMP"
+        ],
+        [
+            "Nestle",
+            "COMP",
+            "Operate_In",
+            "Swiss Food Group",
+            "ORG"
+        ],
+        [
+            "Ferrero",
+            "COMP",
+            "Buy",
+            "U.S. Confectionary Business",
+            "COMP"
+        ],
+        [
+            "Ferrero",
+            "COMP",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Mark Schneider",
+            "PERSON",
+            "CEO",
+            "Nestle",
+            "COMP"
+        ],
+        [
+            "Mark Schneider",
+            "PERSON",
+            "Control",
+            "Nestle",
+            "COMP"
+        ],
+        [
+            "Nestle",
+            "COMP",
+            "Move",
+            "Towards Healthier Products",
+            "CONCEPT"
+        ]
+    ]
+}

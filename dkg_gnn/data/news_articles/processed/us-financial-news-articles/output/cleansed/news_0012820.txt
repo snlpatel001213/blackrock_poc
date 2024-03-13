@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "SCBSM",
+            "COMP",
+            "Acquisition",
+            "Office Building",
+            "GPE"
+        ],
+        [
+            "Office Building",
+            "GPE",
+            "Operate_In",
+            "Paris",
+            "GPE"
+        ],
+        [
+            "Office Building",
+            "GPE",
+            "Has",
+            "760 m\u00b2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Office Building",
+            "GPE",
+            "Has",
+            "1000 m\u00b2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Office Building",
+            "GPE",
+            "Impact",
+            "Higher Than EUR 500,000",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

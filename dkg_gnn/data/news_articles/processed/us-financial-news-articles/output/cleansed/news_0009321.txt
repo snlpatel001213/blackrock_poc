@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Blames",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Supreme Leader",
+            "PERSON"
+        ],
+        [
+            "Supreme Leader",
+            "PERSON",
+            "Claim",
+            "Tehran's Foiled",
+            "CONCEPT"
+        ],
+        [
+            "Tehran's Foiled",
+            "CONCEPT",
+            "Relate_To",
+            "Plot",
+            "CONCEPT"
+        ],
+        [
+            "Plot",
+            "CONCEPT",
+            "Impact",
+            "Overthrow",
+            "CONCEPT"
+        ],
+        [
+            "Overthrow",
+            "CONCEPT",
+            "Relate_To",
+            "Current Leadership",
+            "GPE"
+        ]
+    ]
+}

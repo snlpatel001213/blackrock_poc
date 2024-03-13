@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Sportpesa",
+            "COMP",
+            "Cancel",
+            "600 million shillings",
+            "GPE"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Operate_In",
+            "Kenya",
+            "GPE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Hike",
+            "Tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Negative_Impact_On",
+            "Sports",
+            "SECTOR"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Negative_Impact_On",
+            "Culture",
+            "SECTOR"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Negative_Impact_On",
+            "Arts",
+            "SECTOR"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Decrease",
+            "Marketing expenses",
+            "CONCEPT"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Sponsor",
+            "Kenyan football federation",
+            "ORG"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Sponsor",
+            "Country\u2019s premier league",
+            "ORG"
+        ],
+        [
+            "Sportpesa",
+            "COMP",
+            "Sponsor",
+            "Gor Mahia",
+            "ORG"
+        ],
+        [
+            "Gor Mahia",
+            "ORG",
+            "Get",
+            "60 million shillings",
+            "GPE"
+        ],
+        [
+            "Gor Mahia",
+            "ORG",
+            "Pull out",
+            "Confederation Champions League Cup",
+            "EVENT"
+        ],
+        [
+            "Kenya Rugby Union",
+            "ORG",
+            "Lose",
+            "120 million shillings",
+            "GPE"
+        ],
+        [
+            "Kenya Rugby Union",
+            "ORG",
+            "Use",
+            "Cash",
+            "GPE"
+        ],
+        [
+            "Kenya Rugby Union",
+            "ORG",
+            "Pay",
+            "Training and match allowances",
+            "CONCEPT"
+        ],
+        [
+            "Kenya Rugby Union",
+            "ORG",
+            "Tell",
+            "Suppliers and partners",
+            "CONCEPT"
+        ],
+        [
+            "Kenyan sports teams",
+            "ORG",
+            "Have",
+            "Poor management",
+            "CONCEPT"
+        ],
+        [
+            "Kenyan sports teams",
+            "ORG",
+            "Have",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Team",
+            "ORG",
+            "Complain",
+            "Mismanagement",
+            "CONCEPT"
+        ],
+        [
+            "Kenyan sports teams",
+            "ORG",
+            "Hinder",
+            "Performance abroad",
+            "CONCEPT"
+        ],
+        [
+            "Kenyan sports teams",
+            "ORG",
+            "Discourage",
+            "Fans at home",
+            "CONCEPT"
+        ],
+        [
+            "Sports officials",
+            "PERSON",
+            "Investigate",
+            "Mismanagement",
+            "CONCEPT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Enjoy",
+            "Most successful Olympics",
+            "EVENT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Win",
+            "Six gold medals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Win",
+            "Six silvers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Win",
+            "One bronze",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

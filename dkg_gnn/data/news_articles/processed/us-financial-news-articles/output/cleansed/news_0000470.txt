@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "American Airlines",
+            "ORG",
+            "Operate_In",
+            "Boston\u2019s Logan Airport",
+            "GPE"
+        ],
+        [
+            "American Airlines",
+            "ORG",
+            "Has",
+            "American Flight 1719",
+            "PRODUCT"
+        ],
+        [
+            "American Flight 1719",
+            "PRODUCT",
+            "Has",
+            "Airbus A319",
+            "PRODUCT"
+        ],
+        [
+            "Airbus A319",
+            "PRODUCT",
+            "Has",
+            "Mechanical trouble",
+            "CONCEPT"
+        ],
+        [
+            "American Flight 1719",
+            "PRODUCT",
+            "Return",
+            "Gate",
+            "GPE"
+        ],
+        [
+            "Flight attendants",
+            "PERSON",
+            "Participates_In",
+            "American Flight 1719",
+            "PRODUCT"
+        ],
+        [
+            "Passenger",
+            "PERSON",
+            "Participates_In",
+            "American Flight 1719",
+            "PRODUCT"
+        ],
+        [
+            "Flight attendants",
+            "PERSON",
+            "Impact",
+            "Hospitals",
+            "GPE"
+        ],
+        [
+            "Passenger",
+            "PERSON",
+            "Impact",
+            "Hospitals",
+            "GPE"
+        ],
+        [
+            "American Airlines",
+            "ORG",
+            "Invests_In",
+            "Mechanical problem",
+            "CONCEPT"
+        ],
+        [
+            "American Airlines",
+            "ORG",
+            "Relate_To",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Remaining passengers",
+            "PERSON",
+            "Participates_In",
+            "Another plane",
+            "PRODUCT"
+        ],
+        [
+            "Another plane",
+            "PRODUCT",
+            "Fly",
+            "Charlotte",
+            "GPE"
+        ]
+    ]
+}

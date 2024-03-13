@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "George Freeman",
+            "PERSON",
+            "Relate_To",
+            "Lawsuits",
+            "EVENT"
+        ],
+        [
+            "George Freeman",
+            "PERSON",
+            "Work_At",
+            "Media Law Resource Center",
+            "ORG"
+        ],
+        [
+            "Lawsuits",
+            "EVENT",
+            "Face",
+            "High Bar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Challenge",
+            "Alleged Media Bias",
+            "CONCEPT"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Face",
+            "High Bar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Courts",
+            "GPE",
+            "Show",
+            "Precedents",
+            "CONCEPT"
+        ]
+    ]
+}

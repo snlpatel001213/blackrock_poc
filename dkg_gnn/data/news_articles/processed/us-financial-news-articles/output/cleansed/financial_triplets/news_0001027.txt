@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Hooper, Lundy & Bookman, P.C.",
+            "ORG",
+            "Announce",
+            "Lisa K. Layman",
+            "PERSON"
+        ],
+        [
+            "Lisa K. Layman",
+            "PERSON",
+            "Has",
+            "25 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hooper, Lundy & Bookman, P.C.",
+            "ORG",
+            "Operate_In",
+            "Health Care",
+            "SECTOR"
+        ]
+    ]
+}

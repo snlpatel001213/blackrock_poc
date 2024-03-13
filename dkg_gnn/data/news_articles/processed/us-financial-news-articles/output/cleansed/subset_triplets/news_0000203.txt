@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Relate_To",
+            "Skiing",
+            "CONCEPT"
+        ],
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Relate_To",
+            "Downhill Skiing",
+            "CONCEPT"
+        ],
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Relate_To",
+            "Ski Course Design",
+            "CONCEPT"
+        ],
+        [
+            "Jeongseon",
+            "GPE",
+            "Has",
+            "Ski Infrastructure",
+            "PRODUCT"
+        ],
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Operate_In",
+            "Jeongseon",
+            "GPE"
+        ],
+        [
+            "Bernhard Russi",
+            "PERSON",
+            "Relate_To",
+            "Winter Sports Competition",
+            "CONCEPT"
+        ]
+    ]
+}

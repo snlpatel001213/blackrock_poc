@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Has",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Operate_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Lead",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Control",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Teammate",
+            "Cyril Despres",
+            "PERSON"
+        ],
+        [
+            "Cyril Despres",
+            "PERSON",
+            "Lead",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Win",
+            "Stage",
+            "EVENT"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Drive",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Move",
+            "Third",
+            "POSITION"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Lose",
+            "Time",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sebastian Loeb",
+            "PERSON",
+            "Drive",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Sebastian Loeb",
+            "PERSON",
+            "Drop",
+            "Position",
+            "POSITION"
+        ],
+        [
+            "Nani Roma",
+            "PERSON",
+            "Drive",
+            "Mini",
+            "COMP"
+        ],
+        [
+            "Nani Roma",
+            "PERSON",
+            "Roll",
+            "Car",
+            "COMP"
+        ],
+        [
+            "Nani Roma",
+            "PERSON",
+            "Suffer",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Ride",
+            "KTM",
+            "COMP"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Lead",
+            "Motorcycle Standings",
+            "CONCEPT"
+        ],
+        [
+            "Joan Barreda",
+            "PERSON",
+            "Lose",
+            "Time",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Joan Barreda",
+            "PERSON",
+            "Ride",
+            "Honda",
+            "COMP"
+        ],
+        [
+            "Kevin Benavides",
+            "PERSON",
+            "Ride",
+            "Honda",
+            "COMP"
+        ],
+        [
+            "Kevin Benavides",
+            "PERSON",
+            "Trail",
+            "Sam Sunderland",
+            "PERSON"
+        ]
+    ]
+}

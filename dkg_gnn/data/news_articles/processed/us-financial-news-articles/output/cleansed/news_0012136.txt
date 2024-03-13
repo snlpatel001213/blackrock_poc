@@ -1,0 +1,69 @@
+{
+    "output": [
+        [
+            "Hungary",
+            "GPE",
+            "Operate_In",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Janos Ader",
+            "PERSON",
+            "Announce",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Has",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Viktor Orban",
+            "PERSON",
+            "Control",
+            "Fidesz Party",
+            "ORG"
+        ],
+        [
+            "Fidesz Party",
+            "ORG",
+            "Participates_In",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Jobbik Party",
+            "ORG",
+            "Participates_In",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Socialists",
+            "ORG",
+            "Participates_In",
+            "Parliamentary Election",
+            "EVENT"
+        ],
+        [
+            "Fidesz Party",
+            "ORG",
+            "Lead",
+            "Over",
+            "Jobbik Party",
+            "ORG"
+        ],
+        [
+            "Jobbik Party",
+            "ORG",
+            "Lead",
+            "Over",
+            "Socialists",
+            "ORG"
+        ]
+    ]
+}

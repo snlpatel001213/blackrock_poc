@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Operate_In",
+            "Chicago Area",
+            "GPE"
+        ],
+        [
+            "440 McLean Boulevard",
+            "ORG",
+            "Leased_To",
+            "Burndy Engineering",
+            "ORG"
+        ],
+        [
+            "Burndy Engineering",
+            "ORG",
+            "Subsidiary_Of",
+            "Hubbell Corporation",
+            "ORG"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Control",
+            "22 industrial buildings",
+            "CNT"
+        ],
+        [
+            "22 industrial buildings",
+            "CNT",
+            "Part_Of",
+            "Chicago Area",
+            "GPE"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Has",
+            "3.7 million square feet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Operate_In",
+            "Secondary and select primary markets",
+            "SECTOR"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Focused_On",
+            "Single and multi-tenant industrial properties",
+            "SECTOR"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Focused_On",
+            "Distribution centers, warehouses and light industrial properties",
+            "SECTOR"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Seek_To",
+            "Acquire properties",
+            "ORG"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Seek_To",
+            "Enhance shareholder value",
+            "CONCEPT"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Seek_To",
+            "Property re-positioning",
+            "CONCEPT"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Seek_To",
+            "Capital improvements",
+            "CONCEPT"
+        ],
+        [
+            "Plymouth Industrial REIT",
+            "ORG",
+            "Seek_To",
+            "Restructuring tenant leases",
+            "CONCEPT"
+        ]
+    ]
+}

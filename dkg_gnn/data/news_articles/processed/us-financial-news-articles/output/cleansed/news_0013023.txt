@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Marijuana banking",
+            "FIN_INSTRUMENT",
+            "Face_Fallout_From",
+            "Session's Stance on Legal Pot",
+            "CONCEPT"
+        ],
+        [
+            "Session",
+            "PERSON",
+            "Impact",
+            "Marijuana banking",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Session",
+            "PERSON",
+            "Relate_To",
+            "Legal Pot",
+            "CONCEPT"
+        ],
+        [
+            "Financial Institutions",
+            "FIN_INSTRUMENT",
+            "Fund",
+            "Cannabis Start-ups",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "Melissa Lee",
+            "PERSON"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Participates_In",
+            "Options Action",
+            "EVENT"
+        ],
+        [
+            "Melissa Lee",
+            "PERSON",
+            "Relate_To",
+            "Bank Breakdown",
+            "CONCEPT"
+        ]
+    ]
+}

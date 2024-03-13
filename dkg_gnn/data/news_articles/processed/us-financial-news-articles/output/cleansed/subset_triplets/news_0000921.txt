@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Valve",
+            "PRODUCT",
+            "Control",
+            "Flow of Blood",
+            "CONCEPT"
+        ],
+        [
+            "Agilis Steerable Introducer Sheath",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Class I Recall",
+            "EVENT"
+        ],
+        [
+            "Class I Recall",
+            "EVENT",
+            "Impact",
+            "Serious Injury or Death",
+            "CONCEPT"
+        ]
+    ]
+}

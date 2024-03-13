@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Jeff Kleintop",
+            "PERSON",
+            "Discuss",
+            "Markets",
+            "GPE"
+        ],
+        [
+            "Jeff Kleintop",
+            "PERSON",
+            "Discuss",
+            "Tax Reform Afterglow",
+            "EVENT"
+        ],
+        [
+            "Charles Schwab",
+            "ORG",
+            "Employ",
+            "Jeff Kleintop",
+            "PERSON"
+        ],
+        [
+            "Kevin Caron",
+            "PERSON",
+            "Participates_In",
+            "Discussion",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Caron",
+            "PERSON",
+            "Senior Portfolio Manager",
+            "Washington Crossing Advisors",
+            "ORG/REG"
+        ],
+        [
+            "Washington Crossing Advisors",
+            "ORG/REG",
+            "Advises",
+            "Kevin Caron",
+            "PERSON"
+        ]
+    ]
+}

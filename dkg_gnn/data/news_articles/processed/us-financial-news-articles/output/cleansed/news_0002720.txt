@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Discuss",
+            "Patrick Shaffer",
+            "PERSON"
+        ],
+        [
+            "Patrick Shaffer",
+            "PERSON",
+            "Work_For",
+            "J.P. Morgan",
+            "ORG"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Participates_In",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Discuss",
+            "Brian Sullivan",
+            "PERSON"
+        ]
+    ]
+}

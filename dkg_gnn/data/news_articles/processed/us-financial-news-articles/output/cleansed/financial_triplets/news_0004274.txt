@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Islamic Republic\u2019s government",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Clerical elite",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Air Berlin",
+            "GPE",
+            "Sell",
+            "Air Berlin Aviation GmbH",
+            "ORG"
+        ],
+        [
+            "Air Berlin Aviation GmbH",
+            "ORG",
+            "Become_Member_Of",
+            "Thomas Cook Group Airlines PLC",
+            "ORG"
+        ],
+        [
+            "Thomas Cook Group Airlines PLC",
+            "ORG",
+            "Operate_In",
+            "German market",
+            "GPE"
+        ],
+        [
+            "Thomas Cook Group Airlines PLC",
+            "ORG",
+            "Impact",
+            "Increased demand",
+            "CONCEPT"
+        ],
+        [
+            "Thomas Cook Group Airlines PLC",
+            "ORG",
+            "Invest_In",
+            "Medium single-digit million euro amount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air Berlin",
+            "GPE",
+            "Sell",
+            "Major parts of its assets",
+            "CONCEPT"
+        ],
+        [
+            "Air Berlin",
+            "GPE",
+            "Sell",
+            "Britain\u2019s easyJet",
+            "ORG"
+        ]
+    ]
+}

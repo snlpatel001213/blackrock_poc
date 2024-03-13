@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Re-open",
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE"
+        ],
+        [
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE",
+            "Operate_In",
+            "Iranian Kurdistan region",
+            "GPE"
+        ],
+        [
+            "Iranian Kurdistan region",
+            "GPE",
+            "Participates_In",
+            "Iraqi Kurdistan region",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Re-open",
+            "by request of Iraqi government",
+            "ORG/GOV"
+        ],
+        [
+            "Iraqi government",
+            "ORG/GOV",
+            "Request",
+            "re-opening border crossings",
+            "ACT"
+        ]
+    ]
+}

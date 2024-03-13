@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Relate_To",
+            "Best Macro Environment",
+            "CONCEPT"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Relate_To",
+            "Fastest Pace Of Economic Activity",
+            "CONCEPT"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Relate_To",
+            "13 Years",
+            "TIME"
+        ],
+        [
+            "Earnings",
+            "ECON_INDICATOR",
+            "Expected_To_Grow",
+            "11.8 Percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Announce",
+            "Earnings Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "INDEX",
+            "Earnings_Growth",
+            "3 To 5 Percentage_Points",
+            "PERCENTAGE"
+        ],
+        [
+            "S&P 500",
+            "INDEX",
+            "Operate_In",
+            "All 11 Sectors",
+            "SECTOR"
+        ],
+        [
+            "All 11 Sectors",
+            "SECTOR",
+            "See",
+            "Earnings Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "All 11 Sectors",
+            "SECTOR",
+            "See",
+            "Revenue Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FactSet",
+            "ORG",
+            "Earnings_Tracker",
+            "John Butters",
+            "PERSON"
+        ],
+        [
+            "John Butters",
+            "PERSON",
+            "Say",
+            "Kind Of Move",
+            "CONCEPT"
+        ],
+        [
+            "Six Years",
+            "TIME",
+            "Has_Not_Seen",
+            "This Kind Of Move",
+            "CONCEPT"
+        ],
+        [
+            "Margins",
+            "ECON_INDICATOR",
+            "Expected_To_Remain",
+            "Near 10 Percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Risk",
+            "CONCEPT",
+            "To_Rally",
+            "Guidance Disappointment",
+            "CONCEPT"
+        ],
+        [
+            "Broader Risk",
+            "CONCEPT",
+            "To_Stocks",
+            "Not_From_Recession",
+            "CONCEPT"
+        ],
+        [
+            "Broader Risk",
+            "CONCEPT",
+            "To_Stocks",
+            "From_Risk_Fed_May_Hike_Rates_Quicker",
+            "CONCEPT"
+        ],
+        [
+            "Many Companies",
+            "ORG",
+            "Announce",
+            "One-Time_Charges",
+            "CONCEPT"
+        ],
+        [
+            "One-Time_Charges",
+            "CONCEPT",
+            "Due_To",
+            "Deferred Taxes",
+            "CONCEPT"
+        ],
+        [
+            "John Butters",
+            "PERSON",
+            "Expect",
+            "Companies_To_Remain_Positive",
+            "CONCEPT"
+        ],
+        [
+            "Rally",
+            "CONCEPT",
+            "Continue",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Analysts",
+            "ORG",
+            "Take_Up",
+            "Earnings_Estimates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Financials",
+            "SECTOR",
+            "Q1 2018",
+            "Estimates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy",
+            "SECTOR",
+            "Q1 2018",
+            "Estimates",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

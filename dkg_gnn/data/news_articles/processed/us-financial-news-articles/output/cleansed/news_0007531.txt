@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Has",
+            "FX Reserves",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "FX Reserves",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FX Reserves",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "September 2016",
+            "GPE"
+        ]
+    ]
+}

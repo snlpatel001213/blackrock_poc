@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "US STOCKS-Futures flat",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Caterpillar",
+            "COMP",
+            "Operate_In",
+            "Heavyweights",
+            "COMP"
+        ],
+        [
+            "Caterpillar",
+            "COMP",
+            "Positive_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Positive_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of America",
+            "COMP",
+            "Negative_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Negative_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Negative_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Negative_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nvidia",
+            "COMP",
+            "Positive_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Positive_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Pandora Media",
+            "COMP",
+            "Negative_Impact_On",
+            "Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "JP Morgan",
+            "COMP",
+            "Control",
+            "Tax overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Impact Biomedicines",
+            "COMP",
+            "Acquire",
+            "Celgene",
+            "COMP"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Relate_To",
+            "Nvidia",
+            "COMP"
+        ],
+        [
+            "Volkswagen",
+            "COMP",
+            "Relate_To",
+            "Nvidia",
+            "COMP"
+        ],
+        [
+            "Morgan Stanley",
+            "COMP",
+            "Impact",
+            "Pandora Media",
+            "COMP"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Relate_To",
+            "Interest rates",
+            "CONCEPT"
+        ],
+        [
+            "Raphael Bostic",
+            "PERSON",
+            "Participates_In",
+            "Monetary policy",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Participates_In",
+            "Monetary policy",
+            "CONCEPT"
+        ],
+        [
+            "Eric Rosengren",
+            "PERSON",
+            "Participates_In",
+            "Monetary policy",
+            "CONCEPT"
+        ]
+    ]
+}

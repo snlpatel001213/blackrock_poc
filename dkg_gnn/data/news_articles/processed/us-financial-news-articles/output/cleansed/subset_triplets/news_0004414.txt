@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Announce",
+            "Nicholas Low",
+            "PERSON"
+        ],
+        [
+            "Nicholas Low",
+            "PERSON",
+            "Operate_In",
+            "Asia Pacific region",
+            "GPE"
+        ],
+        [
+            "Nicholas Low",
+            "PERSON",
+            "Participates_In",
+            "Business Development",
+            "SECTOR"
+        ],
+        [
+            "Tod Besse",
+            "PERSON",
+            "Control",
+            "Sales and Marketing",
+            "SECTOR"
+        ],
+        [
+            "Tod Besse",
+            "PERSON",
+            "Positive_Impact_On",
+            "RF IDeas, Inc.",
+            "ORG"
+        ],
+        [
+            "Nick",
+            "PERSON",
+            "Has",
+            "22 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Produce",
+            "Employee Badge Readers",
+            "PRODUCT"
+        ],
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Relate_To",
+            "Authentication",
+            "CONCEPT"
+        ],
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Relate_To",
+            "Secure Printing",
+            "CONCEPT"
+        ],
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Relate_To",
+            "Single Sign-On",
+            "CONCEPT"
+        ],
+        [
+            "RF IDeas, Inc.",
+            "ORG",
+            "Relate_To",
+            "Attendance Tracking",
+            "CONCEPT"
+        ]
+    ]
+}

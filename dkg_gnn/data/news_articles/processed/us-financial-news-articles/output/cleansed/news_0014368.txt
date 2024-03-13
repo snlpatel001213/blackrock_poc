@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Joe Root",
+            "PERSON",
+            "Has",
+            "Severe Dehydration",
+            "CONCEPT"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Treated_In",
+            "Hospital",
+            "ORG/GOV"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Relate_To",
+            "Vomiting",
+            "CONCEPT"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Relate_To",
+            "Diarrhoea",
+            "CONCEPT"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Impact",
+            "England",
+            "ORG/GOV"
+        ],
+        [
+            "Moeen Ali",
+            "PERSON",
+            "Replace",
+            "Joe Root",
+            "PERSON"
+        ],
+        [
+            "Moeen Ali",
+            "PERSON",
+            "Operate_In",
+            "England",
+            "ORG/GOV"
+        ],
+        [
+            "Moeen Ali",
+            "PERSON",
+            "Bat",
+            "Crease",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "ORG/GOV",
+            "Battling",
+            "Save",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "ORG/GOV",
+            "Need",
+            "Another 210 Runs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "England",
+            "ORG/GOV",
+            "Operate_In",
+            "Fifth Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Win",
+            "Ashes",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Victory",
+            "First Three Tests",
+            "EVENT"
+        ]
+    ]
+}

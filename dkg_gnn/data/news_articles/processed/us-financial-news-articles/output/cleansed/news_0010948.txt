@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Foxconn",
+            "COMP",
+            "Post",
+            "T$675.1 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Operate_In",
+            "Taiwan",
+            "GPE"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Report",
+            "T$4.7 trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Foxconn",
+            "COMP",
+            "Is_Member_Of",
+            "Taiwan Stock Exchange",
+            "ORG"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Impact",
+            "Foxconn",
+            "COMP"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Possible",
+            "Below Expectations",
+            "CONCEPT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Relate_To",
+            "First Quarter 2018",
+            "TIME"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Possible",
+            "Significant Shipments",
+            "CONCEPT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Relate_To",
+            "March Quarter",
+            "TIME"
+        ]
+    ]
+}

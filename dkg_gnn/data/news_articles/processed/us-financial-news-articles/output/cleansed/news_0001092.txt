@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "United Technologies",
+            "COMP",
+            "Rise",
+            "1.2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Upgrade",
+            "United Technologies",
+            "COMP"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Industrial Market",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Aero Market",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Produce",
+            "Critical Components",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Has",
+            "Installed Bases",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Has",
+            "High Cost of Failure Products",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Produce",
+            "High-Margin Aftermarket Sales",
+            "CONCEPT"
+        ],
+        [
+            "Shares of United Technologies",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "1.2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Underperform",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Outperform",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Raise",
+            "$160",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RBC Analyst",
+            "PERSON",
+            "Note",
+            "Investments in Company Segments",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Patience",
+            "Pay Off",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Downgrade",
+            "Honeywell",
+            "COMP"
+        ]
+    ]
+}

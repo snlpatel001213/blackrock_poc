@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "FTSE 100",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "New High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesco",
+            "COMP",
+            "Fall",
+            "4.5 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marks and Spencer",
+            "COMP",
+            "Fall",
+            "7 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sainsbury\u2019s",
+            "COMP",
+            "Fall",
+            "2.1 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Fall",
+            "1.4 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Card Factory",
+            "COMP",
+            "Fall",
+            "20 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British builder Barratt",
+            "COMP",
+            "Fall",
+            "2.7 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taylor Wimpey",
+            "COMP",
+            "Fall",
+            "1.8 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Anglo American",
+            "COMP",
+            "Rise",
+            "3.6 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rio Tinto",
+            "COMP",
+            "Rise",
+            "1.9 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BHP Billiton",
+            "COMP",
+            "Rise",
+            "1.8 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Just Eat",
+            "COMP",
+            "Rise",
+            "4.7 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Rise",
+            "0.5 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Royal Dutch Shell",
+            "COMP",
+            "Rise",
+            "0.5 %",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

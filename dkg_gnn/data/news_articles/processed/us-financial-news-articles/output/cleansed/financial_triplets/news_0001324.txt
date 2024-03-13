@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Reformers",
+            "PERSON",
+            "Relate_To",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "American Enterprise Institute",
+            "ORG",
+            "Has",
+            "Michael Rubin",
+            "PERSON"
+        ],
+        [
+            "Michael Rubin",
+            "PERSON",
+            "Impact",
+            "Questions",
+            "CONCEPT"
+        ]
+    ]
+}

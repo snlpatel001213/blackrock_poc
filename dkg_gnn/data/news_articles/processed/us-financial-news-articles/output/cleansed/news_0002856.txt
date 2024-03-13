@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Asterias Biotherapeutics Inc",
+            "COMP",
+            "Has",
+            "$21.6 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asterias Biotherapeutics Inc",
+            "COMP",
+            "Intends_To_Relate_To",
+            "Next Study for AST-OPC1",
+            "EVENT"
+        ],
+        [
+            "Asterias Biotherapeutics Inc",
+            "COMP",
+            "Has_Sufficient_Resources",
+            "Operations",
+            "SECTOR"
+        ],
+        [
+            "Asterias Biotherapeutics Inc",
+            "COMP",
+            "Fund",
+            "Mid-2019",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Decrease",
+            "Intel Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Chip Security Worries",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Mobiles and Computers",
+            "COMP"
+        ],
+        [
+            "Mobiles and Computers",
+            "COMP",
+            "Vulnerable_To",
+            "Hacking",
+            "CONCEPT"
+        ]
+    ]
+}

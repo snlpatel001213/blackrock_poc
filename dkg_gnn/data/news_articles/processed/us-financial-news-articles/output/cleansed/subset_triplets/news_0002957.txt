@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Hargreaves Lansdown",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Bestinvest",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Standard Life Aberdeen",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Charles Stanley",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Interactive Investor",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "PRIIPs",
+            "CONCEPT",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Key Information Document (KID)",
+            "CONCEPT",
+            "Relate_To",
+            "each fund",
+            "PRODUCT"
+        ],
+        [
+            "MiFID II",
+            "CONCEPT",
+            "Introduce",
+            "on Jan. 3",
+            "EVENT"
+        ],
+        [
+            "MiFID II",
+            "CONCEPT",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "European regulator",
+            "ORG",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ]
+    ]
+}

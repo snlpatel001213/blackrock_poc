@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Tiffany & Co.",
+            "COMP",
+            "Introduce",
+            "Everyday Objects",
+            "PRODUCT"
+        ],
+        [
+            "Everyday Objects",
+            "PRODUCT",
+            "Operate_In",
+            "Tiffany & Co.",
+            "COMP"
+        ],
+        [
+            "Everyday Objects",
+            "PRODUCT",
+            "Sell_Out",
+            "Online",
+            "ORG"
+        ],
+        [
+            "Everyday Objects",
+            "PRODUCT",
+            "Impact",
+            "Consumer Response",
+            "CONCEPT"
+        ],
+        [
+            "Consumer Response",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Tiffany & Co. Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ed Yruma",
+            "PERSON",
+            "Raise",
+            "Stock 12-month Price Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ed Yruma",
+            "PERSON",
+            "Work_At",
+            "KeyBanc Capital Markets",
+            "ORG"
+        ],
+        [
+            "Tiffany & Co.",
+            "COMP",
+            "Has",
+            "Flagship New York Location",
+            "GPE"
+        ],
+        [
+            "Flagship New York Location",
+            "GPE",
+            "Impact",
+            "Foot Traffic",
+            "CONCEPT"
+        ],
+        [
+            "Analyst and Investor Confidence",
+            "CONCEPT",
+            "Shaken_By",
+            "Flat Same-store Sales",
+            "CONCEPT"
+        ],
+        [
+            "Tiffany & Co.",
+            "COMP",
+            "Remain",
+            "KeyBanc Best Ideas for 2018",
+            "EVENT"
+        ]
+    ]
+}

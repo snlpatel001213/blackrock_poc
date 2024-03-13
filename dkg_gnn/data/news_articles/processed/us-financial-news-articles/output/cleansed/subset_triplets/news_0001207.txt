@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Derek McCallister",
+            "PERSON",
+            "Relate_To",
+            "Lamborghini Jalpa",
+            "PRODUCT"
+        ],
+        [
+            "Derek McCallister",
+            "PERSON",
+            "Impact",
+            "Restore",
+            "CONCEPT"
+        ],
+        [
+            "Lamborghini Jalpa",
+            "PRODUCT",
+            "Has",
+            "V-8 engine",
+            "COMP"
+        ],
+        [
+            "Lamborghini",
+            "COMP",
+            "Control",
+            "Lamborghini Jalpa",
+            "PRODUCT"
+        ],
+        [
+            "Lamborghini",
+            "COMP",
+            "Announce",
+            "...",
+            "ORG"
+        ]
+    ]
+}

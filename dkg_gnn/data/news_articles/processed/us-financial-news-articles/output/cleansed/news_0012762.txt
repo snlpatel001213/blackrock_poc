@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "TSR Inc",
+            "COMP",
+            "Reports",
+            "Q2 Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TSR Inc",
+            "COMP",
+            "Reports",
+            "Q2 Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TSR Inc",
+            "COMP",
+            "Operate_In",
+            "Q2",
+            "TIME"
+        ],
+        [
+            "TSR Inc",
+            "COMP",
+            "Operate_In",
+            "November 30, 2017",
+            "DATE"
+        ],
+        [
+            "TSR Inc",
+            "COMP",
+            "Operate_In",
+            "Further company coverage",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Brainstorm Cell Therapeutics",
+            "PERSON",
+            "Receive",
+            "Good Manufacturing Practice Approval",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brainstorm Cell Therapeutics",
+            "PERSON",
+            "Operate_In",
+            "Israel Ministry of Health",
+            "ORG/GOV"
+        ],
+        [
+            "Brainstorm Cell Therapeutics",
+            "PERSON",
+            "Impact",
+            "Treatment of ALS Patients",
+            "EVENT"
+        ],
+        [
+            "Brainstorm Cell Therapeutics",
+            "PERSON",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Brainstorm Cell Therapeutics",
+            "PERSON",
+            "Control",
+            "Fee",
+            "CONCEPT"
+        ]
+    ]
+}

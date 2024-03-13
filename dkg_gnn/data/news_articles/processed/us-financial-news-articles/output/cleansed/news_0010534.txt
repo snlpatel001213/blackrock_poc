@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Expand",
+            "Takata Airbag Recall",
+            "EVENT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "File_For",
+            "Bankruptcy",
+            "EVENT"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "Produce",
+            "Airbags",
+            "PRODUCT"
+        ],
+        [
+            "Takata Corp",
+            "ORG",
+            "Relate_To",
+            "Metal Fragments",
+            "CONCEPT"
+        ],
+        [
+            "Airbags",
+            "PRODUCT",
+            "Impact",
+            "180 Injuries",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Airbags",
+            "PRODUCT",
+            "Impact",
+            "18 Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Include",
+            "Louisiana Death",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Philippines",
+            "GPE",
+            "Issue",
+            "Sovereign Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Finance",
+            "Budget",
+            "SECTOR"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Control",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Finance Secretary Carlos Dominguez",
+            "PERSON",
+            "Control",
+            "Finance",
+            "SECTOR"
+        ],
+        [
+            "Finance Secretary Carlos Dominguez",
+            "PERSON",
+            "Speak_At",
+            "News Conference",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Borrowing_Plan",
+            "Year",
+            "TEMPORAL"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Issue",
+            "Samurai Bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "National Treasurer Rosalia de Leon",
+            "PERSON",
+            "Speak",
+            "September",
+            "TEMPORAL"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Raise",
+            "Dollar",
+            "CURRENCY"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Help",
+            "Fund",
+            "SECTOR"
+        ],
+        [
+            "Philippine President Rodrigo Duterte",
+            "PERSON",
+            "Sign",
+            "Spending Plan",
+            "SECTOR"
+        ],
+        [
+            "Philippine President Rodrigo Duterte",
+            "PERSON",
+            "Promise",
+            "Golden Age of Infrastructure",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Raise",
+            "Annual Spending",
+            "SECTOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Modernize",
+            "Infrastructure",
+            "SECTOR"
+        ],
+        [
+            "Dominguez",
+            "PERSON",
+            "Submit",
+            "Tax Reform Packages",
+            "SECTOR"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Need",
+            "Fulfill",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Cover",
+            "Tax Changes",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Raise",
+            "State Coffers",
+            "SECTOR"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Make",
+            "Tax System",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Expand",
+            "Value Added Tax Base",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Lower",
+            "Personal Income Taxes",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Raise",
+            "Those on Petroleum Products",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "EVENT",
+            "Raise",
+            "Those on Automobiles",
+            "CONCEPT"
+        ],
+        [
+            "Dominguez",
+            "PERSON",
+            "Expect",
+            "Inflationary Impact",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Have",
+            "Inflation Target",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Have",
+            "2-4 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

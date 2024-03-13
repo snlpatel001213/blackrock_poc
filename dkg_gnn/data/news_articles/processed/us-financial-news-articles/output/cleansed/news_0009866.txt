@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Walk_Out_Of_Court",
+            "Federal Agents",
+            "ORG/GOV"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Relate_To",
+            "Cattle Grazing",
+            "CONCEPT"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Square_Off_Against",
+            "Federal Agents",
+            "ORG/GOV"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Cleared_Of_Criminal_Charges",
+            "null",
+            "null"
+        ],
+        [
+            "Prosecutors",
+            "ORG/GOV",
+            "Committed",
+            "Flagrant Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Case_Dismissed",
+            "Judge",
+            "ORG/GOV"
+        ],
+        [
+            "Cliven Bundy",
+            "PERSON",
+            "Spotlighted",
+            "Tensions",
+            "CONCEPT"
+        ],
+        [
+            "Western Ranchers",
+            "PERSON",
+            "Tensions",
+            "Federal Government",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "VGrass Fashion Co Ltd",
+            "COMP",
+            "Appoint",
+            "Piao Zhenggen",
+            "PERSON"
+        ],
+        [
+            "Piao Zhenggen",
+            "PERSON",
+            "Is_Member_Of",
+            "VGrass Fashion Co Ltd",
+            "COMP"
+        ]
+    ]
+}

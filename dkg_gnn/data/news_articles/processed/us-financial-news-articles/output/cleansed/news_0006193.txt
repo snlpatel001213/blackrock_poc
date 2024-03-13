@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Operate_In",
+            "Chicago, Illinois",
+            "GPE"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Approve",
+            "$15 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Conspire",
+            "Three other airlines",
+            "COMP"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Keep",
+            "Ticket prices high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Settle",
+            "Class-action lawsuit",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Not",
+            "Admission of wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Provide",
+            "Cash payment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Cooperate",
+            "Plaintiffs",
+            "PERSON"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Plan",
+            "Capacity",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Offer",
+            "Lowest fares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Control",
+            "Eighty percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Face",
+            "Reduced flight choices",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Violate",
+            "Federal antitrust laws",
+            "CONCEPT"
+        ],
+        [
+            "American Airlines",
+            "COMP",
+            "Deny",
+            "Illegal behavior",
+            "CONCEPT"
+        ],
+        [
+            "American Airlines",
+            "COMP",
+            "Defend",
+            "Claims",
+            "CONCEPT"
+        ],
+        [
+            "United Airlines",
+            "COMP",
+            "Issue",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "United Airlines",
+            "COMP",
+            "Not",
+            "Engage in illegal behavior",
+            "CONCEPT"
+        ],
+        [
+            "Delta Air Lines",
+            "COMP",
+            "Not",
+            "Engage in illegal behavior",
+            "CONCEPT"
+        ],
+        [
+            "Delta Air Lines",
+            "COMP",
+            "Offend",
+            "Assertion",
+            "CONCEPT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Investigate",
+            "Unlawful coordination",
+            "CONCEPT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Not",
+            "Find enough evidence",
+            "CONCEPT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Respond",
+            "Request for comment",
+            "CONCEPT"
+        ]
+    ]
+}

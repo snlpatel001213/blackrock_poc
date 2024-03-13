@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Top",
+            "25,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stocks",
+            "FIN_INSTRUMENT",
+            "Have_Record_Start",
+            "Year",
+            "TIME"
+        ],
+        [
+            "MUFG Union Bank",
+            "ORG",
+            "Give",
+            "Take",
+            "CONCEPT"
+        ]
+    ]
+}

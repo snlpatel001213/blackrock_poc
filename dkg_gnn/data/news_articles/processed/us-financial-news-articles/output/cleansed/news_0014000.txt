@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Virtus Investment Partners Inc",
+            "COMP",
+            "Report",
+            "Preliminary December 31, 2017 AUM",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Virtus Investment Partners Inc",
+            "COMP",
+            "Operate_In",
+            "Financial Services Sector",
+            "SECTOR"
+        ],
+        [
+            "Preliminary December 31, 2017 AUM",
+            "ECON_INDICATOR",
+            "Equal",
+            "$88.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Virtus Investment Partners Inc",
+            "COMP",
+            "Include",
+            "$2.1 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Preliminary Long-Term and Total AUM",
+            "ECON_INDICATOR",
+            "Equal",
+            "$91.0 Billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

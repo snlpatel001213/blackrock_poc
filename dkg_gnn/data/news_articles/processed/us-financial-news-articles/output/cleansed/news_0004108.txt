@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Announce",
+            "Investment banking fees at record high in 2017",
+            "EVENT"
+        ],
+        [
+            "Investment banking fees",
+            "ECON_INDICATOR",
+            "Raise",
+            "104 Billion Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Global advisors",
+            "ORG",
+            "Complain",
+            "Squeezed by regulatory requirements",
+            "CONCEPT"
+        ],
+        [
+            "Global advisors",
+            "ORG",
+            "Compete",
+            "Boutique players",
+            "ORG"
+        ],
+        [
+            "Investment banking fees for equity products",
+            "ECON_INDICATOR",
+            "Raise",
+            "41.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fees for bonds",
+            "ECON_INDICATOR",
+            "Raise",
+            "15%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Japan Post Holdings Co Ltd",
+            "COMP",
+            "Pay",
+            "382 Million Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Japanese SoftBank Group Corp",
+            "COMP",
+            "Pay",
+            "378 Million Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Experience",
+            "50% rise in total fees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Blackstone Group",
+            "COMP",
+            "Pay",
+            "679 Million Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "JP Morgan",
+            "COMP",
+            "Earn",
+            "6.7 Billion Dollars",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

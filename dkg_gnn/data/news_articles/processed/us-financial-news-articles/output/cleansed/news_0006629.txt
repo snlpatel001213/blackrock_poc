@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Extend",
+            "Sunday",
+            "GPE"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Impact",
+            "Quarter-finals",
+            "SECTOR"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Impact",
+            "Semi-finals",
+            "SECTOR"
+        ],
+        [
+            "Auckland Classic",
+            "EVENT",
+            "Impact",
+            "Final",
+            "SECTOR"
+        ],
+        [
+            "Heavy rain",
+            "CONCEPT",
+            "Prevent",
+            "Play",
+            "EVENT"
+        ],
+        [
+            "Play",
+            "EVENT",
+            "Postpone",
+            "Friday",
+            "GPE"
+        ],
+        [
+            "Play",
+            "EVENT",
+            "Postpone",
+            "Thursday",
+            "GPE"
+        ],
+        [
+            "Quarter-finals",
+            "SECTOR",
+            "Play",
+            "Saturday",
+            "GPE"
+        ],
+        [
+            "Semi-finals",
+            "SECTOR",
+            "Play",
+            "Saturday",
+            "GPE"
+        ],
+        [
+            "Final",
+            "SECTOR",
+            "Play",
+            "Sunday",
+            "GPE"
+        ],
+        [
+            "Barbora Strycova",
+            "PERSON",
+            "Square off",
+            "Hsieh Su-wei",
+            "PERSON"
+        ],
+        [
+            "Julia Goerges",
+            "PERSON",
+            "Play",
+            "Polona Hercog",
+            "PERSON"
+        ],
+        [
+            "Caroline Wozniacki",
+            "PERSON",
+            "Meet",
+            "Sofia Kenin",
+            "PERSON"
+        ],
+        [
+            "Agnieszka Radwasnka",
+            "PERSON",
+            "Face",
+            "Sachia Vickery",
+            "PERSON"
+        ]
+    ]
+}

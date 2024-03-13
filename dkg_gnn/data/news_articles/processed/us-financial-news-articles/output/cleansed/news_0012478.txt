@@ -1,0 +1,153 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Government Supporters",
+            "PERSON"
+        ],
+        [
+            "Government Supporters",
+            "PERSON",
+            "Swear",
+            "Allegiance",
+            "ORG"
+        ],
+        [
+            "Government Supporters",
+            "PERSON",
+            "Accuse",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Instigate",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Tehran\u2019s Friday Prayer Leader",
+            "PERSON",
+            "Call",
+            "Firm Punishment",
+            "CONCEPT"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Deal",
+            "Firmly",
+            "CONCEPT"
+        ],
+        [
+            "Those",
+            "PRON",
+            "Responsible",
+            "Igniting",
+            "EVENT"
+        ],
+        [
+            "Iranian Officials",
+            "ORG",
+            "Produce",
+            "No Evidence",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Role",
+            "Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Say",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Chant",
+            "Death to America",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Chant",
+            "Death to Israel",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Carry",
+            "Pictures",
+            "PERSON"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Wave",
+            "Iranian Flags",
+            "PRODUCT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Demand",
+            "Punishment",
+            "CONCEPT"
+        ],
+        [
+            "Hardline Khatami",
+            "PERSON",
+            "Say",
+            "Government",
+            "ORG"
+        ],
+        [
+            "Hardline Khatami",
+            "PERSON",
+            "Say",
+            "Resolve",
+            "CONCEPT"
+        ],
+        [
+            "Iran\u2019s Faction-Ridden Political Elite",
+            "ORG",
+            "Display",
+            "United Front",
+            "CONCEPT"
+        ],
+        [
+            "Khamenei",
+            "PERSON",
+            "Hardline Allies",
+            "Criticize",
+            "Rouhani",
+            "PERSON"
+        ],
+        [
+            "Rouhani",
+            "PERSON",
+            "Fail",
+            "Revive",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Many Iranians",
+            "PERSON",
+            "Hope",
+            "Better Economic Times",
+            "CONCEPT"
+        ]
+    ]
+}

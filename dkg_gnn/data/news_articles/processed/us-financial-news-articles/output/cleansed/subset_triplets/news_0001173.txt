@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Cargill Inc",
+            "COMP",
+            "Operate_In",
+            "Further Company Coverage",
+            "ORG"
+        ],
+        [
+            "Cargill Inc",
+            "COMP",
+            "Raise",
+            "Second-Quarter Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cargill Inc",
+            "COMP",
+            "Decrease",
+            "Net Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cargill Inc",
+            "COMP",
+            "Decrease",
+            "Quarterly Adjusted Operating Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pilot",
+            "EVENT",
+            "Relate_To",
+            "Fully Certified Beef Supply Chain",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Appliance Recycling Centers Of America Inc",
+            "COMP",
+            "Enter_Into",
+            "Stock Purchase Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Operate_In",
+            "Appliance Recycling Centers Of America Inc",
+            "COMP"
+        ],
+        [
+            "Unit Of Company",
+            "ORG",
+            "Enter_Into",
+            "Stock Purchase Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Unit Of Company",
+            "ORG",
+            "Is_Member_Of",
+            "Appliance Recycling Centers Of America Inc",
+            "COMP"
+        ],
+        [
+            "ApplianceSmart Holdings LLC",
+            "COMP",
+            "Participates_In",
+            "Stock Purchase Agreement",
+            "CONCEPT"
+        ],
+        [
+            "ApplianceSmart",
+            "COMP",
+            "Sold",
+            "All The Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ApplianceSmart Holdings LLC",
+            "COMP",
+            "Equal",
+            "$6.5 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Source Text",
+            "CONCEPT",
+            "Relate_To",
+            "Further Company Coverage",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Norges Bank",
+            "ORG/GOV",
+            "Control",
+            "5.28 Pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Norges Bank",
+            "ORG/GOV",
+            "Has",
+            "Passive Stake",
+            "CONCEPT"
+        ],
+        [
+            "Passive Stake",
+            "CONCEPT",
+            "Relate_To",
+            "Boston Properties Inc",
+            "COMP"
+        ]
+    ]
+}

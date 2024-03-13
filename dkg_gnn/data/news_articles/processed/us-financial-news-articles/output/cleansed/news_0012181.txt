@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Talks",
+            "EVENT",
+            "Relate_To",
+            "More Than Two Years",
+            "TEMPORAL"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Airbus A380",
+            "PRODUCT",
+            "Has",
+            "262-foot wingspan",
+            "CONCEPT"
+        ],
+        [
+            "FlightAware",
+            "ORG",
+            "Announce",
+            "96 diversions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FlightAware",
+            "ORG",
+            "Announce",
+            "More than 3,600 flights canceled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Singapore Airlines",
+            "COMP",
+            "Operate_In",
+            "International routes",
+            "SECTOR"
+        ]
+    ]
+}

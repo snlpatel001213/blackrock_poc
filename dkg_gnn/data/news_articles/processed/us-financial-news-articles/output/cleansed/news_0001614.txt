@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "New York",
+            "GPE",
+            "Has",
+            "Worst Quarter",
+            "EVENT"
+        ],
+        [
+            "New York Real Estate",
+            "SECTOR",
+            "Relate_To",
+            "Worst Quarter",
+            "EVENT"
+        ],
+        [
+            "Manhattan",
+            "GPE",
+            "Has",
+            "Real Estate Sales",
+            "SECTOR"
+        ],
+        [
+            "Manhattan",
+            "GPE",
+            "Has",
+            "Prices",
+            "CONCEPT"
+        ],
+        [
+            "Manhattan Real Estate Sales",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Prices",
+            "CONCEPT"
+        ],
+        [
+            "Manhattan",
+            "GPE",
+            "Has",
+            "Fourth Quarter",
+            "TIME"
+        ],
+        [
+            "Manhattan Real Estate Sales",
+            "SECTOR",
+            "Take_A_Fall",
+            "Fourth Quarter",
+            "TIME"
+        ],
+        [
+            "Prices",
+            "CONCEPT",
+            "Likely",
+            "Slide",
+            "VERB"
+        ],
+        [
+            "Prices",
+            "CONCEPT",
+            "Likely",
+            "Slide",
+            "TIME"
+        ]
+    ]
+}

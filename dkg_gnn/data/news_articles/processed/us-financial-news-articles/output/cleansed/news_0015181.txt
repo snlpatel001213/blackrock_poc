@@ -1,0 +1,167 @@
+{
+    "output": [
+        [
+            "Syrian rebels",
+            "PERSON",
+            "Declare",
+            "Counter Attack",
+            "EVENT"
+        ],
+        [
+            "Syrian rebels",
+            "PERSON",
+            "Participates_In",
+            "Idlib province",
+            "GPE"
+        ],
+        [
+            "Syrian government forces",
+            "ORG/GOV",
+            "Fighting",
+            "Rebels",
+            "PERSON"
+        ],
+        [
+            "Idlib province",
+            "GPE",
+            "Has",
+            "Biggest chunk of Syria held by rebels",
+            "CONCEPT"
+        ],
+        [
+            "Idlib province",
+            "GPE",
+            "Has",
+            "Swollen population by Syrians",
+            "PERSON"
+        ],
+        [
+            "President Bashar al-Assad",
+            "PERSON",
+            "Defeated",
+            "Rebels",
+            "PERSON"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Helped",
+            "Syrian government forces",
+            "ORG/GOV"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Helped",
+            "Syrian government forces",
+            "ORG/GOV"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Set up",
+            "Joint operations room",
+            "CONCEPT"
+        ],
+        [
+            "Free Syrian Army (FSA)",
+            "ORG",
+            "Participates_In",
+            "Counter Attack",
+            "EVENT"
+        ],
+        [
+            "Tahrir al-Sham (HTS)",
+            "ORG",
+            "Made",
+            "Gains",
+            "EVENT"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Captured",
+            "Some 15 villages",
+            "GPE"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Seized",
+            "60 government fighters",
+            "PERSON"
+        ],
+        [
+            "Syrian military source",
+            "PERSON",
+            "Denied",
+            "Rebel claims",
+            "CONCEPT"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Said",
+            "Warplanes struck Khan Sheikhoun and Saraqeb",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Deployed forces",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Setting up",
+            "Bases",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Said",
+            "Idlib offensive endangering conflict resolution effort",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Accused",
+            "Syrian government",
+            "ORG/GOV",
+            "of using pretext of fighting militants",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Concerned",
+            "Wider fighting in Idlib",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Concerned",
+            "Tens of thousands of Syrians fleeing",
+            "PERSON"
+        ],
+        [
+            "Syrians living in rebel-held areas",
+            "PERSON",
+            "See",
+            "Turkey\u2019s military intervention as bulwark",
+            "CONCEPT"
+        ],
+        [
+            "Syrian and Russian airforces",
+            "ORG",
+            "Blamed",
+            "Killing and injuring hundreds of civilians",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Mike Cagney",
+            "PERSON",
+            "Operate_In",
+            "Fintech sector",
+            "SECTOR"
+        ],
+        [
+            "Mike Cagney",
+            "PERSON",
+            "Is_Member_Of",
+            "SoFi",
+            "COMP"
+        ],
+        [
+            "SoFi",
+            "COMP",
+            "Has",
+            "Mike Cagney",
+            "PERSON"
+        ],
+        [
+            "Mike Cagney",
+            "PERSON",
+            "Introduce",
+            "New FinTech company",
+            "COMP"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Relate_To",
+            "Credit enablement space",
+            "SECTOR"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Produce",
+            "Blockchain, AI and advanced analytics",
+            "CONCEPT"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Impact",
+            "Consumer credit products",
+            "PRODUCT"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Positive_Impact_On",
+            "Financial lives of users",
+            "CONCEPT"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Operate_In",
+            "Downtown San Francisco",
+            "GPE"
+        ],
+        [
+            "New FinTech company",
+            "COMP",
+            "Operate_In",
+            "Bozeman, Montana",
+            "GPE"
+        ],
+        [
+            "Mike Cagney",
+            "PERSON",
+            "Has",
+            "Hedge fund",
+            "COMP"
+        ],
+        [
+            "SoFi",
+            "COMP",
+            "Negative_Impact_On",
+            "Company's core mission",
+            "CONCEPT"
+        ]
+    ]
+}

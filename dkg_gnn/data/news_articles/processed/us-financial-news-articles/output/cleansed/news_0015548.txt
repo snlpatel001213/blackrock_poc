@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Norwegian Petroleum Directorate (NPD)",
+            "ORG/REG",
+            "Impact",
+            "Norway's 2022 oil and gas output forecast",
+            "EVENT"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Operate_In",
+            "Norwegian oil and gas investments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Norwegian Petroleum Directorate (NPD)",
+            "ORG/REG",
+            "Announce",
+            "Norwegian oil and gas investments will begin to rise in 2018",
+            "EVENT"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Produce",
+            "oil and gas",
+            "PRODUCT"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Control",
+            "country\u2019s fields",
+            "COMP"
+        ],
+        [
+            "2022",
+            "TIME",
+            "Relate_To",
+            "Norway's 2022 oil and gas output forecast",
+            "EVENT"
+        ],
+        [
+            "2004",
+            "TIME",
+            "Relate_To",
+            "record levels",
+            "CONCEPT"
+        ],
+        [
+            "oil and gas",
+            "PRODUCT",
+            "Each",
+            "about half of production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Norwegian crowns",
+            "ECON_INDICATOR",
+            "Equal",
+            "$1",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

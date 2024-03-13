@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "U.S.",
+            "ORG/GOV"
+        ],
+        [
+            "No military drills",
+            "CONCEPT",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "South Korea\u2019s President Moon Jae-in",
+            "PERSON",
+            "Is_Member_Of",
+            "South Korea",
+            "GPE"
+        ]
+    ]
+}

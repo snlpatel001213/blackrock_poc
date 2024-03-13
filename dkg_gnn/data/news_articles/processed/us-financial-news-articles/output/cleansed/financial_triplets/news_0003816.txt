@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "GATX Corporation",
+            "ORG",
+            "Announce",
+            "2017 Fourth Quarter Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GATX Corporation",
+            "ORG",
+            "Operate_In",
+            "Chicago, Illinois",
+            "GPE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "GATX Corporation",
+            "ORG",
+            "Relate_To",
+            "GATX",
+            "COMP"
+        ]
+    ]
+}

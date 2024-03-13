@@ -1,0 +1,128 @@
+{
+    "output": [
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Announce",
+            "Allied acquisition",
+            "EVENT"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Operate_In",
+            "United States and Canada",
+            "GPE"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Control",
+            "Allied Building Products Corp.",
+            "COMP"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Raise",
+            "$7 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Has",
+            "589 branches",
+            "COMP"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Participates_In",
+            "Roofing and complementary building products distribution industry",
+            "SECTOR"
+        ],
+        [
+            "Allied Building Products Corp.",
+            "COMP",
+            "Operate_In",
+            "New York, New Jersey, Upper Midwest and other major U.S. markets",
+            "GPE"
+        ],
+        [
+            "Allied Building Products Corp.",
+            "COMP",
+            "Control",
+            "Interior business",
+            "SECTOR"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Impact",
+            "Interior market category",
+            "SECTOR"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Invests_In",
+            "Clayton, Dubilier & Rice",
+            "ORG"
+        ],
+        [
+            "Clayton, Dubilier & Rice",
+            "ORG",
+            "Invest",
+            "Beacon Roofing Supply, Inc.",
+            "COMP"
+        ],
+        [
+            "Clayton, Dubilier & Rice",
+            "ORG",
+            "Appoint",
+            "Nathan Sleeper",
+            "PERSON",
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Board_of_Directors",
+            "ORG"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Has",
+            "150 years",
+            "ECON_INDICATOR",
+            "Combined experience",
+            "CONCEPT"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Has",
+            "Dedicated and hard-working people",
+            "PERSON",
+            "Across both organizations",
+            "CONCEPT"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Expect",
+            "$110 million",
+            "ECON_INDICATOR",
+            "Annual run-rate synergies",
+            "CONCEPT"
+        ],
+        [
+            "Beacon Roofing Supply, Inc.",
+            "COMP",
+            "Expect",
+            "Synergies and cost savings",
+            "CONCEPT",
+            "Within two years of closing",
+            "CONCEPT"
+        ]
+    ]
+}

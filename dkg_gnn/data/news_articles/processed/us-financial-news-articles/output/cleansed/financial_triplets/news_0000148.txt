@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Negative_Impact_On",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Relate_To",
+            "Open Talks",
+            "CONCEPT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Relate_To",
+            "South",
+            "GPE"
+        ]
+    ]
+}

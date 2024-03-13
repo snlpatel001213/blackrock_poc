@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Propose",
+            "talks",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Suggest",
+            "January 15",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Deliver",
+            "document",
+            "CONCEPT"
+        ],
+        [
+            "South",
+            "GPE",
+            "Make",
+            "proposal",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participate",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Discuss",
+            "North\u2019s participation",
+            "CONCEPT"
+        ],
+        [
+            "International Olympic Committee",
+            "ORG",
+            "Host",
+            "talks",
+            "CONCEPT"
+        ],
+        [
+            "Seoul official",
+            "PERSON",
+            "Say",
+            "South made proposal",
+            "CONCEPT"
+        ],
+        [
+            "South",
+            "GPE",
+            "Form",
+            "united women\u2019s ice hockey team",
+            "CONCEPT"
+        ]
+    ]
+}

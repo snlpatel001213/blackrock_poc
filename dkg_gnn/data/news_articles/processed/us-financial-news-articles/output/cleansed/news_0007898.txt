@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "basket",
+            "CONCEPT"
+        ],
+        [
+            "basket",
+            "CONCEPT",
+            "Include",
+            "U.S. employment indicators",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. employment indicators",
+            "ECON_INDICATOR",
+            "Increase",
+            "in December",
+            "TIME"
+        ],
+        [
+            "Conference Board",
+            "ORG",
+            "Announce",
+            "report",
+            "EVENT"
+        ],
+        [
+            "report",
+            "EVENT",
+            "Say",
+            "employment trends index increased",
+            "ECON_INDICATOR"
+        ],
+        [
+            "employment trends index",
+            "ECON_INDICATOR",
+            "Increase",
+            "to 107.10",
+            "NUM"
+        ],
+        [
+            "November",
+            "TIME",
+            "Is_Member_Of",
+            "last year",
+            "TIME"
+        ],
+        [
+            "106.36",
+            "NUM",
+            "Is_Member_Of",
+            "last year",
+            "TIME"
+        ],
+        [
+            "December",
+            "TIME",
+            "Relate_To",
+            "107.10",
+            "NUM"
+        ],
+        [
+            "107.10",
+            "NUM",
+            "Relate_To",
+            "5.2%",
+            "NUM"
+        ],
+        [
+            "5.2%",
+            "NUM",
+            "Relate_To",
+            "a year ago",
+            "TIME"
+        ]
+    ]
+}

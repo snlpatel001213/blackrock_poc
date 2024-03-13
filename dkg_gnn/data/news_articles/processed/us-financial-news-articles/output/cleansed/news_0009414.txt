@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Students",
+            "PERSON",
+            "Seek",
+            "free money",
+            "CONCEPT"
+        ],
+        [
+            "free money",
+            "CONCEPT",
+            "Relate_To",
+            "grants and scholarships",
+            "CONCEPT"
+        ],
+        [
+            "grants and scholarships",
+            "CONCEPT",
+            "Available_For",
+            "college tuition bill",
+            "CONCEPT"
+        ],
+        [
+            "Experts",
+            "PERSON",
+            "Realize",
+            "extent",
+            "CONCEPT"
+        ],
+        [
+            "extent",
+            "CONCEPT",
+            "Relate_To",
+            "grants and scholarships",
+            "CONCEPT"
+        ],
+        [
+            "grants and scholarships",
+            "CONCEPT",
+            "Not",
+            "loans",
+            "CONCEPT"
+        ],
+        [
+            "loans",
+            "CONCEPT",
+            "Have_To",
+            "paid back",
+            "CONCEPT"
+        ],
+        [
+            "grants and scholarships",
+            "CONCEPT",
+            "Have",
+            "varying requirements",
+            "CONCEPT"
+        ]
+    ]
+}

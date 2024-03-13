@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Declare",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Operate_In",
+            "Columbus, Georgia",
+            "GPE"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Has",
+            "Approximately $32 billion in Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Provides",
+            "Commercial and Retail Banking, Investment, and Mortgage Services",
+            "SECTOR"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Has",
+            "250 Branches",
+            "SECTOR"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "Has",
+            "Subsidiary",
+            "COMP"
+        ],
+        [
+            "Synovus Bank",
+            "COMP",
+            "Recognized_As",
+            "Most Reputable Bank",
+            "CONCEPT"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "On",
+            "Twitter",
+            "CONCEPT"
+        ],
+        [
+            "Synovus Financial Corp.",
+            "ORG",
+            "On",
+            "LinkedIn",
+            "CONCEPT"
+        ]
+    ]
+}

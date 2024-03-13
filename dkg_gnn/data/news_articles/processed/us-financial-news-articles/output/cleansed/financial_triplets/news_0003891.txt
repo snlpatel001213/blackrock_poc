@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Operate_In",
+            "U.S. Figure Skating Championships",
+            "EVENT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Has",
+            "Best Chance",
+            "CONCEPT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Relate_To",
+            "American Gold",
+            "CONCEPT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Operate_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Impact",
+            "Selectors",
+            "ORG"
+        ],
+        [
+            "Nathan Chen",
+            "PERSON",
+            "Impact",
+            "Pyeongchang Games",
+            "EVENT"
+        ],
+        [
+            "Chris and Alexa Knierim",
+            "PERSON",
+            "Operate_In",
+            "U.S. Figure Skating Championships",
+            "EVENT"
+        ],
+        [
+            "Chris and Alexa Knierim",
+            "PERSON",
+            "Impact",
+            "U.S. Berth",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Figure Skating Championships",
+            "EVENT",
+            "Impact",
+            "Selectors",
+            "ORG"
+        ],
+        [
+            "U.S. Figure Skating Championships",
+            "EVENT",
+            "Impact",
+            "Pyeongchang Games",
+            "EVENT"
+        ]
+    ]
+}

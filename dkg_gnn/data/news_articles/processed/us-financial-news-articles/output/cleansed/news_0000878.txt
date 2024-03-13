@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Hope Bancorp, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hope Bancorp, Inc.",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Hope Bancorp, Inc.",
+            "ORG",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Hope Bancorp, Inc.",
+            "ORG",
+            "Produce",
+            "Press Release",
+            "DOCUMENT"
+        ],
+        [
+            "Bank of Hope",
+            "COMP",
+            "Is_Member_Of",
+            "Hope Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "Bank of Hope",
+            "COMP",
+            "Operate_In",
+            "Multiple GPEs",
+            "GPE"
+        ],
+        [
+            "Bank of Hope",
+            "COMP",
+            "Control",
+            "Total Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Hope",
+            "COMP",
+            "Specialize_In",
+            "Core Business Banking",
+            "CONCEPT"
+        ],
+        [
+            "Angie Yang",
+            "PERSON",
+            "Work_For",
+            "Hope Bancorp, Inc.",
+            "ORG"
+        ]
+    ]
+}

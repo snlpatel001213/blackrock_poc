@@ -1,0 +1,229 @@
+{
+    "output": [
+        [
+            "Toyota",
+            "GPE",
+            "Integrate",
+            "Amazon's Alexa",
+            "PRODUCT"
+        ],
+        [
+            "Toyota",
+            "GPE",
+            "Partner",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Toyota Connected",
+            "ORG",
+            "CEO",
+            "Zack Hicks",
+            "PERSON"
+        ],
+        [
+            "Toyota",
+            "GPE",
+            "Operate_In",
+            "Future Mobility",
+            "CONCEPT"
+        ],
+        [
+            "Alexa",
+            "PRODUCT",
+            "Impact_On",
+            "Toyota's Cars",
+            "COMP"
+        ],
+        [
+            "Toyota",
+            "GPE",
+            "Partner",
+            "Google Assistant",
+            "PRODUCT"
+        ],
+        [
+            "Toyota",
+            "GPE",
+            "Study",
+            "What Mobility Might Look Like",
+            "CONCEPT"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Partner",
+            "Postmates",
+            "COMP"
+        ],
+        [
+            "Ford Motor Co.",
+            "COMP",
+            "President",
+            "Jim Farley",
+            "PERSON"
+        ],
+        [
+            "Postmates",
+            "COMP",
+            "Operate_In",
+            "20 U.S. Cities",
+            "GPE"
+        ],
+        [
+            "Postmates",
+            "COMP",
+            "Have",
+            "150,000 Couriers",
+            "PERSON"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Announce",
+            "Partnership",
+            "EVENT",
+            "CES tech show",
+            "EVENT"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Known_For",
+            "Dearth_Of_Women",
+            "CONCEPT"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Have",
+            "15 Keynote Speakers",
+            "PERSON"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Have",
+            "900 Total Speakers",
+            "PERSON"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Have",
+            "242 Women Speakers",
+            "PERSON"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Organizer",
+            "Consumer Technology Association",
+            "ORG"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Have",
+            "20 Percent Women Attendees",
+            "PERSON"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Organizer",
+            "Gina Glantz",
+            "PERSON"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Group",
+            "Gender Avenger",
+            "ORG"
+        ],
+        [
+            "CES",
+            "EVENT",
+            "Will",
+            "Redouble Efforts",
+            "CONCEPT",
+            "Add Women's Voices",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "State Governors",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "President Donald Trump's Cabinet",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Prince Constantijn",
+            "PERSON",
+            "Lead",
+            "Dutch Startups",
+            "ORG"
+        ],
+        [
+            "Dutch Startups",
+            "ORG",
+            "Promote",
+            "More Than 50",
+            "NUM"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Delegation",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "France",
+            "GPE",
+            "Delegation",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Federal Communications Commission",
+            "ORG/GOV",
+            "Chairman",
+            "Ajit Pai",
+            "PERSON"
+        ],
+        [
+            "Federal Communications Commission",
+            "ORG/GOV",
+            "Skip",
+            "CES",
+            "EVENT"
+        ],
+        [
+            "Reports",
+            "ORG",
+            "Say",
+            "Death Threats",
+            "EVENT"
+        ],
+        [
+            "Federal Communications Commission",
+            "ORG/GOV",
+            "Roll_Back",
+            "Rules",
+            "CONCEPT",
+            "Equal Access",
+            "CONCEPT",
+            "Internet",
+            "CONCEPT"
+        ]
+    ]
+}

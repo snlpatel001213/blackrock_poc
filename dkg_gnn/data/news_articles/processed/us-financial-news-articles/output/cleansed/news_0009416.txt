@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Thousands of Belgians",
+            "GPE",
+            "Participates_In",
+            "New Year\u2019s plunge",
+            "EVENT"
+        ],
+        [
+            "New Year\u2019s plunge",
+            "EVENT",
+            "Locate_In",
+            "Ostend",
+            "GPE"
+        ],
+        [
+            "Ostend",
+            "GPE",
+            "Feature_Of",
+            "Royal Galleries",
+            "ORG"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Swim_In",
+            "North Sea",
+            "GPE"
+        ],
+        [
+            "Organizers",
+            "PERSON",
+            "Announce",
+            "27th edition",
+            "EVENT"
+        ],
+        [
+            "Joris",
+            "PERSON",
+            "Wear",
+            "caveman outfit",
+            "PRODUCT"
+        ],
+        [
+            "Jordy Velders",
+            "PERSON",
+            "Come_From",
+            "Lokeren",
+            "GPE"
+        ],
+        [
+            "Jordy Velders",
+            "PERSON",
+            "Dress_Up_As",
+            "penguin",
+            "PRODUCT"
+        ],
+        [
+            "New Year\u2019s plunge",
+            "EVENT",
+            "Follow",
+            "exceptionally cold 2017 edition",
+            "EVENT"
+        ]
+    ]
+}

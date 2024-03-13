@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "JD Higginbotham",
+            "PERSON",
+            "Has",
+            "PC",
+            "PRODUCT"
+        ],
+        [
+            "JD Higginbotham",
+            "PERSON",
+            "Has",
+            "Home Internet Connection",
+            "PRODUCT"
+        ],
+        [
+            "JD Higginbotham",
+            "PERSON",
+            "Impact",
+            "Esports",
+            "EVENT"
+        ],
+        [
+            "Matthew",
+            "PERSON",
+            "Has",
+            "PC",
+            "PRODUCT"
+        ],
+        [
+            "Matthew",
+            "PERSON",
+            "Participates_In",
+            "Esports",
+            "EVENT"
+        ],
+        [
+            "Esports",
+            "EVENT",
+            "Relate_To",
+            "Digital Athlete",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Declare",
+            "Major Disaster",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Declare",
+            "Major Disaster",
+            "ORG/GOV"
+        ],
+        [
+            "California",
+            "GPE",
+            "Recover",
+            "Thomas Fire",
+            "EVENT"
+        ],
+        [
+            "Thomas Fire",
+            "EVENT",
+            "Largest",
+            "Recorded Fire",
+            "EVENT"
+        ],
+        [
+            "Thomas Fire",
+            "EVENT",
+            "In",
+            "California",
+            "GPE"
+        ]
+    ]
+}

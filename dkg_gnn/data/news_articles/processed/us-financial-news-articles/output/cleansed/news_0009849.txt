@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Danish Researchers",
+            "PERSON",
+            "Develop",
+            "Algorithm-based Sensors",
+            "CONCEPT"
+        ],
+        [
+            "Algorithm-based Sensors",
+            "CONCEPT",
+            "Operate_In",
+            "24/7 Post-op Monitoring",
+            "CONCEPT"
+        ],
+        [
+            "Existing Sensors",
+            "COMP",
+            "Work_In_Conjunction_With",
+            "Algorithm-based Sensors",
+            "CONCEPT"
+        ],
+        [
+            "Existing Sensors",
+            "COMP",
+            "Monitor",
+            "Vital Signs",
+            "CONCEPT"
+        ],
+        [
+            "Cancer Patients",
+            "PERSON",
+            "Undergo",
+            "Surgery",
+            "CONCEPT"
+        ]
+    ]
+}

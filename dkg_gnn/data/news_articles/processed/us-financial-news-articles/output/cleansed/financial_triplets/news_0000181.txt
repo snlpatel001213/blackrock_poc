@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Announce",
+            "William D. Davis II",
+            "PERSON"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Has",
+            "Daryl Lansdale",
+            "PERSON"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Has",
+            "Gene Lewis",
+            "PERSON"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "Norton Rose Fulbright",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ]
+    ]
+}

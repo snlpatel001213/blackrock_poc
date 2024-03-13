@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "WEF",
+            "ORG",
+            "Is_Member_Of",
+            "The World Economic Forum",
+            "ORG"
+        ],
+        [
+            "Klaus Schwab",
+            "PERSON",
+            "Founder",
+            "WEF",
+            "ORG"
+        ],
+        [
+            "The World Economic Forum",
+            "ORG",
+            "Located_In",
+            "Davos",
+            "GPE"
+        ],
+        [
+            "Klaus Schwab",
+            "PERSON",
+            "Talks_With",
+            "Gerard Baker",
+            "PERSON"
+        ],
+        [
+            "Gerard Baker",
+            "PERSON",
+            "Editor",
+            "WSJ",
+            "ORG"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Publishes",
+            "Article",
+            "PRODUCT"
+        ]
+    ]
+}

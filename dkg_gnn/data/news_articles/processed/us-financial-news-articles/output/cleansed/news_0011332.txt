@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "Danish Prosecutors",
+            "ORG/GOV",
+            "Charge",
+            "Submarine Killing",
+            "EVENT"
+        ],
+        [
+            "Danish Inventor",
+            "PERSON",
+            "Relate_To",
+            "Submarine Killing",
+            "EVENT"
+        ],
+        [
+            "Swedish Journalist",
+            "PERSON",
+            "Victim_Of",
+            "Submarine Killing",
+            "EVENT"
+        ],
+        [
+            "Danish Inventor",
+            "PERSON",
+            "Face",
+            "Life In Prison",
+            "CONCEPT"
+        ],
+        [
+            "Danish Prosecutors",
+            "ORG/GOV",
+            "Charge",
+            "Danish Inventor",
+            "PERSON",
+            "With",
+            "Murder",
+            "CONCEPT"
+        ],
+        [
+            "Danish Inventor",
+            "PERSON",
+            "Previously_Charged",
+            "Involuntary Manslaughter",
+            "CONCEPT"
+        ]
+    ]
+}

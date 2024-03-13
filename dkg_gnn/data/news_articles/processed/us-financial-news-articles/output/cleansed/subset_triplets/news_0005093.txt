@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "Storm",
+            "EVENT",
+            "Impact",
+            "Retailers",
+            "ORG"
+        ],
+        [
+            "Retailers",
+            "ORG",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Kurt Salmon, part of Accenture Strategy",
+            "ORG",
+            "Is_Member_Of",
+            "Accenture Strategy",
+            "ORG"
+        ],
+        [
+            "Bain",
+            "ORG",
+            "Has",
+            "Retail Practice",
+            "SECTOR"
+        ],
+        [
+            "Weather",
+            "EVENT",
+            "Impact",
+            "Retailers",
+            "ORG"
+        ],
+        [
+            "Bain",
+            "ORG",
+            "Has",
+            "Partner",
+            "PERSON"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Has",
+            "Potential",
+            "CONCEPT",
+            "To",
+            "Undo",
+            "O",
+            "Customer Goodwill",
+            "CONCEPT"
+        ]
+    ]
+}

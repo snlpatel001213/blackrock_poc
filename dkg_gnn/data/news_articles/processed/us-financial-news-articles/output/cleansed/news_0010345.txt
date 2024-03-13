@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Apple",
+            "COMP",
+            "Produce",
+            "iOS 11.2.2",
+            "PRODUCT"
+        ],
+        [
+            "iOS 11.2.2",
+            "PRODUCT",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "iOS 11.2.2",
+            "PRODUCT",
+            "Relate_To",
+            "Meltdown Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "iOS 11.2.2",
+            "PRODUCT",
+            "Relate_To",
+            "Spectre Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "iPhone 5S",
+            "COMP",
+            "Control",
+            "iOS 11.2.2",
+            "PRODUCT"
+        ],
+        [
+            "iPad Air",
+            "COMP",
+            "Control",
+            "iOS 11.2.2",
+            "PRODUCT"
+        ],
+        [
+            "iOS 11.2.2",
+            "PRODUCT",
+            "Participates_In",
+            "Security Patch",
+            "PRODUCT"
+        ],
+        [
+            "Security Patch",
+            "PRODUCT",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Security Patch",
+            "PRODUCT",
+            "Relate_To",
+            "Spectre Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Security Patch",
+            "PRODUCT",
+            "Relate_To",
+            "Meltdown Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Spectre Vulnerability",
+            "CONCEPT",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown Vulnerability",
+            "CONCEPT",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Security",
+            "CONCEPT",
+            "Control",
+            "Spectre Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Security",
+            "CONCEPT",
+            "Control",
+            "Meltdown Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Security",
+            "CONCEPT",
+            "Control",
+            "Security Patch",
+            "PRODUCT"
+        ],
+        [
+            "Security",
+            "CONCEPT",
+            "Control",
+            "iOS 11.2.2",
+            "PRODUCT"
+        ]
+    ]
+}

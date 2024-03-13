@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "David Tepper",
+            "PERSON",
+            "Explain",
+            "Bull Market",
+            "CONCEPT"
+        ],
+        [
+            "David Tepper",
+            "PERSON",
+            "Explain",
+            "Market Expensiveness",
+            "CONCEPT"
+        ],
+        [
+            "David Tepper",
+            "PERSON",
+            "Told",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Bull Market",
+            "CONCEPT",
+            "Still Has",
+            "Room To Grow",
+            "CONCEPT"
+        ],
+        [
+            "Tax Thing",
+            "CONCEPT",
+            "Changed",
+            "Earnings Projections",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Signed",
+            "Tax Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Tax Overhaul",
+            "CONCEPT",
+            "Lowers",
+            "Corporate Tax Rate",
+            "CONCEPT"
+        ],
+        [
+            "Corporate Tax Rate",
+            "CONCEPT",
+            "Lowered To",
+            "21 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corporate Tax Rate",
+            "CONCEPT",
+            "Was",
+            "35 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Billionaire Investor",
+            "PERSON",
+            "Comments",
+            "Market Nearly As Inexpensive",
+            "CONCEPT"
+        ],
+        [
+            "Beginning Of 2017",
+            "TIME",
+            "As",
+            "Coming Into",
+            "TIME"
+        ],
+        [
+            "S&P 500",
+            "COMP",
+            "Rallied",
+            "19 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Can Not Go Down",
+            "Until",
+            "CONCEPT"
+        ],
+        [
+            "Bond Market",
+            "COMP",
+            "Gets Hit",
+            "Interest Rates",
+            "CONCEPT"
+        ],
+        [
+            "Interest Rates",
+            "CONCEPT",
+            "Are",
+            "Amazing",
+            "CONCEPT"
+        ],
+        [
+            "Appaloosa Management",
+            "ORG",
+            "Managed",
+            "$17 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "As Of March",
+            "TIME",
+            "Managed",
+            "$17 Billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

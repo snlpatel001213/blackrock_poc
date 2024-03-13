@@ -1,0 +1,43 @@
+{
+    "output": [
+        [
+            "Randi Kaye",
+            "PERSON",
+            "Participates_In",
+            "Pot & Puff Party",
+            "EVENT"
+        ],
+        [
+            "CNN",
+            "ORG",
+            "Has",
+            "Reporter",
+            "PERSON"
+        ],
+        [
+            "CNN",
+            "ORG",
+            "Relate_To",
+            "Marijuana Legalization",
+            "CONCEPT"
+        ],
+        [
+            "CNN",
+            "ORG",
+            "Has",
+            "News",
+            "SECTOR"
+        ],
+        [
+            "CNN",
+            "ORG",
+            "Has",
+            "Previous",
+            "CONCEPT",
+            "Investigation",
+            "INTO",
+            "Marijuana",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Balloon Crash",
+            "EVENT"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Operate_In",
+            "Tourism Industry",
+            "SECTOR"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Has",
+            "Political Turmoil",
+            "EVENT"
+        ],
+        [
+            "Civil Aviation Authority",
+            "ORG",
+            "Announce",
+            "Balloon Deviation",
+            "EVENT"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Historic Sites",
+            "GPE"
+        ],
+        [
+            "Luxor",
+            "GPE",
+            "Has",
+            "Hot Air Balloon Crash",
+            "EVENT"
+        ]
+    ]
+}

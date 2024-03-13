@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Russia\u2019s defense ministry",
+            "ORG/GOV",
+            "Investigate",
+            "Explosives",
+            "CONCEPT"
+        ],
+        [
+            "Explosives",
+            "CONCEPT",
+            "Produce",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Include",
+            "Ukraine",
+            "GPE"
+        ],
+        [
+            "Drone attacks",
+            "EVENT",
+            "Occur_In",
+            "Russian bases",
+            "COMP"
+        ],
+        [
+            "Russian bases",
+            "COMP",
+            "Located_In",
+            "Syria",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Has",
+            "Security_Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Operate_In",
+            "Chip_Industry",
+            "SECTOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Data_Center",
+            "SECTOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Positive_Impact_On",
+            "Business",
+            "SECTOR"
+        ]
+    ]
+}

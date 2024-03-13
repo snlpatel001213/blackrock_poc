@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Announce",
+            "Results for the First Quarter Fiscal 2018",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG/EXCH"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Steven H. Collis",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Tim G. Guttman",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Has",
+            "Dial-in Number",
+            "NUM"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Has",
+            "Access Code",
+            "NUM"
+        ],
+        [
+            "Call",
+            "EVENT",
+            "Webcast_Via",
+            "Company\u2019s Website",
+            "COMP"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Relate_To",
+            "Company\u2019s Website",
+            "COMP"
+        ],
+        [
+            "Replays",
+            "EVENT",
+            "Available_Via",
+            "Telephone",
+            "COMP"
+        ],
+        [
+            "Replays",
+            "EVENT",
+            "Available_Via",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Provide",
+            "Pharmaceutical Products",
+            "PRODUCT"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Provide",
+            "Value-driving Services",
+            "SERVICE"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Provide",
+            "Business Solutions",
+            "SERVICE"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Improve",
+            "Access to Care",
+            "CONCEPT"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Trust",
+            "Healthcare Providers",
+            "SECTOR"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Trust",
+            "Veterinary Practices",
+            "SECTOR"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Trust",
+            "Livestock Producers",
+            "SECTOR"
+        ],
+        [
+            "Global Manufacturers",
+            "SECTOR",
+            "Depend",
+            "AmerisourceBergen Corporation",
+            "ORG"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Headquartered",
+            "Valley Forge, Pa.",
+            "GPE"
+        ],
+        [
+            "AmerisourceBergen Corporation",
+            "ORG",
+            "Have",
+            "Presence",
+            "NUM"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Ranked",
+            "#11",
+            "NUM"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Have",
+            "More than $150 billion",
+            "NUM"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Have",
+            "Annual Revenue",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

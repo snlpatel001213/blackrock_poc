@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Animals",
+            "CONCEPT",
+            "Impact",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Fish",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Iguanas",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Manatees",
+            "CONCEPT",
+            "Relate_To",
+            "Warmer Water",
+            "CONCEPT"
+        ],
+        [
+            "Sea Turtles",
+            "CONCEPT",
+            "Relate_To",
+            "Frigid Water",
+            "CONCEPT"
+        ]
+    ]
+}

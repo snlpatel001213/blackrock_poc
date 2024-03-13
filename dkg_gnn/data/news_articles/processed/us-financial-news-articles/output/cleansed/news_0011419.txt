@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Baltimore",
+            "GPE",
+            "Has",
+            "Record-high Homicide Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baltimore",
+            "GPE",
+            "One_Of",
+            "Highest Homicide Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baltimore",
+            "GPE",
+            "Tied_To",
+            "Decisions 2015",
+            "TIME"
+        ],
+        [
+            "Local Authorities",
+            "ORG/GOV",
+            "Cut_Back",
+            "Policing",
+            "CONCEPT"
+        ],
+        [
+            "Local Authorities",
+            "ORG/GOV",
+            "Cut_Back",
+            "Prosecution",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Deputy Attorney General",
+            "ORG/REG",
+            "Rod Rosenstein",
+            "PERSON",
+            "Said",
+            "Monday",
+            "TIME"
+        ],
+        [
+            "Local Authorities",
+            "ORG/GOV",
+            "Jointly_Targeted",
+            "Gangs",
+            "CONCEPT"
+        ],
+        [
+            "Local Authorities",
+            "ORG/GOV",
+            "Secured",
+            "Long Prison Terms",
+            "CONCEPT",
+            "For",
+            "Armed Criminals",
+            "PERSON"
+        ],
+        [
+            "Rod Rosenstein",
+            "PERSON",
+            "Credited",
+            "That Strategy",
+            "CONCEPT",
+            "For",
+            "Keeping"
+        ]
+    ]
+}

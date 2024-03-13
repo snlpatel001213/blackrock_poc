@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jay Leno",
+            "PERSON",
+            "Explain",
+            "1916 Autocar",
+            "PRODUCT"
+        ],
+        [
+            "1916 Autocar",
+            "PRODUCT",
+            "Relate_To",
+            "Winter",
+            "EVENT"
+        ],
+        [
+            "1916 Autocar",
+            "PRODUCT",
+            "Have",
+            "Hand Crank",
+            "CONCEPT"
+        ],
+        [
+            "1916 Autocar",
+            "PRODUCT",
+            "Have",
+            "Top Speed of 22 Miles Per Hour",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Pyeongchang Winter Games",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Pyeongchang Winter Games",
+            "EVENT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Consider",
+            "Joint Koreas parade",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Discuss",
+            "Combined Korean women\u2019s ice hockey team",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Host",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Large delegation",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Strike",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Compete",
+            "As single nation",
+            "CONCEPT"
+        ],
+        [
+            "OCA",
+            "ORG",
+            "Look forward",
+            "Seeing flags of two Koreas",
+            "CONCEPT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Wage",
+            "War of words",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Wage",
+            "War of words",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Extend",
+            "Deadline for North Korean athletes",
+            "CONCEPT"
+        ]
+    ]
+}

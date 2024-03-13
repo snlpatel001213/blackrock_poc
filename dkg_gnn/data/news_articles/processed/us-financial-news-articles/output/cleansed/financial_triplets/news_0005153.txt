@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Gay Singaporean doctor",
+            "PERSON",
+            "Is_Member_Of",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Gay Singaporean doctor",
+            "PERSON",
+            "Participates_In",
+            "Adoption",
+            "EVENT"
+        ],
+        [
+            "Gay Singaporean doctor",
+            "PERSON",
+            "Has",
+            "Biological Son",
+            "PERSON"
+        ]
+    ]
+}

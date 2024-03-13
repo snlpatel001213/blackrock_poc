@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Global stock markets",
+            "FIN_INSTRUMENT",
+            "Smash",
+            "Record",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Release",
+            "December minutes",
+            "EVENT"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Hardly appear",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "FOMC thinking",
+            "CONCEPT",
+            "Loom",
+            "Large",
+            "EVENT"
+        ],
+        [
+            "US central banker",
+            "PERSON",
+            "Appear",
+            "null",
+            "null"
+        ],
+        [
+            "David Pollard",
+            "PERSON",
+            "Reports",
+            "null",
+            "null"
+        ]
+    ]
+}

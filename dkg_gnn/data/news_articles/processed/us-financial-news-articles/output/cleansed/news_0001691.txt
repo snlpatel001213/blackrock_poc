@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S. stock futures",
+            "FIN_INSTRUMENT",
+            "Mixed",
+            null,
+            "NONE"
+        ],
+        [
+            "Dow",
+            "ECON_INDICATOR",
+            "Best Year",
+            null,
+            "NONE"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Best Year",
+            null,
+            "NONE"
+        ],
+        [
+            "Nasdaq",
+            "ECON_INDICATOR",
+            "Best Year",
+            null,
+            "NONE"
+        ],
+        [
+            "Dow",
+            "ECON_INDICATOR",
+            "Four Years",
+            null,
+            "NONE"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Four Years",
+            null,
+            "NONE"
+        ],
+        [
+            "Nasdaq",
+            "ECON_INDICATOR",
+            "Four Years",
+            null,
+            "NONE"
+        ]
+    ]
+}

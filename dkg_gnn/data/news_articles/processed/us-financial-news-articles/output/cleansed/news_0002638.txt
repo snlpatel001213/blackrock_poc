@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Break",
+            "25000",
+            "GPE"
+        ],
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "152",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Electric",
+            "COMP",
+            "Rise",
+            "2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "DowDuPont",
+            "COMP",
+            "Rise",
+            "2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Merck",
+            "COMP",
+            "Rise",
+            "2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IBM",
+            "COMP",
+            "Rise",
+            "2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow Jones industrial average",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Underlying Strength",
+            "CONCEPT"
+        ],
+        [
+            "US Private Sector",
+            "SECTOR",
+            "Add",
+            "250000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Report",
+            "US Private Sector Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Moody's Analytics",
+            "ORG",
+            "Report",
+            "US Private Sector Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Expect",
+            "190000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Treasury Yields",
+            "FIN_INSTRUMENT",
+            "Move Higher",
+            null,
+            null
+        ],
+        [
+            "10-year Yield",
+            "FIN_INSTRUMENT",
+            "Trade",
+            "2.46",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-year Yield",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "1.96",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peter Boockvar",
+            "PERSON",
+            "Chief Investment Officer",
+            "Bleakley Financial Group",
+            "ORG"
+        ],
+        [
+            "Brendan McDermid",
+            "PERSON",
+            "Photographer",
+            null,
+            null
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Release",
+            "Economic Data",
+            "CONCEPT"
+        ],
+        [
+            "NYSE",
+            "ORG",
+            "Traders",
+            "Celebrate",
+            null
+        ],
+        [
+            "IHS Markit",
+            "ORG",
+            "Release",
+            "Services PMI",
+            "CONCEPT"
+        ],
+        [
+            "Labor Department",
+            "ORG/GOV",
+            "Release",
+            "Monthly Jobs Report",
+            "CONCEPT"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Complete",
+            "Best Two-day Start",
+            "CONCEPT"
+        ],
+        [
+            "Major Indexes",
+            "SECTOR",
+            "Notch",
+            "Record Highs",
+            "CONCEPT"
+        ],
+        [
+            "Stocks",
+            "SECTOR",
+            "Rise",
+            "At Least 19.4",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marc Chaikin",
+            "PERSON",
+            "CEO",
+            "Chaikin Analytics",
+            "ORG"
+        ],
+        [
+            "Tesla",
+            "COMP",
+            "Release",
+            "Fourth-quarter Auto Delivery Numbers",
+            "CONCEPT"
+        ],
+        [
+            "Tesla",
+            "COMP",
+            "Trade",
+            "1.1",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

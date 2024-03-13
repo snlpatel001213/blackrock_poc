@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "FLOW TRADERS NV",
+            "ORG",
+            "Receive",
+            "License",
+            "ORG/REG"
+        ],
+        [
+            "License",
+            "ORG/REG",
+            "Required",
+            "Exchange Participant",
+            "ORG/GOV"
+        ],
+        [
+            "Flow Traders Hong Kong",
+            "ORG",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Flow Traders Hong Kong",
+            "ORG",
+            "Act_As",
+            "Market Maker",
+            "ORG/REG"
+        ],
+        [
+            "Flow Traders Hong Kong",
+            "ORG",
+            "Provide",
+            "Liquidity",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Hong Kong Stock Exchange",
+            "ORG/GOV",
+            "Include",
+            "ETFs",
+            "PRODUCT"
+        ],
+        [
+            "Hong Kong Stock Exchange",
+            "ORG/GOV",
+            "Include",
+            "Futures",
+            "PRODUCT"
+        ]
+    ]
+}

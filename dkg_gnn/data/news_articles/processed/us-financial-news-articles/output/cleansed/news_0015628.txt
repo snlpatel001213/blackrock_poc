@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Cogint, Inc.",
+            "COMP",
+            "Announce",
+            "David Drake",
+            "PERSON"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Control",
+            "LDJ Capital",
+            "ORG"
+        ],
+        [
+            "LDJ Capital",
+            "ORG",
+            "Has",
+            "$1.5 trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Participates_In",
+            "Blockchain",
+            "CONCEPT"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Participates_In",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Participates_In",
+            "Initial Coin Offering",
+            "CONCEPT"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Relate_To",
+            "Jumpstart Our Business Startups Act",
+            "CONCEPT"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Relate_To",
+            "ICOs",
+            "CONCEPT"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Produce",
+            "Cryptocurrency Hedge Funds",
+            "COMP"
+        ],
+        [
+            "Cogint, Inc.",
+            "COMP",
+            "Operate_In",
+            "Blockchain Division",
+            "COMP"
+        ],
+        [
+            "Cogint, Inc.",
+            "COMP",
+            "Operate_In",
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Is_Member_Of",
+            "Strategic Advisory Board",
+            "COMP"
+        ],
+        [
+            "David Drake",
+            "PERSON",
+            "Is_Member_Of",
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP"
+        ],
+        [
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP",
+            "Impact",
+            "Blockchain Landscape",
+            "CONCEPT"
+        ],
+        [
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP",
+            "Impact",
+            "Identity Verification",
+            "CONCEPT"
+        ],
+        [
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP",
+            "Impact",
+            "Know Your Customer Solutions",
+            "CONCEPT"
+        ],
+        [
+            "Red Violet Blockchain and Analytical Solutions",
+            "COMP",
+            "Impact",
+            "Analytical Capabilities",
+            "CONCEPT"
+        ]
+    ]
+}

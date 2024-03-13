@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "One Trader",
+            "PERSON",
+            "Invests_In",
+            "Hot Tech Stock",
+            "COMP"
+        ],
+        [
+            "Hot Tech Stock",
+            "COMP",
+            "Impact",
+            "Rally",
+            "EVENT"
+        ]
+    ]
+}

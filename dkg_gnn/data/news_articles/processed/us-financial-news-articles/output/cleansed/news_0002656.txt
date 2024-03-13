@@ -1,0 +1,90 @@
+{
+    "output": [
+        [
+            "Stoke City",
+            "GPE",
+            "Vow",
+            "Improve Results",
+            "CONCEPT"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Operate_In",
+            "Stoke City",
+            "GPE"
+        ],
+        [
+            "Stoke City",
+            "GPE",
+            "Lose",
+            "Newcastle United",
+            "GPE"
+        ],
+        [
+            "Fans",
+            "CONCEPT",
+            "Jeer",
+            "Mark Hughes",
+            "PERSON"
+        ],
+        [
+            "Stoke City",
+            "GPE",
+            "Place",
+            "16th",
+            "NUM"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Not_Concerned",
+            "Criticism",
+            "CONCEPT"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Indicate",
+            "Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Media",
+            "CONCEPT",
+            "Get",
+            "Mark Hughes",
+            "PERSON",
+            "Sacked"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Talk",
+            "Noise",
+            "CONCEPT"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Address",
+            "Turning_It_Around",
+            "CONCEPT"
+        ],
+        [
+            "Peter Coates",
+            "PERSON",
+            "Pictured",
+            "Stony-Faced",
+            "CONCEPT"
+        ],
+        [
+            "Matthew Etherington",
+            "PERSON",
+            "Call",
+            "Mark Hughes",
+            "PERSON",
+            "Dismissal"
+        ]
+    ]
+}

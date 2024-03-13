@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Negative_Impact_On",
+            "Dollar Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Dollar Index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Has",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rate",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Remain",
+            "Skeptical",
+            "CONCEPT"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Move",
+            "Toward",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Move",
+            "Toward",
+            "CONCEPT"
+        ],
+        [
+            "MiFID II",
+            "EVENT",
+            "Introduce",
+            "null",
+            "null"
+        ],
+        [
+            "MiFID II",
+            "EVENT",
+            "Weigh",
+            "On",
+            "Volumes",
+            "SECTOR"
+        ],
+        [
+            "Dollar Index",
+            "ECON_INDICATOR",
+            "Hit",
+            "Trough",
+            "null"
+        ],
+        [
+            "Dollar Index",
+            "ECON_INDICATOR",
+            "Last",
+            "Down",
+            "null"
+        ],
+        [
+            "Dollar Index",
+            "ECON_INDICATOR",
+            "Slide",
+            "More",
+            "Than",
+            "9.8",
+            "Percent"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Add",
+            "Gains",
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Climb",
+            "To",
+            "Nearly",
+            "Four-Month",
+            "High"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Last",
+            "Up",
+            "null"
+        ],
+        [
+            "Euro Zone",
+            "GPE",
+            "Manufacturers",
+            "End",
+            "2017",
+            "By",
+            "Ramping",
+            "Up",
+            "Activity"
+        ],
+        [
+            "Euro Zone",
+            "GPE",
+            "Economies",
+            "Strengthen",
+            "null"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Benoit Coeure",
+            "Said",
+            "He",
+            "Saw",
+            "Reasonable",
+            "Chance"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Bond",
+            "Purchases",
+            "Not",
+            "Be",
+            "Extended",
+            "Beyond",
+            "September"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Strength",
+            "Underpinned",
+            "By",
+            "Some",
+            "Hawkish",
+            "Comments",
+            "From",
+            "ECB"
+        ],
+        [
+            "Commerzbank",
+            "COMP",
+            "Currency",
+            "Strategist",
+            "Thu",
+            "Lan",
+            "Nguyen",
+            "In",
+            "Frankfurt",
+            "PERSON"
+        ],
+        [
+            "Commerzbank",
+            "COMP",
+            "Currency",
+            "Strategist",
+            "Said",
+            "Euro",
+            "Strength",
+            "Underpinned",
+            "By",
+            "Some",
+            "Hawkish",
+            "Comments",
+            "From",
+            "ECB"
+        ]
+    ]
+}

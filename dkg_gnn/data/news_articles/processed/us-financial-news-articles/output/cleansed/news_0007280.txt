@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "SPQ Asia Capital",
+            "ORG",
+            "Impact",
+            "Chinese Supply Chains",
+            "GPE"
+        ],
+        [
+            "SPQ Asia Capital",
+            "ORG",
+            "Invest",
+            "Baozun",
+            "COMP"
+        ],
+        [
+            "SPQ Asia Capital",
+            "ORG",
+            "Invest",
+            "21Vianet",
+            "COMP"
+        ],
+        [
+            "Cloud Computing",
+            "CONCEPT",
+            "Relate_To",
+            "Technology Breakthroughs",
+            "CONCEPT"
+        ],
+        [
+            "Artificial Intelligence",
+            "CONCEPT",
+            "Relate_To",
+            "Technology Breakthroughs",
+            "CONCEPT"
+        ],
+        [
+            "Technology Breakthroughs",
+            "CONCEPT",
+            "Impact",
+            "Supply Chains",
+            "GPE"
+        ],
+        [
+            "NAND Memory Producers",
+            "COMP",
+            "Benefit_From",
+            "Technology Breakthroughs",
+            "CONCEPT"
+        ],
+        [
+            "Local Governments",
+            "ORG/GOV",
+            "Continue",
+            "Land Sales",
+            "EVENT"
+        ],
+        [
+            "Property Tax",
+            "EVENT",
+            "Relate_To",
+            "Local Governments Finances",
+            "CONCEPT"
+        ],
+        [
+            "Chinese Real Estate",
+            "SECTOR",
+            "Trade_At",
+            "Attractive Levels",
+            "CONCEPT"
+        ],
+        [
+            "Property Tax",
+            "EVENT",
+            "Expected_Implementation",
+            "2020",
+            "DATE"
+        ],
+        [
+            "Property Tax",
+            "EVENT",
+            "Not_Impact",
+            "Land Sales",
+            "EVENT"
+        ],
+        [
+            "Price-to-Equity Ratio",
+            "ECON_INDICATOR",
+            "At",
+            "7 to 9 Percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Fiscal System",
+            "CONCEPT",
+            "Unique",
+            "null",
+            "null"
+        ]
+    ]
+}

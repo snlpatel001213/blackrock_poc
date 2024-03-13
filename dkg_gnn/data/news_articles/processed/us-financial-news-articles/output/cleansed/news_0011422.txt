@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "At",
+            "C$1.2434",
+            "ECON_INDICATOR"
+        ],
+        [
+            "C$1.2434",
+            "ECON_INDICATOR",
+            "Or",
+            "80.42 U.S. Cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bond Prices",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "Across the Yield Curve",
+            "SECTOR"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Release",
+            "Business Outlook Report",
+            "EVENT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/GOV",
+            "Based on",
+            "Survey of about 100 Companies",
+            "EVENT"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Down",
+            "0.2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "To",
+            "C$1.2434",
+            "ECON_INDICATOR"
+        ],
+        [
+            "C$1.2434",
+            "ECON_INDICATOR",
+            "Or",
+            "80.42 U.S. Cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Loonie",
+            "FIN_INSTRUMENT",
+            "Touched",
+            "Its Strongest since Sept. 27 at C$1.2355",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Speculators",
+            "PERSON",
+            "Cut",
+            "Bullish Bets on the Canadian Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bullish Bets",
+            "FIN_INSTRUMENT",
+            "To",
+            "Their Lowest since July",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Net Long Positions",
+            "FIN_INSTRUMENT",
+            "Fallen",
+            "To 14,739 Contracts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices of Oil",
+            "FIN_INSTRUMENT",
+            "Edged Higher",
+            "On a Slight Decline in the Number of U.S. Rigs Drilling for New Production",
+            "EVENT"
+        ],
+        [
+            "U.S. Crude Prices",
+            "FIN_INSTRUMENT",
+            "Up",
+            "0.10 Percent at $61.50 a Barrel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canadian Government Bond Prices",
+            "FIN_INSTRUMENT",
+            "Lower",
+            "Across the Yield Curve",
+            "SECTOR"
+        ],
+        [
+            "Two-Year",
+            "ECON_INDICATOR",
+            "Down",
+            "1 Canadian Cent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-Year",
+            "ECON_INDICATOR",
+            "To Yield",
+            "1.781 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-Year",
+            "ECON_INDICATOR",
+            "Falling",
+            "8 Canadian Cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-Year",
+            "ECON_INDICATOR",
+            "To Yield",
+            "2.164 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-Year Yield",
+            "ECON_INDICATOR",
+            "Reached",
+            "Its Highest Intraday since June 2011 at 1.786 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

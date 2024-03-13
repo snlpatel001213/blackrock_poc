@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "See",
+            "$3 billion tax hit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$3 billion tax hit",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "U.S. tax reform law",
+            "CONCEPT"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "$3 billion tax hit",
+            "ECON_INDICATOR",
+            "Impact",
+            "Bristol-Myers Squibb Co",
+            "COMP"
+        ],
+        [
+            "$3 billion tax hit",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "unremitted offshore earnings",
+            "CONCEPT"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Has",
+            "previous forecast for net earnings per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Has",
+            "tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Has",
+            "outlook after adjusting for one-time items",
+            "CONCEPT"
+        ],
+        [
+            "U.S. tax reform law",
+            "CONCEPT",
+            "Control",
+            "corporate income tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. tax reform law",
+            "CONCEPT",
+            "Control",
+            "U.S. taxes on most future foreign profits",
+            "CONCEPT"
+        ],
+        [
+            "U.S. tax reform law",
+            "CONCEPT",
+            "Control",
+            "one-time tax for U.S. business profits now held overseas",
+            "CONCEPT"
+        ],
+        [
+            "U.S. tax reform law",
+            "CONCEPT",
+            "Control",
+            "companies from shifting profits out of the United States to lower-tax jurisdictions abroad",
+            "CONCEPT"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Estimate",
+            "net impact on its adjusted tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Plan",
+            "update",
+            "CONCEPT"
+        ],
+        [
+            "Bristol-Myers Squibb Co",
+            "COMP",
+            "Plan",
+            "provide a full-year outlook",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Eli Lilly",
+            "COMP",
+            "Is_Member_Of",
+            "Pharma Sector",
+            "SECTOR"
+        ],
+        [
+            "Eli Lilly",
+            "COMP",
+            "Has",
+            "David Ricks",
+            "PERSON"
+        ],
+        [
+            "David Ricks",
+            "PERSON",
+            "Speaks_To",
+            "Meg Tirrell",
+            "PERSON"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Hosts",
+            "Health Care Conference",
+            "EVENT"
+        ],
+        [
+            "Health Care Conference",
+            "EVENT",
+            "Relate_To",
+            "Pharma Sector",
+            "SECTOR"
+        ],
+        [
+            "Pharma Sector",
+            "SECTOR",
+            "Experiences",
+            "Impact",
+            "CONCEPT"
+        ],
+        [
+            "Impact",
+            "CONCEPT",
+            "Relate_To",
+            "Tax Reform",
+            "CONCEPT"
+        ],
+        [
+            "Tax Reform",
+            "CONCEPT",
+            "Relate_To",
+            "Pharma Sector",
+            "SECTOR"
+        ]
+    ]
+}

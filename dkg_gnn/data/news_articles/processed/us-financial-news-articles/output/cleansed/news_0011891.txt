@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Children's Place",
+            "COMP",
+            "Has",
+            "Jane Elfers",
+            "PERSON"
+        ],
+        [
+            "Jane Elfers",
+            "PERSON",
+            "Is_Member_Of",
+            "Children's Place",
+            "COMP"
+        ],
+        [
+            "Children's Place",
+            "COMP",
+            "Participates_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Children's Place",
+            "COMP",
+            "Relate_To",
+            "Millennial Moms",
+            "CONCEPT"
+        ],
+        [
+            "Children's Place",
+            "COMP",
+            "Control",
+            "Turnaround Strategy",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Graco Inc.",
+            "COMP",
+            "Announce",
+            "Fourth Quarter 2017 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Has",
+            "Conference call",
+            "PRODUCT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Has",
+            "Conference ID",
+            "PRODUCT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Has",
+            "Dial-in number",
+            "PRODUCT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Has",
+            "Replay",
+            "PRODUCT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Fluids and coatings",
+            "CONCEPT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Industrial applications",
+            "CONCEPT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Commercial applications",
+            "CONCEPT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Fluid and powder materials",
+            "CONCEPT"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Processing",
+            "SECTOR"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Construction",
+            "SECTOR"
+        ],
+        [
+            "Graco Inc.",
+            "COMP",
+            "Relate_To",
+            "Maintenance",
+            "SECTOR"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Has",
+            "Earnings announcement",
+            "PRODUCT"
+        ],
+        [
+            "Conference call",
+            "PRODUCT",
+            "Has",
+            "Slides",
+            "PRODUCT"
+        ],
+        [
+            "Conference call",
+            "PRODUCT",
+            "Has",
+            "Webcast",
+            "PRODUCT"
+        ],
+        [
+            "Conference call",
+            "PRODUCT",
+            "Has",
+            "Listeners",
+            "PRODUCT"
+        ],
+        [
+            "Replay",
+            "PRODUCT",
+            "Has",
+            "Telephone",
+            "PRODUCT"
+        ],
+        [
+            "Telephone",
+            "PRODUCT",
+            "Has",
+            "Dial-in number",
+            "PRODUCT"
+        ],
+        [
+            "Telephone",
+            "PRODUCT",
+            "Has",
+            "Conference ID",
+            "PRODUCT"
+        ],
+        [
+            "Earnings announcement",
+            "PRODUCT",
+            "Relate_To",
+            "Graco Inc.",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,136 @@
+{
+    "output": [
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Operate_In",
+            "Rajpipla",
+            "GPE"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Is_Member_Of",
+            "Royalty",
+            "ORG"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Set_Up",
+            "Lakshya Trust",
+            "ORG"
+        ],
+        [
+            "Lakshya Trust",
+            "ORG",
+            "Support",
+            "LGBT People",
+            "CONCEPT"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Criticize",
+            "Colonial-era Law",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Have",
+            "Top Court",
+            "ORG"
+        ],
+        [
+            "Top Court",
+            "ORG",
+            "Reconsider",
+            "Law",
+            "CONCEPT"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Renovate",
+            "Palace",
+            "PRODUCT"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Install",
+            "Solar Panels",
+            "PRODUCT"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Reserve",
+            "Land",
+            "GPE"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "Finance",
+            "Center",
+            "PRODUCT"
+        ],
+        [
+            "Center",
+            "PRODUCT",
+            "Managed_By",
+            "Charity",
+            "ORG"
+        ],
+        [
+            "Prince Manvendra Singh Gohil",
+            "PERSON",
+            "High_Profile",
+            "LGBT Community",
+            "CONCEPT"
+        ],
+        [
+            "Harish Iyer",
+            "PERSON",
+            "Gay_Rights_Activist",
+            "CONCEPT"
+        ],
+        [
+            "Harish Iyer",
+            "PERSON",
+            "Host",
+            "Radio Show",
+            "PRODUCT"
+        ],
+        [
+            "Radio Show",
+            "PRODUCT",
+            "Dedicated_To",
+            "LGBT Issues",
+            "CONCEPT"
+        ],
+        [
+            "Harish Iyer",
+            "PERSON",
+            "Say",
+            "LGBT-friendly Spaces",
+            "CONCEPT"
+        ],
+        [
+            "Cities",
+            "GPE",
+            "Have",
+            "LGBT-friendly Spaces",
+            "CONCEPT"
+        ],
+        [
+            "Smaller Towns",
+            "GPE",
+            "Lack",
+            "LGBT-friendly Spaces",
+            "CONCEPT"
+        ]
+    ]
+}

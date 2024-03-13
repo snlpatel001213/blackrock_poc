@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Announce",
+            "Chris Kete",
+            "PERSON"
+        ],
+        [
+            "Fabio Teti",
+            "PERSON",
+            "Is_Member_Of",
+            "NASCENT Technology",
+            "ORG"
+        ],
+        [
+            "Chris Kete",
+            "PERSON",
+            "Operate_In",
+            "U.S. Navy",
+            "ORG/GOV"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Operate_In",
+            "Transportation Industry",
+            "SECTOR"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Has",
+            "New Advanced Technologies",
+            "CONCEPT"
+        ],
+        [
+            "NASCENT Technology",
+            "ORG",
+            "Has",
+            "Robust Interest from Clients",
+            "CONCEPT"
+        ]
+    ]
+}

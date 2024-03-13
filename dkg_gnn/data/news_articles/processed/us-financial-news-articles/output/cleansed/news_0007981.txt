@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rtl",
+            "ORG",
+            "Acquire",
+            "United Screens",
+            "ORG"
+        ],
+        [
+            "United Screens",
+            "ORG",
+            "Be",
+            "Leading Nordic Multi-Platform Network",
+            "CONCEPT"
+        ],
+        [
+            "Rtl",
+            "ORG",
+            "Operate_In",
+            "Frankfurt",
+            "GPE"
+        ],
+        [
+            "Rtl",
+            "ORG",
+            "Pay",
+            "SEK 120 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SEK 120 Million",
+            "ECON_INDICATOR",
+            "Equal",
+            "\u20ac12.4 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rtl",
+            "ORG",
+            "Make_Payment",
+            "On_A_Debt_And_Cash_Free_Basis",
+            "CONCEPT"
+        ],
+        [
+            "Payment",
+            "CONCEPT",
+            "Subject_To",
+            "Usual Post-Closing Adjustments",
+            "CONCEPT"
+        ]
+    ]
+}

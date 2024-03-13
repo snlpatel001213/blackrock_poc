@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Launch",
+            "Initial Public Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Has",
+            "Class A Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Intend_To",
+            "Grant",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Relate_To",
+            "Underwriters",
+            "ORG"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Managers",
+            "ORG"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Make_Offering",
+            "Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Provide",
+            "Hydraulic Fracturing Services",
+            "SERVICE"
+        ],
+        [
+            "Liberty Oilfield Services Inc.",
+            "COMP",
+            "Cautionary_Statement",
+            "Forward-Looking Statements",
+            "CONCEPT"
+        ]
+    ]
+}

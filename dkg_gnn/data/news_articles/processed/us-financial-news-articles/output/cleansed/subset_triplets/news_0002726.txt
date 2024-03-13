@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Capital One",
+            "COMP",
+            "Operate_In",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "Double Debit Transactions",
+            "EVENT",
+            "Negative_Impact_On",
+            "Account Balances",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Customer Accounts",
+            "PRODUCT",
+            "Relate_To",
+            "Inaccurate Postings",
+            "EVENT"
+        ]
+    ]
+}

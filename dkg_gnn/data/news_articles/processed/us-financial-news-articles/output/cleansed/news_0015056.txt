@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Artec Europe",
+            "ORG",
+            "Produce",
+            "handheld scanners",
+            "PRODUCT"
+        ],
+        [
+            "Artec Europe",
+            "ORG",
+            "Produce",
+            "software",
+            "PRODUCT"
+        ],
+        [
+            "Artec Europe",
+            "ORG",
+            "Create",
+            "digital models",
+            "PRODUCT"
+        ],
+        [
+            "digital models",
+            "PRODUCT",
+            "Used_For",
+            "fast prototypes",
+            "PRODUCT"
+        ],
+        [
+            "digital models",
+            "PRODUCT",
+            "Used_For",
+            "making replicas",
+            "PRODUCT"
+        ],
+        [
+            "digital models",
+            "PRODUCT",
+            "Used_For",
+            "creating prosthetics",
+            "PRODUCT"
+        ],
+        [
+            "digital models",
+            "PRODUCT",
+            "Used_For",
+            "creating medical devices",
+            "PRODUCT"
+        ],
+        [
+            "Shapify booth",
+            "PRODUCT",
+            "Consist_Of",
+            "rotating round platform",
+            "PRODUCT"
+        ],
+        [
+            "Shapify booth",
+            "PRODUCT",
+            "Consist_Of",
+            "multiple scanners",
+            "PRODUCT"
+        ],
+        [
+            "Shapify booth",
+            "PRODUCT",
+            "Create",
+            "360-degree picture",
+            "PRODUCT"
+        ],
+        [
+            "360-degree picture",
+            "PRODUCT",
+            "Called_As",
+            "shapie",
+            "PRODUCT"
+        ],
+        [
+            "shapie",
+            "PRODUCT",
+            "Used_For",
+            "scaled figurines",
+            "PRODUCT"
+        ],
+        [
+            "shapie",
+            "PRODUCT",
+            "Used_For",
+            "customized clothes",
+            "PRODUCT"
+        ],
+        [
+            "shapie",
+            "PRODUCT",
+            "Relate_To",
+            "health-care providers",
+            "ORG"
+        ]
+    ]
+}

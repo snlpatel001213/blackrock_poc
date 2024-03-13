@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bank of America",
+            "COMP",
+            "Has",
+            "Unusual Options Activity",
+            "CONCEPT"
+        ],
+        [
+            "Halftime Report",
+            "ORG",
+            "Announce",
+            "Unusual Options Activity",
+            "CONCEPT"
+        ],
+        [
+            "Jon",
+            "PERSON",
+            "Participates_In",
+            "Halftime Report",
+            "ORG"
+        ],
+        [
+            "Pete Najarian",
+            "PERSON",
+            "Participates_In",
+            "Halftime Report",
+            "ORG"
+        ],
+        [
+            "DowDuPont",
+            "COMP",
+            "Has",
+            "Unusual Options Activity",
+            "CONCEPT"
+        ],
+        [
+            "SPY ETF",
+            "PRODUCT",
+            "Has",
+            "Unusual Options Activity",
+            "CONCEPT"
+        ]
+    ]
+}
