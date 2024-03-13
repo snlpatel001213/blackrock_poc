@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Operate_In",
+            "Biopharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Introduce",
+            "EXONDYS 51",
+            "PRODUCT"
+        ],
+        [
+            "EXONDYS 51",
+            "PRODUCT",
+            "Has",
+            "PMO chemistry",
+            "CONCEPT"
+        ],
+        [
+            "EXONDYS 51",
+            "PRODUCT",
+            "Has",
+            "Exon-skipping technology",
+            "CONCEPT"
+        ],
+        [
+            "EXONDYS 51",
+            "PRODUCT",
+            "Operate_In",
+            "DMD treatment",
+            "SECTOR"
+        ],
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Provide",
+            "Revenue guidance",
+            "CONCEPT"
+        ],
+        [
+            "EXONDYS 51",
+            "PRODUCT",
+            "Impact",
+            "Sarepta Therapeutics revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Plan",
+            "Multiple milestones",
+            "CONCEPT"
+        ],
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Plan",
+            "Inflection points",
+            "CONCEPT"
+        ],
+        [
+            "Sarepta Therapeutics",
+            "ORG",
+            "Aspire",
+            "Global leadership in precision genetic medicine",
+            "CONCEPT"
+        ],
+        [
+            "DMD",
+            "CONCEPT",
+            "Relate_To",
+            "EXONDYS 51",
+            "PRODUCT"
+        ],
+        [
+            "DMD",
+            "CONCEPT",
+            "Relate_To",
+            "Sarepta Therapeutics",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nvidia Corp",
+            "COMP",
+            "Announce",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Selects",
+            "Nvidia Technology",
+            "PRODUCT"
+        ],
+        [
+            "Nvidia Technology",
+            "PRODUCT",
+            "Operate_In",
+            "AI Computing System",
+            "CONCEPT"
+        ],
+        [
+            "AI Computing System",
+            "CONCEPT",
+            "Participates_In",
+            "Self-driving Vehicles",
+            "PRODUCT"
+        ]
+    ]
+}

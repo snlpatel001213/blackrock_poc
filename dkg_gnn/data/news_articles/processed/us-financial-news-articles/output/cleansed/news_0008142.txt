@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Commodity Futures Trading Commission",
+            "ORG/REG",
+            "Control",
+            "Virtual Currencies",
+            "CONCEPT"
+        ],
+        [
+            "Commodity Futures Trading Commission",
+            "ORG/REG",
+            "Control",
+            "Related Futures Products",
+            "CONCEPT"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Participates_In",
+            "Commodity Futures Trading Commission",
+            "ORG/REG"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Participates_In",
+            "Industry Participants",
+            "PERSON"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Policing Activity",
+            "CONCEPT"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Virtual-Currency Exchanges",
+            "COMP"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Clearing of Bitcoin Futures",
+            "CONCEPT"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Fraud and Manipulation",
+            "CONCEPT"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Virtual Currencies",
+            "CONCEPT"
+        ],
+        [
+            "Committees",
+            "ORG",
+            "Relate_To",
+            "Unique Risk",
+            "CONCEPT"
+        ]
+    ]
+}

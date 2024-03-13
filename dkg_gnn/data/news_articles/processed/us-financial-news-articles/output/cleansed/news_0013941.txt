@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Lingnan Landscape Co Ltd",
+            "COMP",
+            "Announce",
+            "Unit's Consortium",
+            "ORG"
+        ],
+        [
+            "Unit's Consortium",
+            "ORG",
+            "Expects_To_Win",
+            "Leisure Park Project",
+            "PRODUCT"
+        ],
+        [
+            "Leisure Park Project",
+            "PRODUCT",
+            "Involve",
+            "Investment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investment",
+            "FIN_INSTRUMENT",
+            "Amount",
+            "111.4 Million Yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "111.4 Million Yuan",
+            "ECON_INDICATOR",
+            "Equivalent_To",
+            "17.10 Million Dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "17.10 Million Dollar",
+            "ECON_INDICATOR",
+            "Converted_From",
+            "1 Yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "1 Yuan",
+            "ECON_INDICATOR",
+            "Rate",
+            "6.5150 Chinese Yuan Renminbi",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

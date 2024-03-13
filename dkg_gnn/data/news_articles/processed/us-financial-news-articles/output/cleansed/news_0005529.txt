@@ -1,0 +1,240 @@
+{
+    "output": [
+        [
+            "Exchanges",
+            "ORG",
+            "See",
+            "Slight Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MiFID Day",
+            "EVENT",
+            "Relate_To",
+            "Shift",
+            "CONCEPT"
+        ],
+        [
+            "Dark Pool",
+            "COMP",
+            "Control",
+            "Trading",
+            "CONCEPT"
+        ],
+        [
+            "General Investor",
+            "PERSON",
+            "Operate_In",
+            "Dark Pool",
+            "COMP"
+        ],
+        [
+            "Lit Order Books",
+            "COMP",
+            "Has",
+            "Trading",
+            "CONCEPT"
+        ],
+        [
+            "Lit Exchanges",
+            "COMP",
+            "Participates_In",
+            "Trading",
+            "CONCEPT"
+        ],
+        [
+            "MiFID Day",
+            "EVENT",
+            "Operate_In",
+            "January 3",
+            "DATE"
+        ],
+        [
+            "Market Watchers",
+            "PERSON",
+            "Brand",
+            "MiFID Day",
+            "EVENT"
+        ],
+        [
+            "Regulators",
+            "ORG/GOV",
+            "Succeed",
+            "Coax",
+            "VERB"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Back",
+            "Exchanges",
+            "ORG"
+        ],
+        [
+            "Important Shifts",
+            "CONCEPT",
+            "Still",
+            "Come",
+            "VERB"
+        ],
+        [
+            "Dark Pool Trading",
+            "COMP",
+            "Essentially",
+            "Take",
+            "VERB"
+        ],
+        [
+            "Private Exchanges",
+            "COMP",
+            "Not",
+            "Open",
+            "VERB"
+        ],
+        [
+            "Trading Prices",
+            "CONCEPT",
+            "Publicly",
+            "Record",
+            "VERB"
+        ],
+        [
+            "Thomson Reuters Market Share Reporter",
+            "COMP",
+            "Data",
+            "Snapshot",
+            "CONCEPT"
+        ],
+        [
+            "Market Share Reporter",
+            "COMP",
+            "Data",
+            "tmsnrt.rs/2CQ04LR",
+            "WEBLINK"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Quiet",
+            "Overall",
+            "ADV"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Tread",
+            "Carefully",
+            "ADV"
+        ],
+        [
+            "Dark Pools",
+            "COMP",
+            "Suspend",
+            "Trading",
+            "CONCEPT"
+        ],
+        [
+            "ESMA",
+            "ORG/REG",
+            "Impose",
+            "Cap",
+            "CONCEPT"
+        ],
+        [
+            "Some Stocks",
+            "COMP",
+            "Traded",
+            "Dark Pools",
+            "COMP"
+        ],
+        [
+            "ESMA Spokesman",
+            "PERSON",
+            "Said",
+            "Publish",
+            "VERB"
+        ],
+        [
+            "List of Stocks",
+            "COMP",
+            "For",
+            "Suspension",
+            "CONCEPT"
+        ],
+        [
+            "January 12",
+            "DATE",
+            "Apply",
+            "From",
+            "VERB"
+        ],
+        [
+            "ITG",
+            "COMP",
+            "Analysis",
+            "Between",
+            "VERB"
+        ],
+        [
+            "FTSE 100 Stocks",
+            "COMP",
+            "Between",
+            "70 and 80",
+            "PERCENT"
+        ],
+        [
+            "FTSE 250",
+            "COMP",
+            "Nearly",
+            "As",
+            "ADV"
+        ],
+        [
+            "Eurostoxx 50 Index",
+            "COMP",
+            "Half",
+            "Stocks",
+            "COMP"
+        ],
+        [
+            "Cap",
+            "CONCEPT",
+            "Not",
+            "Impact",
+            "VERB"
+        ],
+        [
+            "Share Prices",
+            "CONCEPT"
+        ],
+        [
+            "Cap",
+            "CONCEPT",
+            "Could",
+            "Impact",
+            "VERB"
+        ],
+        [
+            "Liquidity",
+            "CONCEPT"
+        ],
+        [
+            "Some Traders",
+            "PERSON",
+            "Fewer",
+            "Tools",
+            "COMP"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Want",
+            "Hide",
+            "VERB"
+        ],
+        [
+            "Trading Intentions",
+            "CONCEPT"
+        ]
+    ]
+}

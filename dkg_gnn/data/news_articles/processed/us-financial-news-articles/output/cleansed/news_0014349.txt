@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Starboard Value LP",
+            "ORG",
+            "Invests_In",
+            "Mellanox Technologies Ltd",
+            "COMP"
+        ],
+        [
+            "Mellanox Technologies Ltd",
+            "COMP",
+            "Has",
+            "2018 targets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mellanox Technologies Ltd",
+            "COMP",
+            "Control",
+            "fiscal 2018 revenue growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mellanox Technologies Ltd",
+            "COMP",
+            "Control",
+            "operating margins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starboard",
+            "ORG",
+            "Negative_Impact_On",
+            "Mellanox targets credibility",
+            "CONCEPT"
+        ],
+        [
+            "Starboard",
+            "ORG",
+            "Raise",
+            "concerns",
+            "CONCEPT"
+        ]
+    ]
+}

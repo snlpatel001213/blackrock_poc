@@ -1,0 +1,106 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Control",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Shortlist",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Shortlist",
+            "London",
+            "GPE"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Shortlist",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Operate_In",
+            "Tadawul",
+            "SECTOR"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Introduce",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Impact",
+            "Financial Markets",
+            "SECTOR"
+        ],
+        [
+            "Saudi Crown Prince Mohammad bin Salman",
+            "PERSON",
+            "Oversee",
+            "Aramco IPO",
+            "EVENT"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Relate_To",
+            "Vision 2030",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Leave_Open",
+            "Other Options",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Offer_To",
+            "Buy_Stake",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Saudi Stock Exchange",
+            "ORG",
+            "Handle",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Change",
+            "Aramco",
+            "ORG",
+            "To",
+            "Joint-Stock Company",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Indicate",
+            "Listing_Moving_Ahead",
+            "CONCEPT"
+        ]
+    ]
+}

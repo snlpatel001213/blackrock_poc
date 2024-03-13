@@ -1,0 +1,139 @@
+{
+    "output": [
+        [
+            "Polish parliament",
+            "GPE",
+            "Start",
+            "new abortion law",
+            "EVENT"
+        ],
+        [
+            "Polish parliament",
+            "GPE",
+            "Operate_In",
+            "Conservative Government",
+            "ORG/GOV"
+        ],
+        [
+            "Polish parliament",
+            "GPE",
+            "Vote",
+            "send bill to committee",
+            "EVENT"
+        ],
+        [
+            "Law and Justice (PiS)",
+            "ORG/GOV",
+            "Plan",
+            "near-total ban on abortion",
+            "EVENT"
+        ],
+        [
+            "Law and Justice (PiS)",
+            "ORG/GOV",
+            "Victory",
+            "Polish parliament",
+            "GPE"
+        ],
+        [
+            "Polish women",
+            "PERSON",
+            "Have",
+            "legal recourse to obtain termination",
+            "EVENT"
+        ],
+        [
+            "new bill",
+            "EVENT",
+            "Ban",
+            "abortions due to irreversible damage to the fetus",
+            "EVENT"
+        ],
+        [
+            "PiS",
+            "ORG/GOV",
+            "Supported by",
+            "Powerful Catholic Church",
+            "ORG"
+        ],
+        [
+            "Jaroslaw Kaczynski",
+            "PERSON",
+            "Party leader",
+            "PiS",
+            "ORG/GOV"
+        ],
+        [
+            "Jaroslaw Kaczynski",
+            "PERSON",
+            "Paramount politician",
+            "Poland",
+            "GPE"
+        ],
+        [
+            "PiS",
+            "ORG/GOV",
+            "Push",
+            "enforce religious values in public life",
+            "EVENT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Constitution",
+            "allow citizens to submit legislative proposals",
+            "EVENT"
+        ],
+        [
+            "Kaja Godek",
+            "PERSON",
+            "Member of",
+            "Stop Abortion",
+            "ORG"
+        ],
+        [
+            "Stop Abortion",
+            "ORG",
+            "Submit",
+            "bill",
+            "EVENT"
+        ],
+        [
+            "Polish citizens",
+            "PERSON",
+            "Gather",
+            "100,000 signatures",
+            "EVENT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Poll",
+            "11 percent of Poles in favor of further restricting abortion laws",
+            "EVENT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Poll",
+            "46.5 percent would like to see them eased",
+            "EVENT"
+        ],
+        [
+            "Group of conservative lawmakers",
+            "ORG",
+            "Ask",
+            "Constitutional Tribunal",
+            "ORG/REG",
+            "rule on the legality of allowing abortions of a damaged fetus",
+            "EVENT"
+        ],
+        [
+            "Constitutional Tribunal",
+            "ORG/REG",
+            "Check",
+            "laws comply with the constitution",
+            "EVENT"
+        ]
+    ]
+}

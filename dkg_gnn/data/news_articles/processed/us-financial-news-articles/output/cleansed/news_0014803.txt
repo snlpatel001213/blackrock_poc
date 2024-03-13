@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Rising Temperatures",
+            "CONCEPT",
+            "Impact",
+            "Green Turtles",
+            "PERSON"
+        ],
+        [
+            "Green Turtles",
+            "PERSON",
+            "Gender",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "Climate Change",
+            "CONCEPT",
+            "Cause",
+            "Warmer Incubations",
+            "CONCEPT"
+        ],
+        [
+            "Warmer Incubations",
+            "CONCEPT",
+            "Lead To",
+            "Greater Number",
+            "CONCEPT"
+        ],
+        [
+            "Greater Number",
+            "CONCEPT",
+            "Female Hatchlings",
+            "Green Turtles",
+            "PERSON"
+        ],
+        [
+            "Study",
+            "CONCEPT",
+            "Reveal",
+            "More Than 99 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Juvenile And Sub Adult Population",
+            "PERSON",
+            "Northern Part",
+            "Great Barrier Reef",
+            "GPE"
+        ],
+        [
+            "69 Percent",
+            "ECON_INDICATOR",
+            "Female",
+            "Southern Reef",
+            "GPE"
+        ],
+        [
+            "Northern And Southern Reef",
+            "GPE",
+            "Genetically Distinct",
+            "Green Turtles",
+            "PERSON"
+        ],
+        [
+            "WWF-Australia",
+            "ORG",
+            "Chief Executive",
+            "Dermot O\u2018Gorman",
+            "PERSON"
+        ],
+        [
+            "Dermot O\u2018Gorman",
+            "PERSON",
+            "Say",
+            "Urgent Measures",
+            "CONCEPT"
+        ],
+        [
+            "Urgent Measures",
+            "CONCEPT",
+            "Needed",
+            "Tackle Climate Change",
+            "CONCEPT"
+        ],
+        [
+            "Queensland Department",
+            "ORG",
+            "Test",
+            "Various Measures",
+            "CONCEPT"
+        ],
+        [
+            "Various Measures",
+            "CONCEPT",
+            "Lower",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "Temperature",
+            "CONCEPT",
+            "Of The Sand",
+            "Great Barrier Reef",
+            "GPE"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Where",
+            "Turtles",
+            "PERSON"
+        ],
+        [
+            "Turtles",
+            "PERSON",
+            "Lay",
+            "Eggs",
+            "CONCEPT"
+        ],
+        [
+            "Options",
+            "CONCEPT",
+            "Include",
+            "Shade",
+            "CONCEPT"
+        ],
+        [
+            "Shade",
+            "CONCEPT",
+            "Or",
+            "Artificial Rain",
+            "CONCEPT"
+        ],
+        [
+            "Artificial Rain",
+            "CONCEPT",
+            "Cool",
+            "Beach",
+            "CONCEPT"
+        ],
+        [
+            "Protecting",
+            "CONCEPT",
+            "Big Breeding Males",
+            "Turtles",
+            "PERSON"
+        ],
+        [
+            "Turtles",
+            "PERSON",
+            "From",
+            "Threats",
+            "CONCEPT"
+        ],
+        [
+            "Threats",
+            "CONCEPT",
+            "Like",
+            "Nets",
+            "COMP"
+        ],
+        [
+            "Nets",
+            "COMP",
+            "And",
+            "Bycatch",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Listed",
+            "World Heritage Site",
+            "CONCEPT"
+        ],
+        [
+            "World Heritage Site",
+            "CONCEPT",
+            "In",
+            "1981",
+            "DATE"
+        ],
+        [
+            "Most Extensive And Spectacular Coral Reef Ecosystem",
+            "CONCEPT",
+            "On",
+            "Planet",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "output": [
+        [
+            "Germany\u2019s environmentalist Greens",
+            "GPE",
+            "Has",
+            "Greens",
+            "ORG"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Operate_In",
+            "German Politics",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Participates_In",
+            "Jamaica Talks",
+            "EVENT"
+        ],
+        [
+            "Jamaica Talks",
+            "EVENT",
+            "Relate_To",
+            "Three-way Coalition Negotiations",
+            "EVENT"
+        ],
+        [
+            "Jamaica Talks",
+            "EVENT",
+            "Involve",
+            "Chancellor Angela Merkel\u2019s conservative bloc",
+            "ORG/GOV"
+        ],
+        [
+            "Jamaica Talks",
+            "EVENT",
+            "Involve",
+            "Greens",
+            "ORG"
+        ],
+        [
+            "Jamaica Talks",
+            "EVENT",
+            "Involve",
+            "Free Democrats (FDP)",
+            "ORG"
+        ],
+        [
+            "Jamaica",
+            "EVENT",
+            "Relate_To",
+            "Official Colors of Jamaica",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Has",
+            "Simone Peter",
+            "PERSON"
+        ],
+        [
+            "Simone Peter",
+            "PERSON",
+            "Is_Member_Of",
+            "Greens",
+            "ORG"
+        ],
+        [
+            "Simone Peter",
+            "PERSON",
+            "Belongs_To",
+            "Leftist Wing",
+            "CONCEPT"
+        ],
+        [
+            "Simone Peter",
+            "PERSON",
+            "Not_Run_For",
+            "Re-election",
+            "EVENT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Has",
+            "Cem Ozdemir",
+            "PERSON"
+        ],
+        [
+            "Cem Ozdemir",
+            "PERSON",
+            "Is_Member_Of",
+            "Greens",
+            "ORG"
+        ],
+        [
+            "Cem Ozdemir",
+            "PERSON",
+            "Touted_As",
+            "Potential Foreign Minister",
+            "PROFESSION"
+        ],
+        [
+            "Cem Ozdemir",
+            "PERSON",
+            "Not_Stand",
+            "Re-election",
+            "EVENT"
+        ],
+        [
+            "Cem Ozdemir",
+            "PERSON",
+            "Does_Not_Have",
+            "Majority",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Consider",
+            "Two-way Tie-Up",
+            "EVENT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Consider",
+            "Jamaica Coalition",
+            "EVENT"
+        ],
+        [
+            "Jamaica Coalition",
+            "EVENT",
+            "Relate_To",
+            "Current Talks",
+            "EVENT"
+        ],
+        [
+            "Jamaica Coalition",
+            "EVENT",
+            "Relate_To",
+            "Chancellor Angela Merkel\u2019s conservatives",
+            "ORG/GOV"
+        ],
+        [
+            "Jamaica Coalition",
+            "EVENT",
+            "Relate_To",
+            "Social Democrats (SPD)",
+            "ORG/GOV"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Has",
+            "Robert Habeck",
+            "PERSON"
+        ],
+        [
+            "Robert Habeck",
+            "PERSON",
+            "Considered",
+            "Pragmatic Wing",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Has",
+            "Annalena Baerbock",
+            "PERSON"
+        ],
+        [
+            "Annalena Baerbock",
+            "PERSON",
+            "Considered",
+            "Pragmatic Wing",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Tend_To",
+            "Choose",
+            "VERB"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Tend_To",
+            "Co-leaders",
+            "PROFESSION"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Tend_To",
+            "Man_and_Woman",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Tend_To",
+            "Pragmatic_Wing",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Tend_To",
+            "Leftist_Wing",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Disappoint",
+            "Some Voters",
+            "PERSON"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Shift_Towards",
+            "Center",
+            "CONCEPT"
+        ],
+        [
+            "Greens",
+            "ORG",
+            "Deprive",
+            "Unique Selling Point",
+            "CONCEPT"
+        ],
+        [
+            "Germany Politics",
+            "GPE",
+            "Consider",
+            "Topsy-turvy House",
+            "CONCEPT"
+        ],
+        [
+            "Germany Politics",
+            "GPE",
+            "Consider",
+            "Fit_for_Demolition",
+            "CONCEPT"
+        ],
+        [
+            "Germany Politics",
+            "GPE",
+            "Inject",
+            "Life",
+            "CONCEPT"
+        ],
+        [
+            "Germany Politics",
+            "GPE",
+            "Lead_To",
+            "Arguments",
+            "CONCEPT"
+        ]
+    ]
+}

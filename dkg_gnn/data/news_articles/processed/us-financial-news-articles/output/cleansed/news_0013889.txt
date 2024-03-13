@@ -1,0 +1,61 @@
+{
+    "output": [
+        [
+            "Baxter International Inc.",
+            "COMP",
+            "Announce",
+            "Amendment",
+            "EVENT"
+        ],
+        [
+            "Baxter International Inc.",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Baxter International Inc.",
+            "COMP",
+            "Control",
+            "U.S. Pension Plan",
+            "ORG"
+        ],
+        [
+            "U.S. Pension Plan",
+            "ORG",
+            "Relate_To",
+            "Current CO Employees",
+            "PERSON"
+        ],
+        [
+            "Baxter International Inc.",
+            "COMP",
+            "Contribute",
+            "$115 Million",
+            "ECON_INDICATOR",
+            "To",
+            "U.S. Pension Plan",
+            "ORG",
+            "In",
+            "Q4 2017",
+            "TIME"
+        ],
+        [
+            "Baxter International Inc.",
+            "COMP",
+            "Expect",
+            "U.S. Pension Plan",
+            "ORG",
+            "Nearly",
+            "Fully",
+            "ECON_INDICATOR",
+            "Funded",
+            "CONCEPT",
+            "As",
+            "Of",
+            "Dec 31, 2017",
+            "TIME"
+        ]
+    ]
+}

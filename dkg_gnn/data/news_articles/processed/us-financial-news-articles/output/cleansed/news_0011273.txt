@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Works_For",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Sues",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Has",
+            "Conservative Political Views",
+            "CONCEPT"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Alleges",
+            "Discrimination",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "Tech Industry",
+            "SECTOR"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Relates_To",
+            "Gender Inequality",
+            "CONCEPT"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Asserts",
+            "Biological Causes",
+            "CONCEPT"
+        ],
+        [
+            "Fired Google Engineer",
+            "PERSON",
+            "Discriminated_Against",
+            "As",
+            "white",
+            "PERSON",
+            "man",
+            "PERSON"
+        ]
+    ]
+}

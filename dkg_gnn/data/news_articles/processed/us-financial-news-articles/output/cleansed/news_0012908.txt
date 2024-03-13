@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Donatella Versace",
+            "PERSON",
+            "Is_Member_Of",
+            "Versace",
+            "ORG"
+        ],
+        [
+            "Gianni Versace",
+            "PERSON",
+            "Relate_To",
+            "Versace",
+            "ORG"
+        ],
+        [
+            "Gianni Versace",
+            "PERSON",
+            "Negative_Impact_On",
+            "Donatella Versace",
+            "PERSON"
+        ],
+        [
+            "The Assassination of Gianni Versace: American Crime Story",
+            "EVENT",
+            "Produce",
+            "21st Century Fox",
+            "ORG/COMP"
+        ],
+        [
+            "The Assassination of Gianni Versace: American Crime Story",
+            "EVENT",
+            "Relate_To",
+            "Gianni Versace",
+            "PERSON"
+        ],
+        [
+            "The Assassination of Gianni Versace: American Crime Story",
+            "EVENT",
+            "Announce",
+            "January 17",
+            "DATE"
+        ],
+        [
+            "Vulgar Favors",
+            "BOOK",
+            "Produce",
+            "Maureen Orth",
+            "PERSON"
+        ],
+        [
+            "Vulgar Favors",
+            "BOOK",
+            "Relate_To",
+            "Gianni Versace",
+            "PERSON"
+        ],
+        [
+            "Versace",
+            "ORG",
+            "Impact",
+            "Fashion Industry",
+            "SECTOR"
+        ]
+    ]
+}

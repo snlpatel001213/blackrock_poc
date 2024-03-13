@@ -1,0 +1,139 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Inter-Korean Liaison Office",
+            "ORG"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Inter-Korean Liaison Office",
+            "ORG"
+        ],
+        [
+            "Inter-Korean Liaison Office",
+            "ORG",
+            "Operate_In",
+            "Joint Security Area",
+            "GPE"
+        ],
+        [
+            "Telephone Operators",
+            "PERSON",
+            "Exchange",
+            "Telephone Notice",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Ministry of Unification",
+            "ORG",
+            "Man",
+            "Phone and Fax Lines",
+            "ORG"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Had_Not_Answered_Phone",
+            "Panmunjom",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Use_Bull_Horn",
+            "Shout_Messages",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Officially_Accept",
+            "South Korea\u2019s Invitation",
+            "CONCEPT"
+        ],
+        [
+            "Phone Line",
+            "ORG",
+            "Used_To_Arrange",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Red Phone",
+            "PRODUCT",
+            "For",
+            "Incoming_Calls",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Use",
+            "Green Phone",
+            "PRODUCT",
+            "To_Make_Outgoing_Calls",
+            "CONCEPT"
+        ],
+        [
+            "Unification Ministry Employees",
+            "PERSON",
+            "Man",
+            "Phones",
+            "ORG"
+        ],
+        [
+            "Unification Ministry Employees",
+            "PERSON",
+            "Dispatched",
+            "Inter-Korean Meetings",
+            "EVENT"
+        ],
+        [
+            "Phone Operators",
+            "PERSON",
+            "In_Charge_Of",
+            "Panmunjom Line",
+            "GPE"
+        ],
+        [
+            "Phone Operators",
+            "PERSON",
+            "Contact_Point",
+            "Two_Sides",
+            "GPE"
+        ],
+        [
+            "Phone Operators",
+            "PERSON",
+            "Discouraged",
+            "Make_Jokes",
+            "CONCEPT"
+        ],
+        [
+            "Phone Operators",
+            "PERSON",
+            "Foster",
+            "Personal_Rapport",
+            "CONCEPT"
+        ],
+        [
+            "North Korean Liaison Officer",
+            "PERSON",
+            "Engage",
+            "Conversations",
+            "CONCEPT"
+        ],
+        [
+            "South Korean Liaison Officer",
+            "PERSON",
+            "Refer_Questions",
+            "Unification Ministry",
+            "ORG"
+        ]
+    ]
+}

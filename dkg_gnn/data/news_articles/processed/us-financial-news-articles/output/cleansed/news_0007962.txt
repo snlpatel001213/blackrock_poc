@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Hubei Fuxing Science and Technology Co Ltd",
+            "COMP",
+            "Announce",
+            "Issue",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Hubei Fuxing Science and Technology Co Ltd",
+            "COMP",
+            "Control",
+            "1.0 BILLION YUAN",
+            "ECON_INDICATOR"
+        ],
+        [
+            "1.0 BILLION YUAN",
+            "ECON_INDICATOR",
+            "Equal",
+            "153.91 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "153.91 million",
+            "ECON_INDICATOR",
+            "Has",
+            "USD",
+            "CONCEPT"
+        ],
+        [
+            "153.91 million",
+            "ECON_INDICATOR",
+            "Converted_From",
+            "1.0 BILLION YUAN",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hubei Fuxing Science and Technology Co Ltd",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

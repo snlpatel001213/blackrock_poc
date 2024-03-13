@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sun Capital Partners Inc.",
+            "ORG",
+            "Control",
+            "Three Manufacturing Companies",
+            "COMP"
+        ],
+        [
+            "Sun Capital Partners Inc.",
+            "ORG",
+            "Operate_In",
+            "Private Equity Firm",
+            "ORG"
+        ],
+        [
+            "Three Manufacturing Companies",
+            "COMP",
+            "Sell",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Three Manufacturing Companies",
+            "COMP",
+            "Has",
+            "$3.5 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boca Raton",
+            "GPE",
+            "Located_In",
+            "Sun Capital Partners Inc.",
+            "ORG"
+        ]
+    ]
+}

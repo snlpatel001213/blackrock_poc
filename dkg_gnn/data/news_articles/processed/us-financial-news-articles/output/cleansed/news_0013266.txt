@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Tokmanni Group Oyj",
+            "ORG",
+            "Provide",
+            "Prelim Last Quarter Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tokmanni Group Oyj",
+            "ORG",
+            "Operate_In",
+            "Gdynia",
+            "GPE"
+        ],
+        [
+            "Prelim Last Quarter Revenue",
+            "ECON_INDICATOR",
+            "Grow",
+            "4.4 %",
+            "NUM"
+        ],
+        [
+            "Prelim Last Quarter Revenue",
+            "ECON_INDICATOR",
+            "Approximate",
+            "EUR 248.6 Million",
+            "NUM"
+        ],
+        [
+            "Prelim Last Quarter Revenue",
+            "ECON_INDICATOR",
+            "Compare_To",
+            "(238.1)",
+            "NUM"
+        ],
+        [
+            "Tokmanni Group Oyj",
+            "ORG",
+            "Provide",
+            "Prelim Full Year Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prelim Full Year Revenue",
+            "ECON_INDICATOR",
+            "Grow",
+            "2.7 %",
+            "NUM"
+        ],
+        [
+            "Prelim Full Year Revenue",
+            "ECON_INDICATOR",
+            "Approximate",
+            "EUR 796.6 Million",
+            "NUM"
+        ],
+        [
+            "Prelim Full Year Revenue",
+            "ECON_INDICATOR",
+            "Compare_To",
+            "(775.8)",
+            "NUM"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Seth Meyers",
+            "PERSON",
+            "Host",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Focus_On",
+            "Sexual Allegations",
+            "CONCEPT"
+        ],
+        [
+            "Hollywood",
+            "GPE",
+            "Relate_To",
+            "Sexual Allegations",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Appoint",
+            "Suella Fernandes",
+            "PERSON"
+        ],
+        [
+            "Suella Fernandes",
+            "PERSON",
+            "Is_Member_Of",
+            "European Research Group",
+            "ORG"
+        ],
+        [
+            "European Research Group",
+            "ORG",
+            "Relate_To",
+            "Leaving European Union",
+            "EVENT"
+        ],
+        [
+            "Suella Fernandes",
+            "PERSON",
+            "Has",
+            "Full Title",
+            "Parliamentary Under Secretary of State at Department for Exiting the European Union"
+        ],
+        [
+            "Suella Fernandes",
+            "PERSON",
+            "Participates_In",
+            "Department for Exiting the European Union",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Poach",
+            "Humphrey Singer",
+            "PERSON"
+        ],
+        [
+            "Humphrey Singer",
+            "PERSON",
+            "Be_Finance_Chief",
+            "Marks & Spencer",
+            "COMP"
+        ],
+        [
+            "Helen Weir",
+            "PERSON",
+            "Leave",
+            "Marks & Spencer",
+            "COMP"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Transform",
+            "N/A",
+            "CONCEPT"
+        ],
+        [
+            "Steve Rowe",
+            "PERSON",
+            "Leadership",
+            "Marks & Spencer",
+            "COMP"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Improve",
+            "Ranges",
+            "CONCEPT"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Reduce",
+            "Floorspace",
+            "CONCEPT"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Cut",
+            "Cost_Base",
+            "CONCEPT"
+        ],
+        [
+            "Helen Weir",
+            "PERSON",
+            "Leave",
+            "March_31",
+            "DATE"
+        ],
+        [
+            "Helen Weir",
+            "PERSON",
+            "Paid",
+            "757000_Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Helen Weir",
+            "PERSON",
+            "Receive",
+            "496000_Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Humphrey Singer",
+            "PERSON",
+            "Receive",
+            "600000_Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Sell",
+            "Electricals",
+            "PRODUCT"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Sell",
+            "Mobile_Phones",
+            "PRODUCT"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Start",
+            "Search",
+            "CONCEPT"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Healthy",
+            "Financial_Position",
+            "CONCEPT"
+        ],
+        [
+            "Seb James",
+            "PERSON",
+            "Chief_Executive",
+            "Dixons Carphone",
+            "COMP"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Fine",
+            "400000_Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Cyber_Attack",
+            "2015",
+            "DATE"
+        ],
+        [
+            "Dixons Carphone",
+            "COMP",
+            "Release",
+            "Trading_Statement",
+            "EVENT"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Update",
+            "Christmas_Trading",
+            "EVENT"
+        ],
+        [
+            "Dollars",
+            "FIN_INSTRUMENT",
+            "Equal",
+            "0.7383_Pounds",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

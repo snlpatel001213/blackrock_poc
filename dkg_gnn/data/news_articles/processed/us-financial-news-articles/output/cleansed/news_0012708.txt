@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Visteon Corp",
+            "COMP",
+            "Introduce",
+            "DriveCore",
+            "PRODUCT"
+        ],
+        [
+            "Visteon Corp",
+            "COMP",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "DriveCore",
+            "PRODUCT",
+            "Relate_To",
+            "Self-driving technology",
+            "CONCEPT"
+        ]
+    ]
+}

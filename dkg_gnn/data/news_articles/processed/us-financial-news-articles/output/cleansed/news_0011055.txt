@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Rebels",
+            "PERSON",
+            "Declare",
+            "Counter Attack",
+            "EVENT"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Fighting",
+            "Syrian Government Forces",
+            "ORG/GOV"
+        ],
+        [
+            "Syrian Government Forces",
+            "ORG/GOV",
+            "Advance",
+            null,
+            null
+        ],
+        [
+            "Idlib Province",
+            "GPE",
+            "Held By",
+            "Rebels",
+            "PERSON"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Flee",
+            "Government Advances",
+            "ORG/GOV"
+        ],
+        [
+            "Assad",
+            "PERSON",
+            "Defeat",
+            "Rebels",
+            "PERSON"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Help",
+            "Assad",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Help",
+            "Assad",
+            "PERSON"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Attack",
+            "Russian Military Bases",
+            "ORG"
+        ],
+        [
+            "Moscow",
+            "GPE",
+            "Efforts",
+            "Syria Peace Congress",
+            "EVENT"
+        ],
+        [
+            "Hezbollah",
+            "ORG",
+            "News Service",
+            null,
+            null
+        ],
+        [
+            "Free Syrian Army",
+            "ORG",
+            "Set Up",
+            "Joint Operations Room",
+            "ORG"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Repel",
+            "Offensive",
+            "EVENT"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Take Back",
+            "Areas",
+            "GPE"
+        ],
+        [
+            "Tahrir al-Sham",
+            "ORG",
+            "Make Gains",
+            null,
+            null
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Capture",
+            "Villages",
+            "GPE"
+        ],
+        [
+            "Rebels",
+            "PERSON",
+            "Seize",
+            "Government Fighters",
+            "PERSON"
+        ],
+        [
+            "Syrian Military",
+            "ORG",
+            "Deny",
+            "Rebel Claims",
+            "EVENT"
+        ],
+        [
+            "Warplanes",
+            "ORG",
+            "Strike",
+            "Khan Sheikhoun, Saraqeb",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Deploy Forces",
+            "Northern Idlib",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Set Up Bases",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Accuse",
+            "Syrian Government",
+            "ORG/GOV"
+        ],
+        [
+            "Syrian Government",
+            "ORG/GOV",
+            "Wage",
+            "Widescale Attack",
+            "EVENT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Concerned",
+            "Wider Fighting",
+            "EVENT"
+        ],
+        [
+            "Syrians",
+            "PERSON",
+            "See",
+            "Turkey\u2019s Military Intervention",
+            "EVENT"
+        ],
+        [
+            "Syrians",
+            "PERSON",
+            "Blame",
+            "Killing, Injuring Civilians",
+            "EVENT"
+        ]
+    ]
+}

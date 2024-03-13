@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Genesco Inc",
+            "COMP",
+            "Issue",
+            "Statement",
+            "EVENT"
+        ],
+        [
+            "Genesco Inc",
+            "COMP",
+            "Relate_To",
+            "13D Filing",
+            "EVENT"
+        ],
+        [
+            "Legion Partners Asset Management",
+            "ORG",
+            "File",
+            "13D",
+            "EVENT"
+        ],
+        [
+            "4010 Capital",
+            "ORG",
+            "File",
+            "13D",
+            "EVENT"
+        ],
+        [
+            "Genesco Inc",
+            "COMP",
+            "Engage",
+            "Representatives of Legion Partners",
+            "ORG"
+        ],
+        [
+            "Genesco Inc",
+            "COMP",
+            "Expect",
+            "Constructive Dialog",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Jonathan Saul",
+            "PERSON",
+            "Update",
+            "32 minutes ago",
+            "TIME"
+        ],
+        [
+            "China",
+            "GPE",
+            "Face",
+            "Compensation payment snags",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Compensation payment snags",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iranian oil tanker",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "East China Sea",
+            "GPE"
+        ],
+        [
+            "Sanchi",
+            "PRODUCT",
+            "Collide",
+            "CF Crystal",
+            "PRODUCT"
+        ],
+        [
+            "Sanchi",
+            "PRODUCT",
+            "Carry",
+            "136,000 tonnes of highly flammable condensate oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CF Crystal",
+            "PRODUCT",
+            "Return",
+            "Safely to port",
+            "LOCATION"
+        ],
+        [
+            "Rahul Khanna",
+            "PERSON",
+            "Estimate",
+            "Losses from the collision",
+            "EVENT"
+        ],
+        [
+            "Losses",
+            "ECON_INDICATOR",
+            "Be",
+            "In the hundreds of millions of dollars",
+            "VALUE"
+        ],
+        [
+            "Rahul Khanna",
+            "PERSON",
+            "State",
+            "Oil pollution liability aspects are probably the largest element",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Kushner",
+            "PERSON",
+            "State",
+            "Compensation process would be complex",
+            "EVENT"
+        ],
+        [
+            "Numerous insurers",
+            "COMP",
+            "Involve",
+            "Multiple payments",
+            "EVENT"
+        ],
+        [
+            "Under U.S. sanctions",
+            "ORG/REG",
+            "Prohibit",
+            "U.S. financial institutions from any trade with Iran",
+            "EVENT"
+        ],
+        [
+            "Non-U.S. banks",
+            "COMP",
+            "Can",
+            "Do business with Iran",
+            "EVENT"
+        ],
+        [
+            "Transactions involving U.S. dollars",
+            "FIN_INSTRUMENT",
+            "Must not involve",
+            "U.S. financial system in any way",
+            "EVENT"
+        ],
+        [
+            "Banks and individuals",
+            "COMP",
+            "Restrict",
+            "Trade with individuals or entities that remain on a U.S. blacklist",
+            "EVENT"
+        ],
+        [
+            "Maritime officials",
+            "PERSON",
+            "State",
+            "Compensation would fall under China\u2019s far smaller scheme",
+            "EVENT"
+        ],
+        [
+            "Xia Jun",
+            "PERSON",
+            "State",
+            "Chinese government would calculate the losses arising from pollution to the environment and fishing sector",
+            "EVENT"
+        ],
+        [
+            "Protection and Indemnity (P&I) clubs",
+            "COMP",
+            "Insure",
+            "The world\u2019s ocean-going tonnage against pollution and injury claims",
+            "EVENT"
+        ],
+        [
+            "Steamship Mutual",
+            "COMP",
+            "Insure",
+            "The Panama-flagged Sanchi",
+            "PRODUCT"
+        ],
+        [
+            "Seventy percent",
+            "ECON_INDICATOR",
+            "Of",
+            "The value of Sanchi itself is covered by 11 international insurers",
+            "EVENT"
+        ],
+        [
+            "Skuld",
+            "COMP",
+            "Cover",
+            "The Hong Kong-flagged CF Crystal for protection and indemnity",
+            "EVENT"
+        ],
+        [
+            "A shipping source",
+            "PERSON",
+            "State",
+            "The major issue with this case is going to be the banking issue",
+            "EVENT"
+        ],
+        [
+            "An Iranian government official",
+            "PERSON",
+            "Acknowledge",
+            "Banking issues",
+            "EVENT"
+        ],
+        [
+            "An Iranian government official",
+            "PERSON",
+            "Optimistic",
+            "A solution could be found",
+            "EVENT"
+        ],
+        [
+            "Chinese banks",
+            "COMP",
+            "Become",
+            "More cautious",
+            "EVENT"
+        ]
+    ]
+}

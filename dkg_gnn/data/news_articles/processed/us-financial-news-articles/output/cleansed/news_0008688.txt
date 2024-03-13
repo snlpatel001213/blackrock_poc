@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Has",
+            "Berkshire",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Control",
+            "Geico",
+            "COMP"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Control",
+            "BNSF Railway",
+            "COMP"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Benefit_From",
+            "Lower US Corporate Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Experience_Increase",
+            "Operating Earnings Power",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Experience_Increase",
+            "12%",
+            "ECON_INDICATOR",
+            "On_An_Ongoing_Basis",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Experience_Increase",
+            "14%",
+            "ECON_INDICATOR",
+            "Last_Week",
+            "TEMPORAL"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Experience_Rise",
+            "Class A Shares",
+            "FIN_INSTRUMENT",
+            "22%",
+            "ECON_INDICATOR",
+            "Last_Year",
+            "TEMPORAL"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Expect_To",
+            "Report Earnings",
+            "CONCEPT",
+            "End_Of_Next_Month",
+            "TEMPORAL"
+        ]
+    ]
+}

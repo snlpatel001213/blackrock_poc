@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Metro",
+            "COMP",
+            "Report",
+            "Q1 sales 10.1 bln euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Operate_In",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Confirm",
+            "2017/18 guidance",
+            "CONCEPT"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Has",
+            "wholesale unit",
+            "ORG"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Has",
+            "Real hypermarkets",
+            "ORG"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Impact",
+            "analyst consensus",
+            "CONCEPT"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Impact",
+            "European retail stocks",
+            "SECTOR"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Forecast",
+            "stronger profitability",
+            "CONCEPT"
+        ],
+        [
+            "Metro",
+            "COMP",
+            "Report",
+            "full figures on Feb. 13",
+            "DATE"
+        ],
+        [
+            "Metro wholesale business",
+            "ORG",
+            "See",
+            "like-for-like rise of about 2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Metro wholesale business",
+            "ORG",
+            "See",
+            "9 percent fall in Russia",
+            "GPE"
+        ],
+        [
+            "Real hypermarkets",
+            "ORG",
+            "Report",
+            "flat like-for-like sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real hypermarkets",
+            "ORG",
+            "Renovate",
+            "9 of its 281 stores",
+            "QUANTITY"
+        ],
+        [
+            "Real hypermarkets",
+            "ORG",
+            "Bigger focus on",
+            "fresh and organic food",
+            "CONCEPT"
+        ],
+        [
+            "Delivery business",
+            "ORG",
+            "Continue to grow",
+            null,
+            null
+        ],
+        [
+            "Real ecommerce sales",
+            "ORG",
+            "Grow",
+            null,
+            null
+        ]
+    ]
+}

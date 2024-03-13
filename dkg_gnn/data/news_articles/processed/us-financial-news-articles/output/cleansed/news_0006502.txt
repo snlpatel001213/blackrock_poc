@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Walt Disney Co",
+            "ORG",
+            "Acquire",
+            "Fox TV studio",
+            "ORG"
+        ],
+        [
+            "Fox TV studio",
+            "ORG",
+            "Produce",
+            "edgy adult comedies",
+            "CONCEPT"
+        ],
+        [
+            "Fox TV studio",
+            "ORG",
+            "Produce",
+            "gory dramas",
+            "CONCEPT"
+        ],
+        [
+            "Disney",
+            "ORG",
+            "Operate_In",
+            "Family-friendly movies and TV shows",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Murphy",
+            "PERSON",
+            "Receive_Call",
+            "Bob Iger",
+            "PERSON"
+        ],
+        [
+            "Ryan Murphy",
+            "PERSON",
+            "Concerned_About",
+            "Disney brand",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Murphy",
+            "PERSON",
+            "Interested_In",
+            "Disney acquisition",
+            "EVENT"
+        ],
+        [
+            "Gary Newman",
+            "PERSON",
+            "Meet_With",
+            "Producers",
+            "PERSON"
+        ],
+        [
+            "Gary Newman",
+            "PERSON",
+            "Assure",
+            "Business as usual",
+            "CONCEPT"
+        ],
+        [
+            "Disney",
+            "ORG",
+            "Encourage",
+            "Fox content",
+            "CONCEPT"
+        ],
+        [
+            "Seth MacFarlane",
+            "PERSON",
+            "Receive_Call",
+            "Bob Iger",
+            "PERSON"
+        ],
+        [
+            "Seth MacFarlane",
+            "PERSON",
+            "Shrug_Off",
+            "Pending acquisition",
+            "EVENT"
+        ]
+    ]
+}

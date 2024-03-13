@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "8Common Ltd",
+            "COMP",
+            "Request",
+            "Trading Halts",
+            "EVENT"
+        ],
+        [
+            "8Common Ltd",
+            "COMP",
+            "Seeks",
+            "Trading Halts",
+            "EVENT"
+        ],
+        [
+            "8Common Ltd",
+            "COMP",
+            "Relate_To",
+            "Capital Raise",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

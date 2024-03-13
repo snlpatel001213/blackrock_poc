@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Danica Patrick",
+            "PERSON",
+            "Relate_To",
+            "Race Car Driving",
+            "CONCEPT"
+        ],
+        [
+            "Race Car Driving",
+            "CONCEPT",
+            "Require",
+            "Strength",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Race Car Driving",
+            "CONCEPT",
+            "Require",
+            "Concentration",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Race Car",
+            "PRODUCT",
+            "Have",
+            "Intense Gravitational Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Race Car",
+            "PRODUCT",
+            "Have",
+            "Extreme Heat",
+            "CONCEPT"
+        ],
+        [
+            "Race Car Driving",
+            "CONCEPT",
+            "Require",
+            "Keeping Tense",
+            "CONCEPT"
+        ],
+        [
+            "Race Car Driving",
+            "CONCEPT",
+            "Require",
+            "Being Ready For Sudden Adjustments",
+            "CONCEPT"
+        ],
+        [
+            "Race",
+            "EVENT",
+            "Last",
+            "Three Or Four Hours",
+            "DURATION"
+        ],
+        [
+            "Race Car Driving",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Marathon",
+            "EVENT"
+        ]
+    ]
+}

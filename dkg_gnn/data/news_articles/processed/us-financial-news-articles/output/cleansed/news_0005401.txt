@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Re-open",
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE"
+        ],
+        [
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE",
+            "Operate_In",
+            "Iranian Kurdistan region",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Close",
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Formal_Request",
+            "Iraqi Government",
+            "ORG/GOV"
+        ],
+        [
+            "Iraqi Kurdistan region",
+            "GPE",
+            "Has",
+            "Tamarchin and Parviz Khan border crossings",
+            "GPE"
+        ],
+        [
+            "Iraqi Kurdistan region",
+            "GPE",
+            "Referendum",
+            "Independence",
+            "CONCEPT"
+        ],
+        [
+            "ISNA news agency",
+            "ORG",
+            "Report",
+            "Iran re-opens border crossings",
+            "CONCEPT"
+        ],
+        [
+            "Bozorgmehr Sharafedin",
+            "PERSON",
+            "Reporting",
+            ".LONDON (Reuters)",
+            "COMP"
+        ],
+        [
+            "Paul Tait",
+            "PERSON",
+            "Editing",
+            "Reporting by Bozorgmehr Sharafedin",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Dassault Aviation",
+            "COMP",
+            "Has",
+            "Business Jet Market",
+            "SECTOR"
+        ],
+        [
+            "Business Jet Market",
+            "SECTOR",
+            "Bruise",
+            "2007-08 Financial Crisis",
+            "EVENT"
+        ],
+        [
+            "Business Jet Market",
+            "SECTOR",
+            "Show",
+            "Signs of Recovery",
+            "CONCEPT"
+        ],
+        [
+            "Eric Trappier",
+            "PERSON",
+            "Is_Member_Of",
+            "Dassault Aviation",
+            "COMP"
+        ],
+        [
+            "Eric Trappier",
+            "PERSON",
+            "Attend",
+            "2014 Annual Results Presentation",
+            "EVENT"
+        ],
+        [
+            "Sales",
+            "CONCEPT",
+            "Halve",
+            "From Peak of 1,317 in 2008 to 661 in 2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Business Jet Market",
+            "SECTOR",
+            "Operate_In",
+            "General Aviation Manufacturers Association",
+            "ORG"
+        ],
+        [
+            "Dassault Aviation",
+            "COMP",
+            "Develop",
+            "New Business Jet",
+            "PRODUCT"
+        ],
+        [
+            "Trappier",
+            "PERSON",
+            "Speak",
+            "In His Capacity as Head of French Gifas",
+            "ORG"
+        ],
+        [
+            "Gifas",
+            "ORG",
+            "See",
+            "Pick Up in Activity Over Past Month",
+            "TIME"
+        ],
+        [
+            "Honeywell",
+            "COMP",
+            "Expect",
+            "Market to Receive Boost",
+            "EVENT"
+        ],
+        [
+            "Global Economy",
+            "CONCEPT",
+            "Steady",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Companies",
+            "GPE",
+            "Upgrade",
+            "to Newer Aircraft",
+            "PRODUCT"
+        ],
+        [
+            "Dassault Aviation",
+            "COMP",
+            "Scrap",
+            "Development of Falcon 5X Jet",
+            "PRODUCT"
+        ],
+        [
+            "Dassault Aviation",
+            "COMP",
+            "Launch",
+            "New Model Powered by Pratt & Whitney Canada",
+            "COMP"
+        ],
+        [
+            "Pratt & Whitney Canada",
+            "COMP",
+            "Subsidiary",
+            "United Technologies Corp",
+            "COMP"
+        ]
+    ]
+}

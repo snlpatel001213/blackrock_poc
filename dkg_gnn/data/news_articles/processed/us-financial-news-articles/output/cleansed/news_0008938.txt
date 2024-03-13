@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Wall Street",
+            "FIN_INSTRUMENT",
+            "Pause",
+            "Rally",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "General Electric",
+            "COMP",
+            "Raise",
+            "Charges",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Electric",
+            "COMP",
+            "Fall",
+            "2.9",
+            "PERCENT"
+        ],
+        [
+            "CBOE Volatility index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "1-month high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tracie McMillion",
+            "PERSON",
+            "Add",
+            "Investors are continuing to move into equities as they see returns",
+            "COMMENT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "0.04",
+            "PERCENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Lose",
+            "0.35",
+            "PERCENT"
+        ],
+        [
+            "Nasdaq Composite",
+            "FIN_INSTRUMENT",
+            "Drop",
+            "0.51",
+            "PERCENT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Break",
+            "26,000 mark",
+            "MILestone"
+        ],
+        [
+            "UnitedHealth",
+            "COMP",
+            "Rise",
+            "1.9",
+            "PERCENT"
+        ],
+        [
+            "UnitedHealth",
+            "COMP",
+            "Report",
+            "Results",
+            "EVENT"
+        ],
+        [
+            "UnitedHealth",
+            "COMP",
+            "Top",
+            "Profit Estimates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Merck",
+            "COMP",
+            "Surge",
+            "5.8",
+            "PERCENT"
+        ],
+        [
+            "Merck",
+            "COMP",
+            "Early Results",
+            "Keytruda",
+            "PRODUCT"
+        ],
+        [
+            "Viacom",
+            "COMP",
+            "Fall",
+            "7.0",
+            "PERCENT"
+        ],
+        [
+            "CBS Corp",
+            "COMP",
+            "Not",
+            "Active Merger Discussions",
+            "EVENT"
+        ],
+        [
+            "Merck",
+            "COMP",
+            "Help",
+            "Lung Cancer Patients",
+            "CONCEPT"
+        ],
+        [
+            "Viacom",
+            "COMP",
+            "Fall",
+            "7.0",
+            "PERCENT"
+        ],
+        [
+            "CBS Corp",
+            "COMP",
+            "Not",
+            "Active Merger Discussions",
+            "EVENT"
+        ]
+    ]
+}

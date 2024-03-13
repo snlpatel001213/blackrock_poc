@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Is_Member_Of",
+            "Movement for Democratic Change",
+            "ORG"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Operate_In",
+            "Zimbabwe",
+            "GPE"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Disclose",
+            "cancer",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Receive",
+            "treatment",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Pictures",
+            "President Emmerson Mnangagwa",
+            "PERSON"
+        ],
+        [
+            "President Emmerson Mnangagwa",
+            "PERSON",
+            "Succeed",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Consider",
+            "give way",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Looking at",
+            "imminent prospects",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Leave",
+            "levers of leadership",
+            "CONCEPT"
+        ],
+        [
+            "Younger generation",
+            "CONCEPT",
+            "Take forward",
+            "huge task",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Recognize",
+            "imperative",
+            "CONCEPT"
+        ],
+        [
+            "New hands",
+            "CONCEPT",
+            "Take",
+            "struggle",
+            "CONCEPT"
+        ],
+        [
+            "New hands",
+            "CONCEPT",
+            "Take",
+            "country",
+            "GPE"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Rivalry",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Reunite",
+            "former allies",
+            "CONCEPT"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Challenge",
+            "ZANU-PF party",
+            "ORG"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Have",
+            "three deputies",
+            "CONCEPT"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Have",
+            "youthful 39-year-old Nelson Chamisa",
+            "PERSON"
+        ]
+    ]
+}

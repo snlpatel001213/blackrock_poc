@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Tunisian Police",
+            "ORG",
+            "Clash",
+            "Protesters",
+            "PERSON"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Protests_In",
+            "Five Towns",
+            "GPE"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Protests_In",
+            "Capital Tunis",
+            "GPE"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Fire",
+            "Teargas",
+            "PRODUCT"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Protests_In",
+            "Tebourba",
+            "GPE"
+        ],
+        [
+            "Protestor",
+            "PERSON",
+            "Killed",
+            "null",
+            "null"
+        ],
+        [
+            "Monday",
+            "EVENT",
+            "Relate_To",
+            "Protestor Death",
+            "EVENT"
+        ]
+    ]
+}

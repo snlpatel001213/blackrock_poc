@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Royal Gold Inc",
+            "COMP",
+            "Has",
+            "Capital World Investors",
+            "ORG",
+            "Raise",
+            "10.2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Capital World Investors",
+            "ORG",
+            "Invests_In",
+            "Royal Gold Inc",
+            "COMP"
+        ],
+        [
+            "Royal Gold Inc",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Agenus Inc",
+            "ORG",
+            "Announce",
+            "$230M Royalty Monetization",
+            "CONCEPT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Control",
+            "Royalty Bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Raise",
+            "$190M Cash Proceeds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Raise",
+            "Up to $40M Milestone Payments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Use",
+            "Part of Proceeds",
+            "CONCEPT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Redeem",
+            "Royalty Bond",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Relate_To",
+            "Healthcare Royalty Partners",
+            "ORG"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Owe",
+            "$26M",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Relate_To",
+            "HCR",
+            "ORG"
+        ],
+        [
+            "Agenus Inc",
+            "ORG",
+            "Impact",
+            "Certain Sales Milestones",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "output": [
+        [
+            "Virat Kohli",
+            "PERSON",
+            "Calls_For",
+            "Indian Batsmen",
+            "PERSON"
+        ],
+        [
+            "Indian Batsmen",
+            "PERSON",
+            "Must_Show",
+            "Positive Mindset",
+            "CONCEPT"
+        ],
+        [
+            "Indian Batsmen",
+            "PERSON",
+            "Combat",
+            "South Africa Bowling Attack",
+            "PERSON"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Win",
+            "Match",
+            "EVENT"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "End",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Cricket-Kohli",
+            "EVENT",
+            "Calls_For",
+            "Indian Batsmen",
+            "PERSON"
+        ],
+        [
+            "India",
+            "GPE",
+            "Lose",
+            "First Test",
+            "EVENT"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "Over",
+            "Three Days",
+            "TIME"
+        ],
+        [
+            "Sunday",
+            "DATE",
+            "Washed Out",
+            "null",
+            "null"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Win",
+            "Match",
+            "EVENT"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "By",
+            "72 Runs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Set",
+            "208",
+            "ECON_INDICATOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Bowled Out",
+            "135",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South African Seamer",
+            "PERSON",
+            "Collect",
+            "Career-Best Figures",
+            "CONCEPT"
+        ],
+        [
+            "Vernon Philander",
+            "PERSON",
+            "Collect",
+            "6-42",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kohli",
+            "PERSON",
+            "Told",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Pitch",
+            "CONCEPT",
+            "Outstanding",
+            "null",
+            "null"
+        ],
+        [
+            "Kohli",
+            "PERSON",
+            "Like",
+            "Type",
+            "CONCEPT"
+        ],
+        [
+            "Wicket",
+            "CONCEPT",
+            "Great",
+            "Test Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Test Match",
+            "EVENT",
+            "Result",
+            "Four Days",
+            "TIME"
+        ],
+        [
+            "Test Match",
+            "EVENT",
+            "Lost",
+            "One Day",
+            "TIME"
+        ],
+        [
+            "India",
+            "GPE",
+            "Enjoy",
+            "Part",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Enjoy",
+            "Part",
+            "CONCEPT"
+        ],
+        [
+            "Test Match",
+            "EVENT",
+            "Challenge",
+            "India",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Let",
+            "Down",
+            "null"
+        ],
+        [
+            "India",
+            "GPE",
+            "Fail",
+            "Big Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Kohli",
+            "PERSON",
+            "Suggest",
+            "Batsmen",
+            "PERSON"
+        ],
+        [
+            "Batsmen",
+            "PERSON",
+            "Find",
+            "Way",
+            "CONCEPT"
+        ],
+        [
+            "Batsmen",
+            "PERSON",
+            "Transfer",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "South African Bowlers",
+            "PERSON",
+            "More",
+            "null",
+            "null"
+        ],
+        [
+            "Batsmen",
+            "PERSON",
+            "Step Up",
+            "null",
+            "null"
+        ],
+        [
+            "South African Bowlers",
+            "PERSON",
+            "Force",
+            "India",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Play",
+            "Good Cricket",
+            "CONCEPT"
+        ],
+        [
+            "Every Over",
+            "CONCEPT",
+            "Play",
+            "Against",
+            "PREP"
+        ],
+        [
+            "South African Bowling Attack",
+            "PERSON",
+            "Good Credit",
+            "null",
+            "null"
+        ],
+        [
+            "Batters",
+            "PERSON",
+            "Step Up",
+            "null",
+            "null"
+        ],
+        [
+            "Second Test",
+            "EVENT",
+            "Start",
+            "Saturday",
+            "DATE"
+        ],
+        [
+            "Pretoria",
+            "GPE",
+            "Host",
+            "Test",
+            "EVENT"
+        ],
+        [
+            "Test",
+            "EVENT",
+            "Series",
+            "Rest",
+            "TIME"
+        ],
+        [
+            "Rest",
+            "TIME",
+            "Tests",
+            "Come",
+            "VERB"
+        ],
+        [
+            "Pretoria",
+            "GPE",
+            "Johannesburg",
+            "null",
+            "null"
+        ],
+        [
+            "Tests",
+            "EVENT",
+            "Likely",
+            "Have",
+            "VERB"
+        ],
+        [
+            "Bounce",
+            "CONCEPT"
+        ],
+        [
+            "Pace",
+            "CONCEPT"
+        ],
+        [
+            "Batsmen",
+            "PERSON"
+        ],
+        [
+            "Top",
+            "CONCEPT"
+        ]
+    ]
+}

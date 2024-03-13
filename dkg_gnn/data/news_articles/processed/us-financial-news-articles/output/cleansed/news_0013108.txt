@@ -1,0 +1,34 @@
+{
+    "output": [
+        [
+            "Isodiol International Inc.",
+            "COMP",
+            "Sign",
+            "Licensing Agreement",
+            "EVENT",
+            "With",
+            "Level Brands Inc.",
+            "COMP"
+        ],
+        [
+            "Level Brands Inc.",
+            "COMP",
+            "Participates_In",
+            "Licensing Agreement",
+            "EVENT",
+            "With",
+            "Isodiol International Inc.",
+            "COMP"
+        ],
+        [
+            "Kathy Ireland",
+            "PERSON",
+            "Is_Member_Of",
+            "Level Brands Inc.",
+            "COMP",
+            "As",
+            "Chairman Emeritus and Chief Brand Strategist",
+            "POSITION"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Operate_In",
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Control",
+            "firm",
+            "COMP"
+        ],
+        [
+            "firm",
+            "COMP",
+            "Produce",
+            "sanitation",
+            "CONCEPT"
+        ],
+        [
+            "firm",
+            "COMP",
+            "Produce",
+            "water treatment",
+            "CONCEPT"
+        ],
+        [
+            "firm",
+            "COMP",
+            "Produce",
+            "solar energy",
+            "CONCEPT"
+        ],
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Arrested_By",
+            "UK Court",
+            "ORG/GOV"
+        ],
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Has",
+            "passport",
+            "CONCEPT"
+        ],
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Raise",
+            "one million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alexandre Djouhri",
+            "PERSON",
+            "Participates_In",
+            "extradition hearing",
+            "EVENT"
+        ],
+        [
+            "Nicolas Sarkozy",
+            "PERSON",
+            "Serve_As",
+            "president",
+            "ORG/GOV"
+        ],
+        [
+            "Nicolas Sarkozy",
+            "PERSON",
+            "Receive",
+            "illicit campaign funding",
+            "CONCEPT"
+        ],
+        [
+            "Nicolas Sarkozy",
+            "PERSON",
+            "Dismiss",
+            "Libyan allegations",
+            "CONCEPT"
+        ],
+        [
+            "Muammar Gaddafi",
+            "PERSON",
+            "Former_Leader_Of",
+            "Libya",
+            "GPE"
+        ],
+        [
+            "Muammar Gaddafi",
+            "PERSON",
+            "Funnel",
+            "money",
+            "CONCEPT"
+        ],
+        [
+            "French Businessman",
+            "PERSON",
+            "Investigate",
+            "French prosecutors",
+            "ORG"
+        ]
+    ]
+}

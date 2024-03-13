@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Maureen Donnell",
+            "PERSON",
+            "Owns",
+            "Palm Beach estate",
+            "GPE"
+        ],
+        [
+            "Palm Beach estate",
+            "GPE",
+            "Has",
+            "shaded terrace",
+            "ORG"
+        ],
+        [
+            "shaded terrace",
+            "ORG",
+            "Has",
+            "sweeping lawn",
+            "ORG"
+        ],
+        [
+            "sweeping lawn",
+            "ORG",
+            "Meets",
+            "private dock",
+            "ORG"
+        ],
+        [
+            "private dock",
+            "ORG",
+            "Located_On",
+            "Intracoastal Waterway",
+            "GPE"
+        ],
+        [
+            "Maureen Donnell",
+            "PERSON",
+            "Wears",
+            "high-necked purple blouse",
+            "PRODUCT"
+        ],
+        [
+            "Maureen Donnell",
+            "PERSON",
+            "Has",
+            "gold bracelets",
+            "PRODUCT"
+        ],
+        [
+            "estate",
+            "GPE",
+            "Has",
+            "swimming pool",
+            "ORG"
+        ],
+        [
+            "swimming pool",
+            "ORG",
+            "Nearby",
+            "row of antique French statues",
+            "ORG"
+        ],
+        [
+            "row of antique French statues",
+            "ORG",
+            "Depict",
+            "four seasons",
+            "CONCEPT"
+        ],
+        [
+            "estate",
+            "GPE",
+            "Employs",
+            "housekeeper",
+            "PERSON"
+        ],
+        [
+            "housekeeper",
+            "PERSON",
+            "Brings",
+            "iced tea",
+            "PRODUCT"
+        ],
+        [
+            "housekeeper",
+            "PERSON",
+            "Brings",
+            "cookies",
+            "PRODUCT"
+        ],
+        [
+            "Mar-a-Lago",
+            "GPE",
+            "Nearby",
+            "police cars",
+            "ORG"
+        ],
+        [
+            "police cars",
+            "ORG",
+            "With",
+            "flashing lights",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Relate_To",
+            "Federal Bureau of Investigation",
+            "ORG/GOV"
+        ],
+        [
+            "Federal Bureau of Investigation",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Government Bodies",
+            "ORG/GOV"
+        ],
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Served_In",
+            "Marine officer",
+            "CONCEPT"
+        ],
+        [
+            "Robert Mueller",
+            "PERSON",
+            "Served_In",
+            "Marine officer",
+            "CONCEPT"
+        ],
+        [
+            "Robert Mueller",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Bureau of Investigation",
+            "ORG/GOV"
+        ],
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Became",
+            "Assistant Director",
+            "CONCEPT"
+        ],
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Headed",
+            "Bureau\u2019s Largest Field Office",
+            "COMP"
+        ],
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Credited_With",
+            "Revolutionizing",
+            "CONCEPT"
+        ],
+        [
+            "James Kallstrom",
+            "PERSON",
+            "Revolutionizing",
+            "Bureau\u2019s Electronic Surveillance",
+            "CONCEPT"
+        ]
+    ]
+}

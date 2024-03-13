@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Transgene Sa",
+            "ORG",
+            "Operate_In",
+            "Gdynia Newsroom",
+            "ORG/REG"
+        ],
+        [
+            "TG4010",
+            "PRODUCT",
+            "Participates_In",
+            "Phase 2 Trial",
+            "EVENT"
+        ],
+        [
+            "TG4010",
+            "PRODUCT",
+            "Control",
+            "Transgene Sa",
+            "ORG"
+        ],
+        [
+            "TG4010",
+            "PRODUCT",
+            "Relate_To",
+            "NSCLC",
+            "CONCEPT"
+        ],
+        [
+            "TG4010",
+            "PRODUCT",
+            "Plus",
+            "Nivolumab",
+            "PRODUCT"
+        ],
+        [
+            "TG4010",
+            "PRODUCT",
+            "Plus",
+            "Chemotherapy",
+            "PRODUCT"
+        ],
+        [
+            "Phase 2 Trial",
+            "EVENT",
+            "Enroll",
+            "Up to 39 patients",
+            "CONCEPT"
+        ],
+        [
+            "Phase 2 Trial",
+            "EVENT",
+            "Happen",
+            "In USA and Europe",
+            "GPE"
+        ],
+        [
+            "First Results",
+            "EVENT",
+            "Expect",
+            "In H2 2018",
+            "DATE"
+        ]
+    ]
+}

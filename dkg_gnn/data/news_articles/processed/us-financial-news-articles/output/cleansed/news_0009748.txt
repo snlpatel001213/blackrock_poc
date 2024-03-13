@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Southern California Edison",
+            "COMP",
+            "Receive",
+            "Approval",
+            "ORG/REG"
+        ],
+        [
+            "Southern California Edison",
+            "COMP",
+            "Operate_In",
+            "Electric Transportation",
+            "SECTOR"
+        ],
+        [
+            "California Public Utilities Commission",
+            "ORG/REG",
+            "Approve",
+            "Pilot Projects",
+            "EVENT"
+        ]
+    ]
+}

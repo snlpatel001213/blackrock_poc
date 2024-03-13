@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Venus Remedies Ltd",
+            "COMP",
+            "Announce",
+            "Floor Price",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Floor Price",
+            "ECON_INDICATOR",
+            "Equal",
+            "103.64 Rupees",
+            "CONCEPT"
+        ],
+        [
+            "Floor Price",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "QIP Issue",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "QIP Issue",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Company",
+            "ORG/REG"
+        ]
+    ]
+}

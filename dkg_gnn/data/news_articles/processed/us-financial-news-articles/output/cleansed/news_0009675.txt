@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Create",
+            "new internal cybersecurity group",
+            "ORG"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Chip industry",
+            "SECTOR"
+        ],
+        [
+            "Leslie Culberstone",
+            "PERSON",
+            "Run",
+            "Intel Product Assurance and Security",
+            "ORG"
+        ],
+        [
+            "Brian Krzanich",
+            "PERSON",
+            "Say",
+            "need to continue working with the industry",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Decline_to_Comment",
+            "report",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Confirm",
+            "security issues",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Appointed",
+            "newly formed group",
+            "ORG"
+        ]
+    ]
+}

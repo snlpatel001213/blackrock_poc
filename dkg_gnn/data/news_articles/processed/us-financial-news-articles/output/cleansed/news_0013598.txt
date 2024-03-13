@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Lingnan Landscape Co Ltd",
+            "COMP",
+            "Plan",
+            "Set Up",
+            "VERB"
+        ],
+        [
+            "Unit",
+            "ORG",
+            "Plan",
+            "Set Up",
+            "VERB"
+        ],
+        [
+            "Partners",
+            "ORG",
+            "Include",
+            "GF Securities\u2019 Asset Management Affiliate",
+            "ORG"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Plan",
+            "Invest",
+            "VERB"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Plan",
+            "Set Up",
+            "VERB"
+        ],
+        [
+            "Two",
+            "NUM",
+            "Funds",
+            "PRODUCT",
+            "VERB"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Relate_To",
+            "Further Company Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Follow",
+            "Thomson Reuters Trust Principles",
+            "CONCEPT"
+        ]
+    ]
+}

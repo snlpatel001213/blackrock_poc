@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "University of Copenhagen",
+            "ORG",
+            "Participates_In",
+            "Develop",
+            "PRODUCT"
+        ],
+        [
+            "Bayer CropScience",
+            "ORG",
+            "Participates_In",
+            "Develop",
+            "PRODUCT"
+        ],
+        [
+            "New oilseed crop",
+            "PRODUCT",
+            "Relate_To",
+            "Oilseed Rape",
+            "PRODUCT"
+        ],
+        [
+            "New oilseed crop",
+            "PRODUCT",
+            "Impact",
+            "Heat",
+            "CONCEPT"
+        ],
+        [
+            "New oilseed crop",
+            "PRODUCT",
+            "Impact",
+            "Drought",
+            "CONCEPT"
+        ],
+        [
+            "New oilseed crop",
+            "PRODUCT",
+            "Impact",
+            "Diseases",
+            "CONCEPT"
+        ]
+    ]
+}

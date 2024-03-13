@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Cyber Tunnels",
+            "ORG"
+        ],
+        [
+            "Cyber Tunnels",
+            "ORG",
+            "Impact",
+            "Internet Access",
+            "GPE"
+        ],
+        [
+            "Cyber Tunnels",
+            "ORG",
+            "Threaten",
+            "Government Surveillance",
+            "ORG/GOV"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Use",
+            "Virtual Private Networks",
+            "ORG"
+        ],
+        [
+            "Virtual Private Networks",
+            "ORG",
+            "Help",
+            "Secure Emails",
+            "PRODUCT"
+        ],
+        [
+            "Virtual Private Networks",
+            "ORG",
+            "Assist",
+            "Transmit Data",
+            "PRODUCT"
+        ],
+        [
+            "Virtual Private Networks",
+            "ORG",
+            "Allow",
+            "Access Blocked Websites",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Ministry of Industry and Information Technology",
+            "Operate_In",
+            "ORG/GOV"
+        ],
+        [
+            "Ministry of Industry and Information Technology",
+            "ORG/GOV",
+            "Serve",
+            "Notice",
+            "PRODUCT"
+        ],
+        [
+            "Notice",
+            "PRODUCT",
+            "Relate_To",
+            "Access",
+            "PRODUCT"
+        ],
+        [
+            "Related Video",
+            "PRODUCT",
+            "Show",
+            "Life Inside China\u2019s Total Surveillance State",
+            "EVENT"
+        ],
+        [
+            "Event",
+            "EVENT",
+            "Happen",
+            "Northwestern Region",
+            "GPE"
+        ],
+        [
+            "Northwestern Region",
+            "GPE",
+            "Be",
+            "Xinjiang",
+            "GPE"
+        ],
+        [
+            "Xinjiang",
+            "GPE",
+            "Experiment",
+            "Domestic Surveillance",
+            "CONCEPT"
+        ],
+        [
+            "Surveillance",
+            "CONCEPT",
+            "Use",
+            "Cutting-Edge Technology",
+            "CONCEPT"
+        ],
+        [
+            "Image",
+            "PRODUCT",
+            "From",
+            "DeepGlint",
+            "COMP"
+        ]
+    ]
+}

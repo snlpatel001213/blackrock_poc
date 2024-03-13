@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ecuador",
+            "GPE",
+            "Grant",
+            "Julian Assange",
+            "PERSON"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Has",
+            "Ecuadorian citizenship",
+            "ORG/GOV"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Located_In",
+            "embassy",
+            "ORG"
+        ],
+        [
+            "embassy",
+            "ORG",
+            "Located_In",
+            "London",
+            "GPE"
+        ]
+    ]
+}

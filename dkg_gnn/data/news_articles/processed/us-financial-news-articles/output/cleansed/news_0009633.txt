@@ -1,0 +1,138 @@
+{
+    "output": [
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Flee",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Locate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Relate_To",
+            "Rice Subsidy Scheme",
+            "CONCEPT"
+        ],
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Sentenced_To",
+            "5 Years Prison",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Has_Not",
+            "Commented Publicly",
+            "CONCEPT"
+        ],
+        [
+            "Yingluck Shinawatra",
+            "PERSON",
+            "Thaksin Shinawatra",
+            "Relative",
+            "PERSON"
+        ],
+        [
+            "Thaksin Shinawatra",
+            "PERSON",
+            "Relate_To",
+            "Power Struggle",
+            "CONCEPT"
+        ],
+        [
+            "Thaksin Shinawatra",
+            "PERSON",
+            "Relate_To",
+            "Shinawatra Family",
+            "PERSON"
+        ],
+        [
+            "Thaksin Shinawatra",
+            "PERSON",
+            "Relate_To",
+            "Thai Politics",
+            "CONCEPT"
+        ],
+        [
+            "Thai Foreign Minister",
+            "PERSON",
+            "Say",
+            "Yingluck in London",
+            "CONCEPT"
+        ],
+        [
+            "Thai Foreign Minister",
+            "PERSON",
+            "Communicate",
+            "Thai Authorities",
+            "ORG"
+        ],
+        [
+            "Thai Foreign Minister",
+            "PERSON",
+            "Communicate",
+            "British Counterparts",
+            "ORG"
+        ],
+        [
+            "Thai Police",
+            "ORG",
+            "Verify",
+            "Photograph",
+            "PRODUCT"
+        ],
+        [
+            "Thai Police",
+            "ORG",
+            "Confirm",
+            "Yingluck Identity",
+            "PERSON"
+        ],
+        [
+            "Thai Police",
+            "ORG",
+            "Not_Confirm",
+            "Woman Identity",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Not_Independently_Verify",
+            "Photograph",
+            "PRODUCT"
+        ],
+        [
+            "British Embassy",
+            "ORG",
+            "Not_Immediately_Respond",
+            "Reuters Request",
+            "CONCEPT"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Have",
+            "Extradition Treaty",
+            "CONCEPT"
+        ],
+        [
+            "Thai Authorities",
+            "ORG",
+            "Try_To",
+            "Locate",
+            "Yingluck Shinawatra",
+            "PERSON"
+        ]
+    ]
+}

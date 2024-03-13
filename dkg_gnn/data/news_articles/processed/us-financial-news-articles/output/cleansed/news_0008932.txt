@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Amfirst Real Estate Investment Trust",
+            "ORG",
+            "Acquire",
+            "13.7 Million Units",
+            "CONCEPT"
+        ],
+        [
+            "AMCORP GROUP",
+            "ORG",
+            "Acquire",
+            "13.7 Million Units",
+            "CONCEPT"
+        ],
+        [
+            "13.7 Million Units",
+            "CONCEPT",
+            "Belong_To",
+            "Amfirst Real Estate Investment Trust",
+            "ORG"
+        ],
+        [
+            "9.4 Million RGT",
+            "CONCEPT",
+            "Paid_By",
+            "AMCORP GROUP",
+            "ORG"
+        ],
+        [
+            "Jadeline Capital",
+            "ORG",
+            "Sell",
+            "13.7 Million Units",
+            "CONCEPT"
+        ]
+    ]
+}

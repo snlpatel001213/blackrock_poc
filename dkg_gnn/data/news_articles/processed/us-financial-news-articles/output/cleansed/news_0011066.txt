@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CES 2018",
+            "EVENT",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "CES 2018",
+            "EVENT",
+            "Relate_To",
+            "Voice Assistance",
+            "CONCEPT"
+        ],
+        [
+            "CES 2018",
+            "EVENT",
+            "Relate_To",
+            "Artificial Intelligence",
+            "CONCEPT"
+        ],
+        [
+            "Las Vegas",
+            "GPE",
+            "Host",
+            "CES 2018",
+            "EVENT"
+        ]
+    ]
+}

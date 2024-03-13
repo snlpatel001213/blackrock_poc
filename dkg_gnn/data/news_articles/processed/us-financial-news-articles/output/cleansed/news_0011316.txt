@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Indian Cricket Board",
+            "ORG",
+            "Replace",
+            "Wriddhiman Saha",
+            "PERSON"
+        ],
+        [
+            "Indian Cricket Board",
+            "ORG",
+            "Select",
+            "Dinesh Karthik",
+            "PERSON"
+        ],
+        [
+            "Dinesh Karthik",
+            "PERSON",
+            "Play",
+            "Third Test",
+            "EVENT"
+        ],
+        [
+            "Wriddhiman Saha",
+            "PERSON",
+            "Injure",
+            "Hamstring",
+            "CONCEPT"
+        ],
+        [
+            "Parthiv Patel",
+            "PERSON",
+            "Drop",
+            "Catches",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Play",
+            "Test Series",
+            "EVENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Lose",
+            "First Test",
+            "EVENT"
+        ]
+    ]
+}

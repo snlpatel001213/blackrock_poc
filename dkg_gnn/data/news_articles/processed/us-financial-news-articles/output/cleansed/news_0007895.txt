@@ -1,0 +1,36 @@
+{
+    "output": [
+        [
+            "Infinity Pharmaceuticals Inc.",
+            "COMP",
+            "Expects",
+            "Net Loss For 2018",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Infinity Pharmaceuticals Inc.",
+            "COMP",
+            "End",
+            "2018",
+            "WITH",
+            "Year-End Cash And Investments Balance",
+            "ECON_INDICATOR",
+            "Ranging",
+            "FROM",
+            "$10 Million TO $20 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Infinity Pharmaceuticals Inc.",
+            "COMP",
+            "Ended",
+            "2017",
+            "WITH",
+            "Approximately",
+            "$57.6 Million",
+            "ECON_INDICATOR",
+            "In",
+            "Cash And Investments"
+        ]
+    ]
+}

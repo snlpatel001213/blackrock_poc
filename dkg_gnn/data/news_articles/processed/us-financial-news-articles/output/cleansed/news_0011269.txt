@@ -1,0 +1,73 @@
+{
+    "output": [
+        [
+            "Pokemon Go players",
+            "PERSON",
+            "Participates_In",
+            "Pasadena Playhouse District",
+            "GPE"
+        ],
+        [
+            "Google Fiber",
+            "COMP",
+            "Lose",
+            "Another Executive",
+            "PERSON"
+        ],
+        [
+            "Google Fiber",
+            "COMP",
+            "Struggle",
+            "Gain Traction",
+            "CONCEPT"
+        ],
+        [
+            "Gabriel Stricker",
+            "PERSON",
+            "Leave",
+            "Google Fiber",
+            "COMP"
+        ],
+        [
+            "Gabriel Stricker",
+            "PERSON",
+            "Join",
+            "Niantic",
+            "COMP"
+        ],
+        [
+            "Niantic",
+            "COMP",
+            "Create",
+            "Pokemon Go App",
+            "PRODUCT"
+        ],
+        [
+            "Niantic",
+            "COMP",
+            "Develop",
+            "AR Technology",
+            "CONCEPT"
+        ],
+        [
+            "Niantic",
+            "COMP",
+            "Launch",
+            "Harry Potter Game",
+            "PRODUCT"
+        ],
+        [
+            "Niantic Labs",
+            "COMP",
+            "Part of Google",
+            "ORG"
+        ],
+        [
+            "Niantic Labs",
+            "COMP",
+            "Spun Out",
+            "Alphabet",
+            "ORG"
+        ]
+    ]
+}

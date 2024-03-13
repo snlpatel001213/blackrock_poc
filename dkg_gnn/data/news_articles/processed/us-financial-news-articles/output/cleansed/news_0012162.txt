@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Lisa Rapaport",
+            "PERSON",
+            "Write",
+            "Is antacid use during pregnancy tied to childhood asthma?",
+            "EVENT"
+        ],
+        [
+            "Pregnant women",
+            "PERSON",
+            "Suffer",
+            "heartburn or acid indigestion",
+            "CONCEPT"
+        ],
+        [
+            "Gastroesophageal reflux disease (GERD)",
+            "CONCEPT",
+            "Cause",
+            "heartburn or acid indigestion",
+            "CONCEPT"
+        ],
+        [
+            "Proton pump inhibitors (PPIs)",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Prilosec and Prevacid",
+            "PRODUCT"
+        ],
+        [
+            "Histamine-2 receptor antagonists (H2RAs)",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Pepcid and Zantac",
+            "PRODUCT"
+        ],
+        [
+            "Pregnant women",
+            "PERSON",
+            "Use",
+            "PPIs and H2RAs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Pregnant women",
+            "PERSON",
+            "More likely",
+            "have children who go on to develop asthma",
+            "CONCEPT"
+        ],
+        [
+            "Pregnant women who used PPIs",
+            "PERSON",
+            "34 percent more likely",
+            "have children with asthma",
+            "CONCEPT"
+        ],
+        [
+            "Pregnant women",
+            "PERSON",
+            "57 percent more likely",
+            "have children with asthma",
+            "CONCEPT"
+        ],
+        [
+            "Pepto Bismol",
+            "PRODUCT",
+            "May ease",
+            "heartburn and indigestion",
+            "CONCEPT"
+        ],
+        [
+            "Domperidone (Motilium)",
+            "PRODUCT",
+            "May ease",
+            "heartburn and indigestion",
+            "CONCEPT"
+        ],
+        [
+            "Hydrotalcite",
+            "PRODUCT",
+            "May ease",
+            "heartburn and indigestion",
+            "CONCEPT"
+        ],
+        [
+            "U.S. children",
+            "PERSON",
+            "One in 10",
+            "have asthma",
+            "CONCEPT"
+        ],
+        [
+            "Asthma",
+            "CONCEPT",
+            "Cause",
+            "wheezing, coughing and breathing problems",
+            "CONCEPT"
+        ],
+        [
+            "Indoor allergens",
+            "CONCEPT",
+            "Common causes",
+            "asthma",
+            "CONCEPT"
+        ],
+        [
+            "Outdoor allergens",
+            "CONCEPT",
+            "Common causes",
+            "asthma",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco smoke",
+            "CONCEPT",
+            "Common causes",
+            "asthma",
+            "CONCEPT"
+        ],
+        [
+            "Air pollution",
+            "CONCEPT",
+            "Common causes",
+            "asthma",
+            "CONCEPT"
+        ],
+        [
+            "Chemicals in the workplace",
+            "CONCEPT",
+            "Common causes",
+            "asthma",
+            "CONCEPT"
+        ],
+        [
+            "Smoking during pregnancy",
+            "CONCEPT",
+            "Risk factor",
+            "asthma in children",
+            "CONCEPT"
+        ],
+        [
+            "Early childhood",
+            "CONCEPT",
+            "Risk factor",
+            "asthma in children",
+            "CONCEPT"
+        ],
+        [
+            "Maternal weight gain and obesity in pregnancy",
+            "CONCEPT",
+            "Risk factor",
+            "asthma in children",
+            "CONCEPT"
+        ],
+        [
+            "Maternal stress in pregnancy",
+            "CONCEPT",
+            "Risk factor",
+            "asthma in children",
+            "CONCEPT"
+        ]
+    ]
+}

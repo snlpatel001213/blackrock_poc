@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Operate_In",
+            "Hawaii",
+            "GPE"
+        ],
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Has",
+            "human error",
+            "CONCEPT"
+        ],
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Send",
+            "ballistic missile alert",
+            "EVENT"
+        ],
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Relate_To",
+            "U.S. Federal Communications Commission",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Federal Communications Commission",
+            "ORG/REG",
+            "Initiate",
+            "full investigation",
+            "EVENT"
+        ],
+        [
+            "U.S. Federal Communications Commission",
+            "ORG/REG",
+            "Has_Jurisdiction_Over",
+            "emergency alert system",
+            "SYSTEM"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Has_Population_Of",
+            "about 1.4 million people",
+            "NUMBER"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Home_To",
+            "Pacific Command",
+            "ORG"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Home_To",
+            "Navy\u2019s Pacific Fleet",
+            "ORG"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Experience",
+            "Cold War-era nuclear attack warning sirens",
+            "SYSTEM"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Prepare_For",
+            "possible missile strike from North Korea",
+            "EVENT"
+        ],
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Resume",
+            "monthly statewide testing",
+            "ACTIVITY"
+        ],
+        [
+            "Hawaii Emergency Management Agency",
+            "ORG",
+            "Relate_To",
+            "U.S. Senator Mazie Hirono",
+            "PERSON"
+        ],
+        [
+            "U.S. Senator Mazie Hirono",
+            "PERSON",
+            "Say",
+            "need to make sure all information released to the community is accurate",
+            "STATEMENT"
+        ],
+        [
+            "U.S. Senator Mazie Hirono",
+            "PERSON",
+            "Say",
+            "need to get to the bottom of what happened and make sure it never happens again",
+            "STATEMENT"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Target_Of",
+            "surprise attack by Japan",
+            "EVENT"
+        ],
+        [
+            "Hawaii",
+            "GPE",
+            "Draw",
+            "United States into World War Two",
+            "EVENT"
+        ]
+    ]
+}

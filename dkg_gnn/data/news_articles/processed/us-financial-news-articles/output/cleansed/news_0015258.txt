@@ -1,0 +1,79 @@
+{
+    "output": [
+        [
+            "Marchesa",
+            "PRODUCT",
+            "Has",
+            "Georgina Chapman",
+            "PERSON"
+        ],
+        [
+            "Georgina Chapman",
+            "PERSON",
+            "Leave",
+            "Harvey Weinstein",
+            "PERSON"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Fund",
+            "Marchesa",
+            "PRODUCT"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Pressure",
+            "Actresses",
+            "PERSON",
+            "Wear",
+            "Marchesa",
+            "PRODUCT"
+        ],
+        [
+            "Felicity Huffman",
+            "PERSON",
+            "Comply",
+            "Harvey Weinstein",
+            "PERSON"
+        ],
+        [
+            "Sienna Miller",
+            "PERSON",
+            "Wear",
+            "Marchesa",
+            "PRODUCT"
+        ],
+        [
+            "Sienna Miller",
+            "PERSON",
+            "Be",
+            "In",
+            "The",
+            "Weinstein",
+            "Movie",
+            "PRODUCT"
+        ],
+        [
+            "Rose McGowan",
+            "PERSON",
+            "Suggest",
+            "Actresses",
+            "PERSON",
+            "Wear",
+            "Marchesa",
+            "PRODUCT"
+        ],
+        [
+            "Rose McGowan",
+            "PERSON",
+            "Allege",
+            "Rape",
+            "EVENT",
+            "By",
+            "Harvey Weinstein",
+            "PERSON"
+        ]
+    ]
+}

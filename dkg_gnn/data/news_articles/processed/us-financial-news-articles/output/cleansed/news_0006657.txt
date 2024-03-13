@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "ALLO Communications",
+            "COMP",
+            "Announce",
+            "Purchase",
+            "ORG"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Operate_In",
+            "Hastings",
+            "GPE"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Is_Member_Of",
+            "Nelnet",
+            "ORG"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Produce",
+            "Fiber networks",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Control",
+            "Glenwood network",
+            "ORG"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Sell",
+            "Fiber network",
+            "COMP"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Control",
+            "Customer contracts",
+            "COMP"
+        ],
+        [
+            "Hastings",
+            "GPE",
+            "Approve",
+            "Utility poles",
+            "COMP"
+        ],
+        [
+            "Nebraska Public Service Commission",
+            "ORG/REG",
+            "Expect",
+            "Regulatory approval",
+            "ORG"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Continue",
+            "Serve",
+            "GPE"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Provide",
+            "IT services",
+            "COMP"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Provide",
+            "Business telephone systems",
+            "COMP"
+        ],
+        [
+            "Existing customers",
+            "CONCEPT",
+            "Receive",
+            "Information",
+            "COMP"
+        ],
+        [
+            "Hastings businesses",
+            "GPE",
+            "Contact",
+            "ALLO Communications",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Provide",
+            "Broadband",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Provide",
+            "Telephone",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Provide",
+            "Video solutions",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Operate_In",
+            "Seven communities",
+            "GPE"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Employ",
+            "More than 500 associates",
+            "COMP"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Have",
+            "Operations",
+            "GPE"
+        ],
+        [
+            "ALLO Communications",
+            "COMP",
+            "Have",
+            "Customers",
+            "PERSON"
+        ]
+    ]
+}

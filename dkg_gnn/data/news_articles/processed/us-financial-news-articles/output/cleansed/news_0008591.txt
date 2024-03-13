@@ -1,0 +1,124 @@
+{
+    "output": [
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Murder",
+            "10 Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Local Buddhist Villagers",
+            "PERSON",
+            "Force",
+            "10 Captured Rohingya",
+            "PERSON",
+            "into",
+            "Grave",
+            "PRODUCT"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Admit",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Operate_In",
+            "Rakhine State",
+            "GPE"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Launch",
+            "Counteroffensive",
+            "CONCEPT"
+        ],
+        [
+            "Rohingya Militant",
+            "ORG/REG",
+            "Attack",
+            "Military",
+            "ORG/GOV"
+        ],
+        [
+            "Rohingya Muslim Villagers",
+            "PERSON",
+            "Exodus",
+            "North",
+            "GPE"
+        ],
+        [
+            "United Nations",
+            "ORG/REG",
+            "Condemn",
+            "Army\u2019s Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Deny",
+            "Ethnic Cleansing",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Appoint",
+            "Senior Officer",
+            "PERSON",
+            "to",
+            "Investigate"
+        ],
+        [
+            "Security Forces",
+            "ORG/GOV",
+            "Kill",
+            "10 Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Security Forces",
+            "ORG/GOV",
+            "Violate",
+            "Rules of Engagement",
+            "CONCEPT"
+        ],
+        [
+            "Military Investigation",
+            "ORG/GOV",
+            "Led",
+            "Lieutenant General Aye Win",
+            "PERSON"
+        ],
+        [
+            "Lieutenant General Aye Win",
+            "PERSON",
+            "In_Charge",
+            "Wider Probe",
+            "CONCEPT",
+            "into",
+            "Conflict",
+            "CONCEPT",
+            "Conclude",
+            "Report",
+            "CONCEPT",
+            "November",
+            "TIME"
+        ],
+        [
+            "Lieutenant General Aye Win",
+            "PERSON",
+            "Find",
+            "No Atrocities",
+            "CONCEPT",
+            "Happen",
+            "CONCEPT"
+        ]
+    ]
+}

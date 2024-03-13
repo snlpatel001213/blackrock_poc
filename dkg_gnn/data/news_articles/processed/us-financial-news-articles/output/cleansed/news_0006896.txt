@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Dominic Thiem",
+            "PERSON",
+            "Withdraw",
+            "Qatar Open Semi-final",
+            "EVENT"
+        ],
+        [
+            "Dominic Thiem",
+            "PERSON",
+            "Operate_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open Final",
+            "EVENT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open Final",
+            "EVENT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Control",
+            "Racket",
+            "PRODUCT"
+        ],
+        [
+            "Tennis",
+            "CONCEPT",
+            "Relate_To",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Tennis",
+            "CONCEPT",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Guido Pella",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Fernando Verdasco",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Borna Coric",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Kei Nishikori",
+            "PERSON",
+            "Relate_To",
+            "Australian Open",
+            "EVENT"
+        ]
+    ]
+}

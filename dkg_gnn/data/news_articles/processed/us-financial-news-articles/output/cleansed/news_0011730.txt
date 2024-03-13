@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Ri Son Gwon",
+            "PERSON",
+            "Is_Member_Of",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Ri Son Gwon",
+            "PERSON",
+            "Has",
+            "Committee for the Peaceful Reunification of the Fatherland",
+            "ORG"
+        ],
+        [
+            "Committee for the Peaceful Reunification of the Fatherland",
+            "ORG",
+            "Relate_To",
+            "Talks",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Control",
+            "Victory",
+            "EVENT"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Operate_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Has",
+            "Double faults 5",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Aces 2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "First serve percentage 70",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Win percentage on first serve 57",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Win percentage on second serve 38",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Break points won 2/8",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Winners 22",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Has",
+            "Total points won 59",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Has",
+            "Break points won 5/11",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Has",
+            "Winners 32",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Has",
+            "Total points won 76",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "Has",
+            "Fastest serve (mph) 102",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "Has",
+            "Fastest serve (mph) 99",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Match",
+            "EVENT",
+            "Has",
+            "Match time: One hour and 53 minutes",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

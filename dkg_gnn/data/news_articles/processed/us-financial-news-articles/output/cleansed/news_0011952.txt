@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Diversify",
+            "Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Foreign Exchange Market",
+            "MKT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Safeguard",
+            "Value of Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Dispute",
+            "Report on Halting U.S. Debt Purchases",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Vast Foreign Exchange Holdings",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Invest",
+            "U.S. Treasury Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Manage",
+            "Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Involve",
+            "Alibaba and Huawei",
+            "PERSON"
+        ],
+        [
+            "China",
+            "GPE",
+            "Notice",
+            "Rising Protectionist Voices in U.S.",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Possess",
+            "Big Treasury Holdings",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Risk",
+            "Roiling Financial Markets",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Risk",
+            "Forcing U.S. to Scramble for Funds",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Sell",
+            "Some Treasury Holdings",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Full Confidence in U.S. Treasury Debt Market",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Issue",
+            "U.S. Treasury Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Experience",
+            "Rising Trade Tensions with China",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Consider",
+            "Trade Actions against Beijing",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Investigate",
+            "Chinese Intellectual Property Misappropriation",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Witness",
+            "Business Deals Hitting Stumbling Blocks",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Face",
+            "Protectionist Voices",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Possess",
+            "Deep and Capacious Treasury Debt Market",
+            "EVENT"
+        ],
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Experience",
+            "Value Fluctuations",
+            "EVENT"
+        ],
+        [
+            "U.S. Treasury Yield",
+            "FIN_INSTRUMENT",
+            "Edge Down",
+            "Value",
+            "EVENT"
+        ],
+        [
+            "State Administration of Foreign Exchange",
+            "ORG",
+            "Dismiss",
+            "Media Report",
+            "EVENT"
+        ],
+        [
+            "State Administration of Foreign Exchange",
+            "ORG",
+            "Consider",
+            "Halting U.S. Debt Purchases",
+            "EVENT"
+        ],
+        [
+            "State Administration of Foreign Exchange",
+            "ORG",
+            "Manage",
+            "Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "Global Financial Markets",
+            "MKT",
+            "Worry",
+            "Sharp Swings in China\u2019s Treasury Holdings",
+            "EVENT"
+        ],
+        [
+            "Global Financial Markets",
+            "MKT",
+            "Experience",
+            "Selloff in Bond and Equity Markets",
+            "EVENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "China\u2019s Currency Regulator Statement",
+            "EVENT"
+        ],
+        [
+            "Bloomberg News",
+            "ORG",
+            "Report",
+            "China Halting or Reducing U.S. Debt Purchases",
+            "EVENT"
+        ],
+        [
+            "Bloomberg News",
+            "ORG",
+            "Not Immediately Comment",
+            "on China\u2019s Statement",
+            "EVENT"
+        ],
+        [
+            "Beijing Monitoring Desk",
+            "ORG",
+            "Report",
+            "China\u2019s Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "Kevin Yao",
+            "PERSON",
+            "Write",
+            "Article on China\u2019s Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "Ryan Woo",
+            "PERSON",
+            "Contribute",
+            "to Article on China\u2019s Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "Vidya Ranganathan",
+            "PERSON",
+            "Edit",
+            "Article on China\u2019s Foreign Exchange Reserves",
+            "ORG"
+        ],
+        [
+            "Jacqueline Wong",
+            "PERSON",
+            "Edit",
+            "Article on China\u2019s Foreign Exchange Reserves",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Document Security Systems, Inc.",
+            "ORG",
+            "Announce",
+            "Mr. Vincent Lum has been named President of DSS Asia",
+            "EVENT"
+        ],
+        [
+            "Mr. Vincent Lum",
+            "PERSON",
+            "Operate_In",
+            "DSS Asia",
+            "ORG"
+        ],
+        [
+            "DSS Asia",
+            "ORG",
+            "Participates_In",
+            "Strategic DSS business expansion in the Asia Pacific market",
+            "EVENT"
+        ],
+        [
+            "DSS Asia",
+            "ORG",
+            "Control",
+            "Customer support, implementation, product marketing, and product development in the region",
+            "SECTOR"
+        ],
+        [
+            "DSS",
+            "ORG",
+            "Impact",
+            "Very strong demand for DSS products in the Asia Pacific market",
+            "SECTOR"
+        ],
+        [
+            "DSS",
+            "ORG",
+            "Negative_Impact_On",
+            "Counterfeit products in the Asia Pacific market",
+            "SECTOR"
+        ],
+        [
+            "DSS",
+            "ORG",
+            "Positive_Impact_On",
+            "Public health in the Asia Pacific market",
+            "SECTOR"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Extensive experience in the IT industry",
+            "CONCEPT"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Extensive experience in the consumer electronics market",
+            "CONCEPT"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Product development and strategic marketing spanning the past 25 years",
+            "CONCEPT"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "CEO of HotApp International",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Founder and CEO of FUNboxx, Ltd.",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "CEO of Vitop, Ltd.",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Head of Consumer Products and the Asia Pacific Marketing Director for YORK International",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Regional VP, Korea and Japan; Director of Marketing; and CEO, iCommerce for Datacraft Asia",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "Marketing Director, Asia Pacific, Global Consumer Line of Business Director and a Member of Global Executive Team with Apple",
+            "COMP"
+        ],
+        [
+            "Vincent",
+            "PERSON",
+            "Relate_To",
+            "BSc in Electronics Engineering from the University of Essex in 1985",
+            "EVENT"
+        ]
+    ]
+}

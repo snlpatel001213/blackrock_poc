@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Government",
+            "ORG/GOV",
+            "Announce",
+            "Trump will attend Davos",
+            "EVENT"
+        ],
+        [
+            "World Economic Forum",
+            "EVENT",
+            "Operate_In",
+            "Davos, Switzerland",
+            "GPE"
+        ],
+        [
+            "World Economic Forum",
+            "EVENT",
+            "Relate_To",
+            "Globalization",
+            "CONCEPT"
+        ],
+        [
+            "World Economic Forum",
+            "EVENT",
+            "Relate_To",
+            "Free Trade",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Champion",
+            "America First",
+            "CONCEPT"
+        ],
+        [
+            "America First",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Globalization",
+            "CONCEPT"
+        ],
+        [
+            "America First",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Free Trade",
+            "CONCEPT"
+        ],
+        [
+            "Anthony Scaramucci",
+            "PERSON",
+            "Invests_In",
+            "Hedge Fund",
+            "COMP"
+        ],
+        [
+            "Anthony Scaramucci",
+            "PERSON",
+            "Work_For",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Bill Clinton",
+            "PERSON",
+            "Attend",
+            "World Economic Forum",
+            "EVENT"
+        ],
+        [
+            "Bill Clinton",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Say",
+            "Trump look forward to promote his policies",
+            "CONCEPT"
+        ],
+        [
+            "World Economic Forum",
+            "EVENT",
+            "Has_Theme",
+            "Creating a Shared Future in a Fractured World",
+            "CONCEPT"
+        ]
+    ]
+}

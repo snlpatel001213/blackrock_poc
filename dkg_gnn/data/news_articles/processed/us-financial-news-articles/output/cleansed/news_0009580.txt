@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Set_Guidance",
+            "Euro Benchmark Bond",
+            "PRODUCT"
+        ],
+        [
+            "Euro Benchmark Bond",
+            "PRODUCT",
+            "Operate_In",
+            "April 2028",
+            "DATE"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Control",
+            "Sovereign",
+            "ORG/GOV"
+        ],
+        [
+            "Sovereign",
+            "ORG/GOV",
+            "Rated",
+            "A3/BBB+/BBB+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro Benchmark Bond",
+            "PRODUCT",
+            "Initially_Marketed",
+            "Swaps Plus 100bp",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro Benchmark Bond",
+            "PRODUCT",
+            "Marketed",
+            "Swaps Plus 90bp",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Barclays",
+            "COMP",
+            "Participates_In",
+            "Trade",
+            "EVENT"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Participates_In",
+            "Trade",
+            "EVENT"
+        ],
+        [
+            "Santander",
+            "COMP",
+            "Participates_In",
+            "Trade",
+            "EVENT"
+        ]
+    ]
+}

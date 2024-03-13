@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Lead",
+            "Conservatives",
+            "ORG"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Turn_To",
+            "Social Democrats",
+            "ORG"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Press",
+            "Accelerated European Integration",
+            "CONCEPT"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Need",
+            "Coalition Talks Success",
+            "EVENT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Have",
+            "High Hurdles",
+            "CONCEPT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Recognize",
+            "Germans Expect Results",
+            "CONCEPT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Operate_In",
+            "More than 12 Years in Power",
+            "DURATION"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Win",
+            "Widespread Respect Abroad",
+            "CONCEPT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Impact",
+            "Germany\u2019s International Standing",
+            "CONCEPT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Lead",
+            "Social Democrats",
+            "ORG"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Former",
+            "President of European Parliament",
+            "ORG"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Priority",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Make_Clear",
+            "New Start for European Union",
+            "CONCEPT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Join",
+            "Government",
+            "EVENT"
+        ],
+        [
+            "Martin Schulz",
+            "PERSON",
+            "Condition",
+            "Make Europe Strong",
+            "CONCEPT"
+        ],
+        [
+            "Social Democratic Party",
+            "ORG",
+            "Leader",
+            "Martin Schulz",
+            "PERSON"
+        ],
+        [
+            "Social Democratic Party",
+            "ORG",
+            "Suffer",
+            "Worst Result",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Social Democratic Party",
+            "ORG",
+            "Oppose",
+            "Repeat of Grand Coalition",
+            "CONCEPT"
+        ],
+        [
+            "Social Democratic Party",
+            "ORG",
+            "Rank-and-file",
+            "Oppose",
+            "CONCEPT"
+        ],
+        [
+            "Social Democratic Party",
+            "ORG",
+            "Member",
+            "AfD",
+            "ORG"
+        ],
+        [
+            "Merkel",
+            "PERSON",
+            "Raise",
+            "Minority Government",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Could",
+            "Face New Elections",
+            "EVENT"
+        ]
+    ]
+}

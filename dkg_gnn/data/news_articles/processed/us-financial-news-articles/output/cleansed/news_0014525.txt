@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Charged_With",
+            "11_counts_of_fraud_and_obstruction_of_justice",
+            "EVENT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Defraud",
+            "Government_Agencies",
+            "ORG/GOV"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Submit",
+            "Falsified_Documents",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Obtain",
+            "Government_Funds",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Defraud",
+            "Bankruptcy_Court",
+            "ORG/REG"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Falsely_Claim",
+            "Hurricane_Sandy_Impact",
+            "EVENT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Instruct",
+            "Witnesses",
+            "PERSON"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Lie",
+            "FBI_Agents",
+            "PERSON"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Arraigned",
+            "U.S_District_Court",
+            "ORG/GOV"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Defraud",
+            "New_York_City_Council",
+            "ORG/GOV"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Transfer",
+            "Funds",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Use",
+            "Money",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Pay",
+            "Personal_Expenses",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Defraud",
+            "FEMA",
+            "ORG/GOV"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Claim",
+            "Temporary_Housing_Assistance",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Falsely_Claim",
+            "Residence_Uninhabitable",
+            "CONCEPT"
+        ],
+        [
+            "Pamela Harris",
+            "PERSON",
+            "Face",
+            "Maximum_Sentence_of_55_Years_in_Prison",
+            "CONCEPT"
+        ]
+    ]
+}

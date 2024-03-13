@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Treasury Secretary Mnuchin",
+            "ORG/GOV",
+            "Participates_In",
+            "President",
+            "PERSON"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Control",
+            "Treasury Secretary Mnuchin",
+            "ORG/GOV"
+        ],
+        [
+            "Treasury Secretary Mnuchin",
+            "ORG/GOV",
+            "Relate_To",
+            "trade",
+            "CONCEPT"
+        ],
+        [
+            "Treasury Secretary Mnuchin",
+            "ORG/GOV",
+            "Announce",
+            "talk",
+            "CONCEPT"
+        ],
+        [
+            "Davos",
+            "GPE",
+            "Operate_In",
+            "World Economy",
+            "SECTOR"
+        ]
+    ]
+}

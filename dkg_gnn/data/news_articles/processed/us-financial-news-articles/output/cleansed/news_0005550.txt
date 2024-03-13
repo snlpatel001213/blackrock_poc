@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Has",
+            "Karen Katz",
+            "PERSON"
+        ],
+        [
+            "Karen Katz",
+            "PERSON",
+            "Step_Down",
+            "Geoffroy van Raemdonck",
+            "PERSON"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Operate_In",
+            "Texas",
+            "GPE"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Operate_In",
+            "Luxury Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Confirm",
+            "Wall Street Journal Report",
+            "EVENT"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Hire",
+            "Geoffroy van Raemdonck",
+            "PERSON"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Former",
+            "Ralph Lauren",
+            "COMP"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Compete_With",
+            "Online Retailers",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Own",
+            "Bergdorf Goodman",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Report",
+            "First Quarter of Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "E-commerce",
+            "31% of Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Buy",
+            "European E-commerce Company Mytheresa.com",
+            "COMP"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Plan",
+            "First New York City Store",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Sell",
+            "$6 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "File",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Approach",
+            "HBC",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Post",
+            "Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Close",
+            "Third of Last Call Discount Stores",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Dilute",
+            "Merchandise",
+            "PRODUCT"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Disappoint",
+            "Shoppers",
+            "PERSON"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Harm",
+            "Upscale Aura",
+            "CONCEPT"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Win_Over",
+            "Younger Luxury Shoppers",
+            "PERSON"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Partnership",
+            "Rent the Runway",
+            "ORG"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Collaboration",
+            "Target",
+            "COMP"
+        ],
+        [
+            "Neiman Marcus",
+            "ORG",
+            "Integration",
+            "Neiman\u2019s Inventory Systems",
+            "PRODUCT"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Experience",
+            "Ralph Lauren",
+            "COMP"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Experience",
+            "St. John Knits",
+            "COMP"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Experience",
+            "Louis Vuitton",
+            "COMP"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Set",
+            "Modernize",
+            "VERB"
+        ],
+        [
+            "Geoffroy van Raemdonck",
+            "PERSON",
+            "Tap",
+            "Katz\u2019 Expertise",
+            "PERSON"
+        ],
+        [
+            "Karen Katz",
+            "PERSON",
+            "Retain",
+            "Board Seat",
+            "ORG"
+        ]
+    ]
+}

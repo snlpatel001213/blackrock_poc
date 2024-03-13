@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Capgen Capital Group VI LLC",
+            "ORG",
+            "Invests_In",
+            "Union Bankshares Corp",
+            "ORG/COMP"
+        ],
+        [
+            "Union Bankshares Corp",
+            "ORG/COMP",
+            "Has",
+            "7.3 Pct Stake",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

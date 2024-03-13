@@ -1,0 +1,162 @@
+{
+    "output": [
+        [
+            "Sodexo",
+            "ORG",
+            "Announce",
+            "take",
+            "VERB",
+            "stake",
+            "VERB",
+            "FoodCh\u00e9ri",
+            "ORG"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Invests_In",
+            "FoodCh\u00e9ri",
+            "ORG"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Participates_In",
+            "virtual restaurant",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Focus_On",
+            "serving businesses",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Expand",
+            "France",
+            "GPE"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Managed_By",
+            "co-founders",
+            "PERSON"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Have",
+            "70 staff",
+            "COMP"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Deliver",
+            "12000 meals",
+            "QUANTITY"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Target",
+            "individuals and companies",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Key_Differentiator",
+            "in-house cooking",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Key_Differentiator",
+            "streamlined supply chain",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Key_Differentiator",
+            "quality, convenience and price",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Believe",
+            "consumer experience of the future",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Believe",
+            "flexibility, nomadism, simplicity and hyper-responsiveness",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Help",
+            "FoodCh\u00e9ri",
+            "ORG"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Proud_Of",
+            "Sodexo confidence",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Aim",
+            "tailored offering",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Aim",
+            "healthy and environmentally friendly meals",
+            "CONCEPT"
+        ],
+        [
+            "Sodexo",
+            "ORG",
+            "Mission",
+            "reshape and enhance the customer experience",
+            "CONCEPT"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Join",
+            "Sodexo",
+            "ORG"
+        ],
+        [
+            "FoodCh\u00e9ri",
+            "ORG",
+            "Goal",
+            "roll out its offering throughout France",
+            "CONCEPT"
+        ]
+    ]
+}

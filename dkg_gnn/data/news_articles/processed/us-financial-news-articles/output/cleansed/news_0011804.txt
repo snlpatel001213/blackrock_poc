@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "President Trump",
+            "PERSON",
+            "Control",
+            "American Foreign Policy",
+            "ORG/GOV"
+        ],
+        [
+            "President Obama",
+            "PERSON",
+            "Control",
+            "Iran Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "President Obama",
+            "PERSON",
+            "Has",
+            "Signature Diplomatic Accomplishment",
+            "CONCEPT"
+        ],
+        [
+            "Iran Nuclear Deal",
+            "EVENT",
+            "Relate_To",
+            "Act of Appeasement",
+            "CONCEPT"
+        ],
+        [
+            "Iran Nuclear Deal",
+            "EVENT",
+            "Relate_To",
+            "Betrayal",
+            "CONCEPT"
+        ],
+        [
+            "Iran Nuclear Deal",
+            "EVENT",
+            "Relate_To",
+            "Neville Chamberlain",
+            "PERSON"
+        ],
+        [
+            "Many Democrats",
+            "PERSON",
+            "Think",
+            "Mr. Trump sell the country to Russia",
+            "GPE"
+        ],
+        [
+            "Some Republicans",
+            "PERSON",
+            "Think",
+            "Mr. Trump sell the country to Russia",
+            "GPE"
+        ],
+        [
+            "Mr. Trump",
+            "PERSON",
+            "Tweet",
+            "Nuclear War",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Nuclear War",
+            "CONCEPT"
+        ],
+        [
+            "Allies",
+            "ORG/GOV",
+            "Worry",
+            "Losing Grip",
+            "CONCEPT"
+        ],
+        [
+            "Adversaries",
+            "ORG/GOV",
+            "Hope",
+            "Right",
+            "CONCEPT"
+        ]
+    ]
+}

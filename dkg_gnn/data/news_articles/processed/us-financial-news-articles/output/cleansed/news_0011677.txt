@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "HEIMSTADEN AB",
+            "COMP",
+            "Enter_Into_Agreement",
+            "Danish Unit",
+            "COMP"
+        ],
+        [
+            "Danish Unit",
+            "COMP",
+            "Buy",
+            "Two Properties",
+            "PRODUCT"
+        ],
+        [
+            "Two Properties",
+            "PRODUCT",
+            "Locate_In",
+            "Copenhagen",
+            "GPE"
+        ],
+        [
+            "AP PENSION",
+            "ORG",
+            "Sell",
+            "Two Properties",
+            "PRODUCT"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Value_At",
+            "About DKK 900 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

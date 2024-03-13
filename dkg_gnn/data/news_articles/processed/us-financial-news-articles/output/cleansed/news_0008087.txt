@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Thai king",
+            "PERSON",
+            "Order",
+            "history-themed festival",
+            "EVENT"
+        ],
+        [
+            "Thai king",
+            "PERSON",
+            "Operate_In",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "King Maha Vajiralongkorn",
+            "PERSON",
+            "Father_Of",
+            "King Bhumibol Adulyadej",
+            "PERSON"
+        ],
+        [
+            "King Bhumibol Adulyadej",
+            "PERSON",
+            "Reign",
+            "seven decades",
+            "TIME"
+        ],
+        [
+            "King Bhumibol Adulyadej",
+            "PERSON",
+            "Cremated",
+            "Bangkok",
+            "GPE"
+        ],
+        [
+            "King Bhumibol Adulyadej",
+            "PERSON",
+            "Devotion",
+            "millions",
+            "QUANTITY"
+        ],
+        [
+            "King Bhumibol Adulyadej",
+            "PERSON",
+            "Shape",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Ascend",
+            "Throne",
+            "POSITION"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Require",
+            "changes",
+            "EVENT"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Reorganise",
+            "Palace",
+            "ORG"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Promotion",
+            "dismissal",
+            "EVENT"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Control",
+            "agency",
+            "ORG"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Organise",
+            "public events",
+            "EVENT"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Formal coronation",
+            "expected",
+            "EVENT"
+        ],
+        [
+            "King Vajiralongkorn",
+            "PERSON",
+            "Start",
+            "politics",
+            "SECTOR"
+        ],
+        [
+            "Thai laws",
+            "ORG",
+            "Protect",
+            "members",
+            "PERSON"
+        ],
+        [
+            "Thai laws",
+            "ORG",
+            "Limit",
+            "report",
+            "EVENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Thailand",
+            "GPE"
+        ]
+    ]
+}

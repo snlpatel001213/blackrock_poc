@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Citigroup",
+            "COMP",
+            "Lose",
+            "18 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Take",
+            "one-time charge",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "new tax law",
+            "CONCEPT"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Rise",
+            "adjusted profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Rise",
+            "revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Citigroup",
+            "COMP",
+            "Beat",
+            "estimates",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "RGS Energy",
+            "ORG",
+            "Complete",
+            "$1.8 million offering",
+            "EVENT"
+        ],
+        [
+            "RGS Energy",
+            "ORG",
+            "Operate_In",
+            "Residential and Small Commercial Solar Company",
+            "SECTOR"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Pay",
+            "$1.15",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Series P Warrants",
+            "FIN_INSTRUMENT",
+            "Exercisable",
+            "Five years thereafter",
+            "TIME"
+        ],
+        [
+            "Series O Warrants",
+            "FIN_INSTRUMENT",
+            "Exercisable",
+            "Six months following issuance",
+            "TIME"
+        ],
+        [
+            "Series O Warrants",
+            "FIN_INSTRUMENT",
+            "Exercisable",
+            "Five years thereafter",
+            "TIME"
+        ],
+        [
+            "Series P Warrants",
+            "FIN_INSTRUMENT",
+            "Exercisable",
+            "Immediately after issuance",
+            "TIME"
+        ],
+        [
+            "Series P Warrants",
+            "FIN_INSTRUMENT",
+            "Payable",
+            "$0.01",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RGS Energy",
+            "ORG",
+            "Described",
+            "Current Report on Form 8-K",
+            "EVENT"
+        ],
+        [
+            "RGS Energy",
+            "ORG",
+            "Net offering proceeds",
+            "$1.5 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WestPark Capital, Inc.",
+            "ORG",
+            "Act",
+            "Exclusive Placement Agent",
+            "ROLE"
+        ],
+        [
+            "Shares of Class A common stock",
+            "FIN_INSTRUMENT",
+            "Offer",
+            "Prospectus Supplement",
+            "EVENT"
+        ],
+        [
+            "Series O Warrants",
+            "FIN_INSTRUMENT",
+            "Offer",
+            "Concurrent Private Placement",
+            "EVENT"
+        ],
+        [
+            "RGS Energy",
+            "ORG",
+            "Registered Trade Name",
+            "Real Goods Solar, Inc.",
+            "ORG"
+        ],
+        [
+            "POWERHOUSE\u2122",
+            "PRODUCT",
+            "Trademark",
+            "The Dow Chemical Company",
+            "ORG"
+        ],
+        [
+            "RGS Energy",
+            "ORG",
+            "Cautionary Statement",
+            "Forward-Looking Statements",
+            "CONCEPT"
+        ]
+    ]
+}

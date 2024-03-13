@@ -1,0 +1,294 @@
+{
+    "output": [
+        [
+            "Abdel Fattah Al-Sisi",
+            "PERSON",
+            "Has",
+            "Backing",
+            "ORG/GOV"
+        ],
+        [
+            "Abdel Fattah Al-Sisi",
+            "PERSON",
+            "Operate_In",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Abdel Fattah Al-Sisi",
+            "PERSON",
+            "Win",
+            "Election",
+            "EVENT"
+        ],
+        [
+            "Abdel Fattah Al-Sisi",
+            "PERSON",
+            "Lead",
+            "Overthrow",
+            "EVENT",
+            "of",
+            "Mohamed Mursi",
+            "PERSON"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Have",
+            "Uprising",
+            "EVENT"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Have",
+            "Parliament",
+            "ORG"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Have",
+            "Election",
+            "EVENT"
+        ],
+        [
+            "Mohamed Mursi",
+            "PERSON",
+            "Elected",
+            "President",
+            "ORG/GOV"
+        ],
+        [
+            "Mohamed Mursi",
+            "PERSON",
+            "Belong_To",
+            "Muslim Brotherhood",
+            "ORG"
+        ],
+        [
+            "Hosni Mubarak",
+            "PERSON",
+            "End",
+            "Rule",
+            "EVENT"
+        ],
+        [
+            "Hosni Mubarak",
+            "PERSON",
+            "Strongman",
+            "EVENT"
+        ],
+        [
+            "Parliament",
+            "ORG",
+            "Have",
+            "Member",
+            "PERSON"
+        ],
+        [
+            "Parliament",
+            "ORG",
+            "Stipulate",
+            "Candidacy",
+            "EVENT"
+        ],
+        [
+            "Parliamentarians",
+            "ORG",
+            "Back",
+            "Sisi",
+            "PERSON"
+        ],
+        [
+            "Candidacy",
+            "EVENT",
+            "Require",
+            "Backing",
+            "ORG"
+        ],
+        [
+            "Candidacy",
+            "EVENT",
+            "Require",
+            "Support",
+            "PERSON"
+        ],
+        [
+            "Candidates",
+            "EVENT",
+            "Register",
+            "Jan. 20 to 29",
+            "DATE"
+        ],
+        [
+            "Candidates",
+            "EVENT",
+            "Announce",
+            "Feb. 20",
+            "DATE"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Critics",
+            "Criticism",
+            "CONCEPT"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Dimmed",
+            "Popularity",
+            "CONCEPT"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Impact",
+            "Austerity",
+            "CONCEPT"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Impact",
+            "Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Sisi",
+            "PERSON",
+            "Impact",
+            "Dissidents",
+            "CONCEPT"
+        ],
+        [
+            "Ahmed Shafik",
+            "PERSON",
+            "Potential",
+            "Challenger",
+            "EVENT"
+        ],
+        [
+            "Ahmed Shafik",
+            "PERSON",
+            "Rule",
+            "EVENT"
+        ],
+        [
+            "Ahmed Shafik",
+            "PERSON",
+            "No_Longer",
+            "Consider",
+            "EVENT",
+            "Running"
+        ],
+        [
+            "Khaled Ali",
+            "PERSON",
+            "Presidential",
+            "Hopeful",
+            "EVENT"
+        ],
+        [
+            "Khaled Ali",
+            "PERSON",
+            "Face",
+            "Sentence",
+            "EVENT"
+        ],
+        [
+            "Khaled Ali",
+            "PERSON",
+            "Face",
+            "Disqualification",
+            "EVENT"
+        ],
+        [
+            "Khaled Ali",
+            "PERSON",
+            "Lose",
+            "Appeal",
+            "EVENT"
+        ],
+        [
+            "Haitham al-Hariri",
+            "PERSON",
+            "Leader",
+            "Leftist",
+            "ORG"
+        ],
+        [
+            "Haitham al-Hariri",
+            "PERSON",
+            "Member",
+            "Bloc",
+            "ORG"
+        ],
+        [
+            "Bloc",
+            "ORG",
+            "Disagreement",
+            "Policies",
+            "CONCEPT"
+        ],
+        [
+            "Bloc",
+            "ORG",
+            "Not",
+            "Disagreement",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Bloc",
+            "ORG",
+            "Believe",
+            "Continuation",
+            "CONCEPT"
+        ],
+        [
+            "Bloc",
+            "ORG",
+            "Not",
+            "Believe",
+            "Best",
+            "CONCEPT",
+            "for",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "By",
+            "Nashaat Hamdy",
+            "PERSON",
+            "and",
+            "Mahmoud Mourad",
+            "PERSON"
+        ],
+        [
+            "Writing",
+            "EVENT",
+            "By",
+            "Eric Knecht",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "By",
+            "Hugh Lawson",
+            "PERSON"
+        ]
+    ]
+}

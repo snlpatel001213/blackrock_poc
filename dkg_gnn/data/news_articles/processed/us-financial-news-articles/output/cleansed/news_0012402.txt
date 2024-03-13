@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",
+            "ORG/REG",
+            "Announce",
+            "Payment of Distribution",
+            "EVENT"
+        ],
+        [
+            "Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",
+            "ORG/REG",
+            "Operate_In",
+            "NYSE American",
+            "GPE"
+        ],
+        [
+            "Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",
+            "ORG/REG",
+            "Pay",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",
+            "ORG/REG",
+            "Has",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Receive",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Include",
+            "Net Investment Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Include",
+            "Net Realized Short-Term Capital Gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Include",
+            "Net Realized Long-Term Capital Gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Include",
+            "Return of Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aberdeen Emerging Markets Smaller Company Opportunities Fund, Inc.",
+            "ORG/REG",
+            "Send",
+            "Form 1099-DIV",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Form 1099-DIV",
+            "FIN_INSTRUMENT",
+            "Used",
+            "For",
+            "CONCEPT"
+        ],
+        [
+            "Form 1099-DIV",
+            "FIN_INSTRUMENT",
+            "Used",
+            "Tax Reporting Purposes",
+            "CONCEPT"
+        ]
+    ]
+}

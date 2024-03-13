@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Fitch",
+            "ORG/REG",
+            "Announce",
+            "India\u2019s Recapitalisation",
+            "CONCEPT"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Expect",
+            "Most of Fresh Capital",
+            "ECON_INDICATOR",
+            "To Be Provided",
+            "To",
+            "Large Indian Banks",
+            "COMP"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Say",
+            "Indian Government\u2019s Bank Recapitalisation Programme",
+            "CONCEPT",
+            "Approved",
+            "By",
+            "Parliament Last Week",
+            "ORG/GOV",
+            "Will Increase",
+            "Average Core Capital Ratio",
+            "ECON_INDICATOR",
+            "Of",
+            "State Bank",
+            "COMP"
+        ]
+    ]
+}

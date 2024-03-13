@@ -1,0 +1,107 @@
+{
+    "output": [
+        [
+            "Turkish Armed Forces",
+            "ORG",
+            "Has",
+            "General Hulusi Akar",
+            "PERSON"
+        ],
+        [
+            "General Hulusi Akar",
+            "PERSON",
+            "Say",
+            "Turkey will not allow",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Not Allow",
+            "Syrian Kurdish YPG militia",
+            "ORG/REG"
+        ],
+        [
+            "Syrian Kurdish YPG militia",
+            "ORG/REG",
+            "Receive",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "NATO",
+            "ORG/GOV",
+            "Should not",
+            "Differentiate",
+            "CONCEPT"
+        ],
+        [
+            "NATO",
+            "ORG/GOV",
+            "Member",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "General Hulusi Akar",
+            "PERSON",
+            "Speaking at",
+            "NATO meeting",
+            "CONCEPT"
+        ],
+        [
+            "NATO",
+            "ORG/GOV",
+            "Meeting",
+            "In",
+            "Brussels"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Angered after",
+            "U.S.-led coalition",
+            "ORG"
+        ],
+        [
+            "U.S.-led coalition",
+            "ORG",
+            "Said on Sunday",
+            "Working with",
+            "CONCEPT"
+        ],
+        [
+            "Working with",
+            "CONCEPT",
+            "YPG-led Syrian Democratic Forces",
+            "SDF",
+            "ORG"
+        ],
+        [
+            "SDF",
+            "ORG",
+            "Set up",
+            "New 30,000-strong border force",
+            "ORG"
+        ],
+        [
+            "New 30,000-strong border force",
+            "ORG",
+            "In",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Writing by",
+            "CONCEPT",
+            "Daren Butler",
+            "PERSON"
+        ],
+        [
+            "Editing by",
+            "CONCEPT",
+            "Ece Toksabay",
+            "PERSON"
+        ]
+    ]
+}

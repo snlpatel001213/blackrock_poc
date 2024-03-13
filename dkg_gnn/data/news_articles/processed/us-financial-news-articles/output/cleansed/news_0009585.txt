@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "SpotRight, Inc.",
+            "COMP",
+            "Add",
+            "Shannon Denton",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Advisors",
+            "ORG"
+        ],
+        [
+            "Shannon Denton",
+            "PERSON",
+            "Former",
+            "Global CEO",
+            "TITLE",
+            "Of",
+            "Razorfish",
+            "COMP"
+        ],
+        [
+            "Razorfish",
+            "COMP",
+            "Now",
+            "SapientRazorfish",
+            "COMP"
+        ],
+        [
+            "Shannon Denton",
+            "PERSON",
+            "Currently",
+            "Principal and Managing Partner",
+            "TITLE",
+            "Of",
+            "Fifth Wave Ventures",
+            "COMP"
+        ],
+        [
+            "SpotRight, Inc.",
+            "COMP",
+            "Operate_In",
+            "Top Media-Buying Platforms",
+            "SECTOR"
+        ],
+        [
+            "SpotRight, Inc.",
+            "COMP",
+            "Connect",
+            "Marketing Strategy with Media Activation",
+            "CONCEPT"
+        ],
+        [
+            "SpotRight, Inc.",
+            "COMP",
+            "Produce",
+            "High-Performing Custom Audiences",
+            "PRODUCT"
+        ]
+    ]
+}

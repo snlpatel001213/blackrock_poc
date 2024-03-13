@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Announce",
+            "Share Repurchase Plan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Repurchase",
+            "4.8 Million Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "4.8 Million Shares",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Toyota Motor Corp.",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Pay",
+            "35 Billion Yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "35 Billion Yen",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Toyota Motor Corp.",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Operate_In",
+            "Beijing Headline News",
+            "GPE"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Follow",
+            "Thomson Reuters Trust Principles",
+            "CONCEPT"
+        ]
+    ]
+}

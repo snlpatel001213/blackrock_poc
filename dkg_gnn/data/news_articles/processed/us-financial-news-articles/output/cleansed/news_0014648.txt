@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Group 1 Automotive Inc",
+            "COMP",
+            "Operate_In",
+            "Watford",
+            "GPE"
+        ],
+        [
+            "Group 1 Automotive Inc",
+            "COMP",
+            "Open",
+            "Land Rover Franchise",
+            "ORG"
+        ],
+        [
+            "Land Rover Franchise",
+            "ORG",
+            "Generate",
+            "Additional Estimated $35 Million in Annualized Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Group 1 Automotive Inc",
+            "COMP",
+            "Relate_To",
+            "Further Company Coverage",
+            "CONCEPT"
+        ]
+    ]
+}

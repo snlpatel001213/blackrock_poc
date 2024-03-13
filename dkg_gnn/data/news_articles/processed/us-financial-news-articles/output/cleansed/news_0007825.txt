@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Independent Bank Corp",
+            "COMP",
+            "Accept",
+            "Retirement",
+            "CONCEPT"
+        ],
+        [
+            "William P. Bissonnette",
+            "PERSON",
+            "Retire",
+            null,
+            null
+        ],
+        [
+            "Independent Bank Corp",
+            "COMP",
+            "Operate_In",
+            "Both Co",
+            "ORG/GOV"
+        ],
+        [
+            "Rockland Trust",
+            "COMP",
+            "Operate_In",
+            "Both Co",
+            "ORG/GOV"
+        ],
+        [
+            "Both Co",
+            "ORG/GOV",
+            "Decrease",
+            "Size of Board of Directors",
+            "CONCEPT"
+        ],
+        [
+            "Both Co",
+            "ORG/GOV",
+            "Size",
+            "14",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

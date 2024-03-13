@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Reports_On",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Has",
+            "Sales Exposure",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sales Exposure",
+            "ECON_INDICATOR",
+            "To",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Sales Exposure",
+            "ECON_INDICATOR",
+            "To",
+            "Mexico",
+            "GPE"
+        ]
+    ]
+}

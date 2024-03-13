@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Sanchi",
+            "COMP",
+            "Carry",
+            "Condensate",
+            "PRODUCT"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Collide",
+            "CF Crystal",
+            "COMP"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Burst",
+            "Flames",
+            "CONCEPT"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Spilling",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Operate_In",
+            "East China Sea",
+            "GPE"
+        ],
+        [
+            "National Iranian Tanker Co",
+            "ORG",
+            "Operate",
+            "Sanchi",
+            "COMP"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Carry",
+            "Grain",
+            "PRODUCT"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Collide",
+            "Sanchi",
+            "COMP"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Suffer",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Have",
+            "21 Chinese crew members",
+            "PERSON"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Take",
+            "Port near Shanghai",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Have",
+            "31 remaining tanker crew members",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Have",
+            "Top oil shipping operator",
+            "ORG"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Receive",
+            "Condensate",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Have",
+            "Flotilla of 13 search and rescue vessels",
+            "COMP"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Have",
+            "Ministry of Oceans and Fisheries",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Ministry of Transport",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Transport ministry",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "State media CCTV",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Dispatch",
+            "Protective clothing and gas testing equipment",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Emergency teams",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Warn",
+            "Toxic gas from the tanker",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Export",
+            "Grain",
+            "PRODUCT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Disaster",
+            "EVENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Possible explosion and sinking of the tanker",
+            "EVENT"
+        ]
+    ]
+}

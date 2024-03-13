@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Blame",
+            "EVENT",
+            "Star",
+            "Quinn Shephard",
+            "PERSON"
+        ],
+        [
+            "Blame",
+            "EVENT",
+            "Star",
+            "Nadia Alexander",
+            "PERSON"
+        ],
+        [
+            "Blame",
+            "EVENT",
+            "Star",
+            "Chris Messina",
+            "PERSON"
+        ],
+        [
+            "Blame",
+            "EVENT",
+            "Relate_To",
+            "Movie",
+            "PRODUCT"
+        ],
+        [
+            "Blame",
+            "EVENT",
+            "Photo",
+            "Samuel Goldwyn Films",
+            "ORG"
+        ]
+    ]
+}

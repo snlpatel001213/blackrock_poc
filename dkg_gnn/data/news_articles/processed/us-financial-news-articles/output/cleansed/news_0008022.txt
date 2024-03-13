@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Corbus Pharmaceuticals Holdings Inc",
+            "COMP",
+            "File",
+            "Mixed Shelf",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Corbus Pharmaceuticals Holdings Inc",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "ORG/REG"
+        ],
+        [
+            "Mixed Shelf",
+            "FIN_INSTRUMENT",
+            "Control",
+            "$200 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

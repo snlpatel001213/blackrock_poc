@@ -1,0 +1,77 @@
+{
+    "output": [
+        [
+            "Pakistan army chief",
+            "PERSON",
+            "Say",
+            "nation felt betrayed",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan army chief",
+            "PERSON",
+            "Refer",
+            "U.S. recent statements",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Not",
+            "doing enough to fight terrorism",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Not",
+            "contemplating any unilateral action inside",
+            "CONCEPT",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Nation",
+            "felt betrayed",
+            "CONCEPT",
+            "at",
+            "CONCEPT",
+            "U.S.",
+            "GPE",
+            "criticism"
+        ],
+        [
+            "U.S. President",
+            "PERSON",
+            "Donald Trump",
+            "PERSON",
+            "Accuse",
+            "Pakistan",
+            "GPE",
+            "of",
+            "CONCEPT",
+            "lies and deceit",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan army chief",
+            "PERSON",
+            "Told",
+            "U.S. Central Command chief",
+            "PERSON",
+            "General Joseph Votel",
+            "PERSON"
+        ],
+        [
+            "U.S. Central Command chief",
+            "PERSON",
+            "General Joseph Votel",
+            "PERSON",
+            "Told",
+            "Pakistan army chief",
+            "PERSON"
+        ]
+    ]
+}

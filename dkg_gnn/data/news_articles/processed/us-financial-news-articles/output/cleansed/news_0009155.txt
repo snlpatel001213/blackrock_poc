@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Penguin Random House",
+            "COMP",
+            "Acquire",
+            "Rodale Books",
+            "COMP"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Belong_To",
+            "Hearst",
+            "ORG"
+        ],
+        [
+            "Penguin Random House",
+            "COMP",
+            "Operate_In",
+            "Book Publishing Sector",
+            "SECTOR"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Focus_On",
+            "Wellness",
+            "CONCEPT"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Focus_On",
+            "Cooking",
+            "CONCEPT"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Focus_On",
+            "Health",
+            "CONCEPT"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Focus_On",
+            "Gardening",
+            "CONCEPT"
+        ],
+        [
+            "Rodale Books",
+            "COMP",
+            "Have",
+            "Rodale Kids",
+            "COMP"
+        ]
+    ]
+}

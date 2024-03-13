@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Ad buyers",
+            "PERSON",
+            "Prefer",
+            "Facebook",
+            "COMP"
+        ],
+        [
+            "Ad buyers",
+            "PERSON",
+            "Prefer",
+            "Instagram",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Instagram",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Advertising_Industry",
+            "Cowen",
+            "ORG"
+        ],
+        [
+            "Snap",
+            "COMP",
+            "Compared_To",
+            "Facebook",
+            "COMP"
+        ],
+        [
+            "Snap",
+            "COMP",
+            "Compared_To",
+            "Instagram",
+            "COMP"
+        ]
+    ]
+}

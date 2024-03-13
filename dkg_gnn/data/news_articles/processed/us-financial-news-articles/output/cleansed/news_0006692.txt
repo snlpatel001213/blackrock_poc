@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ashton Woods USA L.L.C.",
+            "COMP",
+            "Announce",
+            "Quarterly Report Release",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ashton Woods USA L.L.C.",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Ashton Woods USA L.L.C.",
+            "COMP",
+            "Operate_In",
+            "Homebuilding Industry",
+            "SECTOR"
+        ],
+        [
+            "Cory J. Boydston",
+            "PERSON",
+            "Is_Member_Of",
+            "Ashton Woods Homes",
+            "COMP"
+        ],
+        [
+            "Cory J. Boydston",
+            "PERSON",
+            "Contact",
+            "Ashton Woods Homes",
+            "COMP"
+        ]
+    ]
+}

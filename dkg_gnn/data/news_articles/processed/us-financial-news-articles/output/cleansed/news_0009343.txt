@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Has",
+            "Nerayoff",
+            "PERSON"
+        ],
+        [
+            "Nerayoff",
+            "PERSON",
+            "Announce",
+            "flippening",
+            "CONCEPT"
+        ],
+        [
+            "flippening",
+            "CONCEPT",
+            "Relate_To",
+            "2018",
+            "EVENT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Impact",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Price",
+            "ECON_INDICATOR",
+            "Positive_Impact_On",
+            "Ethereum",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Operate_In",
+            "Blockchain",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Produce",
+            "Smart Contracts",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Compare_To",
+            "Ethereum",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Control",
+            "Nakamoto",
+            "PERSON"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Increase",
+            "Projects",
+            "CONCEPT"
+        ],
+        [
+            "Projects",
+            "CONCEPT",
+            "Has",
+            "Billions of Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Projects",
+            "CONCEPT",
+            "Participates_In",
+            "Ethereum Ecosystem",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Operate_In",
+            "Fintech Sector",
+            "SECTOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Operate_In",
+            "Oil and Gas Industry",
+            "SECTOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Operate_In",
+            "Government Applications",
+            "SECTOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Operate_In",
+            "Gaming Industry",
+            "SECTOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Has",
+            "Lower Transactional Costs",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Increase",
+            "Usage",
+            "CONCEPT"
+        ],
+        [
+            "Usage",
+            "CONCEPT",
+            "Increase",
+            "Network Effects",
+            "CONCEPT"
+        ],
+        [
+            "Network Effects",
+            "CONCEPT",
+            "Has",
+            "More Users",
+            "CONCEPT"
+        ],
+        [
+            "Network Effects",
+            "CONCEPT",
+            "Has",
+            "More Projects",
+            "CONCEPT"
+        ],
+        [
+            "Network Effects",
+            "CONCEPT",
+            "Has",
+            "More Programmers",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Public Interest",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Public Investment",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Has",
+            "Good Year",
+            "CONCEPT"
+        ]
+    ]
+}

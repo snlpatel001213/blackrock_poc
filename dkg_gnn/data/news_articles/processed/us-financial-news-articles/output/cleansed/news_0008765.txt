@@ -1,0 +1,87 @@
+{
+    "output": [
+        [
+            "Beigene Ltd",
+            "COMP",
+            "Announce",
+            "Exclusive License Agreement",
+            "EVENT"
+        ],
+        [
+            "Beigene Ltd",
+            "COMP",
+            "Operate_In",
+            "Asia Pacific Region",
+            "GPE"
+        ],
+        [
+            "Mirati Therapeutics",
+            "COMP",
+            "Retain",
+            "Exclusive Rights",
+            "EVENT"
+        ],
+        [
+            "Mirati Therapeutics",
+            "COMP",
+            "Operate_In",
+            "Rest of World",
+            "GPE"
+        ],
+        [
+            "Beigene Ltd",
+            "COMP",
+            "Control",
+            "Mirati",
+            "PERSON",
+            "Under Agreement"
+        ],
+        [
+            "Mirati",
+            "PERSON",
+            "Receive",
+            "Upfront Cash Payment",
+            "ECON_INDICATOR",
+            "From",
+            "Beigene Ltd",
+            "COMP"
+        ],
+        [
+            "Mirati",
+            "PERSON",
+            "Eligible",
+            "Receive",
+            "Extra Payments",
+            "ECON_INDICATOR",
+            "Upon",
+            "Certain",
+            "CONCEPT",
+            "From",
+            "Beigene Ltd",
+            "COMP"
+        ],
+        [
+            "Beigene Ltd",
+            "COMP",
+            "Enter",
+            "Agreement",
+            "EVENT",
+            "With",
+            "Mirati Therapeutics",
+            "COMP",
+            "For",
+            "Development",
+            "PRODUCT",
+            "Manufacturing",
+            "PRODUCT",
+            "Commercialization",
+            "PRODUCT",
+            "Of",
+            "Mirati\u2019s",
+            "PRODUCT",
+            "In",
+            "Asia",
+            "GPE"
+        ]
+    ]
+}

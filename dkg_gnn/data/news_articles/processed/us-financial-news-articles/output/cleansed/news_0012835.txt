@@ -1,0 +1,69 @@
+{
+    "output": [
+        [
+            "Joao Lourenco",
+            "PERSON",
+            "May_Change",
+            "Leadership",
+            "ORG",
+            "Has",
+            "Sovereign Wealth Fund",
+            "ORG"
+        ],
+        [
+            "Jose Filomeno dos Santos",
+            "PERSON",
+            "Run",
+            "Sovereign Wealth Fund",
+            "ORG",
+            "Control",
+            "Angola",
+            "GPE"
+        ],
+        [
+            "Sovereign Wealth Fund",
+            "ORG",
+            "Operate_In",
+            "Angola",
+            "GPE"
+        ],
+        [
+            "External Inquiry",
+            "EVENT",
+            "Relate_To",
+            "Performance",
+            "CONCEPT",
+            "AND",
+            "Governance",
+            "CONCEPT",
+            "Of",
+            "Sovereign Wealth Fund",
+            "ORG"
+        ],
+        [
+            "External Inquiry",
+            "EVENT",
+            "Impact",
+            "Leadership",
+            "ORG",
+            "Of",
+            "Sovereign Wealth Fund",
+            "ORG"
+        ],
+        [
+            "External Inquiry",
+            "EVENT",
+            "Complete",
+            "In",
+            "Coming Days",
+            "TIME"
+        ],
+        [
+            "Jose Eduardo dos Santos",
+            "PERSON",
+            "Be_Succeeded_By",
+            "Joao Lourenco",
+            "PERSON"
+        ]
+    ]
+}

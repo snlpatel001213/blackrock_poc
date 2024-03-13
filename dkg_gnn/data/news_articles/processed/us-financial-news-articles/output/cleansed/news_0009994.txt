@@ -1,0 +1,169 @@
+{
+    "output": [
+        [
+            "Dutch PM Rutte",
+            "PERSON",
+            "Call_On",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Clarify",
+            "Future Relationship",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Have",
+            "Trading Partners",
+            "GPE"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "One_Of_The_Top",
+            "EU Trading Partners",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Leave",
+            "European Union",
+            "ORG/GOV"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Expect",
+            "Trim",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dutch GDP",
+            "ECON_INDICATOR",
+            "Trim",
+            "Several Percentage Points",
+            "QUANTITY"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Back",
+            "Michel Barnier",
+            "PERSON"
+        ],
+        [
+            "Michel Barnier",
+            "PERSON",
+            "Negotiator",
+            "EU",
+            "ORG/GOV"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Project",
+            "Hit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands Economy",
+            "ECON_INDICATOR",
+            "Project",
+            "Hit",
+            "QUANTITY"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Project",
+            "Up_To",
+            "TWO",
+            "QUANTITY"
+        ],
+        [
+            "Netherlands Economy",
+            "ECON_INDICATOR",
+            "Project",
+            "Up_To",
+            "TWO",
+            "QUANTITY"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Project",
+            "By",
+            "2030",
+            "TIME"
+        ],
+        [
+            "Netherlands Economy",
+            "ECON_INDICATOR",
+            "Project",
+            "By",
+            "2030",
+            "TIME"
+        ],
+        [
+            "Rabobank",
+            "COMP",
+            "Forecast",
+            "Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands Economy",
+            "ECON_INDICATOR",
+            "Forecast",
+            "Loss",
+            "QUANTITY"
+        ],
+        [
+            "Rabobank",
+            "COMP",
+            "Estimate",
+            "Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netherlands Economy",
+            "ECON_INDICATOR",
+            "Estimate",
+            "Loss",
+            "QUANTITY"
+        ],
+        [
+            "Rabobank",
+            "COMP",
+            "Estimate",
+            "Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British Worker",
+            "PERSON",
+            "Estimate",
+            "Loss",
+            "QUANTITY"
+        ],
+        [
+            "Rabobank",
+            "COMP",
+            "Estimate",
+            "Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British Worker",
+            "PERSON",
+            "Estimate",
+            "Loss",
+            "QUANTITY"
+        ]
+    ]
+}

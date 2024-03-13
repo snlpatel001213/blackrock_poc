@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Lithuania",
+            "GPE",
+            "Control",
+            "Alcohol Advertising Ban",
+            "EVENT"
+        ],
+        [
+            "Dalia Grybauskaite",
+            "PERSON",
+            "Sign",
+            "Alcohol Control Bill",
+            "EVENT"
+        ],
+        [
+            "Press Express",
+            "COMP",
+            "Risk",
+            "Fine",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Press Express",
+            "COMP",
+            "Cover",
+            "Liquor Advertisements",
+            "EVENT"
+        ],
+        [
+            "Publishers",
+            "ORG",
+            "Cannot Create",
+            "Edition of Magazine Free from Alcohol Ads",
+            "EVENT"
+        ],
+        [
+            "Politicians",
+            "ORG/GOV",
+            "Do Not Have",
+            "Solution",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "output": [
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Jordan",
+            "GPE"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Hold talks",
+            "Egyptian President Abdel Fattah al-Sisi",
+            "PERSON"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Hold talks",
+            "Jordan's King Abdullah",
+            "PERSON"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Hold talks",
+            "Israeli Prime Minister Benjamin Netanyahu",
+            "PERSON"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Western Wall",
+            "TOURIST_ATTRACTION"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Give speech",
+            "Israeli parliament",
+            "GOV/REG"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem as the capital of Israel",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Start the process of moving its embassy",
+            "from Tel Aviv",
+            "GPE",
+            "to",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Direction",
+            "U.S.'s Vice President Mike Pence",
+            "PERSON",
+            "Travel",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "U.S.'s Vice President Mike Pence",
+            "PERSON",
+            "Discuss",
+            "with the three leaders",
+            "PERSON",
+            "Ways to work together",
+            "Terrorism",
+            "CONCEPT",
+            "Improve",
+            "IMPROVE",
+            "National Security",
+            "CONCEPT"
+        ],
+        [
+            "Status of Jerusalem",
+            "CONCEPT",
+            "One of the thorniest obstacles",
+            "to a peace deal",
+            "CONCEPT",
+            "between Israel",
+            "GPE",
+            "and the Palestinians",
+            "GPE"
+        ],
+        [
+            "Palestinians",
+            "GPE",
+            "Furious over Trump's move",
+            "and have declined to meet with Pence",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decision on Jerusalem",
+            "Lead to uproar and protest",
+            "PROTEST",
+            "in the region",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Consider",
+            "Jerusalem",
+            "GPE",
+            "its eternal capital",
+            "CAPITAL"
+        ],
+        [
+            "Palestinians",
+            "GPE",
+            "Want",
+            "the capital of an independent state of theirs",
+            "GPE",
+            "to be in the city's eastern sector",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Captured",
+            "the eastern sector",
+            "GPE",
+            "in the 1967 Middle East war",
+            "WAR"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Annexed",
+            "the eastern sector",
+            "GPE",
+            "in a move never recognized internationally",
+            "RECOGNITION"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Postpone",
+            "a planned visit",
+            "VISIT",
+            "to Egypt",
+            "GPE",
+            "and Israel",
+            "GPE",
+            "last month",
+            "TIME"
+        ],
+        [
+            "U.S. Vice President Mike Pence",
+            "PERSON",
+            "Stay",
+            "in Washington",
+            "GPE",
+            "for a congressional vote",
+            "VOTE",
+            "on Trump's tax overhaul plan",
+            "PLAN"
+        ]
+    ]
+}

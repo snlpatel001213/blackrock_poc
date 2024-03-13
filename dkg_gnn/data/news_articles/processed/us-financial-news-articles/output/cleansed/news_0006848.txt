@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Introduce",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Announce",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Offshore Drilling Plan",
+            "EVENT",
+            "Impact",
+            "Jobs and Economic Security",
+            "CONCEPT"
+        ],
+        [
+            "Offshore Drilling Plan",
+            "EVENT",
+            "Impact",
+            "Conservation along U.S. Coastlines",
+            "CONCEPT"
+        ],
+        [
+            "Offshore Drilling Plan",
+            "EVENT",
+            "Operate_In",
+            "U.S. Federal Waters",
+            "GPE"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Control",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Control",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Republican Govs. Rick Scott and Larry Hogan",
+            "PERSON",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Democratic Governors",
+            "PERSON",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "New York Gov. Andrew Cuomo",
+            "PERSON",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "California Gov. Jerry Brown",
+            "PERSON",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Industry Groups",
+            "ORG",
+            "Praise",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "National Ocean Industries Association",
+            "ORG",
+            "Praise",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Obama Administration",
+            "ORG/GOV",
+            "Block",
+            "Atlantic and Pacific Drilling",
+            "EVENT"
+        ],
+        [
+            "Environmental Groups",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Sierra Club",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Natural Resources Defense Council",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "League of Conservation Voters",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Oceana",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Rewrite or Kill",
+            "Rules on Offshore Oil and Gas Drilling",
+            "EVENT"
+        ],
+        [
+            "Obama Administration",
+            "ORG/GOV",
+            "Impose",
+            "Tougher Rules on Offshore Oil and Gas Drilling",
+            "EVENT"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Involved in",
+            "Gulf of Mexico Oil Spill",
+            "EVENT"
+        ],
+        [
+            "Gulf of Mexico",
+            "GPE",
+            "Recovering from",
+            "BP Oil Spill",
+            "EVENT"
+        ],
+        [
+            "Diane Hoskins",
+            "PERSON",
+            "Campaign Director",
+            "Oceana",
+            "ORG"
+        ],
+        [
+            "Florida Governor Rick Scott",
+            "PERSON",
+            "Request",
+            "Meeting with Zinke",
+            "PERSON"
+        ],
+        [
+            "Maryland Governor Larry Hogan",
+            "PERSON",
+            "Oppose",
+            "Offshore Drilling Plan",
+            "EVENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Site of",
+            "First Offshore Drilling in U.S.",
+            "EVENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Tarnished by",
+            "1969 Oil Spill",
+            "EVENT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Protected from",
+            "Federal Drilling since 1984",
+            "EVENT"
+        ],
+        [
+            "California Governor Jerry Brown",
+            "PERSON",
+            "Slam",
+            "Offshore Drilling Proposal",
+            "EVENT"
+        ],
+        [
+            "Oregon Governor Kate Brown",
+            "PERSON",
+            "Slam",
+            "Offshore Drilling Proposal",
+            "EVENT"
+        ],
+        [
+            "Washington Governor Jay Inslee",
+            "PERSON",
+            "Slam",
+            "Offshore Drilling Proposal",
+            "EVENT"
+        ],
+        [
+            "150 Municipalities",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling",
+            "EVENT"
+        ],
+        [
+            "1,200 Local, State and Federal Officials",
+            "ORG",
+            "Oppose",
+            "Offshore Drilling",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Total",
+            "ORG/REG",
+            "Declare",
+            "2017 second interim dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Offer",
+            "Option",
+            "CONCEPT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Exercise",
+            "Option",
+            "CONCEPT"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Issue",
+            "7,087,904 new shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Operate_In",
+            "Paris",
+            "GPE"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Admit",
+            "New shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Receive",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Pay",
+            "Cash dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Focus",
+            "Better energy",
+            "CONCEPT"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Ensure",
+            "Operations",
+            "CONCEPT"
+        ],
+        [
+            "Total",
+            "ORG/REG",
+            "Deliver",
+            "Economic, social and environmental benefits",
+            "CONCEPT"
+        ]
+    ]
+}

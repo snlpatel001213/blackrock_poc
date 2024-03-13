@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "NewMarket Corporation",
+            "COMP",
+            "Announce",
+            "Earnings Release",
+            "EVENT"
+        ],
+        [
+            "NewMarket Corporation",
+            "COMP",
+            "Operate_In",
+            "Chemical Industry",
+            "SECTOR"
+        ],
+        [
+            "NewMarket Corporation",
+            "COMP",
+            "Has",
+            "Afton Chemical Corporation",
+            "ORG"
+        ],
+        [
+            "NewMarket Corporation",
+            "COMP",
+            "Has",
+            "Ethyl Corporation",
+            "ORG"
+        ],
+        [
+            "NewMarket Corporation",
+            "COMP",
+            "Control",
+            "Chemical Additives Production",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "NewMarket Corporation",
+            "COMP"
+        ],
+        [
+            "Internet Webcast",
+            "EVENT",
+            "Participates_In",
+            "NewMarket Corporation",
+            "COMP"
+        ],
+        [
+            "Investor Calendar",
+            "COMP",
+            "Relate_To",
+            "Internet Webcast",
+            "EVENT"
+        ],
+        [
+            "Brian D. Paliotti",
+            "PERSON",
+            "Is_Member_Of",
+            "NewMarket Corporation",
+            "COMP"
+        ],
+        [
+            "Investor Relations",
+            "ORG",
+            "Is_Member_Of",
+            "NewMarket Corporation",
+            "COMP"
+        ]
+    ]
+}

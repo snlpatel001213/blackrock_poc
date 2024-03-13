@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "NASA",
+            "ORG/GOV",
+            "Has",
+            "John Young",
+            "PERSON"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Gemini Program",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Apollo Program",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Space Shuttle Program",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "First Space Shuttle Flight",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Negative_Impact_On",
+            "Pneumonia",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Is_Member_Of",
+            "Astronauts",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Impact",
+            "Space Agency",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Walked_On",
+            "Moon",
+            "GPE"
+        ]
+    ]
+}

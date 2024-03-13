@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "LM Funding America Inc",
+            "COMP",
+            "Enter Into",
+            "Master Exchange Agreement",
+            "EVENT"
+        ],
+        [
+            "LM Funding America Inc",
+            "COMP",
+            "Exchange",
+            "2 Promissory Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Exchange",
+            "2 Promissory Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Receive",
+            "Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Receive",
+            "Warrants",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "LM Funding America Inc",
+            "COMP",
+            "Issue",
+            "Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "LM Funding America Inc",
+            "COMP",
+            "Issue",
+            "Warrants",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "First Promissory Note",
+            "FIN_INSTRUMENT",
+            "Being",
+            "$2.8 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Second Promissory Note",
+            "FIN_INSTRUMENT",
+            "Being",
+            "$1.7 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

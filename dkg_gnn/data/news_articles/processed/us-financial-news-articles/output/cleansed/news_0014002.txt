@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Russian man",
+            "PERSON",
+            "Ram",
+            "armoured personnel carrier",
+            "COMP"
+        ],
+        [
+            "armoured personnel carrier",
+            "COMP",
+            "Ram",
+            "shop window",
+            "COMP"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Steal",
+            "wine bottle",
+            "PRODUCT"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Drive",
+            "armoured personnel carrier",
+            "COMP"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Exit",
+            "vehicle",
+            "COMP"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Enter",
+            "shop",
+            "COMP"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Arrest",
+            "null",
+            "null"
+        ],
+        [
+            "shop",
+            "COMP",
+            "Not license",
+            "sell alcohol",
+            "null"
+        ],
+        [
+            "man",
+            "PERSON",
+            "Top up",
+            "stocks",
+            "null"
+        ]
+    ]
+}

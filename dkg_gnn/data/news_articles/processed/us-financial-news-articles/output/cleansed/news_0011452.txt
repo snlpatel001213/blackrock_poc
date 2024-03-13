@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Budapest International Circus Festival",
+            "EVENT",
+            "Operate_In",
+            "Budapest",
+            "GPE"
+        ],
+        [
+            "Budapest International Circus Festival",
+            "EVENT",
+            "Pay_Tribute",
+            "Philip Astley",
+            "PERSON"
+        ],
+        [
+            "Circus",
+            "CONCEPT",
+            "Has",
+            "Artists",
+            "ORG"
+        ],
+        [
+            "Artists",
+            "ORG",
+            "Perform",
+            "Performances",
+            "ORG"
+        ],
+        [
+            "Performances",
+            "ORG",
+            "Include",
+            "Horseback-riders",
+            "ORG"
+        ],
+        [
+            "Performances",
+            "ORG",
+            "Include",
+            "Jugglers",
+            "ORG"
+        ],
+        [
+            "Performances",
+            "ORG",
+            "Include",
+            "Illusionists",
+            "ORG"
+        ],
+        [
+            "Performances",
+            "ORG",
+            "Include",
+            "Aerial Acrobats",
+            "ORG"
+        ],
+        [
+            "Charlie Chaplin",
+            "PERSON",
+            "Has",
+            "Son",
+            "PERSON"
+        ],
+        [
+            "Son",
+            "PERSON",
+            "Heads",
+            "Jury",
+            "ORG"
+        ],
+        [
+            "Charlie Chaplin",
+            "PERSON",
+            "Liked",
+            "Circus",
+            "CONCEPT"
+        ],
+        [
+            "Circus",
+            "CONCEPT",
+            "Must_Have",
+            "Emotion",
+            "CONCEPT"
+        ],
+        [
+            "Emotion",
+            "CONCEPT",
+            "Gets",
+            "Public",
+            "ORG"
+        ],
+        [
+            "Eugene Chaplin",
+            "PERSON",
+            "Is",
+            "Recording Engineer",
+            "SECTOR"
+        ],
+        [
+            "Eugene Chaplin",
+            "PERSON",
+            "Is",
+            "Documentary Filmmaker",
+            "SECTOR"
+        ],
+        [
+            "Kevin Richter",
+            "PERSON",
+            "Perform",
+            "Horseback Acrobat Act",
+            "ORG"
+        ],
+        [
+            "Horseback Acrobat Act",
+            "ORG",
+            "Risk",
+            "Lives",
+            "PERSON"
+        ],
+        [
+            "Acrobats",
+            "ORG",
+            "Provide",
+            "Unique Experience",
+            "CONCEPT"
+        ],
+        [
+            "Florian Richter",
+            "PERSON",
+            "Won",
+            "Golden Clown Award",
+            "ORG"
+        ]
+    ]
+}

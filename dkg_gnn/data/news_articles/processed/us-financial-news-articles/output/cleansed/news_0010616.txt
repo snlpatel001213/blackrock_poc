@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Brower Piven, A Professional Corporation",
+            "ORG",
+            "Announce",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "OSI Systems, Inc.",
+            "COMP",
+            "Involved_In",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "Class Period",
+            "EVENT",
+            "Participates_In",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "Purchasers of OSI Systems, Inc. securities",
+            "PERSON",
+            "Invest",
+            "OSI Systems, Inc.",
+            "COMP"
+        ],
+        [
+            "United States District Court for the Central District of California",
+            "ORG/GOV",
+            "Hear",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "February 5, 2018",
+            "DATE",
+            "Be_Deadline_For",
+            "Seek appointment as lead plaintiff",
+            "EVENT"
+        ],
+        [
+            "Defendants",
+            "PERSON",
+            "Accused_Of",
+            "Violations of the Securities Exchange Act of 1934",
+            "EVENT"
+        ],
+        [
+            "OSI",
+            "COMP",
+            "Acquire",
+            "Albania concession",
+            "EVENT"
+        ],
+        [
+            "Bribery or other illicit means",
+            "CONCEPT",
+            "Relate_To",
+            "Acquisition of Albania concession",
+            "EVENT"
+        ],
+        [
+            "S2 Albania SHPK",
+            "COMP",
+            "Transfer",
+            "49%",
+            "QUANTITY"
+        ],
+        [
+            "Less than $5.00",
+            "QUANTITY",
+            "Be_Consideration_For",
+            "Transfer of 49% of S2 Albania SHPK",
+            "EVENT"
+        ],
+        [
+            "December 6, 2017",
+            "DATE",
+            "Report",
+            "Company obtained a major contract in Albania through corruption",
+            "EVENT"
+        ],
+        [
+            "Unannounced transfer of 49% of OSI\u2019s project company",
+            "EVENT",
+            "Relate_To",
+            "Albania contract",
+            "EVENT"
+        ],
+        [
+            "Holding company",
+            "COMP",
+            "Receive",
+            "49% of OSI\u2019s project company",
+            "EVENT"
+        ],
+        [
+            "Improper sales, cash payments to government officials",
+            "EVENT",
+            "Relate_To",
+            "OSI Systems, Inc.",
+            "COMP"
+        ],
+        [
+            "Value of OSI shares",
+            "FIN_INSTRUMENT",
+            "Decline",
+            "Significantly",
+            "QUALITATIVE"
+        ],
+        [
+            "August 16, 2013",
+            "DATE",
+            "Be_Start_Date",
+            "Class Period",
+            "EVENT"
+        ],
+        [
+            "December 6, 2017",
+            "DATE",
+            "Be_End_Date",
+            "Class Period",
+            "EVENT"
+        ],
+        [
+            "Investment in OSI securities",
+            "FIN_INSTRUMENT",
+            "Loss",
+            "Exceed $100,000",
+            "QUANTITY"
+        ],
+        [
+            "hoffman@browerpiven.com",
+            "EMAIL",
+            "Contact",
+            "Brower Piven, A Professional Corporation",
+            "ORG"
+        ]
+    ]
+}

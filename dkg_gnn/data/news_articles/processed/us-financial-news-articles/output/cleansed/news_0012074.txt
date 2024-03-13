@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Control",
+            "Hmeimim air base",
+            "ORG/MIL"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Control",
+            "Tartus naval base",
+            "ORG/MIL"
+        ],
+        [
+            "Militants",
+            "PERSON",
+            "Use",
+            "Drones",
+            "PRODUCT"
+        ],
+        [
+            "Drones",
+            "PRODUCT",
+            "Attack",
+            "Hmeimim air base",
+            "ORG/MIL"
+        ],
+        [
+            "Drones",
+            "PRODUCT",
+            "Attack",
+            "Tartus naval base",
+            "ORG/MIL"
+        ],
+        [
+            "Hmeimim air base",
+            "ORG/MIL",
+            "Have",
+            "No casualties",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tartus naval base",
+            "ORG/MIL",
+            "Have",
+            "No damage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Militants",
+            "PERSON",
+            "Use",
+            "Thirteen armed drones",
+            "PRODUCT"
+        ],
+        [
+            "Thirteen armed drones",
+            "PRODUCT",
+            "Involved in",
+            "Attacks",
+            "EVENT"
+        ],
+        [
+            "Russian Defence Ministry",
+            "ORG/GOV",
+            "Say",
+            "Last week",
+            "TIME"
+        ],
+        [
+            "Russian Defence Ministry",
+            "ORG/GOV",
+            "Say",
+            "Two Russian service personnel were killed",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hmeimim base",
+            "ORG/MIL",
+            "Subject to",
+            "Mortar attack",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Control",
+            "KTM",
+            "COMP"
+        ],
+        [
+            "KTM",
+            "COMP",
+            "Produce",
+            "motorcycle",
+            "PRODUCT"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Operate_In",
+            "Peru, Bolivia, Argentina",
+            "GPE"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Crash",
+            "Ica desert",
+            "GPE"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Hurt",
+            "back",
+            "CONCEPT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Evacuate",
+            "helicopter",
+            "PRODUCT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Transfer",
+            "Lima",
+            "GPE"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Lead",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Yamaha",
+            "COMP",
+            "Produce",
+            "motorcycle",
+            "PRODUCT"
+        ],
+        [
+            "Adrian van Beveren",
+            "PERSON",
+            "Ride",
+            "Yamaha",
+            "COMP"
+        ],
+        [
+            "Adrian van Beveren",
+            "PERSON",
+            "Win",
+            "stage four",
+            "EVENT"
+        ],
+        [
+            "Adrian van Beveren",
+            "PERSON",
+            "Lead",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Pablo Quintanilla",
+            "PERSON",
+            "Ride",
+            "Chilean",
+            "GPE"
+        ],
+        [
+            "Pablo Quintanilla",
+            "PERSON",
+            "Compete",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Pablo Quintanilla",
+            "PERSON",
+            "Trail",
+            "Adrian van Beveren",
+            "PERSON"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Move",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "Move",
+            "South America",
+            "GPE"
+        ],
+        [
+            "Dakar Rally",
+            "EVENT",
+            "End",
+            "Argentina",
+            "GPE"
+        ]
+    ]
+}

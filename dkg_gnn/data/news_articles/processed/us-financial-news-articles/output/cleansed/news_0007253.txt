@@ -1,0 +1,55 @@
+{
+    "output": [
+        [
+            "Roger McNamee",
+            "PERSON",
+            "Weigh_In_On",
+            "Smartphone Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Scott Galloway",
+            "PERSON",
+            "Weigh_In_On",
+            "Smartphone Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Relate_To",
+            "Smartphone Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Write",
+            "Open Letter",
+            "EVENT",
+            "To",
+            "Apple",
+            "COMP"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Write",
+            "Open Letter",
+            "EVENT",
+            "To",
+            "Apple",
+            "COMP"
+        ],
+        [
+            "Shareholders",
+            "ORG",
+            "Write",
+            "Open Letter",
+            "EVENT",
+            "To",
+            "Apple",
+            "COMP"
+        ]
+    ]
+}

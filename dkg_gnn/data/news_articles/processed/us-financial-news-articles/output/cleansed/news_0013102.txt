@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Aston Martin",
+            "COMP",
+            "Target",
+            "5 billion pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "British sports car maker",
+            "ORG"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Has",
+            "Preliminary talks with advisers",
+            "ORG"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "Sport utility vehicle segment",
+            "SECTOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Surpassed",
+            "5,000 deliveries",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Exceed",
+            "180 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Exceed",
+            "840 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Control",
+            "Investindustrial Advisors",
+            "ORG"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Control",
+            "Kuwaiti investors",
+            "ORG"
+        ],
+        [
+            "Aston Martin 2022 bonds",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "0.22 pence",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Build",
+            "DBX SUV",
+            "PRODUCT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Sell out",
+            "New $150,000 Vantage model",
+            "PRODUCT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Increase",
+            "8,250 vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ferrari",
+            "COMP",
+            "Have",
+            "Current stock-market value of about 21.5 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ferrari",
+            "COMP",
+            "Have",
+            "Enterprise value of about 18.5 times its expected 2018 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ferrari",
+            "COMP",
+            "Exceed",
+            "30% adjusted Ebitda margin",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

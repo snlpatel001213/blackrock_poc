@@ -1,0 +1,129 @@
+{
+    "output": [
+        [
+            "Wingstop",
+            "COMP",
+            "Raise",
+            "6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Say",
+            "Sales",
+            "SECTOR"
+        ],
+        [
+            "Chicken-wing chains",
+            "COMP",
+            "Struggle",
+            "null",
+            "null"
+        ],
+        [
+            "Wingstop",
+            "COMP",
+            "Top",
+            "Restaurant stocks",
+            "SECTOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Systemwide sales",
+            "SECTOR"
+        ],
+        [
+            "Systemwide sales",
+            "ECON_INDICATOR",
+            "Up",
+            "14 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Same-store sales growth",
+            "SECTOR"
+        ],
+        [
+            "Same-store sales growth",
+            "ECON_INDICATOR",
+            "Up",
+            "5.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Has",
+            "More than 1,000 locations",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Expect",
+            "Full year same-store sales"
+        ],
+        [
+            "Full year same-store sales",
+            "ECON_INDICATOR",
+            "Up",
+            "2.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Overcome",
+            "Challenges",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Has",
+            "45 net openings",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Raise",
+            "Number of worldwide locations",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Focus",
+            "Four key long-term growth strategies",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Speak",
+            "Investors",
+            "null"
+        ],
+        [
+            "Company",
+            "ORG",
+            "At",
+            "ICR Conference",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "In",
+            "Orlando",
+            "GPE"
+        ]
+    ]
+}

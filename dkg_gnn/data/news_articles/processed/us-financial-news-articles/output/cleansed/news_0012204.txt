@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Sage Gold Inc",
+            "COMP",
+            "Announce",
+            "Private Placement",
+            "EVENT"
+        ],
+        [
+            "Sage Gold Inc",
+            "COMP",
+            "Control",
+            "Units of CO",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sage Gold Inc",
+            "COMP",
+            "Raise",
+            "$0.11",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sage Gold Inc",
+            "COMP",
+            "Impact",
+            "Gross Proceeds of up to $1 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

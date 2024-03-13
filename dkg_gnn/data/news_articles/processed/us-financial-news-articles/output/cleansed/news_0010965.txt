@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "California Governor Jerry Brown",
+            "PERSON",
+            "Propose",
+            "Budget",
+            "EVENT"
+        ],
+        [
+            "California Governor Jerry Brown",
+            "PERSON",
+            "Operate_In",
+            "2018-19 Fiscal Year",
+            "GPE"
+        ],
+        [
+            "California Governor Jerry Brown",
+            "PERSON",
+            "Has",
+            "Budget",
+            "EVENT"
+        ],
+        [
+            "Budget",
+            "EVENT",
+            "Is_Member_Of",
+            "131.7 Billion Dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Budget",
+            "EVENT",
+            "Impact",
+            "Education",
+            "SECTOR"
+        ],
+        [
+            "Budget",
+            "EVENT",
+            "Impact",
+            "Transportation",
+            "SECTOR"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Fiscal Position",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Economic Downturn",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Federal Policies",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Rainy Day Fund",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Online Community College",
+            "PRODUCT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Transportation Projects",
+            "PRODUCT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Revenues",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Debts and Liabilities",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Reserves",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Sales Taxes",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Marijuana",
+            "PRODUCT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Debt",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Bulwark",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Conservative Policies",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Healthcare Expansion",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Climate Change",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Legislature",
+            "ORG"
+        ],
+        [
+            "California Legislature",
+            "ORG",
+            "Controlled_By",
+            "Democrats",
+            "PERSON"
+        ]
+    ]
+}

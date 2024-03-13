@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Gen.Life",
+            "ORG",
+            "Participates_In",
+            "Artificial Intelligence Development",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Gen.Life",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Gen.Life",
+            "ORG"
+        ],
+        [
+            "Gen.Life",
+            "ORG",
+            "Produce",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Gen.Life",
+            "ORG",
+            "Use",
+            "Artificial Intelligence",
+            "CONCEPT"
+        ],
+        [
+            "Gen.Life",
+            "ORG",
+            "Relate_To",
+            "Insurance Products",
+            "PRODUCT"
+        ],
+        [
+            "AIA",
+            "COMP",
+            "Invests_In",
+            "Gen.Life",
+            "ORG"
+        ],
+        [
+            "American Family Insurance",
+            "COMP",
+            "Invests_In",
+            "Gen.Life",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has_Goal",
+            "Expand A.I.",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has_Goal",
+            "Turn Country",
+            "GPE",
+            "Into",
+            "Innovation Center",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has_Goal",
+            "A.I. Industry",
+            "SECTOR",
+            "Into",
+            "$150 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has_Goal",
+            "By 2030",
+            "TIME"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Lack",
+            "Central Coherent Policy",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Have",
+            "Leading Academic Institutions",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Have",
+            "L. Rafael Reif",
+            "PERSON"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Clear Vision",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "State Council White Paper",
+            "DOCUMENT"
+        ],
+        [
+            "L. Rafael Reif",
+            "PERSON",
+            "Call",
+            "Greater Collective Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Greater Collective Efforts",
+            "CONCEPT",
+            "By",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Greater Collective Efforts",
+            "CONCEPT",
+            "By",
+            "Companies",
+            "ORG"
+        ],
+        [
+            "Greater Collective Efforts",
+            "CONCEPT",
+            "By",
+            "Society",
+            "CONCEPT"
+        ]
+    ]
+}

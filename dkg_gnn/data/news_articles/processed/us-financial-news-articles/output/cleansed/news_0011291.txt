@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "LUBAWA SA",
+            "COMP",
+            "Terminate",
+            "7.6 Million Zloty Gross Contract",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Sign",
+            "Contract",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Deliver",
+            "8 Field Medical Facilities",
+            "PRODUCT"
+        ],
+        [
+            "Ordering Party",
+            "ORG/GOV",
+            "Withdraw",
+            "Contract",
+            "EVENT"
+        ],
+        [
+            "Ordering Party",
+            "ORG/GOV",
+            "State",
+            "One of Delivered Elements Do Not Meet Criteria",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Remove",
+            "Non-conformity",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Decide",
+            "Reveal Details",
+            "CONCEPT"
+        ],
+        [
+            "Details",
+            "CONCEPT",
+            "Affect",
+            "FY 2017 Results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

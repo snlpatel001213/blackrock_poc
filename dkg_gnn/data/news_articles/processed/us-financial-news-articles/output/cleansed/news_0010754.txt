@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Judge Terence Kern",
+            "PERSON",
+            "Decide",
+            "Preliminary Injunction",
+            "EVENT"
+        ],
+        [
+            "Judge Terence Kern",
+            "PERSON",
+            "Rule",
+            "Lack Jurisdiction",
+            "EVENT"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Sue",
+            "Wholesale Drug Distributors",
+            "ORG"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Sue",
+            "Pharmacy Operators",
+            "ORG"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Seek",
+            "Stop Flow Opioid Painkillers",
+            "CONCEPT"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "File",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Become",
+            "First Major Native American Tribe",
+            "ORG"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Seek",
+            "Redress",
+            "CONCEPT"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Have",
+            "335000 Citizens",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Comprise",
+            "14 Counties",
+            "GPE"
+        ],
+        [
+            "Cherokee Nation",
+            "GPE",
+            "Experience",
+            "350 Opioid-Related Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tulsa",
+            "GPE",
+            "Host",
+            "Federal Court",
+            "ORG"
+        ],
+        [
+            "Tulsa",
+            "GPE",
+            "Host",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "McKesson Corp",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "Cardinal Health Inc",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "AmerisourceBergen",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "CVS Health",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "Walgreens Boots Alliance Inc",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "Wal-Mart Stores Inc",
+            "COMP",
+            "Sue",
+            "Cherokee Nation",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Declare",
+            "Drug Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Declare",
+            "National Public Health Emergency",
+            "EVENT"
+        ],
+        [
+            "Federal Statute",
+            "ORG",
+            "Enforce",
+            "Controlled Substances Act",
+            "CONCEPT"
+        ],
+        [
+            "State Court",
+            "ORG",
+            "Prepare",
+            "Fight",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "Lenzy Krehbiel-Burton",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Nate Raymond",
+            "PERSON",
+            "Additional Reporting",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Jon Herskovitz",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Colleen Jenkins",
+            "PERSON",
+            "Edit",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Marguerita Choy",
+            "PERSON",
+            "Edit",
+            "Article",
+            "PRODUCT"
+        ]
+    ]
+}

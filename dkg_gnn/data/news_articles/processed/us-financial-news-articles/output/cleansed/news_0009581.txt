@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Cardboard Cutout",
+            "PRODUCT"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Has",
+            "Military Junta",
+            "ORG/GOV"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Operate_In",
+            "Government Compound",
+            "COMP"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Participates_In",
+            "Children\u2019s Day",
+            "EVENT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Negative_Impact_On",
+            "Media Criticism",
+            "CONCEPT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Negative_Impact_On",
+            "Media Scrutiny",
+            "CONCEPT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Negative_Impact_On",
+            "Democracy",
+            "CONCEPT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Produce",
+            "Bizarre Gesture",
+            "CONCEPT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Junta",
+            "ORG/GOV"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Announce",
+            "General Election",
+            "EVENT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Ban on Political Campaigning",
+            "CONCEPT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Military Barracks",
+            "COMP"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Weapons and Tanks",
+            "PRODUCT"
+        ],
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Control",
+            "Prime Minister\u2019s Work Desk",
+            "PRODUCT"
+        ],
+        [
+            "Human Rights Watch",
+            "ORG",
+            "Criticize",
+            "Prayuth Chan-ocha",
+            "PERSON"
+        ],
+        [
+            "Human Rights Watch",
+            "ORG",
+            "Relate_To",
+            "Contempt of Media Criticism",
+            "CONCEPT"
+        ],
+        [
+            "Sunai Phasuk",
+            "PERSON",
+            "Is_Member_Of",
+            "Human Rights Watch",
+            "ORG"
+        ],
+        [
+            "Sunai Phasuk",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Amy Sawitta Lefevre",
+            "PERSON",
+            "Additional Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Panarat Thepgumpanat",
+            "PERSON",
+            "Additional Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Amy Sawitta Lefevre",
+            "PERSON",
+            "Writing",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Michael Perry",
+            "PERSON",
+            "Editing",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

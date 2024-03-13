@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Work_On",
+            "Assumption",
+            "CONCEPT"
+        ],
+        [
+            "Assumption",
+            "CONCEPT",
+            "Relate_To",
+            "German Coalition Talk Success",
+            "EVENT"
+        ],
+        [
+            "German Coalition Talk Success",
+            "EVENT",
+            "Impact",
+            "Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Harvinder Sian",
+            "PERSON",
+            "Speak_About",
+            "German Politics",
+            "GPE"
+        ],
+        [
+            "Harvinder Sian",
+            "PERSON",
+            "Speak_About",
+            "European Central Bank",
+            "ORG/REG"
+        ]
+    ]
+}

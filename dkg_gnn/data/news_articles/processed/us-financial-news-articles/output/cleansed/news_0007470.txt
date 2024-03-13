@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Microsoft",
+            "COMP",
+            "Suspend",
+            "Meltdown and Spectre security patches",
+            "EVENT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Relate_To",
+            "AMD chips",
+            "COMP"
+        ],
+        [
+            "AMD chips",
+            "COMP",
+            "Impact",
+            "some machines",
+            "GPE"
+        ],
+        [
+            "some machines",
+            "GPE",
+            "Freeze",
+            null,
+            null
+        ]
+    ]
+}

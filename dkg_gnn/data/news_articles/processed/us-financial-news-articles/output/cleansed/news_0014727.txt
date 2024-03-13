@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Economy Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Eurozone",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Impact",
+            "GDP Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Statistics Office",
+            "ORG",
+            "Release",
+            "Data",
+            "EVENT"
+        ],
+        [
+            "Data",
+            "EVENT",
+            "Relate_To",
+            "Germany Economy",
+            "GPE"
+        ],
+        [
+            "Data",
+            "EVENT",
+            "Relate_To",
+            "GDP Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Expect",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Poll",
+            "Wall Street Journal",
+            "ORG"
+        ],
+        [
+            "GDP Growth",
+            "ECON_INDICATOR",
+            "Compare_To",
+            "2.3%",
+            "NUM"
+        ]
+    ]
+}

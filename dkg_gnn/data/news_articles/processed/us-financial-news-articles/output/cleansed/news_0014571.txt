@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Collects",
+            "Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Audits",
+            "Taxpayers",
+            "PERSON"
+        ],
+        [
+            "Internal Revenue Service",
+            "ORG/GOV",
+            "Issues",
+            "Rules",
+            "CONCEPT"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Affects",
+            "Economy",
+            "SECTOR"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Deserves",
+            "Scrutiny",
+            "CONCEPT"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Needs",
+            "Oversight",
+            "CONCEPT"
+        ],
+        [
+            "Cause of Action Institute",
+            "ORG",
+            "Reveals",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Evasive",
+            "Oversight",
+            "CONCEPT"
+        ],
+        [
+            "IRS",
+            "ORG/GOV",
+            "Refuses",
+            "Comply",
+            "CONCEPT"
+        ]
+    ]
+}

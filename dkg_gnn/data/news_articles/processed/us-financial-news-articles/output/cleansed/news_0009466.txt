@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Sherritt International Corp",
+            "ORG",
+            "Provide",
+            "Update",
+            "EVENT"
+        ],
+        [
+            "Tropical Cyclone Ava",
+            "EVENT",
+            "Impact",
+            "Ambatovy Operations",
+            "COMP"
+        ],
+        [
+            "Sherritt International",
+            "ORG",
+            "Operate_In",
+            "Ambatovy Operations",
+            "COMP"
+        ],
+        [
+            "Ambatovy Operations",
+            "COMP",
+            "Has",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "Damage",
+            "CONCEPT",
+            "Impact",
+            "Production Restart",
+            "CONCEPT"
+        ],
+        [
+            "Production Restart",
+            "CONCEPT",
+            "Delay",
+            "Until End of Jan",
+            "TIME"
+        ],
+        [
+            "Sherritt International",
+            "ORG",
+            "Has",
+            "Acid Production Facilities",
+            "COMP"
+        ],
+        [
+            "Acid Production Facilities",
+            "COMP",
+            "Incur",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "Damage",
+            "CONCEPT",
+            "Necessitate",
+            "Repairs",
+            "CONCEPT"
+        ],
+        [
+            "Repairs",
+            "CONCEPT",
+            "Impact",
+            "Production Ramp Up",
+            "CONCEPT"
+        ]
+    ]
+}

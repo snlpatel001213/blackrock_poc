@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "24 House Republicans",
+            "PERSON",
+            "Relate_To",
+            "new tax law",
+            "EVENT"
+        ],
+        [
+            "24 House Republicans",
+            "PERSON",
+            "Participates_In",
+            "Ways and Means Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Ways and Means Committee",
+            "ORG/GOV",
+            "Has",
+            "24 House Republicans",
+            "PERSON"
+        ],
+        [
+            "24 House Republicans",
+            "PERSON",
+            "Has",
+            "navy-blue hats",
+            "PRODUCT"
+        ],
+        [
+            "navy-blue hats",
+            "PRODUCT",
+            "Relate_To",
+            "white \u201c24\u201d",
+            "CONCEPT"
+        ],
+        [
+            "white \u201c24\u201d",
+            "CONCEPT",
+            "Relate_To",
+            "Ways and Means Committee",
+            "ORG/GOV"
+        ],
+        [
+            "navy-blue hats",
+            "PRODUCT",
+            "Relate_To",
+            "commitment",
+            "CONCEPT"
+        ],
+        [
+            "navy-blue hats",
+            "PRODUCT",
+            "Relate_To",
+            "each other",
+            "CONCEPT"
+        ]
+    ]
+}

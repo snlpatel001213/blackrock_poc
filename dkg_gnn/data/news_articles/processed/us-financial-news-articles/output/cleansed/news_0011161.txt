@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Dave & Buster\u2019s Entertainment Inc",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Kevin Sheehan",
+            "PERSON",
+            "Buy",
+            "10,000 Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kevin Sheehan",
+            "PERSON",
+            "Is_Member_Of",
+            "Dave & Buster\u2019s Entertainment Inc",
+            "COMP"
+        ],
+        [
+            "10,000 Shares",
+            "FIN_INSTRUMENT",
+            "Belong_To",
+            "Kevin Sheehan",
+            "PERSON"
+        ],
+        [
+            "10,000 Shares",
+            "FIN_INSTRUMENT",
+            "Belong_To",
+            "Dave & Buster\u2019s Entertainment Inc",
+            "COMP"
+        ]
+    ]
+}

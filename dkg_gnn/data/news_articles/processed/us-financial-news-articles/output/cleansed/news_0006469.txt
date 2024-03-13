@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Interview",
+            "CEOs",
+            "PERSON"
+        ],
+        [
+            "CEOs",
+            "PERSON",
+            "Participates_In",
+            "Market",
+            "GPE"
+        ],
+        [
+            "Maker of Corona",
+            "COMP",
+            "See",
+            "Big business potential",
+            "CONCEPT"
+        ],
+        [
+            "Legal marijuana market",
+            "SECTOR",
+            "Relate_To",
+            "Weed",
+            "CONCEPT"
+        ]
+    ]
+}

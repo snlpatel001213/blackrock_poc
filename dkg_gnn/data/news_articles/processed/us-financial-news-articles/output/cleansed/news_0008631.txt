@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Mexican state governor",
+            "PERSON",
+            "Accuse",
+            "Finance Ministry",
+            "ORG/GOV"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Withhold",
+            "Federal Funds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Pressure",
+            "Chihuahua",
+            "GPE"
+        ],
+        [
+            "Chihuahua Governor",
+            "PERSON",
+            "Investigate",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Chihuahua Governor",
+            "PERSON",
+            "Announce",
+            "Arrest",
+            "PERSON"
+        ],
+        [
+            "Former Top PRI Finance Official",
+            "PERSON",
+            "Alejandro Gutierrez",
+            "PERSON"
+        ],
+        [
+            "Finance Ministry",
+            "ORG/GOV",
+            "Fail_to_Transfer",
+            "Funds",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

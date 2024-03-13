@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "Apple Music",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Music Streaming Service",
+            "COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Co-founder",
+            "Interscope Records",
+            "ORG"
+        ],
+        [
+            "Interscope Records",
+            "ORG",
+            "Include",
+            "Lady Gaga",
+            "PERSON"
+        ],
+        [
+            "Interscope Records",
+            "ORG",
+            "Include",
+            "U2",
+            "PERSOM"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Former CEO",
+            "Interscope",
+            "ORG"
+        ],
+        [
+            "Interscope",
+            "ORG",
+            "Joined",
+            "Apple",
+            "COMP"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Bought",
+            "Beats Electronics",
+            "COMP"
+        ],
+        [
+            "Beats Electronics",
+            "COMP",
+            "Co-founded",
+            "Dr Dre",
+            "PERSON"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Has",
+            "30 Million Apple Music Subscribers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "August",
+            "DATE"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "Apple Shares Fully Vesting",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

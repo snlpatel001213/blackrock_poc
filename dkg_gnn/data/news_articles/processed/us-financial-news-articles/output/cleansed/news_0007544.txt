@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "German Chancellor Angela Merkel",
+            "PERSON",
+            "Is_Member_Of",
+            "Conservative Bloc",
+            "ORG"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Has",
+            "Merkel",
+            "PERSON"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Participates_In",
+            "Exploratory Talks",
+            "EVENT"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Has",
+            "Schulz",
+            "PERSON"
+        ],
+        [
+            "Schulz",
+            "PERSON",
+            "Say",
+            "No Red Lines",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Has",
+            "Horst Seehofer",
+            "PERSON"
+        ],
+        [
+            "Horst Seehofer",
+            "PERSON",
+            "Leader_Of",
+            "CSU",
+            "ORG"
+        ],
+        [
+            "CSU",
+            "ORG",
+            "Sister_Party_Of",
+            "CDU",
+            "ORG"
+        ],
+        [
+            "CDU",
+            "ORG",
+            "Has",
+            "Merkel",
+            "PERSON"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Schedule",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Plan_To",
+            "Form",
+            "Re-run",
+            "EVENT"
+        ],
+        [
+            "Re-run",
+            "EVENT",
+            "Of",
+            "Grand Coalition",
+            "ORG"
+        ],
+        [
+            "Grand Coalition",
+            "ORG",
+            "Govern",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Talks",
+            "EVENT",
+            "Five_Days_Of",
+            "Conservative Bloc",
+            "ORG"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Find",
+            "Common_Ground",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Bloc",
+            "ORG",
+            "Form",
+            "Government",
+            "ORG"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "Michelle Martin",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "John Stonestreet",
+            "PERSON"
+        ]
+    ]
+}

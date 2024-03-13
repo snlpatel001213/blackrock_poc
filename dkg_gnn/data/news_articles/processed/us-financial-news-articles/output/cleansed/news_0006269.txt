@@ -1,0 +1,89 @@
+{
+    "output": [
+        [
+            "Toshiba Corp",
+            "COMP",
+            "Own",
+            "Westinghouse Electric Co LLC",
+            "ORG"
+        ],
+        [
+            "Westinghouse Electric Co LLC",
+            "ORG",
+            "Sell",
+            "Bankrupt",
+            "CONCEPT"
+        ],
+        [
+            "Brookfield Asset Management Inc",
+            "COMP",
+            "Agree",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Toshiba Corp",
+            "COMP",
+            "Plan",
+            "Sell",
+            "Westinghouse-related claims",
+            "CONCEPT"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Operate_In",
+            "Components and machinery",
+            "SECTOR"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Has",
+            "Memory chips business",
+            "SECTOR"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Sell",
+            "Memory chips business",
+            "SECTOR"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Impact",
+            "Little growth potential",
+            "CONCEPT"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Keep",
+            "40.2 percent of Toshiba Memory",
+            "COMP"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Risk",
+            "20-year contract to buy LNG",
+            "CONCEPT"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Pay",
+            "Fixed gas processing fee",
+            "CONCEPT"
+        ],
+        [
+            "Freeport LNG",
+            "COMP",
+            "Strike",
+            "Deal",
+            "CONCEPT"
+        ]
+    ]
+}

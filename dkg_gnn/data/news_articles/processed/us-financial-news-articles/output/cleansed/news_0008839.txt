@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Farhad Moshiri",
+            "PERSON",
+            "Is_Member_Of",
+            "Everton",
+            "ORG"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Participates_In",
+            "Soccer",
+            "CONCEPT"
+        ],
+        [
+            "Everton",
+            "ORG",
+            "Offer",
+            "Better Deal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Relate_To",
+            "Voodoo Message",
+            "CONCEPT"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Participates_In",
+            "Pilgrimage",
+            "CONCEPT"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Impact",
+            "Everton",
+            "ORG"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Impact",
+            "Manchester United",
+            "ORG"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Impact",
+            "Chelsea",
+            "ORG"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Participates_In",
+            "Soccer",
+            "CONCEPT"
+        ],
+        [
+            "Everton",
+            "ORG",
+            "Lose",
+            "Ross Barkley",
+            "PERSON"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Join",
+            "Chelsea",
+            "ORG"
+        ]
+    ]
+}

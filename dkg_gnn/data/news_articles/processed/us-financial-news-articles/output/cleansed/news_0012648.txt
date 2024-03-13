@@ -1,0 +1,121 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Working_To_Develop",
+            "Software and Firmware Mitigations",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Working_To_Distribute",
+            "Software and Firmware Mitigations",
+            "CONCEPT"
+        ],
+        [
+            "Google Project Zero",
+            "ORG",
+            "Disclose",
+            "Exploit Methods",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Not_Receive",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Not_Receive",
+            "Information_That_These_Exploits_Have_Been_Used",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Have",
+            "Additional_Data",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Share",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Share",
+            "Data",
+            "CONCEPT",
+            "On",
+            "Several",
+            "SECTOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Share",
+            "Data",
+            "CONCEPT",
+            "On",
+            "6th, 7th and 8th Generation",
+            "SECTOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Share",
+            "Data",
+            "CONCEPT",
+            "On",
+            "Intel Core Processor",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Share",
+            "Data",
+            "CONCEPT",
+            "On",
+            "Platforms",
+            "SECTOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Say",
+            "Performance_Impact",
+            "CONCEPT",
+            "Should_Not",
+            "Be",
+            "Significant",
+            "CONCEPT",
+            "For",
+            "Average",
+            "COMPUTER",
+            "PERSON",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Support",
+            "Expectation",
+            "CONCEPT",
+            "On",
+            "These",
+            "SECTOR",
+            "Platforms"
+        ]
+    ]
+}

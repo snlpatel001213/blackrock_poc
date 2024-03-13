@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "KPI-121",
+            "PRODUCT"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "KPI-121",
+            "PRODUCT",
+            "Relate_To",
+            "Dry Eye Disease",
+            "CONCEPT"
+        ],
+        [
+            "KPI-121",
+            "PRODUCT",
+            "Participates_In",
+            "Late-Stage Studies",
+            "EVENT"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Control",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "16",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "First Trial",
+            "EVENT"
+        ],
+        [
+            "First Trial",
+            "EVENT",
+            "Positive_Impact_On",
+            "Dry Eye Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "U.S. Regulator",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Regulator",
+            "ORG/REG",
+            "Relate_To",
+            "FDA",
+            "ORG/GOV"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "Path Forward",
+            "CONCEPT"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "Post-Marketing Trial",
+            "EVENT"
+        ],
+        [
+            "KPI-121",
+            "PRODUCT",
+            "Potential",
+            "Peak Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kala Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "Inveltys",
+            "PRODUCT"
+        ],
+        [
+            "Inveltys",
+            "PRODUCT",
+            "Under_Review",
+            "FDA",
+            "ORG/GOV"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Expected",
+            "Decision",
+            "EVENT"
+        ]
+    ]
+}

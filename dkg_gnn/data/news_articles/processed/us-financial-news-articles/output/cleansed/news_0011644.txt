@@ -1,0 +1,35 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Operate_In",
+            "Jeddah",
+            "GPE"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Grant",
+            "Women",
+            "PERSON",
+            "Right",
+            "Drive",
+            "CONCEPT"
+        ],
+        [
+            "Motorshow",
+            "EVENT",
+            "Relate_To",
+            "Women",
+            "PERSON"
+        ],
+        [
+            "Motorshow",
+            "EVENT",
+            "Open",
+            "Jeddah",
+            "GPE"
+        ]
+    ]
+}

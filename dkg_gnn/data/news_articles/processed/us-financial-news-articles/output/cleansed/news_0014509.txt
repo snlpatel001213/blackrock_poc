@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Announce",
+            "Negative Results",
+            "EVENT"
+        ],
+        [
+            "Axovant Sciences Ltd",
+            "COMP",
+            "Control",
+            "Intipirdine Program",
+            "CONCEPT"
+        ],
+        [
+            "Intipirdine Program",
+            "CONCEPT",
+            "Discontinued",
+            null,
+            null
+        ],
+        [
+            "Intipirdine Program",
+            "CONCEPT",
+            "Relate_To",
+            "Phase 2b Headway Study",
+            "EVENT"
+        ],
+        [
+            "Intipirdine Program",
+            "CONCEPT",
+            "Relate_To",
+            "Pilot Phase 2 Gait and Balance Studies",
+            "EVENT"
+        ],
+        [
+            "Intipirdine",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Axovant Sciences Ltd",
+            "COMP"
+        ],
+        [
+            "Nelotanserin Study",
+            "EVENT",
+            "Positive Trends",
+            "Efficacy",
+            "CONCEPT"
+        ],
+        [
+            "Nelotanserin Study",
+            "EVENT",
+            "Relate_To",
+            "Axovant Sciences Ltd",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Jinke Property Group Co Ltd.",
+            "COMP",
+            "Plan",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "Jinke Property Group Co Ltd.",
+            "COMP",
+            "Sell",
+            "100 percent stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jinke Property Group Co Ltd.",
+            "COMP",
+            "Sell",
+            "Chongqing-based door & window unit",
+            "PRODUCT"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Belong_To",
+            "Jinke Property Group Co Ltd.",
+            "COMP"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Sell",
+            "100 percent stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Sell",
+            "Buyer",
+            "COMP"
+        ],
+        [
+            "Buyer",
+            "COMP",
+            "Buy",
+            "100 percent stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Buyer",
+            "COMP",
+            "Buy",
+            "Chongqing-based door & window unit",
+            "PRODUCT"
+        ],
+        [
+            "Buyer",
+            "COMP",
+            "Pay",
+            "59.5 million yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Need_To",
+            "Repay",
+            "VERB"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Need_To",
+            "Loans",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Chongqing-based door & window unit",
+            "PRODUCT",
+            "Need_To",
+            "113.1 million yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Buyer",
+            "COMP",
+            "Provide",
+            "Fund",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Buyer",
+            "COMP",
+            "Provide",
+            "113.1 million yuan",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

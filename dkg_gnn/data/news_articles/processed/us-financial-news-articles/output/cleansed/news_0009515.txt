@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Has",
+            "Nathan Pund",
+            "PERSON"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Join",
+            "Houlihan Lokey",
+            "ORG"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Participates_In",
+            "Consumer, Food, & Retail Group",
+            "SECTOR"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Prior_Work_At",
+            "Lazard Middle Market",
+            "ORG"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Prior_Work_At",
+            "D.A. Davidson & Co",
+            "ORG"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Co_Founder_Of",
+            "Silver Steep Partners",
+            "ORG"
+        ],
+        [
+            "Silver Steep Partners",
+            "ORG",
+            "Sold_To",
+            "D.A. Davidson & Co",
+            "ORG"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Has",
+            "55 Transactions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Focused_On",
+            "Active Lifestyle Sector",
+            "SECTOR"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Named",
+            "Top 10 Power Broker",
+            "CONCEPT"
+        ],
+        [
+            "Nathan Pund",
+            "PERSON",
+            "Appeared_In",
+            "40 Under 40 Outdoor Industry Leaders",
+            "CONCEPT"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Has",
+            "Nearly 60 Financial Professionals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Has",
+            "Consumer, Food, & Retail Group",
+            "SECTOR"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Ranked",
+            "No. 1 M&A Advisor",
+            "CONCEPT"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Ranked",
+            "No. 1 Global Restructuring Advisor",
+            "CONCEPT"
+        ],
+        [
+            "Houlihan Lokey",
+            "ORG",
+            "Ranked",
+            "No. 1 Global M&A Fairness Opinion Advisor",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "US Government",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Post",
+            "Tweets",
+            "PRODUCT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Has",
+            "Cabinet",
+            "ORG"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Has",
+            "Military",
+            "ORG"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Border Security",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Wall",
+            "PRODUCT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Drug Problem",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Opioid Problem",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Infrastructure",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Military",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Budget",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "Trade",
+            "CONCEPT"
+        ],
+        [
+            "US Government",
+            "ORG/GOV",
+            "Discuss",
+            "DACA",
+            "CONCEPT"
+        ],
+        [
+            "@realDonaldTrump",
+            "PERSON",
+            "Has",
+            "Twitter Account",
+            "PRODUCT"
+        ],
+        [
+            "@POTUS",
+            "PERSON",
+            "Has",
+            "Twitter Account",
+            "PRODUCT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Edit",
+            "Statements",
+            "PRODUCT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Confirm",
+            "Accuracy",
+            "CONCEPT"
+        ],
+        [
+            "Jake Tapper",
+            "PERSON",
+            "Interview",
+            "Stephen Miller",
+            "PERSON"
+        ],
+        [
+            "CNN",
+            "ORG",
+            "Employ",
+            "Jake Tapper",
+            "PERSON"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Employ",
+            "Stephen Miller",
+            "PERSON"
+        ],
+        [
+            "Fake News Awards",
+            "PRODUCT",
+            "Present",
+            "Wednesday, January 17th",
+            "DATE"
+        ],
+        [
+            "Fake News Awards",
+            "PRODUCT",
+            "Generate",
+            "Interest",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "FIN_INSTRUMENT",
+            "Create",
+            "Tremendous Benefits",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "FIN_INSTRUMENT",
+            "Create",
+            "Record Setting Stock Prices",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "FIN_INSTRUMENT",
+            "Create",
+            "Present and Future Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "FIN_INSTRUMENT",
+            "Create",
+            "Seven TRILLION dollars of value",
+            "QUANTITY"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Bring",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Bring",
+            "Necessary Changes",
+            "CONCEPT"
+        ],
+        [
+            "Michael Goodwin",
+            "PERSON",
+            "Write",
+            "Column",
+            "PRODUCT"
+        ],
+        [
+            "New York Post",
+            "COMP",
+            "Employ",
+            "Michael Goodwin",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Pingtan Marine Enterprise",
+            "COMP",
+            "Deploy",
+            "Two New Squid Jigging Vessels",
+            "COMP"
+        ],
+        [
+            "Two New Squid Jigging Vessels",
+            "COMP",
+            "Locate_In",
+            "International Waters",
+            "GPE"
+        ],
+        [
+            "International Waters",
+            "GPE",
+            "Locate_In",
+            "Atlantic Ocean",
+            "GPE"
+        ]
+    ]
+}

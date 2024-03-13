@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sears",
+            "COMP",
+            "Raise",
+            "$100 mln",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Forecast",
+            "Smaller Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Impact",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

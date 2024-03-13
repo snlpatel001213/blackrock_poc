@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "LG Electronics",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Produce",
+            "Washing Machine Factory",
+            "COMP"
+        ],
+        [
+            "Washing Machine Factory",
+            "COMP",
+            "Located_In",
+            "Tennessee",
+            "GPE"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Has",
+            "Jo Seong-Jin",
+            "PERSON"
+        ],
+        [
+            "Jo Seong-Jin",
+            "PERSON",
+            "Is_Member_Of",
+            "LG Electronics",
+            "COMP"
+        ],
+        [
+            "Jo Seong-Jin",
+            "PERSON",
+            "Position",
+            "CEO",
+            "CONCEPT"
+        ],
+        [
+            "Jo Seong-Jin",
+            "PERSON",
+            "Position",
+            "Vice Chairman",
+            "CONCEPT"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Relate_To",
+            "Feb. 2019",
+            "DATE"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Relate_To",
+            "November",
+            "DATE"
+        ],
+        [
+            "LG Electronics",
+            "COMP",
+            "Relate_To",
+            "US International Trade Commision",
+            "ORG/GOV"
+        ],
+        [
+            "US International Trade Commision",
+            "ORG/GOV",
+            "Impact",
+            "LG Electronics",
+            "COMP"
+        ],
+        [
+            "US International Trade Commision",
+            "ORG/GOV",
+            "Impact",
+            "Samsung Electronics",
+            "COMP"
+        ],
+        [
+            "US International Trade Commision",
+            "ORG/GOV",
+            "Positive_Impact_On",
+            "Whirlpool Corp",
+            "COMP"
+        ],
+        [
+            "Samsung Electronics",
+            "COMP",
+            "Sell",
+            "Inexpensive Washers",
+            "PRODUCT"
+        ],
+        [
+            "Whirlpool Corp",
+            "COMP",
+            "Operate_In",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "Whirlpool Corp",
+            "COMP",
+            "Benefit",
+            "Tariffs",
+            "CONCEPT"
+        ]
+    ]
+}

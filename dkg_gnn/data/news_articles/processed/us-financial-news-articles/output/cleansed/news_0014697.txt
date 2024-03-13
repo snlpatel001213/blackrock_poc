@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Lufthansa Group",
+            "COMP",
+            "Has",
+            "130 Million Passengers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Has",
+            "129 Million Passengers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lufthansa Group",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Lufthansa Group",
+            "COMP",
+            "Acquire",
+            "Brussels Airlines",
+            "COMP"
+        ],
+        [
+            "Lufthansa Group",
+            "COMP",
+            "Grow",
+            "Eurowings",
+            "COMP"
+        ],
+        [
+            "Lufthansa Group",
+            "COMP",
+            "Benefit_From",
+            "Air Berlin Collapse",
+            "EVENT"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Curb_Growth",
+            "null",
+            "null"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Face",
+            "Pilot Rostering Problem",
+            "EVENT"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Cancel",
+            "20000 Flights",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air France-KLM",
+            "COMP",
+            "Report",
+            "5.6 Percent Rise in Passenger Numbers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air France-KLM",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "IAG",
+            "COMP",
+            "Carry",
+            "104.8 Million People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IAG",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Lufthansa",
+            "COMP",
+            "Operate_In",
+            "Long and Short Distances",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Operate_In",
+            "Short Haul Routes",
+            "CONCEPT"
+        ],
+        [
+            "Ryanair",
+            "COMP",
+            "Not_Provide",
+            "RPK",
+            "CONCEPT"
+        ]
+    ]
+}

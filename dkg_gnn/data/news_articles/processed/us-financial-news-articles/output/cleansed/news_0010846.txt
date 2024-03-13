@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Welcome",
+            "U.S. Talks",
+            "ORG/GOV"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Talks",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Far From Clear",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Meet",
+            "Members",
+            "ORG/GOV"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Say",
+            "Trump Told",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Told",
+            "South Korean President Moon Jae-in",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Willing",
+            "Talk",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Moon Told",
+            "PERSON"
+        ],
+        [
+            "Moon",
+            "PERSON",
+            "Tell",
+            "Initial South Korean Talks",
+            "ORG"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Go",
+            "Well",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Hope",
+            "Lead",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Lead",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Seeing",
+            "ORG"
+        ],
+        [
+            "Over",
+            "CONCEPT",
+            "Number",
+            "Weeks",
+            "ORG"
+        ],
+        [
+            "Months",
+            "CONCEPT",
+            "What",
+            "Happens",
+            "ORG"
+        ]
+    ]
+}

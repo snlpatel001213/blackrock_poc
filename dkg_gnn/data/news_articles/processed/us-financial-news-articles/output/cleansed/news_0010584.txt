@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "Allergan Plc",
+            "COMP",
+            "See",
+            "2018 GAAP Net Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "See",
+            "2018 GAAP Performance Loss Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "See",
+            "2018 Non-GAAP Performance Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Plan",
+            "Sell Remaining Position in Teva",
+            "COMP"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Has",
+            "Prudently Divest",
+            "SECTOR",
+            "Relate_To",
+            "Securities of Teva",
+            "COMP"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Anticipates",
+            "Future Impact of Tax Cut and Jobs Act",
+            "CONCEPT",
+            "Impact_On",
+            "CO\u2018s Non-GAAP Effective Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Sees",
+            "No Generic Entry for Restasis Prior to Q2 2018",
+            "EVENT"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Sees",
+            "Ongoing Cost Reductions of $300 Million \u2013 $400 Million in 2018",
+            "ECON_INDICATOR",
+            "From",
+            "Fiscal 2017 Non-GAAP Operating Expenses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Faces",
+            "Loss of Exclusivity Revenue Headwinds in 2018",
+            "CONCEPT"
+        ]
+    ]
+}

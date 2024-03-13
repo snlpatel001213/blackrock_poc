@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Banking regulators",
+            "ORG/REG",
+            "Downgrade",
+            "Wells Fargo",
+            "COMP"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Has",
+            "CAMELS score",
+            "CONCEPT"
+        ],
+        [
+            "CAMELS score",
+            "CONCEPT",
+            "Relate_To",
+            "variety of measures",
+            "CONCEPT"
+        ],
+        [
+            "Variety of measures",
+            "CONCEPT",
+            "Include",
+            "capital",
+            "CONCEPT"
+        ],
+        [
+            "Capital",
+            "CONCEPT",
+            "Include",
+            "management",
+            "CONCEPT"
+        ],
+        [
+            "Management",
+            "CONCEPT",
+            "Include",
+            "liquidity",
+            "CONCEPT"
+        ],
+        [
+            "CAMELS score",
+            "CONCEPT",
+            "Affect",
+            "insurance payments",
+            "CONCEPT"
+        ],
+        [
+            "Insurance payments",
+            "CONCEPT",
+            "Participates_In",
+            "bank",
+            "COMP"
+        ],
+        [
+            "CAMELS score",
+            "CONCEPT",
+            "Affect",
+            "regulatory oversight",
+            "CONCEPT"
+        ],
+        [
+            "Regulatory oversight",
+            "CONCEPT",
+            "Of",
+            "firm",
+            "COMP"
+        ]
+    ]
+}

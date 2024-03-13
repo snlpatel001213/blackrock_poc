@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Invests_In",
+            "Benefit Plans Administrative Services, Inc.",
+            "ORG"
+        ],
+        [
+            "Benefit Plans Administrative Services, Inc.",
+            "ORG",
+            "Acquire",
+            "Northeast Retirement Services, LLC",
+            "ORG"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Operate",
+            "Community Bank, N.A.",
+            "ORG"
+        ],
+        [
+            "Community Bank, N.A.",
+            "ORG",
+            "Operate_In",
+            "Upstate New York, Northeastern Pennsylvania, Vermont, and Western Massachusetts",
+            "GPE"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Has",
+            "Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Listed_On",
+            "New York Stock Exchange",
+            "ORG/REG"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Stock_Trades_Under",
+            "CBU",
+            "COMP"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Announce",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth Quarter and Full Year 2017",
+            "EVENT"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "When",
+            "January 22, 2018",
+            "DATE"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Access",
+            "800-967-7137",
+            "TEL"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Access",
+            "719-325-2437",
+            "TEL"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Access",
+            "Outside the U.S. & Canada",
+            "GPE"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Conference ID Code",
+            "9581617",
+            "CODE"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Webcast",
+            "https://www.webcaster4.com/Webcast/Page/995/24052",
+            "URL"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Release",
+            "Quarterly Results",
+            "EVENT"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "Before",
+            "Market Opens",
+            "EVENT"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "Available",
+            "Investor Relations",
+            "SECTOR"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "Available",
+            "Company Website",
+            "ORG"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "Archived",
+            "Company Website",
+            "ORG"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "Accessible",
+            "No Cost",
+            "EVENT"
+        ],
+        [
+            "Quarterly Results",
+            "EVENT",
+            "For",
+            "One Year",
+            "DURATION"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Retail Banking Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Business Banking Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Municipal Banking Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Financial Planning Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Insurance Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Wealth Management Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Comprehensive Financial Planning Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Trust Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Actuarial Consulting Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Fund Administration Services",
+            "SECTOR"
+        ],
+        [
+            "Community Bank System, Inc.",
+            "ORG",
+            "Offer",
+            "Employee Benefits Administration Services",
+            "SECTOR"
+        ]
+    ]
+}

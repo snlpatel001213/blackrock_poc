@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Tecon Biology Co Ltd",
+            "COMP",
+            "Announce",
+            "2017 Hog Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2017 Hog Sales",
+            "ECON_INDICATOR",
+            "Has",
+            "505 Million Yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "505 Million Yuan",
+            "ECON_INDICATOR",
+            "Equal",
+            "77.79 Million Dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tecon Biology Co Ltd",
+            "COMP",
+            "Announce",
+            "Average Selling Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average Selling Price",
+            "ECON_INDICATOR",
+            "Has",
+            "13.63 Yuan/KG",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

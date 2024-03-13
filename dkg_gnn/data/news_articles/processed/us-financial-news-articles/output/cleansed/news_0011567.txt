@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "AV Homes, Inc.",
+            "COMP",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "AV Homes, Inc.",
+            "COMP",
+            "Operate_In",
+            "Florida, the Carolinas, Arizona and Texas",
+            "GPE"
+        ],
+        [
+            "Oakdale - Hampton Homes",
+            "COMP",
+            "Acquired",
+            "Homebuilding Assets",
+            "PRODUCT"
+        ],
+        [
+            "Oakdale - Hampton Homes",
+            "COMP",
+            "Target",
+            "First-time Buyers and Move-up Buyers",
+            "PERSON"
+        ],
+        [
+            "AV Homes, Inc.",
+            "COMP",
+            "Has",
+            "EVP, Chief Financial Officer",
+            "PERSON"
+        ],
+        [
+            "EVP, Chief Financial Officer",
+            "PERSON",
+            "Contact",
+            "Investor",
+            "ORG"
+        ],
+        [
+            "EVP, Chief Financial Officer",
+            "PERSON",
+            "Phone",
+            "480-214-7408",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AV Homes, Inc.",
+            "COMP",
+            "Trade",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "AV Homes, Inc.",
+            "COMP",
+            "Website",
+            "www.avhomesinc.com",
+            "CONCEPT"
+        ]
+    ]
+}

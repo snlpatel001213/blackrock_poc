@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Diane Kruger",
+            "PERSON",
+            "Play",
+            "In the Fade",
+            "PRODUCT"
+        ],
+        [
+            "In the Fade",
+            "PRODUCT",
+            "Relate_To",
+            "Foreign Language Oscar",
+            "EVENT"
+        ],
+        [
+            "In the Fade",
+            "PRODUCT",
+            "Operate_In",
+            "Cinemas",
+            "GPE"
+        ]
+    ]
+}

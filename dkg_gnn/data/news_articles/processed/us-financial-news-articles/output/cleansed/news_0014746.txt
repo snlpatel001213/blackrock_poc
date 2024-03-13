@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Basilea Pharmaceutica AG",
+            "COMP",
+            "Announce",
+            "License Agreement Extension",
+            "ORG"
+        ],
+        [
+            "Basilea Pharmaceutica AG",
+            "COMP",
+            "Control",
+            "Cresemba",
+            "PRODUCT"
+        ],
+        [
+            "Pfizer",
+            "COMP",
+            "Participates_In",
+            "License Agreement Extension",
+            "ORG"
+        ],
+        [
+            "Cresemba",
+            "PRODUCT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Cresemba",
+            "PRODUCT",
+            "Relate_To",
+            "Asia Pacific",
+            "GPE"
+        ]
+    ]
+}

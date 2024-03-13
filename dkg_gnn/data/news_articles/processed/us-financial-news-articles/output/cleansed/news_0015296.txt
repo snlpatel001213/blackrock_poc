@@ -1,0 +1,82 @@
+{
+    "output": [
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Announce",
+            "Cost-cutting Plan",
+            "CONCEPT"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Reduce",
+            "Workforce",
+            "CONCEPT"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Teva Pharmaceutical Industries",
+            "COMP",
+            "Control",
+            "Heavy Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Board of Directors at Teva Pharm",
+            "ORG",
+            "Cut",
+            "Salaries",
+            "CONCEPT"
+        ],
+        [
+            "Board of Directors at Teva Pharm",
+            "ORG",
+            "Take",
+            "Pay Cut",
+            "CONCEPT"
+        ],
+        [
+            "Dan Suesskind",
+            "PERSON",
+            "Say",
+            "Pay Cut",
+            "CONCEPT"
+        ],
+        [
+            "Dan Suesskind",
+            "PERSON",
+            "Speak",
+            "At",
+            "Israel Business Conference",
+            "EVENT"
+        ],
+        [
+            "Dan Suesskind",
+            "PERSON",
+            "Be",
+            "Board Member",
+            "ORG"
+        ],
+        [
+            "Ari Rabinovitch",
+            "PERSON",
+            "Report",
+            "Reduction",
+            "CONCEPT"
+        ],
+        [
+            "Ari Rabinovitch",
+            "PERSON",
+            "Report",
+            "Job Reductions",
+            "CONCEPT"
+        ]
+    ]
+}

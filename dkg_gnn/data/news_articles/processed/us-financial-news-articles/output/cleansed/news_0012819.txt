@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "WTWH Media, LLC",
+            "ORG",
+            "Is_Member_Of",
+            "WTWH Network",
+            "CONCEPT"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Announce",
+            "WTWH Media, LLC",
+            "ORG"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Operate_In",
+            "Robotics and Intelligent Systems",
+            "SECTOR"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Participates_In",
+            "The Robot Report",
+            "PRODUCT"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Participates_In",
+            "Robotics Summit & Showcase",
+            "EVENT"
+        ],
+        [
+            "WTWH Media, LLC",
+            "ORG",
+            "Control",
+            "The Robot Report",
+            "PRODUCT"
+        ],
+        [
+            "WTWH Media, LLC",
+            "ORG",
+            "Control",
+            "Robotics Summit & Showcase",
+            "EVENT"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Relate_To",
+            "Robotics and Intelligent Systems sector",
+            "SECTOR"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Relate_To",
+            "Robotics companies",
+            "COMP"
+        ],
+        [
+            "Dan Kara",
+            "PERSON",
+            "Relate_To",
+            "Industry leaders",
+            "PERSON"
+        ],
+        [
+            "The Robot Report",
+            "PRODUCT",
+            "Relate_To",
+            "Robotics and Intelligent Systems sector",
+            "SECTOR"
+        ],
+        [
+            "Robotics Summit & Showcase",
+            "EVENT",
+            "Relate_To",
+            "Robotics and Intelligent Systems sector",
+            "SECTOR"
+        ]
+    ]
+}

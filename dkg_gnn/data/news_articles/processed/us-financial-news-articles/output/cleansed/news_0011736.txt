@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Turkey",
+            "GPE",
+            "Invests_In",
+            "Troops",
+            "PERSON"
+        ],
+        [
+            "Troops",
+            "PERSON",
+            "Operate_In",
+            "Observation Points",
+            "PRODUCT"
+        ],
+        [
+            "Observation Points",
+            "PRODUCT",
+            "Locate_In",
+            "Northern Idlib",
+            "GPE"
+        ],
+        [
+            "Northern Idlib",
+            "GPE",
+            "Near",
+            "Syrian Army Offensive",
+            "PRODUCT"
+        ],
+        [
+            "Syrian Army",
+            "ORG/GOV",
+            "Launch",
+            "Offensive",
+            "EVENT"
+        ],
+        [
+            "Offensive",
+            "EVENT",
+            "In",
+            "Idlib Province",
+            "GPE"
+        ],
+        [
+            "Idlib Province",
+            "GPE",
+            "Participates_In",
+            "Conflict",
+            "EVENT"
+        ],
+        [
+            "Conflict",
+            "EVENT",
+            "Relate_To",
+            "Syrian Civil War",
+            "EVENT"
+        ],
+        [
+            "Syrian Civil War",
+            "EVENT",
+            "Involve",
+            "Moderate Opposition Forces",
+            "PRODUCT"
+        ],
+        [
+            "Moderate Opposition Forces",
+            "PRODUCT",
+            "Hit_By",
+            "Syrian Army",
+            "ORG/GOV"
+        ],
+        [
+            "Syrian Army",
+            "ORG/GOV",
+            "Control",
+            "Assad Regime",
+            "ORG/GOV"
+        ],
+        [
+            "Assad Regime",
+            "ORG/GOV",
+            "Allied_With",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Work_With",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "And",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Work_For",
+            "Political Solution",
+            "CONCEPT"
+        ],
+        [
+            "Political Solution",
+            "CONCEPT",
+            "Undermined_By",
+            "Strikes",
+            "EVENT"
+        ],
+        [
+            "Strikes",
+            "EVENT",
+            "On",
+            "Moderate Opposition Forces",
+            "PRODUCT"
+        ],
+        [
+            "Moderate Opposition Forces",
+            "PRODUCT",
+            "In",
+            "Idlib Province",
+            "GPE"
+        ],
+        [
+            "Idlib Province",
+            "GPE",
+            "Part_Of",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Have",
+            "Civil War",
+            "EVENT"
+        ]
+    ]
+}

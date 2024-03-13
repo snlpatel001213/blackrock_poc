@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Joel Quadracci",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dave Honan",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Operate_In",
+            "South America",
+            "GPE"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Workflow Re-engineering",
+            "CONCEPT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Content Management",
+            "CONCEPT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Data-Driven Marketing",
+            "CONCEPT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Personalization",
+            "CONCEPT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Digital Products",
+            "PRODUCT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Print Products",
+            "PRODUCT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Related Products",
+            "PRODUCT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Related Services",
+            "PRODUCT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Solutions",
+            "PRODUCT"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Treasury",
+            "ORG"
+        ],
+        [
+            "Quad/Graphics",
+            "COMP",
+            "Has",
+            "Investor Relations",
+            "ORG"
+        ]
+    ]
+}

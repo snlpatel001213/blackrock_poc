@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Release",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Operate_In",
+            "Wattenberg Field",
+            "SECTOR"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Produce",
+            "Crude Oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Produce",
+            "Natural Gas",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Produce",
+            "NGLs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Extraction Oil & Gas, Inc.",
+            "COMP",
+            "Located_In",
+            "Denver-Julesburg Basin",
+            "SECTOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth-Quarter 2017 Financial and Operating Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "Investor Relations",
+            "SECTOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Date",
+            "TIME"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Time",
+            "TIME"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Dial-In Numbers",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Conference ID",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Audio Webcast",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Related Presentation Materials",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Replay",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

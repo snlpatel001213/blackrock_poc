@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Bitcoin Mining",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Exchanges",
+            "ORG"
+        ],
+        [
+            "Exchanges",
+            "ORG",
+            "Operate_In",
+            "Cryptocurrencies",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Negative_Impact_On",
+            "Bitcoin",
+            "CRYPTOCURRENCY"
+        ],
+        [
+            "China",
+            "GPE",
+            "Negative_Impact_On",
+            "Bitcoin Trading",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Multiagency Government Task Force",
+            "ORG/GOV"
+        ],
+        [
+            "Multiagency Government Task Force",
+            "ORG/GOV",
+            "Order",
+            "Shutdown",
+            "CONCEPT"
+        ],
+        [
+            "Shutdown",
+            "CONCEPT",
+            "Relate_To",
+            "Cryptocurrencies Mining",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrencies Mining",
+            "CONCEPT",
+            "Produce",
+            "Bitcoin",
+            "CRYPTOCURRENCY"
+        ],
+        [
+            "Local Authorities",
+            "ORG",
+            "Guide",
+            "Shutdown",
+            "CONCEPT"
+        ],
+        [
+            "Local Authorities",
+            "ORG",
+            "Receive",
+            "Notice",
+            "CONCEPT"
+        ],
+        [
+            "Local Authorities",
+            "ORG",
+            "Comply",
+            "Country",
+            "GPE"
+        ],
+        [
+            "Xinjiang",
+            "GPE",
+            "Local Regulatory Official",
+            "Agency",
+            "ORG"
+        ],
+        [
+            "Agency",
+            "ORG",
+            "Do",
+            "Country",
+            "GPE"
+        ]
+    ]
+}

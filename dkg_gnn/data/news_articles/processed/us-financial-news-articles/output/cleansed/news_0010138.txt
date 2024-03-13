@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Robin Bell",
+            "PERSON",
+            "Project",
+            "shithole",
+            "CONCEPT"
+        ],
+        [
+            "Trump International Hotel",
+            "COMP",
+            "Located_In",
+            "Washington, D.C.",
+            "GPE"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Allege",
+            "use shithole",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Refer",
+            "African nations",
+            "GPE"
+        ]
+    ]
+}

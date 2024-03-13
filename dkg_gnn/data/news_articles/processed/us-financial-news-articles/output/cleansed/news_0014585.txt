@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "The Wall Street Journal",
+            "ORG",
+            "Publish",
+            "winter book recommendations",
+            "PRODUCT"
+        ],
+        [
+            "publishing pros",
+            "ORG",
+            "Participates_In",
+            "compiling The Wall Street Journal\u2019s winter book recommendations",
+            "PRODUCT"
+        ],
+        [
+            "each",
+            "CONCEPT",
+            "Relate_To",
+            "recommend a single work",
+            "CONCEPT"
+        ],
+        [
+            "authors",
+            "PERSON",
+            "Relate_To",
+            "intriguing novels",
+            "PRODUCT"
+        ],
+        [
+            "authors",
+            "PERSON",
+            "Relate_To",
+            "acclaimed veterans",
+            "PERSON"
+        ],
+        [
+            "authors",
+            "PERSON",
+            "Relate_To",
+            "splashy newcomers",
+            "PERSON"
+        ],
+        [
+            "former journalists",
+            "PERSON",
+            "Relate_To",
+            "grabbing attention",
+            "CONCEPT"
+        ],
+        [
+            "Journal staffers",
+            "ORG",
+            "Relate_To",
+            "worked alongside",
+            "CONCEPT"
+        ],
+        [
+            "a couple of them",
+            "PERSON",
+            "Relate_To",
+            "back when",
+            "CONCEPT"
+        ],
+        [
+            "our reading list",
+            "COMP",
+            "Impact",
+            "growing",
+            "CONCEPT"
+        ]
+    ]
+}

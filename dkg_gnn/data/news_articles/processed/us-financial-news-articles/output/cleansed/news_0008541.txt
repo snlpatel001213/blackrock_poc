@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Unicorn Jailbreak",
+            "EVENT",
+            "Relate_To",
+            "Tech Stocks",
+            "SECTOR"
+        ],
+        [
+            "Tech Stocks",
+            "SECTOR",
+            "Has",
+            "57 Startups",
+            "ORG"
+        ],
+        [
+            "57 Startups",
+            "ORG",
+            "Become",
+            "Unicorns",
+            "ORG"
+        ],
+        [
+            "Unicorns",
+            "ORG",
+            "Valued_At",
+            "Over $1 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unicorns",
+            "ORG",
+            "Operate_In",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "Market",
+            "SECTOR",
+            "Dominated_By",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Suffer_From",
+            "Split Personality Disorder",
+            "CONCEPT"
+        ],
+        [
+            "Split Personality Disorder",
+            "CONCEPT",
+            "Relate_To",
+            "Risk-On and Risk-Off Modes",
+            "CONCEPT"
+        ],
+        [
+            "Risk-Off Modes",
+            "CONCEPT",
+            "Relate_To",
+            "Uncertainty",
+            "CONCEPT"
+        ]
+    ]
+}

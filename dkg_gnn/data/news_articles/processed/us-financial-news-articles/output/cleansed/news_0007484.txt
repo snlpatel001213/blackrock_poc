@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Airbus",
+            "ORG",
+            "Sign",
+            "Memorandum of Understanding",
+            "CONCEPT",
+            "Expand",
+            "Cooperation",
+            "CONCEPT",
+            "Aeronautical Industry",
+            "SECTOR",
+            "Tianjin",
+            "GPE"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Participates_In",
+            "French President Emmanuel Macron\u2019s Visit",
+            "EVENT"
+        ],
+        [
+            "Areva",
+            "ORG",
+            "Sign",
+            "Global Strategic Cooperation Agreement",
+            "CONCEPT",
+            "China National Nuclear Corp",
+            "ORG/GOV"
+        ],
+        [
+            "Areva",
+            "ORG",
+            "Sign",
+            "Memorandum of Understanding",
+            "CONCEPT",
+            "Nuclear Waste Reprocessing Plant",
+            "PRODUCT",
+            "China National Nuclear Corp",
+            "ORG/GOV"
+        ]
+    ]
+}

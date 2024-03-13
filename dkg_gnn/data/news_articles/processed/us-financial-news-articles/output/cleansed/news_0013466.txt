@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Joshua Langford",
+            "PERSON",
+            "Make",
+            "go-ahead 3-pointer",
+            "CONCEPT"
+        ],
+        [
+            "Michigan State",
+            "GPE",
+            "Win",
+            "home victory",
+            "CONCEPT"
+        ],
+        [
+            "Rutgers",
+            "GPE",
+            "Lose",
+            "home victory",
+            "CONCEPT"
+        ],
+        [
+            "Nick Ward",
+            "PERSON",
+            "Collect",
+            "17 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Ward",
+            "PERSON",
+            "Collect",
+            "10 rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jaren Jackson Jr.",
+            "PERSON",
+            "Supply",
+            "16 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jaren Jackson Jr.",
+            "PERSON",
+            "Supply",
+            "5 rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michigan State",
+            "GPE",
+            "Emerge",
+            "32-25 advantage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corey Sanders",
+            "PERSON",
+            "Lead",
+            "Rutgers",
+            "GPE"
+        ],
+        [
+            "Deshawn Freeman",
+            "PERSON",
+            "Toss",
+            "15 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Michigan State",
+            "GPE",
+            "Operate_In",
+            "Big Ten",
+            "SECTOR"
+        ],
+        [
+            "Rutgers",
+            "GPE",
+            "Operate_In",
+            "Big Ten",
+            "SECTOR"
+        ]
+    ]
+}

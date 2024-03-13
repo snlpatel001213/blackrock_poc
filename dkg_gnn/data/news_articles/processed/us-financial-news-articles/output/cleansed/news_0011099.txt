@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "AmpliPhi Biosciences Corporation",
+            "ORG",
+            "Announce",
+            "pricing",
+            "EVENT"
+        ],
+        [
+            "AmpliPhi Biosciences Corporation",
+            "ORG",
+            "Operate_In",
+            "Biotechnology Industry",
+            "SECTOR"
+        ],
+        [
+            "4,000,000 shares of its common stock",
+            "COMP",
+            "Produce",
+            "Public Offering",
+            "EVENT"
+        ],
+        [
+            "$1.00 per share",
+            "ECON_INDICATOR",
+            "Control",
+            "Price",
+            "CONCEPT"
+        ],
+        [
+            "$4.0 million",
+            "ECON_INDICATOR",
+            "Control",
+            "Gross Proceeds",
+            "CONCEPT"
+        ],
+        [
+            "H.C. Wainwright & Co., LLC",
+            "ORG",
+            "Invests_In",
+            "AmpliPhi",
+            "ORG"
+        ],
+        [
+            "AmpliPhi Biosciences Corporation",
+            "ORG",
+            "Use",
+            "Net Proceeds",
+            "CONCEPT"
+        ],
+        [
+            "Manufacturing Expenses",
+            "CONCEPT",
+            "Relate_To",
+            "General Corporate Purposes",
+            "CONCEPT"
+        ],
+        [
+            "Clinical Trial Expenses",
+            "CONCEPT",
+            "Relate_To",
+            "General Corporate Purposes",
+            "CONCEPT"
+        ],
+        [
+            "Research and Development Expenses",
+            "CONCEPT",
+            "Relate_To",
+            "General Corporate Purposes",
+            "CONCEPT"
+        ],
+        [
+            "General and Administrative Expenses",
+            "CONCEPT",
+            "Relate_To",
+            "General Corporate Purposes",
+            "CONCEPT"
+        ],
+        [
+            "AmpliPhi",
+            "ORG",
+            "Has",
+            "Shelf Registration Statement",
+            "EVENT"
+        ],
+        [
+            "NYSE American: APHB",
+            "COMP",
+            "Is_Member_Of",
+            "AmpliPhi",
+            "ORG"
+        ],
+        [
+            "May 13, 2016",
+            "DATE",
+            "Relate_To",
+            "Shelf Registration Statement",
+            "EVENT"
+        ],
+        [
+            "Securities and Exchange Commission",
+            "ORG/REG",
+            "Control",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "H.C. Wainwright & Co., LLC",
+            "ORG",
+            "Act",
+            "Placement Agent",
+            "EVENT"
+        ],
+        [
+            "AmpliPhi",
+            "ORG",
+            "Expect",
+            "Close",
+            "EVENT"
+        ],
+        [
+            "January 12, 2018",
+            "DATE",
+            "Relate_To",
+            "Close",
+            "EVENT"
+        ],
+        [
+            "Customary Closing Conditions",
+            "CONCEPT",
+            "Relate_To",
+            "Close",
+            "EVENT"
+        ]
+    ]
+}

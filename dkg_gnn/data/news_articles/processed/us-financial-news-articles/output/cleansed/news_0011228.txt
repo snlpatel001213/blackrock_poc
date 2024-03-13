@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Alex Dunlop",
+            "PERSON",
+            "Mobbed_By",
+            "Lemurs",
+            "ANIMAL"
+        ],
+        [
+            "Banham Zoo",
+            "GPE",
+            "Located_In",
+            "Norfolk",
+            "GPE"
+        ],
+        [
+            "Banham Zoo",
+            "GPE",
+            "Hosts",
+            "Animal Count",
+            "CONCEPT"
+        ]
+    ]
+}

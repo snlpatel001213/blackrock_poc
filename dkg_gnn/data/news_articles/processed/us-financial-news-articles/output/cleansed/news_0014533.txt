@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Aberdeen Japan Equity Fund, Inc.",
+            "COMP",
+            "Announce",
+            "pay distribution",
+            "EVENT"
+        ],
+        [
+            "Aberdeen Japan Equity Fund, Inc.",
+            "COMP",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Aberdeen Japan Equity Fund, Inc.",
+            "COMP",
+            "Pay",
+            "distribution",
+            "EVENT"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "US$0.48029 per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "stockholders",
+            "PERSON",
+            "Receive",
+            "distribution",
+            "EVENT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Operate_In",
+            "fiscal year",
+            "CONCEPT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Indicate",
+            "source of distribution",
+            "EVENT"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "certain distributions",
+            "EVENT"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "fiscal year to date",
+            "CONCEPT"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "Section 19 of the 1940 Act",
+            "ORG/REG"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "Rules adopted thereunder",
+            "ORG/REG"
+        ],
+        [
+            "table",
+            "PRODUCT",
+            "Include",
+            "estimated amounts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "table",
+            "PRODUCT",
+            "Include",
+            "estimated percentages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "table",
+            "PRODUCT",
+            "Compute",
+            "based on generally accepted accounting principles",
+            "CONCEPT"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "net investment income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "net realized short-term capital gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "net realized long-term capital gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "return of capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "distribution",
+            "EVENT",
+            "Relate_To",
+            "total",
+            "ECON_INDICATOR"
+        ],
+        [
+            "investor",
+            "PERSON",
+            "Receive",
+            "Form 1099-DIV",
+            "PRODUCT"
+        ],
+        [
+            "Form 1099-DIV",
+            "PRODUCT",
+            "Tell",
+            "how to report these distributions",
+            "EVENT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Send",
+            "Form 1099-DIV",
+            "PRODUCT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Comply",
+            "requirements imposed by the U.S. Treasury",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. tax advice",
+            "CONCEPT",
+            "Cannot be used",
+            "for avoiding penalties",
+            "EVENT"
+        ],
+        [
+            "U.S. tax advice",
+            "CONCEPT",
+            "Cannot be used",
+            "for promoting, marketing or recommending",
+            "EVENT"
+        ],
+        [
+            "closed-end funds",
+            "COMP",
+            "Trade",
+            "on the secondary market",
+            "EVENT"
+        ],
+        [
+            "closed-end funds",
+            "COMP",
+            "Have",
+            "investment return and principal value",
+            "CONCEPT"
+        ],
+        [
+            "closed-end funds",
+            "COMP",
+            "May trade",
+            "at a premium or discount",
+            "CONCEPT"
+        ],
+        [
+            "Fund",
+            "COMP",
+            "Have",
+            "investment objective",
+            "CONCEPT"
+        ],
+        [
+            "past performance",
+            "EVENT",
+            "Does not guarantee",
+            "future results",
+            "CONCEPT"
+        ]
+    ]
+}

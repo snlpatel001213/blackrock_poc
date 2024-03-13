@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "WASHINGTON",
+            "GPE",
+            "Report",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Apologize",
+            "Issue",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Cut",
+            "Battery Replacement Costs",
+            "PRODUCT"
+        ],
+        [
+            "Senator John Thune",
+            "PERSON",
+            "Ask",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Business Issues",
+            "CONCEPT"
+        ],
+        [
+            "Senator John Thune",
+            "PERSON",
+            "Chair",
+            "Commerce, Science and Transportation Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Consider",
+            "Free Battery Replacements",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Explore",
+            "Offering Rebates",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Notify",
+            "Consumers",
+            "PERSON"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Use",
+            "Software",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Answer",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Thune",
+            "PERSON",
+            "Want",
+            "Answers",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "iOS Operating System",
+            "PRODUCT"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "See",
+            "Battery Condition",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Affect",
+            "Phone\u2019s Performance",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Address",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Charge",
+            "iPhone X",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Have",
+            "Belief",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Purposely Slow Down",
+            "Older Phones",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Face",
+            "Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Face",
+            "Legal Complaint",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Have",
+            "Law",
+            "CONCEPT"
+        ]
+    ]
+}

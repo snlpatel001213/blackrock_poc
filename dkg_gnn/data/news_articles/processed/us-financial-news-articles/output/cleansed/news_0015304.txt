@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Say",
+            "asthma inhaler use",
+            "CONCEPT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Relate_To",
+            "Chris Froome",
+            "PERSON"
+        ],
+        [
+            "Chris Froome",
+            "PERSON",
+            "Fail",
+            "Salbutamol test",
+            "CONCEPT"
+        ],
+        [
+            "Chris Froome",
+            "PERSON",
+            "Operate_In",
+            "Tour of Spain",
+            "EVENT"
+        ],
+        [
+            "Chris Froome",
+            "PERSON",
+            "Control",
+            "asthma medication",
+            "CONCEPT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Against",
+            "inhalers",
+            "CONCEPT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Undergo",
+            "tests",
+            "CONCEPT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Learn",
+            "breathing capacity",
+            "CONCEPT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Pull_Out",
+            "Tour de France",
+            "EVENT"
+        ],
+        [
+            "Tim Wellens",
+            "PERSON",
+            "Member_Of",
+            "Lotto Soudal",
+            "TEAM"
+        ],
+        [
+            "Froome",
+            "PERSON",
+            "Ride",
+            "Team Sky",
+            "TEAM"
+        ],
+        [
+            "Froome",
+            "PERSON",
+            "Provide",
+            "information",
+            "CONCEPT"
+        ],
+        [
+            "Salbutamol",
+            "CONCEPT",
+            "Permitted",
+            "WADA",
+            "ORG"
+        ],
+        [
+            "Salbutamol",
+            "CONCEPT",
+            "Ban",
+            "Italian Alessandro Petacchi",
+            "PERSON"
+        ],
+        [
+            "Italian Alessandro Petacchi",
+            "PERSON",
+            "Receive",
+            "12-month suspension",
+            "CONCEPT"
+        ],
+        [
+            "Italian Alessandro Petacchi",
+            "PERSON",
+            "Strip",
+            "stage victories",
+            "CONCEPT"
+        ],
+        [
+            "Italian Alessandro Petacchi",
+            "PERSON",
+            "Operate_In",
+            "Giro d\u2018Italia",
+            "EVENT"
+        ]
+    ]
+}

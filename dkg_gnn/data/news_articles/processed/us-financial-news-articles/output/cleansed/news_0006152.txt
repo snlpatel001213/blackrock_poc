@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "Recording Industry",
+            "ORG/REG",
+            "Impact",
+            "Decentralized Marketplace",
+            "GPE"
+        ],
+        [
+            "Recording Industry",
+            "ORG/REG",
+            "Negative_Impact_On",
+            "Independent Artists",
+            "PERSON"
+        ],
+        [
+            "Decentralized Marketplace",
+            "GPE",
+            "Operate_In",
+            "Music Industry",
+            "ORG"
+        ],
+        [
+            "Streaming Services",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Musicians",
+            "PERSON"
+        ],
+        [
+            "Streaming Services",
+            "FIN_INSTRUMENT",
+            "Allow",
+            "Musicians",
+            "PERSON",
+            "Communicate",
+            "Audiences",
+            "PERSON"
+        ],
+        [
+            "Independent Artists",
+            "PERSON",
+            "Not_Compelled",
+            "Conform",
+            "CONCEPT"
+        ],
+        [
+            "Independent Artists",
+            "PERSON",
+            "Pursue",
+            "Mainstream",
+            "CONCEPT"
+        ]
+    ]
+}

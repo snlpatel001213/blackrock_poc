@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Cloud Peak Energy Inc.",
+            "COMP",
+            "Has",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Cloud Peak Energy Inc.",
+            "COMP",
+            "Control",
+            "Coal Mines",
+            "COMP"
+        ],
+        [
+            "Coal Mines",
+            "COMP",
+            "Locate_In",
+            "Powder River Basin",
+            "GPE"
+        ],
+        [
+            "Cloud Peak Energy Inc.",
+            "COMP",
+            "Send",
+            "Exports",
+            "COMP"
+        ],
+        [
+            "Exports",
+            "COMP",
+            "Amount_To",
+            "One-quarter",
+            "QUANTITY"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Buy",
+            "Exports",
+            "COMP"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Help",
+            "U.S. Coal Miners",
+            "COMP"
+        ],
+        [
+            "Power Plant",
+            "COMP",
+            "Locate_In",
+            "Fukushima Prefecture",
+            "GPE"
+        ],
+        [
+            "Cloud Peak Energy Inc.",
+            "COMP",
+            "Supply",
+            "Power Plant",
+            "COMP"
+        ],
+        [
+            "Supply",
+            "COMP",
+            "Rise",
+            "To",
+            "COMP"
+        ],
+        [
+            "Supply",
+            "COMP",
+            "Amount_To",
+            "One Million Tons",
+            "QUANTITY"
+        ],
+        [
+            "Supply",
+            "COMP",
+            "Annually",
+            "NA",
+            "NA"
+        ],
+        [
+            "One Million Tons",
+            "QUANTITY",
+            "Equate_To",
+            "22%",
+            "QUANTITY"
+        ],
+        [
+            "22%",
+            "QUANTITY",
+            "Of",
+            "Company\u2019s Current Exports",
+            "COMP"
+        ]
+    ]
+}

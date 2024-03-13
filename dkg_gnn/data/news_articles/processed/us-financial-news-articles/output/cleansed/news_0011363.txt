@@ -1,0 +1,143 @@
+{
+    "output": [
+        [
+            "Damon Severson",
+            "PERSON",
+            "Score",
+            "2 Goals",
+            "ECON_INDICATOR",
+            "In",
+            "1:26",
+            "TIME"
+        ],
+        [
+            "New Jersey Devils",
+            "GPE",
+            "Win",
+            "4-1",
+            "ECON_INDICATOR",
+            "Over",
+            "New York Islanders",
+            "GPE"
+        ],
+        [
+            "New Jersey Devils",
+            "GPE",
+            "End",
+            "6 Game Losing Streak",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Jersey Devils",
+            "GPE",
+            "Operate_In",
+            "Barclays Center",
+            "GPE"
+        ],
+        [
+            "New York Islanders",
+            "GPE",
+            "Lose",
+            "3 Game Winning Streak",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aners Lee",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "New York Islanders",
+            "GPE"
+        ],
+        [
+            "John Moore",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "New Jersey Devils",
+            "GPE"
+        ],
+        [
+            "Marcus Johansson",
+            "PERSON",
+            "Win",
+            "Faceoff",
+            "CONCEPT",
+            "Against",
+            "John Tavares",
+            "PERSON"
+        ],
+        [
+            "Kyle Palmieri",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "New Jersey Devils",
+            "GPE"
+        ],
+        [
+            "Sami Vatanen",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "New Jersey Devils",
+            "GPE"
+        ],
+        [
+            "Stefan Noesen",
+            "PERSON",
+            "Set_Up",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "Damon Severson",
+            "PERSON"
+        ],
+        [
+            "Brian Gibbons",
+            "PERSON",
+            "Shot",
+            "1 Shot",
+            "FIN_INSTRUMENT",
+            "Blocked",
+            "By",
+            "Ryan Pulock",
+            "PERSON"
+        ],
+        [
+            "Damon Severson",
+            "PERSON",
+            "Score",
+            "2 Goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taylor Hall",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR",
+            "For",
+            "New Jersey Devils",
+            "GPE"
+        ],
+        [
+            "John Tavares",
+            "PERSON",
+            "Lose",
+            "Faceoff",
+            "CONCEPT",
+            "Against",
+            "Marcus Johansson",
+            "PERSON"
+        ]
+    ]
+}

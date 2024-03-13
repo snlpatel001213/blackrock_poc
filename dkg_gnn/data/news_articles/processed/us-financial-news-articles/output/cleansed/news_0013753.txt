@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Report",
+            "Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of America",
+            "COMP",
+            "Report",
+            "Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Poised",
+            "All-time high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Stocks",
+            "FIN_INSTRUMENT",
+            "On track",
+            "Fresh records",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Futures",
+            "FIN_INSTRUMENT",
+            "Point",
+            "0.4% opening rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Climb",
+            "26000 milestone",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Respond",
+            "Bank earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Markets",
+            "SECTOR",
+            "Stall",
+            null,
+            "null"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Markets",
+            null,
+            "null"
+        ],
+        [
+            "Asia",
+            "GPE",
+            "Markets",
+            null,
+            "null"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Comments",
+            null,
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "After ECB comments",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

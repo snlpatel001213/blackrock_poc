@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "U.S. Bond Purchases",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "$1.19 trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "U.S. Bond Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of Japan",
+            "ORG",
+            "Trim",
+            "Japanese Government Bonds Purchases",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of Japan",
+            "ORG",
+            "Reduce",
+            "Monetary Stimulus",
+            "CONCEPT"
+        ],
+        [
+            "Bill Gross",
+            "PERSON",
+            "Say",
+            "Bonds are in a bear market",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Concerned",
+            "Companies reduce bond holdings",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Tax Bill",
+            "ORG/GOV",
+            "Passage",
+            ". . .",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Reduce",
+            "Bond Holdings",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Take",
+            "Two big buyers out of the market",
+            "CONCEPT"
+        ],
+        [
+            "Treasury Department",
+            "ORG/GOV",
+            "Increase",
+            "Issuance",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Treasury Department",
+            "ORG/GOV",
+            "Financing Needs",
+            "Rise Significantly",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Potential Pullback",
+            "Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Potential Turning Away",
+            "Treasury\u2019s Job Harder",
+            "CONCEPT"
+        ],
+        [
+            "Longer-Dated Debt",
+            "PRODUCT",
+            "Underperformance",
+            "Wednesday",
+            "DATE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Bet",
+            "Curve Flattening",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Reposition",
+            "Trade Moved Against Them",
+            "CONCEPT"
+        ],
+        [
+            "Two-Year Notes and 10-Year Notes",
+            "PRODUCT",
+            "Steepened",
+            "Yield Curve",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Sell",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Has",
+            "10%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Buy",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Has",
+            "Co-founder",
+            "PERSON"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Operate_In",
+            "Ride-Services Company",
+            "COMP"
+        ],
+        [
+            "Uber Technologies Inc",
+            "ORG",
+            "Valued_At",
+            "$48B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Lead",
+            "Consortium",
+            "ORG"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Buy",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Buy_From",
+            "Early Investors",
+            "ORG"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Buy_From",
+            "Employees",
+            "PERSON"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Make",
+            "$1.25B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Make",
+            "Fresh Funding",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Consortium",
+            "ORG",
+            "Buy_At",
+            "$68B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dara Khosrowshahi",
+            "PERSON",
+            "Help_Broker",
+            "Deal",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dara Khosrowshahi",
+            "PERSON",
+            "CEO",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "SoftBank",
+            "ORG",
+            "Deep_Pocketed",
+            "Investor",
+            "ORG"
+        ]
+    ]
+}

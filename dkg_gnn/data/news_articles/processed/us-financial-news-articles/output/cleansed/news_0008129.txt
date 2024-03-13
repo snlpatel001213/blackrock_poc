@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Crispr Therapeutics AG",
+            "ORG",
+            "Announce",
+            "Public Offering",
+            "EVENT"
+        ],
+        [
+            "Crispr Therapeutics AG",
+            "ORG",
+            "Control",
+            "5.00 Million Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "5.00 Million Common Shares",
+            "FIN_INSTRUMENT",
+            "Priced At",
+            "$22.75",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "EBay",
+            "COMP",
+            "Announce",
+            "Top Shopped Report",
+            "EVENT"
+        ],
+        [
+            "Shoppers",
+            "PERSON",
+            "Participates_In",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Star Wars",
+            "CONCEPT",
+            "Relate_To",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Star Wars",
+            "CONCEPT",
+            "Impact",
+            "450,000 Star Wars items",
+            "PRODUCT"
+        ],
+        [
+            "Prince Harry and Meghan Markle",
+            "PERSON",
+            "Relate_To",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Positive_Impact_On",
+            "13 white coats",
+            "PRODUCT"
+        ],
+        [
+            "Politics",
+            "CONCEPT",
+            "Relate_To",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Politics",
+            "CONCEPT",
+            "Impact",
+            "43,000 pieces of apparel",
+            "PRODUCT"
+        ],
+        [
+            "Feminist slogans",
+            "CONCEPT",
+            "Impact",
+            "24,000 women's pantsuits",
+            "PRODUCT"
+        ],
+        [
+            "Nasty Woman",
+            "CONCEPT",
+            "Impact",
+            "2,000 shirts",
+            "PRODUCT"
+        ],
+        [
+            "Total solar eclipse",
+            "CONCEPT",
+            "Relate_To",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Total solar eclipse",
+            "CONCEPT",
+            "Impact",
+            "133,500 protective glasses",
+            "PRODUCT"
+        ],
+        [
+            "Total solar eclipse",
+            "CONCEPT",
+            "Impact",
+            "19,000 tents",
+            "PRODUCT"
+        ],
+        [
+            "Total solar eclipse",
+            "CONCEPT",
+            "Impact",
+            "10,500 pairs of binoculars",
+            "PRODUCT"
+        ],
+        [
+            "2017",
+            "CONCEPT",
+            "Operate_In",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Fanny packs",
+            "PRODUCT",
+            "Impact",
+            "57,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Champion sweatshirts",
+            "PRODUCT",
+            "Impact",
+            "25,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Adidas Superstar sneakers",
+            "PRODUCT",
+            "Impact",
+            "107,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Super Nintendo gaming systems",
+            "PRODUCT",
+            "Impact",
+            "500,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Tamagotchi toys",
+            "PRODUCT",
+            "Impact",
+            "16,600 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Vinyl record sales",
+            "CONCEPT",
+            "Impact",
+            "24% increase",
+            "QUANTITY"
+        ],
+        [
+            "Nest devices",
+            "PRODUCT",
+            "Impact",
+            "211,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "iRobot Roombas",
+            "PRODUCT",
+            "Impact",
+            "58,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Google Home Minis",
+            "PRODUCT",
+            "Impact",
+            "240 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Rainbow",
+            "CONCEPT",
+            "Relate_To",
+            "Top Shopped",
+            "EVENT"
+        ],
+        [
+            "Unicorn phone cases",
+            "PRODUCT",
+            "Impact",
+            "70,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Unicorn costumes",
+            "PRODUCT",
+            "Impact",
+            "56,000 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Mermaid makeup brushes",
+            "PRODUCT",
+            "Impact",
+            "57,500 purchases",
+            "QUANTITY"
+        ],
+        [
+            "Top Shopped",
+            "EVENT",
+            "Control",
+            "U.S. sold items",
+            "PRODUCT"
+        ],
+        [
+            "Top Shopped",
+            "EVENT",
+            "Control",
+            "Key terms in the listing title",
+            "CONCEPT"
+        ],
+        [
+            "Top Shopped",
+            "EVENT",
+            "Control",
+            "Multiple categories",
+            "SECTOR"
+        ],
+        [
+            "Top Shopped",
+            "EVENT",
+            "Control",
+            "Jan. 1 to Dec. 19, 2017",
+            "TIME"
+        ],
+        [
+            "Top Shopped",
+            "EVENT",
+            "Control",
+            "Data from 2016",
+            "TIME"
+        ]
+    ]
+}

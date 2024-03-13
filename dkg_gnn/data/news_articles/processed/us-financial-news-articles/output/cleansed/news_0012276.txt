@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "European powers",
+            "GPE",
+            "Plead",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Tehran",
+            "GPE",
+            "Plead",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Iran nuclear deal",
+            "EVENT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Oppose",
+            "Iran nuclear deal",
+            "EVENT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Control",
+            "Oil sanctions",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

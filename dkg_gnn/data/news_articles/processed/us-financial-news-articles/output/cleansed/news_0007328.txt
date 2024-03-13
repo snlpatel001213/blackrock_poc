@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Pixar",
+            "ORG",
+            "Produce",
+            "Coco",
+            "EVENT"
+        ],
+        [
+            "Paracho",
+            "GPE",
+            "Operate_In",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Paracho",
+            "GPE",
+            "Has",
+            "Traditional Mexican guitar",
+            "PRODUCT"
+        ],
+        [
+            "Priest",
+            "PERSON",
+            "Decide",
+            "Locals in the village should be taught a craft",
+            "CONCEPT"
+        ],
+        [
+            "Paracho",
+            "GPE",
+            "Famous_For",
+            "Manufacture of stringed instruments",
+            "SECTOR"
+        ],
+        [
+            "Coco",
+            "EVENT",
+            "Positive_Impact_On",
+            "Guitar sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Coco",
+            "EVENT",
+            "Rank",
+            "Highest grossing movie in Mexico",
+            "CONCEPT"
+        ],
+        [
+            "Hand-made guitars",
+            "PRODUCT",
+            "Cost",
+            "Range from 2,000 Mexican pesos to 20,000 pesos",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Local artisans",
+            "PERSON",
+            "Give",
+            "Traditionally black guitar",
+            "PRODUCT"
+        ],
+        [
+            "Local artisans",
+            "PERSON",
+            "Give",
+            "Day-Of-The-Dead twist",
+            "CONCEPT"
+        ],
+        [
+            "Local artisans",
+            "PERSON",
+            "Paint",
+            "Instrument white",
+            "ACTION"
+        ],
+        [
+            "Local artisans",
+            "PERSON",
+            "Add",
+            "Cartoon of the traditional Mexican skull",
+            "ACTION"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "BBVA Compass",
+            "COMP",
+            "Announce",
+            "Blake Kirshman",
+            "PERSON"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Operate_In",
+            "Energy Division",
+            "ORG"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Has",
+            "eight years of experience",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Relate_To",
+            "oil and gas industry",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Control",
+            "team of experienced energy bankers",
+            "PERSON"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Participates_In",
+            "developing, managing and maintaining relationships",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Impact",
+            "bank interests",
+            "ORG"
+        ],
+        [
+            "Dorothy Marchand",
+            "PERSON",
+            "Is_Member_Of",
+            "BBVA Compass",
+            "COMP"
+        ],
+        [
+            "Dorothy Marchand",
+            "PERSON",
+            "Relate_To",
+            "planned retirement",
+            "CONCEPT"
+        ],
+        [
+            "Energy Division",
+            "ORG",
+            "Operate_In",
+            "BBVA Compass",
+            "COMP"
+        ],
+        [
+            "Energy Division",
+            "ORG",
+            "Positive_Impact_On",
+            "next phase of growth",
+            "CONCEPT"
+        ],
+        [
+            "Energy Division",
+            "ORG",
+            "Relate_To",
+            "important business",
+            "CONCEPT"
+        ],
+        [
+            "KPMG",
+            "COMP",
+            "Is_Member_Of",
+            "big four public accounting firm",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Work_For",
+            "KPMG",
+            "COMP"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Educated_At",
+            "Texas Tech University",
+            "ORG"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Hold",
+            "Bachelor of Business Administration in Accounting",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Hold",
+            "Master of Science in Accounting",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Certified_As",
+            "Public Accountant",
+            "CONCEPT"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Member_Of",
+            "Independent Petroleum Association of America",
+            "ORG"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Member_Of",
+            "Houston Producers' Forum",
+            "ORG"
+        ],
+        [
+            "Blake Kirshman",
+            "PERSON",
+            "Member_Of",
+            "Dallas ADAM Energy Forum",
+            "ORG"
+        ]
+    ]
+}

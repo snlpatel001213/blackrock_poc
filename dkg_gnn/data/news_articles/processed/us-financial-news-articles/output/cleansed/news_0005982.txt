@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Participates_In",
+            "Premier League",
+            "EVENT"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "Participates_In",
+            "Premier League",
+            "EVENT"
+        ],
+        [
+            "Son Heung-min",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Pedro Obiang",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "EVENT"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "EVENT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Have",
+            "Attempts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "Have",
+            "Attempts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spurs keeper",
+            "PERSON",
+            "Miss",
+            "Save",
+            "PRODUCT"
+        ],
+        [
+            "Adrian",
+            "PERSON",
+            "Make",
+            "Save",
+            "PRODUCT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "End_Up",
+            "Draw",
+            "EVENT"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "End_Up",
+            "Draw",
+            "EVENT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Move_Up",
+            "League Table",
+            "SECTOR"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "Move_Up",
+            "League Table",
+            "SECTOR"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Three_Points_Ahead",
+            "Tottenham Hotspur",
+            "GPE"
+        ],
+        [
+            "Harry Kane",
+            "PERSON",
+            "Miss",
+            "Chance",
+            "PRODUCT"
+        ],
+        [
+            "Serge Aurier",
+            "PERSON",
+            "Make",
+            "Knock-down",
+            "PRODUCT"
+        ],
+        [
+            "Christian Eriksen",
+            "PERSON",
+            "Shoot",
+            "Ball",
+            "PRODUCT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Fatigue",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "West Ham United",
+            "GPE",
+            "Fatigue",
+            "null",
+            "CONCEPT"
+        ]
+    ]
+}

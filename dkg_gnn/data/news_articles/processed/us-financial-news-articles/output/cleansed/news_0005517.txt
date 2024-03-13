@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Announce",
+            "Promotion of Sarah Romano",
+            "PERSON"
+        ],
+        [
+            "Sarah Romano",
+            "PERSON",
+            "Operate_In",
+            "EyeGate Pharmaceuticals",
+            "COMP"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Has",
+            "Two platform technologies",
+            "CONCEPT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Produce",
+            "EGP-437",
+            "PRODUCT"
+        ],
+        [
+            "EGP-437",
+            "PRODUCT",
+            "Relate_To",
+            "Corticosteroid",
+            "CONCEPT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Use",
+            "EyeGate II Delivery System",
+            "PRODUCT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Has",
+            "Facebook page",
+            "PRODUCT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Has",
+            "Corporate Twitter account",
+            "PRODUCT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Has",
+            "LinkedIn page",
+            "PRODUCT"
+        ],
+        [
+            "EyeGate Pharmaceuticals",
+            "COMP",
+            "Use",
+            "Regulation FD",
+            "CONCEPT"
+        ]
+    ]
+}

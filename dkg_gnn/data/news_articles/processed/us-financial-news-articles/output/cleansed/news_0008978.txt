@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Speedboat",
+            "PRODUCT",
+            "Explode",
+            "Tourists",
+            "PERSON"
+        ],
+        [
+            "Tourists",
+            "PERSON",
+            "Injure",
+            "16",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Speedboat",
+            "PRODUCT",
+            "Locate_In",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Phi Phi Le Island",
+            "GPE",
+            "Locate_In",
+            "Thailand",
+            "GPE"
+        ]
+    ]
+}

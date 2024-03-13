@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Operate_In",
+            "Interactive Entertainment Industry",
+            "SECTOR"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Control",
+            "Rockstar Games",
+            "ORG"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Control",
+            "2K",
+            "ORG"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Control",
+            "Private Division",
+            "ORG"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Control",
+            "Social Point",
+            "ORG"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Produce",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Take-Two Interactive Software, Inc.",
+            "COMP",
+            "Participates_In",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Financial Results",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Fiscal Year 2018",
+            "CONCEPT"
+        ],
+        [
+            "Financial Results",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "December 31, 2017",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Control",
+            "Take-Two Interactive Software, Inc.",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Impact",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

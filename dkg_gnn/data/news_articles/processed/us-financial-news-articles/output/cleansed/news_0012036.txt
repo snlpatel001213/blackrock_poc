@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Jardine Lloyd Thompson Group plc",
+            "ORG",
+            "Appoint",
+            "Lucy Clarke",
+            "PERSON"
+        ],
+        [
+            "Lucy Clarke",
+            "PERSON",
+            "Has",
+            "CEO of JLT Specialty",
+            "TITLE"
+        ],
+        [
+            "CEO of JLT Specialty",
+            "TITLE",
+            "Operate_In",
+            "JLT Specialty",
+            "ORG"
+        ],
+        [
+            "JLT Specialty",
+            "ORG",
+            "Control",
+            "all of JLT\u2019s business activities",
+            "BUSACT"
+        ],
+        [
+            "all of JLT\u2019s business activities",
+            "BUSACT",
+            "NotEqual",
+            "reinsurance broking and employee benefits",
+            "BUSACT"
+        ],
+        [
+            "JLT Specialty",
+            "ORG",
+            "Report_To",
+            "Dominic Burke",
+            "PERSON"
+        ]
+    ]
+}

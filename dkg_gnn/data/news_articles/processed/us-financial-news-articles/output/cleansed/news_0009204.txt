@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Control",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "United States Government",
+            "ORG/GOV",
+            "Announce",
+            "s--hole' comments",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Participates_In",
+            "s--hole' comments",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Dodges",
+            "Questions",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Sign",
+            "Proclamation",
+            "EVENT"
+        ],
+        [
+            "Proclamation",
+            "EVENT",
+            "Relate_To",
+            "Dr. Martin Luther King, Jr. Day",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Sign",
+            "Proclamation",
+            "EVENT"
+        ],
+        [
+            "Proclamation",
+            "EVENT",
+            "Honor",
+            "Dr. Martin Luther King, Jr.",
+            "PERSON"
+        ]
+    ]
+}

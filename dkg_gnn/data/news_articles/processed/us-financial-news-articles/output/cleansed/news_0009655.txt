@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Altice",
+            "ORG",
+            "Announce",
+            "Separation of U.S. and European operations",
+            "EVENT"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Operate_In",
+            "Telecoms and cable group",
+            "SECTOR"
+        ],
+        [
+            "Altice USA",
+            "ORG",
+            "Participates_In",
+            "Separation of U.S. and European operations",
+            "EVENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Take",
+            "Multimillion hit to offload Steinhoff debt",
+            "EVENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Control",
+            "Bonds from Steinhoff International",
+            "COMP"
+        ],
+        [
+            "Steinhoff International",
+            "COMP",
+            "Relate_To",
+            "Scandal",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff International",
+            "COMP",
+            "Relate_To",
+            "Multiple probes into its accounting practices",
+            "EVENT"
+        ],
+        [
+            "RBS",
+            "COMP",
+            "Fine",
+            "A former trader for role in Libor scandal",
+            "EVENT"
+        ],
+        [
+            "RBS",
+            "COMP",
+            "Control",
+            "A former trader named Neil Danziger",
+            "PERSON"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Fine",
+            "250,000 stg for role in Libor scandal",
+            "EVENT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Barred",
+            "From working in any regulated financial activity",
+            "EVENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Introduce",
+            "New mobile virtual-reality headset",
+            "PRODUCT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Operate_In",
+            "Social media",
+            "SECTOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Partners",
+            "Xiaomi",
+            "COMP"
+        ],
+        [
+            "Xiaomi",
+            "COMP",
+            "Partners",
+            "Facebook\u2019,s Oculus",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "Market where most of Facebook\u2019s internet services are barred",
+            "EVENT"
+        ]
+    ]
+}

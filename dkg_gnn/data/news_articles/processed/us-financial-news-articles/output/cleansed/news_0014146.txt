@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Adolfo Dominguez SA",
+            "ORG",
+            "Has",
+            "9-Month Turnover Up",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Adolfo Dominguez SA",
+            "ORG",
+            "Has",
+            "9-Month Net Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Adolfo Dominguez SA",
+            "ORG",
+            "Has",
+            "9-Month EBITDA Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "9-Month Turnover Up",
+            "ECON_INDICATOR",
+            "Impact",
+            "Adolfo Dominguez SA",
+            "ORG"
+        ],
+        [
+            "9-Month Net Loss",
+            "ECON_INDICATOR",
+            "Impact",
+            "Adolfo Dominguez SA",
+            "ORG"
+        ],
+        [
+            "9-Month EBITDA Loss",
+            "ECON_INDICATOR",
+            "Impact",
+            "Adolfo Dominguez SA",
+            "ORG"
+        ]
+    ]
+}

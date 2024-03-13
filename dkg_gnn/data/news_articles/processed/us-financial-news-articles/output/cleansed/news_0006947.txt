@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Sign",
+            "Music Licensing Deal",
+            "EVENT"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Operate_In",
+            "Social Media Platforms",
+            "SECTOR"
+        ],
+        [
+            "Sony/ATV",
+            "COMP",
+            "Participates_In",
+            "Music Publishing",
+            "SECTOR"
+        ],
+        [
+            "Sony/ATV",
+            "COMP",
+            "Licence",
+            "Facebook Inc.",
+            "COMP"
+        ],
+        [
+            "Sony/ATV",
+            "COMP",
+            "Control",
+            "Catalogue",
+            "CONCEPT"
+        ],
+        [
+            "Catalogue",
+            "CONCEPT",
+            "Include",
+            "Bob Dylan",
+            "PERSON"
+        ],
+        [
+            "Catalogue",
+            "CONCEPT",
+            "Include",
+            "Taylor Swift",
+            "PERSON"
+        ],
+        [
+            "Catalogue",
+            "CONCEPT",
+            "Include",
+            "Ed Sheeran",
+            "PERSON"
+        ],
+        [
+            "Artists",
+            "PERSON",
+            "Associate_With",
+            "Sony/ATV",
+            "COMP"
+        ],
+        [
+            "Artists",
+            "PERSON",
+            "Earn",
+            "Royalties",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Follow",
+            "Similar Deal",
+            "EVENT"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Retain",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Attract",
+            "Advertisers",
+            "PERSON"
+        ]
+    ]
+}

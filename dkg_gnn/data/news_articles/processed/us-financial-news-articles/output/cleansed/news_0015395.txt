@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Elect",
+            "Democratic Party",
+            "ORG"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Democratic Party",
+            "ORG",
+            "Control",
+            "Political Establishment",
+            "ORG"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Impact",
+            "Economy",
+            "SECTOR"
+        ],
+        [
+            "Economy",
+            "SECTOR",
+            "Relate_To",
+            "Sovereign-debt Crisis",
+            "EVENT"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Frustrate",
+            "Hopes",
+            "CONCEPT"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Popularity",
+            "Decrease"
+        ],
+        [
+            "Matteo Renzi",
+            "PERSON",
+            "Relate_To",
+            "Comeback",
+            "CONCEPT"
+        ]
+    ]
+}

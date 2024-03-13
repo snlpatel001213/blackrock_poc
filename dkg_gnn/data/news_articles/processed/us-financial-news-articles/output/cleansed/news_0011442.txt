@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "EPA",
+            "ORG/GOV",
+            "Plan",
+            "Pruitt",
+            "PERSON"
+        ],
+        [
+            "Pruitt",
+            "PERSON",
+            "Rewrite",
+            "Carbon Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Power Plants",
+            "COMP",
+            "Part_Of",
+            "Carbon Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Pruitt",
+            "PERSON",
+            "Operate_In",
+            "National Debate",
+            "EVENT"
+        ],
+        [
+            "National Debate",
+            "EVENT",
+            "Relate_To",
+            "Climate Change",
+            "CONCEPT"
+        ],
+        [
+            "Pruitt",
+            "PERSON",
+            "Plan",
+            "Rewrite Clean Water Rules",
+            "CONCEPT"
+        ],
+        [
+            "Pruitt",
+            "PERSON",
+            "Plan",
+            "Update Lead Standards",
+            "CONCEPT"
+        ],
+        [
+            "Lead Standards",
+            "CONCEPT",
+            "Part_Of",
+            "Drinking Water",
+            "PRODUCT"
+        ]
+    ]
+}

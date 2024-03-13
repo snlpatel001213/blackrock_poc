@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Franklin Resources",
+            "COMP",
+            "Announce",
+            "first fiscal quarter 2018 operating results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "estimated income tax charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Relate_To",
+            "Tax Cuts and Jobs Act of 2017",
+            "EVENT"
+        ],
+        [
+            "Greg Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "Franklin Resources",
+            "COMP"
+        ],
+        [
+            "Greg Johnson",
+            "PERSON",
+            "Lead",
+            "live teleconference",
+            "EVENT"
+        ],
+        [
+            "Ken Lewis",
+            "PERSON",
+            "Is_Member_Of",
+            "Franklin Resources",
+            "COMP"
+        ],
+        [
+            "Ken Lewis",
+            "PERSON",
+            "Lead",
+            "live teleconference",
+            "EVENT"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Operate_In",
+            "Global",
+            "GPE"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Provide",
+            "investment management",
+            "SERVICE"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Expertise_Across",
+            "all asset classes",
+            "CONCEPT"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "more than 650 investment professionals",
+            "PERSON"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "integrated, worldwide team of risk management professionals",
+            "PERSON"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "global trading desk network",
+            "SERVICE"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "offices in more than 30 countries",
+            "GPE"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "more than 70 years of investment experience",
+            "CONCEPT"
+        ],
+        [
+            "Franklin Resources",
+            "COMP",
+            "Has",
+            "over $753 billion in assets under management",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brian Sevilla",
+            "PERSON",
+            "Work_At",
+            "Franklin Resources",
+            "COMP"
+        ],
+        [
+            "Brian Sevilla",
+            "PERSON",
+            "Contact",
+            "Investor Relations",
+            "ORG"
+        ],
+        [
+            "Matt Walsh",
+            "PERSON",
+            "Work_At",
+            "Franklin Resources",
+            "COMP"
+        ],
+        [
+            "Matt Walsh",
+            "PERSON",
+            "Contact",
+            "Media Relations",
+            "ORG"
+        ]
+    ]
+}

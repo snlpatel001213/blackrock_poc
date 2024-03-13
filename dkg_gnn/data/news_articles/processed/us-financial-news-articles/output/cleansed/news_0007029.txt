@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Move_Staff_Out_Of",
+            "17 Columbus Courtyard",
+            "COMP"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Consolidate",
+            "Property Portfolio",
+            "SECTOR"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Operate_In",
+            "Canary Wharf",
+            "GPE"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Relocate",
+            "Staff",
+            "PERSON"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Sublease",
+            "Smaller Property",
+            "COMP"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Negotiate",
+            "Early Exit",
+            "CONCEPT"
+        ],
+        [
+            "17 Columbus Courtyard",
+            "COMP",
+            "Owned_By",
+            "HNA Group Co",
+            "ORG"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Cut",
+            "Jobs",
+            "PERSON"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Increase",
+            "Focus",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse Group",
+            "ORG",
+            "Scale_Back",
+            "Investment Banking",
+            "SECTOR"
+        ]
+    ]
+}

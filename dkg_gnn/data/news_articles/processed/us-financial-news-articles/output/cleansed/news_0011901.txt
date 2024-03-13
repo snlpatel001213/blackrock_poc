@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Announce",
+            "David Remington",
+            "PERSON"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Appoint",
+            "Chairman of the Board",
+            "ORG/GOV"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Operate_In",
+            "CAI International, Inc.",
+            "COMP"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Member_Of",
+            "Board of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Chairman",
+            "Audit Committee",
+            "ORG/GOV"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Previous_Chairman",
+            "Nominating and Corporate Governance Committee",
+            "ORG/GOV"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Extensive_Leadership_Experience",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "BS",
+            "Electrical Engineering",
+            "null"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "MBA",
+            "Harvard Business School",
+            "ORG"
+        ],
+        [
+            "David Remington",
+            "PERSON",
+            "Previous_Board_Member",
+            "Four business and non-profit boards",
+            "ORG"
+        ],
+        [
+            "Victor Garcia",
+            "PERSON",
+            "Chief_Executive_Officer",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Victor Garcia",
+            "PERSON",
+            "Commented",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Victor Garcia",
+            "PERSON",
+            "Excited",
+            "Dave Remington as Chairman",
+            "PERSON"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Operate_In",
+            "Transportation finance and logistics companies",
+            "SECTOR"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Operate_Fleet",
+            "Approximately 1.3 million CEUs of containers",
+            "PRODUCT"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Own",
+            "6,795 railcars",
+            "PRODUCT"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Lease",
+            "Railcars within North America",
+            "GPE"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Operate_Through",
+            "24 offices located in 14 countries",
+            "GPE"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Mentioned",
+            "Business Wire",
+            "ORG"
+        ],
+        [
+            "Tim Page",
+            "PERSON",
+            "Chief_Financial_Officer",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Tim Page",
+            "PERSON",
+            "Phone",
+            "415-788-0100",
+            "null"
+        ],
+        [
+            "Tim Page",
+            "PERSON",
+            "Email",
+            "tpage@capps.com",
+            "null"
+        ],
+        [
+            "CAI International, Inc.",
+            "COMP",
+            "Source",
+            "null",
+            "CONCEPT"
+        ]
+    ]
+}

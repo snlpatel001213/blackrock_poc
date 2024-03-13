@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Bronstein, Gewirtz & Grossman, LLC",
+            "ORG",
+            "Represent",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Involved_In",
+            "Class_Action_Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Submit",
+            "NDA",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Develop",
+            "Pulmonary_Drug_Delivery_Systems",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Food and Drug Administration",
+            "ORG/GOV",
+            "Discuss",
+            "Linhaliq",
+            "PRODUCT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Have",
+            "Phase_III_Clinical_Trials",
+            "EVENT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Make",
+            "Materially_False_and_Misleading_Statements",
+            "CONCEPT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Fail_to_Disclose",
+            "Material_Information",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Recommend",
+            "Two_Adequate_and_Well-Controlled_Clinical_Trials",
+            "EVENT"
+        ],
+        [
+            "Aradigm Corporation",
+            "COMP",
+            "Drop",
+            "Stock_Price",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Join",
+            "Class_Action",
+            "EVENT"
+        ],
+        [
+            "Bronstein, Gewirtz & Grossman, LLC",
+            "ORG",
+            "Encourage",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

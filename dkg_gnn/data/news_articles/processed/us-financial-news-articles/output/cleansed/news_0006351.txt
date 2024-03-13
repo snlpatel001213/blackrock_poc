@@ -1,0 +1,231 @@
+{
+    "output": [
+        [
+            "Yemeni army",
+            "ORG/GOV",
+            "Has",
+            "Taher al-Aqeeli",
+            "PERSON"
+        ],
+        [
+            "Taher al-Aqeeli",
+            "PERSON",
+            "Injured_By",
+            "land mine",
+            "CONCEPT"
+        ],
+        [
+            "land mine",
+            "CONCEPT",
+            "Explode",
+            "while",
+            "Taher al-Aqeeli",
+            "PERSON",
+            "visiting",
+            "al-Jouf province",
+            "GPE"
+        ],
+        [
+            "al-Jouf province",
+            "GPE",
+            "Has",
+            "heavy fighting",
+            "CONCEPT",
+            "between",
+            "government forces",
+            "ORG/GOV",
+            "and",
+            "Houthi fighters",
+            "ORG/REG"
+        ],
+        [
+            "Brigadier General Taher al-Aqeeli",
+            "PERSON",
+            "Suffer",
+            "minor injuries",
+            "CONCEPT"
+        ],
+        [
+            "explosion",
+            "CONCEPT",
+            "Happen",
+            "Friday",
+            "CONCEPT"
+        ],
+        [
+            "Khub wa al-Sha\u2018af",
+            "GPE",
+            "Is_Part_Of",
+            "al-Jouf province",
+            "GPE"
+        ],
+        [
+            "forces loyal to exiled President Abd-Rabbu Mansour Hadi\u2019s government",
+            "ORG/GOV",
+            "Capture",
+            "most of the district",
+            "CONCEPT",
+            "in heavy fighting with the Houthis",
+            "ORG/REG"
+        ],
+        [
+            "anti-Houthi forces",
+            "ORG/GOV",
+            "Backed_By",
+            "Saudi-led coalition",
+            "ORG/GOV"
+        ],
+        [
+            "anti-Houthi forces",
+            "ORG/GOV",
+            "Intensify",
+            "offensive",
+            "CONCEPT",
+            "against the Iran-aligned group",
+            "ORG/REG"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Control",
+            "most of northern Yemen",
+            "GPE"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Kill",
+            "Saleh",
+            "PERSON"
+        ],
+        [
+            "Saleh",
+            "PERSON",
+            "Switch",
+            "sides",
+            "CONCEPT",
+            "in Yemen\u2019s nearly three-year-old civil war",
+            "CONCEPT"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Accuse",
+            "Saleh",
+            "PERSON",
+            "of trying to sow sedition in the country",
+            "CONCEPT"
+        ],
+        [
+            "General People\u2019s Congress party",
+            "ORG",
+            "Accuse",
+            "Houthis",
+            "ORG/REG",
+            "of trying to monopolize running the country",
+            "CONCEPT"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Describe",
+            "Aqeeli\u2019s injuries",
+            "CONCEPT",
+            "as serious",
+            "CONCEPT"
+        ],
+        [
+            "Hadi",
+            "PERSON",
+            "Appoint",
+            "Aqeeli",
+            "PERSON",
+            "last September",
+            "CONCEPT",
+            "replacing",
+            "Major General Mohammed al-Maqdeshi",
+            "PERSON"
+        ],
+        [
+            "Major General Mohammed al-Maqdeshi",
+            "PERSON",
+            "Appointed",
+            "as a presidential adviser",
+            "CONCEPT"
+        ],
+        [
+            "local Yemeni fighters in the southwest",
+            "ORG",
+            "Backed_By",
+            "Emirati forces",
+            "ORG"
+        ],
+        [
+            "local Yemeni fighters in the southwest",
+            "ORG",
+            "Kill",
+            "dozens of armed Houthi group members",
+            "ORG"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Hold",
+            "capital Sanaa",
+            "GPE"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Control",
+            "much of northern Yemen",
+            "GPE"
+        ],
+        [
+            "Houthis",
+            "ORG/REG",
+            "Overthrow",
+            "Hadi\u2019s internationally-recognized government",
+            "ORG/GOV",
+            "in 2015",
+            "CONCEPT"
+        ],
+        [
+            "conflict",
+            "CONCEPT",
+            "Widely_Seen",
+            "proxy war",
+            "CONCEPT",
+            "between regional rivals Saudi Arabia and Iran",
+            "GPE"
+        ],
+        [
+            "conflict",
+            "CONCEPT",
+            "Displace",
+            "more than 2 million people",
+            "CONCEPT"
+        ],
+        [
+            "conflict",
+            "CONCEPT",
+            "Cause",
+            "cholera epidemic",
+            "CONCEPT"
+        ],
+        [
+            "conflict",
+            "CONCEPT",
+            "Push",
+            "country to the brink of famine",
+            "CONCEPT"
+        ],
+        [
+            "conflict",
+            "CONCEPT",
+            "At least 10,000 people",
+            "CONCEPT",
+            "Killed"
+        ]
+    ]
+}

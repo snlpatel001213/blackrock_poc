@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "L Brands",
+            "ORG",
+            "Announce",
+            "offering",
+            "ORG/REG"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Operate_In",
+            "NYSE:LB",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Intends_To_Use",
+            "proceeds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Redemption",
+            "outstanding 8.500% senior notes due 2019",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "2028 Notes",
+            "FIN_INSTRUMENT",
+            "Offer_To_Sell",
+            "public offering",
+            "ORG/REG"
+        ],
+        [
+            "2028 Notes",
+            "FIN_INSTRUMENT",
+            "Guaranteed_By",
+            "certain of the Company\u2019s subsidiaries",
+            "ORG"
+        ],
+        [
+            "BofA Merrill Lynch",
+            "ORG",
+            "Underwriter",
+            null,
+            "NA"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Underwriter",
+            null,
+            "NA"
+        ],
+        [
+            "HSBC",
+            "ORG",
+            "Underwriter",
+            null,
+            "NA"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Underwriter",
+            null,
+            "NA"
+        ],
+        [
+            "Wells Fargo Securities",
+            "ORG",
+            "Underwriter",
+            null,
+            "NA"
+        ],
+        [
+            "United States Securities and Exchange Commission",
+            "ORG/REG",
+            "Relate_To",
+            "registration statement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Victoria\u2019s Secret",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Victoria\u2019s Secret",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Victoria\u2019s Secret",
+            "ORG",
+            "Operate_In",
+            "United Kingdom",
+            "GPE"
+        ],
+        [
+            "Victoria\u2019s Secret",
+            "ORG",
+            "Operate_In",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "Victoria\u2019s Secret",
+            "ORG",
+            "Operate_In",
+            "Greater China",
+            "GPE"
+        ],
+        [
+            "Bath & Body Works",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Bath & Body Works",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Bath & Body Works",
+            "ORG",
+            "Operate_In",
+            "United Kingdom",
+            "GPE"
+        ],
+        [
+            "Bath & Body Works",
+            "ORG",
+            "Operate_In",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "Bath & Body Works",
+            "ORG",
+            "Operate_In",
+            "Greater China",
+            "GPE"
+        ],
+        [
+            "La Senza",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "La Senza",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "La Senza",
+            "ORG",
+            "Operate_In",
+            "United Kingdom",
+            "GPE"
+        ],
+        [
+            "La Senza",
+            "ORG",
+            "Operate_In",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "La Senza",
+            "ORG",
+            "Operate_In",
+            "Greater China",
+            "GPE"
+        ],
+        [
+            "Henri Bendel",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "output": [
+        [
+            "In-N-Out",
+            "COMP",
+            "Introduce",
+            "Hot Chocolate",
+            "PRODUCT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Operate_In",
+            "Multiple Locations",
+            "GPE"
+        ],
+        [
+            "Hot Chocolate",
+            "PRODUCT",
+            "Relate_To",
+            "Ghirardelli",
+            "COMP"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Has",
+            "Limited Menu",
+            "CONCEPT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Operate_In",
+            "Year Round",
+            "CONCEPT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Price",
+            "8-ounce cup",
+            "PRODUCT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Price",
+            "16-ounce cup",
+            "PRODUCT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Offer",
+            "Lemonade",
+            "PRODUCT"
+        ],
+        [
+            "In-N-Out",
+            "COMP",
+            "Plan",
+            "Open Locations",
+            "COMP",
+            "In",
+            "Colorado",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Japan",
+            "GPE",
+            "Raise",
+            "Detention of Reuters Reporters",
+            "EVENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Participates_In",
+            "Foreign Minister Taro Kono Visit to Myanmar",
+            "EVENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Relate_To",
+            "Myanmar Government",
+            "ORG/GOV"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Prosecute",
+            "Two Reuters Reporters",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Control",
+            "Official Secrets Act",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Has",
+            "Maximum Prison Sentence of 14 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Relate_To",
+            "Reporters Lawyer",
+            "PERSON"
+        ],
+        [
+            "Japanese Government",
+            "ORG",
+            "Convey",
+            "Concern",
+            "CONCEPT"
+        ],
+        [
+            "Japanese Government",
+            "ORG",
+            "Want",
+            "Discuss and Make Appeals",
+            "CONCEPT"
+        ],
+        [
+            "Japanese Government",
+            "ORG",
+            "Relate_To",
+            "Foreign Minister Kono\u2019s Visit to Myanmar",
+            "EVENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Guarantee",
+            "Freedom of Expression",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Guarantee",
+            "Basic Human Rights",
+            "CONCEPT"
+        ]
+    ]
+}

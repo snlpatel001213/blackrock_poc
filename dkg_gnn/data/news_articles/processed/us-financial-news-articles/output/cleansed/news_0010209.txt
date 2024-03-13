@@ -1,0 +1,245 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Bitcoin Mining",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin Mining",
+            "CONCEPT",
+            "Consume",
+            "Large Amount Of Electricity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin Mining",
+            "CONCEPT",
+            "Encourage",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Mine",
+            "Three Quarters Of Worlds Bitcoins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Use",
+            "State Investment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Array Of Industrial Policies",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Judgment",
+            "Cryptocurrencies Not Strategic Industry",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Crackdown",
+            "Bitcoin Miners",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Multi Agency Task Force",
+            "ORG"
+        ],
+        [
+            "Multi Agency Task Force",
+            "ORG",
+            "Instruct",
+            "Provincial Governments",
+            "GPE"
+        ],
+        [
+            "Provincial Governments",
+            "GPE",
+            "Guide",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Exit",
+            "Cryptocurrency Mining Industry",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin Miners",
+            "COMP",
+            "Establish",
+            "Operations",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin Miners",
+            "COMP",
+            "Skirt",
+            "Chinese Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin Miners",
+            "COMP",
+            "Purchase",
+            "Electricity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin Miners",
+            "COMP",
+            "Relocate",
+            "Abroad",
+            "GPE"
+        ],
+        [
+            "Miners",
+            "COMP",
+            "Require",
+            "Cheap Electricity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Miners",
+            "COMP",
+            "Require",
+            "Cool Climate",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Seen",
+            "Promising Destination",
+            "CONCEPT"
+        ],
+        [
+            "Iceland",
+            "GPE",
+            "Seen",
+            "Promising Destination",
+            "CONCEPT"
+        ],
+        [
+            "Eastern Europe",
+            "GPE",
+            "Seen",
+            "Promising Destination",
+            "CONCEPT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Seen",
+            "Promising Destination",
+            "CONCEPT"
+        ],
+        [
+            "Mining Operations",
+            "CONCEPT",
+            "Contradict",
+            "Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Efforts",
+            "CONCEPT",
+            "Prevent",
+            "Financial Risk",
+            "CONCEPT"
+        ],
+        [
+            "Efforts",
+            "CONCEPT",
+            "Discourage",
+            "Activities",
+            "CONCEPT"
+        ],
+        [
+            "Activities",
+            "CONCEPT",
+            "Deviate",
+            "Needs Of Real Economy",
+            "CONCEPT"
+        ],
+        [
+            "Internet Finance Task Force",
+            "ORG",
+            "Include",
+            "Peoples Bank Of China",
+            "ORG/GOV"
+        ],
+        [
+            "Internet Finance Task Force",
+            "ORG",
+            "Led",
+            "Regulatory Tightening Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Regional Authorities",
+            "GPE",
+            "Not Called",
+            "Shut Mining Operations",
+            "CONCEPT"
+        ],
+        [
+            "Regional Authorities",
+            "GPE",
+            "Enforce",
+            "Policies",
+            "CONCEPT"
+        ],
+        [
+            "Policies",
+            "CONCEPT",
+            "Electricity Consumption",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Policies",
+            "CONCEPT",
+            "Land Use",
+            "CONCEPT"
+        ],
+        [
+            "Policies",
+            "CONCEPT",
+            "Tax Collection",
+            "CONCEPT"
+        ],
+        [
+            "Policies",
+            "CONCEPT",
+            "Environmental Regulation",
+            "CONCEPT"
+        ],
+        [
+            "PBoC",
+            "ORG/GOV",
+            "Not Respond",
+            "Request For Comment",
+            "CONCEPT"
+        ]
+    ]
+}

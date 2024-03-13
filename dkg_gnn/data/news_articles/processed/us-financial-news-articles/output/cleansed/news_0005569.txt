@@ -1,0 +1,247 @@
+{
+    "output": [
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Announce",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Fire and Fury",
+            "EVENT",
+            "Relate_To",
+            "Trump White House",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Operate_In",
+            "Trump White House",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Has",
+            "Lawyer",
+            "PERSON"
+        ],
+        [
+            "Lawyer",
+            "PERSON",
+            "Demand",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Has",
+            "Publisher",
+            "COMP"
+        ],
+        [
+            "Publisher",
+            "COMP",
+            "Stop",
+            "Releasing Material",
+            "CONCEPT"
+        ],
+        [
+            "Publisher",
+            "COMP",
+            "Retract",
+            "What Had Already Been Released",
+            "CONCEPT"
+        ],
+        [
+            "Publisher",
+            "COMP",
+            "Apologize",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Publisher",
+            "COMP",
+            "Bump Up",
+            "Publication Date",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Has",
+            "Best-Sellers List",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Hold",
+            "No. 1 Spot",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Calculate",
+            "Rankings",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Consider",
+            "Data on Book Sales",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Consider",
+            "Factors",
+            "CONCEPT"
+        ],
+        [
+            "Ellen Geiger",
+            "PERSON",
+            "Tell",
+            "CNBC Make It",
+            "COMP"
+        ],
+        [
+            "Ellen Geiger",
+            "PERSON",
+            "Say",
+            "Algorithms",
+            "CONCEPT"
+        ],
+        [
+            "Publishers Weekly",
+            "COMP",
+            "Find",
+            "Title in Amazon\u2019s top five",
+            "CONCEPT"
+        ],
+        [
+            "Title",
+            "CONCEPT",
+            "Average",
+            "1,094 Print Copies Sold",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Measure",
+            "Velocity of Sales",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Reflect",
+            "How a Book is Selling",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Crack",
+            "Top 100",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Stay",
+            "Top 20",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Show Up",
+            "Other Lists",
+            "CONCEPT"
+        ],
+        [
+            "New York Times",
+            "COMP",
+            "Update",
+            "Best Seller List",
+            "CONCEPT"
+        ],
+        [
+            "Rankings",
+            "CONCEPT",
+            "Determine",
+            "Book Sales",
+            "CONCEPT"
+        ],
+        [
+            "Retailers",
+            "COMP",
+            "Report",
+            "Book Sales",
+            "CONCEPT"
+        ],
+        [
+            "New York Times",
+            "COMP",
+            "Compile",
+            "List",
+            "CONCEPT"
+        ],
+        [
+            "New York Times",
+            "COMP",
+            "Based On",
+            "Certain Stores",
+            "COMP"
+        ],
+        [
+            "New York Times",
+            "COMP",
+            "Reporting Bookstore",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Crack",
+            "New York Times Best Sellers list",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Need",
+            "1,000 to 2,000 Books Per Week",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stephen King",
+            "PERSON",
+            "John Grisham",
+            "PERSON",
+            "James Patterson",
+            "PERSON",
+            "Sell",
+            "Gazillion Copies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ex-FBI Hostage Negotiator",
+            "PERSON",
+            "Explain",
+            "What President Trump and Kim Jong Un",
+            "PERSON",
+            "Get Right\u2014and Wrong\u2014About Persuasion",
+            "CONCEPT"
+        ]
+    ]
+}

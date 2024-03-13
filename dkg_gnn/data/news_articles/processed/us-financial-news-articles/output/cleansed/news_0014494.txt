@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "Monsanto",
+            "ORG",
+            "Looking_To_Sell",
+            "dicamba-resistant GM soy seed",
+            "PRODUCT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Expects_To_Run",
+            "field tests",
+            "EVENT",
+            "with",
+            "INTACTA2 XTEND",
+            "PRODUCT",
+            "genetically-modified soy seed",
+            "PRODUCT",
+            "in",
+            "2019/20 crop",
+            "EVENT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Expects_To_Launch",
+            "dicamba-resistant soy seed",
+            "PRODUCT",
+            "INTACTA2 XTEND",
+            "PRODUCT",
+            "commercially",
+            "ADV",
+            "in",
+            "Brazil",
+            "GPE",
+            "in",
+            "2020",
+            "EVENT"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Reporting",
+            "Reuters"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Monsanto"
+        ]
+    ]
+}

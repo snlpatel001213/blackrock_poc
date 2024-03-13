@@ -1,0 +1,110 @@
+{
+    "output": [
+        [
+            "Peugeot",
+            "COMP",
+            "Bought",
+            "Opel-Vauxhall",
+            "ORG"
+        ],
+        [
+            "Opel-Vauxhall",
+            "ORG",
+            "Operate_In",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Produce",
+            "Cars",
+            "PRODUCT"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Cut",
+            "Jobs",
+            "ECON_INDICATOR",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Plan",
+            "Close",
+            "Vauxhall Car Plant",
+            "PRODUCT",
+            "Northern England",
+            "GPE"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Decide",
+            "Build",
+            "Cars",
+            "PRODUCT",
+            "Ellesmere Port",
+            "GPE"
+        ],
+        [
+            "Unite General Secretary",
+            "PERSON",
+            "Warn",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Closure",
+            "EVENT",
+            "Negative_Impact_On",
+            "Vauxhall Market Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unite General Secretary",
+            "PERSON",
+            "Meet",
+            "PSA Chief Executive",
+            "PERSON"
+        ],
+        [
+            "PSA Chief Executive",
+            "PERSON",
+            "Control",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Opel-Vauxhall",
+            "ORG",
+            "Sell",
+            "Vehicles",
+            "PRODUCT",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Cut",
+            "Hours",
+            "ECON_INDICATOR",
+            "Opel",
+            "ORG"
+        ],
+        [
+            "Job Losses",
+            "EVENT",
+            "Needed",
+            "Boost",
+            "Efficiency",
+            "CONCEPT",
+            "Ellesmere Port",
+            "GPE"
+        ]
+    ]
+}

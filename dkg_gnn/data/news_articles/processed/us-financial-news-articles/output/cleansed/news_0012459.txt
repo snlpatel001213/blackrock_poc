@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Parent",
+            "ORG",
+            "Has",
+            "Quiksilver",
+            "COMP"
+        ],
+        [
+            "Quiksilver",
+            "COMP",
+            "Acquire",
+            "Billabong International",
+            "COMP"
+        ],
+        [
+            "Quiksilver",
+            "COMP",
+            "Operate_In",
+            "Active Sports Industry",
+            "SECTOR"
+        ],
+        [
+            "Billabong International",
+            "COMP",
+            "Participates_In",
+            "Active Sports Industry",
+            "SECTOR"
+        ],
+        [
+            "Combination",
+            "CONCEPT",
+            "Create",
+            "Global Player",
+            "ORG"
+        ],
+        [
+            "Global Player",
+            "ORG",
+            "Have",
+            "$2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global Player",
+            "ORG",
+            "Have",
+            "630 Stores",
+            "COMP"
+        ],
+        [
+            "Global Player",
+            "ORG",
+            "Operate_In",
+            "28 Countries",
+            "GPE"
+        ],
+        [
+            "Quiksilver",
+            "COMP",
+            "Struggle",
+            "Declining Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Billabong International",
+            "COMP",
+            "Struggle",
+            "Corporate Restructurings",
+            "CONCEPT"
+        ]
+    ]
+}

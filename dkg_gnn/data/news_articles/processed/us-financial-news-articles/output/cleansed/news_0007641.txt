@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Coca-Cola Plus",
+            "PRODUCT",
+            "Has",
+            "Laxative Ingredient",
+            "CONCEPT"
+        ],
+        [
+            "Hideaki Iwaya",
+            "PERSON",
+            "Participates_In",
+            "Pizza Night",
+            "EVENT"
+        ],
+        [
+            "Hideaki Iwaya",
+            "PERSON",
+            "Invests_In",
+            "Coca-Cola Plus",
+            "PRODUCT"
+        ],
+        [
+            "Coca-Cola Plus",
+            "PRODUCT",
+            "Relate_To",
+            "Breakfast Food",
+            "CONCEPT"
+        ],
+        [
+            "Coca-Cola Plus",
+            "PRODUCT",
+            "Relate_To",
+            "Soybeans",
+            "GPE"
+        ],
+        [
+            "Coca-Cola Plus",
+            "PRODUCT",
+            "Impact",
+            "Fat Absorption",
+            "CONCEPT"
+        ]
+    ]
+}

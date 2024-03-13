@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Halifax, Nova Scotia",
+            "GPE",
+            "Located_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Nova Scotia Power",
+            "ORG",
+            "Control",
+            "Power Outages",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Impact",
+            "Nova Scotia",
+            "GPE"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Impact",
+            "Halifax Stanfield Airport",
+            "ORG"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Impact",
+            "New Brunswick",
+            "GPE"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Impact",
+            "Gaspe Peninsula",
+            "GPE"
+        ],
+        [
+            "Environment Canada",
+            "ORG/GOV",
+            "Issue",
+            "Notice",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Close",
+            "Schools",
+            "ORG"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Close",
+            "Businesses",
+            "ORG"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Cause",
+            "Power Outages",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Cause",
+            "Flight Delays",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Cause",
+            "Flight Cancellations",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Cause",
+            "Tree Damage",
+            "EVENT"
+        ],
+        [
+            "Forecasters",
+            "PERSON",
+            "Dub",
+            "Storm",
+            "EVENT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Expected",
+            "Snowfall",
+            "EVENT"
+        ],
+        [
+            "Darren Calabrese",
+            "PERSON",
+            "Report",
+            "Halifax",
+            "GPE"
+        ],
+        [
+            "Allison Lampert",
+            "PERSON",
+            "Write",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Bernadette Baum",
+            "PERSON",
+            "Edit",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Sandra Maler",
+            "PERSON",
+            "Edit",
+            "Report",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Simona Halep",
+            "PERSON",
+            "Win",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Defeat",
+            "Katerina Siniakova",
+            "PERSON"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Prepare",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Among",
+            "Favorites",
+            "CONCEPT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Plan",
+            "Win",
+            "CONCEPT"
+        ],
+        [
+            "Simona Halep",
+            "PERSON",
+            "Dream",
+            "Win",
+            "CONCEPT"
+        ],
+        [
+            "Katerina Siniakova",
+            "PERSON",
+            "Hold",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Aditi Prakash",
+            "PERSON",
+            "Report",
+            "Shenzhen Open",
+            "EVENT"
+        ],
+        [
+            "Elina Svitolina",
+            "PERSON",
+            "Win",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Serena Williams",
+            "PERSON",
+            "Withdraw",
+            "Australian Open",
+            "EVENT"
+        ]
+    ]
+}

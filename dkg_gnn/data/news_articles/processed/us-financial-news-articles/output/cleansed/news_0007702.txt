@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Start",
+            "Farmers Insurance Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Operate_In",
+            "PGA Tour",
+            "ORG"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Missed",
+            "Farmers Insurance Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Had",
+            "spinal fusion surgery",
+            "CONCEPT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Play",
+            "Genesis Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Foundation",
+            "ORG/REG"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Excited",
+            "Riviera",
+            "GPE"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Played",
+            "Riviera",
+            "GPE"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Host",
+            "Genesis Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Swung",
+            "Hero World Challenge",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Finished",
+            "tied for ninth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Farmers Insurance Open",
+            "EVENT",
+            "Begin",
+            "Jan. 25",
+            "DATE"
+        ],
+        [
+            "Farmers Insurance Open",
+            "EVENT",
+            "At",
+            "Torrey Pines",
+            "GPE"
+        ]
+    ]
+}

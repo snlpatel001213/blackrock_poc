@@ -1,0 +1,78 @@
+{
+    "output": [
+        [
+            "Rws Holdings Plc",
+            "COMP",
+            "Has",
+            "Moravia",
+            "ORG"
+        ],
+        [
+            "Moravia",
+            "ORG",
+            "Name",
+            "Paul Danter",
+            "PERSON",
+            "as",
+            "CEO"
+        ],
+        [
+            "Paul Danter",
+            "PERSON",
+            "Participates_In",
+            "Moravia",
+            "ORG",
+            "as",
+            "CEO"
+        ],
+        [
+            "Moravia",
+            "ORG",
+            "Achieve",
+            "Record Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Moravia",
+            "ORG",
+            "Has",
+            "Tomas Kratochvil",
+            "PERSON",
+            "as",
+            "Previous CEO"
+        ],
+        [
+            "Tomas Kratochvil",
+            "PERSON",
+            "Move",
+            "Join",
+            "Rws Holdings Plc",
+            "COMP",
+            "Board"
+        ],
+        [
+            "Rws Holdings Plc",
+            "COMP",
+            "Has",
+            "Board",
+            "ORG/GOV"
+        ],
+        [
+            "Tomas Kratochvil",
+            "PERSON",
+            "After",
+            "Handover",
+            "Period",
+            "to",
+            "Paul Danter",
+            "PERSON",
+            "Will",
+            "Join",
+            "Board",
+            "ORG/GOV",
+            "of",
+            "Rws Holdings Plc",
+            "COMP"
+        ]
+    ]
+}

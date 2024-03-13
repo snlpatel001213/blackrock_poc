@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Hope",
+            "Dreamer immigrants",
+            "ORG/REG"
+        ],
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Hold out",
+            "Bipartisan agreement",
+            "CONCEPT"
+        ],
+        [
+            "Nancy Pelosi",
+            "PERSON",
+            "Operate_In",
+            "House of Representatives",
+            "ORG/GOV"
+        ],
+        [
+            "Chuck Schumer",
+            "PERSON",
+            "Say",
+            "Deal possible",
+            "CONCEPT"
+        ],
+        [
+            "Chuck Schumer",
+            "PERSON",
+            "Accuse",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Issue",
+            "Unreasonable demands",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Call for",
+            "$18 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Fund construction",
+            "Border wall",
+            "PRODUCT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Want",
+            "Pump up military spending",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Needed",
+            "Get spending bills",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Want",
+            "More money",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Protect",
+            "Undocumented people",
+            "PERSON"
+        ],
+        [
+            "Undocumented people",
+            "PERSON",
+            "Immigrate",
+            "Illegally",
+            "CONCEPT"
+        ],
+        [
+            "Undocumented people",
+            "PERSON",
+            "Known as",
+            "Dreamers",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Terminating DACA",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Challenge",
+            "Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Congress",
+            "ORG/GOV",
+            "Come up with",
+            "Legislation",
+            "CONCEPT"
+        ],
+        [
+            "Pelosi",
+            "PERSON",
+            "Link",
+            "Budget and DACA issues",
+            "CONCEPT"
+        ],
+        [
+            "Pelosi",
+            "PERSON",
+            "Won\u2019t sign off",
+            "DACA",
+            "CONCEPT"
+        ],
+        [
+            "Pelosi",
+            "PERSON",
+            "Think",
+            "President sincerely would like to deal with DACA",
+            "CONCEPT"
+        ],
+        [
+            "Pelosi",
+            "PERSON",
+            "Think",
+            "Large number of Republicans would vote for DACA agreement",
+            "CONCEPT"
+        ]
+    ]
+}

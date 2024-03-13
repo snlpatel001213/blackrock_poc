@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Eric Tsang",
+            "PERSON",
+            "Deny",
+            "Sexual Misconduct Allegations",
+            "EVENT"
+        ],
+        [
+            "Eric Tsang",
+            "PERSON",
+            "Take_Legal_Action_Against",
+            "Grace Han",
+            "PERSON"
+        ],
+        [
+            "Grace Han",
+            "PERSON",
+            "Post",
+            "Allegations",
+            "EVENT",
+            "On",
+            "Weibo",
+            "COMP"
+        ],
+        [
+            "Eric Tsang",
+            "PERSON",
+            "Described_As",
+            "High_Profile_Asian_Star",
+            "CONCEPT"
+        ],
+        [
+            "Eric Tsang",
+            "PERSON",
+            "Cooperate_With",
+            "Any_Investigation",
+            "EVENT"
+        ],
+        [
+            "Grace Han",
+            "PERSON",
+            "Make_Sexual_Assaults_On_Female_Celebrities",
+            "EVENT"
+        ],
+        [
+            "Grace Han",
+            "PERSON",
+            "Try_To_Spike_Drinks_Of_Models",
+            "EVENT"
+        ],
+        [
+            "#MeToo",
+            "EVENT",
+            "Named",
+            "Time_Magazine_s_2017_Person_Of_The_Year",
+            "EVENT"
+        ],
+        [
+            "#MeToo",
+            "EVENT",
+            "Spark_Numerous_Accusations",
+            "EVENT"
+        ]
+    ]
+}

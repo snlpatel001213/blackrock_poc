@@ -1,0 +1,1 @@
+{'output': [['Baltimore hospital', 'ORG', 'Operate_In', 'GPE', 'GPE'], ['Patient', 'PERSON', 'Discharged', 'Hospital', 'ORG'], ['Hospital', 'ORG', 'Investigate', 'Discharge', 'EVENT'], ['Patient', 'PERSON', 'Left', 'Street', 'GPE'], ['Patient', 'PERSON', 'Wear', 'Gown', 'PRODUCT']]}

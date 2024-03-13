@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Operate_In",
+            "Medical Technology Industry",
+            "SECTOR"
+        ],
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Introduce",
+            "V-Go\u00ae Wearable Insulin Delivery device",
+            "PRODUCT"
+        ],
+        [
+            "V-Go\u00ae Wearable Insulin Delivery device",
+            "PRODUCT",
+            "Impact",
+            "Patients with Type 2 Diabetes",
+            "PERSON"
+        ],
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Expect",
+            "$20 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Expect",
+            "Fourth Quarter Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Has",
+            "Headquarters in Bridgewater",
+            "GPE"
+        ],
+        [
+            "Valeritas Holdings",
+            "ORG",
+            "Has",
+            "R&D Functions in Marlborough",
+            "GPE"
+        ]
+    ]
+}

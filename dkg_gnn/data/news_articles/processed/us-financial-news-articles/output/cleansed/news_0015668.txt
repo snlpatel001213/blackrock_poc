@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Has",
+            "trade boom",
+            "CONCEPT"
+        ],
+        [
+            "trade boom",
+            "CONCEPT",
+            "Impact",
+            "China",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Slow",
+            "exports growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Slow",
+            "imports growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Extend",
+            "crackdown",
+            "CONCEPT",
+            "On",
+            "financial risks",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Extend",
+            "crackdown",
+            "CONCEPT",
+            "On",
+            "factory pollution",
+            "CONCEPT"
+        ]
+    ]
+}

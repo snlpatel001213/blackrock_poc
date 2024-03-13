@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Harry Kane",
+            "PERSON",
+            "Participates_In",
+            "Tottenham Hotspur",
+            "ORG"
+        ],
+        [
+            "Tottenham Hotspur",
+            "ORG",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Harry Kane",
+            "PERSON",
+            "Score",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Harry Kane",
+            "PERSON",
+            "Hungry",
+            "Trophies",
+            "CONCEPT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "ORG",
+            "Want",
+            "Win",
+            "CONCEPT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "ORG",
+            "Lost",
+            "League Cup",
+            "CONCEPT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "ORG",
+            "Sit",
+            "Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tottenham Hotspur",
+            "ORG",
+            "Visit",
+            "Everton",
+            "ORG"
+        ],
+        [
+            "Harry Kane",
+            "PERSON",
+            "Stated",
+            "Interest",
+            "CONCEPT"
+        ],
+        [
+            "Real Madrid",
+            "ORG",
+            "Expect",
+            "Sign",
+            "PERSON"
+        ]
+    ]
+}

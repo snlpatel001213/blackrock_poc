@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.S. Treasury Department",
+            "ORG/GOV",
+            "Sell",
+            "$20 billion",
+            "NUM"
+        ],
+        [
+            "U.S. Treasury Department",
+            "ORG/GOV",
+            "Operate_In",
+            "Government notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "$20 billion",
+            "NUM",
+            "Has",
+            "10-year government notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "10-year government notes",
+            "FIN_INSTRUMENT",
+            "Sold_At",
+            "2.579%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2.579%",
+            "ECON_INDICATOR",
+            "Highest_Since",
+            "July 2014",
+            "DATE"
+        ],
+        [
+            "10-year government notes",
+            "FIN_INSTRUMENT",
+            "Bids_To_Offer_Ratio",
+            "2.69",
+            "NUM"
+        ],
+        [
+            "2.69",
+            "NUM",
+            "Strongest_Since",
+            "June 2016",
+            "DATE"
+        ],
+        [
+            "10-year government notes",
+            "FIN_INSTRUMENT",
+            "Auction_Demand_Gauge",
+            "2.37",
+            "NUM"
+        ],
+        [
+            "10-year government notes",
+            "FIN_INSTRUMENT",
+            "Previous_Auction_Demand_Gauge",
+            "December",
+            "DATE"
+        ]
+    ]
+}

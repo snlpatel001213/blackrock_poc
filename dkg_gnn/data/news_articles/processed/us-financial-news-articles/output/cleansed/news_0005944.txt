@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Has",
+            "special status",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Operate_In",
+            "Social Media Network",
+            "CONCEPT"
+        ],
+        [
+            "@realDonaldTrump",
+            "PERSON",
+            "Introduce",
+            "Controversial Tweets",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Consider",
+            "newsworthiness",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Consider",
+            "public interest",
+            "CONCEPT"
+        ],
+        [
+            "@realDonaldTrump",
+            "PERSON",
+            "Endanger",
+            "World",
+            "GPE"
+        ],
+        [
+            "@realDonaldTrump",
+            "PERSON",
+            "Violate",
+            "Twitter\u2019s ban",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Review",
+            "Tweets",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Enforce",
+            "its rules",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Influence",
+            "Twitter\u2019s growth",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Respond",
+            "request for comment",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Remain",
+            "unbiased",
+            "CONCEPT"
+        ],
+        [
+            "Twitter Inc.",
+            "COMP",
+            "Work",
+            "public interest in mind",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ],
+        [
+            "December 2017",
+            "GPE",
+            "Include",
+            "Palestinian protests",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "Palestinian protests",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "GPE",
+            "Include",
+            "Rohingya refugee crisis",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "GPE",
+            "Include",
+            "Christmas celebrations",
+            "EVENT"
+        ],
+        [
+            "December 2017",
+            "GPE",
+            "Include",
+            "ringing in 2018",
+            "EVENT"
+        ],
+        [
+            "Canice Leung",
+            "PERSON",
+            "Produce",
+            "Images",
+            "PRODUCT"
+        ]
+    ]
+}

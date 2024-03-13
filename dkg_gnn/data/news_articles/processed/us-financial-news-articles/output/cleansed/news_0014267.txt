@@ -1,0 +1,86 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Is_Member_Of",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Federal prosecutor\u2019s office",
+            "ORG/GOV"
+        ],
+        [
+            "Federal prosecutor\u2019s office",
+            "ORG/GOV",
+            "See",
+            "No grounds",
+            "CONCEPT"
+        ],
+        [
+            "No grounds",
+            "CONCEPT",
+            "To",
+            "Seek",
+            "VERB"
+        ],
+        [
+            "Seek",
+            "VERB",
+            "Arrest",
+            "Mahmoud Hashemi Shahroudi",
+            "PERSON"
+        ],
+        [
+            "Mahmoud Hashemi Shahroudi",
+            "PERSON",
+            "Critics say",
+            "Responsible",
+            "CONCEPT"
+        ],
+        [
+            "Responsible",
+            "CONCEPT",
+            "For",
+            "Crimes against humanity",
+            "CONCEPT"
+        ],
+        [
+            "German media",
+            "ORG",
+            "Reported",
+            "Mahmoud Hashemi Shahroudi",
+            "PERSON"
+        ],
+        [
+            "Mahmoud Hashemi Shahroudi",
+            "PERSON",
+            "Preparing",
+            "Leave",
+            "VERB"
+        ],
+        [
+            "Leave",
+            "VERB",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Leave",
+            "VERB",
+            "Thursday",
+            "TIME"
+        ],
+        [
+            "Hanover",
+            "GPE",
+            "Undergoing",
+            "Medical treatment",
+            "CONCEPT"
+        ]
+    ]
+}

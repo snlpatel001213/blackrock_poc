@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Fitbit",
+            "COMP",
+            "Invests_In",
+            "Sano",
+            "ORG"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Produce",
+            "blood sugar patch",
+            "PRODUCT"
+        ],
+        [
+            "blood sugar patch",
+            "PRODUCT",
+            "Relate_To",
+            "diabetes control",
+            "CONCEPT"
+        ],
+        [
+            "Fitbit",
+            "COMP",
+            "Operate_In",
+            "wearable sector",
+            "SECTOR"
+        ],
+        [
+            "Fitbit",
+            "COMP",
+            "Decline_In",
+            "sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Has",
+            "research team",
+            "ORG",
+            "Working_On",
+            "noninvasive glucose reader",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "technology sector",
+            "SECTOR"
+        ],
+        [
+            "Apple Watch",
+            "PRODUCT",
+            "Compete_With",
+            "Fitbit",
+            "COMP"
+        ],
+        [
+            "Fitbit",
+            "COMP",
+            "Confirm",
+            "Sano deal",
+            "ORG"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Expect_To_Close",
+            "financing round",
+            "EVENT"
+        ],
+        [
+            "Fitbit",
+            "COMP",
+            "Look_Beyond",
+            "device",
+            "PRODUCT",
+            "Think_About",
+            "health solutions",
+            "CONCEPT"
+        ],
+        [
+            "Fitbit",
+            "COMP",
+            "Partner_With",
+            "Medtronic",
+            "ORG",
+            "Dexcom",
+            "ORG",
+            "Integrate",
+            "blood sugar data",
+            "CONCEPT",
+            "with",
+            "consumer hardware",
+            "PRODUCT"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Device",
+            "penetrate",
+            "less deeply",
+            "Degree",
+            "skin",
+            "BODY_PART"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Device",
+            "intended",
+            "Type 1",
+            "Type 2",
+            "diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Device",
+            "used",
+            "pre-diabetic",
+            "CONCEPT"
+        ],
+        [
+            "Sano",
+            "ORG",
+            "Device",
+            "used",
+            "curious",
+            "CONCEPT",
+            "about",
+            "blood sugar",
+            "CONCEPT"
+        ],
+        [
+            "Biosensor experts",
+            "ORG",
+            "Debate",
+            "noninvasive approaches",
+            "CONCEPT",
+            "reliable",
+            "ECON_INDICATOR",
+            "accurate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pharma giants",
+            "ORG",
+            "Unsuccessfully_Try_To_Bring",
+            "noninvasive glucose tracking",
+            "CONCEPT",
+            "market",
+            "EVENT"
+        ],
+        [
+            "Verily",
+            "ORG",
+            "Team_Up",
+            "Dexcom",
+            "ORG",
+            "Develop",
+            "continuous glucose monitor",
+            "PRODUCT",
+            "Type 2 diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Verily",
+            "ORG",
+            "Joint_Venture",
+            "Sanofi",
+            "ORG",
+            "Targeted",
+            "people with disease",
+            "CONCEPT"
+        ],
+        [
+            "Verily",
+            "ORG",
+            "Research_Team",
+            "Unveil",
+            "prototype",
+            "PRODUCT",
+            "blood-sugar tracking contact lens",
+            "PRODUCT"
+        ]
+    ]
+}

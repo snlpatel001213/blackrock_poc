@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Crypto class",
+            "CONCEPT",
+            "Teach",
+            "buy",
+            "VERB"
+        ],
+        [
+            "Ripple",
+            "PRODUCT",
+            "Relate_To",
+            "Crypto class",
+            "CONCEPT"
+        ],
+        [
+            "buy",
+            "VERB",
+            "Impact",
+            "Ripple",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Cost",
+            "306 Billion Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "2017",
+            "TIME"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Cost",
+            "Record",
+            "CONCEPT"
+        ],
+        [
+            "Record",
+            "CONCEPT",
+            "Relate_To",
+            "Natural Disasters",
+            "CONCEPT"
+        ],
+        [
+            "Natural Disasters",
+            "CONCEPT",
+            "Cost",
+            "306 Billion Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Natural Disasters",
+            "CONCEPT",
+            "Relate_To",
+            "Weather and Climate",
+            "CONCEPT"
+        ],
+        [
+            "Weather and Climate",
+            "CONCEPT",
+            "Affect",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "NOAA",
+            "ORG/GOV"
+        ],
+        [
+            "NOAA",
+            "ORG/GOV",
+            "Announce",
+            "2017 Costliest Year",
+            "CONCEPT"
+        ],
+        [
+            "2017 Costliest Year",
+            "CONCEPT",
+            "Relate_To",
+            "Record",
+            "CONCEPT"
+        ],
+        [
+            "Record",
+            "CONCEPT",
+            "Relate_To",
+            "Natural Disasters",
+            "CONCEPT"
+        ],
+        [
+            "Natural Disasters",
+            "CONCEPT",
+            "Cost",
+            "306 Billion Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "306 Billion Dollars",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Cost",
+            "CONCEPT"
+        ],
+        [
+            "Cost",
+            "CONCEPT",
+            "Relate_To",
+            "Natural Disasters",
+            "CONCEPT"
+        ],
+        [
+            "Natural Disasters",
+            "CONCEPT",
+            "Affect",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Third-Warmest Year",
+            "CONCEPT"
+        ],
+        [
+            "Third-Warmest Year",
+            "CONCEPT",
+            "Relate_To",
+            "2017",
+            "TIME"
+        ]
+    ]
+}

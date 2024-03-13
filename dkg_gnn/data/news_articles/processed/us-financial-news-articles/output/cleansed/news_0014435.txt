@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "PricewaterhouseCoopers",
+            "ORG",
+            "Control",
+            "Satyam Computer Services",
+            "COMP"
+        ],
+        [
+            "Satyam Computer Services",
+            "COMP",
+            "Impact",
+            "Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Chairman",
+            "PERSON",
+            "Relate_To",
+            "Satyam Computer Services",
+            "COMP"
+        ],
+        [
+            "Chairman",
+            "PERSON",
+            "Jail",
+            "2015",
+            "GPE"
+        ],
+        [
+            "PricewaterhouseCoopers",
+            "ORG",
+            "Ban",
+            "Two_Year",
+            "TIME"
+        ],
+        [
+            "PricewaterhouseCoopers",
+            "ORG",
+            "Audit",
+            "Listed_Companies",
+            "COMP"
+        ],
+        [
+            "Auditors",
+            "ORG",
+            "Examine",
+            "Work",
+            "CONCEPT"
+        ],
+        [
+            "Auditors",
+            "ORG",
+            "Examine",
+            "Processes",
+            "CONCEPT"
+        ],
+        [
+            "Auditors",
+            "ORG",
+            "Punishment",
+            "Failure",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Expectation",
+            "Auditors",
+            "ORG"
+        ]
+    ]
+}

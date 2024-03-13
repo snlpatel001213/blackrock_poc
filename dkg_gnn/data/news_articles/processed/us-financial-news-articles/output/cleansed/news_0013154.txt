@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Announce",
+            "Engaged",
+            "EVENT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Is_Member_Of",
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Operate_In",
+            "Goop",
+            "ORG"
+        ],
+        [
+            "Goop",
+            "ORG",
+            "Produce",
+            "Lifestyle Magazine",
+            "PRODUCT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Relate_To",
+            "Writer-producer Brad Falchuk",
+            "PERSON"
+        ]
+    ]
+}

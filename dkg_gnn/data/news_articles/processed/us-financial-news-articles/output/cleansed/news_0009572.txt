@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Taj Gibson",
+            "PERSON",
+            "Contribute",
+            "three baskets",
+            "PRODUCT"
+        ],
+        [
+            "Taj Gibson",
+            "PERSON",
+            "Relate_To",
+            "20-4, game-opening run",
+            "EVENT"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "Win",
+            "wire-to-wire, 127-99 thrashing",
+            "EVENT"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "Win",
+            "second straight",
+            "EVENT"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "Win",
+            "five-game homestand",
+            "EVENT"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "End",
+            "six-game losing streak to Cleveland",
+            "EVENT"
+        ],
+        [
+            "Cleveland Cavaliers",
+            "GPE",
+            "Lose",
+            "second time in three outings",
+            "EVENT"
+        ],
+        [
+            "Cleveland Cavaliers",
+            "GPE",
+            "Lose",
+            "five-game trip",
+            "EVENT"
+        ],
+        [
+            "LeBron James",
+            "PERSON",
+            "Score",
+            "10 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cavaliers",
+            "GPE",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Jimmy Butler",
+            "PERSON",
+            "Score",
+            "21 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andrew Wiggins",
+            "PERSON",
+            "Score",
+            "25 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Karl-Anthony Towns",
+            "PERSON",
+            "Score",
+            "19 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Karl-Anthony Towns",
+            "PERSON",
+            "Collect",
+            "12 rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taj Gibson",
+            "PERSON",
+            "Collect",
+            "16 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taj Gibson",
+            "PERSON",
+            "Collect",
+            "13 rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "Win",
+            "fifth straight win",
+            "EVENT"
+        ],
+        [
+            "Minnesota Timberwolves",
+            "GPE",
+            "Outrebound",
+            "Cleveland",
+            "GPE"
+        ],
+        [
+            "Cleveland Cavaliers",
+            "GPE",
+            "Lose",
+            "six of their last seven on the road",
+            "EVENT"
+        ],
+        [
+            "Jeff Green",
+            "PERSON",
+            "Score",
+            "22 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kyle Korver",
+            "PERSON",
+            "Score",
+            "19 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dwyane Wade",
+            "PERSON",
+            "Score",
+            "13 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Isaiah Thomas",
+            "PERSON",
+            "Score",
+            "9 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Isaiah Thomas",
+            "PERSON",
+            "Shoot",
+            "3-for-11",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kevin Love",
+            "PERSON",
+            "Score",
+            "3 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kevin Love",
+            "PERSON",
+            "Miss",
+            "six of his seven shots",
+            "EVENT"
+        ],
+        [
+            "LeBron James",
+            "PERSON",
+            "Shoot",
+            "4-for-8",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LeBron James",
+            "PERSON",
+            "Shoot",
+            "1-for-3 on his 3-pointers",
+            "EVENT"
+        ],
+        [
+            "Isaiah Thomas",
+            "PERSON",
+            "Play",
+            "for just the third time this season",
+            "EVENT"
+        ],
+        [
+            "Kevin Love",
+            "PERSON",
+            "Total",
+            "a season-low three points",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

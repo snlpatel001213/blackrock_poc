@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Australia",
+            "GPE",
+            "Has",
+            "Job vacancies",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Climb",
+            "Record high",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Augur",
+            "Well",
+            "ADV"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Support",
+            "Official figures",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Support",
+            "Employment growth",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Support",
+            "Hiring surge",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Relate_To",
+            "Jobless rate",
+            "CONCEPT"
+        ],
+        [
+            "Job vacancies",
+            "CONCEPT",
+            "Relate_To",
+            "5.4 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Three months to November",
+            "TIME",
+            "Has",
+            "Job vacancies",
+            "CONCEPT"
+        ],
+        [
+            "Sept-Nov quarter",
+            "TIME",
+            "Has",
+            "Job vacancies",
+            "CONCEPT"
+        ],
+        [
+            "November quarter",
+            "TIME",
+            "Has",
+            "Job vacancies",
+            "CONCEPT"
+        ],
+        [
+            "November quarter",
+            "TIME",
+            "Has",
+            "Public sector vacancies",
+            "CONCEPT"
+        ],
+        [
+            "Australian Bureau of Statistics",
+            "ORG/GOV",
+            "Release",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "From",
+            "Australian Bureau of Statistics",
+            "ORG/GOV"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "Show",
+            "Job vacancies",
+            "CONCEPT"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "Show",
+            "Public sector vacancies",
+            "CONCEPT"
+        ],
+        [
+            "Public sector vacancies",
+            "CONCEPT",
+            "Fall",
+            "7.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Value",
+            "Vacancies series",
+            "CONCEPT"
+        ],
+        [
+            "Vacancies series",
+            "CONCEPT",
+            "Prove",
+            "Reliable leading indicator",
+            "CONCEPT"
+        ],
+        [
+            "Vacancies series",
+            "CONCEPT",
+            "Prove",
+            "Turning points",
+            "CONCEPT"
+        ],
+        [
+            "Vacancies series",
+            "CONCEPT",
+            "Prove",
+            "Employment growth",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Wayne Cole",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "By",
+            "Sam Holmes",
+            "PERSON"
+        ]
+    ]
+}

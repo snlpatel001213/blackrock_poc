@@ -1,0 +1,104 @@
+{
+    "output": [
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Announce",
+            "Free Pizza Deal",
+            "EVENT"
+        ],
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Operate_In",
+            "Pizza Chain",
+            "ORG"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Buy",
+            "Pizza",
+            "PRODUCT"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Get",
+            "Free Pizza",
+            "PRODUCT"
+        ],
+        [
+            "Pizza Deal",
+            "EVENT",
+            "Runs_Until",
+            "Jan. 28",
+            "DATE"
+        ],
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Sponsor",
+            "NFL",
+            "ORG"
+        ],
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Face",
+            "Criticism",
+            "CONCEPT"
+        ],
+        [
+            "John Schnatter",
+            "PERSON",
+            "Blame",
+            "Lagging Sales",
+            "CONCEPT"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Hurt",
+            "Papa John\u2019s",
+            "COMP"
+        ],
+        [
+            "NFL",
+            "ORG",
+            "Leadership",
+            "Hurt",
+            "Papa John\u2019s Shareholders",
+            "PERSON"
+        ],
+        [
+            "John Schnatter",
+            "PERSON",
+            "Succeeded",
+            "Steve Ritchie",
+            "PERSON"
+        ],
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Apologize",
+            "null",
+            "null"
+        ],
+        [
+            "Papa John\u2019s",
+            "COMP",
+            "Denoounce",
+            "Neo-Nazis",
+            "PERSON"
+        ],
+        [
+            "Players",
+            "PERSON",
+            "Movement",
+            "Create",
+            "Platform for Change",
+            "CONCEPT"
+        ]
+    ]
+}

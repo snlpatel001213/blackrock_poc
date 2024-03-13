@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Make_Amends_With",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Offer",
+            "Olive Branch",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Statement",
+            "null",
+            "null"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Support",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff\u2019s \u201cFire and Fury: Inside the Trump White House\u201d",
+            "EVENT",
+            "Relate_To",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Donald Trump Jr.",
+            "PERSON",
+            "Praised_By",
+            "Steve Bannon",
+            "PERSON"
+        ]
+    ]
+}

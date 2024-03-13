@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Offer",
+            "Open up French economy",
+            "ORG"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Relate_To",
+            "Trade imbalances",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Warn",
+            "Protectionism",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Bring",
+            "French business delegation",
+            "ORG"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "No",
+            "Immediate announcements",
+            "EVENT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Visit",
+            "China",
+            "GPE"
+        ],
+        [
+            "French business",
+            "ORG",
+            "Accompany",
+            "Emmanuel Macron",
+            "PERSON"
+        ],
+        [
+            "French economy",
+            "ORG",
+            "Open_To",
+            "Chinese investment",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Booming markets",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Trade imbalances",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Synopsys Inc",
+            "COMP",
+            "Expand",
+            "Designware IP Portfolio",
+            "PRODUCT"
+        ],
+        [
+            "Synopsys Inc",
+            "COMP",
+            "Acquire",
+            "Kilopass Technology",
+            "ORG"
+        ],
+        [
+            "Kilopass Technology",
+            "ORG",
+            "Relate_To",
+            "Designware IP Portfolio",
+            "PRODUCT"
+        ]
+    ]
+}

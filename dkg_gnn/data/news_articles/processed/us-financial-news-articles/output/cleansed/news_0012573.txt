@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Sanofi",
+            "COMP",
+            "Invests_In",
+            "cemiplimab",
+            "PRODUCT"
+        ],
+        [
+            "Regeneron",
+            "COMP",
+            "Invests_In",
+            "cemiplimab",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Control",
+            "cemiplimab",
+            "PRODUCT"
+        ],
+        [
+            "Regeneron",
+            "COMP",
+            "Control",
+            "cemiplimab",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Operate_In",
+            "Oncology Sector",
+            "SECTOR"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Has",
+            "Nine Medicines",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Expect_To_File",
+            "Nine Medicines",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Underperform",
+            "Major Rivals",
+            "COMP"
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Rebuild",
+            "Strong Position",
+            "CONCEPT"
+        ]
+    ]
+}

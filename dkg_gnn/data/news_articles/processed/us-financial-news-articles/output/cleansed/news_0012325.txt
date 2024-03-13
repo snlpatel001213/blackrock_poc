@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Urge",
+            "Release",
+            "PERSON"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Oyub Titiev",
+            "PERSON",
+            "Arrested",
+            "Tuesday",
+            "TIME"
+        ],
+        [
+            "Oyub Titiev",
+            "PERSON",
+            "Runs",
+            "Memorial Human Rights Centre",
+            "ORG"
+        ],
+        [
+            "Memorial Human Rights Centre",
+            "ORG",
+            "Located_In",
+            "Chechnya",
+            "GPE"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Find",
+            "Substance",
+            "CONCEPT"
+        ],
+        [
+            "Substance",
+            "CONCEPT",
+            "Smell",
+            "Marijuana",
+            "CONCEPT"
+        ],
+        [
+            "Rights Activists",
+            "PERSON",
+            "Say",
+            "Set-Up",
+            "CONCEPT"
+        ],
+        [
+            "Heather Nauert",
+            "PERSON",
+            "State",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Spokeswoman",
+            "Heather Nauert",
+            "PERSON"
+        ],
+        [
+            "Heather Nauert",
+            "PERSON",
+            "Urge",
+            "Russian Federal Authorities",
+            "ORG/GOV"
+        ],
+        [
+            "Heather Nauert",
+            "PERSON",
+            "Ensure",
+            "Protect",
+            "VERB"
+        ],
+        [
+            "Heather Nauert",
+            "PERSON",
+            "Rights",
+            "Oyub Titiev",
+            "PERSON"
+        ],
+        [
+            "Oyub Titiev",
+            "PERSON",
+            "Protect",
+            "According",
+            "ADP"
+        ],
+        [
+            "Oyub Titiev",
+            "PERSON",
+            "Protect",
+            "Russian Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Oyub Titiev",
+            "PERSON",
+            "Protect",
+            "Russia\u2019s Human Rights Obligations",
+            "CONCEPT"
+        ],
+        [
+            "David Alexander",
+            "PERSON",
+            "Reporting",
+            "Editing",
+            "VERB"
+        ],
+        [
+            "Mohammad Zargham",
+            "PERSON",
+            "Editing",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Sunoco LP",
+            "COMP",
+            "Announce",
+            "Private Offering Of Senior Notes",
+            "EVENT"
+        ],
+        [
+            "Sunoco LP",
+            "COMP",
+            "Control",
+            "Senior Notes Due 2023",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sunoco LP",
+            "COMP",
+            "Control",
+            "Senior Notes Due 2026",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sunoco LP",
+            "COMP",
+            "Control",
+            "Senior Notes Due 2028",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sunoco LP",
+            "COMP",
+            "Raise",
+            "$1.75 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sunoco LP",
+            "COMP",
+            "Intend",
+            "Redeem Some Senior Notes",
+            "EVENT"
+        ]
+    ]
+}

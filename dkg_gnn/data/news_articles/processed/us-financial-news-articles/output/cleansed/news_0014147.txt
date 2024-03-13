@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Caisse de Depot et Placement du Quebec",
+            "ORG",
+            "Is_Member_Of",
+            "CDPDA.UL",
+            "ORG/REG"
+        ],
+        [
+            "Michael Sabia",
+            "PERSON",
+            "Says",
+            "NAFTA Abandonment Impact",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "NAFTA",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "NAFTA",
+            "EVENT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Participates_In",
+            "NAFTA",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "Canadian Currencies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "Mexican Currencies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "Canadian Stocks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "Mexican Stocks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Announce",
+            "NAFTA Withdrawal",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Handle",
+            "NAFTA Talks",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Mitigate",
+            "NAFTA Talks Impact",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Future",
+            "Job Sources",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Future",
+            "Economic Growth",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/REG",
+            "Handle",
+            "Interest Rate Rises",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Face",
+            "Future Headwinds",
+            "CONCEPT"
+        ],
+        [
+            "Caisse",
+            "ORG",
+            "Invest",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Invest",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Increase",
+            "Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "House",
+            "Amazon Staff",
+            "PERSON"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Add",
+            "Jobs",
+            "CONCEPT"
+        ],
+        [
+            "London",
+            "GPE",
+            "House",
+            "Amazon Staff",
+            "PERSON"
+        ],
+        [
+            "London",
+            "GPE",
+            "Add",
+            "Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Brexit Vote",
+            "EVENT",
+            "Impact",
+            "UK Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Brexit Vote",
+            "EVENT",
+            "Impact",
+            "London Offices",
+            "PRODUCT"
+        ],
+        [
+            "Brexit Vote",
+            "EVENT",
+            "Impact",
+            "London Employment",
+            "CONCEPT"
+        ]
+    ]
+}

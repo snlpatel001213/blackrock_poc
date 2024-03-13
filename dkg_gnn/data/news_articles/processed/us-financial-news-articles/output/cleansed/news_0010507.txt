@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "U.S. Spy Satellite",
+            "PRODUCT",
+            "Operate_In",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "Cape Canaveral",
+            "GPE",
+            "Locate_In",
+            "U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Launch",
+            "U.S. Spy Satellite",
+            "PRODUCT"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Belong_To",
+            "SpaceX",
+            "COMP"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Fail_To",
+            "Reach Orbit",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Spy Satellite",
+            "PRODUCT",
+            "Assume",
+            "Total Loss",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Spy Satellite",
+            "PRODUCT",
+            "Break_Up_Or_Plunge",
+            "Sea",
+            "GPE"
+        ],
+        [
+            "U.S. Spy Satellite",
+            "PRODUCT",
+            "Is",
+            "Write-Off",
+            "CONCEPT"
+        ],
+        [
+            "Northrop Grumman Corp",
+            "COMP",
+            "Build",
+            "U.S. Spy Satellite",
+            "PRODUCT"
+        ],
+        [
+            "Northrop Grumman Corp",
+            "COMP",
+            "Choose",
+            "SpaceX Falcon 9",
+            "PRODUCT"
+        ],
+        [
+            "SpaceX Falcon 9",
+            "PRODUCT",
+            "Belong_To",
+            "SpaceX",
+            "COMP"
+        ],
+        [
+            "Investigation",
+            "PRODUCT",
+            "Underway",
+            "null",
+            "NULL"
+        ],
+        [
+            "null",
+            "NULL",
+            "Initial_Indication",
+            "No",
+            "Sabotage_Or_Interference"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Comment",
+            "Missions_Of_This_Nature",
+            "CONCEPT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Review",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Perform",
+            "Nominally",
+            "CONCEPT"
+        ],
+        [
+            "Space Exploration Technologies Corp",
+            "COMP",
+            "Launch",
+            "First Satellite",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Receive",
+            "Satellite",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Launch",
+            "Falcon 9",
+            "PRODUCT"
+        ],
+        [
+            "Entrepreneur Elon Musk",
+            "PERSON",
+            "Lead",
+            "SpaceX",
+            "COMP"
+        ]
+    ]
+}

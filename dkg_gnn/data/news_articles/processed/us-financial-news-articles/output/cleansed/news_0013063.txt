@@ -1,0 +1,152 @@
+{
+    "output": [
+        [
+            "Siam Commercial Bank",
+            "COMP",
+            "Reach",
+            "Bancassurance Partnership Deal",
+            "EVENT"
+        ],
+        [
+            "Siam Commercial Bank",
+            "COMP",
+            "Operate_In",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Prudential Life Assurance",
+            "COMP",
+            "Operate_In",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Prudential Life Assurance",
+            "COMP",
+            "Unit_Of",
+            "Prudential Plc",
+            "ORG"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Has",
+            "Aging Population",
+            "CONCEPT"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Has",
+            "Limited Welfare System",
+            "CONCEPT"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Is_Member_Of",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Is_Eighth_Largest",
+            "Insurance Market",
+            "SECTOR"
+        ],
+        [
+            "Prudential Thailand",
+            "COMP",
+            "Has",
+            "Multi-Distribution Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Prudential Thailand",
+            "COMP",
+            "Participates_In",
+            "Bancassurance",
+            "EVENT"
+        ],
+        [
+            "Robinsons Bank",
+            "COMP",
+            "Participates_In",
+            "Bancassurance",
+            "EVENT"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Participates_In",
+            "Bancassurance",
+            "EVENT"
+        ],
+        [
+            "Prudential",
+            "COMP",
+            "Has",
+            "Record Highs",
+            "CONCEPT"
+        ],
+        [
+            "Prudential",
+            "COMP",
+            "Has",
+            "Neutral Rating",
+            "CONCEPT"
+        ],
+        [
+            "Prudential",
+            "COMP",
+            "Impact_On",
+            "Analyst",
+            "PERSON"
+        ],
+        [
+            "SCB Deal",
+            "EVENT",
+            "Offer",
+            "Three Unit-Linked Products",
+            "PRODUCT"
+        ],
+        [
+            "SCB Deal",
+            "EVENT",
+            "Fit_In",
+            "Financial And Investment Needs",
+            "CONCEPT"
+        ],
+        [
+            "SCB",
+            "COMP",
+            "Attempted",
+            "Sell Life Insurance Arm",
+            "EVENT"
+        ],
+        [
+            "SCB",
+            "COMP",
+            "Attempted",
+            "Sell To",
+            "FWD Group",
+            "COMP"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Has",
+            "Life Insurance Direct Premiums",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thailand",
+            "GPE",
+            "Has",
+            "Non-Life Premiums",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

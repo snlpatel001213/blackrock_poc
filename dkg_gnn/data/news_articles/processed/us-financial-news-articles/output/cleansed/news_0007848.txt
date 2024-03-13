@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "Jana Partners",
+            "ORG"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "CalSTRS",
+            "ORG"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Consider",
+            "Develop Software",
+            "PRODUCT"
+        ],
+        [
+            "Develop Software",
+            "PRODUCT",
+            "Relate_To",
+            "Limit Children\u2019s Phone Use",
+            "CONCEPT"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Control",
+            "$2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Control",
+            "$2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Push",
+            "Companies",
+            "ORG"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Make",
+            "Financial Changes",
+            "CONCEPT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Worry",
+            "Apple\u2019s Reputation",
+            "CONCEPT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Worry",
+            "Apple\u2019s Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Phone Addiction",
+            "CONCEPT",
+            "Impact",
+            "Mental Health",
+            "CONCEPT"
+        ],
+        [
+            "Half of Teenagers",
+            "CONCEPT",
+            "Feel",
+            "Addicted",
+            "CONCEPT"
+        ],
+        [
+            "Teenagers",
+            "CONCEPT",
+            "Report",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Cancel",
+            "World Tour",
+            "EVENT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Go",
+            "Therapy",
+            "EVENT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Link",
+            "Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Addiction",
+            "CONCEPT",
+            "To",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Addiction",
+            "CONCEPT",
+            "To",
+            "Mobile Photo-Sharing App Instagram",
+            "PRODUCT"
+        ]
+    ]
+}

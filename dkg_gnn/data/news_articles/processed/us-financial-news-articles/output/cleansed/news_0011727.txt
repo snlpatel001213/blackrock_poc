@@ -1,0 +1,120 @@
+{
+    "output": [
+        [
+            "Humana Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Health Insurance",
+            "SECTOR"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Impact",
+            "Tax Reform Legislation",
+            "CONCEPT"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Estimates",
+            "Reduction",
+            "ECON_INDICATOR",
+            "of",
+            "After-Tax Earnings",
+            "ECON_INDICATOR",
+            "for",
+            "Q4"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Reiterating",
+            "Expectations",
+            "CONCEPT",
+            "for",
+            "Group Medicare Advantage Net Membership Gains",
+            "SECTOR",
+            "of",
+            "65,000 to 70,000 Members",
+            "GPE"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Revising",
+            "Net Membership Growth Estimate",
+            "CONCEPT",
+            "for",
+            "Individual Medicare Advantage Products",
+            "PRODUCT",
+            "for",
+            "Year Ended Dec 31",
+            "TIME",
+            "to",
+            "180,000 to 200,000 Members",
+            "GPE"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Expects",
+            "Net Membership Gains",
+            "CONCEPT",
+            "of",
+            "6% to 7%",
+            "ECON_INDICATOR",
+            "Above",
+            "Year Ended Dec 31, 2017",
+            "TIME",
+            "Membership Level",
+            "SECTOR"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Management",
+            "Expects",
+            "to",
+            "Reaffirm",
+            "Adjusted Diluted EPS",
+            "ECON_INDICATOR",
+            "of",
+            "Approximately",
+            "$11.60",
+            "ECON_INDICATOR",
+            "for",
+            "Year Ended Dec 31, 2017",
+            "TIME"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "Management",
+            "Expects",
+            "to",
+            "Provide",
+            "Updated GAAP EPS Guidance",
+            "ECON_INDICATOR",
+            "of",
+            "Approximately",
+            "$16.44",
+            "ECON_INDICATOR",
+            "for",
+            "Year Ended Dec 31, 2017",
+            "TIME"
+        ],
+        [
+            "Humana Inc.",
+            "ORG",
+            "FY2017",
+            "Earnings Per Share View",
+            "ECON_INDICATOR",
+            "$11.63",
+            "ECON_INDICATOR",
+            "--",
+            "Thomson Reuters I/B/E/S",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "output": [
+        [
+            "Chi Mei Materials Technology Corp.",
+            "COMP",
+            "Plan",
+            "Set up",
+            "SUB",
+            "Kunshan-based subsidiary",
+            "ORG"
+        ],
+        [
+            "Kunshan-based subsidiary",
+            "ORG",
+            "Set up",
+            "Subsidiary",
+            "ORG",
+            "In",
+            "Xi\u2018an",
+            "GPE"
+        ],
+        [
+            "Subsidiary",
+            "ORG",
+            "Construct",
+            "Production line",
+            "CONCEPT"
+        ],
+        [
+            "Chi Mei Materials Technology Corp.",
+            "COMP",
+            "Invest",
+            "1 billion yuan",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

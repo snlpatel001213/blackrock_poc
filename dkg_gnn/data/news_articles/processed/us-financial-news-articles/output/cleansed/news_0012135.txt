@@ -1,0 +1,78 @@
+{
+    "output": [
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Sign",
+            "Merger Agreement",
+            "EVENT"
+        ],
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Acquire",
+            "Garfield Acquisition",
+            "ORG"
+        ],
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Acquire",
+            "Foundation Bank",
+            "COMP"
+        ],
+        [
+            "Foundation Bank",
+            "COMP",
+            "Merge",
+            "Into",
+            "Is_Member_Of",
+            "First Commonwealth Bank"
+        ],
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Operate_In",
+            "Cincinnati Market",
+            "GPE"
+        ],
+        [
+            "Shareholders of Garfield Acquisition",
+            "PERSON",
+            "Receive",
+            "About 2.8 Million Shares",
+            "FIN_INSTRUMENT",
+            "of CO\u2019s Common Stock"
+        ],
+        [
+            "Shareholders of Garfield Acquisition",
+            "PERSON",
+            "Receive",
+            "About $17.4 Million",
+            "ECON_INDICATOR",
+            "in Cash"
+        ],
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Expects",
+            "Deal to be Nominally Accretive",
+            "Relate_To",
+            "EPS",
+            "ECON_INDICATOR",
+            "in First Full Year of Operations"
+        ],
+        [
+            "First Commonwealth Financial Corp",
+            "COMP",
+            "Expects",
+            "That Transaction",
+            "EVENT",
+            "will be Accretive",
+            "Relate_To",
+            "Tangible Book Value per Share",
+            "ECON_INDICATOR",
+            "at Closing"
+        ]
+    ]
+}

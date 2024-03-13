@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Allstate",
+            "COMP",
+            "Has",
+            "Thomas Wilson",
+            "PERSON"
+        ],
+        [
+            "Thomas Wilson",
+            "PERSON",
+            "Is_Member_Of",
+            "Allstate",
+            "COMP"
+        ],
+        [
+            "Allstate",
+            "COMP",
+            "Participates_In",
+            "Consumer Electronics Show",
+            "EVENT"
+        ],
+        [
+            "Allstate",
+            "COMP",
+            "Control",
+            "Insurance",
+            "CONCEPT"
+        ],
+        [
+            "Allstate",
+            "COMP",
+            "Impact",
+            "People",
+            "GPE"
+        ],
+        [
+            "People",
+            "GPE",
+            "Participates_In",
+            "Ridesharing",
+            "CONCEPT"
+        ],
+        [
+            "Allstate",
+            "COMP",
+            "Relate_To",
+            "Driverless Vehicles",
+            "CONCEPT"
+        ]
+    ]
+}

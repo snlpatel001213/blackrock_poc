@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Inter Milan",
+            "GPE",
+            "Participates_In",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Fiorentina",
+            "GPE",
+            "Participates_In",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Giovanni Simeone",
+            "PERSON",
+            "Score",
+            "Fiorentina",
+            "GPE"
+        ],
+        [
+            "Mauro Icardi",
+            "PERSON",
+            "Score",
+            "Inter Milan",
+            "GPE"
+        ],
+        [
+            "Diego Simeone",
+            "PERSON",
+            "Father_Of",
+            "Giovanni Simeone",
+            "PERSON"
+        ],
+        [
+            "Atletico Madrid",
+            "GPE",
+            "Employer_Of",
+            "Diego Simeone",
+            "PERSON"
+        ],
+        [
+            "Inter Milan",
+            "GPE",
+            "Operate_In",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Fiorentina",
+            "GPE",
+            "Operate_In",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Napoli",
+            "GPE",
+            "Leader_Of",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Juventus",
+            "GPE",
+            "Second_Place_Of",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Verona",
+            "GPE",
+            "Hosted_By",
+            "Napoli",
+            "GPE"
+        ],
+        [
+            "Cagliari",
+            "GPE",
+            "Hosted_By",
+            "Juventus",
+            "GPE"
+        ],
+        [
+            "Fiorentina",
+            "GPE",
+            "Seventh_Place_Of",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Cyril Thereau",
+            "PERSON",
+            "Miss",
+            "Fiorentina",
+            "GPE"
+        ],
+        [
+            "Inter Milan",
+            "GPE",
+            "Winless_Run_Extend_To",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Inter Milan",
+            "GPE",
+            "Left_On",
+            "42 points",
+            "ECON_INDICATOR",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Napoli",
+            "GPE",
+            "Leader_Of",
+            "Serie A",
+            "EVENT",
+            "6 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Juventus",
+            "GPE",
+            "Second_Place_Of",
+            "Serie A",
+            "EVENT",
+            "5 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fiorentina",
+            "GPE",
+            "Scored",
+            "1 goal",
+            "ECON_INDICATOR",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Inter Milan",
+            "GPE",
+            "Scored",
+            "1 goal",
+            "ECON_INDICATOR",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Marco Sportiello",
+            "PERSON",
+            "Save",
+            "Inter Milan",
+            "GPE"
+        ],
+        [
+            "Federico Chiesa",
+            "PERSON",
+            "Shot",
+            "Inter Milan",
+            "GPE"
+        ],
+        [
+            "Khouma Babacar",
+            "PERSON",
+            "Overhead_Kick",
+            "Inter Milan",
+            "GPE"
+        ],
+        [
+            "Valentin Eysseric",
+            "PERSON",
+            "Assist",
+            "Giovanni Simeone",
+            "PERSON"
+        ],
+        [
+            "Chievo",
+            "GPE",
+            "Hosted",
+            "Udinese",
+            "GPE"
+        ],
+        [
+            "Chievo",
+            "GPE",
+            "Goal_Disallowed",
+            "Udinese",
+            "GPE"
+        ],
+        [
+            "Udinese",
+            "GPE",
+            "Scored",
+            "1 goal",
+            "ECON_INDICATOR",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Chievo",
+            "GPE",
+            "Scored",
+            "1 goal",
+            "ECON_INDICATOR",
+            "Serie A",
+            "EVENT"
+        ],
+        [
+            "Ivan Radovanovic",
+            "PERSON",
+            "Score",
+            "Chievo",
+            "GPE"
+        ],
+        [
+            "Fabrizio Cacciatore",
+            "PERSON",
+            "Offside",
+            "Chievo",
+            "GPE"
+        ],
+        [
+            "Nenad Tomovic",
+            "PERSON",
+            "Own_Goal",
+            "Chievo",
+            "GPE"
+        ]
+    ]
+}

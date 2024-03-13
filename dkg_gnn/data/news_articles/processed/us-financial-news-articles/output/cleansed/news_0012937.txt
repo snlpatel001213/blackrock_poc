@@ -1,0 +1,90 @@
+{
+    "output": [
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Announce",
+            "4Q17 Earnings Webcast",
+            "EVENT"
+        ],
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Operate_In",
+            "Wood-alternative decking and railing industry",
+            "SECTOR"
+        ],
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Issue",
+            "Earnings Release",
+            "EVENT"
+        ],
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Has",
+            "James Cline",
+            "PERSON",
+            "CEO"
+        ],
+        [
+            "Trex Company, Inc.",
+            "COMP",
+            "Has",
+            "Bryan Fairbanks",
+            "PERSON",
+            "CFO"
+        ],
+        [
+            "5:00 PM ET",
+            "TIME",
+            "Relate_To",
+            "Conference Call Date & Time",
+            "EVENT"
+        ],
+        [
+            "February 21st, 2018",
+            "DATE",
+            "Relate_To",
+            "Conference Call Date & Time",
+            "EVENT"
+        ],
+        [
+            "1-844-792-3734",
+            "PHONE",
+            "Relate_To",
+            "Participate on the day of the call",
+            "EVENT"
+        ],
+        [
+            "1-412-317-5126",
+            "PHONE",
+            "Relate_To",
+            "Participate on the day of the call",
+            "EVENT"
+        ],
+        [
+            "trex.com",
+            "WEBSITE",
+            "Relate_To",
+            "4Q17 Earnings Webcast",
+            "EVENT"
+        ],
+        [
+            "trex.com",
+            "WEBSITE",
+            "Relate_To",
+            "Trex Company Website",
+            "WEBSITE"
+        ]
+    ]
+}

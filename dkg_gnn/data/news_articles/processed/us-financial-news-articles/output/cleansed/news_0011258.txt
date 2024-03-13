@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Cryosite Ltd",
+            "COMP",
+            "Relate_To",
+            "Proposed transaction",
+            "EVENT"
+        ],
+        [
+            "Cryosite Ltd",
+            "COMP",
+            "Relate_To",
+            "Cell Care",
+            "COMP"
+        ],
+        [
+            "Proposed transaction",
+            "EVENT",
+            "Not",
+            "Able_To_Be_Completed",
+            "CONCEPT"
+        ]
+    ]
+}

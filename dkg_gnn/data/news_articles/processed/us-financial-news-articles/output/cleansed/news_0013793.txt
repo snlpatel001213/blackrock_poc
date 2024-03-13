@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Houston rental apartment market",
+            "GPE",
+            "Rebound",
+            "null",
+            "null"
+        ],
+        [
+            "Houston rental apartment market",
+            "GPE",
+            "Relate_To",
+            "Overbuilding",
+            "CONCEPT"
+        ],
+        [
+            "Houston rental apartment market",
+            "GPE",
+            "Relate_To",
+            "Weak Energy Sector",
+            "CONCEPT"
+        ],
+        [
+            "Apartment rents",
+            "PRODUCT",
+            "Grow",
+            "Strongly",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Occupancy",
+            "PRODUCT",
+            "Grow",
+            "Strongly",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next five years",
+            "TIME",
+            "Relate_To",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Houston rental apartment market",
+            "GPE",
+            "Relate_To",
+            "Stronger Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve Bank of Dallas",
+            "ORG/REG",
+            "Project",
+            "3% Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Texas\u2019 economy",
+            "GPE",
+            "Relate_To",
+            "3% Growth",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

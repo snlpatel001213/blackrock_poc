@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Say",
+            "Contract",
+            "ORG"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Contract",
+            "ORG"
+        ],
+        [
+            "Contract",
+            "EVENT",
+            "Relate_To",
+            "Airbus A320s",
+            "PRODUCT"
+        ],
+        [
+            "Airbus A320s",
+            "PRODUCT",
+            "Has",
+            "184",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Say",
+            "Order",
+            "EVENT"
+        ],
+        [
+            "Order",
+            "EVENT",
+            "Relate_To",
+            "Airbus A320s",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Confirm",
+            "Order",
+            "EVENT"
+        ],
+        [
+            "Order",
+            "EVENT",
+            "Relate_To",
+            "Airbus A320s",
+            "PRODUCT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Ambition",
+            "CONCEPT"
+        ],
+        [
+            "Ambition",
+            "CONCEPT",
+            "Relate_To",
+            "Sell",
+            "VERB"
+        ],
+        [
+            "Sell",
+            "VERB",
+            "Relate_To",
+            "A350",
+            "PRODUCT"
+        ],
+        [
+            "Sell",
+            "VERB",
+            "Relate_To",
+            "A380",
+            "PRODUCT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Say",
+            "Assure",
+            "VERB"
+        ],
+        [
+            "Assure",
+            "VERB",
+            "Relate_To",
+            "Respect",
+            "VERB"
+        ],
+        [
+            "Respect",
+            "VERB",
+            "Relate_To",
+            "Market Share Parity",
+            "CONCEPT"
+        ],
+        [
+            "Market Share Parity",
+            "CONCEPT",
+            "Relate_To",
+            "Airbus",
+            "ORG"
+        ],
+        [
+            "Market Share Parity",
+            "CONCEPT",
+            "Relate_To",
+            "Boeing",
+            "ORG"
+        ]
+    ]
+}

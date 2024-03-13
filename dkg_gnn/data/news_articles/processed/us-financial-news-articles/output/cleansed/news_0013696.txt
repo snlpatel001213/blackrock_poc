@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Mohamed Anwar Sadat",
+            "PERSON",
+            "Announce",
+            "not seek country\u2019s presidency",
+            "EVENT"
+        ],
+        [
+            "Mohamed Anwar Sadat",
+            "PERSON",
+            "Negative_Impact_On",
+            "presidential election",
+            "EVENT"
+        ],
+        [
+            "President Abdel Fattah Al Sisi",
+            "PERSON",
+            "Participates_In",
+            "presidential election",
+            "EVENT"
+        ],
+        [
+            "state-backed incumbent",
+            "PERSON/GOV",
+            "Control",
+            "presidential election",
+            "EVENT"
+        ],
+        [
+            "Mohamed Anwar Sadat",
+            "PERSON",
+            "Is_Member_Of",
+            "CAIRO",
+            "GPE"
+        ],
+        [
+            "other would-be challengers",
+            "PERSON",
+            "Relate_To",
+            "presidential election",
+            "EVENT"
+        ],
+        [
+            "other would-be challengers",
+            "PERSON",
+            "Jail",
+            "null",
+            "null"
+        ],
+        [
+            "other would-be challengers",
+            "PERSON",
+            "Put on trial",
+            "null",
+            "null"
+        ]
+    ]
+}

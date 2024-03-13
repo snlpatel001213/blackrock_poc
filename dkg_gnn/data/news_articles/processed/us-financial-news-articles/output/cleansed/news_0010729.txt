@@ -1,0 +1,47 @@
+{
+    "output": [
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Says",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Destination Wealth Management",
+            "ORG",
+            "Is_Member_Of",
+            "Michael Yoshikami",
+            "PERSON"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Could_Hit",
+            "US Market Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Market Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Does_Not_See",
+            "Signs_Of_Stronger_Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Michael Yoshikami",
+            "PERSON",
+            "Is_Upbeat",
+            "On",
+            "Earnings_In_2018",
+            "CONCEPT"
+        ]
+    ]
+}

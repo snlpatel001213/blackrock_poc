@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "World stock markets",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "all-time highs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "European shares",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "two year high",
+            "GPE"
+        ],
+        [
+            "Global growth",
+            "CONCEPT",
+            "Relate_To",
+            "strong",
+            "CONCEPT"
+        ],
+        [
+            "Limited inflation",
+            "CONCEPT",
+            "Relate_To",
+            "limited",
+            "CONCEPT"
+        ]
+    ]
+}

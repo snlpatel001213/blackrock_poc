@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "EasyJet",
+            "COMP",
+            "Aim",
+            "18 million Passenger Numbers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "EasyJet",
+            "COMP",
+            "Take_Over",
+            "Some Operations",
+            "OPER/GOV"
+        ],
+        [
+            "EasyJet",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "EasyJet",
+            "COMP",
+            "Compete_With",
+            "Lufthansa",
+            "COMP"
+        ],
+        [
+            "Air Berlin",
+            "COMP",
+            "Fail",
+            "null",
+            "null"
+        ]
+    ]
+}

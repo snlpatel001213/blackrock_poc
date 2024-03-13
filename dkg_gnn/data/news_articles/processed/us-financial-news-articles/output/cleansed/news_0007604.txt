@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "One Powerball ticket",
+            "PRODUCT",
+            "Sell",
+            "Powerball jackpot",
+            "EVENT"
+        ],
+        [
+            "One Powerball ticket",
+            "PRODUCT",
+            "Purchase",
+            "New Hampshire",
+            "GPE"
+        ],
+        [
+            "Powerball ticket",
+            "PRODUCT",
+            "Match",
+            "six numbers",
+            "CONCEPT"
+        ],
+        [
+            "Powerball ticket",
+            "PRODUCT",
+            "Participates_In",
+            "Saturday\u2019s estimated $570 million jackpot drawing",
+            "EVENT"
+        ],
+        [
+            "Powerball",
+            "PRODUCT",
+            "Relate_To",
+            "15-year history",
+            "CONCEPT"
+        ],
+        [
+            "winning numbers",
+            "CONCEPT",
+            "Equal",
+            "12, 29, 30, 33, 61 and Powerball 26",
+            "COMP"
+        ],
+        [
+            "winner or winners",
+            "PERSON",
+            "Not_release",
+            "Identity",
+            "CONCEPT"
+        ],
+        [
+            "winner",
+            "PERSON",
+            "Select",
+            "lump-sum option",
+            "CONCEPT"
+        ],
+        [
+            "winner",
+            "PERSON",
+            "Receive",
+            "onetime payout",
+            "CONCEPT"
+        ],
+        [
+            "onetime payout",
+            "CONCEPT",
+            "Equal",
+            "$358 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Multi-State Lottery Association",
+            "ORG",
+            "State",
+            "odds",
+            "CONCEPT"
+        ],
+        [
+            "odds",
+            "CONCEPT",
+            "Equal",
+            "292 million to 1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "winning Powerball ticket",
+            "PRODUCT",
+            "Sell",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "winning Mega Millions ticket",
+            "PRODUCT",
+            "Sell",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "winning Mega Millions ticket",
+            "PRODUCT",
+            "Worth",
+            "$450 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "winning Powerball ticket",
+            "PRODUCT",
+            "Participates_In",
+            "combined the two lottery grand prizes topped $1 billion",
+            "CONCEPT"
+        ],
+        [
+            "Powerball",
+            "PRODUCT",
+            "Largest",
+            "$1.6-billion payout",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Powerball tickets",
+            "PRODUCT",
+            "Sell",
+            "44 states",
+            "GPE"
+        ],
+        [
+            "Powerball tickets",
+            "PRODUCT",
+            "Sell",
+            "Washington, D.C., Puerto Rico and the U.S. Virgin Islands",
+            "GPE"
+        ]
+    ]
+}

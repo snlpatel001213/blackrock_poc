@@ -1,0 +1,118 @@
+{
+    "output": [
+        [
+            "ICC",
+            "ORG/REG",
+            "Approve",
+            "Perth Stadium",
+            "GPE"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Take_Over",
+            "Hosting_Duties",
+            "ORG_ACTIVITY"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Operate_In",
+            "Western_Australia",
+            "GPE"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Host",
+            "Fifth_One_Day_International",
+            "EVENT"
+        ],
+        [
+            "Cricket_Australia",
+            "ORG",
+            "CEO",
+            "James_Sutherland",
+            "PERSON"
+        ],
+        [
+            "Cricket_Australia",
+            "ORG",
+            "Look_Forward",
+            "Bring",
+            "EVENT"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Host",
+            "Matches",
+            "EVENT"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Host",
+            "Domestic_Big_Bash_League",
+            "EVENT"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Host",
+            "Australian_Rules_Football",
+            "EVENT"
+        ],
+        [
+            "Perth Stadium",
+            "GPE",
+            "Host",
+            "Soccer",
+            "EVENT"
+        ],
+        [
+            "ICC_Match_Referee",
+            "ORG/REG",
+            "Richie_Richardson",
+            "Inspect",
+            "Perth_Stadium",
+            "GPE"
+        ],
+        [
+            "Richie_Richardson",
+            "PERSON",
+            "Recommend",
+            "Approve",
+            "Perth_Stadium",
+            "GPE"
+        ],
+        [
+            "Perth_Stadium",
+            "GPE",
+            "Host",
+            "Three_Formats_of_International_Cricket",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Home_Side",
+            "Dominant_Win",
+            "EVENT"
+        ],
+        [
+            "WACA",
+            "GPE",
+            "Turn_Into",
+            "Boutique_Ground",
+            "GPE"
+        ],
+        [
+            "WACA",
+            "GPE",
+            "Capacity",
+            "10000-15000",
+            "NUMBER"
+        ]
+    ]
+}

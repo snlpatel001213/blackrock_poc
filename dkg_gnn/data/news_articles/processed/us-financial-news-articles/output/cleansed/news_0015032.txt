@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Engage",
+            "Brad Falchuk",
+            "PERSON"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Accept",
+            "Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Give",
+            "Marriage",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Decide",
+            "Give",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Find",
+            "Man",
+            "PERSON"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Create",
+            "Goop",
+            "COMP"
+        ],
+        [
+            "Goop",
+            "COMP",
+            "Promote",
+            "Healthy Eating",
+            "CONCEPT"
+        ],
+        [
+            "Goop",
+            "COMP",
+            "Promote",
+            "Stress-free Living",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Finalize",
+            "Divorce",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Have",
+            "Children",
+            "CONCEPT"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Date",
+            "Brad Falchuk",
+            "PERSON"
+        ],
+        [
+            "Brad Falchuk",
+            "PERSON",
+            "Co-create",
+            "Glee",
+            "COMP"
+        ],
+        [
+            "Brad Falchuk",
+            "PERSON",
+            "Work",
+            "Together",
+            "VERB"
+        ],
+        [
+            "Brad Falchuk",
+            "PERSON",
+            "Answer",
+            "Quiz",
+            "COMP"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Poses",
+            "For",
+            "VERB"
+        ],
+        [
+            "Gwyneth Paltrow",
+            "PERSON",
+            "Win",
+            "Oscar",
+            "AWARD"
+        ]
+    ]
+}

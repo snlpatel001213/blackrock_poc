@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Cardlytics",
+            "COMP",
+            "Announce",
+            "Sathish Gaddipati",
+            "PERSON"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Operate_In",
+            "Cardlytics",
+            "COMP"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "Platform Engineering",
+            "CONCEPT"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "Technical Product Management",
+            "CONCEPT"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "Software Development",
+            "CONCEPT"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "Data Engineering",
+            "CONCEPT"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "Quality Assurance",
+            "CONCEPT"
+        ],
+        [
+            "Sathish Gaddipati",
+            "PERSON",
+            "Has",
+            "IT Operations",
+            "CONCEPT"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Control",
+            "Platform",
+            "CONCEPT"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Impact",
+            "Financial Institutions",
+            "GPE"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Relate_To",
+            "Purchase Spend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Relate_To",
+            "Debit and Credit Card Swipes",
+            "CONCEPT"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Operate_In",
+            "Atlanta",
+            "GPE"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Operate_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "Cardlytics",
+            "COMP",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ]
+    ]
+}

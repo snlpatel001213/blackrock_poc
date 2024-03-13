@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Snap",
+            "COMP",
+            "Downgrade_Rating",
+            "Hold",
+            "RATING"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Downgrade_Rating",
+            "Snap",
+            "COMP"
+        ],
+        [
+            "Brent Thill",
+            "PERSON",
+            "Discuss",
+            "Snap_Downgrade",
+            "EVENT"
+        ],
+        [
+            "Jefferies",
+            "ORG",
+            "Employs",
+            "Brent Thill",
+            "PERSON"
+        ]
+    ]
+}

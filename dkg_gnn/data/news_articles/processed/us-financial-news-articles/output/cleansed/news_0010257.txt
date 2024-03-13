@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Enter",
+            "Letter Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Collaboration",
+            "Sanofi Biotechnology SAS",
+            "ORG"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Increase",
+            "REGN2810 Budget Amount",
+            "CONCEPT"
+        ],
+        [
+            "REGN2810",
+            "PRODUCT",
+            "Budget Amount",
+            "$1.640 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Relate_To",
+            "Investor Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Agreed",
+            "Revise REGN2810 Global Development Plan",
+            "CONCEPT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc",
+            "COMP",
+            "Agreed",
+            "Revise REGN2810 Global Development Budget",
+            "CONCEPT"
+        ]
+    ]
+}

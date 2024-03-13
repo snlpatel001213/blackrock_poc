@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Name",
+            "Brandon Lewis",
+            "PERSON"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Operate_In",
+            "Conservative Party",
+            "ORG"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Operate_In",
+            "Conservative Party",
+            "ORG"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Has",
+            "Party Chairman",
+            "PERSON"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Has",
+            "Party Chairman",
+            "PERSON"
+        ],
+        [
+            "William James",
+            "PERSON",
+            "Reporting",
+            "Lewis\u2019s Appointment",
+            "EVENT"
+        ],
+        [
+            "Elizabeth Piper",
+            "PERSON",
+            "Editing",
+            "Lewis\u2019s Appointment",
+            "EVENT"
+        ]
+    ]
+}

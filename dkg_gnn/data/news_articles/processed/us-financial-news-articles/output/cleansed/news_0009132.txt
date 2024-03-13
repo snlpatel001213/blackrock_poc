@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Israel",
+            "GPE",
+            "Control",
+            "Settlements",
+            "COMP"
+        ],
+        [
+            "Avigdor Lieberman",
+            "PERSON",
+            "Announce",
+            "Construction",
+            "COMP"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Operate_In",
+            "Occupied West Bank",
+            "GPE"
+        ],
+        [
+            "Jewish Settler",
+            "PERSON",
+            "Locate_In",
+            "Disputed Building",
+            "COMP"
+        ],
+        [
+            "Settlements",
+            "COMP",
+            "Relate_To",
+            "Israeli-Palestinian Peace Talks",
+            "CONCEPT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Want",
+            "West Bank",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Dispute",
+            "Illegality of Settlements",
+            "CONCEPT"
+        ],
+        [
+            "Israeli Authorities",
+            "ORG",
+            "Approve",
+            "Construction of Housing Units",
+            "COMP"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Say",
+            "Israeli Settlements Deny Them",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Broker",
+            "Peace Talks",
+            "CONCEPT"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Visit",
+            "Region",
+            "GPE"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Try",
+            "Restart Peace Talks",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem as Israel Capital",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Move",
+            "Embassy from Tel Aviv",
+            "GPE"
+        ]
+    ]
+}

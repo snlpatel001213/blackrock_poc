@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Irvine, Calif.-based Attom Data Solutions",
+            "ORG",
+            "Has",
+            "Record Down Payment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Attom Data Solutions",
+            "ORG",
+            "Operate_In",
+            "Housing Research",
+            "SECTOR"
+        ],
+        [
+            "Attom Data Solutions",
+            "ORG",
+            "Announce",
+            "Down Payment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Down Payment",
+            "ECON_INDICATOR",
+            "Impact",
+            "Home-purchases",
+            "EVENT"
+        ],
+        [
+            "Down Payment",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Sales Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Down Payment",
+            "ECON_INDICATOR",
+            "Positive_Impact_On",
+            "Financed Home-purchases",
+            "EVENT"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "Participates_In",
+            "Multiple Offers",
+            "EVENT"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "Impact",
+            "Home-purchases",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lawrence Yun",
+            "PERSON",
+            "Forecast",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Association of Realtors",
+            "ORG",
+            "Is_Member_Of",
+            "Real Estate Trade Group",
+            "SECTOR"
+        ],
+        [
+            "BBMC Mortgage",
+            "ORG",
+            "Offer",
+            "Jumbo Mortgage",
+            "PRODUCT"
+        ],
+        [
+            "Quicken Loans",
+            "ORG",
+            "Require",
+            "Down Payments",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jumbo Jungle",
+            "PRODUCT",
+            "Provide",
+            "Tips",
+            "CONCEPT"
+        ],
+        [
+            "Fannie Mae",
+            "ORG",
+            "Purchase",
+            "Mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Freddie Mac",
+            "ORG",
+            "Purchase",
+            "Mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Conforming-loan limits",
+            "ECON_INDICATOR",
+            "Change",
+            "Loan Limits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MarketWatch",
+            "ORG",
+            "Provide",
+            "Financial News",
+            "CONCEPT"
+        ]
+    ]
+}

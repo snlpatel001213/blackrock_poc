@@ -1,0 +1,92 @@
+{
+    "output": [
+        [
+            "PetroChina",
+            "COMP",
+            "Operate_In",
+            "Indonesia",
+            "GPE"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Operate",
+            "Jabung block",
+            "COMP"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Operate",
+            "Tuban block",
+            "COMP"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Control",
+            "contract",
+            "ECON_INDICATOR",
+            1,
+            "Expire",
+            "2018",
+            "DATE"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Interest",
+            "East Kalimantan block",
+            "COMP"
+        ],
+        [
+            "Chevron",
+            "COMP",
+            "Operate",
+            "East Kalimantan block",
+            "COMP"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Interest",
+            "Mahakam offshore gas block",
+            "COMP"
+        ],
+        [
+            "Pertamina",
+            "COMP",
+            "Operate",
+            "Mahakam offshore gas block",
+            "COMP"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Target",
+            "output",
+            "ECON_INDICATOR",
+            2,
+            "100000",
+            "BOEPD",
+            "PRODUCT",
+            1,
+            "2018",
+            "DATE"
+        ],
+        [
+            "PetroChina",
+            "COMP",
+            "Control",
+            "output",
+            "ECON_INDICATOR",
+            2,
+            "95000",
+            "BOEPD",
+            "PRODUCT",
+            1,
+            "2017",
+            "DATE"
+        ]
+    ]
+}

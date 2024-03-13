@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Electronic Arts",
+            "COMP",
+            "Control",
+            "Star Wars",
+            "EVENT"
+        ],
+        [
+            "BMO Capital Markets",
+            "ORG",
+            "Raise",
+            "EA's Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "EA",
+            "COMP",
+            "Operate_In",
+            "Gaming Sector",
+            "SECTOR"
+        ],
+        [
+            "EA",
+            "COMP",
+            "Negative_Impact_On",
+            "Star Wars",
+            "EVENT"
+        ],
+        [
+            "Gaming Community",
+            "PERSON",
+            "Criticize",
+            "EA",
+            "COMP"
+        ],
+        [
+            "EA",
+            "COMP",
+            "Relate_To",
+            "In-game Transactions",
+            "CONCEPT"
+        ]
+    ]
+}

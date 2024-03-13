@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Starbucks",
+            "COMP",
+            "Has",
+            "Dismissal of U.S. Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Accuse",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Overcharge",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Underfill",
+            "Lattes and Mochas",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Reduce",
+            "Milk Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. District Judge Yvonne Gonzalez Rogers",
+            "PERSON",
+            "Find",
+            "Lack of Evidence",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Not Cheat",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Make",
+            "Cups",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Use",
+            "Fill-to Lines",
+            "PRODUCT"
+        ],
+        [
+            "Baristas",
+            "PERSON",
+            "Pour",
+            "Cold Milk",
+            "PRODUCT"
+        ],
+        [
+            "Cold Milk",
+            "PRODUCT",
+            "Expand",
+            "When Steamed",
+            "CONCEPT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Dismiss",
+            "Two Federal Judges",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Cheat",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Buy",
+            "Iced Beverages",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Contain",
+            "Espresso",
+            "PRODUCT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Steamed Milk",
+            "PRODUCT"
+        ],
+        [
+            "Lattes",
+            "PRODUCT",
+            "Contain",
+            "Foam",
+            "PRODUCT"
+        ],
+        [
+            "Mochas",
+            "PRODUCT",
+            "Contain",
+            "Chocolate Sauce",
+            "PRODUCT"
+        ],
+        [
+            "Siera Strumlauf",
+            "PERSON",
+            "Accuse",
+            "Starbucks",
+            "COMP"
+        ],
+        [
+            "Benjamin Robles",
+            "PERSON",
+            "Accuse",
+            "Starbucks",
+            "COMP"
+        ],
+        [
+            "Brittany Crittenden",
+            "PERSON",
+            "Accuse",
+            "Starbucks",
+            "COMP"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Fraud",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "False Advertising",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Underfill",
+            "12-, 16- and 20-ounce Lattes",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Cause",
+            "Unspecified Damages",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

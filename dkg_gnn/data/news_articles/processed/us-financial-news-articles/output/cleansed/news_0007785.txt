@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Focuses_On",
+            "Infrareit Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Infrareit Inc",
+            "COMP",
+            "Operate_In",
+            "Going Private Transaction",
+            "CONCEPT"
+        ],
+        [
+            "Infrareit Inc",
+            "COMP",
+            "Control",
+            "Publicly Traded Entity",
+            "CONCEPT"
+        ],
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Participates_In",
+            "Discussions",
+            "CONCEPT"
+        ],
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Invests_In",
+            "Interested Investors",
+            "ORG"
+        ],
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Invests_In",
+            "Third-Party Investors",
+            "ORG"
+        ],
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Has",
+            "26.4 Percent Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hunt Consolidated",
+            "ORG",
+            "Has",
+            "Stake",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Infrareit Inc",
+            "COMP",
+            "Relate_To",
+            "January 16",
+            "DATE"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Ampliphi Biosciences Corp",
+            "COMP",
+            "Announce",
+            "Pricing Of $4 Mln Public Offering Of Common Stock",
+            "EVENT"
+        ],
+        [
+            "Ampliphi Biosciences Corp",
+            "COMP",
+            "Control",
+            "4 Million Common Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "4 Million Common Shares",
+            "FIN_INSTRUMENT",
+            "Priced At",
+            "$1.00 Per Share",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

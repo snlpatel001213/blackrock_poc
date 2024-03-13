@@ -1,0 +1,152 @@
+{
+    "output": [
+        [
+            "Toronto",
+            "GPE",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Has",
+            "Municipal Shelters",
+            "ORG"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Has",
+            "International Airport",
+            "ORG"
+        ],
+        [
+            "Toronto",
+            "GPE",
+            "Coldest",
+            "Jan. 5 on record",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Announce",
+            "Open Toronto armories",
+            "ORG"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Federal Government",
+            "Announce",
+            "Open Toronto armories",
+            "ORG"
+        ],
+        [
+            "Toronto Mayor John Tory",
+            "PERSON",
+            "Vote",
+            "Against the measure",
+            "CONCEPT"
+        ],
+        [
+            "Cathy Crowe",
+            "PERSON",
+            "Worried",
+            "People would freeze to death",
+            "EVENT"
+        ],
+        [
+            "Cathy Crowe",
+            "PERSON",
+            "Street Nurse",
+            "30 years",
+            "CONCEPT"
+        ],
+        [
+            "Bluewater",
+            "GPE",
+            "Cold Contributed",
+            "Death of an elderly couple",
+            "EVENT"
+        ],
+        [
+            "Nova Scotia",
+            "GPE",
+            "Power Customers",
+            "Without power",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nova Scotia Power",
+            "COMP",
+            "Restore Power",
+            "243,000 customers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Brunswick",
+            "GPE",
+            "Power Customers",
+            "Without power",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Power Customers",
+            "Without power",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Anna Mehler Paperny in Toronto",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Allison Lampert in Montreal",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Additional Reporting",
+            "Darren Calabrese in Halifax",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Additional Reporting",
+            "Scott Disavino in New York",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Writing",
+            "Andrew Hay",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Editing",
+            "Dave Gregorio",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Editing",
+            "Jonathan Oatis",
+            "PERSON"
+        ]
+    ]
+}

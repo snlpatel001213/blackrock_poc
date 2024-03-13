@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "fintech",
+            "CONCEPT",
+            "Relate_To",
+            "Finance",
+            "SECTOR"
+        ],
+        [
+            "fintech",
+            "CONCEPT",
+            "Relate_To",
+            "Technology",
+            "SECTOR"
+        ],
+        [
+            "Mobile Check Deposit",
+            "PRODUCT",
+            "Participates_In",
+            "fintech",
+            "CONCEPT"
+        ],
+        [
+            "Robo Advisers",
+            "PRODUCT",
+            "Participates_In",
+            "fintech",
+            "CONCEPT"
+        ],
+        [
+            "Cryptocurrencies",
+            "PRODUCT",
+            "Relate_To",
+            "Blockchain Technology",
+            "CONCEPT"
+        ],
+        [
+            "Blockchain Technology",
+            "CONCEPT",
+            "Relate_To",
+            "Fintech",
+            "CONCEPT"
+        ]
+    ]
+}

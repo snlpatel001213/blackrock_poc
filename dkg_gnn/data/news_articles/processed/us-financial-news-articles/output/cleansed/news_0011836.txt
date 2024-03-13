@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Curetis Nv",
+            "COMP",
+            "Expects",
+            "FDA Decision",
+            "EVENT"
+        ],
+        [
+            "Curetis Nv",
+            "COMP",
+            "Review",
+            "Unyvero System",
+            "PRODUCT"
+        ],
+        [
+            "Unyvero System",
+            "PRODUCT",
+            "Relate_To",
+            "LRT Cartridge",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "output": [
+        [
+            "Murders",
+            "ECON_INDICATOR",
+            "Decrease",
+            "America\u2019s Largest Cities",
+            "GPE"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Has",
+            "Lowest Levels of Deadly Violence",
+            "CONCEPT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Has",
+            "Modern History",
+            "CONCEPT"
+        ],
+        [
+            "Murders",
+            "ECON_INDICATOR",
+            "Decrease",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Killings",
+            "ECON_INDICATOR",
+            "Stay_Below",
+            "300",
+            "NUMBER",
+            "Yearly",
+            "TIME"
+        ],
+        [
+            "Los Angeles",
+            "GPE",
+            "Has",
+            "Killings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Los Angeles",
+            "GPE",
+            "Has",
+            "Stayed_Below",
+            "300",
+            "NUMBER",
+            "Yearly",
+            "TIME"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Say",
+            "Murders_Dropped",
+            "EVENT",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Data",
+            "PRODUCT",
+            "From",
+            "Police",
+            "ORG",
+            "Federal Bureau of Investigation",
+            "ORG/GOV"
+        ],
+        [
+            "FBI",
+            "ORG/GOV",
+            "Has",
+            "Data",
+            "PRODUCT"
+        ]
+    ]
+}

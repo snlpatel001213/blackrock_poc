@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Announce",
+            "Changes",
+            "ORG"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Operate_In",
+            "British Government",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Impact",
+            "Voters",
+            "GPE"
+        ],
+        [
+            "British Prime Minister",
+            "ORG/GOV",
+            "Has",
+            "Theresa May",
+            "PERSON"
+        ],
+        [
+            "British Prime Minister",
+            "ORG/GOV",
+            "Participates_In",
+            "Reshuffle",
+            "EVENT"
+        ],
+        [
+            "Sunday Times",
+            "COMP",
+            "Relate_To",
+            "Reshuffle",
+            "EVENT"
+        ],
+        [
+            "Sunday Times",
+            "COMP",
+            "Relate_To",
+            "Ministerial Cabinet",
+            "ORG"
+        ],
+        [
+            "Ministerial Cabinet",
+            "ORG",
+            "Has",
+            "Foreign Minister",
+            "PERSON"
+        ],
+        [
+            "Ministerial Cabinet",
+            "ORG",
+            "Has",
+            "Finance Minister",
+            "PERSON"
+        ],
+        [
+            "Ministerial Cabinet",
+            "ORG",
+            "Has",
+            "Interior Minister",
+            "PERSON"
+        ],
+        [
+            "Ministerial Cabinet",
+            "ORG",
+            "Has",
+            "Brexit Minister",
+            "PERSON"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "Ministerial Cabinet",
+            "ORG"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "Foreign Ministry",
+            "GPE"
+        ],
+        [
+            "Philip Hammond",
+            "PERSON",
+            "Is_Member_Of",
+            "Ministerial Cabinet",
+            "ORG"
+        ],
+        [
+            "Philip Hammond",
+            "PERSON",
+            "Is_Member_Of",
+            "Finance Ministry",
+            "GPE"
+        ],
+        [
+            "Amber Rudd",
+            "PERSON",
+            "Is_Member_Of",
+            "Ministerial Cabinet",
+            "ORG"
+        ],
+        [
+            "Amber Rudd",
+            "PERSON",
+            "Is_Member_Of",
+            "Interior Ministry",
+            "GPE"
+        ],
+        [
+            "David Davis",
+            "PERSON",
+            "Is_Member_Of",
+            "Ministerial Cabinet",
+            "ORG"
+        ],
+        [
+            "David Davis",
+            "PERSON",
+            "Is_Member_Of",
+            "Brexit Ministry",
+            "GPE"
+        ],
+        [
+            "Patrick McLoughlin",
+            "PERSON",
+            "Participates_In",
+            "Lose Job",
+            "EVENT"
+        ],
+        [
+            "Justine Greening",
+            "PERSON",
+            "Participates_In",
+            "Move to Different Role",
+            "EVENT"
+        ],
+        [
+            "Greg Clark",
+            "PERSON",
+            "Participates_In",
+            "Lose Job",
+            "EVENT"
+        ],
+        [
+            "Andrea Leadsom",
+            "PERSON",
+            "Participates_In",
+            "Move to Different Role",
+            "EVENT"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Runs",
+            "Neck and Neck",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Split",
+            "Differences",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Seek",
+            "Relationship",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG",
+            "Has",
+            "Britain",
+            "GPE"
+        ]
+    ]
+}

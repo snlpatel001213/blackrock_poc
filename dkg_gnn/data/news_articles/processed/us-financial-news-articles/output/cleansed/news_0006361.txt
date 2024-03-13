@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "U.S.-Korea trade deal",
+            "ORG/GOV"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Negative_Impact_On",
+            "U.S.-Korea trade deal",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "hard line",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "review of the 2012 Korea deal",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Participates_In",
+            "NAFTA talks",
+            "ORG/GOV"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "NAFTA talks",
+            "ORG/GOV"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Participates_In",
+            "NAFTA talks",
+            "ORG/GOV"
+        ],
+        [
+            "U.S.-Korea Free Trade Agreement",
+            "ORG/GOV",
+            "Impact",
+            "U.S. goods trade deficit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "tariff of 25 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Produce",
+            "Korean pickup trucks",
+            "PRODUCT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "two major automakers",
+            "COMP"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "non-tariff barriers",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Has",
+            "vehicle emissions targets",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "nuclear threat",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Offer",
+            "opening to diplomacy",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "high-level talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "high-level talks",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Seoul and Washington",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Seoul and Washington",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "Beijing and Moscow",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Seoul and Washington",
+            "GPE"
+        ],
+        [
+            "Left of center government",
+            "CONCEPT",
+            "Relate_To",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Right of center South Korean administrations",
+            "CONCEPT",
+            "Relate_To",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Relate_To",
+            "economic and other links",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "trade hawks",
+            "CONCEPT"
+        ],
+        [
+            "KORUS",
+            "ORG/GOV",
+            "Relate_To",
+            "U.S.-Korea trade deal",
+            "ORG/GOV"
+        ]
+    ]
+}

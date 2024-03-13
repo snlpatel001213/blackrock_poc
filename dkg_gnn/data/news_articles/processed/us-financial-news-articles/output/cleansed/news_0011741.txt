@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Has",
+            "Executive Chairman",
+            "ORG"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Operate_In",
+            "Right-Wing News",
+            "SECTOR"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Quote",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Step_Down",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Statement",
+            "Larry Solov",
+            "PERSON"
+        ],
+        [
+            "Larry Solov",
+            "PERSON",
+            "Is_Member_Of",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Contribute",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Accomplish",
+            "Breitbart News",
+            "ORG"
+        ]
+    ]
+}

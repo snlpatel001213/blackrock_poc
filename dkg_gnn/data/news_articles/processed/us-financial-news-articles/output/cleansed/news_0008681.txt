@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Offer",
+            "Ablynx",
+            "ORG"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Reject",
+            "Novo Nordisk Offer",
+            "ORG/GOV"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Predict",
+            "Counterbidders",
+            "ORG"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Raise",
+            "Bid",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Specialize",
+            "Nano-bodies",
+            "CONCEPT"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Partner",
+            "Pharmaceutical Companies",
+            "ORG"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Attracted",
+            "Caplacizumab",
+            "PRODUCT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Face",
+            "Uphaval",
+            "CONCEPT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Make",
+            "Insulin",
+            "PRODUCT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Sell",
+            "Diabetes Treatments",
+            "PRODUCT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Pay",
+            "Ablynx",
+            "ORG"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "First",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Discuss",
+            "Takeover",
+            "EVENT"
+        ],
+        [
+            "Novo Nordisk",
+            "ORG/GOV",
+            "Premature",
+            "Speculate",
+            "CONCEPT"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Listed",
+            "Belgium Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Target",
+            "Diseases",
+            "CONCEPT"
+        ],
+        [
+            "Ablynx",
+            "ORG",
+            "Undergoing",
+            "Medical Trials",
+            "EVENT"
+        ],
+        [
+            "Evercore",
+            "ORG",
+            "Advise",
+            "Novo Nordisk",
+            "ORG/GOV"
+        ],
+        [
+            "JP Morgan",
+            "ORG",
+            "Work",
+            "Ablynx",
+            "ORG"
+        ]
+    ]
+}

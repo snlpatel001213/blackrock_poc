@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Fidelity International",
+            "ORG",
+            "Invests_In",
+            "Japanese Equities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sonja Laud",
+            "PERSON",
+            "Is_Member_Of",
+            "Fidelity International",
+            "ORG"
+        ],
+        [
+            "Sonja Laud",
+            "PERSON",
+            "Role",
+            "Head of Equity",
+            "SECTOR"
+        ],
+        [
+            "Japanese Equities",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Earnings Growth Projections",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

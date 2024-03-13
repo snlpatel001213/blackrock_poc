@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Federal Reserve",
+            "ORG/GOV"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Control",
+            "Interest Rates",
+            "CONCEPT"
+        ],
+        [
+            "Interest Rates",
+            "CONCEPT",
+            "Impact",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Labor Market",
+            "CONCEPT"
+        ],
+        [
+            "Labor Market",
+            "CONCEPT",
+            "Impact",
+            "Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Job Growth",
+            "CONCEPT",
+            "Impact",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Corporate Income Tax Rate",
+            "CONCEPT"
+        ],
+        [
+            "Corporate Income Tax Rate",
+            "CONCEPT",
+            "Relate_To",
+            "Tax Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Tax Cuts",
+            "CONCEPT",
+            "Impact",
+            "Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Treasury Yields",
+            "CONCEPT"
+        ],
+        [
+            "Treasury Yields",
+            "CONCEPT",
+            "Impact",
+            "Market View",
+            "CONCEPT"
+        ],
+        [
+            "Market View",
+            "CONCEPT",
+            "Relate_To",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "10-year Bond",
+            "PRODUCT"
+        ],
+        [
+            "10-year Bond",
+            "PRODUCT",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ],
+        [
+            "Bond Market",
+            "SECTOR",
+            "Relate_To",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Bond Trading",
+            "ACTIVITY"
+        ],
+        [
+            "Bond Trading",
+            "ACTIVITY",
+            "Relate_To",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Two-year Notes",
+            "PRODUCT"
+        ],
+        [
+            "Two-year Notes",
+            "PRODUCT",
+            "Operate_In",
+            "Note Market",
+            "SECTOR"
+        ],
+        [
+            "Note Market",
+            "SECTOR",
+            "Relate_To",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Note Trading",
+            "ACTIVITY"
+        ],
+        [
+            "Note Trading",
+            "ACTIVITY",
+            "Relate_To",
+            "Market",
+            "CONCEPT"
+        ]
+    ]
+}

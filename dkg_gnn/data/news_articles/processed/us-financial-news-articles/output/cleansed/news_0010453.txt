@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Venezuela Government",
+            "ORG/GOV",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Venezuela Opposition",
+            "ORG",
+            "Participates_In",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Dominican Republic",
+            "GPE",
+            "Host",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Jorge Pineda",
+            "PERSON",
+            "Report",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Experience",
+            "Shortages",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela Opposition",
+            "ORG",
+            "Demand",
+            "Humanitarian Assistance",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela Opposition",
+            "ORG",
+            "Call",
+            "Release",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela Government",
+            "ORG/GOV",
+            "Want",
+            "Elimination",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela Government",
+            "ORG/GOV",
+            "Experience",
+            "Economic Woes",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela Government",
+            "ORG/GOV",
+            "Experience",
+            "Debt Restructure",
+            "CONCEPT"
+        ],
+        [
+            "Danilo Medina",
+            "PERSON",
+            "Lead",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Bolivia",
+            "GPE",
+            "Participate",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Participate",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Participate",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Nicaragua",
+            "GPE",
+            "Participate",
+            "Negotiations",
+            "EVENT"
+        ],
+        [
+            "Chile",
+            "GPE",
+            "Threaten",
+            "Withdraw",
+            "EVENT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Evaluate",
+            "Participation",
+            "EVENT"
+        ],
+        [
+            "Vatican",
+            "ORG",
+            "Experience",
+            "Previous Talks",
+            "EVENT"
+        ]
+    ]
+}

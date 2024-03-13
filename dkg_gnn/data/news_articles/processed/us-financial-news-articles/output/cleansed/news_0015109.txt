@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ultragenyx Pharmaceutical Inc",
+            "COMP",
+            "Has",
+            "Capital International Investors",
+            "ORG"
+        ],
+        [
+            "Capital International Investors",
+            "ORG",
+            "Invests_In",
+            "Ultragenyx Pharmaceutical Inc",
+            "COMP"
+        ],
+        [
+            "Ultragenyx Pharmaceutical Inc",
+            "COMP",
+            "Control",
+            "10.3 Percent Passive Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ultragenyx Pharmaceutical Inc",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "ORG/REG"
+        ]
+    ]
+}

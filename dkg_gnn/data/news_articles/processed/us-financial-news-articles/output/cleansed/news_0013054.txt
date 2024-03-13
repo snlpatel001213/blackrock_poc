@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Pemex",
+            "ORG/GOV",
+            "Set",
+            "Feb Maya price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pemex",
+            "ORG/GOV",
+            "Operate_In",
+            "Americas",
+            "GPE"
+        ],
+        [
+            "Pemex",
+            "ORG/GOV",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Pemex",
+            "ORG/GOV",
+            "Operate_In",
+            "Far East",
+            "GPE"
+        ],
+        [
+            "Maya crude",
+            "PRODUCT",
+            "Relate_To",
+            "Feb Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Isthmus crude",
+            "PRODUCT",
+            "Relate_To",
+            "Feb Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Olmeca crude",
+            "PRODUCT",
+            "Relate_To",
+            "Feb Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Maya crude",
+            "PRODUCT",
+            "Relate_To",
+            "Jan Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Isthmus crude",
+            "PRODUCT",
+            "Relate_To",
+            "Jan Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Olmeca crude",
+            "PRODUCT",
+            "Relate_To",
+            "Jan Constant",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US West Coast",
+            "GPE",
+            "Relate_To",
+            "Maya crude",
+            "PRODUCT"
+        ],
+        [
+            "US West Coast",
+            "GPE",
+            "Relate_To",
+            "Isthmus crude",
+            "PRODUCT"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Relate_To",
+            "Maya crude",
+            "PRODUCT"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Relate_To",
+            "Isthmus crude",
+            "PRODUCT"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Relate_To",
+            "Olmeca crude",
+            "PRODUCT"
+        ],
+        [
+            "Far East",
+            "GPE",
+            "Relate_To",
+            "Maya crude",
+            "PRODUCT"
+        ],
+        [
+            "Far East",
+            "GPE",
+            "Relate_To",
+            "Isthmus crude",
+            "PRODUCT"
+        ]
+    ]
+}

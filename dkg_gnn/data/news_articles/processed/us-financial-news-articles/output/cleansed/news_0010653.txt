@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dover Corp",
+            "COMP",
+            "Acquires",
+            "Ettlinger",
+            "COMP"
+        ],
+        [
+            "Ettlinger",
+            "COMP",
+            "Is_Member_Of",
+            "Maag Business Unit",
+            "COMP"
+        ],
+        [
+            "Maag Business Unit",
+            "COMP",
+            "Operate_In",
+            "Fluids Segment",
+            "SECTOR"
+        ]
+    ]
+}

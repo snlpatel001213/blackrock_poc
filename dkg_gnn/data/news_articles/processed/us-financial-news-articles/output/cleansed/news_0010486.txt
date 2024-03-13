@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Kering",
+            "COMP",
+            "Has",
+            "Puma",
+            "COMP"
+        ],
+        [
+            "Kering",
+            "COMP",
+            "Announce",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Relate_To",
+            "Puma\u2019s shares",
+            "PRODUCT"
+        ],
+        [
+            "Kering Shareholders",
+            "PERSON",
+            "Receive",
+            "70%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kering",
+            "COMP",
+            "Operate_In",
+            "Luxury Goods",
+            "SECTOR"
+        ],
+        [
+            "Kering",
+            "COMP",
+            "Impact",
+            "Gucci",
+            "COMP"
+        ],
+        [
+            "Gucci",
+            "COMP",
+            "Is_Member_Of",
+            "Luxury Goods",
+            "SECTOR"
+        ]
+    ]
+}

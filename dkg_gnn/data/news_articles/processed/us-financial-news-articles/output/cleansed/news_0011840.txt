@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Quebec",
+            "GPE",
+            "Produce",
+            "Winning Mogul Skiers",
+            "PERSON"
+        ],
+        [
+            "Jean-Luc Brassard",
+            "PERSON",
+            "Relate_To",
+            "Proud Tradition",
+            "CONCEPT"
+        ],
+        [
+            "Jean-Luc Brassard",
+            "PERSON",
+            "Control",
+            "Olympic Gold",
+            "EVENT"
+        ],
+        [
+            "Alexandre Bilodeau",
+            "PERSON",
+            "Control",
+            "Reigning Champion",
+            "PERSON"
+        ],
+        [
+            "Alexandre Bilodeau",
+            "PERSON",
+            "Control",
+            "Men\u2019s Moguls",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Participates_In",
+            "Men\u2019s Moguls",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Has",
+            "Silver Medal",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Operate_In",
+            "Quebec",
+            "GPE"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Control",
+            "Six Consecutive Overall FIS World Cup Gold Medals",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Control",
+            "Two Ski World Championship Golds",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Has",
+            "All-Time Record",
+            "CONCEPT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Has",
+            "World Cup Wins",
+            "EVENT"
+        ],
+        [
+            "Mikael Kingsbury",
+            "PERSON",
+            "Has",
+            "Podium Finishes",
+            "EVENT"
+        ],
+        [
+            "Benjamin Cavet",
+            "PERSON",
+            "Relate_To",
+            "Man In Second Place",
+            "CONCEPT"
+        ],
+        [
+            "Ikuma Horishima",
+            "PERSON",
+            "Relate_To",
+            "Japanese Uprising",
+            "CONCEPT"
+        ],
+        [
+            "Ikuma Horishima",
+            "PERSON",
+            "Control",
+            "Double Moguls Gold",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Expect",
+            "Gold Medal",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Have",
+            "High Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "Moguls",
+            "EVENT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Have",
+            "Four Men In Top 10",
+            "CONCEPT"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Operate_In",
+            "Quebec",
+            "GPE"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Unique Snow Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Small Mountains",
+            "CONCEPT"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Hand-Made Snow",
+            "CONCEPT"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Super Icing",
+            "CONCEPT"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "No Distraction Of Powder",
+            "CONCEPT"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Great Examples",
+            "PERSON"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Jean-Luc Brassard",
+            "PERSON"
+        ],
+        [
+            "Quebec",
+            "GPE",
+            "Has",
+            "Alex Bilodeau",
+            "PERSON"
+        ]
+    ]
+}

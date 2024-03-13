@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Banco Santander Brasil",
+            "COMP",
+            "Announce",
+            "Infrastructure Partnership",
+            "EVENT"
+        ],
+        [
+            "Banco Santander Brasil",
+            "COMP",
+            "Participates_In",
+            "Brazilian Infrastructure",
+            "GPE"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Participates_In",
+            "Infrastructure Partnership",
+            "EVENT"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Control",
+            "BRIC Countries",
+            "GPE"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Renewable Energy",
+            "CONCEPT"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Urban Mobility",
+            "CONCEPT"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Highways",
+            "CONCEPT"
+        ],
+        [
+            "New Development Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Railways",
+            "CONCEPT"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Control",
+            "New Development Bank",
+            "ORG/REG"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Relate_To",
+            "Brazilian Infrastructure",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Relate_To",
+            "New Development Bank",
+            "ORG/REG"
+        ],
+        [
+            "India",
+            "GPE",
+            "Relate_To",
+            "New Development Bank",
+            "ORG/REG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "New Development Bank",
+            "ORG/REG"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Relate_To",
+            "New Development Bank",
+            "ORG/REG"
+        ]
+    ]
+}

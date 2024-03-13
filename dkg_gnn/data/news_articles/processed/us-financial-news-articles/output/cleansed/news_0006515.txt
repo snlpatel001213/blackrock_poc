@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Alphabet Inc.",
+            "ORG",
+            "Invests_In",
+            "Chushou",
+            "COMP"
+        ],
+        [
+            "Chushou",
+            "COMP",
+            "Operate_In",
+            "Live-stream Gaming",
+            "SECTOR"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "Alphabet Inc.",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "China Market",
+            "GPE"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "AI Offerings",
+            "CONCEPT"
+        ],
+        [
+            "YouTube",
+            "COMP",
+            "Relate_To",
+            "Live Stream Gamers",
+            "CONCEPT"
+        ]
+    ]
+}

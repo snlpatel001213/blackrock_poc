@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Explosion",
+            "EVENT"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Happen",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Syrian Observatory for Human Rights",
+            "ORG",
+            "Report",
+            "Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Target",
+            "Headquarters",
+            "ORG"
+        ],
+        [
+            "Headquarters",
+            "ORG",
+            "Belong",
+            "Minor Rebel Faction",
+            "ORG"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Attributed",
+            "Car Bomb",
+            "EVENT"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Attributed",
+            "Drone Attack",
+            "EVENT"
+        ],
+        [
+            "Ambulances",
+            "ORG",
+            "Deployed",
+            "Explosion Site",
+            "EVENT"
+        ],
+        [
+            "Rescue Teams",
+            "ORG",
+            "Continue",
+            "Recover Bodies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Cause",
+            "Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Cause",
+            "Injuries",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Impact",
+            "Seven Civilians",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Idlib",
+            "GPE",
+            "Situated",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Idlib",
+            "GPE",
+            "Under Control",
+            "Rebels",
+            "ORG"
+        ],
+        [
+            "Idlib",
+            "GPE",
+            "Participates_In",
+            "Rebellion",
+            "EVENT"
+        ],
+        [
+            "President Bashar al-Assad",
+            "PERSON",
+            "Opposed",
+            "Rebels",
+            "ORG"
+        ],
+        [
+            "Syrian Army",
+            "ORG",
+            "Lost",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Syrian Army",
+            "ORG",
+            "Allied",
+            "Offensive",
+            "EVENT"
+        ],
+        [
+            "Tahrir al-Sham",
+            "ORG",
+            "Main Force",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "Tahrir al-Sham",
+            "ORG",
+            "Spearheaded",
+            "Nusra Front",
+            "ORG"
+        ],
+        [
+            "Nusra Front",
+            "ORG",
+            "Formerly Called",
+            "Al-Qaeda Affiliate",
+            "ORG"
+        ]
+    ]
+}

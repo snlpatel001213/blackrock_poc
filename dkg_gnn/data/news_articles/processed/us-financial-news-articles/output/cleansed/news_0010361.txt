@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Shanghai Composite index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "3,410.00",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CSI300 index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.52 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "financial sector sub-index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.47 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "consumer staples sector",
+            "SECTOR",
+            "Increase",
+            "1.12 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "real estate index",
+            "SECTOR",
+            "Increase",
+            "3.33 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "healthcare sub-index",
+            "SECTOR",
+            "Increase",
+            "0.58 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shenzhen index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.22 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ChiNext Composite index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.26 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MSCI\u2019s Asia ex-Japan stock index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.34 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "yuan",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "0.02 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Zhejiang XinAn Chemical Industrial Group Co Ltd",
+            "COMP",
+            "Increase",
+            "10.04 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Easysight Supply Chain Management Co Ltd",
+            "COMP",
+            "Increase",
+            "10.03 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai Shimao Co Ltd",
+            "COMP",
+            "Increase",
+            "10.02 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cultural Investment Holdings Co Ltd",
+            "COMP",
+            "Decrease",
+            "10.01 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd",
+            "COMP",
+            "Decrease",
+            "7.19 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BTG Hotels Group Co Ltd",
+            "COMP",
+            "Decrease",
+            "5.86 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai stock index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "2.56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CSI300",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "3.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China\u2019s H-share index",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "4.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai stocks",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "2.56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai stocks",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "2.56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai exchange",
+            "ORG",
+            "Trade",
+            "23.62 billion shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai exchange",
+            "ORG",
+            "Trade",
+            "154.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "A-shares",
+            "FIN_INSTRUMENT",
+            "Trade",
+            "27.81 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai stock index",
+            "FIN_INSTRUMENT",
+            "Above",
+            "50-day moving average",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai stock index",
+            "FIN_INSTRUMENT",
+            "Above",
+            "200-day moving average",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

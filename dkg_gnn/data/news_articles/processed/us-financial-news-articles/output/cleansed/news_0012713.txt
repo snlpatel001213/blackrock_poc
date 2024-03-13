@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Alibaba Group Holding Ltd",
+            "COMP",
+            "Consider",
+            "Hong Kong Listing",
+            "EVENT"
+        ],
+        [
+            "Jack Ma",
+            "PERSON",
+            "Say",
+            "Alibaba Will Consider Hong Kong Listing",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Prepare",
+            "Allow Dual-class Share Listings",
+            "EVENT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Hold",
+            "Record $25 Billion Public Float",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Raise",
+            "Stakes In Battle Against New York",
+            "SECTOR"
+        ],
+        [
+            "Hong Kong Exchanges and Clearing Ltd",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Rise",
+            "3.1 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Operate_In",
+            "Financial Hub",
+            "SECTOR"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Provide",
+            "Greater Access To Investors",
+            "SECTOR"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Support",
+            "Financial Services Innovation",
+            "SECTOR"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Draft",
+            "Rule Changes",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Create",
+            "New Route To Secondary Listings",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Attract",
+            "Companies From Emerging And Innovative Sectors",
+            "SECTOR"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Not Yet Define",
+            "Innovative",
+            "CONCEPT"
+        ],
+        [
+            "Hong Kong Listings",
+            "EVENT",
+            "47 Percent",
+            "New Economy Companies",
+            "SECTOR"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Have",
+            "Three Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Listings",
+            "New Economy Companies",
+            "SECTOR"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Resolve",
+            "Technical Issues",
+            "CONCEPT"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Fine Tune",
+            "Underlying Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

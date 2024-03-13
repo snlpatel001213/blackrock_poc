@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Houston Rockets",
+            "COMP",
+            "Participates_In",
+            "NBA",
+            "EVENT"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Control",
+            "Houston Rockets",
+            "COMP"
+        ],
+        [
+            "James Harden",
+            "PERSON",
+            "Has",
+            "Grade 2 Left Hamstring Injury",
+            "CONCEPT"
+        ],
+        [
+            "Eric Gordon",
+            "PERSON",
+            "Produce",
+            "24 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Eric Gordon",
+            "PERSON",
+            "Produce",
+            "13 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Houston Rockets",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Chris Paul",
+            "PERSON",
+            "Produce",
+            "24 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bobby Portis",
+            "PERSON",
+            "Produce",
+            "22 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chicago Bulls",
+            "COMP",
+            "Operate_In",
+            "NBA",
+            "EVENT"
+        ],
+        [
+            "Nikola Mirotic",
+            "PERSON",
+            "Control",
+            "Chicago Bulls",
+            "COMP"
+        ],
+        [
+            "Nikola Mirotic",
+            "PERSON",
+            "Has",
+            "Flu",
+            "CONCEPT"
+        ],
+        [
+            "Gerald Green",
+            "PERSON",
+            "Produce",
+            "22 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Clint Capela",
+            "PERSON",
+            "Produce",
+            "15 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Clint Capela",
+            "PERSON",
+            "Produce",
+            "16 Rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Houston",
+            "GPE",
+            "Raise",
+            "116-107 Victory",
+            "EVENT"
+        ],
+        [
+            "Chicago",
+            "GPE",
+            "Decrease",
+            "3-21 Record Without Mirotic",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trevor Ariza",
+            "PERSON",
+            "Produce",
+            "18 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trevor Ariza",
+            "PERSON",
+            "Produce",
+            "9 Rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Denzel Valentine",
+            "PERSON",
+            "Produce",
+            "19 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Denzel Valentine",
+            "PERSON",
+            "Produce",
+            "8 Rebounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kris Dunn",
+            "PERSON",
+            "Produce",
+            "19 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lauri Markkanen",
+            "PERSON",
+            "Produce",
+            "16 Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lauri Markkanen",
+            "PERSON",
+            "Produce",
+            "8 Rebounds",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

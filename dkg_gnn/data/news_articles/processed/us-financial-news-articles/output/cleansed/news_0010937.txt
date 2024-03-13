@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Eagle Pharmaceuticals Inc.",
+            "COMP",
+            "Has",
+            "10.1 Percent Passive Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IRIDIAN ASSET MANAGEMENT LLC",
+            "ORG",
+            "Control",
+            "10.1 Percent Passive Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Eagle Pharmaceuticals Inc.",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "CONCEPT"
+        ]
+    ]
+}

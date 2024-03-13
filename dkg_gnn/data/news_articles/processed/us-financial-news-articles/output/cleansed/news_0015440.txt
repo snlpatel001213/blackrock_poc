@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Announce",
+            "Bob Pisani",
+            "PERSON"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Announce",
+            "Art Cashin",
+            "PERSON"
+        ],
+        [
+            "Art Cashin",
+            "PERSON",
+            "Participates_In",
+            "Current State of Markets",
+            "CONCEPT"
+        ],
+        [
+            "Walmart",
+            "COMP",
+            "Announce",
+            "Bonuses",
+            "EVENT"
+        ],
+        [
+            "Walmart",
+            "COMP",
+            "Relate_To",
+            "Earnings Season",
+            "EVENT"
+        ]
+    ]
+}

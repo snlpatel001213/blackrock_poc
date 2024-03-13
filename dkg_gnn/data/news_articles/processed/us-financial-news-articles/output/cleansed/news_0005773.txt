@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Bread Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Impact",
+            "Student Death",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Participates_In",
+            "Bread Price Protests",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Eliminate",
+            "Subsidies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Announce",
+            "Subsidies Elimination",
+            "EVENT"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Arrest",
+            "Omar Al-Dageir",
+            "PERSON"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Block",
+            "Newspaper Sale",
+            "PRODUCT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Begin",
+            "Economic Reforms",
+            "EVENT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Implement",
+            "IMF Recommendations",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Devalue",
+            "Pound Currency",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Black Market",
+            "CONCEPT",
+            "Reach",
+            "29 Pounds to Dollar",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

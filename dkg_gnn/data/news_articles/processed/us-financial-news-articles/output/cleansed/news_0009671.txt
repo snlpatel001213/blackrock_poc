@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Four members",
+            "PERSON",
+            "Sentenced_To",
+            "Prison",
+            "ORG/GOV"
+        ],
+        [
+            "Fraternity",
+            "ORG",
+            "Banned",
+            "Operate_In",
+            "GPE"
+        ],
+        [
+            "Fraternity",
+            "ORG",
+            "Relate_To",
+            "Hazing Incident",
+            "EVENT"
+        ],
+        [
+            "Student",
+            "PERSON",
+            "Died",
+            "Hazing Incident",
+            "EVENT"
+        ]
+    ]
+}

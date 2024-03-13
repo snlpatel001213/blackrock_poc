@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "TP ICAP Plc",
+            "COMP",
+            "Has",
+            "Interdealer Broker",
+            "ORG"
+        ],
+        [
+            "TP ICAP Plc",
+            "COMP",
+            "Buy",
+            "SCS Commodities Corp",
+            "ORG"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Sell",
+            "TP ICAP Plc",
+            "COMP"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Crude Oil Futures",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Soft Commodities",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Petroleum",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Refined Products",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Natural Gas Options",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Deal",
+            "Crude Oil Options",
+            "PRODUCT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Founded",
+            "1991",
+            "DATE"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Headquartered",
+            "New Jersey",
+            "GPE"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Sold",
+            "Five Partners",
+            "PERSON"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Sold",
+            "Corporate Entity",
+            "ORG"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Impact",
+            "TP ICAP Energy and Commodities Division",
+            "ORG"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Report",
+            "Revenue of $14.3 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SCS Commodities Corp",
+            "ORG",
+            "Report",
+            "Pretax Profit of $0.8 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Has",
+            "Energy and Commodities Division",
+            "ORG"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Report",
+            "1 Percent Fall in Energy and Commodities Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Report",
+            "Challenging Outlook for Final Quarter of 2017",
+            "DATE"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Finance Director",
+            "Leave",
+            "POSITION"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Operate_In",
+            "Financial, Energy and Commodities Markets",
+            "SECTOR"
+        ]
+    ]
+}

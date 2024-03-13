@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Pope Tawadros II",
+            "PERSON",
+            "Leads",
+            "Midnight Mass",
+            "EVENT"
+        ],
+        [
+            "Pope Tawadros II",
+            "PERSON",
+            "Is_Member_Of",
+            "Coptic Church",
+            "ORG"
+        ],
+        [
+            "Coptic Church",
+            "ORG",
+            "Has",
+            "Pope Tawadros II",
+            "PERSON"
+        ],
+        [
+            "President Abdel Fattah al Sisi",
+            "PERSON",
+            "Attends",
+            "Midnight Mass",
+            "EVENT"
+        ],
+        [
+            "Midnight Mass",
+            "EVENT",
+            "Holds_In",
+            "Cathedral",
+            "PRODUCT"
+        ],
+        [
+            "Cathedral",
+            "PRODUCT",
+            "Located_In",
+            "New Administrative Capital",
+            "GPE"
+        ],
+        [
+            "New Administrative Capital",
+            "GPE",
+            "Intended_For",
+            "Reduce Crowding",
+            "CONCEPT"
+        ],
+        [
+            "New Administrative Capital",
+            "GPE",
+            "Has",
+            "Government Ministries",
+            "ORG"
+        ],
+        [
+            "New Administrative Capital",
+            "GPE",
+            "Has",
+            "Housing",
+            "ORG"
+        ],
+        [
+            "New Administrative Capital",
+            "GPE",
+            "Has",
+            "Airport",
+            "INFRA"
+        ],
+        [
+            "New Administrative Capital",
+            "GPE",
+            "Not_Yet_Has",
+            "Name",
+            "CONCEPT"
+        ],
+        [
+            "Coptic Christmas",
+            "EVENT",
+            "Celebrated_On",
+            "Jan. 7",
+            "DATE"
+        ],
+        [
+            "Coptic Church",
+            "ORG",
+            "Has",
+            "Coptic Christmas",
+            "EVENT"
+        ],
+        [
+            "Coptic Church",
+            "ORG",
+            "Has_Members",
+            "Egypt\u2019s Large Christian Minority",
+            "GPE"
+        ],
+        [
+            "Egypt\u2019s Large Christian Minority",
+            "GPE",
+            "Targeted_By",
+            "Islamist Militants",
+            "ORG"
+        ],
+        [
+            "Islamist Militants",
+            "ORG",
+            "Includes",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Wages",
+            "Insurgency",
+            "EVENT"
+        ],
+        [
+            "Insurgency",
+            "EVENT",
+            "Located_In",
+            "North",
+            "GPE"
+        ],
+        [
+            "Insurgency",
+            "EVENT",
+            "Located_In",
+            "Remote Sinai Peninsula",
+            "GPE"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Happen_On",
+            "Coptic Church",
+            "ORG"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Happen_On",
+            "Christian-Owned Shop",
+            "PRODUCT"
+        ],
+        [
+            "Attacks",
+            "EVENT",
+            "Result_In",
+            "More Than 10 People Dead",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "Done_By",
+            "Ahmed Fahmy",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "Done_By",
+            "Adrian Croft",
+            "PERSON"
+        ]
+    ]
+}

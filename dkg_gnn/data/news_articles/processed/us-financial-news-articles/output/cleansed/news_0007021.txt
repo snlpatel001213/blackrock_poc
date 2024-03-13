@@ -1,0 +1,79 @@
+{
+    "output": [
+        [
+            "European Union",
+            "GPE",
+            "Control",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Vote",
+            "Leave",
+            "GPE"
+        ],
+        [
+            "America",
+            "GPE",
+            "Choose",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Dutch",
+            "GPE",
+            "Favor",
+            "More Conventional Politicians",
+            "ORG"
+        ],
+        [
+            "French",
+            "GPE",
+            "Favor",
+            "More Conventional Politicians",
+            "ORG"
+        ],
+        [
+            "German",
+            "GPE",
+            "Voters",
+            "Favor",
+            "More Conventional Politicians",
+            "ORG"
+        ],
+        [
+            "Italian",
+            "GPE",
+            "Elections",
+            "Revive",
+            "Populist Surge",
+            "CONCEPT"
+        ],
+        [
+            "Czech",
+            "GPE",
+            "Elections",
+            "Revive",
+            "Populist Surge",
+            "CONCEPT"
+        ],
+        [
+            "Hungarian",
+            "GPE",
+            "Elections",
+            "Revive",
+            "Populist Surge",
+            "CONCEPT"
+        ],
+        [
+            "Swedish",
+            "GPE",
+            "Elections",
+            "Revive",
+            "Populist Surge",
+            "CONCEPT"
+        ]
+    ]
+}

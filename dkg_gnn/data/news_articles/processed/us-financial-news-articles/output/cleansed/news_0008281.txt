@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Petar Hristov",
+            "PERSON",
+            "Has",
+            "one of Bulgaria\u2019s biggest dairy companies",
+            "ORG"
+        ],
+        [
+            "Petar Hristov",
+            "PERSON",
+            "Shot_Dead",
+            "outside the company\u2019s office",
+            "ORG"
+        ],
+        [
+            "Petar Hristov",
+            "PERSON",
+            "Operate_In",
+            "Sofia",
+            "GPE"
+        ],
+        [
+            "Petar Hristov",
+            "PERSON",
+            "Impact",
+            "corruption networks",
+            "CONCEPT"
+        ],
+        [
+            "Bulgaria",
+            "GPE",
+            "Assume",
+            "six-month, rotating presidency of the EU",
+            "ORG/GOV"
+        ],
+        [
+            "Bulgaria",
+            "GPE",
+            "Classified",
+            "poorest and most corrupt country",
+            "CONCEPTin EU"
+        ],
+        [
+            "Petar Hristov",
+            "PERSON",
+            "Close_To",
+            "senior officials from the ruling centre-right GERB party",
+            "ORG/POL"
+        ],
+        [
+            "Sofia police commissioner",
+            "PERSON",
+            "Investigate",
+            "killing of Hristov",
+            "PERSON"
+        ],
+        [
+            "Bulgaria",
+            "GPE",
+            "Criticized",
+            "by Brussels",
+            "ORG/GOV"
+        ],
+        [
+            "Bulgaria",
+            "GPE",
+            "Fail",
+            "offer the means to effectively investigate corruption networks",
+            "CONCEPT"
+        ],
+        [
+            "President Rumen Radev",
+            "PERSON",
+            "Veto",
+            "anti-graft legislation",
+            "CONCEPT"
+        ]
+    ]
+}

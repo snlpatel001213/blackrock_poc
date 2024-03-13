@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Lucid Energy",
+            "COMP",
+            "Announce",
+            "Sell",
+            "DEBT_FINANCING"
+        ],
+        [
+            "Lucid Energy",
+            "COMP",
+            "Sell",
+            "Delaware Basin Subsidiary",
+            "COMP"
+        ],
+        [
+            "Delaware Basin Subsidiary",
+            "COMP",
+            "Become_Member_Of",
+            "Riverstone Holdings LLC",
+            "ORG"
+        ],
+        [
+            "Delaware Basin Subsidiary",
+            "COMP",
+            "Become_Member_Of",
+            "Goldman Sachs Merchant Banking Division",
+            "ORG"
+        ],
+        [
+            "Lucid Energy",
+            "COMP",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Lucid II",
+            "COMP",
+            "Retain",
+            "Name",
+            "CONCEPT"
+        ],
+        [
+            "Lucid II",
+            "COMP",
+            "Operate_In",
+            "Riverstone and Goldman Sachs MBD Portfolio",
+            "COMP"
+        ]
+    ]
+}

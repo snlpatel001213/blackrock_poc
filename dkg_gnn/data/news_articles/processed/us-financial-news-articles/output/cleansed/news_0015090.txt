@@ -1,0 +1,21 @@
+{
+    "output": [
+        [
+            "Xiabuxiabu Catering Management China Holdings Co Ltd",
+            "COMP",
+            "Invests_In",
+            "SPD Financial Product",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SPD Financial Product",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Principal Amount",
+            "ECON_INDICATOR",
+            {
+                "ECON_INDICATOR": "RMB300.0 Million"
+            }
+        ]
+    ]
+}

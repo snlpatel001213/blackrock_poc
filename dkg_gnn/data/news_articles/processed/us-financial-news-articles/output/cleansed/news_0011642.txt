@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "China Dongxiang (Group) Co Ltd",
+            "COMP",
+            "Announce",
+            "Acquisition of Equity Interest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Dongxiang (Group) Co Ltd",
+            "COMP",
+            "Control",
+            "Tianjin Mai Sheng Yue He Sporting Goods Co",
+            "COMP"
+        ],
+        [
+            "Tianjin Mai Sheng Yue He Sporting Goods Co",
+            "COMP",
+            "Received Investment",
+            "China Dongxiang (Group) Co Ltd",
+            "COMP"
+        ],
+        [
+            "Tianjin Mai Sheng Yue He Sporting Goods Co",
+            "COMP",
+            "Operate_In",
+            "GPE"
+        ],
+        [
+            "China Dongxiang (Group) Co Ltd",
+            "COMP",
+            "Impact",
+            "Financial Markets",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

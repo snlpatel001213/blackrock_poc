@@ -1,0 +1,29 @@
+{
+    "output": [
+        [
+            "Valeant Pharmaceuticals International Inc.",
+            "COMP",
+            "Produce",
+            "Seven Key Products",
+            "PRODUCT"
+        ],
+        [
+            "Seven Key Products",
+            "PRODUCT",
+            "Projected",
+            "Generate",
+            "1 Bln in Sales",
+            "ECON_INDICATOR",
+            "In",
+            "5 Years",
+            "TIME"
+        ],
+        [
+            "Valeant Pharmaceuticals International Inc.",
+            "COMP",
+            "Relate_To",
+            "Further Company Coverage",
+            "CONCEPT"
+        ]
+    ]
+}

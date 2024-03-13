@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Philadelphia Federal Reserve Bank",
+            "ORG/GOV",
+            "Locate",
+            "PHILADELPHIA",
+            "GPE"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Work_For",
+            "Philadelphia Federal Reserve Bank",
+            "ORG/GOV"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Say",
+            "Weak wage growth",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Say",
+            "Possible risks in the bond market",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Should_Slow",
+            "Rate hikes",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Add",
+            "Central bank should probably move just twice in 2018",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "As_Recently_As",
+            "November",
+            "TIME"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Felt",
+            "Three quarter-point hikes would be appropriate",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Shifted_Gears",
+            "Growing concern at the Fed over continued weak inflation",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Flagged",
+            "Newly emerging risk that continued Fed action may push short term interest rates above long term ones",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Joined",
+            "St. Louis Fed President James Bullard",
+            "PERSON"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Flagged",
+            "Possible problem",
+            "CONCEPT"
+        ],
+        [
+            "The spread",
+            "CONCEPT",
+            "Narrowing",
+            "As the Fed has raised its target rate",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Said",
+            "I don\u2019t think we should do anything to precipitate an inversion",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Said",
+            "We have got some time",
+            "CONCEPT"
+        ],
+        [
+            "Unemployment",
+            "CONCEPT",
+            "Fallen",
+            "4.1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Many economists",
+            "PERSON",
+            "See",
+            "Full employment",
+            "CONCEPT"
+        ],
+        [
+            "Wages",
+            "CONCEPT",
+            "Failed",
+            "Pick up strongly",
+            "CONCEPT"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Weakened",
+            "Over the course of 2017",
+            "TIME"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Expects",
+            "Economy to grow a bit below 2.5 percent in 2018",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Forecasts",
+            "Unemployment will stay low this year before rising a few tenths of a percentage point next year",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Forecasts",
+            "Inflation to push above 2 percent in 2019 before coming back to the Fed\u2019s target in 2020",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Said",
+            "Little slack left in the labour market",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Said",
+            "If soft inflation persists, it may pose a significant problem",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Harker",
+            "PERSON",
+            "Said",
+            "Making it more difficult to bring inflation back to target",
+            "CONCEPT"
+        ],
+        [
+            "He",
+            "PERSON",
+            "Forecasts",
+            "Unemployment will stay low this year before rising a few tenths of a percentage point next year",
+            "CONCEPT"
+        ],
+        [
+            "He",
+            "PERSON",
+            "Forecasts",
+            "Inflation to push above 2 percent in 2019 before coming back to the Fed\u2019s target in 2020",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

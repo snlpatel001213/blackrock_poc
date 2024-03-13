@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Roche",
+            "COMP",
+            "Approve",
+            "Ocrevus",
+            "PRODUCT"
+        ],
+        [
+            "Ocrevus",
+            "PRODUCT",
+            "Operate_In",
+            "Multiple Sclerosis Medicine",
+            "PRODUCT"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Has",
+            "Three Cancer Drugs",
+            "PRODUCT"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Counting_On",
+            "Ocrevus_Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ocrevus",
+            "PRODUCT",
+            "Help_Offset",
+            "Sales_Declines",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Losing_Patent_Protection",
+            "Three_Cancer_Drugs",
+            "PRODUCT"
+        ],
+        [
+            "Ocrevus",
+            "PRODUCT",
+            "Outperform",
+            "Rebif",
+            "PRODUCT"
+        ],
+        [
+            "Ocrevus",
+            "PRODUCT",
+            "Cost",
+            "$65,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gavin Giovannoni",
+            "PERSON",
+            "Work_With",
+            "Roche",
+            "COMP"
+        ],
+        [
+            "Primary_Progressive_MS",
+            "CONCEPT",
+            "Without_Approved_Treatment",
+            "Slow_Progression",
+            "CONCEPT"
+        ]
+    ]
+}

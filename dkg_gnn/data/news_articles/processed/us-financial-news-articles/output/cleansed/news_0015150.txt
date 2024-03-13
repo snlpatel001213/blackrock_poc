@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Elvis Express",
+            "EVENT",
+            "Operate_In",
+            "Australian Town",
+            "GPE"
+        ],
+        [
+            "Elvis Express",
+            "EVENT",
+            "Participates_In",
+            "Elvis Festival",
+            "EVENT"
+        ],
+        [
+            "Elvis Presley",
+            "PERSON",
+            "Relate_To",
+            "Elvis Festival",
+            "EVENT"
+        ],
+        [
+            "Elvis Presley",
+            "PERSON",
+            "Relate_To",
+            "Elvis Express",
+            "EVENT"
+        ],
+        [
+            "Priscilla",
+            "PERSON",
+            "Relate_To",
+            "Elvis Festival",
+            "EVENT"
+        ],
+        [
+            "Priscilla",
+            "PERSON",
+            "Relate_To",
+            "Elvis Express",
+            "EVENT"
+        ],
+        [
+            "King of Rock and Roll",
+            "CONCEPT",
+            "Relate_To",
+            "Elvis Festival",
+            "EVENT"
+        ],
+        [
+            "King of Rock and Roll",
+            "CONCEPT",
+            "Relate_To",
+            "Elvis Express",
+            "EVENT"
+        ],
+        [
+            "Sydney",
+            "GPE",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Samantha Vadas",
+            "PERSON",
+            "Report_On",
+            "Elvis Festival",
+            "EVENT"
+        ]
+    ]
+}

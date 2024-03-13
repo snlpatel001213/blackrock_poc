@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Automotive Market",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Tax Cut",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Plan",
+            "Return Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global Automakers",
+            "ORG",
+            "Sell",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Grow",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Fall",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Slow",
+            "Sales Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Cite",
+            "Tax Roll Back",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Cite",
+            "Tax Roll Back",
+            "ECON_INDICATOR"
+        ],
+        [
+            "James Chao",
+            "PERSON",
+            "Project",
+            "Flat Year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IHS Markit Automotive",
+            "ORG",
+            "Chief",
+            "James Chao",
+            "PERSON"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Raise",
+            "Purchase Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Want",
+            "Automakers",
+            "ORG"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Implement",
+            "Quotas",
+            "SECTOR"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Prompt",
+            "Flurry",
+            "EVENT"
+        ],
+        [
+            "Beijing",
+            "GPE",
+            "Require",
+            "Manufacture NEVs",
+            "PRODUCT"
+        ],
+        [
+            "Geely Automobile Holdings",
+            "COMP",
+            "Say",
+            "Net Profit Doubled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Geely Automobile Holdings",
+            "COMP",
+            "Owner",
+            "Volvo Car Brand",
+            "COMP"
+        ],
+        [
+            "Sanford C. Bernstein",
+            "ORG",
+            "Hong Kong-based Analyst",
+            "Robin Zhu",
+            "PERSON"
+        ],
+        [
+            "Robin Zhu",
+            "PERSON",
+            "Likely",
+            "Lay Out Plans",
+            "EVENT"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Sell",
+            "NEVs",
+            "PRODUCT"
+        ]
+    ]
+}

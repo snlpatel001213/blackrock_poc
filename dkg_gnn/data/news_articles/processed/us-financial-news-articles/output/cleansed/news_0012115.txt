@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Quarterhill Inc",
+            "ORG",
+            "Is_Member_Of",
+            "WILAN SUBSIDIARY",
+            "ORG"
+        ],
+        [
+            "WILAN SUBSIDIARY",
+            "ORG",
+            "Enter Into",
+            "License Agreement",
+            "CONCEPT"
+        ],
+        [
+            "License Agreement",
+            "CONCEPT",
+            "With",
+            "Kyocera",
+            "COMP"
+        ]
+    ]
+}

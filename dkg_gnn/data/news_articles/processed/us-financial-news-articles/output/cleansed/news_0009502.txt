@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Publish",
+            "Reporting By Elizabeth Dilts",
+            "PERSON"
+        ],
+        [
+            "Barron\u2019s",
+            "ORG",
+            "Relate_To",
+            "Tech\u2019s Big Show",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Tech\u2019s Big Show",
+            "EVENT"
+        ],
+        [
+            "Tech\u2019s Big Show",
+            "EVENT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

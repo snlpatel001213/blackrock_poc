@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Singapore Zoo",
+            "GPE",
+            "Operate_In",
+            "Wildlife Reserves Singapore",
+            "ORG"
+        ],
+        [
+            "Wildlife Reserves Singapore",
+            "ORG",
+            "Introduce",
+            "Newborn babies",
+            "CONCEPT"
+        ],
+        [
+            "Newborn babies",
+            "CONCEPT",
+            "Relate_To",
+            "Endangered animal species",
+            "CONCEPT"
+        ],
+        [
+            "Endangered animal species",
+            "CONCEPT",
+            "Include",
+            "Pygmy hippo",
+            "ANIMAL"
+        ],
+        [
+            "Endangered animal species",
+            "CONCEPT",
+            "Include",
+            "Electric blue gecko",
+            "ANIMAL"
+        ]
+    ]
+}

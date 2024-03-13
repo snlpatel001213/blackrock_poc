@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Nick Holroyd",
+            "PERSON",
+            "Join",
+            "Land Rover BAR",
+            "ORG"
+        ],
+        [
+            "Land Rover BAR",
+            "ORG",
+            "Has",
+            "Ben Ainslie",
+            "PERSON"
+        ],
+        [
+            "Nick Holroyd",
+            "PERSON",
+            "Has",
+            "Chief Designer",
+            "CONCEPT"
+        ],
+        [
+            "Land Rover BAR",
+            "ORG",
+            "Participates_In",
+            "America's Cup",
+            "EVENT"
+        ],
+        [
+            "Emirates Team New Zealand",
+            "ORG",
+            "Compete_With",
+            "Land Rover BAR",
+            "ORG"
+        ],
+        [
+            "Nick Holroyd",
+            "PERSON",
+            "Win",
+            "Cup",
+            "EVENT"
+        ],
+        [
+            "Nick Holroyd",
+            "PERSON",
+            "Formerly_Work_At",
+            "Softbank Team Japan",
+            "ORG"
+        ],
+        [
+            "Softbank Team Japan",
+            "ORG",
+            "Compete_With",
+            "Land Rover BAR",
+            "ORG"
+        ],
+        [
+            "Land Rover BAR",
+            "ORG",
+            "Operate_In",
+            "Portsmouth",
+            "GPE"
+        ],
+        [
+            "Land Rover BAR",
+            "ORG",
+            "Plan_To",
+            "Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Emirates Team New Zealand",
+            "ORG",
+            "Hold",
+            "America's Cup",
+            "EVENT"
+        ],
+        [
+            "Emirates Team New Zealand",
+            "ORG",
+            "Choose",
+            "Monohull Design",
+            "CONCEPT"
+        ],
+        [
+            "Bermuda",
+            "GPE",
+            "Location_Of",
+            "Last Year America's Cup",
+            "EVENT"
+        ]
+    ]
+}

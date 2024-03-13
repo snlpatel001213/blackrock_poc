@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Announce",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Exercise",
+            "Over-allotment Option",
+            "EVENT"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Purchase",
+            "ADSs",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Sell",
+            "ADSs",
+            "PRODUCT"
+        ],
+        [
+            "Goldman Sachs (Asia) L.L.C.",
+            "ORG",
+            "Act",
+            "Lead Bookrunners",
+            "ORG"
+        ],
+        [
+            "BofA Merrill Lynch",
+            "ORG",
+            "Act",
+            "Lead Bookrunners",
+            "ORG"
+        ],
+        [
+            "Deutsche Bank Securities",
+            "ORG",
+            "Act",
+            "Lead Bookrunners",
+            "ORG"
+        ],
+        [
+            "China Renaissance",
+            "ORG",
+            "Act",
+            "Lead Bookrunners",
+            "ORG"
+        ],
+        [
+            "ICBC International",
+            "ORG",
+            "Act",
+            "Co-manager",
+            "ORG"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Has",
+            "Fenqile",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Has",
+            "Dingsheng Asset Distribution",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Has",
+            "Fund Matching Technology Platform",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Has",
+            "Juzi Licai Online Investment Platform",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Control",
+            "Funding Partners",
+            "ORG"
+        ],
+        [
+            "Funding Partners",
+            "ORG",
+            "Include",
+            "Commercial Banks",
+            "SECTOR"
+        ],
+        [
+            "Funding Partners",
+            "ORG",
+            "Include",
+            "Consumer Finance Companies",
+            "SECTOR"
+        ],
+        [
+            "Funding Partners",
+            "ORG",
+            "Include",
+            "Licensed Financial Institutions",
+            "SECTOR"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Serve",
+            "Educated Young Adults",
+            "GPE"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Help",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Enjoy",
+            "Better Quality of Life",
+            "CONCEPT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Integrate",
+            "E-commerce-driven Online Consumer Finance Platform",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Integrate",
+            "Advanced Risk Management Technologies",
+            "CONCEPT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Integrate",
+            "Company\u2019s Dingsheng Asset Distribution",
+            "PRODUCT"
+        ],
+        [
+            "Company\u2019s Dingsheng Asset Distribution",
+            "PRODUCT",
+            "Relate_To",
+            "Fund Matching Technology Platform",
+            "PRODUCT"
+        ],
+        [
+            "Company\u2019s Dingsheng Asset Distribution",
+            "PRODUCT",
+            "Relate_To",
+            "Online Investment Platform",
+            "PRODUCT"
+        ],
+        [
+            "LexinFintech Holdings Ltd.",
+            "COMP",
+            "Create",
+            "Consumer Finance Ecosystem",
+            "CONCEPT"
+        ]
+    ]
+}

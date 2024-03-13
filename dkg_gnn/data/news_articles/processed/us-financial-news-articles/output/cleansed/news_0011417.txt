@@ -1,0 +1,233 @@
+{
+    "output": [
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Acquire",
+            "Midway Wind",
+            "ORG"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Come_From",
+            "Apex Clean Energy",
+            "ORG"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Locate_In",
+            "San Patricio County",
+            "GPE"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Have_Plans_Include",
+            "Construction",
+            "EVENT",
+            "47",
+            "Siemens Gamesa G132 turbines",
+            "PRODUCT",
+            "162.9MW",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Have_Anticipated",
+            "Commercial Operation Date",
+            "EVENT",
+            "December 2018",
+            "DATE"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Position",
+            "Energy Gap",
+            "CONCEPT",
+            "Texas",
+            "GPE",
+            "Widen",
+            "Relate_To",
+            "Retire",
+            "Impact",
+            "Coal-generation",
+            "SECTOR",
+            "ERCOT",
+            "ORG/REG"
+        ],
+        [
+            "Sammons Enterprises",
+            "ORG",
+            "Ultimate Parent Company",
+            "Sammons Renewable Energy",
+            "ORG"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Work_With",
+            "Apex Clean Energy",
+            "ORG",
+            "Manage Construction Efforts",
+            "EVENT"
+        ],
+        [
+            "Midway Wind",
+            "ORG",
+            "Be_Valuable_Asset",
+            "Sammons Renewable Energy",
+            "ORG",
+            "Renewable Energy Portfolio",
+            "SECTOR"
+        ],
+        [
+            "Apex Clean Energy",
+            "ORG",
+            "Have_Long_Term_Strategy",
+            "Advance",
+            "Relate_To",
+            "Robust",
+            "CONCEPT",
+            "Diverse",
+            "CONCEPT",
+            "Portfolio",
+            "SECTOR"
+        ],
+        [
+            "Apex Clean Energy",
+            "ORG",
+            "Partner",
+            "Sammons Renewable Energy",
+            "ORG",
+            "Bring Midway Wind to Life",
+            "EVENT"
+        ],
+        [
+            "Apex Clean Energy",
+            "ORG",
+            "Applaud",
+            "Sammons Renewable Energy",
+            "ORG",
+            "Commitment",
+            "CONCEPT",
+            "Advance",
+            "Relate_To",
+            "Clean Energy",
+            "CONCEPT",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Franklin Park Investments",
+            "ORG",
+            "Identify",
+            "Assist",
+            "Structuring",
+            "Deal",
+            "Closing Transaction",
+            "EVENT",
+            "Behalf",
+            "Sammons Renewable Energy",
+            "ORG"
+        ],
+        [
+            "Franklin Park Investments",
+            "ORG",
+            "Manage",
+            "This Project",
+            "EVENT",
+            "On Behalf",
+            "Sammons Renewable Energy",
+            "ORG"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Own",
+            "397MWs",
+            "ECON_INDICATOR",
+            "Operating Projects",
+            "SECTOR",
+            "205MWs",
+            "Construction",
+            "EVENT",
+            "Development Stage Projects",
+            "SECTOR",
+            "Franklin Park Investments",
+            "ORG"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Achieve",
+            "Long-Term Vision",
+            "CONCEPT",
+            "Leading Investor",
+            "CONCEPT",
+            "North American Renewable Energy Market",
+            "GPE"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Close",
+            "December 27",
+            "DATE"
+        ],
+        [
+            "Akin Gump Strauss Hauer & Feld",
+            "ORG",
+            "Provide",
+            "Legal Advice",
+            "EVENT"
+        ],
+        [
+            "Leidos Engineering, LLC",
+            "ORG",
+            "Provide",
+            "Engineering Advice",
+            "EVENT"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Assets",
+            "Managed",
+            "By",
+            "Franklin Park Investments",
+            "ORG"
+        ],
+        [
+            "Sammons Renewable Energy",
+            "ORG",
+            "Invest",
+            "Home State",
+            "GPE",
+            "Texas",
+            "GPE",
+            "Acquire",
+            "Significant Assets",
+            "EVENT",
+            "Critical",
+            "Relate_To",
+            "Achieve",
+            "Long-Term Vision",
+            "CONCEPT",
+            "Leading Investor",
+            "CONCEPT",
+            "North American Renewable Energy Market",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Nutanix Inc.",
+            "COMP",
+            "Name",
+            "Aaron Bean",
+            "PERSON"
+        ],
+        [
+            "Aaron Bean",
+            "PERSON",
+            "Is_Member_Of",
+            "Nutanix Inc.",
+            "COMP"
+        ]
+    ]
+}

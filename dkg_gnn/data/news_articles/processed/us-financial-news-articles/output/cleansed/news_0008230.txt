@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Chinese authorities",
+            "ORG/GOV",
+            "Control",
+            "Sanchi tanker",
+            "COMP"
+        ],
+        [
+            "Sanchi tanker",
+            "COMP",
+            "Collide",
+            "cargo ship",
+            "COMP"
+        ],
+        [
+            "Sanchi tanker",
+            "COMP",
+            "At_Risk",
+            "Explosion",
+            "CONCEPT"
+        ],
+        [
+            "Sanchi tanker",
+            "COMP",
+            "At_Risk",
+            "Sinking",
+            "CONCEPT"
+        ],
+        [
+            "Shanghai Maritime Safety Administration",
+            "ORG/GOV",
+            "Post",
+            "Online_Statement",
+            "CONCEPT"
+        ],
+        [
+            "Sanchi tanker",
+            "COMP",
+            "Surrounding",
+            "Areas",
+            "GPE"
+        ],
+        [
+            "Areas",
+            "GPE",
+            "Burning",
+            "NA",
+            "NA"
+        ],
+        [
+            "Burning",
+            "NA",
+            "Give_Off",
+            "Poisonous_Gas",
+            "CONCEPT"
+        ],
+        [
+            "Poisonous_Gas",
+            "CONCEPT",
+            "Hinder",
+            "Rescue_Work",
+            "CONCEPT"
+        ]
+    ]
+}

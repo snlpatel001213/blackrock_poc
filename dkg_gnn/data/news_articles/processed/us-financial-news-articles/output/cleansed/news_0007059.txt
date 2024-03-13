@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Nigerian soldiers",
+            "ORG/GOV",
+            "Rescue",
+            "Salomi Pogu",
+            "PERSON"
+        ],
+        [
+            "Salomi Pogu",
+            "PERSON",
+            "Relate_To",
+            "Chibok schoolgirls kidnapping",
+            "EVENT"
+        ],
+        [
+            "Another captive",
+            "PERSON",
+            "Travel_With",
+            "Salomi Pogu",
+            "PERSON"
+        ],
+        [
+            "Another captive",
+            "PERSON",
+            "Not",
+            "Chibok schoolgirls",
+            "PERSON"
+        ],
+        [
+            "Boko Haram",
+            "ORG/REG",
+            "Seize",
+            "Chibok Secondary School for girls",
+            "GPE"
+        ],
+        [
+            "Boko Haram",
+            "ORG/REG",
+            "Relate_To",
+            "Chibok schoolgirls kidnapping",
+            "EVENT"
+        ]
+    ]
+}

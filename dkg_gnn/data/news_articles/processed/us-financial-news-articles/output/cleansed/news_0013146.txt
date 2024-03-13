@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "TAT Technologies",
+            "ORG",
+            "Awarded",
+            "2-year agreement",
+            "EVENT"
+        ],
+        [
+            "Limco Airepair",
+            "ORG",
+            "Signs",
+            "2 year agreement",
+            "EVENT"
+        ],
+        [
+            "Korean Air",
+            "GPE",
+            "Participates_In",
+            "2 year agreement",
+            "EVENT"
+        ],
+        [
+            "TAT Technologies",
+            "ORG",
+            "Operate_In",
+            "Further company coverage",
+            "SECTOR"
+        ],
+        [
+            "Limco Airepair",
+            "ORG",
+            "Is_Member_Of",
+            "TAT Technologies",
+            "ORG"
+        ],
+        [
+            "Aircraft Heat Exchangers",
+            "PRODUCT",
+            "Control",
+            "MRO",
+            "SERVICE"
+        ],
+        [
+            "MRO",
+            "SERVICE",
+            "Relate_To",
+            "2 year agreement",
+            "EVENT"
+        ],
+        [
+            "2M",
+            "ECON_INDICATOR",
+            "Impact",
+            "Total Revenue",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

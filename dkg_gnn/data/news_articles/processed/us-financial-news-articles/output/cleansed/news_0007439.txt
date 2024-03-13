@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Apple",
+            "COMP",
+            "Control",
+            "Smartphone Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Participates_In",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Participates_In",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Parents",
+            "PERSON",
+            "Take_Responsibility_For",
+            "Tech Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Recode\u2019s Ed Lee",
+            "PERSON",
+            "Discuss",
+            "Effects of Technology",
+            "CONCEPT"
+        ],
+        [
+            "Ross Gerber",
+            "PERSON",
+            "Discuss",
+            "Effects of Technology",
+            "CONCEPT"
+        ],
+        [
+            "Brian Primack",
+            "PERSON",
+            "Discuss",
+            "Effects of Technology",
+            "CONCEPT"
+        ],
+        [
+            "Center for Research on Media, Technology and Health",
+            "ORG",
+            "Located_At",
+            "University of Pittsburgh",
+            "ORG"
+        ],
+        [
+            "Activist Investor",
+            "PERSON",
+            "Scrutiny",
+            "Apple",
+            "COMP"
+        ]
+    ]
+}

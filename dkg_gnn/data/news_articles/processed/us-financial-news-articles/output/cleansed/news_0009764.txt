@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Plan",
+            "Revision",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Unveil",
+            "Banking Rules",
+            "ORG"
+        ],
+        [
+            "Banking Rules",
+            "ORG",
+            "Mandate",
+            "Lending",
+            "CONCEPT"
+        ],
+        [
+            "Banking Rules",
+            "ORG",
+            "Relate_To",
+            "Poor Borrowers",
+            "PERSON"
+        ],
+        [
+            "Community Reinvestment Act",
+            "ORG/REG",
+            "Law",
+            "Lending Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Community Reinvestment Act",
+            "ORG/REG",
+            "First Enacted",
+            "1977",
+            "GPE"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Make",
+            "Loans",
+            "CONCEPT"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Make",
+            "Investments",
+            "CONCEPT"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Make",
+            "Donations",
+            "CONCEPT"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Serve",
+            "Poorer Customers",
+            "PERSON"
+        ],
+        [
+            "Changes",
+            "CONCEPT",
+            "Transform",
+            "Lending",
+            "CONCEPT"
+        ],
+        [
+            "Changes",
+            "CONCEPT",
+            "Make",
+            "Easier",
+            "CONCEPT"
+        ],
+        [
+            "Changes",
+            "CONCEPT",
+            "Lower",
+            "Penalties",
+            "CONCEPT"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Undergo",
+            "Shift",
+            "CONCEPT"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Future",
+            "High-Tech",
+            "CONCEPT"
+        ],
+        [
+            "Retail Banking Industry",
+            "SECTOR",
+            "Future",
+            "Sophisticated",
+            "CONCEPT"
+        ],
+        [
+            "Big Banks",
+            "ORG",
+            "Future",
+            "Urban",
+            "GPE"
+        ],
+        [
+            "Photo",
+            "PRODUCT",
+            "Shaumb\u00e9 Wright",
+            "The Wall Street Journal",
+            "ORG"
+        ]
+    ]
+}

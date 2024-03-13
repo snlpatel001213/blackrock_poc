@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Monaco",
+            "COMP",
+            "Allow",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Monaco",
+            "COMP",
+            "Load",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Monaco",
+            "COMP",
+            "Issue",
+            "Visa Card",
+            "PRODUCT"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Spend",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Kris Marszalek",
+            "PERSON",
+            "CEO",
+            "Monaco",
+            "COMP"
+        ]
+    ]
+}

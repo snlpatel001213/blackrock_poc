@@ -1,0 +1,115 @@
+{
+    "output": [
+        [
+            "North American Free Trade Agreement",
+            "EVENT",
+            "Has",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "North American Free Trade Agreement",
+            "EVENT",
+            "Good_For",
+            "Farmers",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Be",
+            "Good_For",
+            "Farmers",
+            "PERSON"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Address",
+            "U.S. agricultural community",
+            "PERSON"
+        ],
+        [
+            "Farmers",
+            "PERSON",
+            "Look_For",
+            "Signs",
+            "CONCEPT"
+        ],
+        [
+            "Administration",
+            "ORG/GOV",
+            "Softened",
+            "Earlier_Tough_Stance",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Deb Fischer",
+            "PERSON",
+            "Attend",
+            "Steak_Lunch",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Deb Fischer",
+            "PERSON",
+            "Rancher",
+            "NA"
+        ],
+        [
+            "Sen. Joni Ernst",
+            "PERSON",
+            "Bring",
+            "Chart",
+            "CONCEPT"
+        ],
+        [
+            "Chart",
+            "CONCEPT",
+            "Show",
+            "Negative_Impact",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Last_Tweet",
+            "Regarding_Nafta",
+            "EVENT"
+        ],
+        [
+            "Senate Agriculture Committee Chairman Pat Roberts",
+            "PERSON",
+            "Lead",
+            "Another_Group",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Official",
+            "NA"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Meet",
+            "Stakeholders",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Give",
+            "U.S. negotiators",
+            "CONCEPT"
+        ],
+        [
+            "U.S. negotiators",
+            "CONCEPT",
+            "Maximum_Leverage",
+            "In_Talks",
+            "CONCEPT"
+        ]
+    ]
+}

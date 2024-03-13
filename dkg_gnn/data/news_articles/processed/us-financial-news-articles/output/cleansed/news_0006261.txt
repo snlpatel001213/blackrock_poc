@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "RBB Bancorp",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RBB Bancorp",
+            "COMP",
+            "Operate_In",
+            "Los Angeles, California",
+            "GPE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Operate_In",
+            "Los Angeles County",
+            "GPE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Operate_In",
+            "Orange County",
+            "GPE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Operate_In",
+            "Ventura County",
+            "GPE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Operate_In",
+            "Las Vegas, Nevada",
+            "GPE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Produce",
+            "Business Banking Services",
+            "SERVICE"
+        ],
+        [
+            "Royal Business Bank",
+            "COMP",
+            "Control",
+            "RBB Asset Management Company",
+            "COMP"
+        ],
+        [
+            "RBB Asset Management Company",
+            "COMP",
+            "Participates_In",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

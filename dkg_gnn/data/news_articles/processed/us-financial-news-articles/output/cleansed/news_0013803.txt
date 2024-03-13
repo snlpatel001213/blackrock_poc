@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Deere & Co",
+            "COMP",
+            "Says",
+            "Dec 2017 Retail Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deere & Co",
+            "COMP",
+            "Operate_In",
+            "U.S. and Canada",
+            "GPE"
+        ],
+        [
+            "U.S. and Canada",
+            "GPE",
+            "Has",
+            "Industry",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "CONCEPT",
+            "Level",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deere & Co",
+            "COMP",
+            "Has",
+            "Ag Combines",
+            "PRODUCT"
+        ],
+        [
+            "Ag Combines",
+            "PRODUCT",
+            "Relate_To",
+            "Retail Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ag Combines",
+            "PRODUCT",
+            "Impact",
+            "Industry",
+            "CONCEPT"
+        ],
+        [
+            "Ag Combines",
+            "PRODUCT",
+            "Impact",
+            "ECON_INDICATOR",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deere & Co",
+            "COMP",
+            "Has",
+            "Ag 4WD Tractors",
+            "PRODUCT"
+        ],
+        [
+            "Ag 4WD Tractors",
+            "PRODUCT",
+            "Relate_To",
+            "Retail Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ag 4WD Tractors",
+            "PRODUCT",
+            "Impact",
+            "Industry Level",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deere & Co",
+            "COMP",
+            "Has",
+            "Selected Turf & Utility Equipment",
+            "PRODUCT"
+        ],
+        [
+            "Selected Turf & Utility Equipment",
+            "PRODUCT",
+            "Relate_To",
+            "Retail Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Selected Turf & Utility Equipment",
+            "PRODUCT",
+            "Impact",
+            "Single Digit",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

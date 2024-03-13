@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Rayonier Inc.",
+            "COMP",
+            "Announce",
+            "Tax_Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Rayonier Inc.",
+            "COMP",
+            "Operate_In",
+            "Timberland_Real_Estate_Investment_Trust",
+            "SECTOR"
+        ],
+        [
+            "Rayonier Inc.",
+            "COMP",
+            "Own",
+            "Timberlands",
+            "PRODUCT"
+        ],
+        [
+            "Timberlands",
+            "PRODUCT",
+            "Locate_In",
+            "US_South",
+            "GPE"
+        ],
+        [
+            "Timberlands",
+            "PRODUCT",
+            "Locate_In",
+            "US_Pacific_Northwest",
+            "GPE"
+        ],
+        [
+            "Timberlands",
+            "PRODUCT",
+            "Locate_In",
+            "New_Zealand",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Sunstone Hotel Investors Inc.",
+            "ORG",
+            "Announce",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "Sunstone Hotel Investors Inc.",
+            "ORG",
+            "Control",
+            "Marriott Philadelphia",
+            "PRODUCT"
+        ],
+        [
+            "Sunstone Hotel Investors Inc.",
+            "ORG",
+            "Control",
+            "Marriott Quincy",
+            "PRODUCT"
+        ],
+        [
+            "Marriott Philadelphia",
+            "PRODUCT",
+            "Sale",
+            null,
+            null
+        ],
+        [
+            "Marriott Quincy",
+            "PRODUCT",
+            "Sale",
+            null,
+            null
+        ],
+        [
+            "$139.0 MILLION",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "Sunstone Hotel Investors Inc.",
+            "ORG",
+            "Operate_In",
+            "Further company coverage",
+            "CONCEPT"
+        ]
+    ]
+}

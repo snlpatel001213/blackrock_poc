@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Southern California Edison Co",
+            "COMP",
+            "Send",
+            "Email",
+            "COMM"
+        ],
+        [
+            "Southern California Edison Co",
+            "COMP",
+            "Relate_To",
+            "San Onofre Order",
+            "EVENT"
+        ],
+        [
+            "Southern California Edison Co",
+            "COMP",
+            "Participates_In",
+            "Investigation",
+            "EVENT"
+        ],
+        [
+            "San Diego Gas & Electric",
+            "COMP",
+            "Send",
+            "Email",
+            "COMM"
+        ],
+        [
+            "Others",
+            "PERSON",
+            "Send",
+            "Email",
+            "COMM"
+        ],
+        [
+            "Email",
+            "COMM",
+            "Advise",
+            "Parties",
+            "PERSON"
+        ],
+        [
+            "Parties",
+            "PERSON",
+            "Continue",
+            "Mediated Settlement Talks",
+            "EVENT"
+        ],
+        [
+            "Parties",
+            "PERSON",
+            "Expect",
+            "Serving Notice of Settlement Conference",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "BNDES",
+            "ORG",
+            "Plan",
+            "130 billion reais",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Repay",
+            "Treasury",
+            "ORG/GOV"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Operate_In",
+            "Brazil",
+            "GPE"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Oblige",
+            "Transfer",
+            "VERB"
+        ],
+        [
+            "FAT",
+            "CONCEPT",
+            "Belonging",
+            "Cash",
+            "PRODUCT"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Transfer",
+            "FAT",
+            "CONCEPT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Transfer",
+            "BNDES",
+            "ORG"
+        ],
+        [
+            "Brazilian Treasury",
+            "ORG/GOV",
+            "Transfer",
+            "BNDES",
+            "ORG"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Weaken",
+            "Public finances",
+            "CONCEPT"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Squeeze",
+            "Commercial lenders",
+            "SECTOR"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Operate_In",
+            "Capital markets",
+            "SECTOR"
+        ],
+        [
+            "500 billion reais",
+            "ECON_INDICATOR",
+            "Transfer",
+            "Brazilian Treasury",
+            "ORG/GOV"
+        ],
+        [
+            "BNDES",
+            "ORG",
+            "Pay back",
+            "Loans",
+            "PRODUCT"
+        ],
+        [
+            "Loans",
+            "PRODUCT",
+            "Under",
+            "Original term",
+            "CONCEPT"
+        ],
+        [
+            "Loans",
+            "PRODUCT",
+            "Up to",
+            "30 years",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

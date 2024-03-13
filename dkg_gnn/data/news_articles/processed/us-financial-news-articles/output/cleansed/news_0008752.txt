@@ -1,0 +1,277 @@
+{
+    "output": [
+        [
+            "Bill Clinton",
+            "PERSON",
+            "Urge",
+            "Release",
+            "PERSON"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Face",
+            "Accusations",
+            "CONCEPT"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Face",
+            "Accusations",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Employ",
+            "Wa Lone",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Employ",
+            "Kyaw Soe Oo",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Detain",
+            "Wa Lone",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Detain",
+            "Kyaw Soe Oo",
+            "PERSON"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Work",
+            "Reuters Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Work",
+            "Reuters Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Rohingya Muslims",
+            "CONCEPT",
+            "Flee",
+            "Military Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Militant Attacks",
+            "CONCEPT",
+            "Occur",
+            "Security Forces",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Press",
+            "Myanmar\u2019s Then Military Rulers",
+            "ORG/GOV"
+        ],
+        [
+            "Aung San Suu Kyi",
+            "PERSON",
+            "Win",
+            "2015 Election",
+            "CONCEPT"
+        ],
+        [
+            "Aung San Suu Kyi",
+            "PERSON",
+            "Form",
+            "Government",
+            "CONCEPT"
+        ],
+        [
+            "Aung San Suu Kyi",
+            "PERSON",
+            "Barred",
+            "Presidency",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Cite",
+            "Police",
+            "ORG"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Say",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Reporters",
+            "PERSON",
+            "Possess",
+            "Secret Government Documents",
+            "CONCEPT"
+        ],
+        [
+            "Reporters",
+            "PERSON",
+            "Illegally Acquire",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Reporters",
+            "PERSON",
+            "Intend",
+            "Share",
+            "CONCEPT"
+        ],
+        [
+            "Information",
+            "CONCEPT",
+            "Relate_To",
+            "Rakhine State",
+            "GPE"
+        ],
+        [
+            "Information",
+            "CONCEPT",
+            "Relate_To",
+            "Security Forces",
+            "CONCEPT"
+        ],
+        [
+            "Official Secrets Act",
+            "CONCEPT",
+            "Date",
+            "1923",
+            "DATE"
+        ],
+        [
+            "Official Secrets Act",
+            "CONCEPT",
+            "Carry",
+            "Maximum Prison Sentence",
+            "CONCEPT"
+        ],
+        [
+            "Samantha Power",
+            "PERSON",
+            "Refer",
+            "Detention",
+            "CONCEPT"
+        ],
+        [
+            "Detention",
+            "CONCEPT",
+            "Symptom",
+            "World Without Credible US Leadership",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Call",
+            "Release",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Deep Concern",
+            "Prosecution",
+            "CONCEPT"
+        ],
+        [
+            "Free Press",
+            "CONCEPT",
+            "Vital",
+            "Burma\u2019s Transition",
+            "CONCEPT"
+        ],
+        [
+            "Free Press",
+            "CONCEPT",
+            "Vital",
+            "Burma\u2019s Democracy",
+            "CONCEPT"
+        ],
+        [
+            "Stephen J. Adler",
+            "PERSON",
+            "Call",
+            "Release",
+            "PERSON"
+        ],
+        [
+            "Stephen J. Adler",
+            "PERSON",
+            "State",
+            "Innocent",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Asked",
+            "Details",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Block",
+            "Media Access",
+            "CONCEPT"
+        ],
+        [
+            "North of Rakhine State",
+            "GPE",
+            "Spark",
+            "Military Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "United Nations",
+            "ORG",
+            "Condemn",
+            "Military Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Reject",
+            "Accusation",
+            "CONCEPT"
+        ],
+        [
+            "Committee to Protect Journalists",
+            "ORG",
+            "Call",
+            "Release",
+            "PERSON"
+        ],
+        [
+            "Development Media Group",
+            "ORG",
+            "Call",
+            "Release",
+            "PERSON"
+        ]
+    ]
+}

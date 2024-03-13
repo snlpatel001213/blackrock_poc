@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "OM Asset Management plc",
+            "ORG"
+        ],
+        [
+            "OM Asset Management plc",
+            "ORG",
+            "Control",
+            "Heitman LLC",
+            "ORG"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Redeem",
+            "OM Asset Management plc",
+            "ORG"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Operate_In",
+            "Global",
+            "GPE"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "Senior professionals",
+            "PERSON"
+        ],
+        [
+            "Senior professionals",
+            "PERSON",
+            "Control",
+            "Heitman LLC",
+            "ORG"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "Clients",
+            "PERSON"
+        ],
+        [
+            "Clients",
+            "PERSON",
+            "Place",
+            "Support",
+            "VERB"
+        ],
+        [
+            "Clients",
+            "PERSON",
+            "Place",
+            "Confidence",
+            "VERB"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "Approximately $39 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "Operations",
+            "VERB"
+        ],
+        [
+            "Operations",
+            "VERB",
+            "Across",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Operations",
+            "VERB",
+            "Across",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Operations",
+            "VERB",
+            "Across",
+            "Asia-Pacific",
+            "GPE"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Headquartered_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "Heitman LLC",
+            "ORG",
+            "Has",
+            "More than 360 employees",
+            "PERSON"
+        ],
+        [
+            "Employees",
+            "PERSON",
+            "Offer",
+            "Specialized expertise",
+            "VERB"
+        ]
+    ]
+}

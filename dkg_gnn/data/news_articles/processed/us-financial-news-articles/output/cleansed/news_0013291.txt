@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Lead",
+            "U.S. delegation",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. delegation",
+            "ORG/GOV",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Alaska",
+            "GPE"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Visit",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Review",
+            "ICBM defence systems",
+            "CONCEPT"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Reaffirm",
+            "Stability in the region",
+            "CONCEPT"
+        ],
+        [
+            "Vice President Mike Pence",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Pyeongchang",
+            "GPE",
+            "Coincide With",
+            "High tensions",
+            "CONCEPT"
+        ],
+        [
+            "Pyeongchang",
+            "GPE",
+            "Host",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "High-ranking officials",
+            "PERSON"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Athletes",
+            "PERSON"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Send",
+            "Cheering squad",
+            "ORG"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Say",
+            "No current plans for meeting",
+            "CONCEPT"
+        ],
+        [
+            "Lindsey Graham",
+            "PERSON",
+            "Oppose",
+            "Inviting North Korean delegation",
+            "ORG"
+        ],
+        [
+            "Lindsey Graham",
+            "PERSON",
+            "Write",
+            "Post on Twitter",
+            "PRODUCT"
+        ],
+        [
+            "Twitter",
+            "PRODUCT",
+            "Publish",
+            "Post",
+            "PRODUCT"
+        ]
+    ]
+}

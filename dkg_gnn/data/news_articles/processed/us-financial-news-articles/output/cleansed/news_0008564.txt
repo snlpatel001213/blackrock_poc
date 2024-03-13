@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Has",
+            "room",
+            "GPE"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Speech",
+            "time is up",
+            "CONCEPT"
+        ],
+        [
+            "Sarah Jessica Parker",
+            "PERSON",
+            "Participates_In",
+            "Golden Globe Awards",
+            "EVENT"
+        ],
+        [
+            "Sarah Jessica Parker",
+            "PERSON",
+            "Wear",
+            "black gowns",
+            "PRODUCT"
+        ],
+        [
+            "Viola Davis",
+            "PERSON",
+            "Participates_In",
+            "Golden Globe Awards",
+            "EVENT"
+        ],
+        [
+            "Viola Davis",
+            "PERSON",
+            "Wear",
+            "black gowns",
+            "PRODUCT"
+        ],
+        [
+            "Seth Meyers",
+            "PERSON",
+            "Open",
+            "ceremony",
+            "EVENT"
+        ],
+        [
+            "Seth Meyers",
+            "PERSON",
+            "Speech",
+            "Good evening, ladies and remaining gentlemen",
+            "CONCEPT"
+        ],
+        [
+            "Entertainment industry",
+            "SECTOR",
+            "Reckoning",
+            "sexual harassment",
+            "CONCEPT"
+        ],
+        [
+            "Golden Globe Awards",
+            "EVENT",
+            "Upstage",
+            "every category and celebrity",
+            "CONCEPT"
+        ]
+    ]
+}

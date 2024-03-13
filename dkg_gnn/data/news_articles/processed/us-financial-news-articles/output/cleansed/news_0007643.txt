@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Announce",
+            "filing for regulatory approval of three novel treatments",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Operate_In",
+            "Biotech sector",
+            "SECTOR"
+        ],
+        [
+            "Nick Leschly",
+            "PERSON",
+            "Is_Member_Of",
+            "bluebird bio Inc",
+            "COMP"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Expects",
+            "filing for approval this year for its treatment for transfusion-dependent beta thalassemia",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Expects",
+            "filing for U.S. and European approval of b2121 in 2019",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Develop",
+            "treatment for a rare and deadly genetic brain disorder, cerebral adrenoleukodystrophy",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Develop",
+            "promising treatment for sickle cell disease",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Plan",
+            "discuss appropriate endpoints for future sickle cell clinical trials with health regulators",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Plan",
+            "provide an update on the program at the end of the year",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Looking",
+            "develop right pricing and reimbursement strategy",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Has",
+            "two approved CAR-T treatments for other cancers from Novartis and Gilead Sciences",
+            "EVENT"
+        ],
+        [
+            "Novartis",
+            "COMP",
+            "Has",
+            "approved CAR-T treatment for other cancers",
+            "EVENT"
+        ],
+        [
+            "Gilead Sciences",
+            "COMP",
+            "Has",
+            "approved CAR-T treatment for other cancers",
+            "EVENT"
+        ],
+        [
+            "bluebird bio Inc",
+            "COMP",
+            "Principle",
+            "Don\u2019t do stupid shortsighted stuff",
+            "CONCEPT"
+        ]
+    ]
+}

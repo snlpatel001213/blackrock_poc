@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Receive",
+            "FDA Protocol Acceptance",
+            "EVENT"
+        ],
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Operate_In",
+            "Pharma Industry",
+            "SECTOR"
+        ],
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Participates_In",
+            "Phase 3 Betonmace Trial",
+            "EVENT"
+        ],
+        [
+            "Betonmace Trial",
+            "EVENT",
+            "Expand",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Betonmace Trial",
+            "EVENT",
+            "Top Line Data",
+            "Available",
+            "EVENT",
+            "Around",
+            "End",
+            "of",
+            "2018",
+            "TIME"
+        ]
+    ]
+}

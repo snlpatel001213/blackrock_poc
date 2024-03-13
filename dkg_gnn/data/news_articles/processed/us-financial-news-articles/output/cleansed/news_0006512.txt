@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "U.S. Justice Department",
+            "ORG/GOV",
+            "Rescind",
+            "Obama administration policy",
+            "CONCEPT"
+        ],
+        [
+            "Obama administration policy",
+            "CONCEPT",
+            "Relate_To",
+            "Eased enforcement",
+            "CONCEPT"
+        ],
+        [
+            "Eased enforcement",
+            "CONCEPT",
+            "Relate_To",
+            "Federal marijuana laws",
+            "CONCEPT"
+        ],
+        [
+            "Federal marijuana laws",
+            "CONCEPT",
+            "Operate_In",
+            "States",
+            "GPE"
+        ],
+        [
+            "States",
+            "GPE",
+            "Participates_In",
+            "Legalized the drug",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Justice Department",
+            "ORG/GOV",
+            "Give",
+            "Federal prosecutors",
+            "PERSON"
+        ],
+        [
+            "Federal prosecutors",
+            "PERSON",
+            "Have",
+            "Wide latitude",
+            "CONCEPT"
+        ],
+        [
+            "Wide latitude",
+            "CONCEPT",
+            "Relate_To",
+            "Pursuing criminal charges",
+            "CONCEPT"
+        ]
+    ]
+}

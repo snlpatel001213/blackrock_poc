@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Christ statue procession in Philippines draws throngs of devotees",
+            "EVENT"
+        ],
+        [
+            "Philippines",
+            "GPE",
+            "Host",
+            "Christ statue procession in Philippines draws throngs of devotees",
+            "EVENT"
+        ],
+        [
+            "Manila",
+            "GPE",
+            "Location",
+            "Christ statue procession in Philippines draws throngs of devotees",
+            "EVENT"
+        ],
+        [
+            "Black Nazarene",
+            "PRODUCT",
+            "Believed_To_Have",
+            "Healing Powers",
+            "CONCEPT"
+        ],
+        [
+            "Devotees",
+            "PERSON",
+            "Join",
+            "Christ statue procession in Philippines draws throngs of devotees",
+            "EVENT"
+        ],
+        [
+            "Devotees",
+            "PERSON",
+            "Follow",
+            "Carriage bearing the statue called the Black Nazarene",
+            "PRODUCT"
+        ],
+        [
+            "Devotees",
+            "PERSON",
+            "Wave",
+            "Towels and handkerchiefs",
+            "PRODUCT"
+        ],
+        [
+            "Catholic nation",
+            "GPE",
+            "Be",
+            "Christ statue procession in Philippines draws throngs of devotees",
+            "EVENT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Estimate",
+            "17 million devotees nationwide",
+            "GPE"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "Pull",
+            "Carriage bearing the statue called the Black Nazarene",
+            "PRODUCT"
+        ],
+        [
+            "Crowd",
+            "PERSON",
+            "Wave",
+            "Towels and handkerchiefs",
+            "PRODUCT"
+        ],
+        [
+            "Life-sized image of Jesus",
+            "PRODUCT",
+            "Kneeling",
+            "Cross on his shoulder",
+            "PRODUCT"
+        ],
+        [
+            "Processions and other religious rites",
+            "EVENT",
+            "Held",
+            "Elsewhere in the country",
+            "GPE"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Exclude",
+            "Those waiting elsewhere along the parade route",
+            "EVENT"
+        ],
+        [
+            "Monsignor Sabino Vengco",
+            "PERSON",
+            "Tell",
+            "People will suffer sickness, old age...so pain and suffering will always be there",
+            "CONCEPT"
+        ],
+        [
+            "Monsignor Sabino Vengco",
+            "PERSON",
+            "Tell",
+            "There will always be a need for someone, and that is exactly Jesus",
+            "CONCEPT"
+        ],
+        [
+            "Philippine Red Cross",
+            "ORG",
+            "Assist",
+            "More than 600 devotees",
+            "PERSON"
+        ],
+        [
+            "Police and soldiers",
+            "ORG",
+            "Deployed",
+            "Ensure the Manila procession would be peaceful",
+            "EVENT"
+        ],
+        [
+            "Oscar Albayalde",
+            "PERSON",
+            "Say",
+            "More than 4,000 police and soldiers were deployed",
+            "ORG"
+        ]
+    ]
+}

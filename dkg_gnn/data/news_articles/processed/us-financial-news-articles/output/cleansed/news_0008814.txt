@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Sy Mukherjee",
+            "PERSON",
+            "Author",
+            "new study",
+            "EVENT"
+        ],
+        [
+            "new study",
+            "EVENT",
+            "Publish",
+            "journal PNAS",
+            "ORG"
+        ],
+        [
+            "ibuprofen",
+            "PRODUCT",
+            "Link",
+            "male infertility",
+            "SECTOR"
+        ],
+        [
+            "ibuprofen",
+            "PRODUCT",
+            "Include",
+            "changes to male hormones",
+            "CONCEPT"
+        ],
+        [
+            "ibuprofen",
+            "PRODUCT",
+            "Sold",
+            "Advil",
+            "BRAND"
+        ],
+        [
+            "ibuprofen",
+            "PRODUCT",
+            "Sold",
+            "Motrin",
+            "BRAND"
+        ],
+        [
+            "ibuprofen",
+            "PRODUCT",
+            "Cause",
+            "changes to luteinizing hormones",
+            "CONCEPT"
+        ],
+        [
+            "luteinizing hormones",
+            "CONCEPT",
+            "Induce",
+            "testicles",
+            "GPE"
+        ],
+        [
+            "testicles",
+            "GPE",
+            "Produce",
+            "testosterone",
+            "CONCEPT"
+        ],
+        [
+            "testosterone",
+            "CONCEPT",
+            "Out of whack",
+            "hypogonadism",
+            "CONCEPT"
+        ],
+        [
+            "hypogonadism",
+            "CONCEPT",
+            "Associated",
+            "male infertility",
+            "SECTOR"
+        ],
+        [
+            "hypogonadism",
+            "CONCEPT",
+            "Associated",
+            "other health effects",
+            "CONCEPT"
+        ],
+        [
+            "other health effects",
+            "CONCEPT",
+            "Include",
+            "fatigue",
+            "CONCEPT"
+        ],
+        [
+            "other health effects",
+            "CONCEPT",
+            "Include",
+            "depression",
+            "CONCEPT"
+        ],
+        [
+            "study",
+            "EVENT",
+            "Randomized control trial",
+            "null",
+            "null"
+        ],
+        [
+            "study",
+            "EVENT",
+            "One group",
+            "participants receiving ibuprofen",
+            "PRODUCT"
+        ],
+        [
+            "other group",
+            "EVENT",
+            "participants receiving placebo",
+            "null",
+            "null"
+        ],
+        [
+            "findings",
+            "EVENT",
+            "Further research",
+            "null",
+            "null"
+        ],
+        [
+            "ibuprofen use",
+            "PRODUCT",
+            "Maximum recommended dosage",
+            "1,200 milligrams per day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ibuprofen use",
+            "PRODUCT",
+            "Maximum recommended dosage",
+            "every day for two weeks",
+            "TIME"
+        ],
+        [
+            "occasional user",
+            "PERSON",
+            "Not much cause for concern",
+            "high doses over a week-long time frame",
+            "TIME"
+        ],
+        [
+            "study authors",
+            "PERSON",
+            "Note",
+            "constant, long-term, and high-dose use of ibuprofen",
+            "PRODUCT"
+        ],
+        [
+            "constant, long-term, and high-dose use of ibuprofen",
+            "PRODUCT",
+            "Could have",
+            "more lasting changes on male hormones",
+            "CONCEPT"
+        ],
+        [
+            "acetaminophen",
+            "PRODUCT",
+            "Common painkiller",
+            "null",
+            "null"
+        ],
+        [
+            "acetaminophen",
+            "PRODUCT",
+            "Carries liver damage risk",
+            "null",
+            "null"
+        ],
+        [
+            "acetaminophen",
+            "PRODUCT",
+            "Linked",
+            "behavioral issues in their children",
+            "CONCEPT"
+        ],
+        [
+            "acetaminophen",
+            "PRODUCT",
+            "Used by pregnant women",
+            "null",
+            "null"
+        ],
+        [
+            "America",
+            "GPE",
+            "Most commonly used drugs",
+            "acetaminophen",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Amicus",
+            "COMP",
+            "Control",
+            "Crowley",
+            "PERSON"
+        ],
+        [
+            "Amicus",
+            "COMP",
+            "Produce",
+            "treatment",
+            "PRODUCT"
+        ],
+        [
+            "treatment",
+            "PRODUCT",
+            "Relate_To",
+            "Pompe disease",
+            "CONCEPT"
+        ]
+    ]
+}

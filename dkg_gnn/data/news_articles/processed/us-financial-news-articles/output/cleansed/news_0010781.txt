@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Goldman Sachs Group Inc.",
+            "COMP",
+            "Lend",
+            "Real Industry Inc.",
+            "COMP"
+        ],
+        [
+            "Goldman Sachs Group Inc.",
+            "COMP",
+            "Plan_To",
+            "Buy",
+            "PRODUCT"
+        ],
+        [
+            "Real Industry Inc.",
+            "COMP",
+            "Filed_For",
+            "Chapter 11",
+            "EVENT"
+        ],
+        [
+            "Real Industry Inc.",
+            "COMP",
+            "Have",
+            "Net_Operating_Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real Industry Inc.",
+            "COMP",
+            "Sit_On",
+            "Tax_Benefits",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

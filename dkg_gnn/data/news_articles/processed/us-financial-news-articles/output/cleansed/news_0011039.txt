@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Has",
+            "Pilots",
+            "PERSON"
+        ],
+        [
+            "Pilots",
+            "PERSON",
+            "Operate_In",
+            "California",
+            "GPE"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Control",
+            "Pilots",
+            "PERSON"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Participates_In",
+            "Wage-and-hour laws",
+            "CONCEPT"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Sue",
+            "California wage-and-hour laws",
+            "CONCEPT"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Has",
+            "Judge Vince Chhabria",
+            "PERSON"
+        ],
+        [
+            "Judge Vince Chhabria",
+            "PERSON",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Reject",
+            "Bid to dismiss",
+            "CONCEPT"
+        ],
+        [
+            "Cathay Pacific Airways Limited",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Star Wars: The Last Jedi",
+            "EVENT",
+            "Has",
+            "Soft $28.7 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Star Wars: The Last Jedi",
+            "EVENT",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Walt Disney Co.",
+            "ORG",
+            "Control",
+            "Star Wars: The Last Jedi",
+            "EVENT"
+        ],
+        [
+            "Walt Disney Co.",
+            "ORG",
+            "Has",
+            "Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Walt Disney Co.",
+            "ORG",
+            "Has",
+            "Prized Franchise",
+            "CONCEPT"
+        ],
+        [
+            "Walt Disney Co.",
+            "ORG",
+            "Operate_In",
+            "World\u2019s Second-Largest Movie Market",
+            "GPE"
+        ],
+        [
+            "Walt Disney Co.",
+            "ORG",
+            "Not_Well_Known",
+            "China",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Andy Murray",
+            "PERSON",
+            "Undergoes",
+            "Hip Surgery",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Determined",
+            "Return",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Withdraw",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Operate_In",
+            "Grasscourt Season",
+            "SECTOR"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Ended",
+            "2016 as World Number One",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Slip",
+            "19th in Rankings",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

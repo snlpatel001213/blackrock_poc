@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Alibaba Group Holding Ltd",
+            "COMP",
+            "Consider",
+            "Hong Kong Listing",
+            "EVENT"
+        ],
+        [
+            "Jack Ma",
+            "PERSON",
+            "Say",
+            "Alibaba Will Consider Hong Kong Listing",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Prepare",
+            "Dual-class Share Listings",
+            "EVENT"
+        ],
+        [
+            "Carrie Lam",
+            "PERSON",
+            "Hope",
+            "Alibaba Would Consider Returning to Hong Kong to List",
+            "EVENT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Hong Kong Exchanges and Clearing Ltd",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Set_To",
+            "Allow Dual-class Shares",
+            "EVENT"
+        ],
+        [
+            "Dual-class Shares",
+            "CONCEPT",
+            "Grant",
+            "Differentiated Voting Rights",
+            "EVENT"
+        ],
+        [
+            "New Age Industries",
+            "CONCEPT",
+            "Favored",
+            "Dual-class Shares",
+            "EVENT"
+        ],
+        [
+            "Technology",
+            "SECTOR",
+            "Favored",
+            "Dual-class Shares",
+            "EVENT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Trade",
+            "Over $3 Billion Worth of Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hong Kong Exchanges and Clearing Ltd",
+            "COMP",
+            "Raise",
+            "Stakes in Battle Against New York",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Become",
+            "New Economy Platform",
+            "EVENT"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Rise",
+            "As Much as 3.1 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Attract",
+            "More Funds from Mainland",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Convince",
+            "Other Big Firms to List",
+            "EVENT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Greater Access",
+            "Investors Closer to China",
+            "EVENT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Support",
+            "Financial Services Innovation",
+            "EVENT"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Draft",
+            "Specific Rule Changes",
+            "EVENT"
+        ],
+        [
+            "Innovative Chinese Companies",
+            "CONCEPT",
+            "Able to Seek",
+            "Secondary Listing in Hong Kong",
+            "EVENT"
+        ],
+        [
+            "HKEX",
+            "COMP",
+            "Not Yet Define",
+            "What \u201cInnovative\u201d Is",
+            "EVENT"
+        ],
+        [
+            "Hong Kong Listings",
+            "EVENT",
+            "47 Percent",
+            "New York Stock Exchange",
+            "COMP"
+        ],
+        [
+            "Hong Kong Listings",
+            "EVENT",
+            "3 Percent",
+            "New Economy Companies",
+            "SECTOR"
+        ],
+        [
+            "Minority Investors",
+            "CONCEPT",
+            "Concern",
+            "Protection under Dual Structure",
+            "EVENT"
+        ]
+    ]
+}

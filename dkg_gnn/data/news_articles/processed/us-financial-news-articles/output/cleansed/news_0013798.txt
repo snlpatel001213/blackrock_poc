@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "U.S. Judge Jed Rakoff",
+            "PERSON",
+            "Overturn",
+            "Arbitrator\u2019s Ruling",
+            "ORG/REG"
+        ],
+        [
+            "Sterling Jewelers Inc",
+            "COMP",
+            "Participates_In",
+            "Nationwide Sex Discrimination Case",
+            "EVENT"
+        ],
+        [
+            "70,000 Women",
+            "PERSON",
+            "Impacted_By",
+            "Sex Discrimination Case",
+            "EVENT"
+        ],
+        [
+            "Sterling Jewelers Inc",
+            "COMP",
+            "Operate_In",
+            "Akron, Ohio",
+            "GPE"
+        ],
+        [
+            "Sterling",
+            "COMP",
+            "Control",
+            "Signet Jewelers Ltd",
+            "COMP"
+        ],
+        [
+            "Sterling",
+            "COMP",
+            "Settle",
+            "Similar Case",
+            "EVENT"
+        ],
+        [
+            "U.S. Equal Employment Opportunity Commission",
+            "ORG/REG",
+            "Bring",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "Sterling",
+            "COMP",
+            "Challenge",
+            "Certification",
+            "ORG/REG"
+        ],
+        [
+            "10,000 Women",
+            "PERSON",
+            "Opt_Into",
+            "Arbitration",
+            "ORG/REG"
+        ],
+        [
+            "Joseph Sellers",
+            "PERSON",
+            "Intend",
+            "Appeal",
+            "ORG/REG"
+        ],
+        [
+            "Plaintiffs",
+            "PERSON",
+            "Confident",
+            "Strength",
+            "CONCEPT"
+        ],
+        [
+            "Sterling Jewelers Inc",
+            "COMP",
+            "Hold_Accountable",
+            "Discriminatory Conduct",
+            "CONCEPT"
+        ],
+        [
+            "Signet Jewelers Ltd",
+            "COMP",
+            "Stock_Plunged",
+            "February 2017",
+            "TEMPORAL"
+        ],
+        [
+            "1,300 Pages",
+            "PRODUCT",
+            "Made_Public",
+            "Case Documents",
+            "PRODUCT"
+        ],
+        [
+            "Signet Jewelers Ltd",
+            "COMP",
+            "Sue",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Signet",
+            "COMP",
+            "Fail",
+            "Disclose",
+            "CONCEPT"
+        ],
+        [
+            "Signet",
+            "COMP",
+            "Break",
+            "Law",
+            "CONCEPT"
+        ]
+    ]
+}

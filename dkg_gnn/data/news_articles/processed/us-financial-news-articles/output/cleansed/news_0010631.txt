@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Antares Capital",
+            "COMP",
+            "Announce",
+            "serve",
+            "ORG"
+        ],
+        [
+            "Antares",
+            "COMP",
+            "Operate_In",
+            "Finance",
+            "SECTOR"
+        ],
+        [
+            "Gryphon Investors",
+            "COMP",
+            "Impact",
+            "Antares",
+            "ORG"
+        ],
+        [
+            "Gryphon Investors",
+            "COMP",
+            "Invests_In",
+            "Potter Electric Signal Company",
+            "COMP"
+        ],
+        [
+            "Potter Electric Signal Company",
+            "COMP",
+            "Produce",
+            "commercial fire and safety specialty products",
+            "PRODUCT"
+        ],
+        [
+            "Potter",
+            "COMP",
+            "Control",
+            "three primary divisions",
+            "CONCEPT"
+        ],
+        [
+            "Dorian Faust",
+            "PERSON",
+            "Speak",
+            "great history",
+            "CONCEPT"
+        ],
+        [
+            "Dorian Faust",
+            "PERSON",
+            "Speak",
+            "flexible financing terms",
+            "CONCEPT"
+        ],
+        [
+            "Dorian Faust",
+            "PERSON",
+            "Speak",
+            "deep sector knowledge",
+            "CONCEPT"
+        ],
+        [
+            "Mary Gaede",
+            "PERSON",
+            "Speak",
+            "Gryphon acquisition",
+            "EVENT"
+        ],
+        [
+            "Mary Gaede",
+            "PERSON",
+            "Speak",
+            "successful execution",
+            "CONCEPT"
+        ],
+        [
+            "Mary Gaede",
+            "PERSON",
+            "Speak",
+            "Potter join",
+            "COMP"
+        ],
+        [
+            "Mary Gaede",
+            "PERSON",
+            "Speak",
+            "strong team",
+            "CONCEPT"
+        ]
+    ]
+}

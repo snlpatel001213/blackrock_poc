@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Change",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Change_To",
+            "Joint-Stock Company",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Operate_In",
+            "Saudi Arabia",
+            "GPE"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "Fully Paid Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "200 Billion Ordinary Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "11 Members Board",
+            "PERSON"
+        ],
+        [
+            "Board",
+            "ORG",
+            "Is_Member_Of",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Can",
+            "List Company",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Can",
+            "List Company",
+            "ORG",
+            "In",
+            "Domestic and International Markets",
+            "SECTOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Retain",
+            "Ultimate Decision",
+            "CONCEPT",
+            "On",
+            "National Production Levels",
+            "CONCEPT"
+        ]
+    ]
+}

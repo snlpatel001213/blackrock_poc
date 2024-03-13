@@ -1,0 +1,34 @@
+{
+    "output": [
+        [
+            "Codorus Valley Bancorp Inc.",
+            "COMP",
+            "Announce",
+            "Regular Qtrly Cash Dividend",
+            "ECON_INDICATOR",
+            "0.155",
+            "PER COMMON SHARE",
+            "ECON_INDICATOR",
+            "A",
+            "CONCEPT",
+            "15",
+            "PERCENT",
+            "ECON_INDICATOR",
+            "Increase",
+            "CONCEPT",
+            "From",
+            "CONCEPT",
+            "Previous",
+            "CONCEPT",
+            "Quarter",
+            "TIME"
+        ],
+        [
+            "Codorus Valley Bancorp Inc.",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "ORG/REG"
+        ]
+    ]
+}

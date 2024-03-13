@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Brent",
+            "ECON_INDICATOR",
+            "Rise",
+            "10 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Supported",
+            "OPEC-led cuts",
+            "ORG"
+        ],
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Supported",
+            "Strong economic growth",
+            "CONCEPT"
+        ],
+        [
+            "Tensions",
+            "CONCEPT",
+            "Lift",
+            "OPEC-member Iran",
+            "GPE"
+        ],
+        [
+            "Oil prices",
+            "ECON_INDICATOR",
+            "Firm",
+            "Slight decline in the number of U.S. rigs drilling for new production",
+            "CONCEPT"
+        ],
+        [
+            "Crude",
+            "ECON_INDICATOR",
+            "Hold",
+            "Near three-year highs",
+            "CONCEPT"
+        ],
+        [
+            "Brent crude futures",
+            "ECON_INDICATOR",
+            "At",
+            "$67.74",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Said",
+            "Gains",
+            "CONCEPT"
+        ],
+        [
+            "Gains",
+            "CONCEPT",
+            "Due",
+            "Slight decline in the number of U.S. rigs drilling for new production",
+            "CONCEPT"
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Expected to break",
+            "Very soon",
+            "CONCEPT"
+        ],
+        [
+            "U.S. production",
+            "ECON_INDICATOR",
+            "Counter",
+            "Production cuts led by OPEC and Russia",
+            "ORG/ORG_REG"
+        ],
+        [
+            "Stephen Innes",
+            "PERSON",
+            "Head",
+            "Trading for Asia/Pacific at futures brokerage Oanda in Singapore",
+            "COMP"
+        ],
+        [
+            "Innes",
+            "PERSON",
+            "Add",
+            "Middle East turmoil",
+            "GPE"
+        ],
+        [
+            "Innes",
+            "PERSON",
+            "Warn",
+            "Potential to send oil prices rocketing higher",
+            "CONCEPT"
+        ]
+    ]
+}

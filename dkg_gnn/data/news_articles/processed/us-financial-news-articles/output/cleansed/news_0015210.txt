@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Latin America",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Has",
+            "3.5 billion dollar debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Ghana",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Ivory Coast",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Peru",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Operate_In",
+            "Uganda",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Control",
+            "Maersk Venturer rig",
+            "COMP"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Participates_In",
+            "Oil and Gas Industry",
+            "SECTOR"
+        ],
+        [
+            "Oil Prices",
+            "CONCEPT",
+            "Impact_On",
+            "Tullow Oil",
+            "ORG"
+        ],
+        [
+            "Oil Prices",
+            "CONCEPT",
+            "Relate_To",
+            "Surging U.S. Shale Production",
+            "CONCEPT"
+        ],
+        [
+            "Tweneboa, Enyenra, Ntomme (TEN)",
+            "PRODUCT",
+            "Operate_In",
+            "Ghana",
+            "GPE"
+        ],
+        [
+            "Jubilee",
+            "PRODUCT",
+            "Operate_In",
+            "Ghana",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Acquire",
+            "Exploration License",
+            "CONCEPT"
+        ],
+        [
+            "Ivory Coast",
+            "GPE",
+            "Relate_To",
+            "Seismic Studies",
+            "CONCEPT"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Acquire",
+            "Six new license",
+            "PRODUCT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Relate_To",
+            "Exploration",
+            "CONCEPT"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Expect",
+            "Project Approval in Uganda",
+            "GPE"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Generate",
+            "500 million dollar free cash flow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Expect",
+            "Production to average 90,300 boed",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Reduce",
+            "Debt Burden",
+            "CONCEPT"
+        ],
+        [
+            "Tullow Oil",
+            "ORG",
+            "Refinance",
+            "2.5 billion dollar credit facility",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

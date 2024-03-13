@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "New York City",
+            "GPE",
+            "Spend",
+            "New Public-health Laboratory",
+            "FACILITY"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Operate_In",
+            "Harlem Hospital Center",
+            "FACILITY"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Intend",
+            "Give More Flexibility",
+            "CONCEPT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Intend",
+            "Help Staff Work More Easily",
+            "CONCEPT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Announce",
+            "Coming Weeks",
+            "TIME"
+        ],
+        [
+            "City\u2019s Department of Health & Mental Hygiene",
+            "ORG",
+            "Operate_In",
+            "New York City",
+            "GPE"
+        ],
+        [
+            "City\u2019s Department of Health & Mental Hygiene",
+            "ORG",
+            "Work",
+            "Easily",
+            "CONCEPT"
+        ],
+        [
+            "City\u2019s Department of Health & Mental Hygiene",
+            "ORG",
+            "Respond",
+            "Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Crisis",
+            "CONCEPT",
+            "Include",
+            "Zika 2016",
+            "EVENT"
+        ],
+        [
+            "Crisis",
+            "CONCEPT",
+            "Include",
+            "Ebola 2014",
+            "EVENT"
+        ]
+    ]
+}

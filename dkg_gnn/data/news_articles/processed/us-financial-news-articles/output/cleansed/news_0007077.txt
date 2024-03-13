@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Hit",
+            25000,
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Announce",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Fire and Fury",
+            "EVENT",
+            "Relate_To",
+            "Trumps inner circle",
+            "CONCEPT"
+        ],
+        [
+            "Snow Storm",
+            "EVENT",
+            "Impact",
+            "East Coast",
+            "GPE"
+        ],
+        [
+            "Snow Storm",
+            "EVENT",
+            "Negative_Impact_On",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Snow Storm",
+            "EVENT",
+            "Negative_Impact_On",
+            "Maine",
+            "GPE"
+        ]
+    ]
+}

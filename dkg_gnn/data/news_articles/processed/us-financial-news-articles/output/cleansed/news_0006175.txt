@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Constellation Software Inc",
+            "ORG",
+            "Acquire",
+            "IN2 Group",
+            "ORG"
+        ],
+        [
+            "Constellation Software Inc",
+            "ORG",
+            "Is_Member_Of",
+            "Wholly-Owned Division",
+            "ORG"
+        ],
+        [
+            "Wholly-Owned Division",
+            "ORG",
+            "Acquire",
+            "IN2 Group",
+            "ORG"
+        ],
+        [
+            "IN2 Group",
+            "ORG",
+            "Acquired_By",
+            "Constellation Software Inc",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "output": [
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Maintain",
+            "Ban",
+            "ORG/REG"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Hear",
+            "Plea",
+            "ORG/REG"
+        ],
+        [
+            "Jaiprakash Associates Ltd",
+            "COMP",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Jaiprakash Associates Ltd",
+            "COMP",
+            "Relate_To",
+            "Insolvency Proceedings",
+            "CONCEPT"
+        ],
+        [
+            "Jaypee Infratech Ltd",
+            "COMP",
+            "Relate_To",
+            "Jaiprakash Associates",
+            "COMP"
+        ],
+        [
+            "Jaypee Infratech Ltd",
+            "COMP",
+            "Pursued_In",
+            "Bankruptcy Court",
+            "ORG/REG"
+        ],
+        [
+            "Jaiprakash Associates",
+            "COMP",
+            "Owe",
+            "Loan Defaults",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Many Buyers",
+            "PERSON",
+            "Petition",
+            "Court",
+            "ORG/GOV"
+        ],
+        [
+            "Jaiprakash Associates",
+            "COMP",
+            "Deposit",
+            "20 Billion Rupees",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Bar",
+            "Sale of Assets",
+            "ORG/REG"
+        ],
+        [
+            "RBI",
+            "ORG/REG",
+            "Want",
+            "Jaiprakash Associates Creditor Banks",
+            "ORG/REG",
+            "Push",
+            "Insolvency Resolution Proceedings",
+            "CONCEPT"
+        ],
+        [
+            "Creditors",
+            "PERSON",
+            "Need",
+            "Bids",
+            "ORG/REG",
+            "Assets",
+            "ORG/REG",
+            "Stake in Company",
+            "COMP"
+        ],
+        [
+            "RBI",
+            "ORG/REG",
+            "Jaiprakash Associates",
+            "Lead Lender ICICI Bank",
+            "COMP",
+            "Did not Immediately Reply",
+            "Requests for Comment",
+            "CONCEPT"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Restricting",
+            "Sale of Assets",
+            "ORG/REG"
+        ],
+        [
+            "Insolvency Resolution",
+            "CONCEPT",
+            "Obstruct",
+            "Supreme Court Order",
+            "ORG/GOV"
+        ],
+        [
+            "Jaiprakash Associates",
+            "COMP",
+            "Relate_To",
+            "Creditor Banks",
+            "ORG/REG"
+        ],
+        [
+            "Jaiprakash Associates",
+            "COMP",
+            "Relate_To",
+            "Lawyers",
+            "PERSON"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Said",
+            "Supreme Court Order",
+            "ORG/GOV",
+            "Obstruct",
+            "Insolvency Resolution",
+            "CONCEPT"
+        ]
+    ]
+}

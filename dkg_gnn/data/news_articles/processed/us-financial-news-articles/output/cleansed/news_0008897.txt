@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "B3IT MANAGEMENT AB",
+            "COMP",
+            "Gets",
+            "Procurement",
+            "CONCEPT"
+        ],
+        [
+            "KUNGLIGA OPERAN",
+            "COMP",
+            "Is_Supplier_Of",
+            "B3IT MANAGEMENT AB",
+            "COMP"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "Relate_To",
+            "B3IT MANAGEMENT AB",
+            "COMP"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "Relate_To",
+            "KUNGLIGA OPERAN",
+            "COMP"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "Valid_For",
+            "2 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "Possibility_To_Prolong",
+            "1 Extra Year",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

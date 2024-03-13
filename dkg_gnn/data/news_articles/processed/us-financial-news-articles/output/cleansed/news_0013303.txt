@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Boeing Co",
+            "COMP",
+            "Expect",
+            "5.5% to 6%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Release",
+            "Year-end jetliner sales and delivery totals",
+            "EVENT"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Study",
+            "Capacity increases planned by airlines",
+            "EVENT"
+        ],
+        [
+            "Worldwide airlines",
+            "GPE",
+            "Carry",
+            "Passengers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Based on",
+            "Boeing\u2019s study",
+            "EVENT"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Forecast",
+            "Passenger growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Down from",
+            "Growth of about 7.25 percent in 2017",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Passenger growth",
+            "ECON_INDICATOR",
+            "Likely",
+            "Outpace capacity this year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Passenger growth",
+            "ECON_INDICATOR",
+            "Over",
+            "Last eight years",
+            "TIME"
+        ],
+        [
+            "Randy Tinseth",
+            "PERSON",
+            "Say",
+            "Conference call",
+            "EVENT"
+        ]
+    ]
+}

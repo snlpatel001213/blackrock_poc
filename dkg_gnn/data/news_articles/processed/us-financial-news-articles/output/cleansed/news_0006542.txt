@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Biocryst Pharmaceuticals Inc.",
+            "COMP",
+            "Announce",
+            "Potential Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Biocryst Pharmaceuticals Inc.",
+            "COMP",
+            "Control",
+            "BCX9250, BCX9499",
+            "PRODUCT"
+        ],
+        [
+            "BCX9250, BCX9499",
+            "PRODUCT",
+            "Relate_To",
+            "Fibrodysplasia Ossificans Progressiva",
+            "CONCEPT"
+        ],
+        [
+            "Biocryst Pharmaceuticals Inc.",
+            "COMP",
+            "Initiate",
+            "Nonclinical Development",
+            "CONCEPT"
+        ],
+        [
+            "Biocryst Pharmaceuticals Inc.",
+            "COMP",
+            "Progress",
+            "Phase 1 Clinical Trials",
+            "CONCEPT"
+        ],
+        [
+            "Phase 1 Clinical Trials",
+            "CONCEPT",
+            "Impact",
+            "H1 2019",
+            "TIME"
+        ]
+    ]
+}

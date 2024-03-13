@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Propose",
+            "open nearly all U.S. offshore waters to oil and gas drilling",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Remove",
+            "Florida from consideration for any new oil and gas platforms",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Have",
+            "state waters extend 3 nautical miles from the shore on the Atlantic, and 9 nautical miles on the Gulf side",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Support",
+            "Governor (Rick) Scott\u2019s position that Florida is unique and its coasts are heavily reliant on tourism as an economic driver",
+            "CONCEPT"
+        ],
+        [
+            "Interior Secretary Ryan Zinke",
+            "PERSON",
+            "Remove",
+            "Florida from consideration for any new oil and gas platforms",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Governor (Rick) Scott",
+            "PERSON",
+            "Ask",
+            "to meet with Zinke",
+            "EVENT"
+        ],
+        [
+            "Oceana",
+            "ORG",
+            "Pleased",
+            "that Zinke had removed Florida from areas open to drilling",
+            "EVENT"
+        ],
+        [
+            "Diane Hoskins",
+            "PERSON",
+            "Campaign director",
+            "Oceana",
+            "ORG"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Direct",
+            "Interior Secretary Ryan Zinke to rebuild offshore oil and gas program",
+            "CONCEPT"
+        ],
+        [
+            "Zinke",
+            "PERSON",
+            "Said last week",
+            "that the department\u2019s draft National Outer Continental Shelf Oil and Gas Leasing Program for 2019 to 2024 would make over 90 percent of the outer continental shelf\u2019s total acreage available for leasing to drillers",
+            "CONCEPT"
+        ],
+        [
+            "Zinke",
+            "PERSON",
+            "Said last week",
+            "that the program would replace Obama\u2019s 2017-2022 plan",
+            "EVENT"
+        ],
+        [
+            "Obama administration",
+            "ORG/GOV",
+            "Place",
+            "94 percent of the Outer Continental Shelf off limits to drillers",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Greenpeace",
+            "ORG",
+            "Call",
+            "the move to protect Florida a political ploy",
+            "CONCEPT"
+        ],
+        [
+            "Defense Department",
+            "ORG/GOV",
+            "Raise concerns",
+            "about opening drilling that had been banned off the eastern Gulf of Mexico",
+            "CONCEPT"
+        ]
+    ]
+}

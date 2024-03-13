@@ -1,0 +1,29 @@
+{
+    "output": [
+        [
+            "Russian FM",
+            "PERSON",
+            "Has",
+            "Moscow",
+            "GPE"
+        ],
+        [
+            "Moscow",
+            "GPE",
+            "Will_not_support",
+            "Washington\u2019s attempts",
+            "ORG/GOV",
+            "to",
+            "modify",
+            "Iran nuclear deal",
+            "EVENT"
+        ],
+        [
+            "Washington\u2019s attempts",
+            "ORG/GOV",
+            "Relate_To",
+            "Iran nuclear deal",
+            "EVENT"
+        ]
+    ]
+}

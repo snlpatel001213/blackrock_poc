@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bank shares",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Mediocre Fundamentals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank shares",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Tax Reform",
+            "CONCEPT"
+        ],
+        [
+            "Bank shares",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Strengthening Economy",
+            "CONCEPT"
+        ],
+        [
+            "JPMorgan Chase",
+            "COMP",
+            "Report",
+            "Fourth-Quarter Earnings",
+            "EVENT"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Report",
+            "Fourth-Quarter Earnings",
+            "EVENT"
+        ],
+        [
+            "Banks",
+            "COMP",
+            "Take",
+            "Multibillion-Dollar Write-Downs",
+            "EVENT"
+        ]
+    ]
+}

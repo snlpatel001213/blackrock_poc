@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Pita Taufatofua",
+            "PERSON",
+            "Participates_In",
+            "Opening Ceremony",
+            "EVENT"
+        ],
+        [
+            "Tonga",
+            "GPE",
+            "Has",
+            "Pita Taufatofua",
+            "PERSON"
+        ],
+        [
+            "Pita Taufatofua",
+            "PERSON",
+            "Is_Member_Of",
+            "Tonga",
+            "GPE"
+        ],
+        [
+            "Pita Taufatofua",
+            "PERSON",
+            "Marched",
+            "World\u2019s Most-Watched Parade",
+            "EVENT"
+        ],
+        [
+            "Pita Taufatofua",
+            "PERSON",
+            "Walked_Out",
+            "Global Celebrity",
+            "PERSON"
+        ],
+        [
+            "Pita Taufatofua",
+            "PERSON",
+            "Slathered",
+            "Coconut Oil",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Heather Watson",
+            "PERSON",
+            "Participates_In",
+            "Hobart International",
+            "EVENT"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Win",
+            "Quarter-final Contest",
+            "EVENT"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Has",
+            "Briton",
+            "PERSON"
+        ],
+        [
+            "Donna Vekic",
+            "PERSON",
+            "Participates_In",
+            "Hobart International",
+            "EVENT"
+        ],
+        [
+            "Donna Vekic",
+            "PERSON",
+            "Lose",
+            "Quarter-final Contest",
+            "EVENT"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Win",
+            "Donna Vekic",
+            "PERSON"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Convert",
+            "Break-point Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Impact",
+            "Vekic",
+            "PERSON"
+        ],
+        [
+            "Vekic",
+            "PERSON",
+            "Establish",
+            "Foothold",
+            "CONCEPT"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Break",
+            "Vekic",
+            "PERSON"
+        ],
+        [
+            "Heather Watson",
+            "PERSON",
+            "Seal",
+            "Contest",
+            "CONCEPT"
+        ],
+        [
+            "Monica Niculescu",
+            "PERSON",
+            "Pull Out",
+            "Neck Injury",
+            "CONCEPT"
+        ],
+        [
+            "Monica Niculescu",
+            "PERSON",
+            "Lose",
+            "Title Showdown",
+            "CONCEPT"
+        ],
+        [
+            "Elise Mertens",
+            "PERSON",
+            "Advance",
+            "Semi-final",
+            "CONCEPT"
+        ],
+        [
+            "Lesia Tsurenko",
+            "PERSON",
+            "End",
+            "Sabalenka",
+            "PERSON"
+        ],
+        [
+            "Lesia Tsurenko",
+            "PERSON",
+            "Win",
+            "6-1 6-1",
+            "SCORE"
+        ],
+        [
+            "Lesia Tsurenko",
+            "PERSON",
+            "Advance",
+            "Semi-final",
+            "CONCEPT"
+        ],
+        [
+            "Lesia Tsurenko",
+            "PERSON",
+            "Meet",
+            "Buzarnescu",
+            "PERSON"
+        ],
+        [
+            "Mihaela Buzarnescu",
+            "PERSON",
+            "Secure",
+            "Semi-final Berth",
+            "CONCEPT"
+        ],
+        [
+            "Mihaela Buzarnescu",
+            "PERSON",
+            "Win",
+            "Alison Riske",
+            "PERSON"
+        ],
+        [
+            "Alison Riske",
+            "PERSON",
+            "Lose",
+            "Buzarnescu",
+            "PERSON"
+        ]
+    ]
+}

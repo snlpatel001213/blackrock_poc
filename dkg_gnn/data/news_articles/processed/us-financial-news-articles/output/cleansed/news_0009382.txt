@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Tunis",
+            "GPE",
+            "Protests_Against",
+            "Rising Prices and Tax",
+            "CONCEPT"
+        ],
+        [
+            "Tunis",
+            "GPE",
+            "Has",
+            "Tebourba",
+            "GPE"
+        ],
+        [
+            "Tebourba",
+            "GPE",
+            "Protests",
+            "One Person",
+            "PERSON"
+        ],
+        [
+            "Tebourba",
+            "GPE",
+            "Protests",
+            "Five People",
+            "PERSON"
+        ],
+        [
+            "Tebourba",
+            "GPE",
+            "Has",
+            "Hospital",
+            "FACILITY"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Has",
+            "Tunis",
+            "GPE"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Has",
+            "Tebourba",
+            "GPE"
+        ],
+        [
+            "Tunisia",
+            "GPE",
+            "Protests_Spread_To",
+            "Around 10 Towns",
+            "GPE"
+        ],
+        [
+            "Tarek Amara",
+            "PERSON",
+            "Reporting",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Ulf Laessing",
+            "PERSON",
+            "Writing",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Alison Williams",
+            "PERSON",
+            "Editing",
+            "Protests",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "B-Soft Co Ltd",
+            "COMP",
+            "Raise",
+            "Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "B-Soft Co Ltd",
+            "COMP",
+            "Control",
+            "Hangzhou-based tech unit",
+            "COMP"
+        ],
+        [
+            "Hangzhou-based tech unit",
+            "COMP",
+            "Relate_To",
+            "Technology Sector",
+            "SECTOR"
+        ]
+    ]
+}

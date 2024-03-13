@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "Myanmar journalists",
+            "PERSON",
+            "Ask",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Investigate",
+            "Reuters journalists",
+            "PERSON"
+        ],
+        [
+            "Reuters journalists",
+            "PERSON",
+            "Suspicion",
+            "Breach",
+            "ORG/REG"
+        ],
+        [
+            "Reuters journalists",
+            "PERSON",
+            "Worked",
+            "Reuters coverage",
+            "ORG"
+        ],
+        [
+            "Reuters coverage",
+            "ORG",
+            "Relate_To",
+            "Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Crisis",
+            "CONCEPT",
+            "Located_In",
+            "Rakhine",
+            "GPE"
+        ],
+        [
+            "Reuters journalists",
+            "PERSON",
+            "Due",
+            "Appear",
+            "COURT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Call_For",
+            "Release",
+            "Reuters journalists",
+            "PERSON"
+        ],
+        [
+            "Government officials",
+            "PERSON",
+            "Call_For",
+            "Release",
+            "Reuters journalists",
+            "PERSON"
+        ],
+        [
+            "UN officials",
+            "PERSON",
+            "Call_For",
+            "Release",
+            "Reuters journalists",
+            "PERSON"
+        ],
+        [
+            "Reuters President and Editor-In-Chief",
+            "PERSON",
+            "Call_For",
+            "Release",
+            "Reuters journalists",
+            "PERSON"
+        ],
+        [
+            "Myanmar journalists",
+            "PERSON",
+            "Concerned",
+            "Implications",
+            "WORK"
+        ],
+        [
+            "Myanmar journalists",
+            "PERSON",
+            "Hope",
+            "Reasonable answers",
+            "QUESTION"
+        ],
+        [
+            "Myanmar journalists",
+            "PERSON",
+            "Feel",
+            "Threat",
+            "SECURITY"
+        ],
+        [
+            "Myanmar journalists",
+            "PERSON",
+            "Tried",
+            "Present",
+            "Request",
+            "ORG"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Block",
+            "Media access",
+            "ACCESS"
+        ],
+        [
+            "UN",
+            "ORG",
+            "Condemn",
+            "Myanmar military campaign",
+            "CAMPAIGN"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Reject",
+            "Ethnic cleansing",
+            "CONCEPT"
+        ],
+        [
+            "US and British embassies",
+            "ORG",
+            "Condemn",
+            "ARSA attack",
+            "EVENT"
+        ],
+        [
+            "US and British missions",
+            "ORG",
+            "Call_For",
+            "Safe conditions",
+            "CONDITION"
+        ]
+    ]
+}

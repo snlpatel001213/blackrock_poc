@@ -1,0 +1,180 @@
+{
+    "output": [
+        [
+            "WestRock Company",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Acquire",
+            "Plymouth Packaging",
+            "ORG"
+        ],
+        [
+            "Plymouth Packaging",
+            "ORG",
+            "Operate_In",
+            "Corrugated Packaging Industry",
+            "SECTOR"
+        ],
+        [
+            "Plymouth Packaging",
+            "ORG",
+            "Produce",
+            "Box on Demand Systems",
+            "PRODUCT"
+        ],
+        [
+            "Plymouth Packaging",
+            "ORG",
+            "Produce",
+            "Corrugated Fanfold",
+            "PRODUCT"
+        ],
+        [
+            "Plymouth Packaging",
+            "ORG",
+            "Produce",
+            "Traditional Corrugated Box Packaging",
+            "PRODUCT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Enter",
+            "On-Demand Corrugated Packaging Market",
+            "SECTOR"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Operate_In",
+            "E-Commerce Industry",
+            "SECTOR"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Operate_In",
+            "Custom-Packaging Applications",
+            "SECTOR"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Control",
+            "Box on Demand Systems",
+            "PRODUCT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Control",
+            "Fanfold Corrugated",
+            "PRODUCT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Produce",
+            "Custom On-Demand Corrugated Packaging",
+            "PRODUCT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Positive_Impact_On",
+            "Market Expansion",
+            "CONCEPT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Intend",
+            "Integrate",
+            "RELATE_TO",
+            "Containerboard"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Expect",
+            "Additional Containerboard Integration Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Operate_In",
+            "Growing On-Demand Packaging Market",
+            "SECTOR"
+        ],
+        [
+            "Jeff Chalovich",
+            "PERSON",
+            "State",
+            "Welcome",
+            "Plymouth Team",
+            "PERSON",
+            "To",
+            "WestRock"
+        ],
+        [
+            "Jeff Chalovich",
+            "PERSON",
+            "State",
+            "Addition of Plymouth Packaging",
+            "ORG",
+            "and",
+            "Box on Demand Capabilities",
+            "FURTHERS",
+            "Company\u2019s",
+            "COMP",
+            "Differentiated Packaging",
+            "AND",
+            "Packaging Machinery Strategies"
+        ],
+        [
+            "Jeff Chalovich",
+            "PERSON",
+            "State",
+            "Company",
+            "COMP",
+            "Look_Forward",
+            "Growing",
+            "Business",
+            "IN",
+            "Portfolio"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Use_Annually",
+            "Nearly 60000 Tons",
+            "CONCEPT",
+            "Of",
+            "Containerboard",
+            "PRODUCT",
+            "By",
+            "Plymouth Packaging"
+        ],
+        [
+            "WestRock Company",
+            "COMP",
+            "Expect",
+            "Additional Containerboard Integration Opportunities",
+            "CONCEPT",
+            "As",
+            "Company",
+            "COMP",
+            "Serves",
+            "Growing",
+            "On-Demand Packaging Market",
+            "SECTOR"
+        ]
+    ]
+}

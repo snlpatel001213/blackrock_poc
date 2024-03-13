@@ -1,0 +1,86 @@
+{
+    "output": [
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Participates_In",
+            "Pyeongchang",
+            "EVENT"
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Operate_In",
+            "Cross-country skiing",
+            "SECTOR"
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Has",
+            "10",
+            "ECON_INDICATOR",
+            {
+                "modifier": "Olympic medals"
+            }
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Relate_To",
+            "Raisa Smetanina",
+            "PERSON",
+            {
+                "modifier": "and Stefania Belmondo"
+            }
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Control",
+            "Norwegian medal charge",
+            "CONCEPT"
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Produce",
+            "3 individual wins and 1 team victory",
+            "ECON_INDICATOR",
+            {
+                "modifier": "at the 2017 World Championships"
+            }
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Impact",
+            "Norway topped the overall medals table",
+            "CONCEPT"
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Is_Member_Of",
+            "Norwegian team-mates",
+            "PERSON"
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Raise",
+            "Questions",
+            "CONCEPT",
+            {
+                "modifier": "seldom put to her male counterparts"
+            }
+        ],
+        [
+            "Marit Bjoergen",
+            "PERSON",
+            "Decrease",
+            "Participate in the Tour de Ski",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Hopper",
+            "COMP",
+            "Control",
+            "AI",
+            "CONCEPT"
+        ],
+        [
+            "Hopper",
+            "COMP",
+            "Use",
+            "Big Data",
+            "CONCEPT"
+        ],
+        [
+            "Hopper",
+            "COMP",
+            "Relate_To",
+            "Airline Trends",
+            "CONCEPT"
+        ],
+        [
+            "Hopper",
+            "COMP",
+            "Relate_To",
+            "Ticket Prices",
+            "CONCEPT"
+        ],
+        [
+            "Frederic Lalonde",
+            "PERSON",
+            "Is_Member_Of",
+            "Hopper",
+            "COMP"
+        ]
+    ]
+}

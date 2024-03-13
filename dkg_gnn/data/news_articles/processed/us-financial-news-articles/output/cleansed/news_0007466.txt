@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Air cargo shipments",
+            "PRODUCT",
+            "Increase",
+            "Surging Demand",
+            "CONCEPT"
+        ],
+        [
+            "Smartphones",
+            "PRODUCT",
+            "Transported_By",
+            "Passenger Jets",
+            "GPE"
+        ],
+        [
+            "Paper Towels",
+            "PRODUCT",
+            "Transported_By",
+            "Dedicated Cargo Planes",
+            "GPE"
+        ],
+        [
+            "Airfreight Traffic",
+            "PRODUCT",
+            "Climb",
+            "9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "November",
+            "EVENT",
+            "Relate_To",
+            "Airfreight Traffic",
+            "PRODUCT"
+        ],
+        [
+            "Cargo Data Provider",
+            "ORG",
+            "Provide",
+            "Cargo Data",
+            "PRODUCT"
+        ],
+        [
+            "WorldACD",
+            "ORG",
+            "Collect",
+            "Cargo Data",
+            "PRODUCT"
+        ],
+        [
+            "E-commerce Orders",
+            "PRODUCT",
+            "Supercharge",
+            "Holiday Rush",
+            "EVENT"
+        ],
+        [
+            "Rates for Airfreight",
+            "PRODUCT",
+            "Increase",
+            "17%",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

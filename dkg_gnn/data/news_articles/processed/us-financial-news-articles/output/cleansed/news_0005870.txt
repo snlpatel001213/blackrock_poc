@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Cambodian People\u2019s Party",
+            "ORG/GOV",
+            "Install",
+            "Hun Sen",
+            "PERSON"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Operate_In",
+            "Cambodia",
+            "GPE"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Control",
+            "Cambodian People\u2019s Party",
+            "ORG/GOV"
+        ],
+        [
+            "Vietnamese",
+            "GPE",
+            "Invade",
+            "Cambodia",
+            "GPE"
+        ],
+        [
+            "Vietnamese",
+            "GPE",
+            "Put_an_End_To",
+            "Khmer Rouge",
+            "ORG/GOV"
+        ],
+        [
+            "Khmer Rouge",
+            "ORG/GOV",
+            "Kill",
+            "1.7 Million People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Khmer Rouge",
+            "ORG/GOV",
+            "Operate_In",
+            "Killing Fields",
+            "GPE"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Celebrate",
+            "January 7",
+            "DATE"
+        ],
+        [
+            "Opposition",
+            "ORG",
+            "Mourn",
+            "January 7",
+            "DATE"
+        ],
+        [
+            "Vietnamese",
+            "GPE",
+            "Hate",
+            "Cambodian Neighbors",
+            "GPE"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Initiate",
+            "Rise_and_Fall_of_Khmer_Rouge",
+            "ORG/GOV"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Divide_and_Weaken",
+            "Cambodia",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Withdraw_Support",
+            "July General Election",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Withdraw_Support",
+            "July General Election",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Believe",
+            "Election_will_be_Fair",
+            "EVENT"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Kaing Guek Eav",
+            "PERSON"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Nuon Chea",
+            "PERSON"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Khieu Samphan",
+            "PERSON"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Serve",
+            "Control"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Life_Sentences",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Convictions",
+            "EVENT"
+        ],
+        [
+            "Pol Pot",
+            "PERSON",
+            "Henchmen",
+            "Crimes_against_Humanity",
+            "CONCEPT"
+        ],
+        [
+            "Joint_Cambodian-United_Nations_Tribunal",
+            "ORG",
+            "Convict",
+            "Pol Pot\u2019s Henchmen",
+            "PERSON"
+        ]
+    ]
+}

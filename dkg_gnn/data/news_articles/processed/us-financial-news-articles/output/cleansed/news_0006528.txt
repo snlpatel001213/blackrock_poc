@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Widepoint Corp",
+            "COMP",
+            "Appoint",
+            "Kito Mussa",
+            "PERSON"
+        ],
+        [
+            "Kito Mussa",
+            "PERSON",
+            "Is_Member_Of",
+            "Widepoint Corp",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jeff Sprague",
+            "PERSON",
+            "Discuss",
+            "Vertical Research Partners",
+            "ORG"
+        ],
+        [
+            "Vertical Research Partners",
+            "ORG",
+            "Operate_In",
+            "Industrials",
+            "SECTOR"
+        ],
+        [
+            "Jeff Sprague",
+            "PERSON",
+            "Is_Member_Of",
+            "Vertical Research Partners",
+            "ORG"
+        ],
+        [
+            "Industrials",
+            "SECTOR",
+            "Relate_To",
+            "Steel Tariffs",
+            "CONCEPT"
+        ]
+    ]
+}

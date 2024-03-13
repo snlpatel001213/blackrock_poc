@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Expert",
+            "PERSON",
+            "Relate_To",
+            "Consumer Environment",
+            "CONCEPT"
+        ],
+        [
+            "Consumer Environment",
+            "CONCEPT",
+            "Get",
+            "Tougher",
+            "CONCEPT"
+        ],
+        [
+            "Consumer Environment",
+            "CONCEPT",
+            "Before",
+            "Gets Better",
+            "CONCEPT"
+        ],
+        [
+            "Consumer Environment",
+            "CONCEPT",
+            "Get",
+            "Better",
+            "CONCEPT"
+        ]
+    ]
+}

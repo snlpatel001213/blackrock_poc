@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Produce",
+            "Ovo",
+            "EVENT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Relate_To",
+            "Insects",
+            "CONCEPT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Feature",
+            "Aerial displays",
+            "CONCEPT"
+        ],
+        [
+            "Aerial displays",
+            "CONCEPT",
+            "Has",
+            "Vibrant South American musical rhythms",
+            "CONCEPT"
+        ],
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Is_Member_Of",
+            "Canadian street performer troupe",
+            "CONCEPT"
+        ],
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Grow",
+            "Global circus and entertainment colossus",
+            "CONCEPT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Artistic director",
+            "Tim Bennett",
+            "PERSON"
+        ],
+        [
+            "Tim Bennett",
+            "PERSON",
+            "Message",
+            "Social inclusion",
+            "CONCEPT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Run",
+            "Eight weeks",
+            "TIME"
+        ]
+    ]
+}

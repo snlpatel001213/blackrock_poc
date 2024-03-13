@@ -1,0 +1,37 @@
+[
+    [
+        "New York",
+        "GPE",
+        "Host",
+        "Jewish Museum",
+        "ORG"
+    ],
+    [
+        "Jewish Museum",
+        "ORG",
+        "Exhibit",
+        "articles of clothing",
+        "PRODUCT"
+    ],
+    [
+        "articles of clothing",
+        "PRODUCT",
+        "Belong_To",
+        "Jewish communities",
+        "GPE"
+    ],
+    [
+        "articles of clothing",
+        "PRODUCT",
+        "Date_From",
+        "1800s",
+        "TIME"
+    ],
+    [
+        "articles of clothing",
+        "PRODUCT",
+        "Date_To",
+        "early 1900s",
+        "TIME"
+    ]
+]

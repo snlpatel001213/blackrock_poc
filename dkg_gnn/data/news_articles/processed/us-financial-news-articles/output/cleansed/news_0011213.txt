@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Catherine Deneuve",
+            "PERSON",
+            "Denounce",
+            "#Metoo Campaign",
+            "EVENT"
+        ],
+        [
+            "Catherine Deneuve",
+            "PERSON",
+            "Participates_In",
+            "100 French Women",
+            "GPE"
+        ],
+        [
+            "#Metoo Campaign",
+            "EVENT",
+            "Relate_To",
+            "Sexual Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Millions of Women",
+            "GPE",
+            "Use",
+            "#Metoo Hashtag",
+            "EVENT"
+        ],
+        [
+            "Millions of Women",
+            "GPE",
+            "Use",
+            "#SquealOnYourPig Hashtag",
+            "EVENT"
+        ],
+        [
+            "100 French Women",
+            "GPE",
+            "Has",
+            "Right to Pester",
+            "CONCEPT"
+        ],
+        [
+            "100 French Women",
+            "GPE",
+            "Defend",
+            "Right to Pester",
+            "CONCEPT"
+        ],
+        [
+            "100 French Women",
+            "GPE",
+            "Denounce",
+            "Puritanism",
+            "CONCEPT"
+        ],
+        [
+            "Marlene Schiappa",
+            "PERSON",
+            "Tasked_With",
+            "Cracking Down on Violence Against Women",
+            "CONCEPT"
+        ],
+        [
+            "Marlene Schiappa",
+            "PERSON",
+            "Kicked_Off",
+            "Nationwide Consultations",
+            "EVENT"
+        ],
+        [
+            "French Minister",
+            "ORG/GOV",
+            "Plan",
+            "Law to Fight Sexual Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Protesters in Paris",
+            "GPE",
+            "Disrupted",
+            "Retrospective of Roman Polanski\u2019s Work",
+            "EVENT"
+        ],
+        [
+            "Roman Polanski",
+            "PERSON",
+            "Face",
+            "New Rape Allegations",
+            "EVENT"
+        ]
+    ]
+}

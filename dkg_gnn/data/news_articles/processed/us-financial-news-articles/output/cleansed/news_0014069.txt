@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Tele2",
+            "COMP",
+            "Has",
+            "Allison Kirkby",
+            "PERSON"
+        ],
+        [
+            "Allison Kirkby",
+            "PERSON",
+            "Say",
+            "Confident",
+            "CONCEPT"
+        ],
+        [
+            "Confident",
+            "CONCEPT",
+            "Relate_To",
+            "Merger",
+            "CONCEPT"
+        ],
+        [
+            "Merger",
+            "CONCEPT",
+            "Participates_In",
+            "Tele2",
+            "COMP"
+        ],
+        [
+            "Tele2",
+            "COMP",
+            "Participates_In",
+            "Comhem",
+            "COMP"
+        ],
+        [
+            "Comhem",
+            "COMP",
+            "Is_Member_Of",
+            "Telecommunications Sector",
+            "SECTOR"
+        ]
+    ]
+}

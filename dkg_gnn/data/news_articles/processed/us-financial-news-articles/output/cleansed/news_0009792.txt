@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Popular, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Popular, Inc.",
+            "ORG",
+            "Operate_In",
+            "Puerto Rico",
+            "GPE"
+        ],
+        [
+            "Popular, Inc.",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Banco Popular de Puerto Rico",
+            "ORG",
+            "Is_Member_Of",
+            "Popular, Inc.",
+            "ORG"
+        ],
+        [
+            "Popular Community Bank",
+            "ORG",
+            "Is_Member_Of",
+            "Popular, Inc.",
+            "ORG"
+        ]
+    ]
+}

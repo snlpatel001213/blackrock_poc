@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "MADKOM SA",
+            "COMP",
+            "Announce",
+            "Offer",
+            "PRODUCT"
+        ],
+        [
+            "MADKOM SA",
+            "COMP",
+            "Participates_In",
+            "Document Electronic Management System",
+            "PRODUCT"
+        ],
+        [
+            "Polkowice Commune",
+            "GPE",
+            "Control",
+            "Document Electronic Management System",
+            "PRODUCT"
+        ],
+        [
+            "Polkowice Commune",
+            "GPE",
+            "Impact",
+            "2.3 Million Zlotys",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

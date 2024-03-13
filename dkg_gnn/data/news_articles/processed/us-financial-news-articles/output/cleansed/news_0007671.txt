@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Defend",
+            "Parental Controls",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Provide",
+            "Protections",
+            "CONCEPT"
+        ],
+        [
+            "Jana Partners LLC",
+            "ORG",
+            "Call_On",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Calstrs",
+            "ORG",
+            "Call_On",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Leucadia National Corp",
+            "ORG",
+            "Explore",
+            "Sale",
+            "CONCEPT"
+        ],
+        [
+            "Leucadia National Corp",
+            "ORG",
+            "Own",
+            "National Beef Packing Co",
+            "COMP"
+        ],
+        [
+            "National Beef Packing Co",
+            "COMP",
+            "Be",
+            "Biggest U.S. Meat-Processing Companies",
+            "SECTOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Tell",
+            "Gathering_of_Farmers",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Seek",
+            "Better Trade Deal",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Benefit",
+            "Agricultural Industry",
+            "SECTOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Benefit",
+            "Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "AT&T Inc",
+            "COMP",
+            "Walk_Away",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "AT&T Inc",
+            "COMP",
+            "Sell",
+            "Smartphones",
+            "PRODUCT"
+        ],
+        [
+            "Huawei Technologies Co",
+            "COMP",
+            "Be",
+            "Chinese Electronics Giant",
+            "ORG"
+        ],
+        [
+            "Facebook Inc",
+            "COMP",
+            "Team_Up",
+            "Xiaomi Corp",
+            "COMP"
+        ],
+        [
+            "Facebook Inc",
+            "COMP",
+            "Launch",
+            "Virtual-Reality Headset",
+            "PRODUCT"
+        ],
+        [
+            "Xiaomi Corp",
+            "COMP",
+            "Be",
+            "Chinese Smartphone Company",
+            "ORG"
+        ]
+    ]
+}

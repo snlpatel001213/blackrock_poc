@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Shenzhen Refond Optoelectronics Co Ltd.",
+            "COMP",
+            "Announce",
+            "Tax Preference",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shenzhen Refond Optoelectronics Co Ltd.",
+            "COMP",
+            "Operate_In",
+            "Beijing Headline News",
+            "GPE"
+        ],
+        [
+            "Shenzhen Refond Optoelectronics Co Ltd.",
+            "COMP",
+            "Control",
+            "Wholly Owned Unit",
+            "ORG"
+        ],
+        [
+            "Wholly Owned Unit",
+            "ORG",
+            "Relate_To",
+            "High-Tech Enterprise",
+            "CONCEPT"
+        ]
+    ]
+}

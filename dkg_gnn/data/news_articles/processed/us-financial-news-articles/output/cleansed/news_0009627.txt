@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "KKR",
+            "ORG",
+            "Acquire",
+            "Unilever Spreads",
+            "PRODUCT"
+        ],
+        [
+            "KKR",
+            "ORG",
+            "Operate_In",
+            "Private Equity",
+            "SECTOR"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Sell",
+            "Unilever Spreads",
+            "PRODUCT"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Operate_In",
+            "Consumer Sector",
+            "SECTOR"
+        ],
+        [
+            "Credit Suisse",
+            "COMP",
+            "Lead",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Deutsche Bank",
+            "COMP",
+            "Lead",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "KKR Capital Markets",
+            "COMP",
+            "Lead",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BNP Paribas",
+            "COMP",
+            "Involved",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ING",
+            "COMP",
+            "Involved",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Lloyds",
+            "COMP",
+            "Involved",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "RBC",
+            "COMP",
+            "Involved",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "UniCredit",
+            "COMP",
+            "Involved",
+            "Debt Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Unilever Spreads",
+            "PRODUCT",
+            "Generate",
+            "Cash Flow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Debt Financing",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Term Loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Debt Financing",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Senior Unsecured Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Debt Financing",
+            "FIN_INSTRUMENT",
+            "Include",
+            "Revolving Credit Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Debt Financing",
+            "FIN_INSTRUMENT",
+            "Launch",
+            "Syndication",
+            "EVENT"
+        ],
+        [
+            "Debt Investors",
+            "SECTOR",
+            "Eager",
+            "Invest",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Unilever Spreads",
+            "PRODUCT",
+            "Include",
+            "Becel",
+            "PRODUCT"
+        ],
+        [
+            "Unilever Spreads",
+            "PRODUCT",
+            "Include",
+            "Flora",
+            "PRODUCT"
+        ],
+        [
+            "Unilever Spreads",
+            "PRODUCT",
+            "Include",
+            "Country Crock",
+            "PRODUCT"
+        ],
+        [
+            "Unilever Spreads",
+            "PRODUCT",
+            "Include",
+            "Blue Band",
+            "PRODUCT"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Following",
+            "Review",
+            "CONCEPT"
+        ],
+        [
+            "Unilever",
+            "COMP",
+            "Prompted",
+            "Review",
+            "CONCEPT"
+        ],
+        [
+            "Kraft Heinz",
+            "COMP",
+            "Make",
+            "Unsolicited Takeover Attempt",
+            "EVENT"
+        ],
+        [
+            "KKR",
+            "ORG",
+            "Have",
+            "Investments",
+            "SECTOR"
+        ],
+        [
+            "KKR",
+            "ORG",
+            "Have",
+            "Investments",
+            "SECTOR"
+        ],
+        [
+            "KKR",
+            "ORG",
+            "Buy",
+            "Majority Control",
+            "CONCEPT"
+        ],
+        [
+            "Nature\u2019s Bounty",
+            "COMP",
+            "Bought",
+            "Majority Control",
+            "CONCEPT"
+        ]
+    ]
+}

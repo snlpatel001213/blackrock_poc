@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Williams Formula 1",
+            "ORG",
+            "Operate_In",
+            "EV Sports Cars",
+            "PRODUCT"
+        ],
+        [
+            "Williams Formula 1",
+            "ORG",
+            "Introduce",
+            "Technical Innovations",
+            "CONCEPT"
+        ],
+        [
+            "Technical Innovations",
+            "CONCEPT",
+            "Relate_To",
+            "EV Sports Cars",
+            "PRODUCT"
+        ]
+    ]
+}

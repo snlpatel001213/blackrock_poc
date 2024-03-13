@@ -1,0 +1,50 @@
+{
+    "output": [
+        [
+            "Energizer Holdings Inc",
+            "COMP",
+            "Buy",
+            "Spectrum Brands",
+            "COMP",
+            "Portable Lighting Business",
+            "PRODUCT"
+        ],
+        [
+            "Energizer Holdings Inc",
+            "COMP",
+            "Control",
+            "Global Battery",
+            "PRODUCT"
+        ],
+        [
+            "Spectrum Brands",
+            "COMP",
+            "Sell",
+            "Global Battery",
+            "PRODUCT",
+            "Portable Lighting Business",
+            "PRODUCT"
+        ],
+        [
+            "Energizer Holdings Inc",
+            "COMP",
+            "Operate_In",
+            "Battery",
+            "SECTOR"
+        ],
+        [
+            "$2 billion",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "This Year End",
+            "TIME",
+            "Relate_To",
+            "Closing",
+            "EVENT"
+        ]
+    ]
+}

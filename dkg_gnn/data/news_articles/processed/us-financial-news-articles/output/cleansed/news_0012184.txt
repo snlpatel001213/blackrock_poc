@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Upsurge Investment And Finance Ltd",
+            "COMP",
+            "Consider",
+            "Various Proposal Of Fund Raising",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Upsurge Investment And Finance Ltd",
+            "COMP",
+            "Approve",
+            "Appointment Of CFO",
+            "PERSON"
+        ],
+        [
+            "Dipika Jadav",
+            "PERSON",
+            "Relate_To",
+            "Appointment Of CFO",
+            "COMP"
+        ]
+    ]
+}

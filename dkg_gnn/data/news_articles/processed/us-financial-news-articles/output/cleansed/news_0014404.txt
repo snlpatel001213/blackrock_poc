@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Roche Holding Ag",
+            "COMP",
+            "Announce",
+            "Deal",
+            "ORG"
+        ],
+        [
+            "Forty Seven Inc",
+            "COMP",
+            "Announce",
+            "Deal",
+            "ORG"
+        ],
+        [
+            "Forty Seven Inc",
+            "COMP",
+            "Collaborate",
+            "Genentech",
+            "ORG"
+        ],
+        [
+            "Genentech",
+            "ORG",
+            "Relate_To",
+            "Novel Immuno-Oncology Combination",
+            "CONCEPT"
+        ],
+        [
+            "Novel Immuno-Oncology Combination",
+            "CONCEPT",
+            "Impact_On",
+            "Leukemia",
+            "CONCEPT"
+        ],
+        [
+            "Novel Immuno-Oncology Combination",
+            "CONCEPT",
+            "Impact_On",
+            "Bladder Cancer",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Spotlight",
+            "CONCEPT",
+            "Relate_To",
+            "Gold Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Juerg Kiener",
+            "PERSON",
+            "Announce",
+            "Factors",
+            "CONCEPT"
+        ],
+        [
+            "Swiss Asia Capital",
+            "ORG",
+            "Is_Member_Of",
+            "Juerg Kiener",
+            "PERSON"
+        ],
+        [
+            "Factors",
+            "CONCEPT",
+            "Impact",
+            "Gold Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Factors",
+            "CONCEPT",
+            "Include",
+            "Supply Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Factors",
+            "CONCEPT",
+            "Include",
+            "US Dollar",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

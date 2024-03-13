@@ -1,0 +1,247 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. President",
+            "ORG/GOV"
+        ],
+        [
+            "@realDonaldTrump",
+            "PERSON",
+            "Operate_In",
+            "Twitter",
+            "COMP"
+        ],
+        [
+            "@POTUS",
+            "PERSON",
+            "Operate_In",
+            "Twitter",
+            "COMP"
+        ],
+        [
+            "American people",
+            "GPE",
+            "Support",
+            "Law enforcement officers",
+            "GPE"
+        ],
+        [
+            "President of the United States",
+            "ORG/GOV",
+            "Fight_For",
+            "Law enforcement officers",
+            "GPE"
+        ],
+        [
+            "President of the United States",
+            "ORG/GOV",
+            "Will_Never",
+            "Let_Down",
+            "Law enforcement officers",
+            "GPE"
+        ],
+        [
+            "We",
+            "GPE",
+            "Must_Support",
+            "Men and women in blue",
+            "GPE"
+        ],
+        [
+            "#LawEnforcementAppreciationDay",
+            "EVENT",
+            "Relate_To",
+            "Law enforcement officers",
+            "GPE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Has_Not",
+            "Edited",
+            "Statements",
+            "COMP"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Has_Not",
+            "Confirmed",
+            "Accuracy",
+            "COMP"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Sign",
+            "H.R. 267",
+            "COMP"
+        ],
+        [
+            "Martin Luther King, Jr. National Historical Park Act",
+            "COMP",
+            "Redesignates",
+            "Martin Luther King, Junior, National Historic Site",
+            "COMP"
+        ],
+        [
+            "State of Georgia",
+            "GPE",
+            "In",
+            "Martin Luther King, Jr. National Historical Park",
+            "COMP"
+        ],
+        [
+            "Republican and Democratic lawmakers",
+            "GPE",
+            "Meeting",
+            "Immigration reform",
+            "CONCEPT"
+        ],
+        [
+            "Immigration reform",
+            "CONCEPT",
+            "Deals_With",
+            "Border security",
+            "CONCEPT"
+        ],
+        [
+            "Immigration reform",
+            "CONCEPT",
+            "Deals_With",
+            "Chain migration",
+            "CONCEPT"
+        ],
+        [
+            "Immigration reform",
+            "CONCEPT",
+            "Deals_With",
+            "Lottery",
+            "CONCEPT"
+        ],
+        [
+            "Immigration reform",
+            "CONCEPT",
+            "Deals_With",
+            "DACA",
+            "CONCEPT"
+        ],
+        [
+            "President of the United States",
+            "ORG/GOV",
+            "Sign",
+            "New Executive Order",
+            "COMP"
+        ],
+        [
+            "New Executive Order",
+            "COMP",
+            "Ensure",
+            "Veterans",
+            "GPE"
+        ],
+        [
+            "Veterans",
+            "GPE",
+            "Have",
+            "Resources",
+            "COMP"
+        ],
+        [
+            "Veterans",
+            "GPE",
+            "Transition",
+            "Back_To",
+            "Civilian life",
+            "CONCEPT"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Needs",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Security",
+            "CONCEPT",
+            "Of",
+            "Wall",
+            "COMP"
+        ],
+        [
+            "Wall",
+            "COMP",
+            "On",
+            "Southern Border",
+            "GPE"
+        ],
+        [
+            "DACA",
+            "CONCEPT",
+            "Approval",
+            "Must_Be",
+            "Part_Of",
+            "COMP"
+        ],
+        [
+            "@GOPLeader Kevin McCarthy",
+            "PERSON",
+            "THANK",
+            "You",
+            "COMP"
+        ],
+        [
+            "@GOPLeader Kevin McCarthy",
+            "PERSON",
+            "Couldn't_Agree_More",
+            "Together",
+            "COMP"
+        ],
+        [
+            "Together",
+            "COMP",
+            "Are",
+            "#MAGA",
+            "CONCEPT"
+        ],
+        [
+            "@ICEgov HSI agents and ERO officers",
+            "PERSON",
+            "On_Behalf_Of",
+            "Entire Nation",
+            "GPE"
+        ],
+        [
+            "Entire Nation",
+            "GPE",
+            "THANK",
+            "You",
+            "PERSON"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Keeping",
+            "Fellow American\u2019s",
+            "GPE"
+        ],
+        [
+            "Fellow American\u2019s",
+            "GPE",
+            "SAFE",
+            "24/7/365",
+            "COMP"
+        ],
+        [
+            "#LawEnforcementAppreciationDay",
+            "EVENT",
+            "Relate_To",
+            "Law enforcement officers",
+            "GPE"
+        ]
+    ]
+}

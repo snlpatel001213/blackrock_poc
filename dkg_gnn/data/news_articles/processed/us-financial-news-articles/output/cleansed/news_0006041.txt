@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "United Technologies Corp.",
+            "ORG",
+            "Issue",
+            "fourth quarter 2017 earnings press release",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United Technologies Corp.",
+            "ORG",
+            "Operate_In",
+            "Conn.",
+            "GPE"
+        ],
+        [
+            "United Technologies Corp.",
+            "ORG",
+            "Announce",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Discuss",
+            "results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Discuss",
+            "2018 outlook",
+            "ECON_INDICATOR"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "company's website",
+            "COMP"
+        ],
+        [
+            "company's website",
+            "COMP",
+            "Have",
+            "presentation",
+            "PRODUCT"
+        ],
+        [
+            "company's website",
+            "COMP",
+            "Have",
+            "downloading prior to the call",
+            "EVENT"
+        ],
+        [
+            "phone",
+            "COMP",
+            "Dial",
+            "(877) 280-7280",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "phone",
+            "COMP",
+            "Dial",
+            "between 7:10 a.m. and 7:30 a.m. ET",
+            "TIME"
+        ],
+        [
+            "conference operator",
+            "COMP",
+            "Take",
+            "name",
+            "PERSON"
+        ],
+        [
+            "conference operator",
+            "COMP",
+            "Place",
+            "on hold until the conference begins",
+            "EVENT"
+        ],
+        [
+            "analysts",
+            "PERSON",
+            "Wish",
+            "ask a question following the prepared remarks",
+            "EVENT"
+        ],
+        [
+            "analysts",
+            "PERSON",
+            "Press",
+            "1 on their phone during the call",
+            "EVENT"
+        ],
+        [
+            "reporter",
+            "PERSON",
+            "Have",
+            "questions",
+            "CONCEPT"
+        ],
+        [
+            "reporter",
+            "PERSON",
+            "Call",
+            "(860) 728-7907",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "call",
+            "EVENT",
+            "Broadcast",
+            "live on the Internet",
+            "EVENT"
+        ],
+        [
+            "recording",
+            "PRODUCT",
+            "Archive",
+            "later on the site",
+            "COMP"
+        ],
+        [
+            "recording",
+            "PRODUCT",
+            "Available",
+            "replay by phone",
+            "EVENT"
+        ],
+        [
+            "phone",
+            "COMP",
+            "Dial",
+            "(404) 537-3406",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "recording",
+            "PRODUCT",
+            "Have",
+            "conference ID number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "recording",
+            "PRODUCT",
+            "Have",
+            "1978914",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

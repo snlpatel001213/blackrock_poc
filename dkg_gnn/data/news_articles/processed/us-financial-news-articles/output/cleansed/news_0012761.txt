@@ -1,0 +1,222 @@
+{
+    "output": [
+        [
+            "Copenhagen",
+            "GPE",
+            "Steers",
+            "Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Formula One",
+            "EVENT",
+            "Present",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Danish Consortium",
+            "ORG",
+            "Present",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Chase Carey",
+            "PERSON",
+            "Discuss",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "City Mayor",
+            "PERSON",
+            "Discuss",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Nordic Country Business Minister",
+            "PERSON",
+            "Discuss",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Formula One",
+            "EVENT",
+            "Have",
+            "Big Plans",
+            "CONCEPT"
+        ],
+        [
+            "Liberty Media",
+            "ORG",
+            "Own",
+            "Formula One",
+            "EVENT"
+        ],
+        [
+            "Copenhagen",
+            "GPE",
+            "Potential Market",
+            "Formula One",
+            "EVENT"
+        ],
+        [
+            "Scandinavia",
+            "GPE",
+            "Potential Market",
+            "Formula One",
+            "EVENT"
+        ],
+        [
+            "Helge Sander",
+            "PERSON",
+            "Lead",
+            "Consortium",
+            "ORG"
+        ],
+        [
+            "Lars Seier Christensen",
+            "PERSON",
+            "Lead",
+            "Consortium",
+            "ORG"
+        ],
+        [
+            "Saxo Bank",
+            "COMP",
+            "Former CEO",
+            "Lars Seier Christensen",
+            "PERSON"
+        ],
+        [
+            "Formula One Race",
+            "EVENT",
+            "Estimated Budget",
+            "300-500 million Danish krone",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Formula One Race",
+            "EVENT",
+            "Expected Income",
+            "1-2 billion Danish krone",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kevin Magnussen",
+            "PERSON",
+            "Race",
+            "Haas Team",
+            "COMP"
+        ],
+        [
+            "Denmark",
+            "GPE",
+            "Never Host",
+            "Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Host",
+            "Only One Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Anderstorp",
+            "GPE",
+            "Location",
+            "Only One Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Ronnie Peterson",
+            "PERSON",
+            "Local Heroes",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Gunnar Nilsson",
+            "PERSON",
+            "Local Heroes",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Formula One",
+            "EVENT",
+            "Have",
+            "Cumulative Television Audience",
+            "1.4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "City Council",
+            "ORG",
+            "Approval",
+            "Needed",
+            "CONCEPT"
+        ],
+        [
+            "City Council",
+            "ORG",
+            "4.6 kilometre Long Route",
+            "Approval",
+            "CONCEPT"
+        ],
+        [
+            "City Centre",
+            "GPE",
+            "Estimated 107,000 Spectators",
+            "Seated",
+            "CONCEPT"
+        ],
+        [
+            "Copenhagen",
+            "GPE",
+            "Promoted",
+            "Bicycle Heaven",
+            "CONCEPT"
+        ],
+        [
+            "150,000 People",
+            "QUANTITY",
+            "Cycle",
+            "Work",
+            "CONCEPT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Host",
+            "Only One Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Anderstorp",
+            "GPE",
+            "Location",
+            "Only One Formula One Race",
+            "EVENT"
+        ],
+        [
+            "Ronnie Peterson",
+            "PERSON",
+            "Local Heroes",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Gunnar Nilsson",
+            "PERSON",
+            "Local Heroes",
+            "Sweden",
+            "GPE"
+        ]
+    ]
+}

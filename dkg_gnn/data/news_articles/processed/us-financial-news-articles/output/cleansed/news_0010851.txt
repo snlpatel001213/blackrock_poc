@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Gold",
+            "PRODUCT",
+            "Decrease",
+            "0.2 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Operate_In",
+            "Precious Metals",
+            "SECTOR"
+        ],
+        [
+            "U.S. Treasury Yields",
+            "ECON_INDICATOR",
+            "Has",
+            "10-month high",
+            "TIME"
+        ],
+        [
+            "Wall Street",
+            "SECTOR",
+            "Extend",
+            "New Year rally",
+            "EVENT"
+        ],
+        [
+            "Wall Street",
+            "SECTOR",
+            "Operate_In",
+            "Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Asian Shares",
+            "SECTOR",
+            "Slip",
+            "Profit-taking",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Wary_About",
+            "Going_Long",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "U.S. Treasury Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "PRODUCT",
+            "Quite_Oversold",
+            "Against_Number_of_Currencies",
+            "CONCEPT"
+        ],
+        [
+            "Dollar Index",
+            "PRODUCT",
+            "Steady_At",
+            "92.487",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar Index",
+            "PRODUCT",
+            "Touch",
+            "More_than_one-week high",
+            "TIME"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/GOV",
+            "Keep",
+            "Interest_Rates_Low",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/GOV",
+            "Benefit",
+            "Wage_Gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Bet",
+            "More_U.S._Interest_Rate_Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Range_Bound",
+            "$1,305 and $1,313",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SPDR Gold Trust",
+            "COMP",
+            "Holdings_Fall",
+            "0.35 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SPDR Gold Trust",
+            "COMP",
+            "Worlds_Largest_Gold-backed_ETF",
+            "NONE"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Fall",
+            "0.5 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Hit",
+            "Life-time high",
+            "TIME"
+        ],
+        [
+            "Silver",
+            "PRODUCT",
+            "Down",
+            "0.1 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Platinum",
+            "PRODUCT",
+            "Drop",
+            "0.7 %",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

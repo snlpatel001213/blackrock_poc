@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Control",
+            "Entity Related to Baoneng Group",
+            "ORG"
+        ],
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Invest",
+            "Qoros",
+            "COMP"
+        ],
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Has",
+            "Put Option",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Has",
+            "Investment Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Investor",
+            "ORG",
+            "Has",
+            "Option",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investor",
+            "ORG",
+            "Has",
+            "Option",
+            "INCREASE",
+            "Stake",
+            "67%",
+            "Qoros",
+            "COMP"
+        ],
+        [
+            "China-based Investor Related to Baoneng Group",
+            "ORG",
+            "Invest",
+            "Controlling Interest",
+            "Qoros",
+            "COMP"
+        ],
+        [
+            "Qoros",
+            "COMP",
+            "Repay",
+            "Outstanding Shareholder Loans",
+            "RMB944 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Has",
+            "Put Option",
+            "SELL",
+            "Remaining Interest",
+            "Qoros",
+            "COMP",
+            "RMB3.12 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kenon Holdings Ltd",
+            "COMP",
+            "Use",
+            "Proceeds",
+            "Sale",
+            "Qoros",
+            "Interests",
+            "Investor",
+            "ORG",
+            "Fund",
+            "Portion",
+            "Investment",
+            "Qoros",
+            "COMP"
+        ]
+    ]
+}

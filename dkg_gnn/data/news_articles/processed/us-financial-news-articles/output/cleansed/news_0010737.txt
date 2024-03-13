@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Czech lower house",
+            "GPE",
+            "Adjourn",
+            "Session",
+            "EVENT"
+        ],
+        [
+            "Session",
+            "EVENT",
+            "Relate_To",
+            "Confidence Vote",
+            "EVENT"
+        ],
+        [
+            "Andrej Babis",
+            "PERSON",
+            "Lead",
+            "Minority Government",
+            "ORG/GOV"
+        ],
+        [
+            "Andrej Babis",
+            "PERSON",
+            "Is_Member_Of",
+            "ANO Party",
+            "ORG"
+        ],
+        [
+            "ANO Party",
+            "ORG",
+            "Control",
+            "Minority Government",
+            "ORG/GOV"
+        ],
+        [
+            "Other factions in parliament",
+            "GPE",
+            "Not Back",
+            "Cabinet",
+            "ORG/GOV"
+        ],
+        [
+            "Cabinet",
+            "ORG/GOV",
+            "Participates_In",
+            "Confidence Vote",
+            "EVENT"
+        ],
+        [
+            "Babis",
+            "PERSON",
+            "Expected_To_Lose",
+            "Vote",
+            "EVENT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Investigate",
+            "Alleged Subsidy Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Babis",
+            "PERSON",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ]
+    ]
+}

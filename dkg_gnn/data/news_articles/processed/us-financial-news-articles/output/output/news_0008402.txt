@@ -1,0 +1,1 @@
+{'output': [['Advanced Micro Devices Inc', 'COMP', 'Has', 'Lisa Su', 'PERSON'], ['Lisa Su', 'PERSON', 'Announce', 'Meltdown', 'EVENT'], ['Meltdown', 'EVENT', 'Relate_To', 'Spectre', 'EVENT'], ['Meltdown', 'EVENT', 'Negative_Impact_On', 'AMD’S Architecture', 'COMP'], ['Spectre', 'EVENT', 'Negative_Impact_On', 'AMD’S Architecture', 'COMP']]}

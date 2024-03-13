@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "FAW Car Co Ltd",
+            "COMP",
+            "Invests_In",
+            "Mobike Chuxing Technology Co.",
+            "ORG"
+        ],
+        [
+            "Mobike Chuxing Technology Co.",
+            "ORG",
+            "Operate_In",
+            "Car-sharing sector",
+            "SECTOR"
+        ],
+        [
+            "FAW Car Co Ltd",
+            "COMP",
+            "Provide",
+            "Electric cars",
+            "PRODUCT"
+        ],
+        [
+            "Mobike Chuxing Technology Co.",
+            "ORG",
+            "Has",
+            "Registered capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mobike",
+            "ORG",
+            "Participates_In",
+            "Bicycle-sharing sector",
+            "SECTOR"
+        ],
+        [
+            "Mobike",
+            "ORG",
+            "Support",
+            "Rides",
+            "EVENT"
+        ],
+        [
+            "ofo",
+            "ORG",
+            "Raise",
+            "Funds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ofo",
+            "ORG",
+            "Backed_By",
+            "Didi Chuxing",
+            "ORG"
+        ],
+        [
+            "Didi Chuxing",
+            "ORG",
+            "Type",
+            "Ride-sharing service",
+            "SECTOR"
+        ]
+    ]
+}

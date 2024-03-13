@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Has",
+            "Tools of Titans",
+            "BOOK"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Operate_In",
+            "Morning Rituals",
+            "CONCEPT"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Has",
+            "5-step routine",
+            "CONCEPT"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Write",
+            "Book",
+            "BOOK"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Meditate",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Work_Out",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Drink",
+            "Titanium Tea",
+            "PRODUCT"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Eat",
+            "Small Breakfast",
+            "PRODUCT"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Journal",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Practice",
+            "Gratitude",
+            "CONCEPT"
+        ],
+        [
+            "Tim Ferriss",
+            "PERSON",
+            "Relate_To",
+            "Tony Robbins",
+            "PERSON"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Has",
+            "10-minute morning routine",
+            "CONCEPT"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Drink",
+            "Titanium Tea",
+            "PRODUCT"
+        ],
+        [
+            "Tony Robbins",
+            "PERSON",
+            "Practice",
+            "Gratitude",
+            "CONCEPT"
+        ],
+        [
+            "A-Rod",
+            "PERSON",
+            "Has",
+            "Morning Routine",
+            "CONCEPT"
+        ],
+        [
+            "A-Rod",
+            "PERSON",
+            "Prepare",
+            "Himself",
+            "NULL"
+        ],
+        [
+            "A-Rod",
+            "PERSON",
+            "Relate_To",
+            "Tim Cook",
+            "PERSON"
+        ],
+        [
+            "Tim Cook",
+            "PERSON",
+            "Wake_Up",
+            "4:00 AM",
+            "TIME"
+        ],
+        [
+            "Tim Cook",
+            "PERSON",
+            "Relate_To",
+            "Successful Leaders",
+            "PERSON"
+        ]
+    ]
+}

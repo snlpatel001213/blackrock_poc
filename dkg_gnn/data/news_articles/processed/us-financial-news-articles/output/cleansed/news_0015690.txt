@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Fast Retailing",
+            "ORG",
+            "Has",
+            "Uniqlo",
+            "PRODUCT"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Operate_In",
+            "Overseas",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Fast Retailing",
+            "ORG",
+            "Impact",
+            "Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seven & i Holdings",
+            "ORG",
+            "Has",
+            "7-Eleven",
+            "PRODUCT"
+        ],
+        [
+            "7-Eleven",
+            "PRODUCT",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "7-Eleven",
+            "PRODUCT",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Seven & i Holdings",
+            "ORG",
+            "Impact",
+            "Operating Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "India",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Greater China Region",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Founder",
+            "PERSON"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "H&M",
+            "COMP"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Zara",
+            "COMP"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Top Apparel Retailer",
+            "CONCEPT"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Inditex",
+            "COMP"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "World",
+            "GPE"
+        ],
+        [
+            "Uniqlo",
+            "PRODUCT",
+            "Relate_To",
+            "Tadashi Yanai",
+            "PERSON"
+        ]
+    ]
+}

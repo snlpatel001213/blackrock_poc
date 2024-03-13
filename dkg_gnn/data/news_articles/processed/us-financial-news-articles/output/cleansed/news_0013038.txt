@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ruchir Sharma",
+            "PERSON",
+            "Provide_Insight",
+            "Investment Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Stanley Investment Management",
+            "COMP",
+            "Is_Member_Of",
+            "Investment Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Ruchir Sharma",
+            "PERSON",
+            "Relate_To",
+            "U.S. Market",
+            "GPE"
+        ],
+        [
+            "Ruchir Sharma",
+            "PERSON",
+            "Relate_To",
+            "China Market",
+            "GPE"
+        ]
+    ]
+}

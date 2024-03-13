@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Parents",
+            "PERSON",
+            "Control",
+            "13 California siblings",
+            "GPE"
+        ],
+        [
+            "13 California siblings",
+            "GPE",
+            "Impact",
+            "Horrific conditions",
+            "CONCEPT"
+        ],
+        [
+            "Parents",
+            "PERSON",
+            "Negative_Impact_On",
+            "13 California siblings",
+            "GPE"
+        ],
+        [
+            "13 California siblings",
+            "GPE",
+            "Participates_In",
+            "Treatment",
+            "CONCEPT"
+        ],
+        [
+            "13 California siblings",
+            "GPE",
+            "Relate_To",
+            "Ordeal",
+            "CONCEPT"
+        ],
+        [
+            "13 California siblings",
+            "GPE",
+            "Relate_To",
+            "Scarred for years",
+            "CONCEPT"
+        ]
+    ]
+}

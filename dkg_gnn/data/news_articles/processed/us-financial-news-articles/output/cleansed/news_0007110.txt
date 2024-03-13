@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Lawmakers",
+            "PERSON",
+            "Propose",
+            "Charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charge",
+            "ECON_INDICATOR",
+            "Fund",
+            "Recycling",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Ban",
+            "Cups",
+            "PRODUCT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Impact",
+            "2023 Recycling Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Plastic Bag Charge",
+            "ECON_INDICATOR",
+            "Cut",
+            "Use",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Work",
+            "Industry",
+            "SECTOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Consider",
+            "Proposals",
+            "CONCEPT"
+        ],
+        [
+            "Aluminium",
+            "PRODUCT",
+            "Benefitted",
+            "Behaviour",
+            "CONCEPT"
+        ]
+    ]
+}

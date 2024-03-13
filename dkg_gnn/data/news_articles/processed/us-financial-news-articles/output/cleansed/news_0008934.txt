@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Linn Energy Inc.",
+            "COMP",
+            "Announce",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "Linn Energy Inc.",
+            "COMP",
+            "Sell",
+            "Altamont Bluebell Field",
+            "GPE"
+        ],
+        [
+            "Altamont Bluebell Field",
+            "GPE",
+            "Locate_In",
+            "Utah",
+            "GPE"
+        ],
+        [
+            "Altamont Bluebell Field",
+            "GPE",
+            "Produce",
+            "1,450 BOE/D",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

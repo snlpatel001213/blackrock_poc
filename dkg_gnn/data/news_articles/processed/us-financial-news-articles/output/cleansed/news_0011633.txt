@@ -1,0 +1,125 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Trade_With",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Report",
+            "Drop_in_Trade",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Trade_With",
+            "China",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Report",
+            "Drop_in_Trade",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Administration of Customs",
+            "ORG",
+            "Announce",
+            "Drop_in_Trade",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Huang Songping",
+            "PERSON",
+            "Speak",
+            "At",
+            "Press_Briefing"
+        ],
+        [
+            "China",
+            "GPE",
+            "Import_From",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Influence_Over",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Test",
+            "Nuclear_Weapons",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Support",
+            "UN_Sanctions",
+            "ORG/REG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Clamp_Down",
+            "Historical_Ally",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Ban",
+            "Domestic_Lenders",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Comply",
+            "International_Sanctions",
+            "ORG/REG"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Pressure",
+            "China",
+            "GPE"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Contribute",
+            "Article",
+            "PRODUCT"
+        ]
+    ]
+}

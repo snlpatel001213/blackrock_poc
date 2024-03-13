@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Gayle King",
+            "PERSON",
+            "Is_Member_Of",
+            "CBS This Morning",
+            "ORG"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Participates_In",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "CBS This Morning",
+            "ORG",
+            "Relate_To",
+            "Journalism",
+            "CONCEPT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Potentially",
+            "Run for President",
+            "EVENT"
+        ],
+        [
+            "Gayle King",
+            "PERSON",
+            "Interview",
+            "Oprah Winfrey",
+            "PERSON"
+        ],
+        [
+            "CBS",
+            "ORG",
+            "Has",
+            "David Rhodes",
+            "PERSON"
+        ],
+        [
+            "David Rhodes",
+            "PERSON",
+            "Said",
+            "Transparent",
+            "CONCEPT"
+        ]
+    ]
+}

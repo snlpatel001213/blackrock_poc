@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "VTech",
+            "COMP",
+            "Has",
+            "Electronic Toymaker",
+            "ORG"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Agree",
+            "Settle Charges",
+            "EVENT"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Violate",
+            "Children Privacy Law",
+            "CONCEPT"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Collect",
+            "Personal Information",
+            "CONCEPT"
+        ],
+        [
+            "FTC",
+            "ORG/GOV",
+            "Say",
+            "Monday",
+            "TEMPORAL"
+        ],
+        [
+            "VTech Electronics",
+            "COMP",
+            "Hong Kong-based",
+            null,
+            "GPE"
+        ],
+        [
+            "VTech Holdings Ltd.",
+            "COMP",
+            "Hong Kong-based",
+            null,
+            "GPE"
+        ],
+        [
+            "FTC",
+            "ORG/GOV",
+            "Bring",
+            "Charges",
+            "EVENT"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Pay",
+            "$650,000",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "FTC",
+            "ORG/GOV",
+            "File",
+            "Complaint",
+            "EVENT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "File",
+            "Complaint",
+            "EVENT"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Sell",
+            "Kid Connect Application",
+            "PRODUCT"
+        ],
+        [
+            "Kid Connect Application",
+            "PRODUCT",
+            "Collect",
+            "Personal Information",
+            "CONCEPT"
+        ],
+        [
+            "VTech",
+            "COMP",
+            "Fail",
+            "Secure Data",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Rebound",
+            "Sell-off",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Latin American currencies",
+            "GPE",
+            "Weaken",
+            "null",
+            "null"
+        ],
+        [
+            "Emerging market currencies",
+            "GPE",
+            "Rally",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Increase",
+            "Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Currencies",
+            "GPE",
+            "Slip",
+            "null",
+            "null"
+        ],
+        [
+            "Stock markets",
+            "GPE",
+            "Down",
+            "null",
+            "null"
+        ],
+        [
+            "Brazil",
+            "GPE",
+            "Steering",
+            "Away",
+            "All-time records"
+        ],
+        [
+            "Ita\u00fa Unibanco Holding SA",
+            "COMP",
+            "Lead",
+            "Drop",
+            "null"
+        ],
+        [
+            "Banco Bradesco SA",
+            "COMP",
+            "Lead",
+            "Drop",
+            "null"
+        ],
+        [
+            "Vale SA",
+            "COMP",
+            "Lead",
+            "Drop",
+            "null"
+        ],
+        [
+            "Centrais El\u00e9tricas Brasileiras SA",
+            "COMP",
+            "Among",
+            "Biggest declines",
+            "null"
+        ],
+        [
+            "Regulators",
+            "ORG",
+            "Could",
+            "Return",
+            "1 billion reais"
+        ],
+        [
+            "State-controlled power utility",
+            "COMP",
+            "Could",
+            "Return",
+            "1 billion reais"
+        ],
+        [
+            "Government coffers",
+            "ORG",
+            "Could",
+            "Receive",
+            "1 billion reais"
+        ],
+        [
+            "MSCI Emerging Markets",
+            "INDEX",
+            "1204.11",
+            "null",
+            "null"
+        ],
+        [
+            "MSCI LatAm",
+            "INDEX",
+            "2954.27",
+            "null",
+            "null"
+        ],
+        [
+            "Brazil Bovespa",
+            "INDEX",
+            "79048.28",
+            "null",
+            "null"
+        ],
+        [
+            "Mexico IPC",
+            "INDEX",
+            "49680.15",
+            "null",
+            "null"
+        ],
+        [
+            "Chile IPSA",
+            "INDEX",
+            "5697.36",
+            "null",
+            "null"
+        ],
+        [
+            "Chile IGPA",
+            "INDEX",
+            "28662.76",
+            "null",
+            "null"
+        ],
+        [
+            "Argentina MerVal",
+            "INDEX",
+            "32330.61",
+            "null",
+            "null"
+        ],
+        [
+            "Colombia IGBC",
+            "INDEX",
+            "11827.33",
+            "null",
+            "null"
+        ],
+        [
+            "Venezuela IBC",
+            "INDEX",
+            "1290.07",
+            "null",
+            "null"
+        ],
+        [
+            "Brazil real",
+            "FIN_INSTRUMENT",
+            "-0.37",
+            "2.03",
+            "null"
+        ],
+        [
+            "Mexico peso",
+            "FIN_INSTRUMENT",
+            "-0.34",
+            "2.12",
+            "null"
+        ],
+        [
+            "Chile peso",
+            "FIN_INSTRUMENT",
+            "-0.43",
+            "1.09",
+            "null"
+        ],
+        [
+            "Colombia peso",
+            "FIN_INSTRUMENT",
+            "-0.20",
+            "2.40",
+            "null"
+        ],
+        [
+            "Peru sol",
+            "FIN_INSTRUMENT",
+            "-0.06",
+            "0.62",
+            "null"
+        ],
+        [
+            "Argentina peso (interbank)",
+            "FIN_INSTRUMENT",
+            "0.37",
+            "-1.90",
+            "null"
+        ],
+        [
+            "Argentina peso (parallel)",
+            "FIN_INSTRUMENT",
+            "0.41",
+            "-1.38",
+            "null"
+        ]
+    ]
+}

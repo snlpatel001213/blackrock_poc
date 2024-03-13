@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Venanpri Tools",
+            "COMP",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Venanpri Tools",
+            "COMP",
+            "Operate_In",
+            "Hand Tools division",
+            "ORG"
+        ],
+        [
+            "Venanpri Group",
+            "COMP",
+            "Is_Member_Of",
+            "Venanpri Tools",
+            "COMP"
+        ],
+        [
+            "Burgon & Ball",
+            "COMP",
+            "Be_Acquired_By",
+            "Venanpri Tools",
+            "COMP"
+        ],
+        [
+            "Burgon & Ball",
+            "COMP",
+            "Manufacture",
+            "Premium gardening, agricultural and giftware products",
+            "PRODUCT"
+        ],
+        [
+            "Burgon & Ball",
+            "COMP",
+            "Sell_Products_Through",
+            "Garden centres and other fine retailers",
+            "GPE"
+        ],
+        [
+            "Cristobal Valdes",
+            "PERSON",
+            "Say",
+            "Excited to partner with the Burgon & Ball team",
+            "ORG"
+        ],
+        [
+            "Heather Culpan",
+            "PERSON",
+            "Confident",
+            "Company will continue to progress",
+            "COMP"
+        ],
+        [
+            "Venanpri Group",
+            "COMP",
+            "Have",
+            "Two divisions",
+            "SECTOR"
+        ],
+        [
+            "Venanpri Tools",
+            "COMP",
+            "Produce and distribute",
+            "Thousands of manual hand tool products",
+            "PRODUCT"
+        ],
+        [
+            "Venanpri Tools",
+            "COMP",
+            "Sell_Products_Under",
+            "Bellota and Corona brands",
+            "BRAND"
+        ],
+        [
+            "Venanpri AgriSolutions",
+            "COMP",
+            "Global market leader",
+            "Manufacturing of consumable wear components",
+            "PRODUCT"
+        ],
+        [
+            "Venanpri AgriSolutions",
+            "COMP",
+            "Sell_Products_Under",
+            "Ingersoll, Bellota, Solbjerg and Rozalma brands",
+            "BRAND"
+        ]
+    ]
+}

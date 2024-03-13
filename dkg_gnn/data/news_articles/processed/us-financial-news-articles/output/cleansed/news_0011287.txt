@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "ABLYNX NV",
+            "COMP",
+            "Announce",
+            "Board Changes",
+            "CONCEPT"
+        ],
+        [
+            "Peter Fellner",
+            "PERSON",
+            "Relate_To",
+            "Board Changes",
+            "CONCEPT"
+        ],
+        [
+            "Peter Fellner",
+            "PERSON",
+            "Resign",
+            "ABLYNX NV",
+            "COMP"
+        ],
+        [
+            "Bo Jesper Hansen",
+            "PERSON",
+            "Succeed",
+            "Peter Fellner",
+            "PERSON"
+        ],
+        [
+            "Bo Jesper Hansen",
+            "PERSON",
+            "Join",
+            "ABLYNX NV",
+            "COMP"
+        ]
+    ]
+}

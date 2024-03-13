@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Has",
+            "0",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "ATP ranking",
+            "17",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Highest ranking",
+            "13",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Grand slam titles",
+            "0",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "2017 Australian Open performance",
+            "Second round",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Best Australian Open performance",
+            "Quarter-finals",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "2017 ATP win-loss record",
+            "31-17",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Coach",
+            "Boris Pashanski",
+            "PERSON"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Local favourite",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Is_Member_Of",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Has",
+            "65",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Highest ranking",
+            "12",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "2017 Australian Open performance",
+            "Third round",
+            "EVENT"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Best Australian Open performance",
+            "Third round",
+            "EVENT"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "2017 ATP win-loss record",
+            "24-28",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Coach",
+            "Boris Pashanski",
+            "PERSON"
+        ],
+        [
+            "Viktor Troicki",
+            "PERSON",
+            "Is_Member_Of",
+            "Serbia",
+            "GPE"
+        ],
+        [
+            "Montreal",
+            "GPE",
+            "Hosts",
+            "Kyrgios v Troicki",
+            "EVENT"
+        ],
+        [
+            "Montreal",
+            "GPE",
+            "Has",
+            "outdoor hard",
+            "SECTOR"
+        ]
+    ]
+}

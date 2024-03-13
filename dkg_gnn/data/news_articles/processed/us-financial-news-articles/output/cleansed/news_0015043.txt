@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "The Oneida Group",
+            "COMP",
+            "Announce",
+            "Appointment of Lisa C. Gallagher and Nora L. Zorich",
+            "EVENT"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Participates_In",
+            "The Oneida Group\u2019s Board of Directors",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Participates_In",
+            "The Oneida Group\u2019s Board of Directors",
+            "ORG"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Control",
+            "Hawtan Leathers, LLC",
+            "COMP"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Control",
+            "Port City Glove, S.A.",
+            "COMP"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Control",
+            "Fusion Media Group",
+            "COMP"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Relate_To",
+            "Remy Capital Partners",
+            "ORG"
+        ],
+        [
+            "Lisa C. Gallagher",
+            "PERSON",
+            "Relate_To",
+            "Robertson Stephens",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Control",
+            "NLZ Consulting, LLC",
+            "COMP"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Control",
+            "Procter & Gamble Company",
+            "COMP"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Relate_To",
+            "ARBONNE Scientific Advisory Board",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Relate_To",
+            "United Way National Women\u2019s Leadership Council",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Relate_To",
+            "Health Improvement Collaborative of Greater Cincinnati",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Relate_To",
+            "YWCA of Greater Cincinnati",
+            "ORG"
+        ],
+        [
+            "Nora L. Zorich",
+            "PERSON",
+            "Relate_To",
+            "Planned Parenthood of Southwest Ohio",
+            "ORG"
+        ]
+    ]
+}

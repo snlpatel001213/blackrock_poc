@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Huawei Technologies",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Huawei Technologies",
+            "ORG",
+            "Produce",
+            "Mate 10 Pro",
+            "PRODUCT"
+        ],
+        [
+            "Mate 10 Pro",
+            "PRODUCT",
+            "Not_Sell",
+            "U.S. Carriers",
+            "ORG/GOV"
+        ],
+        [
+            "Huawei Technologies",
+            "ORG",
+            "Commit",
+            "This Market",
+            "SECTOR"
+        ],
+        [
+            "Huawei Technologies",
+            "ORG",
+            "Commit",
+            "Future",
+            "TEMPORAL"
+        ]
+    ]
+}

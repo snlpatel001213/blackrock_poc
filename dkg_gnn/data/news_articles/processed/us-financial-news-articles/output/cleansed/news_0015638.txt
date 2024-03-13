@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "El Salvador earthquake",
+            "EVENT"
+        ],
+        [
+            "El Salvador earthquake",
+            "EVENT",
+            "Shake",
+            "buildings in capital",
+            "GPE"
+        ],
+        [
+            "Locals",
+            "PERSON",
+            "Evacuate",
+            "buildings in capital",
+            "GPE"
+        ],
+        [
+            "Environment Ministry",
+            "ORG",
+            "Say",
+            "quake measured at magnitude 4.0",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Environment Ministry",
+            "ORG",
+            "Issue",
+            "preliminary estimate of 4.3",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Quake",
+            "EVENT",
+            "Measure",
+            "depth of 4 kilometers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ministry",
+            "ORG",
+            "Say",
+            "earthquake\u2019s epicenter was in San Marcos",
+            "GPE"
+        ],
+        [
+            "U.S. Geological Survey",
+            "ORG",
+            "Does not report",
+            "earthquake in El Salvador",
+            "EVENT"
+        ],
+        [
+            "U.S. Geological Survey",
+            "ORG",
+            "Show",
+            "5-magnitude quake in Costa Rica",
+            "EVENT"
+        ],
+        [
+            "Emergency services",
+            "ORG",
+            "Say",
+            "no immediate reports of casualties or damage",
+            "CONCEPT"
+        ],
+        [
+            "7.6-magnitude quake",
+            "EVENT",
+            "Strike",
+            "in the Caribbean near remote islands belonging to Honduras",
+            "GPE"
+        ],
+        [
+            "Quake",
+            "EVENT",
+            "Could be felt",
+            "across northern Central America",
+            "GPE"
+        ],
+        [
+            "No reports",
+            "ORG",
+            "Of deaths or major damage",
+            "CONCEPT"
+        ]
+    ]
+}

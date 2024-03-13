@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Cyberspace Administration of China",
+            "ORG/GOV",
+            "Scold",
+            "Ant Financial Services Group",
+            "ORG"
+        ],
+        [
+            "Ant Financial Services Group",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Ant Financial Services Group",
+            "ORG",
+            "Compromise",
+            "Customers Privacy",
+            "CONCEPT"
+        ],
+        [
+            "Ant Financial Services Group",
+            "ORG",
+            "Enroll",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Ant Financial Services Group",
+            "ORG",
+            "Relate_To",
+            "Credit-scoring system",
+            "CONCEPT"
+        ]
+    ]
+}

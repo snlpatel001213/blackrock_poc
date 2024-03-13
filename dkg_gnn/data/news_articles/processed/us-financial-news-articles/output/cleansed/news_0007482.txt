@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "India",
+            "GPE",
+            "Reject",
+            "Washington\u2019s legal assault",
+            "EVENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Explore",
+            "Protection",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Trigger",
+            "Litigation",
+            "EVENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Change",
+            "Rules",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Claim",
+            "Punitive trade sanctions",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Underscore",
+            "U.S. request is not valid",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Skip",
+            "Legal steps",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Fail",
+            "Follow correct WTO procedure",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Omission",
+            "Specific level of trade sanctions",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Strongly objects",
+            "U.S. request",
+            "EVENT"
+        ],
+        [
+            "Major economies",
+            "GPE",
+            "Compete",
+            "Dominate sector",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Unveil",
+            "National solar program",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Complain",
+            "WTO",
+            "ORG"
+        ],
+        [
+            "WTO",
+            "ORG",
+            "Judge",
+            "India had broken trade rules",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Consider",
+            "Impose emergency tariffs",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Petition",
+            "Domestic industry",
+            "SECTOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "File",
+            "WTO",
+            "ORG"
+        ],
+        [
+            "India",
+            "GPE",
+            "Say",
+            "Market share of imports increased",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Have",
+            "Evidence of serious harm",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "File",
+            "WTO",
+            "ORG"
+        ]
+    ]
+}

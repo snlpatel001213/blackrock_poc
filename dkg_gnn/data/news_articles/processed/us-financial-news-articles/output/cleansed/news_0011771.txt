@@ -1,0 +1,112 @@
+{
+    "output": [
+        [
+            "Repsol",
+            "ORG",
+            "In_Talks_To_Sell",
+            "Gas Natural",
+            "ORG"
+        ],
+        [
+            "Repsol",
+            "ORG",
+            "Has",
+            "20% Stake",
+            "ECON_INDICATOR",
+            "In",
+            "Gas Natural",
+            "ORG"
+        ],
+        [
+            "CVC",
+            "ORG",
+            "Buy",
+            "20% Stake",
+            "ECON_INDICATOR",
+            "In",
+            "Gas Natural",
+            "ORG"
+        ],
+        [
+            "Repsol",
+            "ORG",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Gas Natural",
+            "ORG",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Repsol",
+            "ORG",
+            "Agreed",
+            "Near 4 Billion-Euro Deal",
+            "ECON_INDICATOR",
+            "With",
+            "Global Infrastructure Partners",
+            "ORG",
+            "To_Sell",
+            "10% Stake",
+            "ECON_INDICATOR",
+            "In",
+            "Gas Natural",
+            "ORG"
+        ],
+        [
+            "Criteria Caixa",
+            "ORG",
+            "Agreed",
+            "Near 4 Billion-Euro Deal",
+            "ECON_INDICATOR",
+            "With",
+            "Global Infrastructure Partners",
+            "ORG",
+            "To_Sell",
+            "10% Stake",
+            "ECON_INDICATOR",
+            "In",
+            "Gas Natural",
+            "ORG"
+        ],
+        [
+            "Caixabank",
+            "ORG",
+            "Holds",
+            "24%",
+            "ECON_INDICATOR",
+            "Of",
+            "Repsol",
+            "ORG"
+        ],
+        [
+            "Repsol",
+            "ORG",
+            "Not_Immediately_Available",
+            "For_Comment"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "By",
+            "Paul Day",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Editing",
+            "By",
+            "Rodrigo de Miguel",
+            "PERSON",
+            "And",
+            "Mark Potter",
+            "PERSON"
+        ]
+    ]
+}

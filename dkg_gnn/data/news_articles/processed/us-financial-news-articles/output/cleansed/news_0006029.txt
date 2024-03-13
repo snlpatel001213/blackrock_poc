@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "Constellation Brands Inc.",
+            "COMP",
+            "Has",
+            "beer sales",
+            "PRODUCT",
+            "Not_Worried",
+            "California",
+            "GPE"
+        ],
+        [
+            "Corona",
+            "PRODUCT",
+            "Distributor",
+            "Constellation Brands Inc.",
+            "COMP"
+        ],
+        [
+            "Constellation Brands Inc.",
+            "COMP",
+            "Develops",
+            "cannabis-infused drinks",
+            "PRODUCT",
+            "Possibly_Launches",
+            "Canada",
+            "GPE",
+            "By",
+            "2019",
+            "TIME"
+        ],
+        [
+            "Constellation Chief Executive Rob Sands",
+            "PERSON",
+            "Argues",
+            "debate",
+            "CONCEPT",
+            "On",
+            "earnings call",
+            "EVENT"
+        ],
+        [
+            "beer-industry executives",
+            "PERSON",
+            "Little_Consensus",
+            "whether marijuana legalization",
+            "EVENT",
+            "Cannibalize",
+            "or",
+            "Complement",
+            "their",
+            "Possessive_Pronoun",
+            "sales",
+            "PRODUCT"
+        ]
+    ]
+}

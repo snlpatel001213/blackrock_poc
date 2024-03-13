@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "Swiss Finance Minister Ueli Maurer",
+            "PERSON",
+            "Appeal",
+            "Swiss Government",
+            "ORG/GOV"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Levy",
+            "Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Voters",
+            "PERSON",
+            "Decide",
+            "New Public Finance Law",
+            "CONCEPT"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Operate_In",
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Levy",
+            "Federal Income Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Levy",
+            "Value-Added Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Contribute",
+            "Two-Thirds",
+            "NONE",
+            "Swiss Central Government\u2019s Budget",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Bring",
+            "43.5 Billion Swiss Francs",
+            "ECON_INDICATOR",
+            "In 2016",
+            "TIME"
+        ],
+        [
+            "Right",
+            "CONCEPT",
+            "Limit",
+            "Swiss Government",
+            "ORG/GOV",
+            "Levy",
+            "Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Current Approval",
+            "CONCEPT",
+            "Run",
+            "End of 2020",
+            "TIME"
+        ],
+        [
+            "Voters",
+            "PERSON",
+            "Reject",
+            "Measure"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Slash",
+            "Spending",
+            "ECON_INDICATOR",
+            "More Than 60 Percent",
+            "NONE",
+            "Practically Overnight",
+            "TIME"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Find",
+            "New Sources of Revenue",
+            "CONCEPT"
+        ],
+        [
+            "Maurer",
+            "PERSON",
+            "Say",
+            "Reporters"
+        ],
+        [
+            "Cantons",
+            "GPE",
+            "Get",
+            "Part",
+            "NONE",
+            "Direct Tax Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Law",
+            "CONCEPT",
+            "Not",
+            "Excuse",
+            "NONE",
+            "Raise",
+            "Taxation Levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Parliament",
+            "ORG",
+            "Adopt",
+            "Law",
+            "CONCEPT",
+            "Without Opposition",
+            "NONE"
+        ],
+        [
+            "Parliament",
+            "ORG",
+            "Debate",
+            "Whether",
+            "CONCEPT",
+            "Federal Government\u2019s Authority",
+            "CONCEPT",
+            "Levy",
+            "Taxes",
+            "ECON_INDICATOR",
+            "Should",
+            "CONCEPT",
+            "Have",
+            "TIME",
+            "Limit"
+        ],
+        [
+            "Compromise Solution",
+            "CONCEPT",
+            "Extend",
+            "Deadline",
+            "TIME",
+            "Both",
+            "NONE",
+            "Levies",
+            "ECON_INDICATOR",
+            "To",
+            "TIME",
+            "2035",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Gold",
+            "PRODUCT",
+            "Decrease",
+            "1,325.86",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Operate_In",
+            "Commodity Market",
+            "SECTOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "U.S. Dollar",
+            "CURRENCY",
+            "Impact",
+            "Gold Price",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Dollar",
+            "CURRENCY",
+            "Operate_In",
+            "Forex Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. Non-farm Payrolls",
+            "EVENT",
+            "Relate_To",
+            "U.S. Dollar",
+            "CURRENCY"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Control",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interest Rates",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Gold Price",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Compete_With",
+            "Gold",
+            "PRODUCT"
+        ],
+        [
+            "Asian Market",
+            "SECTOR",
+            "Impact",
+            "Physical Gold Demand",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Gold Demand",
+            "PRODUCT"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Decrease",
+            "1,105.70",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Operate_In",
+            "Commodity Market",
+            "SECTOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Julius Baer",
+            "ORG",
+            "Predict",
+            "Palladium Price Correction",
+            "PRODUCT"
+        ],
+        [
+            "Silver",
+            "PRODUCT",
+            "Operate_In",
+            "Commodity Market",
+            "SECTOR"
+        ],
+        [
+            "Platinum",
+            "PRODUCT",
+            "Operate_In",
+            "Commodity Market",
+            "SECTOR"
+        ]
+    ]
+}

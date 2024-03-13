@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "Investors Bancorp Inc.",
+            "COMP",
+            "Announce",
+            "Reduction",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors Bancorp Inc.",
+            "COMP",
+            "Relate_To",
+            "Tax Act"
+        ],
+        [
+            "Reduction",
+            "ECON_INDICATOR",
+            "Control",
+            "$55 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors Bancorp Inc.",
+            "COMP",
+            "Operate_In",
+            "Q4",
+            "TIMEPERIOD"
+        ],
+        [
+            "Reduction",
+            "ECON_INDICATOR",
+            "Recorded_In",
+            "SEC Filing",
+            "REG/ORG"
+        ]
+    ]
+}

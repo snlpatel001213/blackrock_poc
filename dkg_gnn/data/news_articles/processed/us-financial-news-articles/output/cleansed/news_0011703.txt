@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "Mothercare Plc",
+            "COMP",
+            "Has",
+            "British Baby Goods Retailer",
+            "ORG"
+        ],
+        [
+            "Mothercare Plc",
+            "COMP",
+            "Posted",
+            "Decline in Comparable Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mothercare Plc",
+            "COMP",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Experiences",
+            "Tough Competition",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Tries",
+            "Revive",
+            "VERB"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Has",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Like-for-Like Sales",
+            "Fell 7.2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Online Sales",
+            "PRODUCT",
+            "Fell 6.9 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Period",
+            "EVENT",
+            "To",
+            "Dec. 30",
+            "DATE"
+        ]
+    ]
+}

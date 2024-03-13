@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Riber Sa",
+            "COMP",
+            "Receive",
+            "Major Order",
+            "ORDER"
+        ],
+        [
+            "Riber Sa",
+            "COMP",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Major Order",
+            "ORDER",
+            "Relate_To",
+            "More Than Two Million Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Order",
+            "ORDER",
+            "Control",
+            "Accessories",
+            "PRODUCT"
+        ],
+        [
+            "Accessories",
+            "PRODUCT",
+            "Operate_In",
+            "Screen Industry",
+            "SECTOR"
+        ],
+        [
+            "Order",
+            "ORDER",
+            "Impact",
+            "Delivery in 2018",
+            "DATE"
+        ]
+    ]
+}

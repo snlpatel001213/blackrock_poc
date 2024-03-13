@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "US",
+            "GPE",
+            "Control",
+            "Federal Waters",
+            "GPE"
+        ],
+        [
+            "Federal Waters",
+            "GPE",
+            "Operate_In",
+            "Offshore Drilling",
+            "CONCEPT"
+        ],
+        [
+            "Offshore Drilling",
+            "CONCEPT",
+            "Impact",
+            "Oil",
+            "CONCEPT"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Relate_To",
+            "Oil Markets",
+            "CONCEPT"
+        ],
+        [
+            "Christoper Brankin",
+            "PERSON",
+            "Announce",
+            "Impact on Oil Markets is Limited",
+            "CONCEPT"
+        ],
+        [
+            "TD Ameritrade Asia",
+            "ORG",
+            "Is_Member_Of",
+            "Christoper Brankin",
+            "PERSON"
+        ]
+    ]
+}

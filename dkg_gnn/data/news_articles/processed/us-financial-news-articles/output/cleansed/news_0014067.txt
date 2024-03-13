@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Santelli Exchange",
+            "ORG",
+            "Discuss",
+            "U.S. Energy Production",
+            "CONCEPT"
+        ],
+        [
+            "John Hofmeister",
+            "PERSON",
+            "Is_Member_Of",
+            "Citizens for Affordable Energy",
+            "ORG"
+        ],
+        [
+            "John Hofmeister",
+            "PERSON",
+            "Former",
+            "Shell Oil Co.",
+            "ORG"
+        ],
+        [
+            "Shell Oil Co.",
+            "COMP",
+            "Produce",
+            "U.S. Energy",
+            "CONCEPT"
+        ]
+    ]
+}

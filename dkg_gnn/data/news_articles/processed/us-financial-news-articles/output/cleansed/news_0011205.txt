@@ -1,0 +1,30 @@
+{
+    "output": [
+        [
+            "Vijaya Bank",
+            "COMP",
+            "Has",
+            "LIC of India",
+            "ORG/INVESTOR"
+        ],
+        [
+            "LIC of India",
+            "ORG/INVESTOR",
+            "Decrease",
+            "Stake in",
+            "Vijaya Bank",
+            "COMP",
+            "by",
+            "2.035",
+            "Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vijaya Bank",
+            "COMP",
+            "Operate_In",
+            "India",
+            "GPE"
+        ]
+    ]
+}

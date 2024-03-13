@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "Peter Robb",
+            "PERSON",
+            "Has",
+            "National Labor Relations Board General Counsel",
+            "ORG/GOV"
+        ],
+        [
+            "Peter Robb",
+            "PERSON",
+            "Withdraw",
+            "Complaint",
+            "EVENT"
+        ],
+        [
+            "Complaint",
+            "EVENT",
+            "Accuse",
+            "Honeywell International Inc",
+            "COMP"
+        ],
+        [
+            "Honeywell International Inc",
+            "COMP",
+            "Lock_Out",
+            "More than 350 unionized workers",
+            "PERSON"
+        ],
+        [
+            "Plants",
+            "COMP",
+            "Locate_In",
+            "Indiana, New York",
+            "GPE"
+        ],
+        [
+            "Workers",
+            "PERSON",
+            "Reject",
+            "Honeywell\u2019s bid",
+            "COMP",
+            "To_Change",
+            "Terms of their health coverage",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Lock_Out",
+            "Workers",
+            "PERSON"
+        ],
+        [
+            "Workers",
+            "PERSON",
+            "Lock_Out",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Aircraft brake factories",
+            "COMP",
+            "Locate_In",
+            "South Bend, Indiana, Green Island, New York",
+            "GPE"
+        ],
+        [
+            "Robb\u2019s office",
+            "ORG/GOV",
+            "Withdraw",
+            "Complaint",
+            "EVENT"
+        ],
+        [
+            "Complaint",
+            "EVENT",
+            "Withdraw",
+            "Without explanation",
+            "CONCEPT"
+        ]
+    ]
+}

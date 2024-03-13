@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "KG Inicis Co Ltd",
+            "COMP",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "KG Inicis Co Ltd",
+            "COMP",
+            "Control",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Cash Dividend",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "FY 2017",
+            "CONCEPT"
+        ],
+        [
+            "Cash Dividend",
+            "ECON_INDICATOR",
+            "Payable_To",
+            "Shareholders",
+            "PERSON"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Record_On",
+            "Dec. 31",
+            "DATE"
+        ]
+    ]
+}

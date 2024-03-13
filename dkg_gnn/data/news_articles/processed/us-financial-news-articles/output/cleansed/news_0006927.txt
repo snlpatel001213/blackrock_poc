@@ -1,0 +1,26 @@
+{
+    "output": [
+        [
+            "Dan Scott",
+            "PERSON",
+            "Raise",
+            "Concern_On",
+            "Euro Level",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dan Scott",
+            "PERSON",
+            "Operate_In",
+            "Vontobel",
+            "ORG"
+        ],
+        [
+            "Vontobel",
+            "ORG",
+            "Invests_In",
+            "Euro Level",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

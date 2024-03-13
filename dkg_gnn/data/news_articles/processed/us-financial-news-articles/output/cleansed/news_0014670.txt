@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Cellnex Telecom Sa",
+            "COMP",
+            "Announce",
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cellnex Telecom Sa",
+            "COMP",
+            "Control",
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT",
+            "Has",
+            "EUR 600MLN",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT",
+            "Control",
+            "1.5% Coupon",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Deal Multiple Times Oversubscribed",
+            "CONCEPT"
+        ],
+        [
+            "Convertible Bonds Offering",
+            "FIN_INSTRUMENT",
+            "Close",
+            "13.40 CET / 12.40 UK",
+            "TIME"
+        ]
+    ]
+}

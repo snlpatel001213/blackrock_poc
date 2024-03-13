@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Raise",
+            "Profit Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Raise",
+            "Revenue Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Operate_In",
+            "Yoga and Leisure Apparel Industry",
+            "SECTOR"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Has",
+            "Laurent Potdevin",
+            "PERSON"
+        ],
+        [
+            "Laurent Potdevin",
+            "PERSON",
+            "Say",
+            "Strong Holiday Shopping Season",
+            "EVENT"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Expect",
+            "Net Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Expect",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Expect",
+            "Adjusted Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Expect",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lululemon Athletica",
+            "COMP",
+            "Report",
+            "Fourth-Quarter Results",
+            "EVENT"
+        ]
+    ]
+}

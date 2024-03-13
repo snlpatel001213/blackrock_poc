@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Relate_To",
+            "Run for President",
+            "EVENT"
+        ],
+        [
+            "People",
+            "CONCEPT",
+            "Participates_In",
+            "Talk",
+            "CONCEPT"
+        ],
+        [
+            "2020",
+            "EVENT",
+            "Relate_To",
+            "Run for President",
+            "EVENT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Oprah Winfrey speech",
+            "EVENT"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Has",
+            "Gerald F. Seib",
+            "PERSON"
+        ],
+        [
+            "Gerald F. Seib",
+            "PERSON",
+            "Explain",
+            "Speculation",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "output": [
+        [
+            "Southern California",
+            "GPE",
+            "Has",
+            "Powerful Rainstorm",
+            "EVENT"
+        ],
+        [
+            "Powerful Rainstorm",
+            "EVENT",
+            "Trigger",
+            "Flash Floods",
+            "EVENT"
+        ],
+        [
+            "Flash Floods",
+            "EVENT",
+            "Cause",
+            "Mudslides",
+            "EVENT"
+        ],
+        [
+            "Mudslides",
+            "EVENT",
+            "Occur",
+            "Santa Barbara County",
+            "GPE"
+        ],
+        [
+            "Santa Barbara County",
+            "GPE",
+            "Experience",
+            "Heavy Downpours",
+            "EVENT"
+        ],
+        [
+            "Heavy Downpours",
+            "EVENT",
+            "Subside",
+            "Early Tuesday",
+            "TIME"
+        ],
+        [
+            "National Weather Service",
+            "ORG",
+            "Provide",
+            "Rainfall Totals",
+            "EVENT"
+        ],
+        [
+            "Rainfall Totals",
+            "EVENT",
+            "Range",
+            "2 inches to 4-1/2 inches",
+            "QUANTITY"
+        ],
+        [
+            "Amber Anderson",
+            "PERSON",
+            "Serve",
+            "Incident Command Spokeswoman",
+            "POSITION"
+        ],
+        [
+            "Amber Anderson",
+            "PERSON",
+            "Say",
+            "Threat of Mudslides",
+            "EVENT"
+        ],
+        [
+            "Threat of Mudslides",
+            "EVENT",
+            "Prompt",
+            "Evacuation Orders",
+            "EVENT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Leave",
+            "Homes",
+            "FACILITY"
+        ],
+        [
+            "County",
+            "GPE",
+            "Set",
+            "Evacuation Shelter",
+            "FACILITY"
+        ],
+        [
+            "County",
+            "GPE",
+            "Give",
+            "Residents",
+            "PERSON",
+            "Place",
+            "Take",
+            "Animals"
+        ],
+        [
+            "Weather",
+            "EVENT",
+            "Mild",
+            "This Week",
+            "TIME"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Flee",
+            "Homes",
+            "FACILITY"
+        ],
+        [
+            "Montecito",
+            "GPE",
+            "Area",
+            "Not Evacuated",
+            "EVENT"
+        ],
+        [
+            "Boulders",
+            "OBJECT",
+            "Block",
+            "Road",
+            "FACILITY"
+        ],
+        [
+            "Last Month",
+            "TIME",
+            "Wildfires",
+            "EVENT"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Largest",
+            "California History",
+            "HISTORY"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Leave",
+            "Area",
+            "GPE",
+            "Vulnerable",
+            "Mudslides",
+            "EVENT"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Burn",
+            "Grass",
+            "OBJECT",
+            "Shrubs",
+            "OBJECT",
+            "Hold",
+            "Soil",
+            "OBJECT",
+            "Place",
+            "EVENT"
+        ],
+        [
+            "Overnight Rains",
+            "EVENT",
+            "Force",
+            "Road Closures",
+            "EVENT"
+        ],
+        [
+            "U.S. Highway 101",
+            "FACILITY",
+            "Close",
+            "30-mile",
+            "QUANTITY",
+            "Stretch",
+            "FACILITY"
+        ],
+        [
+            "U.S. Highway 101",
+            "FACILITY",
+            "Cut",
+            "Off",
+            "Traffic",
+            "EVENT"
+        ],
+        [
+            "Santa Barbara and Ventura Counties",
+            "GPE",
+            "Northwest",
+            "Los Angeles",
+            "GPE"
+        ],
+        [
+            "Ventura County",
+            "GPE",
+            "Escape",
+            "With",
+            "Little",
+            "QUANTITY",
+            "Damage",
+            "EVENT"
+        ],
+        [
+            "County Sheriff\u2019s Office",
+            "ORG",
+            "Say",
+            "Ventura County",
+            "GPE",
+            "Escape",
+            "With",
+            "Little",
+            "QUANTITY",
+            "Damage",
+            "EVENT"
+        ]
+    ]
+}

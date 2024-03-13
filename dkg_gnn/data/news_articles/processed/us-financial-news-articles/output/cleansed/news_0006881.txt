@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Kenyan football",
+            "GPE",
+            "At_Risk",
+            "Sponsorship_Cancellation",
+            "EVENT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Participates_In",
+            "Premier_League_Football",
+            "SECTOR"
+        ],
+        [
+            "Online sports betting firm",
+            "ORG",
+            "Cancel",
+            "600 million shillings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "600 million shillings",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Country\u2019s_Main_Football_League",
+            "SECTOR"
+        ],
+        [
+            "Country\u2019s_Main_Football_League",
+            "SECTOR",
+            "Face",
+            "Exclusion",
+            "EVENT"
+        ],
+        [
+            "Exclusion",
+            "EVENT",
+            "Relate_To",
+            "Confederation_of_African_Football",
+            "ORG"
+        ]
+    ]
+}

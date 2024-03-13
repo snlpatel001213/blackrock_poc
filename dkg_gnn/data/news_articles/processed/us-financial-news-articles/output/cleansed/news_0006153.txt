@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "New Film",
+            "PRODUCT",
+            "Relate_To",
+            "David Bowie",
+            "PERSON"
+        ],
+        [
+            "New Film",
+            "PRODUCT",
+            "Introduce",
+            "David Bowie's Career",
+            "CONCEPT"
+        ],
+        [
+            "David Bowie",
+            "PERSON",
+            "Participates_In",
+            "Art",
+            "CONCEPT"
+        ],
+        [
+            "David Bowie",
+            "PERSON",
+            "Participates_In",
+            "Creative Process",
+            "CONCEPT"
+        ]
+    ]
+}

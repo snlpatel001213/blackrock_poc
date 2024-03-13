@@ -1,0 +1,164 @@
+{
+    "output": [
+        [
+            "Monster",
+            "ORG",
+            "Find",
+            "January",
+            "EVENT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Look",
+            "New Career Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "ZipRecruiter",
+            "ORG",
+            "Use",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Job Seekers",
+            "PERSON",
+            "Narrow Down",
+            "Search",
+            "CONCEPT"
+        ],
+        [
+            "Fargo",
+            "GPE",
+            "Top",
+            "Job Markets",
+            "CONCEPT"
+        ],
+        [
+            "Fargo",
+            "GPE",
+            "Have",
+            "Low Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fargo",
+            "GPE",
+            "Offer",
+            "Many Well-Paying Job Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Columbia",
+            "GPE",
+            "Have",
+            "Steady Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Columbia",
+            "GPE",
+            "Significant Rise",
+            "Technology Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Oshkosh",
+            "GPE",
+            "Low Cost of Living",
+            "CONCEPT"
+        ],
+        [
+            "Oshkosh",
+            "GPE",
+            "Stress-Free Work Commute",
+            "CONCEPT"
+        ],
+        [
+            "Honolulu",
+            "GPE",
+            "Significant Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Honolulu",
+            "GPE",
+            "Well-Paying Industries",
+            "CONCEPT"
+        ],
+        [
+            "Ames",
+            "GPE",
+            "Talent from Nearby Iowa State",
+            "GPE"
+        ],
+        [
+            "Lincoln",
+            "GPE",
+            "Great Job Market",
+            "CONCEPT"
+        ],
+        [
+            "Lincoln",
+            "GPE",
+            "Great Entrepreneur Community",
+            "CONCEPT"
+        ],
+        [
+            "Lewiston",
+            "GPE",
+            "Approximately 1.7 Million People",
+            "PERSON"
+        ],
+        [
+            "Lewiston",
+            "GPE",
+            "Strong Demand",
+            "Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Des Moines",
+            "GPE",
+            "Promising Job Growth",
+            "CONCEPT"
+        ],
+        [
+            "Des Moines",
+            "GPE",
+            "Diverse Set of Industries",
+            "CONCEPT"
+        ],
+        [
+            "Wausau",
+            "GPE",
+            "Job Growth Potential",
+            "CONCEPT"
+        ],
+        [
+            "Wausau",
+            "GPE",
+            "Lower than Average Cost of Living",
+            "CONCEPT"
+        ],
+        [
+            "Wausau",
+            "GPE",
+            "Lower than Average Commute Times",
+            "CONCEPT"
+        ],
+        [
+            "Minneapolis",
+            "GPE",
+            "Large Job Market",
+            "CONCEPT"
+        ],
+        [
+            "Minneapolis",
+            "GPE",
+            "Low Rate of Job Competition",
+            "CONCEPT"
+        ]
+    ]
+}

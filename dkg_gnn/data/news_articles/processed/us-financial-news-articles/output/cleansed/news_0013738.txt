@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Discuss",
+            "Europe Future",
+            "EVENT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Visit",
+            "Emmanuel Macron",
+            "PERSON"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Host",
+            "Angela Merkel",
+            "PERSON"
+        ],
+        [
+            "France",
+            "GPE",
+            "Want",
+            "Inject",
+            "SECTOR"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Stall",
+            "EU Reform Efforts",
+            "EVENT"
+        ],
+        [
+            "Peter Altmaier",
+            "PERSON",
+            "Meet",
+            "Bruno Le Maire",
+            "PERSON"
+        ],
+        [
+            "Peter Altmaier",
+            "PERSON",
+            "Act",
+            "Germany Finance Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Bruno Le Maire",
+            "PERSON",
+            "Host",
+            "Peter Altmaier",
+            "PERSON"
+        ]
+    ]
+}

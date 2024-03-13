@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Run_For",
+            "U.S. Senate",
+            "ORG/GOV"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Support",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Promise",
+            "Represent",
+            "CONCEPT"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Convict",
+            "Criminal Contempt of Court",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Pardon",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Violate",
+            "Injunction",
+            "ORG/REG"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Nurture",
+            "Culture",
+            "CONCEPT"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Discriminate",
+            "Latinos",
+            "GPE"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Lose",
+            "Re-Election",
+            "EVENT"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Defend",
+            "Gun Owners",
+            "CONCEPT"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Oppose",
+            "Abortion",
+            "CONCEPT"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Work",
+            "Reduce",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jeff Flake",
+            "PERSON",
+            "Retire",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Jeff Flake",
+            "PERSON",
+            "Step_Down",
+            "Arizona seat",
+            "ORG/GOV"
+        ],
+        [
+            "Jeff Flake",
+            "PERSON",
+            "Speak",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Jeff Flake",
+            "PERSON",
+            "Criticize",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Jeff Flake",
+            "PERSON",
+            "Feel",
+            "Out_of_Step",
+            "CONCEPT"
+        ],
+        [
+            "Krysten Sinema",
+            "PERSON",
+            "Hope",
+            "Flip",
+            "ORG/GOV"
+        ],
+        [
+            "Kelli Ward",
+            "PERSON",
+            "Position",
+            "Candidate",
+            "CONCEPT"
+        ],
+        [
+            "Kelli Ward",
+            "PERSON",
+            "Overshadow",
+            "Arpaio",
+            "PERSON"
+        ],
+        [
+            "Stan Barnes",
+            "PERSON",
+            "Say",
+            "Arpaio",
+            "PERSON"
+        ],
+        [
+            "Stan Barnes",
+            "PERSON",
+            "Cannot",
+            "Dismiss",
+            "CONCEPT"
+        ],
+        [
+            "Ed Rollins",
+            "PERSON",
+            "Have",
+            "Great_Respect",
+            "PERSON"
+        ],
+        [
+            "Ed Rollins",
+            "PERSON",
+            "Welcome",
+            "Arpaio",
+            "PERSON"
+        ],
+        [
+            "Ed Rollins",
+            "PERSON",
+            "Say",
+            "Conservatives",
+            "CONCEPT"
+        ],
+        [
+            "Martha McSally",
+            "PERSON",
+            "Announce",
+            "Run",
+            "CONCEPT"
+        ],
+        [
+            "Martha McSally",
+            "PERSON",
+            "Seen",
+            "Moderate",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Ruder Finn",
+            "ORG",
+            "Announce",
+            "two senior level promotions",
+            "EVENT"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Promote",
+            "Head of International Strategy",
+            "POSITION"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Operate_In",
+            "Ruder Finn Asia",
+            "ORG"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Promote",
+            "Regional Director of Asia",
+            "POSITION"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Operate_In",
+            "Ruder Finn Greater China",
+            "ORG"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Has",
+            "overseeing Ruder Finn Asia operations",
+            "POSITION"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Produce",
+            "conflict agency RF Thunder",
+            "ORG"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Produce",
+            "digital division RFI",
+            "ORG"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Impact",
+            "Ruder Finn Asia growth",
+            "EVENT"
+        ],
+        [
+            "Jean-Michel Dumont",
+            "PERSON",
+            "Control",
+            "Ruder Finn Asia operations",
+            "POSITION"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Has",
+            "grown Ruder Finn China region",
+            "POSITION"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Control",
+            "Ruder Finn China region",
+            "POSITION"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Relate_To",
+            "Shanghai Disney Resorts",
+            "GPE"
+        ],
+        [
+            "Elan Shou",
+            "PERSON",
+            "Relate_To",
+            "Tencent",
+            "COMP"
+        ],
+        [
+            "Ruder Finn",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Ruder Finn",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

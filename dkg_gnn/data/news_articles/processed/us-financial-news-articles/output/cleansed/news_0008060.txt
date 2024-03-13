@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Synchronized Global Growth",
+            "CONCEPT"
+        ],
+        [
+            "Andrew Peck",
+            "PERSON",
+            "Control",
+            "Baron Asset Fund",
+            "COMP"
+        ],
+        [
+            "Baron Asset Fund",
+            "COMP",
+            "Post",
+            "26% Gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baron Asset Fund",
+            "COMP",
+            "Operate_In",
+            "Mutual Fund",
+            "COMP"
+        ],
+        [
+            "Interest Rates",
+            "ECON_INDICATOR",
+            "Remain",
+            "Historic Lows",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

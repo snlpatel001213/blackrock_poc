@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "South Africa",
+            "GPE",
+            "Gain",
+            "Lead",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Operate_In",
+            "First Test",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Reach",
+            "65",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Lose",
+            "Dale Steyn",
+            "PERSON"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Suffer",
+            "Injury",
+            "CONCEPT"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Leave",
+            "Field",
+            "GPE"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Go",
+            "Scans",
+            "CONCEPT"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "Face",
+            "Four-six Weeks",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dale Steyn",
+            "PERSON",
+            "On",
+            "Sidelines",
+            "LOC"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Have",
+            "Eight",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Bowl",
+            "India",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Bowl",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Out",
+            "209",
+            "ECON_INDICATOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Slip",
+            "92",
+            "ECON_INDICATOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "For",
+            "Seven",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aiden Markram",
+            "PERSON",
+            "Fall",
+            "First",
+            "ORDINAL"
+        ],
+        [
+            "Aiden Markram",
+            "PERSON",
+            "Score",
+            "34",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dean Elgar",
+            "PERSON",
+            "Score",
+            "25",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dean Elgar",
+            "PERSON",
+            "Edge",
+            "Wriddhiman Saha",
+            "PERSON"
+        ],
+        [
+            "Hardik Pandya",
+            "PERSON",
+            "Score",
+            "93",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hardik Pandya",
+            "PERSON",
+            "Bat",
+            "95",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hardik Pandya",
+            "PERSON",
+            "Drop",
+            "Elgar",
+            "PERSON"
+        ],
+        [
+            "Hardik Pandya",
+            "PERSON",
+            "Offer",
+            "Stumping",
+            "CONCEPT"
+        ],
+        [
+            "Hardik Pandya",
+            "PERSON",
+            "Induce",
+            "Edge",
+            "CONCEPT"
+        ],
+        [
+            "Cheteshwar Pujara",
+            "PERSON",
+            "Say",
+            "Promising",
+            "CONCEPT"
+        ],
+        [
+            "Cheteshwar Pujara",
+            "PERSON",
+            "Score",
+            "26",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Host",
+            "India",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "In",
+            "Three",
+            "ORDINAL"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Next",
+            "Two",
+            "ORDINAL"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "In",
+            "Pretoria",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "And",
+            "Johannesburg",
+            "GPE"
+        ]
+    ]
+}

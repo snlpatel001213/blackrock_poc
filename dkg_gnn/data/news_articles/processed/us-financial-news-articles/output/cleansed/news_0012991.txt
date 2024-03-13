@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "New York City",
+            "GPE",
+            "Sue",
+            "BP Plc",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Sue",
+            "Chevron Corp",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Sue",
+            "ConocoPhillips",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Sue",
+            "Exxon Mobil Corp",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Sue",
+            "Royal Dutch Shell Plc",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Plan",
+            "Divestment",
+            "CONCEPT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Operate_In",
+            "Public Pension Funds",
+            "ORG"
+        ],
+        [
+            "Public Pension Funds",
+            "ORG",
+            "Contain",
+            "Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Securities",
+            "FIN_INSTRUMENT",
+            "Belong_To",
+            "Oil Companies",
+            "ORG"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Eliminate",
+            "Fossil Fuel Investments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Contain",
+            "Pension Funds",
+            "ORG"
+        ],
+        [
+            "Pension Funds",
+            "ORG",
+            "Have",
+            "Teachers",
+            "PERSON"
+        ],
+        [
+            "Pension Funds",
+            "ORG",
+            "Have",
+            "Firefighters",
+            "PERSON"
+        ],
+        [
+            "Pension Funds",
+            "ORG",
+            "Have",
+            "City Workers",
+            "PERSON"
+        ],
+        [
+            "City Comptroller Scott Stringer",
+            "PERSON",
+            "Say",
+            "Financial Future",
+            "CONCEPT"
+        ],
+        [
+            "City Comptroller Scott Stringer",
+            "PERSON",
+            "Say",
+            "Sustainability",
+            "CONCEPT"
+        ],
+        [
+            "City Comptroller Scott Stringer",
+            "PERSON",
+            "Trustee_Of",
+            "New York\u2019s Five Pension Funds",
+            "ORG"
+        ],
+        [
+            "New York\u2019s Five Pension Funds",
+            "ORG",
+            "Contain",
+            "Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "New York\u2019s Five Pension Funds",
+            "ORG",
+            "Have",
+            "Police Officers",
+            "PERSON"
+        ],
+        [
+            "New York\u2019s Five Pension Funds",
+            "ORG",
+            "Have",
+            "City Workers",
+            "PERSON"
+        ],
+        [
+            "New York\u2019s Five Pension Funds",
+            "ORG",
+            "Have",
+            "Teachers",
+            "PERSON"
+        ],
+        [
+            "New York\u2019s Five Pension Funds",
+            "ORG",
+            "Have",
+            "Firefighters",
+            "PERSON"
+        ]
+    ]
+}

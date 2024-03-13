@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Citigroup",
+            "ORG",
+            "Has",
+            "Lars Ingemarsson",
+            "PERSON"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Has",
+            "Ari Makela",
+            "PERSON"
+        ],
+        [
+            "Lars Ingemarsson",
+            "PERSON",
+            "Operate_In",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Ari Makela",
+            "PERSON",
+            "Operate_In",
+            "Finland",
+            "GPE"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Has",
+            "Manuel Falco",
+            "PERSON"
+        ],
+        [
+            "Manuel Falco",
+            "PERSON",
+            "Control",
+            "EMEA Corporate and Investment Banking",
+            "ORG"
+        ],
+        [
+            "Lars Ingemarsson",
+            "PERSON",
+            "Participates_In",
+            "Nordic Investment Banking",
+            "ORG"
+        ],
+        [
+            "Ari Makela",
+            "PERSON",
+            "Participates_In",
+            "Nordic Investment Banking",
+            "ORG"
+        ],
+        [
+            "Nicholas Blach Petersen",
+            "PERSON",
+            "Participates_In",
+            "Denmark Investment Banking",
+            "ORG"
+        ],
+        [
+            "Morten Eikebu",
+            "PERSON",
+            "Participates_In",
+            "Norway Investment Banking",
+            "ORG"
+        ]
+    ]
+}

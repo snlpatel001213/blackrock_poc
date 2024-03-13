@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Coca-Cola Co",
+            "COMP",
+            "Announce",
+            "Revise Release Date",
+            "EVENT"
+        ],
+        [
+            "Coca-Cola Co",
+            "COMP",
+            "Relate_To",
+            "Q4 and Full Year 2017 Financial Results",
+            "EVENT"
+        ],
+        [
+            "Coca-Cola Co",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Coca-Cola Co",
+            "COMP",
+            "Impact",
+            "Tax Cuts and Jobs Act",
+            "CONCEPT"
+        ],
+        [
+            "Coca-Cola Co",
+            "COMP",
+            "Has",
+            "Management",
+            "PERSON"
+        ]
+    ]
+}

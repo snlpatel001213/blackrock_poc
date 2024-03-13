@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Aeon Global Health",
+            "ORG",
+            "Announce",
+            "Armando Moncada",
+            "PERSON"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Operate_In",
+            "Anatomic Pathology",
+            "SECTOR"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Control",
+            "PCG Molecular",
+            "COMP"
+        ],
+        [
+            "Aeon Global Health",
+            "ORG",
+            "Intend_To",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "PCG Molecular",
+            "COMP",
+            "Produce",
+            "MOP",
+            "PRODUCT"
+        ],
+        [
+            "PCG Molecular",
+            "COMP",
+            "Produce",
+            "Bella One Pap",
+            "PRODUCT"
+        ],
+        [
+            "PCG Molecular",
+            "COMP",
+            "Produce",
+            "MAP",
+            "PRODUCT"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Is_Member_Of",
+            "American Medical Association",
+            "ORG"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Is_Member_Of",
+            "College of American Pathologists",
+            "ORG"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Is_Member_Of",
+            "American Society for Clinical Pathology",
+            "ORG"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Is_Member_Of",
+            "American College of Physician Executives",
+            "ORG"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Is_Member_Of",
+            "Association for Molecular Pathology",
+            "ORG"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Relate_To",
+            "Laboratory Accreditation Program",
+            "CONCEPT"
+        ],
+        [
+            "Armando Moncada",
+            "PERSON",
+            "Relate_To",
+            "Healthcare Administration",
+            "CONCEPT"
+        ]
+    ]
+}

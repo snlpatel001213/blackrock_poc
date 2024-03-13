@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Namon Wright",
+            "PERSON",
+            "Score",
+            "11 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "George King",
+            "PERSON",
+            "Score",
+            "26 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thomas Welsh",
+            "PERSON",
+            "Score",
+            "20 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kris Wilkes",
+            "PERSON",
+            "Score",
+            "10 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aaron Holiday",
+            "PERSON",
+            "Score",
+            "10 points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Win",
+            "UCLA",
+            "GPE"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Operate_In",
+            "Pac-12",
+            "SECTOR"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Operate_In",
+            "Pac-12",
+            "SECTOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Lose",
+            "USC",
+            "GPE"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Has",
+            "3 road wins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Lose",
+            "Utah",
+            "GPE"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Have",
+            "2 losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Lead",
+            "by as many as 17",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Cut",
+            "deficit to four",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Has",
+            "11 wins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Has",
+            "13 wins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Make",
+            "11-for-22 on treys",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "UCLA",
+            "GPE",
+            "Make",
+            "5-for-25 on 3-pointers",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

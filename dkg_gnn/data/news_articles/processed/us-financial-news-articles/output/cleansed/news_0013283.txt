@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Interparfums",
+            "COMP",
+            "Raise",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Produce",
+            "Fragrance Brands",
+            "PRODUCT"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Has",
+            "Fragrance Brands",
+            "PRODUCT"
+        ],
+        [
+            "Fragrance Brands",
+            "PRODUCT",
+            "Include",
+            "Jimmy Choo",
+            "PRODUCT"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Expect",
+            "Annual Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Annual Sales",
+            "ECON_INDICATOR",
+            "Be_Around",
+            "415 Million Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "415 Million Euros",
+            "ECON_INDICATOR",
+            "Equal",
+            "495 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Expect",
+            "Annual Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Annual Sales",
+            "ECON_INDICATOR",
+            "Be_Around",
+            "420 Million Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "420 Million Euros",
+            "ECON_INDICATOR",
+            "Equal",
+            "500 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interparfums",
+            "COMP",
+            "Raise",
+            "Objective",
+            "CONCEPT"
+        ],
+        [
+            "Objective",
+            "CONCEPT",
+            "For",
+            "2017 Operating Margin",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2017 Operating Margin",
+            "ECON_INDICATOR",
+            "Around",
+            "13.5 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

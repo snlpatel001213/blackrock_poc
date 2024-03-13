@@ -1,0 +1,104 @@
+{
+    "output": [
+        [
+            "Atletico Madrid",
+            "ORG",
+            "Operate_In",
+            "King\u2019s Cup",
+            "EVENT"
+        ],
+        [
+            "Atletico Madrid",
+            "ORG",
+            "Progress",
+            "King\u2019s Cup quarter-finals",
+            "EVENT"
+        ],
+        [
+            "Atletico Madrid",
+            "ORG",
+            "Win",
+            "Lleida Esportiu",
+            "GPE",
+            "3-0"
+        ],
+        [
+            "Lleida Esportiu",
+            "GPE",
+            "Participates_In",
+            "King\u2019s Cup",
+            "EVENT"
+        ],
+        [
+            "Lucas Hernandez",
+            "PERSON",
+            "Hit",
+            "Post",
+            "CONCEPT"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Denied",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Tee_Up",
+            "Yannick Carrasco",
+            "PERSON"
+        ],
+        [
+            "Yannick Carrasco",
+            "PERSON",
+            "Slot",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Gameiro",
+            "PERSON",
+            "Fire",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Angel Correa",
+            "PERSON",
+            "Good_Work",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Vitolo",
+            "PERSON",
+            "Net",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Fernando Torres",
+            "PERSON",
+            "Through_Ball",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Valencia",
+            "GPE",
+            "Host",
+            "Las Palmas",
+            "GPE"
+        ],
+        [
+            "Las Palmas",
+            "GPE",
+            "Draw",
+            "Valencia",
+            "GPE",
+            "1-1"
+        ]
+    ]
+}

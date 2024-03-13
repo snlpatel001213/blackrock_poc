@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Florida",
+            "GPE",
+            "Impact",
+            "Fish",
+            "PRODUCT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Impact",
+            "Iguanas",
+            "PERSON"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Impact",
+            "Manatees",
+            "PERSON"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Impact",
+            "Sea Turtles",
+            "PERSON"
+        ],
+        [
+            "Cold Snap",
+            "EVENT",
+            "Relate_To",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Cold Snap",
+            "EVENT",
+            "Relate_To",
+            "Fish",
+            "PRODUCT"
+        ],
+        [
+            "Cold Snap",
+            "EVENT",
+            "Relate_To",
+            "Iguanas",
+            "PERSON"
+        ],
+        [
+            "Cold Snap",
+            "EVENT",
+            "Relate_To",
+            "Manatees",
+            "PERSON"
+        ],
+        [
+            "Cold Snap",
+            "EVENT",
+            "Relate_To",
+            "Sea Turtles",
+            "PERSON"
+        ]
+    ]
+}

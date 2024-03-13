@@ -1,0 +1,120 @@
+{
+    "output": [
+        [
+            "French magistrates",
+            "ORG/GOV",
+            "Dismiss",
+            "Sex abuse case",
+            "EVENT"
+        ],
+        [
+            "French soldiers",
+            "ORG/GOV",
+            "Accused_Of",
+            "Sexual abuse",
+            "EVENT"
+        ],
+        [
+            "Central African Republic",
+            "GPE",
+            "Located_In",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Paris prosecutors",
+            "ORG/GOV",
+            "Call_For",
+            "Case_Dismissal",
+            "EVENT"
+        ],
+        [
+            "2013-2014",
+            "TIME",
+            "Occur_During",
+            "Abuse",
+            "EVENT"
+        ],
+        [
+            "April 2015",
+            "TIME",
+            "Leak_Of",
+            "UN document",
+            "ORG/REG"
+        ],
+        [
+            "Six children",
+            "PERSON",
+            "Testify",
+            "Abuse",
+            "EVENT"
+        ],
+        [
+            "Displacement camp",
+            "PRODUCT",
+            "Located_In",
+            "Capital Bangui",
+            "GPE"
+        ],
+        [
+            "December 2013 and June 2014",
+            "TIME",
+            "Occur_Between",
+            "Abuse",
+            "EVENT"
+        ],
+        [
+            "UN report",
+            "ORG/REG",
+            "Accuse",
+            "Thirteen French soldiers",
+            "PERSON"
+        ],
+        [
+            "Equatorial Guinea",
+            "GPE",
+            "Two soldiers from",
+            "ORG/GOV"
+        ],
+        [
+            "Chad",
+            "GPE",
+            "Three soldiers from",
+            "ORG/GOV"
+        ],
+        [
+            "Francois Hollande",
+            "PERSON",
+            "Promise",
+            "No mercy",
+            "CONCEPT"
+        ],
+        [
+            "UN command",
+            "ORG/REG",
+            "French soldiers not operating under",
+            "EVENT"
+        ],
+        [
+            "MINUSCA",
+            "ORG/REG",
+            "Accused_Of",
+            "Misconduct",
+            "EVENT"
+        ],
+        [
+            "Sexual exploitation and abuse",
+            "EVENT",
+            "Include",
+            "Twelve cases",
+            "TIME"
+        ],
+        [
+            "ECPAT",
+            "ORG",
+            "Not rule out",
+            "Appeal decision",
+            "EVENT"
+        ]
+    ]
+}

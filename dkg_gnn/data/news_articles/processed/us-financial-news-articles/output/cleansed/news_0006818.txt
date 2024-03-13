@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Oman\u2019s Government",
+            "GPE",
+            "Obtain",
+            "Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Financing",
+            "FIN_INSTRUMENT",
+            "Come_From",
+            "Saudi Fund for Development",
+            "ORG/GOV"
+        ],
+        [
+            "Saudi Fund for Development",
+            "ORG/GOV",
+            "Support",
+            "Work",
+            "CONCEPT"
+        ],
+        [
+            "Work",
+            "CONCEPT",
+            "At",
+            "Duqm",
+            "GPE"
+        ],
+        [
+            "Duqm",
+            "GPE",
+            "Building",
+            "Industrial Zone",
+            "COMP"
+        ],
+        [
+            "Oman",
+            "GPE",
+            "Debt",
+            "Rated",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oman",
+            "GPE",
+            "Running",
+            "State Budget Deficit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Promised",
+            "Aid",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Aid",
+            "FIN_INSTRUMENT",
+            "Slow",
+            "Disburse",
+            "CONCEPT"
+        ],
+        [
+            "Duqm",
+            "GPE",
+            "Part_of",
+            "Regional Program",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Fund for Development",
+            "ORG/GOV",
+            "Allocate",
+            "Finance",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Finance",
+            "FIN_INSTRUMENT",
+            "Growth",
+            "Smaller Companies",
+            "COMP"
+        ],
+        [
+            "Saudi Fund for Development",
+            "ORG/GOV",
+            "Extend_Aid",
+            "Cooperation",
+            "CONCEPT"
+        ],
+        [
+            "Cooperation",
+            "CONCEPT",
+            "Oman Development Bank",
+            "ORG"
+        ]
+    ]
+}

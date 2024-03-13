@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Make_Changes_To",
+            "Ministerial_Team",
+            "ORG/GOV"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Appointed_As",
+            "Conservative_Party_Chairman",
+            "ORG"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Replace",
+            "Patrick McLoughlin",
+            "PERSON"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Responsible_For",
+            "Day_To_Day_Running_Of_Political_Party_And_Its_Campaigns",
+            "ORG"
+        ],
+        [
+            "David Lidington",
+            "PERSON",
+            "Appointed_As",
+            "Cabinet_Office_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "David Lidington",
+            "PERSON",
+            "Support",
+            "Prime_Minister",
+            "PERSON"
+        ],
+        [
+            "David Lidington",
+            "PERSON",
+            "Responsible_For",
+            "Making_Sure_Government_Runs_Smoothly",
+            "ORG/GOV"
+        ],
+        [
+            "David Lidington",
+            "PERSON",
+            "Replace",
+            "Damian Green",
+            "PERSON"
+        ],
+        [
+            "David Davis",
+            "PERSON",
+            "Keep",
+            "Brexit_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Keep",
+            "Foreign_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Philip Hammond",
+            "PERSON",
+            "Keep",
+            "Finance_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Amber Rudd",
+            "PERSON",
+            "Keep",
+            "Interior_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Greg Clark",
+            "PERSON",
+            "Continue_In",
+            "Business_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Liam Fox",
+            "PERSON",
+            "Continue_In",
+            "Trade_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Gavin Williamson",
+            "PERSON",
+            "Continue_In",
+            "Defense_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "David Gauke",
+            "PERSON",
+            "Appointed_As",
+            "Justice_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Karen Bradley",
+            "PERSON",
+            "Appointed_As",
+            "Minister_For_Northern_Ireland",
+            "ORG/GOV"
+        ],
+        [
+            "Karen Bradley",
+            "PERSON",
+            "Replace",
+            "James Brokenshire",
+            "PERSON"
+        ],
+        [
+            "Sajid Javid",
+            "PERSON",
+            "Given",
+            "Expanded_Role",
+            "ORG/GOV"
+        ],
+        [
+            "Sajid Javid",
+            "PERSON",
+            "Add",
+            "Housing",
+            "SECTOR"
+        ],
+        [
+            "Jeremy Hunt",
+            "PERSON",
+            "Become",
+            "Minister_For_Health_And_Social_Care",
+            "ORG/GOV"
+        ],
+        [
+            "Justine Greening",
+            "PERSON",
+            "Quit",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Damian Hinds",
+            "PERSON",
+            "Named",
+            "Work_And_Pensions_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Esther McVey",
+            "PERSON",
+            "Named",
+            "Work_And_Pensions_Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Matthew Hancock",
+            "PERSON",
+            "Appointed_As",
+            "Minister_For_Digital_Culture_Media_And_Sport",
+            "ORG/GOV"
+        ]
+    ]
+}

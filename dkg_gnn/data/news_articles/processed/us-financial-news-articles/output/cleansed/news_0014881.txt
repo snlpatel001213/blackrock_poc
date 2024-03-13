@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Medtronic Plc",
+            "COMP",
+            "Receive",
+            "FDA Clearance",
+            "ORG/REG"
+        ],
+        [
+            "Medtronic Plc",
+            "COMP",
+            "Produce",
+            "Riptide(TM) Aspiration System",
+            "PRODUCT"
+        ],
+        [
+            "Riptide Aspiration System",
+            "PRODUCT",
+            "Relate_To",
+            "FDA Clearance",
+            "ORG/REG"
+        ],
+        [
+            "Medtronic Plc",
+            "COMP",
+            "Operate_In",
+            "Medical Device Industry",
+            "SECTOR"
+        ]
+    ]
+}

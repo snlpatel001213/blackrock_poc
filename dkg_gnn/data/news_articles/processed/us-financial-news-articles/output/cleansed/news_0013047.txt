@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Act",
+            null,
+            "NA"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Discuss",
+            "melt-up",
+            "CONCEPT"
+        ],
+        [
+            "Fast Money Halftime Report",
+            "EVENT",
+            "Relate_To",
+            "traders",
+            "PERSON"
+        ],
+        [
+            "Economic data",
+            "ECON_INDICATOR",
+            "Despite",
+            "bonds",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

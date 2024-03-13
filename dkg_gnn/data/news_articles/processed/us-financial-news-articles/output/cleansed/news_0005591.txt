@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Participates_In",
+            "Commemoration",
+            "EVENT"
+        ],
+        [
+            "Paris Mayor Anne Hidalgo",
+            "PERSON",
+            "Participates_In",
+            "Commemoration",
+            "EVENT"
+        ],
+        [
+            "Charlie Hebdo",
+            "ORG",
+            "Be_Attacked_By",
+            "Kouachi Brothers",
+            "PERSON"
+        ],
+        [
+            "Kouachi Brothers",
+            "PERSON",
+            "Carry_Out",
+            "Attack",
+            "EVENT"
+        ],
+        [
+            "Said Kouachi",
+            "PERSON",
+            "Be_Member_Of",
+            "Kouachi Brothers",
+            "PERSON"
+        ],
+        [
+            "Cherif Kouachi",
+            "PERSON",
+            "Be_Member_Of",
+            "Kouachi Brothers",
+            "PERSON"
+        ],
+        [
+            "Amedy Coulibaly",
+            "PERSON",
+            "Carry_Out",
+            "Attack",
+            "EVENT"
+        ],
+        [
+            "Amedy Coulibaly",
+            "PERSON",
+            "Shoot_Dead",
+            "Policewoman",
+            "PERSON"
+        ],
+        [
+            "Amedy Coulibaly",
+            "PERSON",
+            "Be_Killed_By",
+            "Police",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "output": [
+        [
+            "Elderly lung cancer patients",
+            "PERSON",
+            "Receive",
+            "combination of chemotherapy and radiation",
+            "TREATMENT"
+        ],
+        [
+            "Elderly lung cancer patients",
+            "PERSON",
+            "Operate_In",
+            "advanced, inoperable lung cancer",
+            "CONDITION"
+        ],
+        [
+            "Simultaneous treatment with both chemotherapy and radiation",
+            "TREATMENT",
+            "Standard_of_care",
+            "Regardless of age",
+            "QUALIFIER"
+        ],
+        [
+            "This treatment",
+            "TREATMENT",
+            "Can be very difficult for patients to complete",
+            "DIFFICULTY"
+        ],
+        [
+            "Doctors",
+            "ORG",
+            "Consider",
+            "full picture before recommending a certain type of therapy",
+            "PROCEDURE"
+        ],
+        [
+            "More than one in three new lung cancers",
+            "CONDITION",
+            "Diagnosed in patients 75 or older",
+            "AGE_GROUP"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Havent offered a clear picture of how the combination of chemotherapy and radiation works for elderly patients",
+            "FINDINGS"
+        ],
+        [
+            "Researchers",
+            "ORG",
+            "Studied",
+            "12,641 patients who were at least 80 years old when diagnosed with advanced lung tumors between 2004 and 2014",
+            "STUDY"
+        ],
+        [
+            "7,921 patients",
+            "PERSON",
+            "Received no treatment",
+            "TREATMENT"
+        ],
+        [
+            "About 7 percent of these patients",
+            "PERSON",
+            "Still alive after two years",
+            "OUTCOME"
+        ],
+        [
+            "31 percent of the people who received combined chemotherapy and radiation",
+            "PERSON",
+            "Still alive after two years",
+            "OUTCOME"
+        ],
+        [
+            "Black patients",
+            "PERSON",
+            "20 percent less likely than white patients to receive chemotherapy and radiation",
+            "TREATMENT"
+        ],
+        [
+            "Patients from communities where more than one in five residents lacked a high school degree",
+            "PERSON",
+            "15 percent lower odds of getting this combination therapy",
+            "TREATMENT"
+        ],
+        [
+            "Men",
+            "PERSON",
+            "40 percent more likely to get chemo and radiation than women",
+            "TREATMENT"
+        ],
+        [
+            "Survival benefit associated with combination therapy",
+            "OUTCOME",
+            "Persisted even after accounting for factors like age, sex, race, income, and individual tumor characteristics",
+            "FINDINGS"
+        ],
+        [
+            "Researchers",
+            "ORG",
+            "Lacked data on the exact cause of death",
+            "LIMITATION"
+        ],
+        [
+            "Some patients",
+            "PERSON",
+            "Might have rejected treatment when it was offered to them",
+            "TREATMENT"
+        ],
+        [
+            "Socioeconomic factors",
+            "CONCEPT",
+            "Relate_To treatment disparities in the study",
+            "FINDINGS"
+        ],
+        [
+            "African Americans",
+            "PERSON",
+            "Less likely to have the financial means to seek medical care",
+            "FINDINGS"
+        ],
+        [
+            "Treatment disparities in the study",
+            "FINDINGS",
+            "Might be explained in part by differences in cultural or community beliefs about how aggressively to attack tumors in old age",
+            "FINDINGS"
+        ],
+        [
+            "Black patients",
+            "PERSON",
+            "Have less access to cancer care and worse cancer outcomes than whites",
+            "FINDINGS"
+        ],
+        [
+            "Elderly patients and their physicians",
+            "PERSON",
+            "Avoid making conventional assumptions about treatment regimens for the elderly",
+            "RECOMMENDATION"
+        ],
+        [
+            "Available and recommended treatment options",
+            "TREATMENT",
+            "Including combined chemotherapy and radiation therapy",
+            "TREATMENT"
+        ],
+        [
+            "Doctors and patients",
+            "ORG",
+            "Eliminate part of the disparities between older and younger patients",
+            "RECOMMENDATION"
+        ],
+        [
+            "Reuters Health",
+            "ORG",
+            "Source",
+            "SOURCE"
+        ]
+    ]
+}

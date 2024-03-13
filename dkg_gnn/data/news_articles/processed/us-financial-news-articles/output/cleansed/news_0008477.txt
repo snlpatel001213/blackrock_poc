@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Shanghai DZH Ltd.",
+            "COMP",
+            "Receive",
+            "Judgment",
+            "EVENT"
+        ],
+        [
+            "Shanghai DZH Ltd.",
+            "COMP",
+            "Participates_In",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "13 Individuals",
+            "PERSON",
+            "Participates_In",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Accounting Firm (BDO)",
+            "ORG",
+            "Participates_In",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Shanghai DZH Ltd.",
+            "COMP",
+            "Ordered_To",
+            "Pay",
+            "ECON_INDICATOR"
+        ],
+        [
+            "31 Individuals",
+            "PERSON",
+            "Relate_To",
+            "10.4 Million Yuan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shanghai DZH Ltd.",
+            "COMP",
+            "Operate_In",
+            "Beijing Headline News",
+            "GPE"
+        ]
+    ]
+}

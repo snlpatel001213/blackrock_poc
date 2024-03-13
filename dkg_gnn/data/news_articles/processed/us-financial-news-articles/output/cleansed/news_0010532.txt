@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "World Health Organization",
+            "ORG",
+            "Announce",
+            "suspected viral haemorrhagic fever",
+            "CONCEPT"
+        ],
+        [
+            "Three people",
+            "PERSON",
+            "Die_Of",
+            "suspected viral haemorrhagic fever",
+            "CONCEPT"
+        ],
+        [
+            "South Sudan",
+            "GPE",
+            "Has",
+            "60 contacts",
+            "PERSON"
+        ],
+        [
+            "Ebola",
+            "CONCEPT",
+            "Is_Member_Of",
+            "viral haemorrhagic fevers",
+            "CONCEPT"
+        ],
+        [
+            "Marburg",
+            "CONCEPT",
+            "Is_Member_Of",
+            "viral haemorrhagic fevers",
+            "CONCEPT"
+        ],
+        [
+            "Yellow fever",
+            "CONCEPT",
+            "Is_Member_Of",
+            "viral haemorrhagic fevers",
+            "CONCEPT"
+        ],
+        [
+            "Guinea",
+            "GPE",
+            "Affected_By",
+            "Ebola outbreak",
+            "EVENT"
+        ],
+        [
+            "Liberia",
+            "GPE",
+            "Affected_By",
+            "Ebola outbreak",
+            "EVENT"
+        ],
+        [
+            "Sierra Leone",
+            "GPE",
+            "Affected_By",
+            "Ebola outbreak",
+            "EVENT"
+        ],
+        [
+            "2013",
+            "TIME",
+            "To",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Pregnant woman",
+            "PERSON",
+            "Die_In",
+            "Yirol East county",
+            "GPE"
+        ],
+        [
+            "Teenage girl",
+            "PERSON",
+            "Die_In",
+            "Yirol East county",
+            "GPE"
+        ],
+        [
+            "Boy",
+            "PERSON",
+            "Die_In",
+            "Yirol East county",
+            "GPE"
+        ],
+        [
+            "No tissue",
+            "PRODUCT",
+            "Collected",
+            "bodies",
+            "PRODUCT"
+        ],
+        [
+            "Blood samples",
+            "PRODUCT",
+            "Not_Collected",
+            "bodies",
+            "PRODUCT"
+        ],
+        [
+            "South Sudan health authorities",
+            "ORG",
+            "Report",
+            "cases",
+            "EVENT"
+        ],
+        [
+            "South Sudan",
+            "GPE",
+            "Has",
+            "evidence of zoonotic haemorrhagic illness",
+            "CONCEPT"
+        ],
+        [
+            "Goats",
+            "PRODUCT",
+            "Involved_In",
+            "zoonotic haemorrhagic illness",
+            "CONCEPT"
+        ],
+        [
+            "Sheep",
+            "PRODUCT",
+            "Involved_In",
+            "zoonotic haemorrhagic illness",
+            "CONCEPT"
+        ],
+        [
+            "Wild birds",
+            "PRODUCT",
+            "Involved_In",
+            "deaths",
+            "EVENT"
+        ],
+        [
+            "South Sudan",
+            "GPE",
+            "Investigated_By",
+            "national health authorities",
+            "ORG"
+        ],
+        [
+            "South Sudan",
+            "GPE",
+            "Investigated_By",
+            "WHO",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "Adaptimmune Therapeutics Plc",
+            "COMP",
+            "Enter",
+            "Cell and Gene Therapy Catapult",
+            "ORG"
+        ],
+        [
+            "Adaptimmune Therapeutics Plc",
+            "COMP",
+            "Announce",
+            "Agreement",
+            "ORG",
+            "Vector Production",
+            "PRODUCT",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Agreement",
+            "ORG",
+            "Operate_In",
+            "5 Years",
+            "TIME"
+        ],
+        [
+            "Agreement",
+            "ORG",
+            "Terminate",
+            "Earlier",
+            "TIME",
+            "Both Parties",
+            "PERSON",
+            "12 Months\u2019 Notice",
+            "TIME"
+        ],
+        [
+            "Adaptimmune Therapeutics Plc",
+            "COMP",
+            "Have",
+            "Dedicated Vector Manufacturing Space",
+            "PRODUCT",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Agreement",
+            "ORG",
+            "Ensure",
+            "Vector Supply Production",
+            "PRODUCT",
+            "Beyond 2020",
+            "TIME",
+            "3 Spear T-Cell Therapies",
+            "PRODUCT",
+            "MAGE-A4",
+            "PRODUCT",
+            "MAGE-A10",
+            "PRODUCT",
+            "AFP",
+            "PRODUCT"
+        ]
+    ]
+}

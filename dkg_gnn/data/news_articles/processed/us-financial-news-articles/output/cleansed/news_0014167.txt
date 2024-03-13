@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call_On",
+            "Myanmar Authorities",
+            "ORG/GOV"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Expect",
+            "Myanmar Authorities",
+            "ORG/GOV"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Have",
+            "Court Hearing",
+            "EVENT"
+        ],
+        [
+            "Prosecutors",
+            "ORG/GOV",
+            "Seek",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Reuters Journalists",
+            "PERSON",
+            "Be",
+            "Under_Official_Secrets_Act",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Consider",
+            "Case",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Expect",
+            "Protection_Of_Rights",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Expect",
+            "Release",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Describing",
+            "Media_Freedom",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Consider",
+            "Test_For_Myanmar",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call",
+            "On_Myanmar_Government",
+            "ORG/GOV"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Urge",
+            "Transparency",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call_On",
+            "Hold_Accountable",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Reiterate",
+            "Call",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Highlight",
+            "Reporting",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call_On",
+            "Ensure_Transparency",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call_On",
+            "Make_Serious_Efforts",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Call_On",
+            "Hold_Accountable",
+            "CONCEPT"
+        ],
+        [
+            "European Parliament",
+            "ORG/GOV",
+            "Have",
+            "Liberal_Leader",
+            "PERSON"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Be",
+            "Former_Prime_Minister_Of",
+            "COMP"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Call_On",
+            "EU_Authorities",
+            "ORG/GOV"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Using_Outdated_Laws",
+            "CONCEPT"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Jail_Reporters",
+            "CONCEPT"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Rohingya_Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Good_To_See",
+            "CONCEPT"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Condemnation",
+            "CONCEPT"
+        ],
+        [
+            "Guy_Verhofstadt",
+            "PERSON",
+            "Tweet",
+            "Further_Action",
+            "CONCEPT"
+        ]
+    ]
+}

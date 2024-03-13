@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "National Hospice and Palliative Care Organization",
+            "ORG",
+            "Welcome",
+            "Four new individuals",
+            "PERSON"
+        ],
+        [
+            "National Hospice and Palliative Care Organization",
+            "ORG",
+            "Has",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Samira Beckwith",
+            "PERSON",
+            "Participates_In",
+            "NHPCO Board",
+            "ORG"
+        ],
+        [
+            "Hope Hospice and Community Services",
+            "COMP",
+            "Same_As",
+            "Samira Beckwith",
+            "PERSON"
+        ],
+        [
+            "Sandy Kuhlman",
+            "PERSON",
+            "Participates_In",
+            "NHPCO Board",
+            "ORG"
+        ],
+        [
+            "Hospice Services, Inc.",
+            "COMP",
+            "Same_As",
+            "Sandy Kuhlman",
+            "PERSON"
+        ],
+        [
+            "Balu Natarajan",
+            "PERSON",
+            "Participates_In",
+            "NHPCO Board",
+            "ORG"
+        ],
+        [
+            "Seasons Hospice and Palliative Care",
+            "COMP",
+            "Same_As",
+            "Balu Natarajan",
+            "PERSON"
+        ],
+        [
+            "Stacie Pinderhughes",
+            "PERSON",
+            "Participates_In",
+            "NHPCO Board",
+            "ORG"
+        ],
+        [
+            "Optumcare, Complex Care Management",
+            "COMP",
+            "Same_As",
+            "Stacie Pinderhughes",
+            "PERSON"
+        ],
+        [
+            "Jan Jones",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board",
+            "ORG"
+        ],
+        [
+            "The Elizabeth Hospice",
+            "COMP",
+            "Same_As",
+            "Jan Jones",
+            "PERSON"
+        ],
+        [
+            "Gregory Wood",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "Hospice of the Ozarks",
+            "COMP",
+            "Same_As",
+            "Gregory Wood",
+            "PERSON"
+        ],
+        [
+            "Regina Bodnar",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "Carroll Hospice",
+            "COMP",
+            "Same_As",
+            "Regina Bodnar",
+            "PERSON"
+        ],
+        [
+            "David Williams",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "VITAS Healthcare",
+            "COMP",
+            "Same_As",
+            "David Williams",
+            "PERSON"
+        ],
+        [
+            "Edo Banach",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Same_As",
+            "Edo Banach",
+            "PERSON"
+        ],
+        [
+            "Suzi Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "Sharp HospiceCare",
+            "COMP",
+            "Same_As",
+            "Suzi Johnson",
+            "PERSON"
+        ],
+        [
+            "Rafael Sciullo",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "Empath Health/Suncoast Hospice",
+            "COMP",
+            "Same_As",
+            "Rafael Sciullo",
+            "PERSON"
+        ],
+        [
+            "Norman McRae",
+            "PERSON",
+            "Is_Member_Of",
+            "NHPCO Board executive committee",
+            "ORG"
+        ],
+        [
+            "Caris HealthCare, LP",
+            "COMP",
+            "Same_As",
+            "Norman McRae",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Impact",
+            "Nation\u2019s hospice and palliative care provider community",
+            "SECTOR"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Impact",
+            "Millions of patients and family caregivers",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Thanks",
+            "New and existing board members",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Thanks",
+            "Linda Todd",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Thanks",
+            "Kenneth Zeri",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Thanks",
+            "SueAnn Reynolds",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Thanks",
+            "Lori Bishop",
+            "PERSON"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Has",
+            "Executive committee",
+            "ORG"
+        ],
+        [
+            "NHPCO",
+            "ORG",
+            "Has",
+            "Members",
+            "PERSON"
+        ]
+    ]
+}

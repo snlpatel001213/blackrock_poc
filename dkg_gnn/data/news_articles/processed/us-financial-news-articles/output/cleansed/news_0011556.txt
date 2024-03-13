@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "ECB",
+            "ORG/REG",
+            "Control",
+            "Interest Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Not_Raise",
+            "Interest Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jan Hatzius",
+            "PERSON",
+            "Announce",
+            "ECB rate hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jan Hatzius",
+            "PERSON",
+            "Work_For",
+            "Goldman Sachs",
+            "ORG"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Participates_In",
+            "Economic Sector",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "Samantha Ainsley",
+            "PERSON",
+            "Create",
+            "Crowdsource Survey",
+            "EVENT"
+        ],
+        [
+            "Samantha Ainsley",
+            "PERSON",
+            "Relate_To",
+            "Sexual Harassment In the Academy",
+            "EVENT"
+        ],
+        [
+            "Samantha Ainsley",
+            "PERSON",
+            "Has",
+            "Ph.D. student",
+            "ROLE"
+        ],
+        [
+            "Prominent Professor",
+            "PERSON",
+            "Sexually Harass",
+            "Samantha Ainsley",
+            "PERSON"
+        ],
+        [
+            "Prominent Professor",
+            "PERSON",
+            "Engage",
+            "Samantha Ainsley",
+            "PERSON",
+            "about",
+            "Research",
+            "CONCEPT"
+        ],
+        [
+            "Prominent Professor",
+            "PERSON",
+            "Make",
+            "Lewd Comments",
+            "CONCEPT",
+            "about",
+            "Appearance",
+            "CONCEPT"
+        ],
+        [
+            "Prominent Professor",
+            "PERSON",
+            "Put",
+            "Hand",
+            "COMPONENT",
+            "up",
+            "...",
+            "..."
+        ]
+    ]
+}

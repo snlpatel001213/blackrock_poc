@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Meredith Corporation",
+            "ORG",
+            "Raise",
+            "SHAPE Women's Half Marathon",
+            "EVENT"
+        ],
+        [
+            "SHAPE magazine",
+            "PRODUCT",
+            "Participates_In",
+            "SHAPE Women's Half Marathon",
+            "EVENT"
+        ],
+        [
+            "Elizabeth Goodman",
+            "PERSON",
+            "Is_Member_Of",
+            "Meredith Corporation",
+            "ORG"
+        ],
+        [
+            "Rocket Pharmaceuticals, Inc.",
+            "COMP",
+            "Raise",
+            "Nasdaq",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gaurav Shah",
+            "PERSON",
+            "Control",
+            "Rocket Pharmaceuticals, Inc.",
+            "COMP"
+        ]
+    ]
+}

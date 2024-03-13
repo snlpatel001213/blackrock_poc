@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Mt. Washington Cog Railway",
+            "ORG",
+            "Operate_In",
+            "Northeastern United States",
+            "GPE"
+        ],
+        [
+            "Mt. Washington Cog Railway",
+            "ORG",
+            "Has",
+            "steam power",
+            "CONCEPT"
+        ],
+        [
+            "Mt. Washington Cog Railway",
+            "ORG",
+            "Has",
+            "coal",
+            "CONCEPT"
+        ],
+        [
+            "Mt. Washington Cog Railway",
+            "ORG",
+            "Relate_To",
+            "bicycle",
+            "PRODUCT"
+        ],
+        [
+            "Wayne Presby",
+            "PERSON",
+            "Explain",
+            "Mt. Washington Cog Railway",
+            "ORG"
+        ],
+        [
+            "Wayne Presby",
+            "PERSON",
+            "Explain",
+            "bicycle",
+            "PRODUCT"
+        ]
+    ]
+}

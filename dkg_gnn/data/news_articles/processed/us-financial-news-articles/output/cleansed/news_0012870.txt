@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Cricket-Rain delays start",
+            "EVENT"
+        ],
+        [
+            "Cricket-Rain delays start",
+            "EVENT",
+            "Relate_To",
+            "day three at Newlands",
+            "EVENT"
+        ],
+        [
+            "day three at Newlands",
+            "EVENT",
+            "Operate_In",
+            "Cape Town",
+            "GPE"
+        ],
+        [
+            "Cricket-Rain delays start",
+            "EVENT",
+            "Impact",
+            "play",
+            "EVENT"
+        ],
+        [
+            "play",
+            "EVENT",
+            "Negative_Impact_On",
+            "final session",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Control",
+            "second innings",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Control",
+            "65 for two",
+            "ECON_INDICATOR"
+        ],
+        [
+            "65 for two",
+            "ECON_INDICATOR",
+            "Positive_Impact_On",
+            "lead of 142",
+            "ECON_INDICATOR"
+        ],
+        [
+            "lead of 142",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "wicket",
+            "CONCEPT"
+        ],
+        [
+            "wicket",
+            "CONCEPT",
+            "Control",
+            "plenty of assistance to the seamers",
+            "CONCEPT"
+        ],
+        [
+            "Hashim Amla",
+            "PERSON",
+            "Participates_In",
+            "not out batsmen",
+            "PERSON"
+        ],
+        [
+            "Hashim Amla",
+            "PERSON",
+            "Is_Member_Of",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Kagiso Rabada",
+            "PERSON",
+            "Participates_In",
+            "not out batsmen",
+            "PERSON"
+        ],
+        [
+            "Kagiso Rabada",
+            "PERSON",
+            "Is_Member_Of",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "play",
+            "EVENT",
+            "Negative_Impact_On",
+            "low cloud",
+            "CONCEPT"
+        ],
+        [
+            "play",
+            "EVENT",
+            "Negative_Impact_On",
+            "persistent drizzle",
+            "CONCEPT"
+        ],
+        [
+            "outfield",
+            "CONCEPT",
+            "Control",
+            "soaking",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Control",
+            "286",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Control",
+            "first innings",
+            "EVENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Control",
+            "209",
+            "ECON_INDICATOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Control",
+            "reply",
+            "EVENT"
+        ],
+        [
+            "teams",
+            "PERSON",
+            "Participates_In",
+            "three-test series",
+            "EVENT"
+        ],
+        [
+            "three-test series",
+            "EVENT",
+            "Operate_In",
+            "this month",
+            "TIME"
+        ],
+        [
+            "matches",
+            "EVENT",
+            "Operate_In",
+            "Pretoria",
+            "GPE"
+        ],
+        [
+            "matches",
+            "EVENT",
+            "Operate_In",
+            "Johannesburg",
+            "GPE"
+        ]
+    ]
+}

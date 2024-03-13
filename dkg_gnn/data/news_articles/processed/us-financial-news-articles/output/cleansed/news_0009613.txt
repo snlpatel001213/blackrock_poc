@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Charles Schwab Corp",
+            "COMP",
+            "Has",
+            "$625 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charles Schwab Corp",
+            "COMP",
+            "Redeem",
+            "1.500 Pct Senior Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Charles Schwab Corp",
+            "COMP",
+            "Announce",
+            "Redeem",
+            "Relate_To"
+        ],
+        [
+            "Charles Schwab Corp",
+            "COMP",
+            "Redeem",
+            "Outstanding 1.500 Pct Senior Notes Due 2018",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

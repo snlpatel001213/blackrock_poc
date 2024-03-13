@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Publicis Groupe",
+            "ORG",
+            "Release",
+            "Q4 Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Publicis Groupe",
+            "ORG",
+            "Release",
+            "Full Year 2017 Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Publicis Groupe",
+            "ORG",
+            "Operate_In",
+            "Paris",
+            "GPE"
+        ],
+        [
+            "Publicis Groupe",
+            "ORG",
+            "Conference Call & Audio Webcast",
+            "February 8, 2018",
+            "DATE"
+        ],
+        [
+            "Arthur Sadoun",
+            "PERSON",
+            "Participates_In",
+            "Conference Call & Audio Webcast",
+            "EVENT"
+        ],
+        [
+            "Jean-Michel Etienne",
+            "PERSON",
+            "Participates_In",
+            "Conference Call & Audio Webcast",
+            "EVENT"
+        ],
+        [
+            "Publicis Groupe",
+            "ORG",
+            "Communicate",
+            "Details",
+            "NOT_SPECIFIED"
+        ]
+    ]
+}

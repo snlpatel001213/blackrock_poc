@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Erdogan",
+            "PERSON",
+            "Says",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Will_Crush",
+            "US",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Create",
+            "Terror_Army",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Strangle",
+            "Terror_Army",
+            "CONCEPT"
+        ]
+    ]
+}

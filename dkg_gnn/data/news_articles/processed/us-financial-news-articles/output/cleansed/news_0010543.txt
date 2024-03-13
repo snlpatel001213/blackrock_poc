@@ -1,0 +1,52 @@
+{
+    "output": [
+        [
+            "Retrophin Inc.",
+            "COMP",
+            "Provide",
+            "Corporate Update",
+            "CONCEPT"
+        ],
+        [
+            "Retrophin Inc.",
+            "COMP",
+            "Expect",
+            "Total Net Product Sales",
+            "ECON_INDICATOR",
+            "For",
+            "Fiscal Year 2017",
+            "GPE"
+        ],
+        [
+            "Retrophin Inc.",
+            "COMP",
+            "Expect",
+            "Net Product Sales",
+            "ECON_INDICATOR",
+            "For",
+            "Q4",
+            "GPE",
+            "Of",
+            "2017",
+            "GPE"
+        ],
+        [
+            "Retrophin Inc.",
+            "COMP",
+            "Expect",
+            "New Drug Application Filing",
+            "EVENT",
+            "In",
+            "2018",
+            "GPE",
+            "For",
+            "Its New Formulation Of Thiola",
+            "PRODUCT",
+            "For",
+            "Treatment",
+            "Of",
+            "Cystinuria",
+            "CONCEPT"
+        ]
+    ]
+}

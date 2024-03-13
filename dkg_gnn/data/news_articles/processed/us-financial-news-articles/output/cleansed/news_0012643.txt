@@ -1,0 +1,110 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Control",
+            "Hard Brexit",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Operate_In",
+            "WTO Rules",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Negative_Impact_On",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Announce",
+            "Hard Brexit",
+            "EVENT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Member_Of",
+            "European Parliament",
+            "ORG"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Former_Leader_Of",
+            "UKIP",
+            "ORG"
+        ],
+        [
+            "UKIP",
+            "ORG",
+            "Campaign_For",
+            "Brexit",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Negotiate",
+            "Brexit",
+            "EVENT"
+        ],
+        [
+            "Michel Barnier",
+            "PERSON",
+            "Chief_Brexit_Negotiator",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Michel Barnier",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Prime Minister",
+            "PERSON",
+            "Appoint",
+            "Minister_For",
+            "No_Deal_Brexit",
+            "EVENT"
+        ],
+        [
+            "Prime Minister",
+            "PERSON",
+            "Understand",
+            "Opinion",
+            "CONCEPT"
+        ],
+        [
+            "Prime Minister",
+            "PERSON",
+            "Real_Damage",
+            "EU",
+            "GPE"
+        ]
+    ]
+}

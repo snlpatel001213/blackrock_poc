@@ -1,0 +1,177 @@
+{
+    "output": [
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Impact",
+            "Murders",
+            "EVENT"
+        ],
+        [
+            "2015",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Drug-related violence",
+            "CONCEPT"
+        ],
+        [
+            "2016",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Breakdown in police-community relations",
+            "CONCEPT"
+        ],
+        [
+            "High-profile police shootings of black men",
+            "EVENT",
+            "Relate_To",
+            "Breakdown in police-community relations",
+            "CONCEPT"
+        ],
+        [
+            "America\u2019s largest cities",
+            "GPE",
+            "Murders",
+            "Fell",
+            "EVENT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Murders",
+            "Dropped",
+            "EVENT"
+        ],
+        [
+            "1951",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Lowest levels of deadly violence",
+            "CONCEPT"
+        ],
+        [
+            "Los Angeles",
+            "GPE",
+            "Killings",
+            "Staying below 300",
+            "EVENT"
+        ],
+        [
+            "Chicago",
+            "GPE",
+            "Murders",
+            "Fell",
+            "EVENT"
+        ],
+        [
+            "771",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Ragged violence",
+            "CONCEPT"
+        ],
+        [
+            "Seven of the 10 largest U.S. cities",
+            "GPE",
+            "Declines",
+            "Murders",
+            "EVENT"
+        ],
+        [
+            "Baltimore",
+            "GPE",
+            "Increases",
+            "Murder",
+            "EVENT"
+        ],
+        [
+            "Philadelphia",
+            "GPE",
+            "Increases",
+            "Murder",
+            "EVENT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Police",
+            "Brought down murders",
+            "EVENT"
+        ],
+        [
+            "Los Angeles",
+            "GPE",
+            "Police",
+            "Brought down murders",
+            "EVENT"
+        ],
+        [
+            "Algorithms",
+            "PRODUCT",
+            "Map and predict crime",
+            "Deploy officers to hot spots",
+            "EVENT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Zero in on the most violent offenders",
+            "EVENT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Build relationships with residents",
+            "EVENT"
+        ],
+        [
+            "Two-year uptick in homicides",
+            "EVENT",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "1990s to the early 2010s",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "Police tactics",
+            "CONCEPT",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "Aging populations",
+            "CONCEPT",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "The economy",
+            "CONCEPT",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "The collapse of the 1990s crack market",
+            "CONCEPT",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ],
+        [
+            "Incarceration rates in the 1990s",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Broader nationwide decline in crime",
+            "CONCEPT"
+        ]
+    ]
+}

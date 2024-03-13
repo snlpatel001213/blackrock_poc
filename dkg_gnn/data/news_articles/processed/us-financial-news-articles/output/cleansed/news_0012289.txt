@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Live Oak Bancshares, Inc.",
+            "ORG",
+            "Announce",
+            "fourth quarter 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Live Oak",
+            "ORG",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "Live Oak",
+            "ORG",
+            "Operate_In",
+            "U.S. financial markets",
+            "GPE"
+        ],
+        [
+            "Dial",
+            "VERB",
+            "with",
+            "conference ID 2778286",
+            "CONCEPT"
+        ],
+        [
+            "Live Oak",
+            "ORG",
+            "Has",
+            "Investor Relations page",
+            "PAGE"
+        ],
+        [
+            "Live Oak",
+            "ORG",
+            "Has",
+            "company's website",
+            "WEBSITE"
+        ],
+        [
+            "Live Oak",
+            "ORG",
+            "Has",
+            "subsidiaries",
+            "ORG"
+        ],
+        [
+            "Subsidiaries",
+            "ORG",
+            "Partner_With",
+            "businesses",
+            "ORG"
+        ],
+        [
+            "Businesses",
+            "ORG",
+            "Focus_On",
+            "changing the banking industry",
+            "CONCEPT"
+        ],
+        [
+            "Changing the banking industry",
+            "CONCEPT",
+            "Bring",
+            "efficiency and excellence",
+            "CONCEPT"
+        ],
+        [
+            "Efficiency and excellence",
+            "CONCEPT",
+            "To",
+            "customers",
+            "PERSON"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Using",
+            "technology and innovation",
+            "CONCEPT"
+        ]
+    ]
+}

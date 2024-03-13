@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Change",
+            "Government Ministers",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Operate_In",
+            "British Government",
+            "ORG/GOV"
+        ],
+        [
+            "Boris Johnson",
+            "PERSON",
+            "Safe",
+            "null",
+            "null"
+        ],
+        [
+            "Philip Hammond",
+            "PERSON",
+            "Safe",
+            "null",
+            "null"
+        ],
+        [
+            "Amber Rudd",
+            "PERSON",
+            "Safe",
+            "null",
+            "null"
+        ],
+        [
+            "David Davis",
+            "PERSON",
+            "Safe",
+            "null",
+            "null"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Announce",
+            "First Secretary of State",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Introduce",
+            "Younger Women and Non-white Lawmakers",
+            "PERSON"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Abandon",
+            "Fox Hunting Vote",
+            "CONCEPT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Operate_In",
+            "British Government",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Criticized",
+            "Rising Rail Fares and Postponed Hospital Operations",
+            "CONCEPT"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Run",
+            "Neck and Neck",
+            "null"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Split",
+            "Differences about EU Relationship",
+            "CONCEPT"
+        ],
+        [
+            "Patrick McLoughlin",
+            "PERSON",
+            "Lose Job",
+            "null",
+            "null"
+        ],
+        [
+            "Justine Greening",
+            "PERSON",
+            "Lose Job",
+            "null",
+            "null"
+        ],
+        [
+            "Greg Clark",
+            "PERSON",
+            "Lose Job",
+            "null",
+            "null"
+        ],
+        [
+            "Andrea Leadsom",
+            "PERSON",
+            "Lose Job",
+            "null",
+            "null"
+        ]
+    ]
+}

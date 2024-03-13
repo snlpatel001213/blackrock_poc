@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Airbus",
+            "ORG",
+            "Has",
+            "A350-900",
+            "PRODUCT"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Sign",
+            "Tentative Deal",
+            "EVENT"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Operate_In",
+            "Aerospace Sector",
+            "SECTOR"
+        ],
+        [
+            "Tom Enders",
+            "PERSON",
+            "Sign",
+            "Tentative Deal",
+            "EVENT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Participates_In",
+            "Tentative Deal",
+            "EVENT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Operate_In",
+            "Aerospace Sector",
+            "SECTOR"
+        ],
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Attend",
+            "Ceremony",
+            "EVENT"
+        ],
+        [
+            "French President",
+            "PERSON",
+            "Attend",
+            "Ceremony",
+            "EVENT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Negotiate",
+            "Plane Deal",
+            "EVENT"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Negotiate",
+            "Plane Deal",
+            "EVENT"
+        ],
+        [
+            "Boeing",
+            "ORG",
+            "Relate_To",
+            "September Deal",
+            "EVENT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Operate_In",
+            "Aerospace Sector",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "Plane Deal Negotiations",
+            "EVENT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Attend",
+            "Ceremony",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Syria",
+            "GPE",
+            "Participates_In",
+            "Syrian Civil War",
+            "EVENT"
+        ],
+        [
+            "Assad",
+            "PERSON",
+            "Control",
+            "Syrian Army",
+            "ORG"
+        ],
+        [
+            "Syrian Army",
+            "ORG",
+            "Break",
+            "Rebel Siege",
+            "EVENT"
+        ],
+        [
+            "Rebel",
+            "PERSON",
+            "Siege",
+            "Military Base",
+            "GPE"
+        ],
+        [
+            "Military Base",
+            "GPE",
+            "Near",
+            "Damascus",
+            "GPE"
+        ],
+        [
+            "Assad",
+            "PERSON",
+            "Capitalise",
+            "Momentum",
+            "CONCEPT"
+        ],
+        [
+            "Balance of Power",
+            "CONCEPT",
+            "With",
+            "Assad",
+            "PERSON"
+        ]
+    ]
+}

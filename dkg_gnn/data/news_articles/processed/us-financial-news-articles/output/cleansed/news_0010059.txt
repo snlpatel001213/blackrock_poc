@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Walmart",
+            "COMP",
+            "Expand",
+            "Scan & Go",
+            "PRODUCT"
+        ],
+        [
+            "Walmart",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Kroger",
+            "COMP",
+            "Introduce",
+            "Scan, Bag, Go",
+            "PRODUCT"
+        ],
+        [
+            "Kroger",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Pilot",
+            "Amazon Go",
+            "PRODUCT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Operate_In",
+            "Seattle",
+            "GPE"
+        ],
+        [
+            "Scan & Go",
+            "PRODUCT",
+            "Relate_To",
+            "Speedy, Seamless Experience",
+            "CONCEPT"
+        ],
+        [
+            "Scan, Bag, Go",
+            "PRODUCT",
+            "Relate_To",
+            "Speedy, Seamless Experience",
+            "CONCEPT"
+        ],
+        [
+            "Amazon Go",
+            "PRODUCT",
+            "Relate_To",
+            "Speedy, Seamless Experience",
+            "CONCEPT"
+        ],
+        [
+            "Walmart",
+            "COMP",
+            "Impact",
+            "Cashier Ranks",
+            "CONCEPT"
+        ],
+        [
+            "Kroger",
+            "COMP",
+            "Impact",
+            "Cashier Ranks",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Impact",
+            "Cashier Ranks",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Acquire",
+            "Whole Foods",
+            "COMP"
+        ],
+        [
+            "Cashier",
+            "CONCEPT",
+            "Question",
+            "Job",
+            "CONCEPT"
+        ]
+    ]
+}

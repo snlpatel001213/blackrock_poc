@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Crunch Fitness Franchise",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Fitness Holdings LLC",
+            "ORG",
+            "Has",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Boost Fitness",
+            "ORG",
+            "Acquire",
+            "Fitness Holdings LLC",
+            "ORG"
+        ],
+        [
+            "Crunch Fitness",
+            "ORG",
+            "Operate_In",
+            "Boston Area",
+            "GPE"
+        ],
+        [
+            "Crunch Fitness",
+            "ORG",
+            "Operate_In",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "Fitness Holdings LLC",
+            "ORG",
+            "Operate_In",
+            "Massachusetts",
+            "GPE"
+        ],
+        [
+            "Fitness Holdings LLC",
+            "ORG",
+            "Operate_In",
+            "Tri-State Area",
+            "GPE"
+        ],
+        [
+            "Mark Federico",
+            "PERSON",
+            "Join",
+            "Fitness Holdings LLC",
+            "ORG"
+        ],
+        [
+            "Crunch Fitness",
+            "ORG",
+            "Impact",
+            "Crunchs Aggressive Growth",
+            "CONCEPT"
+        ],
+        [
+            "Fitness Holdings LLC",
+            "ORG",
+            "Plan",
+            "Open",
+            "ORG"
+        ],
+        [
+            "Crunch Fitness",
+            "ORG",
+            "Relate_To",
+            "Crunch.com",
+            "WEBSITE"
+        ],
+        [
+            "Crunch",
+            "ORG",
+            "Believe",
+            "Make Serious Exercise Fun",
+            "CONCEPT"
+        ],
+        [
+            "Crunch",
+            "ORG",
+            "Pioneer",
+            "Philosophy of No Judgments",
+            "CONCEPT"
+        ],
+        [
+            "Crunch",
+            "ORG",
+            "Serve",
+            "Fitness Community",
+            "CONCEPT"
+        ],
+        [
+            "Crunch",
+            "ORG",
+            "Have",
+            "Over 220 Gyms Worldwide",
+            "CONCEPT"
+        ],
+        [
+            "Crunch",
+            "ORG",
+            "Have",
+            "Over 1,100,000 Members",
+            "CONCEPT"
+        ],
+        [
+            "Fitness Holdings, LLC",
+            "ORG",
+            "Created",
+            "2012",
+            "TIME"
+        ],
+        [
+            "Fitness Holdings, LLC",
+            "ORG",
+            "Launch",
+            "Network of Crunch Gyms",
+            "CONCEPT"
+        ],
+        [
+            "Fitness Holdings, LLC",
+            "ORG",
+            "Built",
+            "Owned and Operated 18 Fitness Locations",
+            "CONCEPT"
+        ],
+        [
+            "Fitness Holdings, LLC",
+            "ORG",
+            "Led",
+            "All Connecticut Companies on 2017s Inc. 5000 List",
+            "CONCEPT"
+        ],
+        [
+            "Inc. 5000 List",
+            "CONCEPT",
+            "Appear",
+            "Number 349 Overall Company",
+            "CONCEPT"
+        ],
+        [
+            "Inc. 5000 List",
+            "CONCEPT",
+            "Appear",
+            "Number 22 for Consumer Products and Services",
+            "CONCEPT"
+        ]
+    ]
+}

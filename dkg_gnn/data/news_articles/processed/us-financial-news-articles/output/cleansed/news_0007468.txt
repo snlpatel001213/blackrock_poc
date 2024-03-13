@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Santelli Exchange",
+            "ORG",
+            "Discuss",
+            "Lazear",
+            "PERSON"
+        ],
+        [
+            "Lazear",
+            "PERSON",
+            "Is_Member_Of",
+            "CEA",
+            "ORG/GOV"
+        ],
+        [
+            "Lazear",
+            "PERSON",
+            "Work_At",
+            "Stanford Univ.",
+            "ORG"
+        ],
+        [
+            "Lazear",
+            "PERSON",
+            "Work_At",
+            "Hoover Inst.",
+            "ORG"
+        ]
+    ]
+}

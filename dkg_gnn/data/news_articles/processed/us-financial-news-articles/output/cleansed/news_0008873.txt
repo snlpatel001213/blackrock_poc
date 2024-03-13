@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Has",
+            "Broadbent",
+            "PERSON"
+        ],
+        [
+            "Broadbent",
+            "PERSON",
+            "Speaks_At",
+            "Reuters Newsmaker event",
+            "EVENT"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Say",
+            "Another two or three rate increases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Most investors",
+            "COMP",
+            "Expect",
+            "Next rate hike",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Broadbent",
+            "PERSON",
+            "Acknowledge",
+            "Consumer borrowing rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Broadbent",
+            "PERSON",
+            "Said",
+            "Increase follow a steep fall after financial crisis",
+            "EVENT"
+        ],
+        [
+            "Consumer borrowing",
+            "ECON_INDICATOR",
+            "Grow",
+            "Quite quickly",
+            "ADV"
+        ],
+        [
+            "Consumer borrowing",
+            "ECON_INDICATOR",
+            "Still materially lower",
+            "10 years ago",
+            "TIME"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Not prevent",
+            "Raise rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Announce",
+            "Next interest rate decision",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "COMP",
+            "Expect",
+            "No change in rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Some economists",
+            "PERSON",
+            "Said",
+            "Another 25 basis-point increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British industry",
+            "SECTOR",
+            "Grow",
+            "Solidly",
+            "ADV"
+        ],
+        [
+            "British industry",
+            "SECTOR",
+            "Lag",
+            "Other countries",
+            "GPE"
+        ]
+    ]
+}

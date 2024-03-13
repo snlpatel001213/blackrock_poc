@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Golden Globes",
+            "EVENT",
+            "Impact",
+            "U.S. TV audience",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Decrease",
+            "5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "NBC",
+            "ORG",
+            "Announce",
+            "Golden Globes audience",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seth Meyers",
+            "PERSON",
+            "Host",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Sexual misconduct scandals",
+            "CONCEPT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Female empowerment",
+            "CONCEPT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Win",
+            "Lifetime achievement award",
+            "CONCEPT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Spark",
+            "Calls for U.S. President run",
+            "CONCEPT"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Launch",
+            "Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Time\u2019s Up",
+            "ORG",
+            "Support",
+            "Victims of sexual harassment",
+            "CONCEPT"
+        ],
+        [
+            "Lady Bird",
+            "PRODUCT",
+            "Win",
+            "Golden Globes",
+            "EVENT"
+        ],
+        [
+            "Three Billboards Outside Ebbing, Missouri",
+            "PRODUCT",
+            "Win",
+            "Golden Globes",
+            "EVENT"
+        ]
+    ]
+}

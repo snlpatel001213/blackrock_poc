@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Iraq",
+            "GPE",
+            "Send",
+            "Displaced People",
+            "PERSON"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Operate_In",
+            "Iraq War",
+            "EVENT"
+        ],
+        [
+            "Islamic State",
+            "GPE",
+            "Relate_To",
+            "Iraq War",
+            "EVENT"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Impact",
+            "Elections",
+            "EVENT"
+        ],
+        [
+            "Displaced People",
+            "PERSON",
+            "Negative_Impact_On",
+            "Safe Areas",
+            "GPE"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Participates_In",
+            "May Elections",
+            "EVENT"
+        ]
+    ]
+}

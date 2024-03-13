@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Control",
+            "RBS",
+            "ORG/GOV"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Has",
+            "Libor-rigging",
+            "CONCEPT"
+        ],
+        [
+            "RBS",
+            "ORG/GOV",
+            "Fine",
+            "250,000 pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RBS",
+            "ORG/GOV",
+            "Ban",
+            "Neil Danziger",
+            "PERSON"
+        ],
+        [
+            "Financial Conduct Authority (FCA)",
+            "ORG/REG",
+            "Find",
+            "Neil Danziger",
+            "PERSON"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Trade",
+            "Products referenced to Libor",
+            "CONCEPT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Involve",
+            "Manipulation of Libor",
+            "CONCEPT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Dispute",
+            "FCA\u2019s findings",
+            "CONCEPT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Leave",
+            "Fight",
+            "CONCEPT"
+        ],
+        [
+            "RBS",
+            "ORG/GOV",
+            "Fine",
+            "390 million pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RBS",
+            "ORG/GOV",
+            "Part",
+            "Global scandal",
+            "CONCEPT"
+        ],
+        [
+            "Mark Steward",
+            "PERSON",
+            "Say",
+            "Reckless disregard",
+            "CONCEPT"
+        ],
+        [
+            "Libor",
+            "CONCEPT",
+            "Underpin",
+            "Hundreds of trillions of dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Libor",
+            "CONCEPT",
+            "Use",
+            "Set rates on credit cards",
+            "PRODUCT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Make",
+            "Requests to Libor submitters",
+            "PERSON"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Take",
+            "Trading positions",
+            "CONCEPT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Enlist",
+            "Help from brokers",
+            "PERSON"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Enter",
+            "Wash trades",
+            "CONCEPT"
+        ],
+        [
+            "Neil Danziger",
+            "PERSON",
+            "Deny",
+            "Connection between trades and hospitality",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Detail",
+            "Phone call",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Say",
+            "Switch",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Allege",
+            "Broker",
+            "PERSON"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Say",
+            "Switchy",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Propose",
+            "Action against Danziger",
+            "PERSON"
+        ]
+    ]
+}

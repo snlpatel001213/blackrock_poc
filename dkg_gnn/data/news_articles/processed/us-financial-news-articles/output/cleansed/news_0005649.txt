@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Announce",
+            "Inducement grant",
+            "EVENT"
+        ],
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Operate_In",
+            "Biotechnology industry",
+            "SECTOR"
+        ],
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Has",
+            "Fostamatinib",
+            "PRODUCT"
+        ],
+        [
+            "Fostamatinib",
+            "PRODUCT",
+            "In_Development_For",
+            "Immune thrombocytopenia",
+            "CONCEPT"
+        ],
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Partners_With",
+            "BerGenBio AS",
+            "ORG"
+        ],
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Partners_With",
+            "Daiichi Sankyo",
+            "ORG"
+        ],
+        [
+            "Rigel Pharmaceuticals",
+            "COMP",
+            "Partners_With",
+            "Aclaris Therapeutics",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "India",
+            "GPE",
+            "Allow",
+            "Foreign Investors",
+            "ORG"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Air India",
+            "COMP",
+            "Has",
+            "Debt Burden",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Indian Government",
+            "ORG/GOV",
+            "Decide",
+            "What_To_Do_With",
+            "Air_India_Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vistara",
+            "COMP",
+            "Express_Interest",
+            "Buy",
+            "Air_India",
+            "COMP"
+        ],
+        [
+            "InterGlobe Aviation",
+            "COMP",
+            "Express_Interest",
+            "Buy",
+            "Some_Of_Air_India_Businesses",
+            "COMP"
+        ],
+        [
+            "Tata Group",
+            "COMP",
+            "Express_Interest",
+            "Buy",
+            "Some_Of_Air_India_Businesses",
+            "COMP"
+        ],
+        [
+            "Celebi Aviation Holdings",
+            "COMP",
+            "Express_Interest",
+            "Buy",
+            "Some_Of_Air_India_Businesses",
+            "COMP"
+        ],
+        [
+            "India",
+            "GPE",
+            "Allow",
+            "100_Percent_FDI",
+            "FIN_INSTRUMENT",
+            "In",
+            "Single-brand_Retail",
+            "SECTOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Ease",
+            "Rule",
+            "On_30_Percent_Mandatory_Local_Sourcing",
+            "CONCEPT",
+            "For",
+            "5_Fiscal_Years",
+            "TIME"
+        ],
+        [
+            "Indian Government",
+            "ORG/GOV",
+            "Edit",
+            "Report",
+            "Nigam_Prusty",
+            "PERSON"
+        ]
+    ]
+}

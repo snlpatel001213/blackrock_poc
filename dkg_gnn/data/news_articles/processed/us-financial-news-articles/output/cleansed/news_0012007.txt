@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Meta Financial Group",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Meta Financial Group",
+            "ORG",
+            "Operate_In",
+            "Banking and Payments Industries",
+            "SECTOR"
+        ],
+        [
+            "Crestmark Bancorp",
+            "ORG",
+            "Acquire",
+            "Crestmark Bancorp",
+            "ORG"
+        ],
+        [
+            "Crestmark Bancorp",
+            "ORG",
+            "Operate_In",
+            "Michigan state-chartered FDIC-insured commercial bank",
+            "COMP"
+        ],
+        [
+            "MetaBank",
+            "COMP",
+            "Merge_With",
+            "Crestmark Bank",
+            "COMP"
+        ],
+        [
+            "MetaBank",
+            "COMP",
+            "Have",
+            "$5.2 billion in assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MetaBank",
+            "COMP",
+            "Have",
+            "$1.3 billion in total loans",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Combined company",
+            "ORG",
+            "Have",
+            "$6.4 billion in assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Combined company",
+            "ORG",
+            "Have",
+            "$2.2 billion in loans and leases",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Crestmark shareholders",
+            "PERSON",
+            "Receive",
+            "2.65 shares of Meta common stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Meta",
+            "ORG",
+            "Issue",
+            "3.3 million shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Meta",
+            "ORG",
+            "Expect",
+            "75 percent of the outstanding shares of Meta",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Crestmark shareholders",
+            "PERSON",
+            "Expect",
+            "25 percent of the outstanding shares of Meta",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Close",
+            "Second calendar quarter of 2018",
+            "DATE"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Subject",
+            "Closing conditions",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Subject",
+            "Approval of bank regulatory authorities",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Subject",
+            "Receipt of third party consents",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Subject",
+            "Approval by shareholders of both Meta and Crestmark",
+            "CONCEPT"
+        ]
+    ]
+}

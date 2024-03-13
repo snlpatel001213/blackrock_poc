@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Orchid Pharma Ltd",
+            "COMP",
+            "Gets",
+            "EIR",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. FDA",
+            "ORG/REG",
+            "Relate_To",
+            "EIR",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Orchid Pharma Ltd",
+            "COMP",
+            "Operate_In",
+            "Tamil Nadu",
+            "GPE"
+        ],
+        [
+            "Orchid Pharma Ltd",
+            "COMP",
+            "Participates_In",
+            "Post Marketing Adverse Drug Experience Reporting Inspection",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Ica Gruppen Ab",
+            "COMP",
+            "Announce",
+            "Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ICA Stores",
+            "COMP",
+            "Has",
+            "Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017",
+            "EVENT",
+            "Relate_To",
+            "Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Corresponding Month Year Before",
+            "EVENT",
+            "Relate_To",
+            "Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ICA Gruppen Ab",
+            "COMP",
+            "Announce",
+            "Sales Increase in Like-for-Like Stores",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Like-for-Like Stores",
+            "COMP",
+            "Has",
+            "Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ICA Gruppen Ab",
+            "COMP",
+            "Estimates",
+            "Calendar Effect",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December",
+            "EVENT",
+            "Relate_To",
+            "Calendar Effect",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

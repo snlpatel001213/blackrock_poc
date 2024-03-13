@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Has",
+            "Medical Leave",
+            "EVENT"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Plans",
+            "Return",
+            "EVENT"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Operate_In",
+            "Jeopardy",
+            "PRODUCT"
+        ],
+        [
+            "Jeopardy",
+            "PRODUCT",
+            "Has",
+            "Top-Rated Quiz Show",
+            "CONCEPT"
+        ],
+        [
+            "Jeopardy",
+            "PRODUCT",
+            "Viewed_By",
+            "23 Million People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Fell",
+            "October",
+            "TIME"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Admitted",
+            "Cedars-Sinai Medical Center",
+            "ORG"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Underwent",
+            "Surgery",
+            "EVENT"
+        ],
+        [
+            "Alex Trebek",
+            "PERSON",
+            "Suffered",
+            "Heart Attack",
+            "EVENT"
+        ],
+        [
+            "Jeopardy",
+            "PRODUCT",
+            "Produced_By",
+            "Sony Pictures Television",
+            "ORG"
+        ],
+        [
+            "Jeopardy",
+            "PRODUCT",
+            "Distributed_By",
+            "CBS Corp",
+            "ORG"
+        ]
+    ]
+}

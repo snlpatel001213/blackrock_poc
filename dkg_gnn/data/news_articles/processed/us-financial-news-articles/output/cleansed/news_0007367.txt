@@ -1,0 +1,27 @@
+{
+    "output": [
+        [
+            "Varian Medical Systems Inc",
+            "COMP",
+            "Sign",
+            "Ping An Health Technology",
+            "ORG",
+            "MoU",
+            "EVENT"
+        ],
+        [
+            "Varian Medical Systems Inc",
+            "COMP",
+            "Relate_To",
+            "Cancer Care",
+            "CONCEPT"
+        ],
+        [
+            "Varian Medical Systems Inc",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

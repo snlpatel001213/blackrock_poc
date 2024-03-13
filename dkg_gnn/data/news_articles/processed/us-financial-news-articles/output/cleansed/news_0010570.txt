@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Heavy snow",
+            "CONCEPT",
+            "Impact",
+            "northern Italy",
+            "GPE"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Block",
+            "roads leading to Cervinia and Sestriere",
+            "GPE"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Cervinia and Sestriere",
+            "GPE",
+            "Relate_To",
+            "avalanche risks",
+            "CONCEPT"
+        ]
+    ]
+}

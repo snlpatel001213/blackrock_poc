@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Israeli Anti-Trust Regulator",
+            "ORG/REG",
+            "Look_At",
+            "Business Practices",
+            "ORG"
+        ],
+        [
+            "Israeli Anti-Trust Regulator",
+            "ORG/REG",
+            "Examine",
+            "Misusing Advantages",
+            "ORG"
+        ],
+        [
+            "Israeli Anti-Trust Regulator",
+            "ORG/REG",
+            "Make_Sure",
+            "Not_Stifling_Competition",
+            "ORG"
+        ],
+        [
+            "Michal Halperin",
+            "PERSON",
+            "Say",
+            "Big_Internet_Companies_Have_Sufficient_Presence",
+            "ORG"
+        ],
+        [
+            "Michal Halperin",
+            "PERSON",
+            "Say",
+            "Law_Applies_To_Them",
+            "ORG"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Take",
+            "80_Percent_Of_Advertising_Revenues",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Take",
+            "80_Percent_Of_Advertising_Revenues",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Noa Elefant",
+            "PERSON",
+            "Say",
+            "Problems_In_Israeli_Advertising_Market_Did_Not_Start_With_Google",
+            "COMP"
+        ],
+        [
+            "Israeli Anti-Trust Regulator",
+            "ORG/REG",
+            "Complete_Work",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Join_Efforts",
+            "Get_Internet_Giants_To_Pay_More_Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Book_Advertising_Revenue",
+            "Locally",
+            "LOC"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Pay_Tax",
+            "Israel",
+            "GPE"
+        ]
+    ]
+}

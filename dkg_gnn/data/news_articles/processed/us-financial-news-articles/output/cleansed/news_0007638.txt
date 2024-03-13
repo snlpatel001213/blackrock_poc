@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Operate_In",
+            "Omaha, Nebraska",
+            "GPE"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "Warren Buffett",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "Jay Gelb",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Operate_In",
+            "Berkshire",
+            "ORG/GOV"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Operate_In",
+            "BNSF railroad",
+            "COMP"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Operate_In",
+            "Geico auto insurance",
+            "COMP"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "86.6 billion dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "109 billion dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "37 billion dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "1.39 times book value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "1.2 ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "90 operating units",
+            "SECTOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "earnings per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "22 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "303,100 dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "202.06 dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States Government",
+            "ORG/GOV",
+            "Control",
+            "corporate income tax rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States Government",
+            "ORG/GOV",
+            "Enact",
+            "U.S. tax law changes",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Enact",
+            "U.S. tax law changes",
+            "EVENT"
+        ],
+        [
+            "Barclays Capital",
+            "COMP",
+            "Estimate",
+            "37 billion dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Barclays Capital",
+            "COMP",
+            "Rate",
+            "Berkshire",
+            "COMP"
+        ],
+        [
+            "Barclays Capital",
+            "COMP",
+            "Write",
+            "Barclays analysts led by Jay Gelb",
+            "PERSON"
+        ],
+        [
+            "Book value",
+            "CONCEPT",
+            "Reflect",
+            "assets minus liabilities",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Book value",
+            "CONCEPT",
+            "Probably rise",
+            "12 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "19 percent annualized gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Has",
+            "9.7 percent annualized gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Does not pay",
+            "dividend",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Release",
+            "year-end results",
+            "EVENT"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Release",
+            "Buffett\u2019s annual shareholder letter",
+            "EVENT"
+        ],
+        [
+            "Berkshire Hathaway Inc",
+            "COMP",
+            "Rise",
+            "22 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

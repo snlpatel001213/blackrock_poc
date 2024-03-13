@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Reports_On",
+            "Road to Dow 30K",
+            "CONCEPT"
+        ],
+        [
+            "Dominic Chu",
+            "PERSON",
+            "Report",
+            "Road to Dow 30K",
+            "CONCEPT"
+        ],
+        [
+            "Stocks",
+            "PRODUCT",
+            "Could_Take",
+            "Dow",
+            "ORG/GPE"
+        ],
+        [
+            "Dow",
+            "ORG/GPE",
+            "Has",
+            "Price Target",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Price Target",
+            "Dow 30000",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

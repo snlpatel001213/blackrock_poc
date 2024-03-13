@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Signal",
+            "COMP",
+            "Partner",
+            "Microsoft",
+            "COMP"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Has",
+            "Skype",
+            "PRODUCT"
+        ],
+        [
+            "Signal",
+            "COMP",
+            "Introduce",
+            "Encrypt Messages",
+            "CONCEPT"
+        ],
+        [
+            "Skype",
+            "PRODUCT",
+            "Relate_To",
+            "Encrypt Messages",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Join",
+            "List of Companies",
+            "CONCEPT"
+        ]
+    ]
+}

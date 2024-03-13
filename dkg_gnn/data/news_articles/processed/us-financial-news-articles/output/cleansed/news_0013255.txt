@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Participates_In",
+            "Congressional hearing",
+            "EVENT"
+        ],
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Support",
+            "More stringent company ownership disclosure requirements",
+            "CONCEPT"
+        ],
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Support",
+            "Changing the threshold for reporting suspicious transactions",
+            "CONCEPT"
+        ],
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Relate_To",
+            "Money laundering",
+            "CONCEPT"
+        ],
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Relate_To",
+            "Small and community banks",
+            "COMP"
+        ],
+        [
+            "Elizabeth Warren",
+            "PERSON",
+            "Relate_To",
+            "Law enforcement",
+            "ORG"
+        ],
+        [
+            "Senate Banking Committee",
+            "ORG",
+            "Participates_In",
+            "Congressional hearing",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Need",
+            "Review outdated laws for combating money laundering",
+            "CONCEPT"
+        ],
+        [
+            "Money laundering",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Massive problem",
+            "CONCEPT"
+        ],
+        [
+            "Money laundering",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Crack down on that",
+            "CONCEPT"
+        ],
+        [
+            "Banking industry",
+            "COMP",
+            "Has",
+            "Burden for identifying the proceeds of crimes",
+            "CONCEPT"
+        ],
+        [
+            "Banking industry",
+            "COMP",
+            "Has",
+            "Requirement to monitor financial flows",
+            "CONCEPT"
+        ],
+        [
+            "Banking industry",
+            "COMP",
+            "Produce",
+            "Millions of reports flagging suspicious transactions",
+            "CONCEPT"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Receive",
+            "Reports flagging suspicious transactions",
+            "CONCEPT"
+        ],
+        [
+            "U.S. watchdogs",
+            "ORG",
+            "Dish out",
+            "Fines for AML compliance failings",
+            "CONCEPT"
+        ],
+        [
+            "Banks",
+            "COMP",
+            "Spend",
+            "AML compliance programs",
+            "CONCEPT"
+        ],
+        [
+            "$12 billion",
+            "ECON_INDICATOR",
+            "Spent",
+            "On AML compliance programs",
+            "CONCEPT"
+        ],
+        [
+            "Democratic Senator Mark Warner",
+            "PERSON",
+            "Call on",
+            "Committee to take a closer look at the implications of the rise of anonymous digital currencies",
+            "CONCEPT"
+        ],
+        [
+            "Anonymous digital currencies",
+            "CONCEPT",
+            "Relate_To",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Lawmakers",
+            "ORG",
+            "Need to",
+            "Get ahead of the issue",
+            "CONCEPT"
+        ]
+    ]
+}

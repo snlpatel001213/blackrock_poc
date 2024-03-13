@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Shire",
+            "ORG",
+            "Is_Member_Of",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Flemming \u00d8rnskov",
+            "PERSON",
+            "Invests_In",
+            "Shire",
+            "ORG"
+        ],
+        [
+            "Shire",
+            "ORG",
+            "Control",
+            "Pharmaceutical Products",
+            "PRODUCT"
+        ],
+        [
+            "Interview",
+            "EVENT",
+            "Relate_To",
+            "Shire",
+            "ORG"
+        ],
+        [
+            "Flemming \u00d8rnskov",
+            "PERSON",
+            "Participates_In",
+            "Interview",
+            "EVENT"
+        ]
+    ]
+}

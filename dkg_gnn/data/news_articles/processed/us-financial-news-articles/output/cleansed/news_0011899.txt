@@ -1,0 +1,40 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Credits",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Help",
+            "Inter-Korean Talks",
+            "EVENT"
+        ],
+        [
+            "Inter-Korean Talks",
+            "EVENT",
+            "Occur",
+            "More than Two Years",
+            "TIME"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Warns",
+            "Pyongyang",
+            "GPE"
+        ],
+        [
+            "Pyongyang",
+            "GPE",
+            "If",
+            "Provocations",
+            "EVENT",
+            "Continued"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "ASV Holdings Inc.",
+            "COMP",
+            "Announce",
+            "James DiBiagio",
+            "PERSON"
+        ],
+        [
+            "James DiBiagio",
+            "PERSON",
+            "Relate_To",
+            "Retire",
+            "CONCEPT"
+        ],
+        [
+            "James DiBiagio",
+            "PERSON",
+            "Control",
+            "CO",
+            "ORG/REG"
+        ],
+        [
+            "CO",
+            "ORG/REG",
+            "Is_Member_Of",
+            "ASV Holdings Inc.",
+            "COMP"
+        ]
+    ]
+}

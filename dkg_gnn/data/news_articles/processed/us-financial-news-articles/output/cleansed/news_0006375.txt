@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Transportation Security Administration",
+            "ORG/GOV",
+            "Ask",
+            "Travelers",
+            "PERSON"
+        ],
+        [
+            "Transportation Security Administration",
+            "ORG/GOV",
+            "Document",
+            "Verboten Items",
+            "CONCEPT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Release",
+            "Top 10 List",
+            "CONCEPT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Find",
+            "Inert Grenades",
+            "PRODUCT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Find",
+            "Pointed Fidget Spinner",
+            "PRODUCT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Find",
+            "Festively Wrapped Narcotics",
+            "PRODUCT"
+        ],
+        [
+            "Jeff Price",
+            "PERSON",
+            "Say",
+            "People Travel with Weird Stuff",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Price",
+            "PERSON",
+            "Say",
+            "Items Can be Used as Weapons",
+            "CONCEPT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Find",
+            "Firearms",
+            "PRODUCT"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Screen",
+            "Passengers",
+            "PERSON"
+        ],
+        [
+            "TSA",
+            "ORG/GOV",
+            "Screen",
+            "Checked Bags",
+            "PRODUCT"
+        ],
+        [
+            "Harriet Baskas",
+            "PERSON",
+            "Author",
+            "Hidden Treasures: What Museums Can't or Won't Show You",
+            "BOOK"
+        ],
+        [
+            "Harriet Baskas",
+            "PERSON",
+            "Author",
+            "Stuck at the Airport blog",
+            "WEBSITE"
+        ],
+        [
+            "Harriet Baskas",
+            "PERSON",
+            "Follow",
+            null,
+            "TWITTER"
+        ],
+        [
+            "CNBCtravel",
+            "WEBSITE",
+            "Follow",
+            null,
+            "TWITTER"
+        ]
+    ]
+}

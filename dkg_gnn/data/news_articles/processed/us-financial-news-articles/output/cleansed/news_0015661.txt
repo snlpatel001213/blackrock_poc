@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Spar Group Inc",
+            "COMP",
+            "Acquire",
+            "Resource Plus",
+            "ORG"
+        ],
+        [
+            "Spar Group Inc",
+            "COMP",
+            "Acquire",
+            "Mobex of North Florida",
+            "ORG"
+        ],
+        [
+            "Spar Group Inc",
+            "COMP",
+            "Acquire",
+            "Leasex",
+            "ORG"
+        ],
+        [
+            "Resource Plus",
+            "ORG",
+            "Is_Member_Of",
+            "SPAR GROUP",
+            "COMP"
+        ],
+        [
+            "Mobex of North Florida",
+            "ORG",
+            "Is_Member_Of",
+            "SPAR GROUP",
+            "COMP"
+        ],
+        [
+            "Leasex",
+            "ORG",
+            "Is_Member_Of",
+            "SPAR GROUP",
+            "COMP"
+        ],
+        [
+            "Richard Justus",
+            "PERSON",
+            "Remain",
+            "CEO of Resource Plus",
+            "ORG"
+        ]
+    ]
+}

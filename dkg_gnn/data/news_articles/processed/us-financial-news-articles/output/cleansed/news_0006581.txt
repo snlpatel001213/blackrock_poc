@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Keller Group Plc",
+            "COMP",
+            "Expects",
+            "US Tax Reform Legislation",
+            "EVENT"
+        ],
+        [
+            "Keller Group Plc",
+            "COMP",
+            "Benefit",
+            "Future After Tax Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Keller Group Plc",
+            "COMP",
+            "Benefit",
+            "One-off Non-cash Credit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Keller Group Plc",
+            "COMP",
+            "Relate_To",
+            "US Deferred Tax Liabilities",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Keller Group Plc",
+            "COMP",
+            "Expects",
+            "US$10M Cash Credit",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

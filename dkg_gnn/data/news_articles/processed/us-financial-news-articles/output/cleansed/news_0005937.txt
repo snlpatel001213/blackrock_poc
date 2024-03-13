@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Impose",
+            "ObamaCare",
+            "EVENT"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Has",
+            "2.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Unpopular",
+            "null",
+            "null"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Republicans",
+            "ORG"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Democrats",
+            "ORG"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Medical device companies",
+            "COMP"
+        ],
+        [
+            "Medical device tax",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Medical device companies",
+            "COMP"
+        ]
+    ]
+}

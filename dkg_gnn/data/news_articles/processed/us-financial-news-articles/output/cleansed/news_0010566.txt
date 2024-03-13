@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Codelco",
+            "ORG",
+            "Operate_In",
+            "Chile\u2019,s State-run",
+            "ORG/GOV"
+        ],
+        [
+            "Codelco",
+            "ORG",
+            "Produce",
+            "Copper",
+            "PRODUCT"
+        ],
+        [
+            "Codelco",
+            "ORG",
+            "Announce",
+            "Plan",
+            "CONCEPT"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Cost",
+            "$250 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Impact",
+            "Environmental",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Locate_Near",
+            "Glaciers",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Change",
+            "Mining Extraction",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Maintain",
+            "Size",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Redirect",
+            "Mining Extraction",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Not_Change",
+            "Expected Output",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Not_Change",
+            "Mine\u2019s Lifespan",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Modify",
+            "Shape",
+            "CONCEPT"
+        ],
+        [
+            "Mining Extraction",
+            "CONCEPT",
+            "Relate_To",
+            "Zones",
+            "CONCEPT"
+        ],
+        [
+            "Zones",
+            "CONCEPT",
+            "Not_Present",
+            "Glaciers",
+            "CONCEPT"
+        ],
+        [
+            "Andina Mine",
+            "COMP",
+            "Produce",
+            "164,000 tonnes of Copper",
+            "PRODUCT"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Felipe Iturrieta",
+            "PERSON"
+        ],
+        [
+            "Writing",
+            "CONCEPT",
+            "By",
+            "Caroline Stauffer",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "By",
+            "Chizu Nomiyama",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "The End of the F***ing World",
+            "EVENT",
+            "Premiere",
+            "Netflix",
+            "ORG"
+        ],
+        [
+            "The End of the F***ing World",
+            "EVENT",
+            "Relate_To",
+            "Adolescent Tumult",
+            "CONCEPT"
+        ],
+        [
+            "The End of the F***ing World",
+            "EVENT",
+            "Participates_In",
+            "Growing Number of Shows",
+            "CONCEPT"
+        ],
+        [
+            "Netflix",
+            "ORG",
+            "Operate_In",
+            "TV Industry",
+            "SECTOR"
+        ],
+        [
+            "Riverdale",
+            "EVENT",
+            "Plunge",
+            "Gang from Archie Comics",
+            "COMP"
+        ],
+        [
+            "Riverdale",
+            "EVENT",
+            "Relate_To",
+            "Adolescent Tumult",
+            "CONCEPT"
+        ],
+        [
+            "Riverdale",
+            "EVENT",
+            "Participates_In",
+            "Growing Number of Shows",
+            "CONCEPT"
+        ],
+        [
+            "Archie Comics",
+            "COMP",
+            "Has",
+            "Gang",
+            "CONCEPT"
+        ]
+    ]
+}

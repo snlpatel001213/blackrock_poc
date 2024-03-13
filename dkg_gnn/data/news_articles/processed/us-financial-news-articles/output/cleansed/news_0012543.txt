@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Jaunt China",
+            "ORG"
+        ],
+        [
+            "James Fong",
+            "PERSON",
+            "Is_Member_Of",
+            "Jaunt China",
+            "ORG"
+        ],
+        [
+            "Jaunt China",
+            "ORG",
+            "Relate_To",
+            "Artificial Intelligence",
+            "CONCEPT"
+        ],
+        [
+            "Jaunt China",
+            "ORG",
+            "Relate_To",
+            "Virtual Reality",
+            "CONCEPT"
+        ]
+    ]
+}

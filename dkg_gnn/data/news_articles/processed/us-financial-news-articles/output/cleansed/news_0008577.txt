@@ -1,0 +1,146 @@
+{
+    "output": [
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Announce",
+            "Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Increase",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "Second Quarter",
+            "TIME"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "Fiscal Year 2018",
+            "TIME"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "December 31, 2017",
+            "TIME"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Gary Lewis",
+            "PERSON",
+            "as",
+            "CFO"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "Third Fiscal Quarter",
+            "TIME"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "All Major Cloud Environments",
+            "COMP"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "On Premise",
+            "LOCATION"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Operate_In",
+            "In The Cloud",
+            "LOCATION"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Jay Jarrell",
+            "PERSON",
+            "as",
+            "President and CEO"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Machine Learning Compatible",
+            "CONCEPT"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Can_Be_Deployed_In",
+            "Any Cloud Environment",
+            "COMP"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Delivers",
+            "Enterprise Software Platforms",
+            "PRODUCT"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Global 1000 Customers",
+            "ORG"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Holds",
+            "Deep Domain Expertise",
+            "CONCEPT"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Headquarters",
+            "LOCATION",
+            "in",
+            "San Jose",
+            "GPE"
+        ],
+        [
+            "Objectivity, Inc.",
+            "ORG",
+            "Has",
+            "Kim Wizer",
+            "PERSON",
+            "as",
+            "Public Relations"
+        ]
+    ]
+}

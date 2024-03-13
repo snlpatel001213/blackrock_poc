@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Operate_In",
+            "German Government",
+            "ORG/GOV"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Control",
+            "German Chancellor",
+            "PERSON"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Social Democrats",
+            "ORG",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Impact",
+            "German Influence",
+            "CONCEPT"
+        ],
+        [
+            "German Economy",
+            "ECON_INDICATOR",
+            "Growth",
+            "2017",
+            "TIME"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Has",
+            "Public Sector Surplus",
+            "ECON_INDICATOR"
+        ],
+        [
+            "German Business",
+            "ORG",
+            "Call",
+            "Vision for Germany",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Call",
+            "United States of Europe",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Condition",
+            "Strengthen EU",
+            "CONCEPT"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Control",
+            "Use of Glyphosate",
+            "CONCEPT"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Strive",
+            "Improvements in Policy",
+            "CONCEPT"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Rule",
+            "Grand Coalition",
+            "SECTOR"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Bleed",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Control",
+            "AfD",
+            "ORG"
+        ],
+        [
+            "SPD",
+            "ORG",
+            "Plan",
+            "NoGroKo Tour",
+            "EVENT"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Control",
+            "Minority Government",
+            "SECTOR"
+        ],
+        [
+            "German Government",
+            "ORG/GOV",
+            "Control",
+            "New Elections",
+            "EVENT"
+        ]
+    ]
+}

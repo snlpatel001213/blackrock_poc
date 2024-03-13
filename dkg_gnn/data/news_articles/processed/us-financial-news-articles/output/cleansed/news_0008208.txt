@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Fleetwood Town",
+            "COMP",
+            "Has",
+            "Third-tier",
+            "SECTOR"
+        ],
+        [
+            "Fleetwood Town",
+            "COMP",
+            "Host",
+            "Leicester City",
+            "COMP"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Is_Member_Of",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Fleetwood Town",
+            "COMP",
+            "Operate_In",
+            "Lancashire",
+            "GPE"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Play_For",
+            "Leicester City",
+            "COMP"
+        ],
+        [
+            "Jamie Vardy",
+            "PERSON",
+            "Spend",
+            "Chilly lunchtime",
+            "CONCEPT"
+        ],
+        [
+            "Defences",
+            "COMP",
+            "Dominate",
+            "Dull game",
+            "CONCEPT"
+        ],
+        [
+            "Fleetwood Town",
+            "COMP",
+            "Have",
+            "Better chances",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "COMP",
+            "Fail",
+            "Attempt on target",
+            "CONCEPT"
+        ],
+        [
+            "Ashley Hunter",
+            "PERSON",
+            "Come_Close",
+            "Win",
+            "CONCEPT"
+        ],
+        [
+            "Ashley Hunter",
+            "PERSON",
+            "Shoot",
+            "Goal",
+            "CONCEPT"
+        ],
+        [
+            "Eldin Jakupovic",
+            "PERSON",
+            "Face",
+            "Shot",
+            "CONCEPT"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Host",
+            "Burnley",
+            "COMP"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Leaders",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Holders",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Visit",
+            "Nottingham Forest",
+            "COMP"
+        ]
+    ]
+}

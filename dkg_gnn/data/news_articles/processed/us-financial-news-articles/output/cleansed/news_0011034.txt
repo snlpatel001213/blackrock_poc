@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Raise",
+            "2017 growth estimate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Has",
+            "head",
+            "PERSON"
+        ],
+        [
+            "head",
+            "PERSON",
+            "Is_Member_Of",
+            "France\u2019s central bank",
+            "ORG/GOV"
+        ],
+        [
+            "head",
+            "PERSON",
+            "Name",
+            "Francois Villeroy de Galhau",
+            "PERSON"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Expect",
+            "growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "growth",
+            "ECON_INDICATOR",
+            "For",
+            "2017",
+            "TIME"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Expect",
+            "not of 1.8 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Expect",
+            "but 1.9 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Cite",
+            "strong industrial activity",
+            "CONCEPT"
+        ],
+        [
+            "France\u2019s central bank",
+            "ORG/GOV",
+            "Has",
+            "monthly confidence survey",
+            "CONCEPT"
+        ],
+        [
+            "monthly confidence survey",
+            "CONCEPT",
+            "Due",
+            "on Thursday",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "output": [
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Murder",
+            "10 Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Confess",
+            "Murder",
+            "VERB"
+        ],
+        [
+            "Local Buddhist Villagers",
+            "PERSON",
+            "Force",
+            "Captured Rohingya",
+            "PERSON",
+            "Into",
+            "Grave",
+            "PRODUCT"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Operate_In",
+            "Rakhine State",
+            "GPE"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Launch",
+            "Counteroffensive",
+            "EVENT"
+        ],
+        [
+            "Rohingya Militant",
+            "PERSON",
+            "Attack",
+            "Military",
+            "ORG/GOV"
+        ],
+        [
+            "Rohingya Muslim Villagers",
+            "PERSON",
+            "Exodus",
+            "North of Rakhine State",
+            "GPE"
+        ],
+        [
+            "United Nations",
+            "ORG/REG",
+            "Condemn",
+            "Army\u2019s Campaign",
+            "VERB"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Deny",
+            "Ethnic Cleansing",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Appoint",
+            "Senior Officer",
+            "PERSON",
+            "To",
+            "Investigate",
+            "VERB"
+        ],
+        [
+            "Security Forces",
+            "ORG/GOV",
+            "Find",
+            "Mass Grave",
+            "PRODUCT"
+        ],
+        [
+            "Security Forces",
+            "ORG/GOV",
+            "Conduct",
+            "Clearance Operation",
+            "VERB"
+        ],
+        [
+            "Rohingya Muslim Minority",
+            "PERSON",
+            "Reject",
+            "Bengalis",
+            "VERB"
+        ],
+        [
+            "Militants",
+            "PERSON",
+            "Attack",
+            "Continuously",
+            "ADV"
+        ],
+        [
+            "Militants",
+            "PERSON",
+            "Destroy",
+            "Military Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Military",
+            "ORG/GOV",
+            "Decide",
+            "Kill",
+            "Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Angry Ethnic Rakhine Buddhist Villagers",
+            "PERSON",
+            "Stab",
+            "Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Security Forces",
+            "ORG/GOV",
+            "Shoot",
+            "Captured Rohingya",
+            "PERSON"
+        ],
+        [
+            "Military",
+            "ORG/GOV",
+            "Take",
+            "Action",
+            "VERB",
+            "Against",
+            "Villagers",
+            "PERSON"
+        ],
+        [
+            "Military",
+            "ORG/GOV",
+            "Take",
+            "Action",
+            "VERB",
+            "Against",
+            "Security Force Members",
+            "PERSON"
+        ],
+        [
+            "Military",
+            "ORG/GOV",
+            "Take",
+            "Action",
+            "VERB",
+            "Against",
+            "Those",
+            "PRON"
+        ],
+        [
+            "Military",
+            "ORG/GOV",
+            "Take",
+            "Action",
+            "VERB",
+            "Against",
+            "Supervising Operation",
+            "VERB"
+        ]
+    ]
+}

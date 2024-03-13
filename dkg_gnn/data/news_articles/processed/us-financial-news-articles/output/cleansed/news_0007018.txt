@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "tell-all book",
+            "PRODUCT"
+        ],
+        [
+            "tell-all book",
+            "PRODUCT",
+            "Relate_To",
+            "Trump administration",
+            "ORG/GOV"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Participates_In",
+            "Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Peter Trubowitz",
+            "PERSON",
+            "Is_Member_Of",
+            "LSE",
+            "ORG"
+        ],
+        [
+            "LSE",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Peter Trubowitz",
+            "PERSON",
+            "Discuss",
+            "Trump administration",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Heartland Financial USA, Inc.",
+            "COMP",
+            "Announce",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "Heartland Financial USA, Inc.",
+            "COMP",
+            "Operate_In",
+            "Iowa, Illinois, Wisconsin, New Mexico, Arizona, Montana, Colorado, Minnesota, Kansas, Missouri, Texas, California",
+            "GPE"
+        ],
+        [
+            "Heartland Financial USA, Inc.",
+            "COMP",
+            "Control",
+            "banking, mortgage, private client, investment, treasury management, card services, insurance, and consumer finance services",
+            "SECTOR"
+        ],
+        [
+            "Heartland Financial USA, Inc.",
+            "COMP",
+            "Has",
+            "121 banking locations",
+            "COMP"
+        ],
+        [
+            "Bryan R. McKeag",
+            "PERSON",
+            "Is_Member_Of",
+            "Heartland Financial USA, Inc.",
+            "COMP"
+        ],
+        [
+            "Bryan R. McKeag",
+            "PERSON",
+            "Control",
+            "financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "877-407-0782",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "conference call",
+            "EVENT"
+        ]
+    ]
+}

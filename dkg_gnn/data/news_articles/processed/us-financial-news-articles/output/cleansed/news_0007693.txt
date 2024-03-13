@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Skanska",
+            "ORG",
+            "Builds",
+            "Graduate Student Housing",
+            "PRODUCT"
+        ],
+        [
+            "Skanska",
+            "ORG",
+            "Operate_In",
+            "USA",
+            "GPE"
+        ],
+        [
+            "Graduate Student Housing",
+            "PRODUCT",
+            "Cost",
+            "USD 170M",
+            "ECON_INDICATOR"
+        ],
+        [
+            "USD 170M",
+            "ECON_INDICATOR",
+            "Equivalent",
+            "SEK 1.5 Billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

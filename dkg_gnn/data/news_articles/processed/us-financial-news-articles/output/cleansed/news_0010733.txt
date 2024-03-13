@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Biomerica",
+            "COMP",
+            "Announce",
+            "CFDA Approval",
+            "EVENT"
+        ],
+        [
+            "EZ Detect\u2122",
+            "PRODUCT",
+            "Relate_To",
+            "Colorectal Screening Test",
+            "PRODUCT"
+        ],
+        [
+            "EZ Detect\u2122",
+            "PRODUCT",
+            "Help",
+            "Identify Early Warning Signs",
+            "CONCEPT"
+        ],
+        [
+            "EZ Detect\u2122",
+            "PRODUCT",
+            "Designed_To",
+            "Home Test",
+            "PRODUCT"
+        ],
+        [
+            "Home Test",
+            "PRODUCT",
+            "Detect",
+            "Fecal Occult Blood",
+            "CONCEPT"
+        ],
+        [
+            "Fecal Occult Blood",
+            "CONCEPT",
+            "Early Warning Sign",
+            "Colorectal Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Home Test",
+            "PRODUCT",
+            "Does_Not_Require",
+            "Handling Stool",
+            "CONCEPT"
+        ],
+        [
+            "Home Test",
+            "PRODUCT",
+            "Does_Not_Require",
+            "Dietary Restrictions",
+            "CONCEPT"
+        ],
+        [
+            "EZ Detect\u2122",
+            "PRODUCT",
+            "Operate_In",
+            "Toilet",
+            "GPE"
+        ],
+        [
+            "Change in Pad Color",
+            "CONCEPT",
+            "Indicate",
+            "Presence of Blood in Stool",
+            "CONCEPT"
+        ],
+        [
+            "Change in Pad Color",
+            "CONCEPT",
+            "Appear",
+            "Within Two Minutes",
+            "TIME"
+        ],
+        [
+            "Colorectal Cancer",
+            "CONCEPT",
+            "Leading Cause of Death",
+            "China",
+            "GPE"
+        ],
+        [
+            "Colorectal Cancer",
+            "CONCEPT",
+            "Major Public Health Problem",
+            "China",
+            "GPE"
+        ],
+        [
+            "Colorectal Cancer",
+            "CONCEPT",
+            "Incidence",
+            "Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colorectal Cancer",
+            "CONCEPT",
+            "Mortality",
+            "Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Develop",
+            "Advanced Diagnostic Products",
+            "PRODUCT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Manufacture",
+            "Advanced Diagnostic Products",
+            "PRODUCT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Market",
+            "Advanced Diagnostic Products",
+            "PRODUCT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Focus",
+            "Gastrointestinal Disease",
+            "SECTOR"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Focus",
+            "Diabetes",
+            "SECTOR"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Focus",
+            "Esoteric Testing",
+            "SECTOR"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Product",
+            "InFoods \u00ae IBS",
+            "PRODUCT"
+        ],
+        [
+            "InFoods \u00ae IBS",
+            "PRODUCT",
+            "Identify",
+            "Patient Specific Foods",
+            "CONCEPT"
+        ],
+        [
+            "InFoods \u00ae IBS",
+            "PRODUCT",
+            "Alleviate",
+            "IBS Symptoms",
+            "CONCEPT"
+        ],
+        [
+            "InFoods \u00ae IBS",
+            "PRODUCT",
+            "Patent-Pending",
+            "Diagnostic-Guided Therapy",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Seek",
+            "Regulatory Approval",
+            "EVENT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Have",
+            "Billable CPT Code",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Product",
+            "Not_A",
+            "Drug"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Product",
+            "No_Drug_Type_Side_Effects",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Under",
+            "Private Securities Litigation Reform Act of 1995",
+            "EVENT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Make",
+            "Forward-Looking Statements",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Have",
+            "Safe Harbor",
+            "CONCEPT"
+        ],
+        [
+            "Biomerica",
+            "COMP",
+            "Dependent",
+            "Strategic Relationships",
+            "CONCEPT"
+        ]
+    ]
+}

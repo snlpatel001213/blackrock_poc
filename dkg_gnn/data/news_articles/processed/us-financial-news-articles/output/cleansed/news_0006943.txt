@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "El Al Israel Airlines",
+            "COMP",
+            "Name",
+            "Gonen Usishkin",
+            "PERSON"
+        ],
+        [
+            "Gonen Usishkin",
+            "PERSON",
+            "Replace",
+            "David Maimon",
+            "PERSON"
+        ],
+        [
+            "David Maimon",
+            "PERSON",
+            "Announce",
+            "step down",
+            "CONCEPT"
+        ],
+        [
+            "David Maimon",
+            "PERSON",
+            "Operate_In",
+            "El Al Israel Airlines",
+            "COMP"
+        ],
+        [
+            "El Al Israel Airlines",
+            "COMP",
+            "Say",
+            "Usishkin will take up his new position in the coming weeks following a transition period",
+            "CONCEPT"
+        ],
+        [
+            "Gonen Usishkin",
+            "PERSON",
+            "Born",
+            "1967",
+            "DATE"
+        ],
+        [
+            "Gonen Usishkin",
+            "PERSON",
+            "Pilot",
+            "747 aircraft",
+            "PRODUCT"
+        ],
+        [
+            "Gonen Usishkin",
+            "PERSON",
+            "Move",
+            "management",
+            "CONCEPT"
+        ],
+        [
+            "Gonen Usishkin",
+            "PERSON",
+            "Head",
+            "strategy and business development",
+            "CONCEPT"
+        ],
+        [
+            "David Maimon",
+            "PERSON",
+            "Led",
+            "El Al in its procurement of 16 Boeing 787 Dreamliner aircraft",
+            "PRODUCT"
+        ],
+        [
+            "El Al Israel Airlines",
+            "COMP",
+            "Launch",
+            "new routes to the United States and Europe",
+            "GPE"
+        ]
+    ]
+}

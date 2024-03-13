@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "SENZAGEN AB",
+            "ORG",
+            "Submit",
+            "Final Validation Report of Gardskin",
+            "PRODUCT"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Relate_To",
+            "Regulatory Authorities",
+            "ORG/REG"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Impact",
+            "Highest Test Prediction Accuracy",
+            "CONCEPT"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Expect",
+            "Global Regulatory Approval",
+            "CONCEPT"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Expect",
+            "Recommendation by ECVAM and OECD",
+            "ORG/REG"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Expect",
+            "Use",
+            "CONCEPT"
+        ],
+        [
+            "Gardskin",
+            "PRODUCT",
+            "Expect",
+            "April 2019",
+            "DATE"
+        ]
+    ]
+}

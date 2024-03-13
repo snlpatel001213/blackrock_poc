@@ -1,0 +1,82 @@
+{
+    "output": [
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Announce",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Toyota Motor Corp.",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Mazda Motor Corp.",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Foreign makers",
+            "COMP",
+            "Produce",
+            "1.4 million vehicles",
+            "ECON_INDICATOR",
+            "Q1",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Foreign makers",
+            "COMP",
+            "Produce",
+            "1.4 million vehicles",
+            "ECON_INDICATOR",
+            "Q1",
+            "2018",
+            "TIME",
+            "Equal",
+            "=",
+            "Detroit",
+            "COMP"
+        ],
+        [
+            "Foreign makers",
+            "COMP",
+            "Produce",
+            "More cars and trucks",
+            "PRODUCT",
+            "In",
+            "America",
+            "GPE",
+            "Than",
+            "Detroit",
+            "COMP",
+            "In",
+            "Q1",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Detroit",
+            "COMP",
+            "Trail",
+            "Foreign makers",
+            "COMP",
+            "In",
+            "Production",
+            "PRODUCT",
+            "In",
+            "US",
+            "GPE",
+            "Last",
+            "Year",
+            "TIME"
+        ]
+    ]
+}

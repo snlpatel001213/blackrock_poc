@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Israel",
+            "GPE",
+            "Support",
+            "Cut",
+            "OPERATION"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Prefer",
+            "Gradual Cut",
+            "OPERATION"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Raise",
+            "Cut",
+            "OPERATION"
+        ],
+        [
+            "UNRWA",
+            "ORG",
+            "Provide",
+            "Aid",
+            "OPERATION"
+        ],
+        [
+            "Palestinians",
+            "GPE",
+            "Unwillingness",
+            "Talk Peace",
+            "OPERATION"
+        ],
+        [
+            "Palestinians",
+            "GPE",
+            "Condemn",
+            "Blackmail",
+            "OPERATION"
+        ],
+        [
+            "Prime Minister",
+            "PERSON",
+            "Support",
+            "Gradual Cut",
+            "OPERATION"
+        ],
+        [
+            "Benjamin Netanyahu",
+            "PERSON",
+            "Support",
+            "Critical Approach",
+            "OPERATION"
+        ],
+        [
+            "Benjamin Netanyahu",
+            "PERSON",
+            "Believe",
+            "Practical Steps",
+            "OPERATION"
+        ],
+        [
+            "UNRWA",
+            "ORG",
+            "Perpetuating",
+            "Palestinian Refugee Problem",
+            "OPERATION"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Largest Donor",
+            "UNRWA",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Freeze",
+            "$125 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netanyahu\u2019s Office",
+            "ORG",
+            "Statement",
+            "Support",
+            "OPERATION"
+        ]
+    ]
+}

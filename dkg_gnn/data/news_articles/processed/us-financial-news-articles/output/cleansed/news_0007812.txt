@@ -1,0 +1,23 @@
+{
+    "output": [
+        [
+            "US Energy Corp",
+            "COMP",
+            "Enter",
+            "Northland Securities",
+            "ORG",
+            "Common Stock Sales Agreement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "US Energy Corp",
+            "COMP",
+            "May_Sell",
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Aggregate_Offering_Price",
+            "2.5 Million_Dollar",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

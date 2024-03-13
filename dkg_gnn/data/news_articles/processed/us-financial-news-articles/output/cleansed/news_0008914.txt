@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Emirates NBD",
+            "COMP",
+            "Post",
+            "17.2% rise in net profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Operate_In",
+            "Dubai",
+            "GPE"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Operate_In",
+            "United Arab Emirates",
+            "GPE"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Make",
+            "net profit of 2.18 billion dirhams",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Make",
+            "net profit of 1.86 billion dirhams",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Relate_To",
+            "SICO Bahrain",
+            "ORG"
+        ],
+        [
+            "Emirates NBD",
+            "COMP",
+            "Relate_To",
+            "EFG Hermes",
+            "ORG"
+        ],
+        [
+            "SICO Bahrain",
+            "ORG",
+            "Forecast",
+            "net profit of 2.23 billion dirhams",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "EFG Hermes",
+            "ORG",
+            "Expect",
+            "net profit of 1.98 billion dirhams",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

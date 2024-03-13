@@ -1,0 +1,305 @@
+{
+    "output": [
+        [
+            "National Center for the Middle Market",
+            "ORG",
+            "Release",
+            "New research",
+            "EVENT"
+        ],
+        [
+            "National Center for the Middle Market",
+            "ORG",
+            "Operate_In",
+            "Middle Market",
+            "SECTOR"
+        ],
+        [
+            "Middle Market",
+            "SECTOR",
+            "Has",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Complete",
+            "Merger and Acquisition",
+            "EVENT"
+        ],
+        [
+            "Merger and Acquisition",
+            "EVENT",
+            "Play",
+            "Important Role",
+            "CONCEPT"
+        ],
+        [
+            "Executives",
+            "PERSON",
+            "Come",
+            "Deal Table",
+            "CONCEPT"
+        ],
+        [
+            "Executives",
+            "PERSON",
+            "Have",
+            "Limited Experience",
+            "CONCEPT"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "Find",
+            "Difficult",
+            "CONCEPT"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "Assess",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Sellers",
+            "PERSON",
+            "Find",
+            "Difficult",
+            "CONCEPT"
+        ],
+        [
+            "Sellers",
+            "PERSON",
+            "Assess",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "State",
+            "Integration",
+            "CONCEPT"
+        ],
+        [
+            "Sellers",
+            "PERSON",
+            "State",
+            "Integration",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Rely",
+            "Internal Executives",
+            "PERSON"
+        ],
+        [
+            "Buyers",
+            "PERSON",
+            "Look",
+            "Targets",
+            "COMP"
+        ],
+        [
+            "Sellers",
+            "PERSON",
+            "Look",
+            "Buyers",
+            "PERSON"
+        ],
+        [
+            "External Advisors",
+            "ORG",
+            "Help",
+            "Identify",
+            "CONCEPT"
+        ],
+        [
+            "External Advisors",
+            "ORG",
+            "Help",
+            "Find",
+            "CONCEPT"
+        ],
+        [
+            "Deals",
+            "EVENT",
+            "Take",
+            "Three to Twelve Months",
+            "TIME"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Plan",
+            "Advance",
+            "CONCEPT"
+        ],
+        [
+            "Planning",
+            "CONCEPT",
+            "Start",
+            "Three to Five Times",
+            "TIME"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Provide",
+            "Research",
+            "EVENT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Help",
+            "Executives",
+            "PERSON"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Gain",
+            "Understanding",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Identify",
+            "Obstacles",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Know",
+            "When",
+            "TIME"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Know",
+            "Why",
+            "REASON"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Help",
+            "Facilitate",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Serve",
+            "Middle Market",
+            "SECTOR"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Realize",
+            "Vitality",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Realize",
+            "Robustness",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Collaboration",
+            "Ohio State University",
+            "ORG"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Collaboration",
+            "SunTrust Banks",
+            "ORG"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Collaboration",
+            "Grant Thornton LLP",
+            "ORG"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Housed",
+            "Fisher College of Business",
+            "ORG"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Committed",
+            "Funding",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Committed",
+            "Distributing",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Committed",
+            "Creating",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Committed",
+            "Providing",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Fully Committed",
+            "Offering",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Outlook",
+            "Health",
+            "CONCEPT"
+        ],
+        [
+            "NCMM",
+            "ORG",
+            "Outlook",
+            "Future",
+            "CONCEPT"
+        ],
+        [
+            "Middle Market Indicator",
+            "EVENT",
+            "Provide",
+            "Outlook",
+            "CONCEPT"
+        ]
+    ]
+}

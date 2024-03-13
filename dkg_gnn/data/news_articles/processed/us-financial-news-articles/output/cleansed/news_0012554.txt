@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Operate_In",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Produce",
+            "skiing skills",
+            "CONCEPT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Has",
+            "mentality from region",
+            "CONCEPT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Participates_In",
+            "2014 Games",
+            "EVENT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Participates_In",
+            "2010 Games",
+            "EVENT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Participates_In",
+            "2018 Games",
+            "EVENT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Positive_Impact_On",
+            "Sweden",
+            "GPE"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Control",
+            "Charlotte Kalla",
+            "PERSON"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Negative_Impact_On",
+            "Norway",
+            "GPE"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Control",
+            "Norwegians",
+            "PERSON"
+        ],
+        [
+            "Norwegians",
+            "PERSON",
+            "Participates_In",
+            "2017 World Championships",
+            "EVENT"
+        ],
+        [
+            "Norwegians",
+            "PERSON",
+            "Control",
+            "Gold medals",
+            "CONCEPT"
+        ],
+        [
+            "Tarendo",
+            "GPE",
+            "Has",
+            "statue of Charlotte Kalla",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Celebrate",
+            "Christmas",
+            "EVENT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Lead",
+            "World Cup rankings",
+            "CONCEPT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Ingvild Oestberg",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Heidi Weng",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Marit Bjoergen",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Ragnhild Haga",
+            "PERSON"
+        ]
+    ]
+}

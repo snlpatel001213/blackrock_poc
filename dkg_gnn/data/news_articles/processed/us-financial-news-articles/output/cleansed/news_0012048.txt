@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Russian man",
+            "PERSON",
+            "Ram",
+            "armoured personnel carrier",
+            "ORG/VEHICLE"
+        ],
+        [
+            "armoured personnel carrier",
+            "ORG/VEHICLE",
+            "Impact",
+            "shop window",
+            "COMP"
+        ],
+        [
+            "Russian man",
+            "PERSON",
+            "Participates_In",
+            "steal",
+            "PRODUCT"
+        ],
+        [
+            "shop",
+            "COMP",
+            "Sell",
+            "wine",
+            "PRODUCT"
+        ]
+    ]
+}

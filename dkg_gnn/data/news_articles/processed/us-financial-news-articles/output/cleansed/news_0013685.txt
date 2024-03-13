@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "FTSE",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "UK shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Carillion",
+            "COMP",
+            "Collapse",
+            "Construction group",
+            "ORG"
+        ],
+        [
+            "Balfour Beatty",
+            "COMP",
+            "Drop",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Galliford Try",
+            "COMP",
+            "Drop",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Speedy Hire",
+            "COMP",
+            "Drop",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kier Group",
+            "COMP",
+            "Rise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Serco",
+            "COMP",
+            "Jump",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Melrose",
+            "COMP",
+            "Plan",
+            "Meet GKN shareholders",
+            "PERSON"
+        ],
+        [
+            "GKN",
+            "COMP",
+            "Fend off",
+            "Offer of Melrose",
+            "COMP"
+        ],
+        [
+            "Carlyle",
+            "COMP",
+            "Plan",
+            "Bid for GKN",
+            "COMP"
+        ],
+        [
+            "Acacia Mining",
+            "COMP",
+            "Rise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gold prices",
+            "ECON_INDICATOR",
+            "Rise",
+            "Gold production",
+            "PRODUCT"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Retreat",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Royal Dutch Shell",
+            "COMP",
+            "Retreat",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Standard Chartered",
+            "COMP",
+            "Lose",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HSBC",
+            "COMP",
+            "Lose",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Americold Realty Trust",
+            "COMP",
+            "Raise",
+            "$330.8 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Americold Realty Trust",
+            "COMP",
+            "Sell",
+            "24 million shares",
+            "QUANTITY"
+        ],
+        [
+            "24 million shares",
+            "QUANTITY",
+            "For",
+            "between $14 and $16",
+            "PRICE_RANGE"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Can_Buy",
+            "3.6 million shares",
+            "QUANTITY"
+        ],
+        [
+            "Americold Realty Trust",
+            "COMP",
+            "Expects",
+            "to raise around $381 million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

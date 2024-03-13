@@ -1,0 +1,134 @@
+{
+    "output": [
+        [
+            "Emirates",
+            "COMP",
+            "Operate_In",
+            "UAE",
+            "GPE"
+        ],
+        [
+            "Etihad Airways",
+            "COMP",
+            "Operate_In",
+            "UAE",
+            "GPE"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Own",
+            "Dubai Government",
+            "ORG/GOV"
+        ],
+        [
+            "Etihad Airways",
+            "COMP",
+            "Own",
+            "Abu Dhabi Government",
+            "ORG/GOV"
+        ],
+        [
+            "Emirates Group Security",
+            "COMP",
+            "Unit_Of",
+            "Emirates",
+            "COMP"
+        ],
+        [
+            "Etihad Aviation Group",
+            "COMP",
+            "Parent_Of",
+            "Etihad Airways",
+            "COMP"
+        ],
+        [
+            "Emirates Group Security",
+            "COMP",
+            "Work_With",
+            "Etihad Aviation Group",
+            "COMP"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Open",
+            "Work",
+            "VERB",
+            "Etihad"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Face",
+            "Challenges",
+            "VERB",
+            "Etihad"
+        ],
+        [
+            "Emirates Group Security",
+            "COMP",
+            "Provide",
+            "Security_Programs",
+            "VERB",
+            "Etihad"
+        ],
+        [
+            "Emirates Group Security",
+            "COMP",
+            "Help",
+            "Develop",
+            "VERB",
+            "Security_Escort_Capability",
+            "CONCEPT",
+            "Etihad"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Largest",
+            "Middle_East_Airline",
+            "SECTOR"
+        ],
+        [
+            "Etihad",
+            "COMP",
+            "Unsuccessfully_Spend",
+            "Billions",
+            "NUM",
+            "Buy_Stakes",
+            "VERB",
+            "Operators",
+            "SECTOR"
+        ],
+        [
+            "Etihad",
+            "COMP",
+            "Fall",
+            "Red",
+            "VERB",
+            "First_Time",
+            "NUM",
+            "Since_2010",
+            "TIME"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Develop_Closer_Ties",
+            "Flydubai",
+            "COMP"
+        ],
+        [
+            "Emirates",
+            "COMP",
+            "Deny",
+            "Accusations",
+            "VERB",
+            "Unfairly_State_Subsidized",
+            "VERB",
+            "US_Lobbying_Campaign",
+            "EVENT"
+        ]
+    ]
+}

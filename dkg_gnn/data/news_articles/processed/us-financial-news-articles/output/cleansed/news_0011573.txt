@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Offer",
+            "Open up French economy",
+            "ORG"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Relate_To",
+            "Greater access to China markets",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Warn",
+            "Protectionism",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Bring",
+            "French business delegation",
+            "ORG"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "No",
+            "Immediate announcements",
+            "EVENT",
+            "Relate_To",
+            "Major deals",
+            "EVENT"
+        ]
+    ]
+}

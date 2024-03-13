@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Thibaut Inc.",
+            "COMP",
+            "Is_Member_Of",
+            "Harbour Group",
+            "ORG/REG"
+        ],
+        [
+            "Thibaut",
+            "COMP",
+            "Produce",
+            "Wallcoverings",
+            "PRODUCT"
+        ],
+        [
+            "Thibaut",
+            "COMP",
+            "Produce",
+            "Fabrics",
+            "PRODUCT"
+        ],
+        [
+            "Thibaut",
+            "COMP",
+            "Produce",
+            "Upholstered Furniture",
+            "PRODUCT"
+        ],
+        [
+            "Thibaut",
+            "COMP",
+            "Operate_In",
+            "High-end Residential Interior Designers",
+            "SECTOR"
+        ],
+        [
+            "Thibaut",
+            "COMP",
+            "Has",
+            "In-house Designers",
+            "PERSON"
+        ],
+        [
+            "In-house Designers",
+            "PERSON",
+            "Produce",
+            "Exclusive Collections",
+            "PRODUCT"
+        ],
+        [
+            "Exclusive Collections",
+            "PRODUCT",
+            "Under",
+            "Three Brand Names",
+            "COMP"
+        ],
+        [
+            "Three Brand Names",
+            "COMP",
+            "Include",
+            "Thibaut",
+            "COMP"
+        ],
+        [
+            "Three Brand Names",
+            "COMP",
+            "Include",
+            "Anna French",
+            "COMP"
+        ],
+        [
+            "Three Brand Names",
+            "COMP",
+            "Include",
+            "Thibaut Fine Furniture",
+            "COMP"
+        ],
+        [
+            "Harbour Group",
+            "ORG/REG",
+            "Operate_In",
+            "Diverse Industries",
+            "SECTOR"
+        ],
+        [
+            "Harbour Group",
+            "ORG/REG",
+            "Acquired",
+            "198 Companies",
+            "COMP"
+        ],
+        [
+            "Harbour Group",
+            "ORG/REG",
+            "Acquired",
+            "Thibaut Inc.",
+            "COMP"
+        ]
+    ]
+}

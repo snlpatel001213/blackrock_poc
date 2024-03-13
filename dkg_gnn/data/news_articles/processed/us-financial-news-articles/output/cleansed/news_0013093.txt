@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Galapagos Nv",
+            "ORG",
+            "Announce",
+            "Research Collaboration",
+            "CONCEPT"
+        ],
+        [
+            "Galapagos Nv",
+            "ORG",
+            "Control",
+            "Proqr Therapeutics",
+            "COMP"
+        ],
+        [
+            "Proqr Therapeutics",
+            "COMP",
+            "Relate_To",
+            "Axiomer\u00ae Technology",
+            "CONCEPT"
+        ],
+        [
+            "Proqr Therapeutics",
+            "COMP",
+            "Participates_In",
+            "Fibrosis Targets",
+            "CONCEPT"
+        ],
+        [
+            "Proqr Therapeutics",
+            "COMP",
+            "Operate_In",
+            "Collaboration",
+            "CONCEPT"
+        ]
+    ]
+}

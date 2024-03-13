@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "David Zwirner",
+            "PERSON",
+            "Operate_In",
+            "Zwirner Gallery",
+            "ORG"
+        ],
+        [
+            "Franz West",
+            "PERSON",
+            "Exhibit",
+            "Zwirner Gallery",
+            "ORG"
+        ],
+        [
+            "Franz West",
+            "PERSON",
+            "Has",
+            "Vienna Office",
+            "ORG"
+        ],
+        [
+            "David Zwirner",
+            "PERSON",
+            "Participates_In",
+            "West\u2019s European Openings",
+            "EVENT"
+        ],
+        [
+            "Franz West",
+            "PERSON",
+            "Control",
+            "Most Successful Year",
+            "ECON_INDICATOR",
+            "Zwirner Gallery",
+            "ORG"
+        ],
+        [
+            "Franz West",
+            "PERSON",
+            "Move",
+            "Gagosian",
+            "ORG"
+        ]
+    ]
+}

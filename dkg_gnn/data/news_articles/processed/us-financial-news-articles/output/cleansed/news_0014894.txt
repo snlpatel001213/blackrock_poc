@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "China Jinmao Holdings Group Ltd",
+            "COMP",
+            "Raise",
+            "HK$3.31 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Jinmao Holdings Group Ltd",
+            "COMP",
+            "Sell",
+            "900.12 million new shares",
+            "QUANTITY"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Buy",
+            "900.12 million new shares",
+            "QUANTITY"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Control",
+            "China Jinmao Holdings Group Ltd",
+            "COMP"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Participates_In",
+            "Share sales",
+            "EVENT"
+        ],
+        [
+            "Kerry Holdings Ltd",
+            "COMP",
+            "Participates_In",
+            "Share sales",
+            "EVENT"
+        ],
+        [
+            "New China Life Insurance Co Ltd",
+            "COMP",
+            "Participates_In",
+            "Share sales",
+            "EVENT"
+        ],
+        [
+            "Goldman Sachs (Asia) L.L.C.",
+            "COMP",
+            "Agent",
+            "Share sales",
+            "EVENT"
+        ],
+        [
+            "The Hongkong and Shanghai Banking Corp Ltd",
+            "COMP",
+            "Agent",
+            "Share sales",
+            "EVENT"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Reduce",
+            "Stake in China Jinmao",
+            "COMP"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Stake",
+            "53.95 percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Sinochem Hong Kong (Group) Co Ltd",
+            "ORG",
+            "Stake",
+            "49.76 percent",
+            "PERCENTAGE"
+        ]
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "output": [
+        [
+            "J.P. Morgan Healthcare Conference",
+            "EVENT",
+            "Operate_In",
+            "Biotechnology Sector",
+            "SECTOR"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Acquire",
+            "Impact Biomedicines",
+            "COMP"
+        ],
+        [
+            "Impact Biomedicines",
+            "COMP",
+            "Relate_To",
+            "Experimental Medicine",
+            "CONCEPT"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Pay",
+            "$1.1 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Impact",
+            "COMP",
+            "Meet",
+            "Certain Regulatory and Sales Goals",
+            "CONCEPT"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Pay",
+            "$6 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shire",
+            "COMP",
+            "Acquire",
+            "NPS Pharma",
+            "COMP"
+        ],
+        [
+            "Shire",
+            "COMP",
+            "Acquire",
+            "Baxalta",
+            "COMP"
+        ],
+        [
+            "Takeda",
+            "COMP",
+            "Acquire",
+            "Ariad",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "SECTOR",
+            "Report Results",
+            null,
+            null
+        ],
+        [
+            "Companies",
+            "SECTOR",
+            "Provide Forecasts",
+            null,
+            null
+        ],
+        [
+            "Exact Sciences",
+            "COMP",
+            "Report Results",
+            null,
+            null
+        ],
+        [
+            "Alnylam",
+            "COMP",
+            "Report Results",
+            null,
+            null
+        ],
+        [
+            "Sanofi",
+            "COMP",
+            "Report Results",
+            null,
+            null
+        ],
+        [
+            "Regeneron",
+            "COMP",
+            "Update",
+            null,
+            null
+        ],
+        [
+            "Vertex",
+            "COMP",
+            "Update",
+            null,
+            null
+        ],
+        [
+            "Acorda",
+            "COMP",
+            "Update",
+            null,
+            null
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Attack",
+            "Industry",
+            "SECTOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Raise",
+            "Rhetoric",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "SECTOR",
+            "Fear",
+            "Government Action",
+            "CONCEPT"
+        ],
+        [
+            "Biotech Stocks",
+            "SECTOR",
+            "End",
+            "Year",
+            "TIME",
+            "Up",
+            "20 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Say",
+            "Pharmaceutical Industry is getting away with murder",
+            "CONCEPT"
+        ]
+    ]
+}

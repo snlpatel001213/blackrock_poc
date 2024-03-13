@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Hexagon",
+            "ORG",
+            "Relate_To",
+            "Ola Roll\u00e9n",
+            "PERSON"
+        ],
+        [
+            "Ola Roll\u00e9n",
+            "PERSON",
+            "Say",
+            "I'm relieved by court's verdict",
+            "CONCEPT"
+        ],
+        [
+            "Ola Roll\u00e9n",
+            "PERSON",
+            "Say",
+            "did nothing wrong",
+            "CONCEPT"
+        ],
+        [
+            "Ola Roll\u00e9n",
+            "PERSON",
+            "Remain",
+            "CEO for Hexagon",
+            "ORG/POSITION"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Allow",
+            "Ola Roll\u00e9n as CEO",
+            "ORG/POSITION"
+        ]
+    ]
+}

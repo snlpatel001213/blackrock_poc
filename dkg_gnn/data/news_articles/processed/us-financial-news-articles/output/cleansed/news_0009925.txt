@@ -1,0 +1,156 @@
+{
+    "output": [
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Is_Member_Of",
+            "African National Congress (ANC)",
+            "ORG"
+        ],
+        [
+            "African National Congress (ANC)",
+            "ORG",
+            "Elect",
+            "Cyril Ramaphosa",
+            "PERSON"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Call",
+            "Unity",
+            "CONCEPT"
+        ],
+        [
+            "African National Congress (ANC)",
+            "ORG",
+            "Divide",
+            "Factions",
+            "CONCEPT"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Support",
+            "Zuma",
+            "PERSON"
+        ],
+        [
+            "Markets",
+            "FIN_INSTRUMENT",
+            "Rally",
+            "null",
+            "null"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Narrowly",
+            "Defeat",
+            "Nkosazana Dlamini-Zuma",
+            "PERSON"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Term",
+            "End",
+            "2019",
+            "GPE"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Remove",
+            "Early",
+            "null",
+            "null"
+        ],
+        [
+            "Zuma",
+            "PERSON",
+            "Orchestrate",
+            "Remove",
+            "Mbeki",
+            "PERSON"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Use",
+            "Words",
+            "Nkosazana Dlamini-Zuma",
+            "PERSON"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Balance",
+            "Priorities",
+            "Factions",
+            "CONCEPT"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Reiterate",
+            "Anti-graft",
+            "CONCEPT"
+        ],
+        [
+            "Nkosazana Dlamini-Zuma",
+            "PERSON",
+            "Campaign",
+            "Promise",
+            "Land Redistribution",
+            "CONCEPT"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Support",
+            "Land Redistribution",
+            "CONCEPT"
+        ],
+        [
+            "Cyril Ramaphosa",
+            "PERSON",
+            "Promise",
+            "Not",
+            "Harm",
+            "Economy"
+        ],
+        [
+            "African National Congress (ANC)",
+            "ORG",
+            "Public",
+            "Support",
+            "Decline",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Voters",
+            "PERSON",
+            "Disillusioned",
+            "Corruption Scandals",
+            "CONCEPT"
+        ],
+        [
+            "ANC",
+            "ORG",
+            "Lose",
+            "Power",
+            "null",
+            "null"
+        ],
+        [
+            "African National Congress (ANC)",
+            "ORG",
+            "Sweep",
+            "Power",
+            "Under",
+            "Nelson Mandela",
+            "PERSON"
+        ]
+    ]
+}

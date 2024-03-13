@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Investigate",
+            "wrongly awarded doctorate",
+            "EVENT"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Study",
+            "University of Zimbabwe",
+            "ORG"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Graduate",
+            "2014",
+            "DATE"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Register",
+            "University of Zimbabwe",
+            "ORG"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Dissertation",
+            "not available",
+            "CONCEPT"
+        ],
+        [
+            "Zimbabwe Anti-Corruption Commission",
+            "ORG/GOV",
+            "Receive",
+            "report",
+            "CONCEPT"
+        ],
+        [
+            "Goodson Nguni",
+            "PERSON",
+            "Head",
+            "investigations",
+            "CONCEPT"
+        ],
+        [
+            "Sociology department",
+            "ORG",
+            "Tell",
+            "commission",
+            "ORG/GOV"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Defend",
+            "academic record",
+            "CONCEPT"
+        ],
+        [
+            "ZANU-PF rally",
+            "EVENT",
+            "Attend",
+            "Grace Mugabe",
+            "PERSON"
+        ],
+        [
+            "Emmerson Mnangagwa",
+            "PERSON",
+            "Succeed",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Robert Mugabe",
+            "PERSON",
+            "President",
+            "November",
+            "DATE"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Not appear",
+            "public",
+            "CONCEPT"
+        ],
+        [
+            "Nov. 15",
+            "DATE",
+            "Confine",
+            "Mugabe family",
+            "PERSON"
+        ],
+        [
+            "Army tanks",
+            "COMP",
+            "Roll",
+            "capital",
+            "GPE"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Called",
+            "Dr Amai",
+            "CONCEPT"
+        ],
+        [
+            "Grace Mugabe",
+            "PERSON",
+            "Followers",
+            "adulating",
+            "CONCEPT"
+        ],
+        [
+            "MacDonald Dzirutwe",
+            "PERSON",
+            "Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Larry King",
+            "PERSON",
+            "Editing",
+            "Report",
+            "CONCEPT"
+        ]
+    ]
+}

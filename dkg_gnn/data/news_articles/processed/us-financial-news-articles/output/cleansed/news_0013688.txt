@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Mariano Rajoy",
+            "PERSON",
+            "Say",
+            "Madrid",
+            "GPE"
+        ],
+        [
+            "Mariano Rajoy",
+            "PERSON",
+            "Say",
+            "direct rule",
+            "CONCEPT"
+        ],
+        [
+            "Madrid",
+            "GPE",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Madrian Rajoy",
+            "PERSON",
+            "Say",
+            "continue",
+            "VERB"
+        ],
+        [
+            "Madrid",
+            "GPE",
+            "Control",
+            "Catalonia",
+            "GPE"
+        ],
+        [
+            "Catalonia",
+            "GPE",
+            "Have",
+            "former leader",
+            "PERSON"
+        ],
+        [
+            "former leader",
+            "PERSON",
+            "Equal",
+            "Puigdemont",
+            "PERSON"
+        ],
+        [
+            "Puigdemont",
+            "PERSON",
+            "Be",
+            "self-imposed exile",
+            "CONCEPT"
+        ],
+        [
+            "self-imposed exile",
+            "CONCEPT",
+            "Locate_In",
+            "Brussels",
+            "GPE"
+        ]
+    ]
+}

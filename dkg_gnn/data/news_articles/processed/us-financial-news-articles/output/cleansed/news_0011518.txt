@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Announce",
+            "pay distribution",
+            "EVENT"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Operate_In",
+            "NYSE",
+            "EXCHANGE"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Pay",
+            "Dividend",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dividend",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Operate_In",
+            "Fiscal Year",
+            "CONCEPT"
+        ],
+        [
+            "Fiscal Year",
+            "CONCEPT",
+            "Operate_In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "Shareholder",
+            "PERSON"
+        ],
+        [
+            "Shareholder",
+            "PERSON",
+            "Receive",
+            "Dividend",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dividend",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Amount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amount",
+            "ECON_INDICATOR",
+            "Has",
+            "US$0.1446",
+            "NUM"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "Record Date",
+            "DATE"
+        ],
+        [
+            "Record Date",
+            "DATE",
+            "Has",
+            "December 29, 2017",
+            "DATE"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "Portfolio",
+            "PRODUCT"
+        ],
+        [
+            "Portfolio",
+            "PRODUCT",
+            "Fluctuate",
+            "Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Value",
+            "ECON_INDICATOR",
+            "Has",
+            "Investor shares",
+            "PRODUCT"
+        ],
+        [
+            "Investor shares",
+            "PRODUCT",
+            "Can be",
+            "Premium",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investor shares",
+            "PRODUCT",
+            "Can be",
+            "Discount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "Investment Objective",
+            "CONCEPT"
+        ],
+        [
+            "Investment Objective",
+            "CONCEPT",
+            "Not",
+            "Guarantee",
+            "CONCEPT"
+        ],
+        [
+            "Past Performance",
+            "CONCEPT",
+            "Not",
+            "Guarantee",
+            "CONCEPT"
+        ],
+        [
+            "Past Performance",
+            "CONCEPT",
+            "Not",
+            "Predict",
+            "CONCEPT"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "Form 1099-DIV",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Form 1099-DIV",
+            "FIN_INSTRUMENT",
+            "Tell",
+            "Investor",
+            "PERSON"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "How",
+            "Report",
+            "CONCEPT"
+        ],
+        [
+            "Report",
+            "CONCEPT",
+            "For",
+            "Federal Income Tax Purposes",
+            "CONCEPT"
+        ],
+        [
+            "Aberdeen Greater China Fund, Inc.",
+            "COMP",
+            "Has",
+            "U.S. Treasury",
+            "ORG"
+        ],
+        [
+            "U.S. Treasury",
+            "ORG",
+            "Impose",
+            "Requirement",
+            "CONCEPT"
+        ],
+        [
+            "Requirement",
+            "CONCEPT",
+            "Compliance",
+            "U.S. Tax Advice",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Tax Advice",
+            "CONCEPT",
+            "Not",
+            "Promote",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Tax Advice",
+            "CONCEPT",
+            "Not",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Tax Advice",
+            "CONCEPT",
+            "Not",
+            "Recommend",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Tax Advice",
+            "CONCEPT",
+            "To",
+            "Another Party",
+            "PERSON"
+        ],
+        [
+            "Another Party",
+            "PERSON",
+            "Addressed",
+            "Herein",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Vince Holding Corp",
+            "COMP",
+            "Provide",
+            "Holiday Sales Performance Update",
+            "EVENT"
+        ],
+        [
+            "Vince Holding Corp",
+            "COMP",
+            "Operate_In",
+            "Full-price Stores, Ecommerce Business",
+            "SECTOR"
+        ],
+        [
+            "Full-price Stores, Ecommerce Business",
+            "SECTOR",
+            "Deliver",
+            "Comparable Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Comparable Sales Increase",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Nine-Week Period Ended Dec 30",
+            "TIME"
+        ],
+        [
+            "Vince Holding Corp",
+            "COMP",
+            "Wholesale",
+            "Segment Shipments",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Segment Shipments",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Same Period Last Year",
+            "TIME"
+        ]
+    ]
+}

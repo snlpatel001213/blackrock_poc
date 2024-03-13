@@ -1,0 +1,190 @@
+{
+    "output": [
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Withdraw",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Has",
+            "Leg Injury",
+            "CONCEPT"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Operate_In",
+            "WTA",
+            "ORG"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Call",
+            "Medical Timeout",
+            "EVENT"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Impact",
+            "Daria Gavrilova",
+            "PERSON"
+        ],
+        [
+            "Daria Gavrilova",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Daria Gavrilova",
+            "PERSON",
+            "Advance",
+            "Semi-finals",
+            "EVENT"
+        ],
+        [
+            "Kiki Bertens",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Kiki Bertens",
+            "PERSON",
+            "Lose",
+            "Garbine Muguruza",
+            "PERSON"
+        ],
+        [
+            "Wimbledon",
+            "EVENT",
+            "Won_By",
+            "Garbine Muguruza",
+            "PERSON"
+        ],
+        [
+            "Brisbane International",
+            "EVENT",
+            "Retired",
+            "Garbine Muguruza",
+            "PERSON"
+        ],
+        [
+            "Agnieszka Radwanska",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Agnieszka Radwanska",
+            "PERSON",
+            "Won_By",
+            "CiCi Bellis",
+            "PERSON"
+        ],
+        [
+            "CiCi Bellis",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "CiCi Bellis",
+            "PERSON",
+            "Qualify",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Qualify",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Camila Giorgi",
+            "PERSON",
+            "Beat",
+            "Petra Kvitova",
+            "PERSON"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Participates_In",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Former Champion",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Petra Kvitova",
+            "PERSON",
+            "Grand Slam Champion",
+            "N/A"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Grand Slam Champion",
+            "N/A"
+        ],
+        [
+            "Sloane Stephens",
+            "PERSON",
+            "Beat_By",
+            "Camila Giorgi",
+            "PERSON"
+        ],
+        [
+            "Paolo Lorenzi",
+            "PERSON",
+            "Beat",
+            "Albert Ramos-Vinolas",
+            "PERSON"
+        ],
+        [
+            "Albert Ramos-Vinolas",
+            "PERSON",
+            "Top Seed",
+            "Sydney International",
+            "EVENT"
+        ],
+        [
+            "Albert Ramos-Vinolas",
+            "PERSON",
+            "Leg Problem",
+            "N/A"
+        ]
+    ]
+}

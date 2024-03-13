@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Sees",
+            "Significant Exposure",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Has",
+            "British Defence Contractor",
+            "ORG"
+        ],
+        [
+            "British Defence Contractor",
+            "ORG",
+            "Warned",
+            "Lower Defence Orders",
+            "CONCEPT"
+        ],
+        [
+            "British Defence Contractor",
+            "ORG",
+            "Is",
+            "Ultra Electronics",
+            "COMP"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Had",
+            "Rising U.S. Defence Budget",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Had Seen",
+            "Growing Demand",
+            "CONCEPT"
+        ],
+        [
+            "Growing Demand",
+            "CONCEPT",
+            "For",
+            "Advanced Technologies",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Expects",
+            "Modest Progress",
+            "CONCEPT"
+        ],
+        [
+            "Modest Progress",
+            "CONCEPT",
+            "In",
+            "2018 Underlying Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2018 Underlying Revenue",
+            "ECON_INDICATOR",
+            "And",
+            "Operating Profit",
+            "CONCEPT"
+        ],
+        [
+            "Operating Profit",
+            "CONCEPT",
+            "On",
+            "Constant Currency Basis",
+            "CONCEPT"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Had",
+            "Order Cover",
+            "CONCEPT"
+        ],
+        [
+            "Order Cover",
+            "CONCEPT",
+            "On",
+            "Expected Revenue",
+            "CONCEPT"
+        ],
+        [
+            "Expected Revenue",
+            "CONCEPT",
+            "Of",
+            "About 62 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "About 62 Percent",
+            "ECON_INDICATOR",
+            "Higher",
+            "About 56 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "About 56 Percent",
+            "ECON_INDICATOR",
+            "In",
+            "2017",
+            "GPE"
+        ],
+        [
+            "Ultra Electronics",
+            "COMP",
+            "Said",
+            "Reporting",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Noor Zainab Hussain",
+            "PERSON"
+        ],
+        [
+            "Noor Zainab Hussain",
+            "PERSON",
+            "In",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Bengaluru",
+            "GPE",
+            "Editing",
+            "Bernard Orr",
+            "PERSON"
+        ]
+    ]
+}

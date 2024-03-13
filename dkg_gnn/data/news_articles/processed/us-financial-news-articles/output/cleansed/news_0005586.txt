@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Operate_In",
+            "Biathlon",
+            "SECTOR"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Impact",
+            "Medal",
+            "CONCEPT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Participates_In",
+            "Olympics",
+            "EVENT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Participates_In",
+            "Biathlon Relay",
+            "EVENT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Impact",
+            "Medal",
+            "CONCEPT"
+        ],
+        [
+            "International Biathlon Union (IBU)",
+            "ORG",
+            "Control",
+            "Biathlon",
+            "SECTOR"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Rookie of the Year",
+            "CONCEPT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Top 20 Finishes",
+            "CONCEPT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Youthful Swedish Team",
+            "GPE"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Has",
+            "Air Rifle",
+            "PRODUCT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Cross-Country Skiing",
+            "SECTOR"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Prone Position",
+            "CONCEPT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Precision",
+            "CONCEPT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Nervous",
+            "CONCEPT"
+        ],
+        [
+            "Sebastian Samuelsson",
+            "PERSON",
+            "Relate_To",
+            "Junior",
+            "CONCEPT"
+        ],
+        [
+            "Martin Fourcade",
+            "PERSON",
+            "Control",
+            "Biathlon",
+            "SECTOR"
+        ],
+        [
+            "IBU",
+            "ORG",
+            "Invest",
+            "Biathlon",
+            "SECTOR"
+        ]
+    ]
+}

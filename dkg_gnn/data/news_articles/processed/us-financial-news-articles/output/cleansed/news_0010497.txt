@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Has",
+            "Daniel Gallardo Wagner",
+            "PERSON"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Is_Member_Of",
+            "Interlink Plus, Inc.",
+            "COMP"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Announce",
+            "Restructuring",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Involved_In",
+            "Hospitality Business",
+            "SECTOR"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Involved_In",
+            "Resort Projects",
+            "SECTOR"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Involved_In",
+            "Restaurant Projects",
+            "SECTOR"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Involved_In",
+            "Part-Worn Tire Supplier",
+            "COMP"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Involved_In",
+            "Froz\u2019n Alcoholic Beverages",
+            "COMP"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Produce",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Raise",
+            "Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Impact",
+            "Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Impact",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Control",
+            "Daniel Gallardo Wagner",
+            "PERSON"
+        ],
+        [
+            "Daniel Gallardo Wagner",
+            "PERSON",
+            "Email",
+            "danielg@interlinkplus.com",
+            "EMAIL"
+        ],
+        [
+            "Interlink Plus, Inc.",
+            "COMP",
+            "Located_In",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Plan",
+            "Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Administration",
+            "ORG/GOV",
+            "Cut",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Administration",
+            "ORG/GOV",
+            "Boost",
+            "Arms Sales",
+            "COMP"
+        ],
+        [
+            "Arms Sales",
+            "COMP",
+            "Relate_To",
+            "Foreign Buyers",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "output": [
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Has",
+            "Prostate Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Treated_By",
+            "Dr. Thomas Ahlering",
+            "PERSON"
+        ],
+        [
+            "Dr. Thomas Ahlering",
+            "PERSON",
+            "Operate_In",
+            "UC Irvine Hospital",
+            "ORG"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Considering",
+            "Run for U.S. Senate Seat",
+            "ORG/GOV"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Has",
+            "Home in Utah",
+            "GPE"
+        ],
+        [
+            "Mitt Romney",
+            "PERSON",
+            "Seeking_To_Succeed",
+            "Orrin Hatch",
+            "PERSON"
+        ],
+        [
+            "Orrin Hatch",
+            "PERSON",
+            "Retire",
+            "null",
+            "null"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Urged",
+            "Orrin Hatch",
+            "PERSON",
+            "To_Run_Again",
+            "null"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Spoke_By_Phone",
+            "Mitt Romney",
+            "PERSON"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Wished",
+            "Mitt Romney",
+            "PERSON",
+            "Well",
+            "null"
+        ]
+    ]
+}

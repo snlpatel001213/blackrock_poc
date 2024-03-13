@@ -1,0 +1,89 @@
+{
+    "output": [
+        [
+            "MoneyGram International Inc.",
+            "COMP",
+            "Participates_In",
+            "Pilot Program",
+            "EVENT"
+        ],
+        [
+            "Pilot Program",
+            "EVENT",
+            "Relate_To",
+            "XRP",
+            "PRODUCT"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Created_By",
+            "Ripple",
+            "ORG"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "Develop",
+            "Software",
+            "PRODUCT"
+        ],
+        [
+            "Software",
+            "PRODUCT",
+            "Based_On",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "Has",
+            "100 Banks",
+            "ORG/GPE"
+        ],
+        [
+            "Banks",
+            "ORG/GPE",
+            "Included",
+            "UBS Group AG",
+            "COMP"
+        ],
+        [
+            "Banks",
+            "ORG/GPE",
+            "Included",
+            "Banco Santander S.A.",
+            "COMP"
+        ],
+        [
+            "Banks",
+            "ORG/GPE",
+            "Included",
+            "Banco Bilbao Vizcaya Argentaria S.A.",
+            "COMP"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "Work_To",
+            "Sign_Up",
+            "MoneyGram",
+            "COMP"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "CEO",
+            "Brad Garlinghouse",
+            "PERSON"
+        ],
+        [
+            "Brad Garlinghouse",
+            "PERSON",
+            "Tweet",
+            "Three of five largest money-transfer companies would begin using XRP this year",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Bill Gross",
+            "PERSON",
+            "Signal",
+            "Bond Bear Market",
+            "EVENT"
+        ],
+        [
+            "Bond Bear Market",
+            "EVENT",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ]
+    ]
+}

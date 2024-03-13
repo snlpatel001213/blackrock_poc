@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Iranian oil tanker",
+            "COMP",
+            "Control",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "grain ship",
+            "COMP",
+            "Collide",
+            "Iranian oil tanker",
+            "COMP"
+        ],
+        [
+            "Rescue crews",
+            "ORG",
+            "Try",
+            "Bring",
+            "blaze under control"
+        ],
+        [
+            "Rescue crews",
+            "ORG",
+            "Try",
+            "Find",
+            "32 missing crew"
+        ]
+    ]
+}

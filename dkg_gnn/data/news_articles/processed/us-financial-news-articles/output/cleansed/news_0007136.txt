@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Andeavor Logistics Lp",
+            "COMP",
+            "Announce",
+            "Amendment",
+            "EVENT"
+        ],
+        [
+            "Andeavor Logistics Lp",
+            "COMP",
+            "Control",
+            "Credit Agreement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Credit Agreement",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Amendment",
+            "EVENT"
+        ],
+        [
+            "Andeavor Logistics Lp",
+            "COMP",
+            "Increase",
+            "Total Commitments",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total Commitments",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Revolving Credit Agreement",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

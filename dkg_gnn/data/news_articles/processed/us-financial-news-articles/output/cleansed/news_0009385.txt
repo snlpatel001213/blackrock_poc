@@ -1,0 +1,113 @@
+{
+    "output": [
+        [
+            "Arianespace",
+            "ORG",
+            "Expects",
+            "14 launches",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Majority_owned_by",
+            "Airbus/Safran joint venture",
+            "ORG"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Participates_In",
+            "Airbus/Safran joint venture",
+            "ORG"
+        ],
+        [
+            "Safran",
+            "ORG",
+            "Participates_In",
+            "Airbus/Safran joint venture",
+            "ORG"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "New_Rivals",
+            "SpaceX",
+            "COMP"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "New_Rivals",
+            "Blue Origin",
+            "COMP"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Operate_In",
+            "Satellite_launch_market",
+            "SECTOR"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Has",
+            "7 launches",
+            "ECON_INDICATOR",
+            "Ariane 5"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Has",
+            "4 launches",
+            "ECON_INDICATOR",
+            "Soyuz"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Has",
+            "3 launches",
+            "ECON_INDICATOR",
+            "Vega"
+        ],
+        [
+            "Arianespace",
+            "ORG",
+            "Booked",
+            "1.1 billion euros",
+            "ECON_INDICATOR",
+            "orders"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Competes_With",
+            "Arianespace",
+            "ORG"
+        ],
+        [
+            "Blue Origin",
+            "COMP",
+            "Competes_With",
+            "Arianespace",
+            "ORG"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Owns",
+            "SpaceX",
+            "COMP"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Owns",
+            "Blue Origin",
+            "COMP"
+        ]
+    ]
+}

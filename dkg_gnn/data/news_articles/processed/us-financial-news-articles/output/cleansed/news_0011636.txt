@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Approve",
+            "Plan",
+            "ORG"
+        ],
+        [
+            "Plan",
+            "CONCEPT",
+            "Relate_To",
+            "Work Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Kentucky",
+            "GPE",
+            "Operate_In",
+            "Medicaid",
+            "ORG/GOV"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Participates_In",
+            "Work or Related Activities",
+            "CONCEPT"
+        ],
+        [
+            "Centers for Medicare and Medicaid Services",
+            "ORG/GOV",
+            "Impact",
+            "Plan",
+            "ORG"
+        ],
+        [
+            "Consumer Groups",
+            "ORG",
+            "Raise",
+            "Legal Opposition",
+            "CONCEPT"
+        ],
+        [
+            "Work Requirements",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Guarantee",
+            "CONCEPT"
+        ]
+    ]
+}

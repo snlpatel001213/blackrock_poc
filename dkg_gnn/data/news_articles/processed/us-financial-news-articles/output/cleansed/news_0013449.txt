@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Julius Baer",
+            "COMP",
+            "Operate_In",
+            "Swiss stocks",
+            "SECTOR"
+        ],
+        [
+            "Julius Baer",
+            "COMP",
+            "Impact",
+            "SMI",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Julius Baer",
+            "COMP",
+            "Raise",
+            "96 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Julius Baer",
+            "COMP",
+            "Raise",
+            "$114.50 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Control",
+            "Ignyta Inc.",
+            "COMP"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Announce",
+            "tender offer",
+            "EVENT"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Announce",
+            "US$ 27.00 per share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Roche",
+            "COMP",
+            "Announce",
+            "cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "AMS",
+            "COMP",
+            "Participates_In",
+            "noise cancellation wireless earbud",
+            "PRODUCT"
+        ],
+        [
+            "AMS",
+            "COMP",
+            "Participates_In",
+            "Nuheara",
+            "COMP"
+        ],
+        [
+            "Emmi",
+            "COMP",
+            "Control",
+            "Kaiku",
+            "COMP"
+        ],
+        [
+            "Emmi",
+            "COMP",
+            "Control",
+            "Centrale Laiti\u00e8re de Mahdia SA",
+            "COMP"
+        ],
+        [
+            "Emmi",
+            "COMP",
+            "Announce",
+            "increasing stake",
+            "EVENT"
+        ],
+        [
+            "Emmi",
+            "COMP",
+            "Announce",
+            "54.7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "St Galler Kantonalbank",
+            "COMP",
+            "Propose",
+            "Maria Teresa Vacalli",
+            "PERSON"
+        ],
+        [
+            "St Galler Kantonalbank",
+            "COMP",
+            "Propose",
+            "new board member",
+            "CONCEPT"
+        ],
+        [
+            "Basilea",
+            "COMP",
+            "Complete",
+            "extension of license agreement",
+            "EVENT"
+        ],
+        [
+            "Basilea",
+            "COMP",
+            "Complete",
+            "China and 16 countries",
+            "GPE"
+        ],
+        [
+            "Basilea",
+            "COMP",
+            "Control",
+            "Pfizer Inc",
+            "COMP"
+        ],
+        [
+            "Basilea",
+            "COMP",
+            "Control",
+            "Cresemba",
+            "PRODUCT"
+        ]
+    ]
+}

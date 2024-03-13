@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Weigh_In",
+            "Criticism of Apple",
+            "CONCEPT"
+        ],
+        [
+            "Criticism of Apple",
+            "CONCEPT",
+            "Relate_To",
+            "Apple",
+            "COMP"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Participates_In",
+            "Criticism of Apple",
+            "CONCEPT"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Participates_In",
+            "Criticism of Apple",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Control",
+            "Smartphone Devices",
+            "PRODUCT"
+        ]
+    ]
+}

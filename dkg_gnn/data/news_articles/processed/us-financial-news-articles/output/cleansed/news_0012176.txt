@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Syrian Government",
+            "GPE",
+            "Defend",
+            "Idlib Campaign",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Condemn",
+            "Idlib Campaign",
+            "EVENT"
+        ],
+        [
+            "Syrian Government",
+            "GPE",
+            "Operate_In",
+            "Idlib",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Express_Concern",
+            "Idlib Campaign",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Demand",
+            "Respect",
+            "VERB"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Call_On",
+            "Pressure",
+            "VERB"
+        ],
+        [
+            "Syrian Government",
+            "GPE",
+            "Cite",
+            "Foreign_Ministry_Source",
+            "ORG"
+        ],
+        [
+            "Syrian Government",
+            "GPE",
+            "Fight",
+            "Terrorism",
+            "CONCEPT"
+        ],
+        [
+            "Nusra Front",
+            "ORG",
+            "Belong_To",
+            "Tahrir al-Sham",
+            "ORG"
+        ],
+        [
+            "Syrian Government",
+            "GPE",
+            "Target",
+            "Air_Base",
+            "PRODUCT"
+        ],
+        [
+            "Humanitarian_Aid_Organizations",
+            "ORG",
+            "Allege",
+            "Strike",
+            "VERB"
+        ],
+        [
+            "Rescuers",
+            "ORG",
+            "Allege",
+            "Strike",
+            "VERB"
+        ],
+        [
+            "Activists",
+            "ORG",
+            "Allege",
+            "Strike",
+            "VERB"
+        ],
+        [
+            "Syrian Army",
+            "GPE",
+            "Deny",
+            "Strike",
+            "VERB"
+        ],
+        [
+            "Moscow",
+            "GPE",
+            "Deny",
+            "Strike",
+            "VERB"
+        ],
+        [
+            "Jets",
+            "PRODUCT",
+            "Bomb",
+            "Maternity_Hospital",
+            "PRODUCT"
+        ],
+        [
+            "Syrian American Medical Society",
+            "ORG",
+            "Report",
+            "Kill",
+            "VERB"
+        ],
+        [
+            "Relief_Groups",
+            "ORG",
+            "Report",
+            "Injure",
+            "VERB"
+        ]
+    ]
+}

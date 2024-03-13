@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "BBVA",
+            "COMP",
+            "Take_Hit",
+            "1.123 bln euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BBVA",
+            "COMP",
+            "Has",
+            "5 percent stake",
+            "COMP"
+        ],
+        [
+            "5 percent stake",
+            "COMP",
+            "Of",
+            "Telefonica SA",
+            "COMP"
+        ],
+        [
+            "BBVA",
+            "COMP",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Telefonica SA",
+            "COMP",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "1.123 bln euros",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Writedown",
+            "CONCEPT"
+        ],
+        [
+            "Writedown",
+            "CONCEPT",
+            "Impact_On",
+            "BBVA",
+            "COMP"
+        ],
+        [
+            "Writedown",
+            "CONCEPT",
+            "Not_Have",
+            "Impact_On",
+            "CET-1 core capital ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Writedown",
+            "CONCEPT",
+            "Not_Generate",
+            "Cash outflow",
+            "CONCEPT"
+        ],
+        [
+            "Writedown",
+            "CONCEPT",
+            "Not_Have",
+            "Impact_On",
+            "Dividends",
+            "CONCEPT"
+        ]
+    ]
+}

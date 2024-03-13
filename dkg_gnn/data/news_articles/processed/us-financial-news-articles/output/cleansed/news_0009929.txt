@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "AxoGen",
+            "COMP",
+            "Operate_In",
+            "Peripheral Nerve Regeneration and Repair",
+            "CONCEPT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Introduce",
+            "Avance\u00ae Nerve Graft",
+            "PRODUCT"
+        ],
+        [
+            "Avance\u00ae Nerve Graft",
+            "PRODUCT",
+            "Relate_To",
+            "Nerve Repair",
+            "CONCEPT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Introduce",
+            "AxoGuard\u00ae Nerve Connector",
+            "PRODUCT"
+        ],
+        [
+            "AxoGuard\u00ae Nerve Connector",
+            "PRODUCT",
+            "Relate_To",
+            "Nerve Repair",
+            "CONCEPT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Introduce",
+            "AxoGuard\u00ae Nerve Protector",
+            "PRODUCT"
+        ],
+        [
+            "AxoGuard\u00ae Nerve Protector",
+            "PRODUCT",
+            "Relate_To",
+            "Nerve Repair",
+            "CONCEPT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Introduce",
+            "Avive\u00ae Soft Tissue Membrane",
+            "PRODUCT"
+        ],
+        [
+            "Avive\u00ae Soft Tissue Membrane",
+            "PRODUCT",
+            "Relate_To",
+            "Nerve Repair",
+            "CONCEPT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Operate_In",
+            "Health Care",
+            "SECTOR"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Raise",
+            "2017 Revenue Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Reiterate",
+            "2018 Financial Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Participates_In",
+            "The Trout Group Annual 1-on-1 Management Access Event",
+            "EVENT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Participates_In",
+            "Leerink 7th Annual Global Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "AxoGen",
+            "COMP",
+            "Report",
+            "Full Audited Results",
+            "EVENT"
+        ]
+    ]
+}

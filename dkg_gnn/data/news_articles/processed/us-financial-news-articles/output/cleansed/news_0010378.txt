@@ -1,0 +1,173 @@
+{
+    "output": [
+        [
+            "CES 2018",
+            "EVENT",
+            "Operate_In",
+            "Tech Industry",
+            "SECTOR"
+        ],
+        [
+            "Smart Assistants",
+            "CONCEPT",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Sensors and Radios",
+            "CONCEPT",
+            "Participates_In",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "TVs",
+            "PRODUCT",
+            "Relate_To",
+            "CES 2018",
+            "EVENT"
+        ],
+        [
+            "Tech Industry",
+            "SECTOR",
+            "Has",
+            "Assumptions",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Negative_Impact_On",
+            "Assumptions",
+            "CONCEPT"
+        ],
+        [
+            "Tech Industry",
+            "SECTOR",
+            "Make",
+            "Assumptions",
+            "CONCEPT",
+            "Faster"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Have",
+            "Misconceptions",
+            "CONCEPT"
+        ],
+        [
+            "Friends and Family",
+            "PERSON",
+            "Ask",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Confused",
+            "Tech",
+            "CONCEPT"
+        ],
+        [
+            "Tech Industry",
+            "SECTOR",
+            "Should",
+            "Work_Together_Better",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Need",
+            "Passwords",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Create",
+            "Username",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Understand",
+            "Something",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Secure",
+            "Password",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Set_Up",
+            "Product",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Messy",
+            "Lives",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Bought",
+            "Things",
+            "CONCEPT"
+        ],
+        [
+            "Assumptions",
+            "CONCEPT",
+            "Tech Industry",
+            "SECTOR",
+            "Is_Member_Of"
+        ],
+        [
+            "Questions",
+            "CONCEPT",
+            "Ask",
+            "Tech Industry",
+            "SECTOR"
+        ],
+        [
+            "Walt Mossberg",
+            "PERSON",
+            "Ask",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Carry",
+            "Computer",
+            "CONCEPT"
+        ],
+        [
+            "Lives",
+            "CONCEPT",
+            "Dependent",
+            "Technology",
+            "CONCEPT"
+        ],
+        [
+            "Things",
+            "CONCEPT",
+            "Work",
+            "Question",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "output": [
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Announce",
+            "relocate corporate headquarters",
+            "EVENT"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "subsidiary",
+            "ORG",
+            "PlainsCapital Bank"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "top management",
+            "PERSON"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Ranked",
+            "No. 34",
+            "null",
+            "Forbes 2017 Best Banks in America listing"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Operate_In",
+            "financial markets",
+            "SECTOR"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "primary line of business",
+            "SECTOR",
+            "business and consumer banking services"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "wholly owned subsidiary",
+            "ORG",
+            "PlainsCapital Bank"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "wholly owned subsidiary",
+            "ORG",
+            "PrimeLending"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "broker-dealer subsidiaries",
+            "ORG",
+            "Hilltop Securities Inc."
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "broker-dealer subsidiaries",
+            "ORG",
+            "Hilltop Securities Independent Network Inc."
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "wholly owned subsidiary",
+            "ORG",
+            "National Lloyds Corporation"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Has",
+            "property and casualty insurance",
+            "SECTOR"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Employs",
+            "approximately 5,500 people",
+            "null"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Operates",
+            "approximately 475 locations",
+            "null",
+            "44 states"
+        ],
+        [
+            "Hilltop Holdings Inc.",
+            "ORG",
+            "Listed on",
+            "New York Stock Exchange",
+            "ORG",
+            "under the symbol HTH"
+        ]
+    ]
+}

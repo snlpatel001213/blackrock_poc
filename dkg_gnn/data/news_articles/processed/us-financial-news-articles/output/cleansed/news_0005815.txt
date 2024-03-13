@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "U.S. Justice Dept",
+            "ORG/GOV",
+            "Launch",
+            "Clinton Foundation probe",
+            "ORG"
+        ],
+        [
+            "Clinton Foundation",
+            "ORG",
+            "Conduct",
+            "pay-to-play politics",
+            "CONCEPT"
+        ],
+        [
+            "Clinton Foundation",
+            "ORG",
+            "Conduct",
+            "illegal activities",
+            "CONCEPT"
+        ],
+        [
+            "Hillary Clinton",
+            "PERSON",
+            "Tenure",
+            "secretary of state",
+            "ORG/GOV"
+        ],
+        [
+            "FBI agents",
+            "ORG",
+            "Take",
+            "lead in investigation",
+            "ORG"
+        ],
+        [
+            "FBI agents",
+            "ORG",
+            "Interview",
+            "witness",
+            "PERSON"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Do not comment",
+            "ongoing investigations",
+            "CONCEPT"
+        ],
+        [
+            "Clinton Foundation",
+            "ORG",
+            "Previous say",
+            "never any trade in policy decisions for contributions",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Accuse",
+            "Republicans",
+            "ORG"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Launch",
+            "investigation of Clinton",
+            "PERSON"
+        ],
+        [
+            "Special Counsel",
+            "ORG",
+            "Investigate",
+            "possible collusion",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Election campaign",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "U.S. Attorney General",
+            "ORG/GOV",
+            "Ask",
+            "Justice Department prosecutors",
+            "ORG"
+        ],
+        [
+            "Justice Department prosecutors",
+            "ORG",
+            "Decide",
+            "appoint special counsel",
+            "ORG"
+        ],
+        [
+            "Special counsel",
+            "ORG",
+            "Investigate",
+            "Republican concerns",
+            "CONCEPT"
+        ],
+        [
+            "Republican concerns",
+            "CONCEPT",
+            "Include",
+            "alleged wrongdoing by Clinton Foundation",
+            "ORG"
+        ],
+        [
+            "Republican concerns",
+            "CONCEPT",
+            "Include",
+            "sale of a uranium company to Russia",
+            "GPE"
+        ]
+    ]
+}

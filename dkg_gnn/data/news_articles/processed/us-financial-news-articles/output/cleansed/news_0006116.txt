@@ -1,0 +1,163 @@
+{
+    "output": [
+        [
+            "Uber Technologies Inc",
+            "COMP",
+            "Has",
+            "Travis Kalanick",
+            "PERSON"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Sell",
+            "Uber Shares",
+            "COMP"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Control",
+            "Stake in Uber",
+            "COMP"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Buy",
+            "Shares from Early Investors and Employees",
+            "COMP"
+        ],
+        [
+            "SoftBank",
+            "ORG",
+            "Operate_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Valued_At",
+            "$48 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Valued_At",
+            "$68 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SoftBank",
+            "ORG",
+            "Invest",
+            "$1.25 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "Own",
+            "10% of Uber",
+            "COMP"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "Sell",
+            "2.9% of Uber Shares",
+            "COMP"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "Earn",
+            "$1.4 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "First_Time_Billionaire",
+            "CONCEPT"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "Never_Sold_Shares",
+            "COMP"
+        ],
+        [
+            "Kalanick",
+            "PERSON",
+            "Ran",
+            "Uber",
+            "COMP"
+        ],
+        [
+            "Dara Khosrowshahi",
+            "PERSON",
+            "CEO",
+            "Uber",
+            "COMP"
+        ],
+        [
+            "Khosrowshahi",
+            "PERSON",
+            "Help_Broker",
+            "SoftBank Deal",
+            "COMP"
+        ],
+        [
+            "Khosrowshahi",
+            "PERSON",
+            "Benefit",
+            "Deep-Pocketed Investor",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Planned_For",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Have",
+            "Last Chance to Sell Shares",
+            "COMP"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Broker",
+            "SoftBank Deal",
+            "COMP"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Mark",
+            "Victory",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Offer",
+            "Investors and Employees",
+            "COMP"
+        ],
+        [
+            "Transaction",
+            "EVENT",
+            "Approved",
+            "Uber",
+            "COMP"
+        ]
+    ]
+}

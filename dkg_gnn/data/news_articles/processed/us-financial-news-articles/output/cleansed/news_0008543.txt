@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Break",
+            "25000 level",
+            "NUMBER"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Strong Economic Showing",
+            "CONCEPT"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Employ",
+            "Gerald Seib",
+            "PERSON"
+        ],
+        [
+            "President Trump",
+            "ORG/GOV",
+            "Get",
+            "Credit",
+            "CONCEPT"
+        ],
+        [
+            "President Trump",
+            "ORG/GOV",
+            "Relate_To",
+            "Strong Economic Showing",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Have",
+            "Employment Growth",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Chelsea",
+            "GPE",
+            "Hand_Advantage_To",
+            "Manchester United",
+            "GPE"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Race_With",
+            "Manchester City",
+            "GPE"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Failed_To_Score",
+            "0-0",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Struggled",
+            "Leicester City",
+            "GPE"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Created_Chances",
+            "First Half",
+            "TIME"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Won_Title",
+            "Year Before",
+            "TIME"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Improved",
+            "58th Minute",
+            "TIME"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Went_Down_To",
+            "10_Men",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Lacked",
+            "Ruthlessness",
+            "CONCEPT"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Played",
+            "7_Games",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Conceding",
+            "Less",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Showing",
+            "Not_Great_Quality",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Defended",
+            "Patiently",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Dropped",
+            "2_Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Felt",
+            "Harsh",
+            "CONCEPT"
+        ],
+        [
+            "Leicester City",
+            "GPE",
+            "Want_To",
+            "Keep_Best_Player",
+            "CONCEPT"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "On",
+            "47_Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manchester United",
+            "GPE",
+            "On",
+            "47_Points",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manchester City",
+            "GPE",
+            "Leaders",
+            "15_Point_Advantage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Meet",
+            "Norwich City",
+            "GPE"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "In",
+            "FA_Cup_Replay",
+            "EVENT"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "At",
+            "Stamford Bridge",
+            "GPE"
+        ]
+    ]
+}

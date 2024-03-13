@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Evgeni Malkin",
+            "PERSON",
+            "Score",
+            "2 Goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Evgeni Malkin",
+            "PERSON",
+            "Assist",
+            "2 Goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "Win",
+            "4-1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "Operate_In",
+            "Ice Hockey Sector",
+            "SECTOR"
+        ],
+        [
+            "Detroit Red Wings",
+            "GPE",
+            "Lose",
+            "4-1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phil Kessel",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phil Kessel",
+            "PERSON",
+            "Assist",
+            "2 Goals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sidney Crosby",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sidney Crosby",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Carl Hagelin",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Olli Maatta",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tristan Jarry",
+            "PERSON",
+            "Control",
+            "Pittsburgh Goalkeeping",
+            "SECTOR"
+        ],
+        [
+            "Justin Abdelkader",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tomas Tatar",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Henrik Zetterberg",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jimmy Howard",
+            "PERSON",
+            "Control",
+            "Detroit Goalkeeping",
+            "SECTOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "Outshot",
+            "Detroit",
+            "GPE"
+        ],
+        [
+            "Detroit Red Wings",
+            "GPE",
+            "1-for-7",
+            "Power Play",
+            "SECTOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "2-1",
+            "First Period",
+            "SECTOR"
+        ],
+        [
+            "Evgeni Malkin",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Detroit Red Wings",
+            "GPE",
+            "Answer",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Justin Abdelkader",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phil Kessel",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sidney Crosby",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Evgeni Malkin",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phil Kessel",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "Outshot",
+            "Detroit",
+            "GPE"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "16-9",
+            "Second Period",
+            "SECTOR"
+        ],
+        [
+            "Sidney Crosby",
+            "PERSON",
+            "Score",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phil Kessel",
+            "PERSON",
+            "Assist",
+            "1 Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Detroit Red Wings",
+            "GPE",
+            "Playing",
+            "First Game",
+            "SECTOR"
+        ],
+        [
+            "Pittsburgh Penguins",
+            "GPE",
+            "Similar Break",
+            "After Game",
+            "SECTOR"
+        ]
+    ]
+}

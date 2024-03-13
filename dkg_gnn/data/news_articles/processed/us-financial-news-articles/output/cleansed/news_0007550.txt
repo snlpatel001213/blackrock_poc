@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Invacare Corp",
+            "COMP",
+            "Announce",
+            "FDA Notified Co",
+            "ORG/GOV"
+        ],
+        [
+            "Invacare Corp",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Invacare Corp",
+            "COMP",
+            "Control",
+            "Alber GMBH",
+            "ORG"
+        ],
+        [
+            "Alber GMBH",
+            "ORG",
+            "Relate_To",
+            "Warning Letter",
+            "CONCEPT"
+        ],
+        [
+            "Alber GMBH",
+            "ORG",
+            "Impact",
+            "Import Suspension",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Remove",
+            "Import Suspension",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Expect",
+            "Follow-up Inspection",
+            "CONCEPT"
+        ],
+        [
+            "Alber GMBH",
+            "ORG",
+            "Has",
+            "Albstadt",
+            "GPE"
+        ]
+    ]
+}

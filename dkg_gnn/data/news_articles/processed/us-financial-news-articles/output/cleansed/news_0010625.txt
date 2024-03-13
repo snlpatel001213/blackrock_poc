@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Movies with female lead roles",
+            "PRODUCT",
+            "Fair",
+            "null",
+            "null"
+        ],
+        [
+            "BAFTA",
+            "ORG",
+            "Nominate",
+            "Movies with female lead roles",
+            "PRODUCT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Not_Nominated",
+            "Main directing category",
+            "null"
+        ],
+        [
+            "Industry",
+            "CONCEPT",
+            "Highlight",
+            "Wider industry issue",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Brent",
+            "ECON_INDICATOR",
+            "Rise",
+            "10 pct",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Supported",
+            "OPEC-led cuts",
+            "ORG"
+        ],
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Supported",
+            "Strong economic growth",
+            "CONCEPT"
+        ],
+        [
+            "Tensions",
+            "CONCEPT",
+            "Lifted",
+            "Oil prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "OPEC",
+            "ORG/GOV"
+        ],
+        [
+            "WTI",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Brent",
+            "ECON_INDICATOR",
+            "Has",
+            "May 2015 high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WTI",
+            "ECON_INDICATOR",
+            "Has",
+            "May 2015 high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Relate_To",
+            "Political tensions",
+            "CONCEPT"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Supported",
+            "Production cuts",
+            "CONCEPT"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Supported",
+            "Strong economic growth",
+            "CONCEPT"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Supported",
+            "Financial markets",
+            "CONCEPT"
+        ],
+        [
+            "Markets",
+            "CONCEPT",
+            "Tighten",
+            "US Commercial crude inventories",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Commercial crude inventories",
+            "ECON_INDICATOR",
+            "Decrease",
+            "7.4 million barrels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Commercial crude inventories",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "5-year average",
+            "CONCEPT"
+        ],
+        [
+            "Doubts",
+            "CONCEPT",
+            "Emerge",
+            "Bull-run last",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Produce",
+            "Oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US",
+            "GPE",
+            "Produce",
+            "10 million barrels per day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Overly rosy picture",
+            "CONCEPT"
+        ],
+        [
+            "Disruptions",
+            "CONCEPT",
+            "Remain",
+            "Very distant threat",
+            "CONCEPT"
+        ],
+        [
+            "US oil production",
+            "ECON_INDICATOR",
+            "Climb",
+            "Historic highs",
+            "CONCEPT"
+        ],
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Upside",
+            "CONCEPT"
+        ],
+        [
+            "US shale",
+            "COMP",
+            "Threaten",
+            "Higher oil prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

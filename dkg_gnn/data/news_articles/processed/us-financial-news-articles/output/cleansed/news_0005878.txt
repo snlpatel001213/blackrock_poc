@@ -1,0 +1,183 @@
+{
+    "output": [
+        [
+            "National Weather Service",
+            "ORG",
+            "Impact",
+            "Bitter Cold",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Burke",
+            "PERSON",
+            "Relate_To",
+            "National Weather Service",
+            "ORG"
+        ],
+        [
+            "Patrick Burke",
+            "PERSON",
+            "Say",
+            "Temperatures Sunday Morning",
+            "CONCEPT"
+        ],
+        [
+            "South Carolina",
+            "GPE",
+            "Compare_To",
+            "Maine",
+            "GPE"
+        ],
+        [
+            "Temperatures Sunday Morning",
+            "CONCEPT",
+            "Could",
+            "Hit Record Lows",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Burke",
+            "PERSON",
+            "Say",
+            "Wind Won't Be As Punishing",
+            "CONCEPT"
+        ],
+        [
+            "Philadelphia",
+            "GPE",
+            "To",
+            "Boston",
+            "GPE"
+        ],
+        [
+            "Sunday Afternoon's High Temperatures",
+            "CONCEPT",
+            "Range",
+            "Low- To Mid-20s",
+            "CONCEPT"
+        ],
+        [
+            "Monday",
+            "CONCEPT",
+            "And",
+            "Tuesday",
+            "CONCEPT"
+        ],
+        [
+            "Many Northeast Residents",
+            "PERSON",
+            "Endure",
+            "Jaw-Clenching Temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Brutal Wind Chills",
+            "CONCEPT",
+            "On",
+            "Saturday",
+            "CONCEPT"
+        ],
+        [
+            "Cleanup",
+            "CONCEPT",
+            "Continued",
+            "From The Storm",
+            "CONCEPT"
+        ],
+        [
+            "Charleston International Airport",
+            "COMP",
+            "Struggle",
+            "Clear Runways",
+            "CONCEPT"
+        ],
+        [
+            "Snow And Ice",
+            "CONCEPT",
+            "So",
+            "Could Be Reopened",
+            "CONCEPT"
+        ],
+        [
+            "New England",
+            "GPE",
+            "Water Main Breaks",
+            "Frozen Hydrants",
+            "CONCEPT"
+        ],
+        [
+            "Bursted Pipes",
+            "CONCEPT",
+            "Created",
+            "New Problems",
+            "CONCEPT"
+        ],
+        [
+            "Hartford, Connecticut",
+            "GPE",
+            "Registered",
+            "10 Degrees",
+            "CONCEPT"
+        ],
+        [
+            "Wind Chill",
+            "CONCEPT",
+            "Of Minus 20",
+            "CONCEPT"
+        ],
+        [
+            "Burlington, Vermont",
+            "GPE",
+            "Was",
+            "Minus 1 Degree",
+            "CONCEPT"
+        ],
+        [
+            "Wind Chill",
+            "CONCEPT",
+            "Of Minus 30",
+            "CONCEPT"
+        ],
+        [
+            "Mount Washington Observatory",
+            "COMP",
+            "Tied",
+            "Second Place",
+            "CONCEPT"
+        ],
+        [
+            "Armstrong, Ontario",
+            "GPE",
+            "As",
+            "Coldest Spot",
+            "CONCEPT"
+        ],
+        [
+            "World",
+            "GPE",
+            "With",
+            "Minus 37",
+            "CONCEPT"
+        ],
+        [
+            "Wind Chill",
+            "CONCEPT",
+            "Of Minus 93",
+            "CONCEPT"
+        ],
+        [
+            "People At The Observatory",
+            "PERSON",
+            "Layer",
+            "Up",
+            "CONCEPT"
+        ],
+        [
+            "As Much As We Can",
+            "CONCEPT",
+            ".",
+            ".",
+            "."
+        ]
+    ]
+}

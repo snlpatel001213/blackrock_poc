@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Release",
+            "Patch",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Safari",
+            "PRODUCT",
+            "Participates_In",
+            "Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "iPhones",
+            "PRODUCT",
+            "Participates_In",
+            "Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "iPads",
+            "PRODUCT",
+            "Participates_In",
+            "Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Macs",
+            "PRODUCT",
+            "Participates_In",
+            "Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Nearly all computer chips",
+            "COMP",
+            "Control",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Release",
+            "Statement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Release",
+            "Statement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Android phones",
+            "PRODUCT",
+            "Protect",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Remain_Silent",
+            "About",
+            "CONCEPT"
+        ],
+        [
+            "Hundreds of millions of users",
+            "PERSON",
+            "Use",
+            "iPhones and iPads",
+            "PRODUCT"
+        ],
+        [
+            "Ben Johnson",
+            "PERSON",
+            "Co-founder",
+            "Carbon Black",
+            "COMP"
+        ],
+        [
+            "Carbon Black",
+            "COMP",
+            "Provide",
+            "Cyber_Security",
+            "SERVICE"
+        ]
+    ]
+}

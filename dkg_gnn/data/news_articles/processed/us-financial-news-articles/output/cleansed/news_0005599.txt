@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Publish",
+            "Stockholm blast",
+            "EVENT"
+        ],
+        [
+            "One man",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Happen",
+            "Outside",
+            "GPE"
+        ],
+        [
+            "Underground station",
+            "COMP",
+            "Located_In",
+            "Stockholm",
+            "GPE"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "See",
+            "No",
+            "CONCEPT"
+        ],
+        [
+            "Terrorism link",
+            "CONCEPT",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "Man",
+            "PERSON",
+            "Sustain",
+            "Fatal injuries",
+            "CONCEPT"
+        ],
+        [
+            "Object",
+            "PRODUCT",
+            "Pick_Up",
+            "Man",
+            "PERSON"
+        ],
+        [
+            "Hand grenade",
+            "PRODUCT",
+            "Thought_To_Have_Been",
+            "Object",
+            "PRODUCT"
+        ],
+        [
+            "Daily newspaper",
+            "COMP",
+            "Name",
+            "No sources",
+            "PERSON"
+        ],
+        [
+            "Aftonbladet",
+            "COMP",
+            "Same_As",
+            "Daily newspaper",
+            "COMP"
+        ],
+        [
+            "Murder investigation",
+            "EVENT",
+            "Launch",
+            "null",
+            "null"
+        ],
+        [
+            "Second person",
+            "PERSON",
+            "Injure",
+            "null",
+            "null"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Close",
+            "Varby Gard station",
+            "COMP"
+        ],
+        [
+            "Explosion",
+            "EVENT",
+            "Close",
+            "Adjacent square",
+            "COMP"
+        ],
+        [
+            "Police",
+            "ORG/GOV",
+            "Carry_Out",
+            "Checks",
+            "null"
+        ],
+        [
+            "Reporting",
+            "EVENT",
+            "By",
+            "Helena Soderpalm",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "EVENT",
+            "By",
+            "John Stonestreet",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dolly Varden Silver Corp",
+            "COMP",
+            "Announce",
+            "Change in CFO",
+            "PERSON"
+        ],
+        [
+            "Dolly Varden Silver Corp",
+            "COMP",
+            "Appoint",
+            "Melissa Martensen",
+            "PERSON"
+        ],
+        [
+            "Melissa Martensen",
+            "PERSON",
+            "Is_Member_Of",
+            "Dolly Varden Silver Corp",
+            "COMP"
+        ],
+        [
+            "Stephen Brohman",
+            "PERSON",
+            "Relate_To",
+            "Departure",
+            "CONCEPT"
+        ]
+    ]
+}

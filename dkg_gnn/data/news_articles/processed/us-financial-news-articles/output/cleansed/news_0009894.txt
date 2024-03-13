@@ -1,0 +1,150 @@
+{
+    "output": [
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Announce",
+            "Hire of John Lane",
+            "PERSON"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Has",
+            "More than 18 years of experience",
+            "CONCEPT"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Operate_In",
+            "Chief Strategy Officer",
+            "TITLE"
+        ],
+        [
+            "Centerline Digital",
+            "COMP",
+            "Operate_In",
+            "Agency",
+            "COMP"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Control",
+            "Creating digital marketing strategies",
+            "CONCEPT"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Control",
+            "Guiding the creation and activation of content and campaign plans",
+            "CONCEPT"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Relate_To",
+            "Social media",
+            "CONCEPT"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Relate_To",
+            "Owned and earned media",
+            "CONCEPT"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Participates_In",
+            "Variety of global clients",
+            "GPE"
+        ],
+        [
+            "John Lane",
+            "PERSON",
+            "Positive_Impact_On",
+            "Charles & Colvard",
+            "COMP"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Produce",
+            "Moissanite",
+            "PRODUCT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Operate_In",
+            "Fine jewelry industry",
+            "SECTOR"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Has",
+            "Decades of innovation",
+            "CONCEPT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Produce",
+            "Breathtaking and accessible jewelry",
+            "PRODUCT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Operate_In",
+            "Research Triangle Park area",
+            "GPE"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Sell",
+            "Forever One Moissanite",
+            "PRODUCT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Sell",
+            "Loose stones or set in a wide variety of quality metal setting options",
+            "CONCEPT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Sell",
+            "Direct to consumers",
+            "CONCEPT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Listed on the NASDAQ Global Select Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Charles & Colvard",
+            "COMP",
+            "Has",
+            "Common stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "charlesandcolvard.com",
+            "COMP",
+            "Sell",
+            "Direct to consumers",
+            "CONCEPT"
+        ]
+    ]
+}

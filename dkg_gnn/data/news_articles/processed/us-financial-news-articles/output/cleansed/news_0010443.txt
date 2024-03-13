@@ -1,0 +1,43 @@
+{
+    "output": [
+        [
+            "LOUDSPRING PLC",
+            "COMP",
+            "Leads",
+            "Financing Round",
+            "EVENT"
+        ],
+        [
+            "LOUDSPRING",
+            "COMP",
+            "Participates_In",
+            "Financing Round",
+            "EVENT"
+        ],
+        [
+            "LOUDSPRING",
+            "COMP",
+            "Control",
+            "15.6%",
+            "ECON_INDICATOR",
+            "of",
+            "RESQ"
+        ],
+        [
+            "LOUDSPRING",
+            "COMP",
+            "Impact",
+            "17.8%",
+            "ECON_INDICATOR",
+            "on",
+            "RESQ"
+        ],
+        [
+            "RESQ",
+            "COMP",
+            "Is_Member_Of",
+            "Portfolio Company",
+            "CONCEPT"
+        ]
+    ]
+}

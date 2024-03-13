@@ -1,0 +1,1 @@
+{'output': [['Shire', 'ORG', 'Is_Member_Of', 'Pharmaceutical Industry', 'SECTOR'], ['Flemming Ørnskov', 'PERSON', 'Invests_In', 'Shire', 'ORG'], ['Shire', 'ORG', 'Control', 'Pharmaceutical Products', 'PRODUCT'], ['Interview', 'EVENT', 'Relate_To', 'Shire', 'ORG'], ['Flemming Ørnskov', 'PERSON', 'Participates_In', 'Interview', 'EVENT']]}

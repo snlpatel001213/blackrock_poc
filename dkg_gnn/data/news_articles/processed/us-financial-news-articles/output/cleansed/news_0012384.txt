@@ -1,0 +1,177 @@
+{
+    "output": [
+        [
+            "Wall Street firm",
+            "ORG",
+            "Announce",
+            "meager Apple iPhone X sales",
+            "EVENT"
+        ],
+        [
+            "Taiwan Economic Daily",
+            "ORG",
+            "Report",
+            "iPhone X sales cut forecast",
+            "EVENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Cut",
+            "iPhone X sales forecast",
+            "EVENT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Has",
+            "unidentified sources",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "Technology sector",
+            "SECTOR"
+        ],
+        [
+            "John Vinh",
+            "PERSON",
+            "Write",
+            "note to clients",
+            "EVENT"
+        ],
+        [
+            "KeyBanc Capital Markets",
+            "ORG",
+            "Tell",
+            "clients",
+            "EVENT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Below",
+            "expectations",
+            "CONCEPT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Less",
+            "iPhone 8 models",
+            "PRODUCT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Disappointing",
+            "sell-through",
+            "CONCEPT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Price tag",
+            "CONCEPT"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Limited promotion",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Represent",
+            "79 percent",
+            "ECON_INDICATOR",
+            "of",
+            "Cirrus Logic sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cirrus Logic",
+            "COMP",
+            "Lowered",
+            "rating",
+            "EVENT",
+            "to",
+            "sector weight",
+            "CONCEPT",
+            "from",
+            "overweight"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Stock",
+            "Flat",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cirrus Logic",
+            "COMP",
+            "Stock",
+            "Fall",
+            "EVENT",
+            "2.2",
+            "percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Vinh",
+            "PERSON",
+            "Handset surveys",
+            "EVENT",
+            "indicate",
+            "current iPhone 8/X",
+            "PRODUCT",
+            "unlikely",
+            "CONCEPT",
+            "to",
+            "be",
+            "catalyst",
+            "CONCEPT",
+            "for",
+            "Cirrus Logic stock"
+        ],
+        [
+            "iPhone X",
+            "PRODUCT",
+            "Sell-through",
+            "Disappointing",
+            "CONCEPT"
+        ],
+        [
+            "iPhone 8",
+            "PRODUCT",
+            "Promotions",
+            "EVENT",
+            "effective",
+            "CONCEPT",
+            "in",
+            "driving",
+            "CONCEPT",
+            "healthy sell-through",
+            "CONCEPT",
+            "and",
+            "keeping",
+            "CONCEPT",
+            "inventories",
+            "CONCEPT",
+            "in check"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Cirrus Logic",
+            "COMP",
+            "Not immediately respond",
+            "EVENT",
+            "to requests for comment"
+        ]
+    ]
+}

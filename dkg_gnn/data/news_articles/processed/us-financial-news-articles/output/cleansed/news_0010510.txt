@@ -1,0 +1,27 @@
+{
+    "output": [
+        [
+            "L3 Technologies Inc.",
+            "COMP",
+            "Appoint",
+            "Sean J. Stackley",
+            "PERSON",
+            "Corporate Vice President",
+            "ORG_ROLE"
+        ],
+        [
+            "Sean J. Stackley",
+            "PERSON",
+            "Relate_To",
+            "Strategic Advanced Programs and Technology",
+            "CONCEPT"
+        ],
+        [
+            "L3 Technologies Inc.",
+            "COMP",
+            "Operate_In",
+            "Defense Industry",
+            "SECTOR"
+        ]
+    ]
+}

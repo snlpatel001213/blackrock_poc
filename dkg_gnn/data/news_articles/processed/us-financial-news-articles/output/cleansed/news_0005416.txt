@@ -1,0 +1,174 @@
+{
+    "output": [
+        [
+            "Japanese manufacturing activity",
+            "CONCEPT",
+            "Has",
+            "December final manufacturing PMI",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December final manufacturing PMI",
+            "ECON_INDICATOR",
+            "Highest",
+            "February 2014",
+            "TIME"
+        ],
+        [
+            "Japanese manufacturing activity",
+            "CONCEPT",
+            "Expand",
+            "fastest pace",
+            "DEGREE"
+        ],
+        [
+            "Japanese manufacturing activity",
+            "CONCEPT",
+            "New orders",
+            "accelerate",
+            "VERB"
+        ],
+        [
+            "Japanese manufacturing activity",
+            "CONCEPT",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Markit/Nikkei Japan Manufacturing Final Purchasing Managers Index",
+            "ECON_INDICATOR",
+            "Slightly below",
+            "54.2",
+            "NUM"
+        ],
+        [
+            "Markit/Nikkei Japan Manufacturing Final Purchasing Managers Index",
+            "ECON_INDICATOR",
+            "Above",
+            "53.6",
+            "NUM"
+        ],
+        [
+            "Markit/Nikkei Japan Manufacturing Final Purchasing Managers Index",
+            "ECON_INDICATOR",
+            "At",
+            "54.0",
+            "NUM"
+        ],
+        [
+            "Markit/Nikkei Japan Manufacturing Final Purchasing Managers Index",
+            "ECON_INDICATOR",
+            "Highest",
+            "since February 2014",
+            "TIME"
+        ],
+        [
+            "Index",
+            "CONCEPT",
+            "Remain",
+            "above",
+            "50 threshold",
+            "NUM"
+        ],
+        [
+            "Index",
+            "CONCEPT",
+            "Separates",
+            "contraction",
+            "CONCEPT"
+        ],
+        [
+            "Index",
+            "CONCEPT",
+            "Expansion",
+            "16th straight month",
+            "TIME"
+        ],
+        [
+            "Japanese manufacturing sector",
+            "CONCEPT",
+            "Conclude",
+            "Q4",
+            "TIME"
+        ],
+        [
+            "Japanese manufacturing sector",
+            "CONCEPT",
+            "Highest PMI reading",
+            "since February 2014",
+            "TIME"
+        ],
+        [
+            "Output growth",
+            "CONCEPT",
+            "Accelerate",
+            "fifth month",
+            "TIME"
+        ],
+        [
+            "New business opportunities",
+            "CONCEPT",
+            "Rise",
+            "sharply",
+            "DEGREE"
+        ],
+        [
+            "Final index for new orders",
+            "ECON_INDICATOR",
+            "Below",
+            "56.6",
+            "NUM"
+        ],
+        [
+            "Final index for new orders",
+            "ECON_INDICATOR",
+            "Above",
+            "54.7",
+            "NUM"
+        ],
+        [
+            "Final output price index",
+            "ECON_INDICATOR",
+            "Less than",
+            "51.4",
+            "NUM"
+        ],
+        [
+            "Final output price index",
+            "ECON_INDICATOR",
+            "Below",
+            "51.3",
+            "NUM"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Task",
+            "Secure parliamentary approval",
+            "VERB",
+            "National budget",
+            "PRODUCT",
+            "fiscal 2018",
+            "TIME"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Approve",
+            "Record budget",
+            "PRODUCT",
+            "fiscal 2018",
+            "TIME"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Hope",
+            "Keep economy",
+            "CONCEPT",
+            "Track for sustained recovery",
+            "VERB"
+        ]
+    ]
+}

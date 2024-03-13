@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Game of Thrones",
+            "EVENT",
+            "End",
+            "2019",
+            "GPE"
+        ],
+        [
+            "Game of Thrones",
+            "EVENT",
+            "Has",
+            "8 Seasons",
+            "QUANTITY"
+        ],
+        [
+            "Game of Thrones",
+            "EVENT",
+            "Produce",
+            "6 Episodes",
+            "QUANTITY"
+        ],
+        [
+            "Game of Thrones",
+            "EVENT",
+            "Announce",
+            "HBO",
+            "ORG"
+        ],
+        [
+            "HBO",
+            "ORG",
+            "Air",
+            "Game of Thrones",
+            "EVENT"
+        ]
+    ]
+}

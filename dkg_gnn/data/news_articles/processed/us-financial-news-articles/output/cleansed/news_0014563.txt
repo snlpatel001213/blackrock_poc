@@ -1,0 +1,38 @@
+{
+    "output": [
+        [
+            "BMC Stock Holdings Inc",
+            "COMP",
+            "Name",
+            "David L. Keltner",
+            "PERSON",
+            "Is_Member_Of",
+            "Interim CEO",
+            "TITLE"
+        ],
+        [
+            "BMC Stock Holdings Inc",
+            "COMP",
+            "Name",
+            "Peter Alexander",
+            "PERSON",
+            "Step_Down",
+            "Interim CEO",
+            "TITLE"
+        ],
+        [
+            "BMC Stock Holdings Inc",
+            "COMP",
+            "Participates_In",
+            "Board",
+            "ORG",
+            "Conduct",
+            "Search",
+            "EVENT",
+            "For",
+            "NEW",
+            "CEO",
+            "TITLE"
+        ]
+    ]
+}

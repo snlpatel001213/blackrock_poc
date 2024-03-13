@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Statkraft",
+            "ORG",
+            "Reduce",
+            "Power Trading Operations",
+            "ORG"
+        ],
+        [
+            "Statkraft",
+            "ORG",
+            "Operate",
+            "Two Hydropower Plants",
+            "ORG"
+        ],
+        [
+            "Statkraft",
+            "ORG",
+            "Sell",
+            "Unfinished Hydropower Plant",
+            "ORG"
+        ],
+        [
+            "Statkraft",
+            "ORG",
+            "Own",
+            "Two Remaining Plants",
+            "ORG"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Have",
+            "Declining Market Liquidity",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Have",
+            "Unpredictable Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Have",
+            "Failed Coup Attempt",
+            "EVENT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Have",
+            "Foreign Investor Appetite Decline",
+            "CONCEPT"
+        ]
+    ]
+}

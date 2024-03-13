@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Cricket-Stokes included in England T20 squad for tri-series",
+            "EVENT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Participates_In",
+            "England T20 squad for tri-series",
+            "EVENT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Relate_To",
+            "Altercation outside a nightclub",
+            "EVENT"
+        ],
+        [
+            "Mooen Ali",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Jonny Bairstow",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Dawid Malan",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Mark Wood",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "James Vince",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Sam Billings",
+            "PERSON",
+            "Is_Member_Of",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "ECB",
+            "ORG/GOV",
+            "Control",
+            "England T20 squad",
+            "SECTOR"
+        ],
+        [
+            "Crown Prosecution Service",
+            "ORG/REG",
+            "Control",
+            "Stokes case",
+            "EVENT"
+        ],
+        [
+            "Sydney",
+            "GPE",
+            "Host",
+            "Tournament",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Participates_In",
+            "Tournament",
+            "EVENT"
+        ],
+        [
+            "New Zealand",
+            "GPE",
+            "Participates_In",
+            "Tournament",
+            "EVENT"
+        ],
+        [
+            "Hobart",
+            "GPE",
+            "Host",
+            "Match",
+            "EVENT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Participates_In",
+            "Match",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Participates_In",
+            "Tournament",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Participates_In",
+            "Match",
+            "EVENT"
+        ]
+    ]
+}

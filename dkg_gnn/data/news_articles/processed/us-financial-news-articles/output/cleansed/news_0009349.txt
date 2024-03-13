@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Is_Member_Of",
+            "National Board for Respiratory Care",
+            "ORG"
+        ],
+        [
+            "National Board for Respiratory Care",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "CEO",
+            "National Board for Respiratory Care",
+            "ORG"
+        ],
+        [
+            "National Board for Respiratory Care",
+            "ORG",
+            "Has",
+            "Respiratory care practitioners",
+            "PERSON"
+        ],
+        [
+            "National Board for Respiratory Care",
+            "ORG",
+            "Credentialing_Board",
+            "Respiratory care practitioners",
+            "PERSON"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Named_One_Of",
+            "Top 25 Women Who Mean Business",
+            "CONCEPT"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Volunteers_On",
+            "Johnson County Community College Foundation",
+            "ORG"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Chaired",
+            "Olathe Chamber of Commerce",
+            "ORG"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Chaired",
+            "Mayor\u2019s Christmas Tree Fund",
+            "ORG"
+        ],
+        [
+            "Lori Tinkler",
+            "PERSON",
+            "Mentor",
+            "Young professionals",
+            "PERSON"
+        ],
+        [
+            "National Board for Respiratory Care",
+            "ORG",
+            "Has",
+            "Great team",
+            "PERSON"
+        ],
+        [
+            "Great team",
+            "PERSON",
+            "Provide",
+            "Excellent customer service",
+            "CONCEPT"
+        ],
+        [
+            "Great team",
+            "PERSON",
+            "Create_And_Innovate",
+            "Ensure competency",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "output": [
+        [
+            "Mercury Systems Inc",
+            "COMP",
+            "Receive",
+            "A $4.6 Mln Follow-On Order",
+            "ORDER"
+        ],
+        [
+            "Mercury Systems Inc",
+            "COMP",
+            "Operate_In",
+            "Defense",
+            "SECTOR"
+        ],
+        [
+            "A Leading Defense Prime Contractor",
+            "ORG",
+            "Place",
+            "Order",
+            "ORDER"
+        ],
+        [
+            "A Leading Defense Prime Contractor",
+            "ORG",
+            "Operate_In",
+            "Defense",
+            "SECTOR"
+        ],
+        [
+            "Mercury Systems Inc",
+            "COMP",
+            "Book",
+            "Order",
+            "ORDER",
+            "In",
+            "Fiscal 2018 Q2",
+            "TIME"
+        ],
+        [
+            "Mercury Systems Inc",
+            "COMP",
+            "Expect",
+            "Order",
+            "ORDER",
+            "To Be Shipped",
+            "null",
+            "Over",
+            "Next Several Quarters",
+            "TIME"
+        ]
+    ]
+}

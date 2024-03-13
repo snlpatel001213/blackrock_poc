@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "AIIB",
+            "ORG",
+            "Has",
+            "China",
+            "GPE"
+        ],
+        [
+            "AIIB",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "AIIB",
+            "ORG",
+            "Introduce",
+            "U.S. Dollar-denominated Bond",
+            "PRODUCT"
+        ],
+        [
+            "Soren Elbech",
+            "PERSON",
+            "Is_Member_Of",
+            "AIIB",
+            "ORG"
+        ],
+        [
+            "AIIB",
+            "ORG",
+            "Plan",
+            "$3 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AIIB",
+            "ORG",
+            "Impact",
+            "Infrastructure Spending",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "United Nations Security Council",
+            "GPE",
+            "Discuss",
+            "Iran's Civil Unrest",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Criticize",
+            "France",
+            "PERSON"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Request",
+            "Meet",
+            "ORG/REG"
+        ],
+        [
+            "France",
+            "PERSON",
+            "Criticize",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Member States",
+            "GPE",
+            "Said",
+            "Issue",
+            "EVENT"
+        ],
+        [
+            "Tehran",
+            "GPE",
+            "Internal Issue",
+            "Iran's Civil Unrest",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "British economic growth",
+            "ECON_INDICATOR",
+            "Hit",
+            "One-year high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British economic growth",
+            "ECON_INDICATOR",
+            "Forecast",
+            "0.6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NIESR",
+            "ORG",
+            "Forecast",
+            "2017 annual average economic growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NIESR",
+            "ORG",
+            "Consistent",
+            "Gradual withdrawal of monetary policy stimulus",
+            "CONCEPT"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "On track",
+            "Raise interest rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Raise",
+            "Interest rates",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Societe Quantel Sa",
+            "COMP",
+            "Issue",
+            "Response",
+            "EVENT"
+        ],
+        [
+            "Quantel",
+            "COMP",
+            "Relate_To",
+            "Iridex Press Release",
+            "EVENT"
+        ],
+        [
+            "Quantel",
+            "COMP",
+            "Do_Not_Anticipate",
+            "Any Disruption",
+            "CONCEPT"
+        ],
+        [
+            "Quantel",
+            "COMP",
+            "Operate_In",
+            "Commercial Progress",
+            "CONCEPT"
+        ],
+        [
+            "Quantel",
+            "COMP",
+            "Believe",
+            "Iridex Action Is Without Merit",
+            "EVENT"
+        ],
+        [
+            "Quantel",
+            "COMP",
+            "Intend",
+            "Vigorously Defend",
+            "CONCEPT"
+        ]
+    ]
+}

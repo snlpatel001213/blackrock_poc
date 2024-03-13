@@ -1,0 +1,87 @@
+{
+    "output": [
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Announce",
+            "CEO Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "PARSLEY ENERGY",
+            "ORG",
+            "Is_Member_Of",
+            "SECTOR"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Bryan Sheffield",
+            "PERSON",
+            "Will Be Succeeded As",
+            "CEO",
+            "PERSON",
+            "By",
+            "Matt Gallagher",
+            "PERSON"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Matt Gallagher",
+            "PERSON",
+            "Appointed To",
+            "COS Board Of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Bryan Sheffield",
+            "PERSON",
+            "Serve As",
+            "CEO",
+            "PERSON",
+            "Through End Of",
+            "2018",
+            "TEMPORAL"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Bryan Sheffield",
+            "PERSON",
+            "In Position Of",
+            "Executive Chairman",
+            "ORG",
+            "Throughout",
+            "2019",
+            "TEMPORAL"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Board",
+            "ORG",
+            "Determined To",
+            "Separate Roles Of Chairman",
+            "ORG",
+            "& CEO",
+            "PERSON",
+            "At Time Of",
+            "Sheffield\u2019s Transition To Executive Chairman",
+            "PERSON"
+        ],
+        [
+            "Parsley Energy Inc",
+            "COMP",
+            "Further Company Coverage",
+            "CONCEPT",
+            "Source Text For",
+            "Eikon",
+            "ORG/REG"
+        ]
+    ]
+}

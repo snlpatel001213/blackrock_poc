@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jay Leno",
+            "PERSON",
+            "Discuss",
+            "car",
+            "PRODUCT"
+        ],
+        [
+            "car",
+            "PRODUCT",
+            "Run_On",
+            "steam",
+            "CONCEPT"
+        ],
+        [
+            "car",
+            "PRODUCT",
+            "Increase_In_Value",
+            "5 years",
+            "TIME"
+        ],
+        [
+            "car",
+            "PRODUCT",
+            "Current_Value",
+            "now",
+            "TIME"
+        ]
+    ]
+}

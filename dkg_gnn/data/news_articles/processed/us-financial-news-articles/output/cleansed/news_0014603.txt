@@ -1,0 +1,208 @@
+{
+    "output": [
+        [
+            "SpaceX",
+            "COMP",
+            "Operate_In",
+            "CAPE CANAVERAL",
+            "GPE"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Defend",
+            "Rocket Performance",
+            "CONCEPT"
+        ],
+        [
+            "Gwynne Shotwell",
+            "PERSON",
+            "Say",
+            "Company President",
+            "ORG/REG"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Do",
+            "Everything Correctly",
+            "CONCEPT"
+        ],
+        [
+            "Media Reports",
+            "ORG",
+            "Suggest",
+            "Zuma Satellite Lost",
+            "EVENT"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Be",
+            "Secret U.S. Satellite",
+            "ORG/GOV"
+        ],
+        [
+            "Northrop Grumman",
+            "COMP",
+            "Provide",
+            "Zuma",
+            "PRODUCT"
+        ],
+        [
+            "Northrop Grumman",
+            "COMP",
+            "Cannot Comment",
+            "Classified Missions",
+            "EVENT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Choose",
+            "Launch Provider",
+            "ORG"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Take",
+            "Great Care",
+            "CONCEPT"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Be",
+            "Lucrative Customer",
+            "ORG"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Have",
+            "Three Classified Mission",
+            "EVENT"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "First Stage",
+            "Complete Job",
+            "CONCEPT"
+        ],
+        [
+            "Falcon 9",
+            "PRODUCT",
+            "Separate",
+            "Land Back",
+            "GPE"
+        ],
+        [
+            "Rocket Second Stage",
+            "PRODUCT",
+            "Propel",
+            "Satellite Into Orbit",
+            "CONCEPT"
+        ],
+        [
+            "Wall Street Journal",
+            "COMP",
+            "Quote",
+            "Unidentified Congressional Officials",
+            "ORG"
+        ],
+        [
+            "Unidentified Congressional Officials",
+            "PERSON",
+            "Be Briefed",
+            "Mission",
+            "EVENT"
+        ],
+        [
+            "Satellite",
+            "PRODUCT",
+            "Apparently Not Separate",
+            "Rocket Second Stage",
+            "PRODUCT"
+        ],
+        [
+            "Satellite",
+            "PRODUCT",
+            "Plunge",
+            "Atmosphere",
+            "CONCEPT"
+        ],
+        [
+            "Satellite",
+            "PRODUCT",
+            "Burn Up",
+            "CONCEPT"
+        ],
+        [
+            "Zuma",
+            "PRODUCT",
+            "Delay",
+            "Potential Concern",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Later Say",
+            "Clear Issue",
+            "CONCEPT"
+        ],
+        [
+            "Shotwell",
+            "PERSON",
+            "Say",
+            "Launch Schedule Remain On Track",
+            "CONCEPT"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Shooting",
+            "More Flights",
+            "EVENT",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Falcon Heavy",
+            "PRODUCT",
+            "At",
+            "Launch Pad",
+            "GPE"
+        ],
+        [
+            "SpaceX",
+            "COMP",
+            "Aim",
+            "Launch Heavy",
+            "PRODUCT"
+        ],
+        [
+            "Elon Musk",
+            "PERSON",
+            "Own",
+            "Personal Tesla Roadster",
+            "PRODUCT"
+        ],
+        [
+            "Another Falcon 9",
+            "PRODUCT",
+            "Scheduled",
+            "Fly",
+            "CONCEPT"
+        ],
+        [
+            "Communication Satellite",
+            "PRODUCT",
+            "For",
+            "Luxembourg",
+            "GPE"
+        ]
+    ]
+}

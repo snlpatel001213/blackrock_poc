@@ -1,0 +1,66 @@
+{
+    "output": [
+        [
+            "AmTrust Financial Services Inc.",
+            "COMP",
+            "Has",
+            "Workers\u2019 Compensation Insurer",
+            "PRODUCT"
+        ],
+        [
+            "Founding Family",
+            "PERSON",
+            "Propose",
+            "Taking Private",
+            "EVENT",
+            "AmTrust Financial Services Inc.",
+            "COMP"
+        ],
+        [
+            "AmTrust Financial Services Inc.",
+            "COMP",
+            "Operate_In",
+            "Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "19%",
+            "ECON_INDICATOR",
+            "In After-Hours Trading",
+            "EVENT"
+        ],
+        [
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Has",
+            "$12.10",
+            "ECON_INDICATOR",
+            "Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Negative_Impact_On",
+            "Shares Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Relate_To",
+            "Cash Infusions",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Strengthen",
+            "Financial Position",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "PMX Agency",
+            "ORG",
+            "Named",
+            "Jeff Johnson",
+            "PERSON"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Operate_In",
+            "Corporate Development and Marketing teams",
+            "ORG"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Is_Member_Of",
+            "PMX Agency",
+            "ORG"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_Closely_With",
+            "Brands",
+            "GPE"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Acted_As",
+            "Global Chief Client Officer",
+            "TITLE"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Brings",
+            "Expertise",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Possesses",
+            "Industry Insight",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Relate_To",
+            "PMX Agency's corporate vision",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Relate_To",
+            "PMX Agency's unique performance and brand based marketing programs",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_With",
+            "Largest Brands",
+            "GPE"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_At",
+            "iProspect",
+            "ORG"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_At",
+            "Dentsu Aegis Network",
+            "ORG"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_At",
+            "Covario",
+            "ORG"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Involved_In",
+            "Multiple Acquisitions",
+            "EVENT"
+        ],
+        [
+            "Jeff Johnson",
+            "PERSON",
+            "Worked_At",
+            "iCrossing",
+            "ORG"
+        ],
+        [
+            "PMX Agency",
+            "ORG",
+            "See",
+            "Tremendous Opportunity",
+            "CONCEPT"
+        ],
+        [
+            "PMX Agency",
+            "ORG",
+            "Focused_On",
+            "Critical Need",
+            "CONCEPT"
+        ],
+        [
+            "PMX Agency",
+            "ORG",
+            "Focused_On",
+            "Close the Gap",
+            "CONCEPT"
+        ],
+        [
+            "PMX Agency",
+            "ORG",
+            "Focused_On",
+            "Performance and Brand Marketing",
+            "CONCEPT"
+        ],
+        [
+            "PMX Agency",
+            "ORG",
+            "Member_Of",
+            "Stagwell Group",
+            "ORG"
+        ],
+        [
+            "Stagwell Group",
+            "ORG",
+            "Reinvent",
+            "Holding Company",
+            "ORG"
+        ]
+    ]
+}

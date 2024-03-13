@@ -1,0 +1,1 @@
+{'output': [['ISS', 'ORG', 'Extends', 'Partnership', 'ORG'], ['Partnership', 'ORG', 'Operate_In', 'Hewlett Packard Enterprise', 'COMP'], ['Hewlett Packard Enterprise', 'COMP', 'Has', 'Contract', 'ORG'], ['Contract', 'ORG', 'Extend', '2021', 'TIME'], ['Contract', 'ORG', 'Relate_To', 'Existing Contract', 'ORG'], ['Existing Contract', 'ORG', 'Has', 'Same Scope', 'CONCEPT']]}

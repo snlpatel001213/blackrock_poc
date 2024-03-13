@@ -1,0 +1,93 @@
+{
+    "output": [
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Is_Member_Of",
+            "Politburo",
+            "ORG/GOV"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Operate_In",
+            "PetroVietnam",
+            "ORG"
+        ],
+        [
+            "PetroVietnam",
+            "ORG",
+            "Losses",
+            "Hundreds of millions of dollars",
+            "NUM"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Face",
+            "14 to 15 years in jail",
+            "NUM"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Deliberate violation of state regulations on economic management",
+            "null"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Is_Member_Of",
+            "PetroVietnam Construction",
+            "ORG"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused",
+            "Losses of more than $150 million",
+            "NUM"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Face",
+            "Life in prison",
+            "NUM"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Denied",
+            "Accusations of handling bags of money sent to officials as bribes",
+            "null"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused",
+            "Embezzlement",
+            "null"
+        ],
+        [
+            "Nguyen Phu Trong",
+            "PERSON",
+            "Won",
+            "Power struggle",
+            "null"
+        ],
+        [
+            "Nguyen Tan Dung",
+            "PERSON",
+            "Former prime minister",
+            "null"
+        ],
+        [
+            "Nguyen Tan Dung",
+            "PERSON",
+            "Took",
+            "Key decision that led to PetroVietnam\u2019s losses",
+            "null"
+        ]
+    ]
+}

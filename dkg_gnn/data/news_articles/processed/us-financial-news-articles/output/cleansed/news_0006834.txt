@@ -1,0 +1,31 @@
+{
+    "output": [
+        [
+            "Tuna",
+            "PRODUCT",
+            "Sells",
+            "More than $300,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tuna",
+            "PRODUCT",
+            "Sells",
+            "At",
+            "Tuna auction"
+        ],
+        [
+            "Tuna auction",
+            "EVENT",
+            "Occurs",
+            "In",
+            "Tokyo"
+        ],
+        [
+            "Tuna",
+            "PRODUCT",
+            "Relate_To",
+            "Tokyo Fish Market"
+        ]
+    ]
+}

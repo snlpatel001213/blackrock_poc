@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Wal-Mart de Mexico",
+            "COMP",
+            "Announce",
+            "Sales Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wal-Mart de Mexico",
+            "COMP",
+            "Operate_In",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Sales at its Mexican stores",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Sales Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sales at its Mexican stores",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Sales Rise",
+            "ECON_INDICATOR",
+            "Impact",
+            "Wal-Mart de Mexico",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Has",
+            "hydrochlorothiazide",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Provide",
+            "urine sample",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Operate_In",
+            "Swedish Open",
+            "EVENT"
+        ],
+        [
+            "hydrochlorothiazide",
+            "CONCEPT",
+            "Contain",
+            "urine sample",
+            "CONCEPT"
+        ],
+        [
+            "hydrochlorothiazide",
+            "CONCEPT",
+            "Can",
+            "mask other substances",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Refuse",
+            "voluntary provisional suspension",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Admit",
+            "prompt",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Impact",
+            "delays",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Participates_In",
+            "Tennis Anti-Doping Programme",
+            "ORG"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Control",
+            "low ranking",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Raise",
+            "not guilty",
+            "CONCEPT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Negative_Impact_On",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Thomaz Bellucci",
+            "PERSON",
+            "Miss",
+            "Jan. 15-28 Australian Open",
+            "EVENT"
+        ]
+    ]
+}

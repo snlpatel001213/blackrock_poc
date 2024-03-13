@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Resign",
+            "Britain\u2019s Northern Ireland minister",
+            "ORG/GOV"
+        ],
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Has",
+            "ill-health",
+            "CONCEPT"
+        ],
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Participates_In",
+            "cabinet reshuffle",
+            "EVENT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Operate_In",
+            "Britain\u2019s Government",
+            "ORG/GOV"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Control",
+            "cabinet reshuffle",
+            "EVENT"
+        ],
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Control",
+            "government efforts",
+            "CONCEPT"
+        ],
+        [
+            "government efforts",
+            "CONCEPT",
+            "Relate_To",
+            "restore the devolved Northern Irish executive",
+            "CONCEPT"
+        ],
+        [
+            "power sharing",
+            "CONCEPT",
+            "Collapse",
+            "last year",
+            "TEMPORAL"
+        ],
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Undergo",
+            "major surgery",
+            "CONCEPT"
+        ],
+        [
+            "James Brokenshire",
+            "PERSON",
+            "Has",
+            "small lesion",
+            "CONCEPT"
+        ],
+        [
+            "small lesion",
+            "CONCEPT",
+            "Locate_On",
+            "right lung",
+            "BODY_PART"
+        ]
+    ]
+}

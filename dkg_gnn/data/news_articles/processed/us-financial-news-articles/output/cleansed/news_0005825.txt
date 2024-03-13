@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Move",
+            "West",
+            "GPE"
+        ],
+        [
+            "Napoleon Bonaparte",
+            "PERSON",
+            "Bestride",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Rise",
+            "Prominence",
+            "GPE"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Military",
+            "Political",
+            "Tactician"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Build",
+            "Small Zulu Chiefdom",
+            "ORG"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Rule",
+            "Zulu Kingdom",
+            "ORG"
+        ],
+        [
+            "Zulu Kingdom",
+            "ORG",
+            "Endure",
+            "Today",
+            "TIME"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Murder",
+            "1828",
+            "TIME"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Many Details",
+            "Life",
+            "EVENT"
+        ],
+        [
+            "Shaka",
+            "PERSON",
+            "Many Details",
+            "Exploits",
+            "EVENT"
+        ],
+        [
+            "Legend",
+            "CONCEPT",
+            "Belong",
+            "Shaka Details",
+            "EVENT"
+        ],
+        [
+            "Contentious Historical Record",
+            "CONCEPT",
+            "Belong",
+            "Shaka Details",
+            "EVENT"
+        ],
+        [
+            "Young Readers",
+            "PERSON",
+            "Read",
+            "Shaka Rising",
+            "PRODUCT"
+        ],
+        [
+            "Story Press Africa",
+            "ORG",
+            "Publish",
+            "Shaka Rising",
+            "PRODUCT"
+        ]
+    ]
+}

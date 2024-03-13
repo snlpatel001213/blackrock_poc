@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "11 Saudi princes",
+            "PERSON",
+            "Participates_In",
+            "Protest",
+            "EVENT"
+        ],
+        [
+            "Saudi princes",
+            "PERSON",
+            "Arrest",
+            "null",
+            "null"
+        ],
+        [
+            "Protest",
+            "EVENT",
+            "Locate_At",
+            "Royal Palace",
+            "GPE"
+        ],
+        [
+            "Saudi",
+            "GPE",
+            "Relate_To",
+            "Corruption Crackdown",
+            "EVENT"
+        ],
+        [
+            "Saudi elite",
+            "PERSON",
+            "Impact",
+            "Corruption Crackdown",
+            "EVENT"
+        ]
+    ]
+}

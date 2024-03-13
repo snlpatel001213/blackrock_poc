@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "TP ICAP Plc",
+            "COMP",
+            "Buy",
+            "SCS Commodities Corp",
+            "COMP"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Operate_In",
+            "Energy and Commodities Division",
+            "SECTOR"
+        ],
+        [
+            "SCS Commodities Corp",
+            "COMP",
+            "Founded",
+            null,
+            "CONCEPT"
+        ],
+        [
+            "SCS Commodities Corp",
+            "COMP",
+            "Headquartered",
+            "New Jersey",
+            "GPE"
+        ],
+        [
+            "SCS Commodities Corp",
+            "COMP",
+            "Sold",
+            "Five Partners and a Corporate Entity",
+            "ORG"
+        ],
+        [
+            "SCS",
+            "COMP",
+            "Reported",
+            "$14.3 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SCS",
+            "COMP",
+            "Reported",
+            "$0.8 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Reported",
+            "1 Percent Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Reported",
+            "Challenging Outlook",
+            "CONCEPT"
+        ],
+        [
+            "TP ICAP",
+            "COMP",
+            "Finance Director Leaving",
+            null,
+            "CONCEPT"
+        ]
+    ]
+}

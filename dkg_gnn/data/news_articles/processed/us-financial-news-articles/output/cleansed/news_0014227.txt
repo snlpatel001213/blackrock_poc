@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "American tourist",
+            "PERSON",
+            "Die",
+            "Californian man",
+            "PERSON"
+        ],
+        [
+            "Californian man",
+            "PERSON",
+            "Hike",
+            "Larapinta Trail",
+            "GPE"
+        ],
+        [
+            "Larapinta Trail",
+            "GPE",
+            "Locate",
+            "Body",
+            "PERSON"
+        ],
+        [
+            "Californian man",
+            "PERSON",
+            "Turn",
+            "Wrong way",
+            "CONCEPT"
+        ],
+        [
+            "Larapinta Trail",
+            "GPE",
+            "Have",
+            "Little shade",
+            "CONCEPT"
+        ],
+        [
+            "Californian man",
+            "PERSON",
+            "Carry",
+            "Limited supplies of water",
+            "CONCEPT"
+        ],
+        [
+            "Larapinta Trail",
+            "GPE",
+            "Pose",
+            "Risk of dehydration",
+            "CONCEPT"
+        ],
+        [
+            "Larapinta Trail",
+            "GPE",
+            "Temperature",
+            "42 degrees Celsius",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Australian outback",
+            "GPE",
+            "Have",
+            "Sweltering conditions",
+            "CONCEPT"
+        ]
+    ]
+}
