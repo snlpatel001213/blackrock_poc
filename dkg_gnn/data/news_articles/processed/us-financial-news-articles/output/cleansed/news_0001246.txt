@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Morning News Call - India",
+            "EVENT"
+        ],
+        [
+            "Dalits",
+            "CONCEPT",
+            "Protest",
+            "Mumbai",
+            "GPE"
+        ],
+        [
+            "Indian parliament",
+            "ORG/GOV",
+            "Approve",
+            "Amendments",
+            "EVENT"
+        ],
+        [
+            "Zambia Vedanta unit",
+            "COMP",
+            "Ordered",
+            "Pay",
+            "EVENT"
+        ],
+        [
+            "Principal Financial",
+            "COMP",
+            "Buy",
+            "PNB",
+            "COMP"
+        ],
+        [
+            "U.S. ambassador",
+            "PERSON",
+            "Warn",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "U.S. government panel",
+            "ORG/REG",
+            "Reject",
+            "Ant Financial",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Signal",
+            "Support",
+            "EVENT"
+        ],
+        [
+            "SGX Nifty Futures",
+            "PRODUCT",
+            "Trade",
+            "10,473.00",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Indian rupee",
+            "CURRENCY",
+            "Edge",
+            "Steady",
+            "RELATE_TO"
+        ],
+        [
+            "Indian government bonds",
+            "PRODUCT",
+            "Edge",
+            "Lower",
+            "RELATE_TO"
+        ],
+        [
+            "U.S. stocks",
+            "PRODUCT",
+            "Rise",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Asian stocks",
+            "PRODUCT",
+            "Strike",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "CURRENCY",
+            "Trade",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Treasury yields",
+            "PRODUCT",
+            "Rise",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Oil prices",
+            "PRODUCT",
+            "Stable",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold prices",
+            "PRODUCT",
+            "Edge",
+            "High",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

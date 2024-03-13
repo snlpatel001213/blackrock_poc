@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Bearded Dragons",
+            "PERSON",
+            "Relate_To",
+            "Cognitive Tasks",
+            "CONCEPT"
+        ],
+        [
+            "Colder Environments",
+            "GPE",
+            "Positive_Impact_On",
+            "Bearded Dragons",
+            "PERSON"
+        ],
+        [
+            "Warmer Temperatures",
+            "GPE",
+            "Negative_Impact_On",
+            "Bearded Dragons",
+            "PERSON"
+        ]
+    ]
+}

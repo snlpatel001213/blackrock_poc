@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mechel PAO",
+            "COMP",
+            "Is_Member_Of",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Mechel PAO",
+            "COMP",
+            "Appoint",
+            "Nelli Galeeva",
+            "PERSON"
+        ],
+        [
+            "Nelli Galeeva",
+            "PERSON",
+            "Relate_To",
+            "Chief Financial Officer",
+            "CONCEPT"
+        ]
+    ]
+}

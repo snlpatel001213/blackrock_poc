@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Canada",
+            "GPE",
+            "Dip",
+            "Auto Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Rise",
+            "Auto Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Cross",
+            "2 Million Mark",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global Automakers of Canada (GAC)",
+            "ORG",
+            "Publish",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Rise",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Fall",
+            "Rivals Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Sell",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Sell",
+            "Chevrolet",
+            "PRODUCT"
+        ],
+        [
+            "General Motors Co",
+            "COMP",
+            "Sell",
+            "302,826 Vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fiat Chrysler Automobiles (FCAU.N)",
+            "COMP",
+            "Fall",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fiat Chrysler Automobiles (FCAU.N)",
+            "COMP",
+            "Hurt",
+            "Demand",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fiat Chrysler Automobiles (FCAU.N)",
+            "COMP",
+            "Sell",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Drop",
+            "Monthly Auto Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Up",
+            "Full-Year Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ford",
+            "COMP",
+            "Sell",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Scotiabank",
+            "COMP",
+            "Expect",
+            "Decline in Auto Sales",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

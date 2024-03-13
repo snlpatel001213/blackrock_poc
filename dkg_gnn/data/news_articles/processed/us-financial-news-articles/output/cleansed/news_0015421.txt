@@ -1,0 +1,69 @@
+{
+    "output": [
+        [
+            "U.S. Airlines",
+            "ORG",
+            "Beneficiaries_Of",
+            "Tax Plan",
+            "EVENT"
+        ],
+        [
+            "U.S. Airlines",
+            "ORG",
+            "At_Greatest_Danger_Of",
+            "Competing_Away_Their_Tax_Gains",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Airlines",
+            "ORG",
+            "Has",
+            "Income",
+            "ECON_INDICATOR",
+            "Taxed",
+            "Domestically",
+            "GPE"
+        ],
+        [
+            "U.S. Airlines",
+            "ORG",
+            "Has",
+            "Tax_Bill",
+            "ECON_INDICATOR",
+            "Reduced_Markedly",
+            "CONCEPT",
+            "More_Than",
+            "Multinationals",
+            "ORG"
+        ],
+        [
+            "Multinationals",
+            "ORG",
+            "Pay",
+            "Lower-than-U.S._Tax_Rates",
+            "ECON_INDICATOR",
+            "On_Their_Foreign_Operations",
+            "COMP"
+        ],
+        [
+            "Delta_Air_Lines",
+            "ORG",
+            "Has",
+            "Effective_Tax_Rate",
+            "ECON_INDICATOR",
+            "Of_About",
+            "35%",
+            "PERCENT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Has",
+            "Effective_Tax_Rate",
+            "ECON_INDICATOR",
+            "Of_About",
+            "25%",
+            "PERCENT"
+        ]
+    ]
+}

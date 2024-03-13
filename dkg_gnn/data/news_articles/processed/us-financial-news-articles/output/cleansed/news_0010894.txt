@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Danish police",
+            "ORG",
+            "Re-opens",
+            "access to U.S. embassy",
+            "ORG/GOV"
+        ],
+        [
+            "Danish police",
+            "ORG",
+            "Says",
+            "object found near U.S. embassy",
+            "ORG/GOV"
+        ],
+        [
+            "object found near U.S. embassy",
+            "GPE",
+            "Does not contain",
+            "anything suspicious",
+            "CONCEPT"
+        ],
+        [
+            "Danish police",
+            "ORG",
+            "Re-opens",
+            "roads around U.S. embassy",
+            "ORG/GOV"
+        ],
+        [
+            "area",
+            "GPE",
+            "Searched",
+            "by bomb squad",
+            "ORG/GOV"
+        ]
+    ]
+}

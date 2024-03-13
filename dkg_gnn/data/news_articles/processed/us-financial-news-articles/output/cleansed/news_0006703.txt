@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Kushner",
+            "PERSON",
+            "Has",
+            "Financial Ties",
+            "CONCEPT"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Participates_In",
+            "Mideast Diplomatic Role",
+            "CONCEPT"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Relate_To",
+            "Israel",
+            "GPE"
+        ]
+    ]
+}

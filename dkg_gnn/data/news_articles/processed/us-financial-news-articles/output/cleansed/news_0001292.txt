@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Declare",
+            "Distribution",
+            "PRODUCT"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Payable",
+            "Distribution",
+            "PRODUCT"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Record",
+            "Shareholders of Record",
+            "PERSON"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Ex-Date",
+            "Distribution",
+            "PRODUCT"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Anticipate",
+            "Return of Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Determine",
+            "Earnings and Profits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cushing \u00ae MLP Total Return Fund",
+            "COMP",
+            "Managed",
+            "Cushing \u00ae Asset Management, LP",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Subsidiary",
+            "Swank Capital",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Registered",
+            "Investment Adviser",
+            "ORG"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Serve",
+            "Affiliated Funds",
+            "COMP"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Managed",
+            "Accounts",
+            "COMP"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Invest",
+            "Securities of MLPs",
+            "COMP"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Invest",
+            "Natural Resource Companies",
+            "COMP"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Assets under Management",
+            "Approximately $3.8 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cushing \u00ae Asset Management, LP",
+            "ORG",
+            "Headquartered",
+            "Dallas, Texas",
+            "GPE"
+        ]
+    ]
+}

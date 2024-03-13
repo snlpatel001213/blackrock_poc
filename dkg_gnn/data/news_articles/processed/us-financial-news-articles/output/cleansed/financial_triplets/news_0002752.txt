@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "Previous Day",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Negative_Impact_On",
+            "U.S. Data",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Rally",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Mini-Rally",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "ADP Research Institute",
+            "ORG",
+            "Announce",
+            "Job Gains",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Tiffany & Co.",
+            "COMP",
+            "Introduce",
+            "Everyday Objects",
+            "PRODUCT"
+        ],
+        [
+            "Everyday Objects",
+            "PRODUCT",
+            "Operate_In",
+            "Tiffany & Co.",
+            "COMP"
+        ],
+        [
+            "Everyday Objects",
+            "PRODUCT",
+            "Impact",
+            "Consumer Response",
+            "CONCEPT"
+        ],
+        [
+            "Consumer Response",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Tiffany & Co. Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ed Yruma",
+            "PERSON",
+            "Raise",
+            "Stock 12-month Price Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tiffany & Co.",
+            "COMP",
+            "Has",
+            "Flagship New York Location",
+            "GPE"
+        ],
+        [
+            "Flagship New York Location",
+            "GPE",
+            "Impact",
+            "Foot Traffic",
+            "CONCEPT"
+        ]
+    ]
+}

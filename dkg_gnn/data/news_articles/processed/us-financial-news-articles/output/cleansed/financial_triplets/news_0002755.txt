@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Spencer Bogart",
+            "PERSON",
+            "Announce",
+            "50000 Dollar Future",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spencer Bogart",
+            "PERSON",
+            "Participates_In",
+            "Blockchain Capital",
+            "ORG"
+        ],
+        [
+            "Institutional Investors",
+            "PERSON",
+            "Control",
+            "Institutional Pool of Capital",
+            "CONCEPT"
+        ],
+        [
+            "Institutional Investors",
+            "PERSON",
+            "Participates_In",
+            "Institutional Side",
+            "SECTOR"
+        ],
+        [
+            "Institutional Investors",
+            "PERSON",
+            "Negative_Impact_On",
+            "Institutional Ownership",
+            "CONCEPT"
+        ],
+        [
+            "Institutional Ownership",
+            "CONCEPT",
+            "Has",
+            "Zero Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Has",
+            "19 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Millennial Americans",
+            "PERSON",
+            "Has",
+            "32 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

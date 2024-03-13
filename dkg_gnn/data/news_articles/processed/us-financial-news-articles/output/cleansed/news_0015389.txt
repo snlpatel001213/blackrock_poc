@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "SAIC Motor Corp Ltd",
+            "COMP",
+            "Announce",
+            "Lock-up Period End",
+            "EVENT"
+        ],
+        [
+            "SAIC Motor Corp Ltd",
+            "COMP",
+            "Operate_In",
+            "Automotive Industry",
+            "SECTOR"
+        ],
+        [
+            "477.9 Million Shares",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "SAIC Motor Corp Ltd",
+            "COMP"
+        ],
+        [
+            "Jan 19",
+            "DATE",
+            "Operate_In",
+            "Trading Start",
+            "EVENT"
+        ]
+    ]
+}

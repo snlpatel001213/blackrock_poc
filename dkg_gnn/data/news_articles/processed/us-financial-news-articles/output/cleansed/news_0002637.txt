@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Raise",
+            "percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Increase",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Pay",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Has",
+            "Strong Balance Sheet",
+            "CONCEPT"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Deliver",
+            "Double-digit growth",
+            "CONCEPT"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Sell",
+            "Eagle Ford Shale assets",
+            "COMP"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Impact",
+            "Costs",
+            "CONCEPT"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Gain",
+            "28 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cabot Oil & Gas Corp",
+            "COMP",
+            "Relate_To",
+            "S&P 500",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "19 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

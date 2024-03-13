@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Florida",
+            "GPE",
+            "Participates_In",
+            "Mega Millions",
+            "EVENT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Win",
+            "$450 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Belong_To",
+            "Highest Tax Bracket",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Financial Advisor",
+            "PERSON"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Charitable Organizations",
+            "ORG"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Legacy",
+            "CONCEPT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Societal Contributions",
+            "CONCEPT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Revocable Trust",
+            "ORG"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Family Limited Partnership",
+            "ORG"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Annuity",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Lump Sum",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Teslas",
+            "PRODUCT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Driveway",
+            "PRODUCT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Sudden Wealth",
+            "CONCEPT"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Consider",
+            "Emotional Impact",
+            "CONCEPT"
+        ]
+    ]
+}

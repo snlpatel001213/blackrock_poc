@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Control",
+            "Sterilmed",
+            "ORG"
+        ],
+        [
+            "Sterilmed",
+            "ORG",
+            "Produce",
+            "Heart Device",
+            "PRODUCT"
+        ],
+        [
+            "Heart Device",
+            "PRODUCT",
+            "Relate_To",
+            "Faulty Valve",
+            "CONCEPT"
+        ],
+        [
+            "Faulty Valve",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Device",
+            "PRODUCT"
+        ],
+        [
+            "Device",
+            "PRODUCT",
+            "Operate_In",
+            "Cardiovascular Catheters",
+            "PRODUCT"
+        ],
+        [
+            "Reports",
+            "EVENT",
+            "Relate_To",
+            "Adverse Events",
+            "CONCEPT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Relate_To",
+            "Agilis Steerable Introducer Sheath",
+            "PRODUCT"
+        ],
+        [
+            "Class I",
+            "CONCEPT",
+            "Relate_To",
+            "Strictest Form",
+            "CONCEPT"
+        ],
+        [
+            "Strictest Form",
+            "CONCEPT",
+            "Relate_To",
+            "Recall",
+            "EVENT"
+        ],
+        [
+            "Recall",
+            "EVENT",
+            "Relate_To",
+            "Faulty Devices",
+            "CONCEPT"
+        ],
+        [
+            "Faulty Devices",
+            "CONCEPT",
+            "Relate_To",
+            "Serious Injury or Death",
+            "CONCEPT"
+        ]
+    ]
+}

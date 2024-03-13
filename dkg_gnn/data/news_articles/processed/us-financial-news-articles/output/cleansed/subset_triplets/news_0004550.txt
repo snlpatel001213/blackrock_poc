@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sears",
+            "COMP",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Kmart",
+            "COMP",
+            "Is_Member_Of",
+            "Sears Holdings",
+            "ORG"
+        ],
+        [
+            "Sears",
+            "COMP",
+            "Control",
+            "Seritage Growth Properties",
+            "ORG"
+        ]
+    ]
+}

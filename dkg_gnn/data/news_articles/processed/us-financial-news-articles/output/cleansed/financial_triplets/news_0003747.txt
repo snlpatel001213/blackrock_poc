@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S.-South Korean military exercises",
+            "EVENT",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "International pressure",
+            "CONCEPT",
+            "Impact",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Control",
+            "Nuclear weapons and missile programs",
+            "CONCEPT"
+        ]
+    ]
+}

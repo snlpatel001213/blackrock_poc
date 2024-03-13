@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Join",
+            "Al-Gharafa",
+            "ORG"
+        ],
+        [
+            "Al-Gharafa",
+            "ORG",
+            "Announce",
+            "Wesley Sneijder",
+            "PERSON"
+        ],
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Release",
+            "Galatasaray",
+            "ORG"
+        ],
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Play",
+            "Nice",
+            "ORG"
+        ],
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Sign",
+            "18-month deal",
+            "CONCEPT"
+        ],
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Win",
+            "Champions League",
+            "EVENT"
+        ],
+        [
+            "Wesley Sneijder",
+            "PERSON",
+            "Help",
+            "Netherlands",
+            "GPE",
+            "finish",
+            "Runners-up",
+            "at",
+            "World Cup",
+            "EVENT"
+        ]
+    ]
+}

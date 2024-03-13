@@ -1,0 +1,77 @@
+{
+    "output": [
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Announce",
+            "Transition to federal regulatory registration",
+            "EVENT"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Operate_In",
+            "Omaha-area",
+            "GPE"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Control",
+            "Goals-based approach to savings, retirement, income tax, and investments",
+            "CONCEPT"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Is_Member_Of",
+            "National Association of (fee-only) Personal Financial Advisors",
+            "ORG/PRO"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Has",
+            "Three Certified Financial Planner\u2122 practitioners",
+            "PERSON"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Has",
+            "Two practicing members of the Financial Therapy Association",
+            "PERSON"
+        ],
+        [
+            "Callahan Financial Planning Company",
+            "ORG",
+            "Appoint",
+            "Allison Cerven",
+            "PERSON",
+            "as",
+            "Chief Compliance Officer",
+            "TITLE"
+        ],
+        [
+            "Allison Cerven",
+            "PERSON",
+            "Is_Member_Of",
+            "National Association of (fee-only) Personal Financial Advisors",
+            "ORG/PRO"
+        ],
+        [
+            "Allison Cerven",
+            "PERSON",
+            "Has",
+            "Certified Financial Planner\u2122 professional",
+            "TITLE"
+        ],
+        [
+            "Allison Cerven",
+            "PERSON",
+            "Operate_In",
+            "Callahan Financial Planning Company",
+            "ORG"
+        ]
+    ]
+}

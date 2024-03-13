@@ -1,0 +1,147 @@
+{
+    "output": [
+        [
+            "More than 300 people",
+            "PERSON",
+            "Storm",
+            "Heavily Fortified Border",
+            "GPE"
+        ],
+        [
+            "Heavily Fortified Border",
+            "GPE",
+            "Between",
+            "Morocco",
+            "GPE",
+            "and",
+            "Melilla",
+            "GPE"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Called",
+            "Mass",
+            "EVENT",
+            "Violent Crossing",
+            "EVENT"
+        ],
+        [
+            "Some",
+            "DET",
+            "209",
+            "NUM",
+            "Migrants",
+            "PERSON"
+        ],
+        [
+            "Migrants",
+            "PERSON",
+            "Succeeded",
+            "IN",
+            "Reaching",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Spain",
+            "GPE",
+            "Two",
+            "NUM",
+            "North African Enclaves",
+            "GPE",
+            "Ceuta",
+            "GPE",
+            "and",
+            "Melilla",
+            "GPE"
+        ],
+        [
+            "Common Target",
+            "CONCEPT",
+            "For",
+            "Entry",
+            "EVENT",
+            "Into",
+            "European Union",
+            "GPE",
+            "By",
+            "Migrants",
+            "PERSON"
+        ],
+        [
+            "Migrants",
+            "PERSON",
+            "Try",
+            "To",
+            "Climb",
+            "VERB",
+            "Border Fences",
+            "GPE",
+            "Or",
+            "Enter",
+            "VERB",
+            "Territories",
+            "GPE",
+            "By",
+            "Sea"
+        ],
+        [
+            "One",
+            "DET",
+            "Civil Guard",
+            "ORG",
+            "Police Officer",
+            "PERSON"
+        ],
+        [
+            "Police Officer",
+            "PERSON",
+            "Injured",
+            "IN",
+            "An",
+            "DET",
+            "Attack",
+            "EVENT",
+            "By",
+            "A",
+            "DET",
+            "Migrant",
+            "PERSON"
+        ],
+        [
+            "Four",
+            "NUM",
+            "Of",
+            "IN",
+            "The",
+            "DET",
+            "Migrants",
+            "PERSON",
+            "Who",
+            "ADP",
+            "Reached",
+            "VERB",
+            "Spain",
+            "GPE"
+        ],
+        [
+            "Received",
+            "VERB",
+            "Treatment",
+            "EVENT",
+            "For",
+            "IN",
+            "Injuries",
+            "EVENT",
+            "Sustained",
+            "VERB",
+            "During",
+            "PREP",
+            "The",
+            "DET",
+            "Crossing",
+            "EVENT"
+        ]
+    ]
+}

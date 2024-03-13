@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Wall Street",
+            "ORG"
+        ],
+        [
+            "Zaccarelli",
+            "PERSON",
+            "Participates_In",
+            "Independent Advisor Alliance",
+            "ORG"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "Investor Enthusiasm",
+            "CONCEPT"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Operate_In",
+            "Wall Street",
+            "ORG"
+        ],
+        [
+            "Bull Market",
+            "EVENT",
+            "Relate_To",
+            "1990 to 2000 bull market",
+            "EVENT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Has",
+            "18 to 18.5 forward earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Valuation",
+            "CONCEPT",
+            "Relate_To",
+            "1990s bull market peak",
+            "EVENT"
+        ]
+    ]
+}

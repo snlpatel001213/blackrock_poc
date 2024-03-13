@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Palestinians",
+            "PERSON",
+            "Attack",
+            "car",
+            "PRODUCT"
+        ],
+        [
+            "car",
+            "PRODUCT",
+            "Belong_To",
+            "Greek Patriarch",
+            "PERSON"
+        ],
+        [
+            "Greek Patriarch",
+            "PERSON",
+            "Is_Member_Of",
+            "Greek Orthodox Church",
+            "ORG"
+        ],
+        [
+            "Greek Orthodox Church",
+            "ORG",
+            "Sell",
+            "land",
+            "PRODUCT"
+        ],
+        [
+            "land",
+            "PRODUCT",
+            "Belong_To",
+            "Holy Land",
+            "GPE"
+        ],
+        [
+            "land",
+            "PRODUCT",
+            "Relate_To",
+            "Jewish Groups",
+            "ORG"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Protest_Against",
+            "land deals",
+            "PRODUCT"
+        ],
+        [
+            "land deals",
+            "PRODUCT",
+            "Relate_To",
+            "Greek Orthodox Church",
+            "ORG"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Block",
+            "convoy",
+            "PRODUCT"
+        ],
+        [
+            "convoy",
+            "PRODUCT",
+            "Belong_To",
+            "Greek Patriarch",
+            "PERSON"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Throw",
+            "stones",
+            "PRODUCT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Throw",
+            "water bottles",
+            "PRODUCT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Pound",
+            "car",
+            "PRODUCT"
+        ],
+        [
+            "car",
+            "PRODUCT",
+            "Belong_To",
+            "Greek Patriarch",
+            "PERSON"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Chant",
+            "chant",
+            "PRODUCT"
+        ],
+        [
+            "chant",
+            "PRODUCT",
+            "Content",
+            "traitor",
+            "PERSON"
+        ],
+        [
+            "chant",
+            "PRODUCT",
+            "Content",
+            "traitor",
+            "PERSON"
+        ],
+        [
+            "Palestinian security forces",
+            "PERSON",
+            "Push_Away",
+            "demonstrators",
+            "PERSON"
+        ],
+        [
+            "demonstrators",
+            "PERSON",
+            "Demonstrate_Against",
+            "visit",
+            "PRODUCT"
+        ],
+        [
+            "visit",
+            "PRODUCT",
+            "Belong_To",
+            "Greek Patriarch",
+            "PERSON"
+        ],
+        [
+            "demonstrators",
+            "PERSON",
+            "From",
+            "Bethlehem",
+            "GPE"
+        ],
+        [
+            "demonstrators",
+            "PERSON",
+            "From",
+            "Nazareth",
+            "GPE"
+        ],
+        [
+            "demonstrators",
+            "PERSON",
+            "From",
+            "cities inside Israel",
+            "GPE"
+        ],
+        [
+            "deals",
+            "PRODUCT",
+            "Include",
+            "properties",
+            "PRODUCT"
+        ],
+        [
+            "properties",
+            "PRODUCT",
+            "Locate_In",
+            "East Jerusalem",
+            "GPE"
+        ],
+        [
+            "properties",
+            "PRODUCT",
+            "Locate_In",
+            "West Jerusalem",
+            "GPE"
+        ],
+        [
+            "properties",
+            "PRODUCT",
+            "Locate_In",
+            "Caesarea",
+            "GPE"
+        ],
+        [
+            "properties",
+            "PRODUCT",
+            "Locate_In",
+            "Jaffa",
+            "GPE"
+        ],
+        [
+            "Israeli media",
+            "PERSON",
+            "Identify",
+            "Jewish and Israeli investors",
+            "PERSON"
+        ],
+        [
+            "Jewish and Israeli investors",
+            "PERSON",
+            "Buy",
+            "properties",
+            "PRODUCT"
+        ],
+        [
+            "Church officials",
+            "PERSON",
+            "Say",
+            "need to sell land",
+            "PRODUCT"
+        ],
+        [
+            "need to sell land",
+            "PRODUCT",
+            "Reason",
+            "pay back debt",
+            "PRODUCT"
+        ],
+        [
+            "Church officials",
+            "PERSON",
+            "Lease_Out",
+            "land",
+            "PRODUCT"
+        ],
+        [
+            "land",
+            "PRODUCT",
+            "Lease_To",
+            "residents",
+            "PERSON"
+        ],
+        [
+            "Some Israeli lawmakers",
+            "PERSON",
+            "Try_To_Block",
+            "deals",
+            "PRODUCT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Oppose",
+            "sale of land",
+            "PRODUCT"
+        ],
+        [
+            "sale of land",
+            "PRODUCT",
+            "To",
+            "Jewish and Israeli groups",
+            "ORG"
+        ]
+    ]
+}

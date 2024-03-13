@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Alexander Ramos",
+            "PERSON",
+            "Deported_From",
+            "United States",
+            "ORG/GOV"
+        ],
+        [
+            "Alexander Ramos",
+            "PERSON",
+            "Works_At",
+            "Call Center",
+            "COMP"
+        ],
+        [
+            "Call Center",
+            "COMP",
+            "Operate_In",
+            "El Salvador",
+            "GPE"
+        ],
+        [
+            "Call Center",
+            "COMP",
+            "Employs",
+            "47 Percent More People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Call Center",
+            "COMP",
+            "Eyeing",
+            "Growth Spurt",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "End",
+            "Immigration Protection",
+            "CONCEPT"
+        ],
+        [
+            "Salvadorans",
+            "PERSON",
+            "Fear",
+            "Returning",
+            "VERB"
+        ],
+        [
+            "El Salvador",
+            "GPE",
+            "Minimum Wage",
+            "< $10 per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two Out of Three People",
+            "PERSON",
+            "Work",
+            "Informal Economy",
+            "SECTOR"
+        ],
+        [
+            "Call Centers",
+            "COMP",
+            "Service",
+            "AT&T",
+            "COMP"
+        ],
+        [
+            "Call Centers",
+            "COMP",
+            "Service",
+            "Apple Inc",
+            "COMP"
+        ],
+        [
+            "Ramos",
+            "PERSON",
+            "Earns",
+            "$600 a Month",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ramos",
+            "PERSON",
+            "Made",
+            "Half of that in the United States",
+            "GPE"
+        ],
+        [
+            "Ramos",
+            "PERSON",
+            "Earns",
+            "Double El Salvador's Minimum Wage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tattoos",
+            "PRODUCT",
+            "Could be Misinterpreted",
+            "Gang-Related",
+            "CONCEPT"
+        ],
+        [
+            "Salvadorans",
+            "PERSON",
+            "Gained",
+            "Temporary Protected Status",
+            "CONCEPT"
+        ],
+        [
+            "TPS",
+            "CONCEPT",
+            "Allow",
+            "Live and Work Legally",
+            "VERB"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Cancel",
+            "TPS",
+            "CONCEPT"
+        ],
+        [
+            "Call Center Executives",
+            "PERSON",
+            "Foresee",
+            "Larger Pool of Talent",
+            "CONCEPT"
+        ],
+        [
+            "Call Center",
+            "COMP",
+            "Employs",
+            "25000 People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deportees",
+            "PERSON",
+            "Not an Option",
+            "Call Center",
+            "COMP"
+        ],
+        [
+            "U.S. Police Records",
+            "PRODUCT",
+            "Raise",
+            "Security Concerns",
+            "CONCEPT"
+        ],
+        [
+            "William Lopez",
+            "PERSON",
+            "Deported",
+            "California",
+            "GPE"
+        ],
+        [
+            "William Lopez",
+            "PERSON",
+            "Convicted",
+            "Domestic Violence",
+            "CONCEPT"
+        ],
+        [
+            "William Lopez",
+            "PERSON",
+            "Works",
+            "Non-Profit",
+            "COMP"
+        ],
+        [
+            "Non-Profit",
+            "COMP",
+            "Train",
+            "Deportees",
+            "PERSON"
+        ],
+        [
+            "William Lopez",
+            "PERSON",
+            "Expecting",
+            "Many People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Best Jobs",
+            "PRODUCT",
+            "Exist",
+            "Call Centers",
+            "COMP"
+        ],
+        [
+            "Call Center",
+            "COMP",
+            "Clean Work",
+            "Well Organized",
+            "CONCEPT"
+        ],
+        [
+            "Salary",
+            "PRODUCT",
+            "Not Bad for Pay",
+            "Country",
+            "GPE"
+        ]
+    ]
+}

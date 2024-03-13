@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Global Companies",
+            "ORG",
+            "Announce",
+            "$3.6 trln Merger Spree",
+            "EVENT"
+        ],
+        [
+            "$3.6 trln Merger Spree",
+            "EVENT",
+            "Relate_To",
+            "Cost-cutting Managements",
+            "ORG"
+        ],
+        [
+            "Cost-cutting Managements",
+            "ORG",
+            "Eager",
+            "Reward Shareholders",
+            "PERSON"
+        ],
+        [
+            "Politicians",
+            "ORG/GOV",
+            "Determined",
+            "Protect Jobs and Wages",
+            "CONCEPT"
+        ]
+    ]
+}

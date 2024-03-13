@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Wings Over the Rockies",
+            "ORG",
+            "Announce",
+            "Exploration of Flight",
+            "EVENT"
+        ],
+        [
+            "Exploration of Flight",
+            "EVENT",
+            "Operate_In",
+            "Centennial Airport",
+            "GPE"
+        ],
+        [
+            "Exploration of Flight",
+            "EVENT",
+            "Impact",
+            "Aerospace Industry",
+            "SECTOR"
+        ],
+        [
+            "Exploration of Flight",
+            "EVENT",
+            "Include",
+            "Boeing Blue Sky Aviation Gallery",
+            "PRODUCT"
+        ],
+        [
+            "Boeing Blue Sky Aviation Gallery",
+            "PRODUCT",
+            "Has",
+            "Interactive Exhibits",
+            "PRODUCT"
+        ],
+        [
+            "Boeing Blue Sky Aviation Gallery",
+            "PRODUCT",
+            "Has",
+            "Simulator",
+            "PRODUCT"
+        ],
+        [
+            "Boeing Blue Sky Aviation Gallery",
+            "PRODUCT",
+            "Relate_To",
+            "Aviation Education",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Blue Sky Aviation Gallery",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Visitors",
+            "PERSON"
+        ]
+    ]
+}

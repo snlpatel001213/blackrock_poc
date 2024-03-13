@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Announce",
+            "Lonnel Coats present",
+            "PERSON"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Participates_In",
+            "36th Annual J.P. Morgan Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Operate_In",
+            "San Francisco, CA",
+            "GPE"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Relate_To",
+            "Investors section",
+            "ORG"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Gene science program",
+            "CONCEPT"
+        ],
+        [
+            "Gene science program",
+            "CONCEPT",
+            "Relate_To",
+            "Nobel Prize-winning technology",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Precise medicines",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Diabetes and metabolism drug candidates",
+            "PRODUCT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Neuropathic pain drug candidates",
+            "PRODUCT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "XERMELO",
+            "PRODUCT"
+        ],
+        [
+            "XERMELO",
+            "PRODUCT",
+            "Control",
+            "Telotristat ethyl",
+            "PRODUCT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Capital requirements",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Preclinical and clinical development",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Strategic alliances",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Intellectual property",
+            "CONCEPT"
+        ],
+        [
+            "Lexicon Pharmaceuticals, Inc.",
+            "COMP",
+            "Has",
+            "Manufacturing",
+            "CONCEPT"
+        ],
+        [
+            "Kimberly Lee",
+            "PERSON",
+            "Is_Member_Of",
+            "Investor Relations and Corporate Strategy",
+            "ORG"
+        ],
+        [
+            "Kimberly Lee",
+            "PERSON",
+            "Contact_For",
+            "Investor Inquiries",
+            "ORG"
+        ],
+        [
+            "Chas Schultz",
+            "PERSON",
+            "Is_Member_Of",
+            "Corporate Communications and Advocacy",
+            "ORG"
+        ],
+        [
+            "Chas Schultz",
+            "PERSON",
+            "Contact_For",
+            "Media Inquiries",
+            "ORG"
+        ]
+    ]
+}

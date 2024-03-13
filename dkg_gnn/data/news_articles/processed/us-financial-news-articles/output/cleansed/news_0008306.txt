@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "British new car sales",
+            "EVENT",
+            "Decrease",
+            "5.7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "British new car sales",
+            "EVENT",
+            "Record",
+            "biggest drop since 2009",
+            "TIME"
+        ],
+        [
+            "Demand for new diesel cars",
+            "EVENT",
+            "Decrease",
+            "17.1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Society of Motor Manufacturers and Traders",
+            "ORG",
+            "Announce",
+            "biggest drop since 2009",
+            "TIME"
+        ],
+        [
+            "Society of Motor Manufacturers and Traders",
+            "ORG",
+            "Announce",
+            "plunged 17.1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Society of Motor Manufacturers and Traders",
+            "ORG",
+            "Announce",
+            "average CO2 emissions for new cars rose",
+            "CONCEPT"
+        ],
+        [
+            "Total registrations",
+            "EVENT",
+            "End",
+            "2.54 million",
+            "QUANTITY"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Say",
+            "hike the levy on new diesel cars",
+            "PRODUCT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Say",
+            "potential diesel scrappage scheme",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Say",
+            "confusion over government plans",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Say",
+            "ban the sale of new petrol and diesel vehicles from 2040",
+            "EVENT"
+        ],
+        [
+            "Madrid",
+            "GPE",
+            "Announce",
+            "plans",
+            "EVENT"
+        ],
+        [
+            "Paris",
+            "GPE",
+            "Announce",
+            "plans",
+            "EVENT"
+        ],
+        [
+            "Athens",
+            "GPE",
+            "Announce",
+            "plans",
+            "EVENT"
+        ],
+        [
+            "Diesel",
+            "PRODUCT",
+            "Come_under_fire",
+            "releasing other toxic fumes",
+            "CONCEPT"
+        ],
+        [
+            "Car sales in Britain",
+            "EVENT",
+            "Previously",
+            "leading indicator for the performance of the economy",
+            "CONCEPT"
+        ],
+        [
+            "Car sales in Britain",
+            "EVENT",
+            "Decrease",
+            "biggest since demand nosedived in 2009",
+            "TIME"
+        ],
+        [
+            "SMMT Chief Executive Mike Hawes",
+            "PERSON",
+            "Say",
+            "further drops are likely in the coming months",
+            "TIME"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Automotive sector",
+            "Concerned",
+            "Brexit deal"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Automotive sector",
+            "Concerned",
+            "tariffs of up to 10 percent"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Automotive sector",
+            "Concerned",
+            "customs delays"
+        ],
+        [
+            "Honda",
+            "COMP",
+            "Considering",
+            "contingency plans",
+            "EVENT"
+        ],
+        [
+            "Honda",
+            "COMP",
+            "Say",
+            "need clarity by March on a transitional deal",
+            "EVENT"
+        ],
+        [
+            "Honda",
+            "COMP",
+            "Say",
+            "additional cost borne by British plants",
+            "PRODUCT"
+        ],
+        [
+            "Honda",
+            "COMP",
+            "Say",
+            "hit the sector",
+            "SECTOR"
+        ]
+    ]
+}

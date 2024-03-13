@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Phytopain Pharma",
+            "ORG",
+            "Operate_In",
+            "Tetra Bio Pharma Inc",
+            "COMP"
+        ],
+        [
+            "Tetra Bio Pharma Inc",
+            "COMP",
+            "Control",
+            "Vendors",
+            "PERSON"
+        ],
+        [
+            "Share Purchase Agreement",
+            "CONCEPT",
+            "Relate_To",
+            "Entities Controlled by Chairman of Board",
+            "ORG/GOV"
+        ],
+        [
+            "Entities Controlled by Chairman of Board",
+            "ORG/GOV",
+            "Relate_To",
+            "Chief Scientific Officer",
+            "PERSON"
+        ]
+    ]
+}

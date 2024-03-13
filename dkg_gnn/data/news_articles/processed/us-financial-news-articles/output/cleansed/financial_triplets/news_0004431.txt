@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Relate_To",
+            "Claim",
+            "CONCEPT"
+        ],
+        [
+            "Zambia Vedanta",
+            "ORG",
+            "Is_Member_Of",
+            "KCM",
+            "ORG"
+        ],
+        [
+            "KCM",
+            "ORG",
+            "Has",
+            "2013 Copper Price Participation Settlement Agreement",
+            "CONCEPT"
+        ],
+        [
+            "KCM",
+            "ORG",
+            "Participates_In",
+            "ZCCM-IH",
+            "ORG"
+        ],
+        [
+            "ZCCM-IH",
+            "ORG",
+            "Relate_To",
+            "Outstanding Payments",
+            "CONCEPT"
+        ]
+    ]
+}

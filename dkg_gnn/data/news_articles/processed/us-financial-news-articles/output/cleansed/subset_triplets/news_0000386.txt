@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. Economy",
+            "ECON_INDICATOR",
+            "Has",
+            "Best Performance",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Stock Market",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Best Performance",
+            "CONCEPT"
+        ],
+        [
+            "Ray Dalio",
+            "PERSON",
+            "Is_Member_Of",
+            "Bridgewater Associates LP",
+            "ORG"
+        ],
+        [
+            "Bridgewater Associates LP",
+            "ORG",
+            "Control",
+            "Hedge-fund",
+            "COMP"
+        ],
+        [
+            "2008 Financial Crisis",
+            "EVENT",
+            "Relate_To",
+            "Start",
+            "CONCEPT"
+        ]
+    ]
+}

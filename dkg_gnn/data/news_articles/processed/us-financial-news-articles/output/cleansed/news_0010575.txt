@@ -1,0 +1,89 @@
+{
+    "output": [
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Report",
+            "Fiscal First-Quarter Net Income",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Has",
+            "Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Posted",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Expect",
+            "Full-Year Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Expect",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Shares",
+            "Drop",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Shares",
+            "Hit",
+            "Price",
+            "ECON_INDICATOR"
+        ],
+        [
+            "WD-40 Co.",
+            "COMP",
+            "Rise",
+            "Last 12 Months",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Automated Insights",
+            "ORG",
+            "Generate",
+            "Story",
+            "EVENT"
+        ],
+        [
+            "Automated Insights",
+            "ORG",
+            "Using",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Zacks Investment Research",
+            "ORG",
+            "Provide",
+            "Stock Report",
+            "PRODUCT"
+        ],
+        [
+            "Zacks Investment Research",
+            "ORG",
+            "Access",
+            "Zacks Stock Report",
+            "PRODUCT"
+        ]
+    ]
+}

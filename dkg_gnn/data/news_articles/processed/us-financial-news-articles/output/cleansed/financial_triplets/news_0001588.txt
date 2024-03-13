@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Arcadis NV",
+            "COMP",
+            "Is_Member_Of",
+            "Dutch Engineering Company",
+            "ORG"
+        ],
+        [
+            "Renier Vree",
+            "PERSON",
+            "Participates_In",
+            "CFO",
+            "ORG"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Operate_In",
+            "Chemicals Business",
+            "ORG"
+        ],
+        [
+            "AkzoNobel Specialty Chemicals",
+            "COMP",
+            "Produce",
+            "Speciality Chemicals",
+            "PRODUCT"
+        ],
+        [
+            "Akzo Nobel",
+            "COMP",
+            "Control",
+            "Dulux Paint",
+            "PRODUCT"
+        ]
+    ]
+}

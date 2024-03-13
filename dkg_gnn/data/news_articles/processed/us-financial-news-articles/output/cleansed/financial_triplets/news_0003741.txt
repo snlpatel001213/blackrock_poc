@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Aurora",
+            "ORG",
+            "Announce",
+            "Partnerships",
+            "ORG"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Participates_In",
+            "Self-driving System Development",
+            "CONCEPT"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Volkswagen AG",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Relate_To",
+            "Artificial Intelligence",
+            "CONCEPT"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Relate_To",
+            "Deep Learning",
+            "CONCEPT"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Relate_To",
+            "Robotics",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Operate_In",
+            "Cities",
+            "GPE"
+        ],
+        [
+            "Hyundai",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Hyundai",
+            "ORG",
+            "Operate_In",
+            "Pilot Smart Cities",
+            "GPE"
+        ]
+    ]
+}

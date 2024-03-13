@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "U.S. Market",
+            "SECTOR"
+        ],
+        [
+            "Nasdaq Composite",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "U.S. Market",
+            "SECTOR"
+        ],
+        [
+            "European Equities",
+            "SECTOR",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

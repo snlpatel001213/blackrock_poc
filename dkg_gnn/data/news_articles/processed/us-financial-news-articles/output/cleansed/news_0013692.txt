@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Vietnam",
+            "GPE",
+            "Control",
+            "People\u2019s Court",
+            "ORG/GOV"
+        ],
+        [
+            "People\u2019s Court",
+            "ORG/GOV",
+            "Operate_In",
+            "Nghe An",
+            "GPE"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Convict",
+            "anti-state activities",
+            "CONCEPT"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Violate",
+            "probation terms",
+            "CONCEPT"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Sentence",
+            "four years in jail",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Arrest",
+            "days later",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Sentence",
+            "five years in jail",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Sentence",
+            "four years on probation",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Insult",
+            "security personnel",
+            "PERSON"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Beat",
+            "security personnel",
+            "PERSON"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Jail term",
+            "five years",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Probation",
+            "four years",
+            "TIME"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Verdict",
+            "unfair",
+            "CONCEPT"
+        ],
+        [
+            "Nguyen Van Oai",
+            "PERSON",
+            "Lawyer",
+            "Ha Huy Son",
+            "PERSON"
+        ],
+        [
+            "Ha Huy Son",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Upheld",
+            "jail term",
+            "TIME"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Upheld",
+            "probation",
+            "TIME"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Retain",
+            "tight media censorship",
+            "CONCEPT"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Not tolerate",
+            "criticism",
+            "CONCEPT"
+        ],
+        [
+            "Nguyen Ngoc Nhu Quynh",
+            "PERSON",
+            "Jailed",
+            "10 years",
+            "TIME"
+        ],
+        [
+            "Nguyen Ngoc Nhu Quynh",
+            "PERSON",
+            "Publish",
+            "propaganda against the state",
+            "CONCEPT"
+        ],
+        [
+            "Human rights groups",
+            "ORG",
+            "Express",
+            "alarm",
+            "CONCEPT"
+        ],
+        [
+            "Human rights groups",
+            "ORG",
+            "Call",
+            "biggest crackdown on activists and dissidents",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.S. Navy",
+            "ORG/GOV",
+            "Has",
+            "Fleetwide Deficiency",
+            "CONCEPT"
+        ],
+        [
+            "Americans Ships",
+            "COMP",
+            "Relate_To",
+            "Naval Operations",
+            "CONCEPT"
+        ],
+        [
+            "Naval Operations",
+            "CONCEPT",
+            "Impact",
+            "Visibility of Force",
+            "CONCEPT"
+        ],
+        [
+            "Naval Operations",
+            "CONCEPT",
+            "Impact",
+            "Ability to Mount Amphibious Assault",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Need",
+            "Capabilities",
+            "CONCEPT"
+        ],
+        [
+            "Capabilities",
+            "CONCEPT",
+            "Relate_To",
+            "Peacetime Mission",
+            "CONCEPT"
+        ],
+        [
+            "Peacetime Mission",
+            "CONCEPT",
+            "Relate_To",
+            "Diplomatic and Political Role",
+            "CONCEPT"
+        ],
+        [
+            "Diplomatic and Political Role",
+            "CONCEPT",
+            "Require",
+            "Show of Force",
+            "CONCEPT"
+        ],
+        [
+            "Show of Force",
+            "CONCEPT",
+            "Relate_To",
+            "Dangerous Environments",
+            "CONCEPT"
+        ]
+    ]
+}

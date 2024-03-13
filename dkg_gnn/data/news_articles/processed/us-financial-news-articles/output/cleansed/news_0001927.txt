@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Say",
+            "June 2016 Trump Tower meeting",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Say",
+            "treasonous",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Say",
+            "unpatriotic",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Interview",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Relate_To",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Say",
+            "Steve Bannon has nothing to do with me or my Presidency",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Say",
+            "Bannon lost his job",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Say",
+            "Bannon lost his mind",
+            "CONCEPT"
+        ],
+        [
+            "Trump Tower meeting",
+            "EVENT",
+            "Attend",
+            "Trump senior advisor Jared Kushner",
+            "PERSON"
+        ],
+        [
+            "Trump Tower meeting",
+            "EVENT",
+            "Attend",
+            "Paul Manafort",
+            "PERSON"
+        ],
+        [
+            "Trump Tower meeting",
+            "EVENT",
+            "Attend",
+            "Russian lawyer Natalia Veselnitskaya",
+            "PERSON"
+        ],
+        [
+            "Trump Tower meeting",
+            "EVENT",
+            "Have_Purpose",
+            "Discuss damaging information",
+            "CONCEPT"
+        ],
+        [
+            "Trump Tower meeting",
+            "EVENT",
+            "Have_Purpose",
+            "Democrat presidential candidate Hillary Clinton",
+            "PERSON"
+        ],
+        [
+            "Russian lawyer Natalia Veselnitskaya",
+            "PERSON",
+            "Claim",
+            "Meeting would cover The Magnitsky Act",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Suggest",
+            "Host meeting in Holiday Inn",
+            "COMP"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Suggest",
+            "Deliver information to Breitbart",
+            "COMP"
+        ],
+        [
+            "Breitbart News",
+            "COMP",
+            "Be",
+            "Right-wing news outlet",
+            "COMP"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Be",
+            "Head of Breitbart News",
+            "COMP"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Be",
+            "Trump campaign CEO",
+            "COMP"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Be",
+            "Trump administration member",
+            "COMP"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Be",
+            "Breitbart executive chairman",
+            "COMP"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Be",
+            "Based on more than 200 interviews",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Be",
+            "Published Jan. 9 by Henry Holt",
+            "COMP"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Have_Author",
+            "Michael Wolff",
+            "PERSON"
+        ]
+    ]
+}

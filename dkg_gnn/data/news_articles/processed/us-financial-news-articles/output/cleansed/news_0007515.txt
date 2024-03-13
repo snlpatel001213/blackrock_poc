@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Sparks",
+            "2020 Talk",
+            "EVENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Relate_To",
+            "Sexual Misconduct Exposure",
+            "CONCEPT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Impact",
+            "U.S. President Election",
+            "EVENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Participates_In",
+            "Awards Show",
+            "EVENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Support",
+            "Hollywood",
+            "GPE"
+        ]
+    ]
+}

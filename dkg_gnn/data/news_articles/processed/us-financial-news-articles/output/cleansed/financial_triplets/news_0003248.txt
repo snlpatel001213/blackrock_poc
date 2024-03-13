@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Rohingya Militants",
+            "ORG",
+            "Participates_In",
+            "Rohingya Village Burning",
+            "EVENT"
+        ],
+        [
+            "Rohingya",
+            "PERSON",
+            "Negative_Impact_On",
+            "Rohingya Villages",
+            "GPE"
+        ],
+        [
+            "Myanmar Military",
+            "ORG/GOV",
+            "Control",
+            "Myanmar",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Celgene",
+            "COMP",
+            "Buy",
+            "Impact Biomedicines",
+            "COMP"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Impact Biomedicines",
+            "COMP",
+            "Is_Member_Of",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "$7 billion",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Celgene",
+            "COMP"
+        ],
+        [
+            "$7 billion",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Impact Biomedicines",
+            "COMP"
+        ]
+    ]
+}

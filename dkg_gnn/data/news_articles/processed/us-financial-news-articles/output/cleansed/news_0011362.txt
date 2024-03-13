@@ -1,0 +1,35 @@
+{
+    "output": [
+        [
+            "Olin Corp",
+            "COMP",
+            "Intend",
+            "$500 MILLION AGGREGATE PRINCIPAL AMOUNT OF SENIOR NOTES",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Olin Corp",
+            "COMP",
+            "Use",
+            "Proceeds of Offering",
+            "FIN_INSTRUMENT",
+            "With",
+            "Cash on Hand",
+            "CONCEPT",
+            "To",
+            "Prepay",
+            "Part",
+            "Term Loans",
+            "FIN_INSTRUMENT",
+            "Outstanding",
+            "Under",
+            "Existing",
+            "Term Loan",
+            "CREDIT FACILITY",
+            "FIN_INSTRUMENT",
+            "Maturing",
+            "2022",
+            "DATE"
+        ]
+    ]
+}

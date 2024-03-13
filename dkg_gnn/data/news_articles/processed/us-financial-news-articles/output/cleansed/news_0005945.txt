@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Congress",
+            "ORG/GOV",
+            "Risk",
+            "US Readiness",
+            "CONCEPT"
+        ],
+        [
+            "Pentagon",
+            "ORG/GOV",
+            "Plan",
+            "Budget Deals",
+            "CONCEPT"
+        ],
+        [
+            "Pentagon",
+            "ORG/GOV",
+            "Worry",
+            "Fighting Force Readiness",
+            "CONCEPT"
+        ],
+        [
+            "Pentagon",
+            "ORG/GOV",
+            "Worry",
+            "Fighting Force Equipment",
+            "CONCEPT"
+        ],
+        [
+            "Budget Deals",
+            "CONCEPT",
+            "Impact",
+            "National Defense",
+            "CONCEPT"
+        ],
+        [
+            "Shipbuilding",
+            "CONCEPT",
+            "Get",
+            "Pushed Back",
+            "CONCEPT"
+        ],
+        [
+            "Live Fire Exercises",
+            "CONCEPT",
+            "Get",
+            "Put On Hold",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Emmis Communications",
+            "ORG",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Emmis Communications",
+            "ORG",
+            "Operate_In",
+            "Nasdaq",
+            "ORG"
+        ],
+        [
+            "Jeff Smulyan",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Ryan Hornaday",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Emmis",
+            "ORG",
+            "Is_Member_Of",
+            "Nasdaq",
+            "ORG"
+        ]
+    ]
+}

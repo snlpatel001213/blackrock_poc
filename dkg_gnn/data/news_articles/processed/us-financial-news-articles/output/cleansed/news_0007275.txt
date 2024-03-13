@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Merkel",
+            "PERSON",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Coalition Partners",
+            "ORG",
+            "Push_Back",
+            "Climate-change Target",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Operate_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Merkel",
+            "PERSON",
+            "Control",
+            "Emissions Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Merkel",
+            "PERSON",
+            "Negative_Impact_On",
+            "Climate-change Target",
+            "CONCEPT"
+        ]
+    ]
+}

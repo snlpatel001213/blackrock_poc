@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "first week of new year",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "feud",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Respond",
+            "vitriol",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Sue",
+            "special counsel Robert Mueller",
+            "ORG/REG"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Sue",
+            "Deputy Attorney General Rod Rosenstein",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Sue",
+            "Department of Justice",
+            "ORG/GOV"
+        ],
+        [
+            "Former campaign CEO Steve Bannon",
+            "PERSON",
+            "Produce",
+            "book excerpt",
+            "PRODUCT"
+        ],
+        [
+            "Former campaign CEO Steve Bannon",
+            "PERSON",
+            "Make",
+            "shocking allegations",
+            "CONCEPT"
+        ],
+        [
+            "Former campaign chairman Paul Manafort",
+            "PERSON",
+            "Sue",
+            "special counsel Robert Mueller",
+            "ORG/REG"
+        ],
+        [
+            "Former campaign chairman Paul Manafort",
+            "PERSON",
+            "Sue",
+            "Deputy Attorney General Rod Rosenstein",
+            "ORG/GOV"
+        ],
+        [
+            "Former campaign chairman Paul Manafort",
+            "PERSON",
+            "Sue",
+            "Department of Justice",
+            "ORG/GOV"
+        ],
+        [
+            "Former Trump campaign advisor Sam Nunberg",
+            "PERSON",
+            "Try",
+            "explain Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Former Trump campaign advisor Sam Nunberg",
+            "PERSON",
+            "Make",
+            "it to Fourth Amendment",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Mocked",
+            "idiot",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Mocked",
+            "dope",
+            "CONCEPT"
+        ],
+        [
+            "Top White House officials",
+            "ORG",
+            "Deride",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Savage",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Contend",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Lost",
+            "mind",
+            "CONCEPT"
+        ],
+        [
+            "White House press secretary Sarah Huckabee Sanders",
+            "PERSON",
+            "Call",
+            "Bannon claim",
+            "CONCEPT"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Certain",
+            "Trump meet with Russians",
+            "CONCEPT"
+        ],
+        [
+            "Trump ex-campaign manager Manafort",
+            "PERSON",
+            "Sue",
+            "special counsel Mueller",
+            "ORG/REG"
+        ],
+        [
+            "Trump ex-campaign manager Manafort",
+            "PERSON",
+            "Sue",
+            "Deputy Attorney General Rod Rosenstein",
+            "ORG/GOV"
+        ],
+        [
+            "Trump ex-campaign manager Manafort",
+            "PERSON",
+            "Sue",
+            "Department of Justice",
+            "ORG/GOV"
+        ]
+    ]
+}

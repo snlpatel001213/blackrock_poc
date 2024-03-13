@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Regulators",
+            "ORG/REG",
+            "Operate_In",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Markets in Financial Instruments Directive",
+            "EVENT",
+            "Has",
+            "open access rule",
+            "CONCEPT"
+        ],
+        [
+            "open access rule",
+            "CONCEPT",
+            "Relate_To",
+            "exchange group",
+            "ORG"
+        ],
+        [
+            "Britains Financial Conduct Authority",
+            "ORG/GOV",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "ICE Futures Europe",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "London Metal Exchange",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Has",
+            "Eurex Clearing arm",
+            "COMP"
+        ],
+        [
+            "BaFin",
+            "ORG/GOV",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Has",
+            "Eurex Clearing arm",
+            "COMP"
+        ],
+        [
+            "open access",
+            "CONCEPT",
+            "Has",
+            "financial stability risks",
+            "CONCEPT"
+        ],
+        [
+            "open access",
+            "CONCEPT",
+            "Relate_To",
+            "competition",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Boerse",
+            "COMP",
+            "Relate_To",
+            "critics",
+            "PERSON"
+        ]
+    ]
+}

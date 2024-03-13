@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "JPMorgan Chase & Co",
+            "ORG",
+            "Announce",
+            "Client Survey",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Operate_In",
+            "U.S. Tax Code",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Raise",
+            "Short-term Interest Rates",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Decrease",
+            "Net Shorts",
+            "CONCEPT"
+        ]
+    ]
+}

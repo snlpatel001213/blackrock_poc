@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Operate_In",
+            "TOKYO",
+            "GPE"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Control",
+            "Ultra-Easy Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Haruhiko Kuroda",
+            "PERSON",
+            "Is_Member_Of",
+            "Bank of Japan",
+            "ORG/REG"
+        ]
+    ]
+}

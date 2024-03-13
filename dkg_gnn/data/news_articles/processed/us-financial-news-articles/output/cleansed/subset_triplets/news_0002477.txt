@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Design Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Produce",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "x86 Processor Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Slow Down",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Unnamed Programmers",
+            "PERSON"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Security Bugs",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Protected Areas",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Kernel Memory",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Hackers",
+            "PERSON"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Relate_To",
+            "Secure Information",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Control",
+            "Windows",
+            "PRODUCT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Linux",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Linux",
+            "ORG",
+            "Produce",
+            "Operating System",
+            "PRODUCT"
+        ],
+        [
+            "Linux",
+            "ORG",
+            "Participates_In",
+            "Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Windows",
+            "PRODUCT",
+            "Participates_In",
+            "Patch",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "CPU",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Financial Liability",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Customer Loss",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Reputation",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Operate_In",
+            "Chip Making",
+            "SECTOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Participates_In",
+            "Maintenance Reboot",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Participates_In",
+            "Compute Engine",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "64-bit macOS Operating System",
+            "PRODUCT"
+        ],
+        [
+            "Graz University of Technology",
+            "ORG",
+            "Produce",
+            "Researchers",
+            "PERSON"
+        ],
+        [
+            "Graz University of Technology",
+            "ORG",
+            "Produce",
+            "Way",
+            "CONCEPT"
+        ],
+        [
+            "Graz University of Technology",
+            "ORG",
+            "Produce",
+            "Patches",
+            "PRODUCT"
+        ]
+    ]
+}

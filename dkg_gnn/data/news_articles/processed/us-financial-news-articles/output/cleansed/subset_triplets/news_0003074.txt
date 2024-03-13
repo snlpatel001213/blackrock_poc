@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Gold",
+            "CONCEPT",
+            "Raise",
+            "February Delivery",
+            "ECON_INDICATOR"
+        ],
+        [
+            "February Delivery",
+            "ECON_INDICATOR",
+            "Has",
+            "Gold",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Operate_In",
+            "Comex Division",
+            "ORG"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Relate_To",
+            "Dollar Weakening",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Relate_To",
+            "Geopolitical Tensions",
+            "CONCEPT"
+        ]
+    ]
+}

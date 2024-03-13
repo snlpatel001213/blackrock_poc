@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "November",
+            "EVENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Commerce Department",
+            "ORG"
+        ],
+        [
+            "Commerce Department",
+            "ORG",
+            "Announce",
+            "Construction Spending Rise",
+            "EVENT"
+        ],
+        [
+            "October Construction Outlays",
+            "ECON_INDICATOR",
+            "Decrease",
+            "0.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "November",
+            "EVENT",
+            "Relate_To",
+            "Construction Spending",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spending",
+            "ECON_INDICATOR",
+            "Impact",
+            "Fourth-Quarter GDP Growth Estimates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Third Quarter",
+            "EVENT",
+            "Relate_To",
+            "Economy Growth",
+            "CONCEPT"
+        ]
+    ]
+}

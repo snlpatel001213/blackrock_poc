@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Tryton Medical",
+            "ORG",
+            "Appoint",
+            "Carl J. St. Bernard",
+            "PERSON"
+        ],
+        [
+            "Carl J. St. Bernard",
+            "PERSON",
+            "Has",
+            "long track record",
+            "CONCEPT"
+        ],
+        [
+            "Carl J. St. Bernard",
+            "PERSON",
+            "Operate_In",
+            "Johnson & Johnson Vision",
+            "ORG"
+        ],
+        [
+            "Carl J. St. Bernard",
+            "PERSON",
+            "Operate_In",
+            "LifeCell",
+            "ORG"
+        ],
+        [
+            "Carl J. St. Bernard",
+            "PERSON",
+            "Operate_In",
+            "Cordis",
+            "ORG"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Control",
+            "Tryton Side Branch Stent System",
+            "PRODUCT"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Participates_In",
+            "Bifurcation lesions treatment",
+            "CONCEPT"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Operate_In",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "Tryton Medical",
+            "ORG",
+            "Operate_In",
+            "Africa",
+            "GPE"
+        ]
+    ]
+}

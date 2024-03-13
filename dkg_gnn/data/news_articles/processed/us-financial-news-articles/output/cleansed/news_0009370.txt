@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Matinas Biopharma Holdings Inc.",
+            "COMP",
+            "Achieve",
+            "Statistical Endpoint",
+            "CONCEPT"
+        ],
+        [
+            "Matinas Biopharma",
+            "COMP",
+            "Investors_From",
+            "National Institutes of Health",
+            "ORG/GOV"
+        ],
+        [
+            "National Institutes of Health",
+            "ORG/GOV",
+            "Relayed",
+            "Positive Data",
+            "CONCEPT"
+        ],
+        [
+            "Matinas Biopharma Holdings Inc.",
+            "COMP",
+            "Phase 2A Study",
+            "Treatment of MAT2203",
+            "PRODUCT"
+        ],
+        [
+            "Third Patient",
+            "PERSON",
+            "Met",
+            "Primary Endpoint",
+            "CONCEPT"
+        ],
+        [
+            "Third Patient",
+            "PERSON",
+            "Treatment",
+            "MAT2203",
+            "PRODUCT"
+        ]
+    ]
+}

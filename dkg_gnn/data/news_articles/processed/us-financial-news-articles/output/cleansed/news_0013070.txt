@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Avadel Pharmaceuticals Plc",
+            "COMP",
+            "Receive",
+            "Orphan Drug Designation",
+            "ORG/REG"
+        ],
+        [
+            "FT 218",
+            "PRODUCT",
+            "Relate_To",
+            "Narcolepsy",
+            "CONCEPT"
+        ],
+        [
+            "Avadel Pharmaceuticals Plc",
+            "COMP",
+            "Treat",
+            "Narcolepsy",
+            "CONCEPT"
+        ]
+    ]
+}

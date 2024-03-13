@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Flexion Therapeutics Inc",
+            "COMP",
+            "Announce",
+            "Initial Data",
+            "EVENT"
+        ],
+        [
+            "Flexion Therapeutics Inc",
+            "COMP",
+            "Produce",
+            "Zilretta",
+            "PRODUCT"
+        ],
+        [
+            "Zilretta",
+            "PRODUCT",
+            "Relate_To",
+            "Repeat Administration",
+            "CONCEPT"
+        ],
+        [
+            "Zilretta",
+            "PRODUCT",
+            "Relate_To",
+            "Clinical Trial",
+            "EVENT"
+        ],
+        [
+            "Flexion Therapeutics Inc",
+            "COMP",
+            "Expects",
+            "Full Study Results",
+            "EVENT"
+        ],
+        [
+            "Flexion Therapeutics Inc",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ]
+    ]
+}

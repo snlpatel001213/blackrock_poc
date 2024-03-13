@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Skanska Ab",
+            "ORG",
+            "Build",
+            "Medical Office Building",
+            "PRODUCT"
+        ],
+        [
+            "Skanska Ab",
+            "ORG",
+            "Operate_In",
+            "Franklin",
+            "GPE"
+        ],
+        [
+            "Skanska Ab",
+            "ORG",
+            "Invest_In",
+            "USD 40M",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Skanska Ab",
+            "ORG",
+            "Invest_In",
+            "SEK 340M",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

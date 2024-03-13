@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Rob Cox",
+            "PERSON",
+            "Participates_In",
+            "Breakingviews TV",
+            "EVENT"
+        ],
+        [
+            "Tom Buerkle",
+            "PERSON",
+            "Participates_In",
+            "Breakingviews TV",
+            "EVENT"
+        ],
+        [
+            "Super-voting shares",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Backlash",
+            "CONCEPT",
+            "Relate_To",
+            "Super-voting shares",
+            "CONCEPT"
+        ],
+        [
+            "Backlash",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Akamai",
+            "COMP",
+            "Jump",
+            "Tech Guide",
+            "ORG"
+        ],
+        [
+            "Akamai",
+            "COMP",
+            "Raise",
+            "5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG/FIN",
+            "Conduct",
+            "Strategic Review",
+            "CONCEPT"
+        ],
+        [
+            "Akamai",
+            "COMP",
+            "Relate_To",
+            "Cloud Service",
+            "SECTOR"
+        ],
+        [
+            "Elliott Management",
+            "ORG/FIN",
+            "Buy",
+            "6.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Elliott Management",
+            "ORG/FIN",
+            "Push",
+            "Akamai",
+            "COMP"
+        ],
+        [
+            "Elliott Management",
+            "ORG/FIN",
+            "Indicate",
+            "Poor Strategic Planning",
+            "CONCEPT"
+        ],
+        [
+            "Elliott Management",
+            "ORG/FIN",
+            "Indicate",
+            "Expanding into New Markets",
+            "CONCEPT"
+        ]
+    ]
+}

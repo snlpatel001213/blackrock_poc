@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Control",
+            "iPhone",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Relate_To",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "iPhone",
+            "PRODUCT",
+            "Impact",
+            "iPhone addiction",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Negative_Impact_On",
+            "iPhone addiction",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Compare_To",
+            "cigarette company",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "PERSON",
+            "Compare_To",
+            "alcohol company",
+            "ORG"
+        ]
+    ]
+}

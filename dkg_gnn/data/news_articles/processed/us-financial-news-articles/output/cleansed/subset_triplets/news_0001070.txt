@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Produce",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Produce",
+            "Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Participates_In",
+            "U.S. Market",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Participates_In",
+            "U.S. Market",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Participates_In",
+            "China Market",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Participates_In",
+            "China Market",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Lower than expected Sales Target",
+            "CONCEPT"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Has",
+            "Lower than expected Sales Target",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Impact",
+            "Slow Recovery in China",
+            "CONCEPT"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Impact",
+            "Slow Recovery in China",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Impact",
+            "Ongoing U.S. Difficulties",
+            "CONCEPT"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Impact",
+            "Ongoing U.S. Difficulties",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Invests_In",
+            "New Markets",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Expired Tax Cut",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Sedan-heavy Line-up",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Impact",
+            "Growing Protectionism",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Trade Deal Talks",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Public Appearance",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Participates_In",
+            "Trade Deal Talks",
+            "CONCEPT"
+        ]
+    ]
+}

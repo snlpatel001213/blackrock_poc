@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Citi Open",
+            "EVENT",
+            "Relate_To",
+            "Gael Monfils",
+            "PERSON"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Impact",
+            "Fourth Round",
+            "CONCEPT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Negative_Impact_On",
+            "Past Fourth Round",
+            "CONCEPT"
+        ]
+    ]
+}

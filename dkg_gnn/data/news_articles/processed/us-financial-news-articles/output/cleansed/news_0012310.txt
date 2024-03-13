@@ -1,0 +1,100 @@
+{
+    "output": [
+        [
+            "Building workers",
+            "PERSON",
+            "Discover",
+            "Unmarked graves",
+            "GPE"
+        ],
+        [
+            "Unmarked graves",
+            "GPE",
+            "Relate_To",
+            "German soldiers",
+            "PERSON"
+        ],
+        [
+            "German soldiers",
+            "PERSON",
+            "Died",
+            "World War Two",
+            "EVENT"
+        ],
+        [
+            "Previously unknown individual graves",
+            "GPE",
+            "Located_Near",
+            "German military cemetery",
+            "GPE"
+        ],
+        [
+            "Previously unknown individual graves",
+            "GPE",
+            "Thought_To_Be",
+            "Undocumented section",
+            "GPE"
+        ],
+        [
+            "Previously unknown individual graves",
+            "GPE",
+            "Located_Near",
+            "Baltic coast",
+            "GPE"
+        ],
+        [
+            "Situation",
+            "GPE",
+            "Being_Looked_Into",
+            "Arnold Unt",
+            "PERSON"
+        ],
+        [
+            "Arnold Unt",
+            "PERSON",
+            "Tell",
+            "Public broadcaster ERR",
+            "ORG"
+        ],
+        [
+            "Battles",
+            "EVENT",
+            "Fought_Between",
+            "Soviet troops",
+            "PERSON",
+            "And",
+            "Retreating Nazi Germany forces",
+            "PERSON"
+        ],
+        [
+            "Estonian territory",
+            "GPE",
+            "Site_Of",
+            "Battles",
+            "EVENT"
+        ],
+        [
+            "Remains",
+            "GPE",
+            "Found",
+            "Unmarked graves",
+            "GPE",
+            "Every_Year"
+        ],
+        [
+            "Remains",
+            "GPE",
+            "Exhumed",
+            "And",
+            "Reburied",
+            "VERB"
+        ],
+        [
+            "Remains",
+            "GPE",
+            "Reburied",
+            "Military cemeteries",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,146 @@
+{
+    "output": [
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Announce",
+            "e-Palette",
+            "PRODUCT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Operate_In",
+            "Autonomous Vehicle",
+            "CONCEPT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Participates_In",
+            "Ride Hailing",
+            "EVENT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Participates_In",
+            "Package Delivery",
+            "EVENT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Plan",
+            "Test",
+            "e-Palette",
+            "PRODUCT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Work_With",
+            "Amazon.com Inc",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Work_With",
+            "Didi Chuxing Technology Co",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Work_With",
+            "Pizza Hut",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Work_With",
+            "Mazda Motor Corp",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Work_With",
+            "Uber Technologies Inc",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Commit",
+            "1 Billion",
+            "ECON_INDICATOR",
+            "Through",
+            "2020",
+            "TIME"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Plan",
+            "Test",
+            "Cars",
+            "PRODUCT",
+            "Drive",
+            "Themselves",
+            "VERB",
+            "On",
+            "Highways",
+            "LOCATION",
+            "Around",
+            "2020",
+            "TIME"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Feature",
+            "Open Control Interface",
+            "CONCEPT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Have",
+            "Partner Companies",
+            "COMP"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Install",
+            "Automated Driving System",
+            "CONCEPT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Guardian",
+            "Technology",
+            "CONCEPT",
+            "Act",
+            "Safety Net",
+            "CONCEPT"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Partner",
+            "Service Providers",
+            "COMP",
+            "On",
+            "Self-Driving Projects",
+            "EVENT",
+            "Over",
+            "Past Two Years",
+            "TIME"
+        ]
+    ]
+}

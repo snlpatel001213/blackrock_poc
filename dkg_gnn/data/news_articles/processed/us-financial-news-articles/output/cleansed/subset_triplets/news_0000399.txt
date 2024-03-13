@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "EMERGING MARKETS-LatAm markets kick off 2018 with a rally",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Caixin index",
+            "ECON_INDICATOR"
+        ],
+        [
+            "World",
+            "GPE",
+            "Has",
+            "Largest consumer",
+            "CONCEPT"
+        ]
+    ]
+}

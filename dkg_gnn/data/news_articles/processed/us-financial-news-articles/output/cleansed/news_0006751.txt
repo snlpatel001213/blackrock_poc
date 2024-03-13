@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Announce",
+            "annual personal challenge",
+            "CONCEPT"
+        ],
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Has",
+            "2018 task",
+            "CONCEPT"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Control",
+            "Mark Zuckerberg",
+            "PERSON"
+        ],
+        [
+            "Facebook Inc.",
+            "COMP",
+            "Impact",
+            "mounting difficulties",
+            "CONCEPT"
+        ],
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Announce",
+            "Fix Facebook Inc.",
+            "COMP"
+        ]
+    ]
+}

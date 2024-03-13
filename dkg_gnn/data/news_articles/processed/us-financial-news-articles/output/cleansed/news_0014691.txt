@@ -1,0 +1,51 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Control",
+            "Charlie Munger",
+            "PERSON"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Share",
+            "Investment Strategies",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Has",
+            "Nobody",
+            "CONCEPT"
+        ],
+        [
+            "Nobody",
+            "CONCEPT",
+            "Make",
+            "Great Business Decisions",
+            "CONCEPT"
+        ],
+        [
+            "Great Business Decisions",
+            "CONCEPT",
+            "By Listening",
+            "CONCEPT"
+        ],
+        [
+            "Listening",
+            "CONCEPT",
+            "To Economists",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "output": [
+        [
+            "Their",
+            "PERSON",
+            "Produce",
+            "organic sparkling wine",
+            "PRODUCT"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Test",
+            "Social",
+            "PRODUCT"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Own",
+            "some of his restaurants",
+            "ORG"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "See",
+            "demand",
+            "CONCEPT"
+        ],
+        [
+            "James Kramer",
+            "PERSON",
+            "Has_update",
+            "Tilman",
+            "PERSON"
+        ],
+        [
+            "James Kramer",
+            "PERSON",
+            "Report",
+            "not good news",
+            "CONCEPT"
+        ],
+        [
+            "All",
+            "CONCEPT",
+            "Relate_To",
+            "Billion Dollar Buyer",
+            "PRODUCT"
+        ],
+        [
+            "Billion Dollar Buyer",
+            "PRODUCT",
+            "Air_on",
+            "Wednesdays",
+            "CONCEPT"
+        ],
+        [
+            "Billion Dollar Buyer",
+            "PRODUCT",
+            "Air_at",
+            "10P ET/PT",
+            "CONCEPT"
+        ],
+        [
+            "Billion Dollar Buyer",
+            "PRODUCT",
+            "SHARES",
+            "CONCEPT"
+        ]
+    ]
+}

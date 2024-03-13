@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "Bare Metal Standard, Inc.",
+            "COMP",
+            "Announce",
+            "change ticker symbol to BRMT",
+            "EVENT"
+        ],
+        [
+            "Bare Metal Standard, Inc.",
+            "COMP",
+            "Operate_In",
+            "Financials Industry",
+            "SECTOR"
+        ],
+        [
+            "Bare Metal Standard, Inc.",
+            "COMP",
+            "Approve",
+            "FINRA",
+            "ORG/REG"
+        ],
+        [
+            "FINRA",
+            "ORG/REG",
+            "Announce",
+            "symbol change effective date",
+            "EVENT"
+        ],
+        [
+            "Bare Metal Standard, Inc.",
+            "COMP",
+            "Report",
+            "filings and market related information",
+            "PRODUCT",
+            "Under",
+            "new symbol",
+            "EVENT"
+        ],
+        [
+            "Bare Metal Standard, Inc.",
+            "COMP",
+            "Maintain",
+            "CUSIP number",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

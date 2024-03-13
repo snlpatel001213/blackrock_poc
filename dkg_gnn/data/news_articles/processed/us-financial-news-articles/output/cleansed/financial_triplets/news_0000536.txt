@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "OPEC",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Control",
+            "Ongoing Supply Cuts",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "10 mln bpd",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rystad",
+            "ORG",
+            "Announce",
+            "U.S. Production Capacity",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Operate_In",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Produce",
+            "9.75 mln bpd",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

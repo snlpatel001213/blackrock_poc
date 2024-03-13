@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Seattle Genetics Inc",
+            "COMP",
+            "Announce",
+            "FDA grants priority review status",
+            "EVENT"
+        ],
+        [
+            "Seattle Genetics Inc",
+            "COMP",
+            "Produce",
+            "ADCETRIS\u00ae",
+            "PRODUCT"
+        ],
+        [
+            "ADCETRIS\u00ae",
+            "PRODUCT",
+            "Control",
+            "Hodgkin Lymphoma treatment",
+            "PRODUCT"
+        ],
+        [
+            "FDA grants priority review status",
+            "EVENT",
+            "Relate_To",
+            "Supplemental Biologics License Application",
+            "EVENT"
+        ],
+        [
+            "Supplemental Biologics License Application",
+            "EVENT",
+            "Operate_In",
+            "FDA",
+            "ORG/GOV"
+        ],
+        [
+            "ADCETRIS\u00ae",
+            "PRODUCT",
+            "Impact",
+            "Frontline Advanced Hodgkin Lymphoma",
+            "CONCEPT"
+        ],
+        [
+            "Prescription Drug User Fee Act",
+            "EVENT",
+            "Has",
+            "May 1, 2018",
+            "DATE"
+        ]
+    ]
+}

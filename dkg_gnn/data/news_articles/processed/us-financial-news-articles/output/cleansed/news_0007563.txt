@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Some businesses",
+            "PERSON",
+            "Hold_Off_On",
+            "Installing the fix",
+            "CONCEPT"
+        ],
+        [
+            "Installing the fix",
+            "CONCEPT",
+            "Relate_To",
+            "Massive security bug",
+            "CONCEPT"
+        ],
+        [
+            "Massive security bug",
+            "CONCEPT",
+            "Impact_On",
+            "Microchips",
+            "COMP"
+        ],
+        [
+            "Microchips",
+            "COMP",
+            "Expose",
+            "Computers and smartphones",
+            "GPE"
+        ]
+    ]
+}

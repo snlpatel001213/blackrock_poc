@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Operate_In",
+            "Altenmarkt",
+            "GPE"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "Marketing and Tech Teams",
+            "ORG"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "International Specialists",
+            "ORG"
+        ],
+        [
+            "Ski",
+            "PRODUCT",
+            "Has",
+            "Titanium",
+            "CONCEPT"
+        ],
+        [
+            "Ski",
+            "PRODUCT",
+            "Has",
+            "Sidecuts",
+            "CONCEPT"
+        ],
+        [
+            "Ski",
+            "PRODUCT",
+            "Relate_To",
+            "Giant Slalom Rules",
+            "CONCEPT"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "General Manager",
+            "PERSON"
+        ],
+        [
+            "Thinner Materials",
+            "CONCEPT",
+            "Impact",
+            "Ski Performance",
+            "CONCEPT"
+        ],
+        [
+            "HEAD",
+            "COMP",
+            "Operate_In",
+            "Austria",
+            "GPE"
+        ],
+        [
+            "HEAD",
+            "COMP",
+            "Has",
+            "Winter Sports Boss",
+            "PERSON"
+        ],
+        [
+            "HEAD",
+            "COMP",
+            "Has",
+            "Graphene",
+            "CONCEPT"
+        ],
+        [
+            "Graphene",
+            "CONCEPT",
+            "Impact",
+            "Flex Pattern",
+            "CONCEPT"
+        ],
+        [
+            "HEAD",
+            "COMP",
+            "Has",
+            "Racing Skis",
+            "PRODUCT"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "Top Athletes",
+            "PERSON"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "Technical Experts",
+            "ORG"
+        ],
+        [
+            "Atomic",
+            "COMP",
+            "Has",
+            "Dedicated Team",
+            "ORG"
+        ]
+    ]
+}

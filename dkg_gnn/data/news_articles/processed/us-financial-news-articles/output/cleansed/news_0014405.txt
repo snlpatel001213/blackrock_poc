@@ -1,0 +1,112 @@
+{
+    "output": [
+        [
+            "Wolters Kluwer Health",
+            "ORG",
+            "Divest",
+            "ProVation Medical",
+            "ORG"
+        ],
+        [
+            "ProVation Medical",
+            "ORG",
+            "Produce",
+            "Procedure documentation and order set management software",
+            "PRODUCT"
+        ],
+        [
+            "ProVation Medical",
+            "ORG",
+            "Control",
+            "U.S. market-leadership in gastroenterology procedure documentation software",
+            "CONCEPT"
+        ],
+        [
+            "ProVation Medical",
+            "ORG",
+            "Control",
+            "Major supplier of order sets to hospitals and ambulatory surgery centers",
+            "CONCEPT"
+        ],
+        [
+            "ProVation Medical",
+            "ORG",
+            "Revenue",
+            "\u20ac65 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ProVation Medical",
+            "ORG",
+            "Employ",
+            "Approximately 200 employees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wolters Kluwer Health",
+            "ORG",
+            "Has",
+            "Health division",
+            "ORG"
+        ],
+        [
+            "Health division",
+            "ORG",
+            "Support",
+            "Healthcare providers in delivering improved patient outcomes",
+            "CONCEPT"
+        ],
+        [
+            "Health division",
+            "ORG",
+            "Offer",
+            "Broad and cohesive suite of products",
+            "CONCEPT"
+        ],
+        [
+            "Health division",
+            "ORG",
+            "Operate_In",
+            "Healthcare learning and research, to advanced clinical decision support, terminology management and patient engagement",
+            "SECTOR"
+        ],
+        [
+            "Clearlake Capital Group",
+            "ORG",
+            "Buy",
+            "ProVation Medical",
+            "ORG"
+        ],
+        [
+            "Clearlake Capital Group",
+            "ORG",
+            "Has",
+            "Extensive experience in software and technology",
+            "CONCEPT"
+        ],
+        [
+            "Completion of the divestment",
+            "EVENT",
+            "Subject to",
+            "Customary closing conditions",
+            "CONCEPT"
+        ],
+        [
+            "Wolters Kluwer",
+            "ORG",
+            "Deploy",
+            "Proceeds of the divestment",
+            "ECON_INDICATOR",
+            "Towards",
+            "Additional share repurchases",
+            "CONCEPT"
+        ],
+        [
+            "Wolters Kluwer",
+            "ORG",
+            "Mitigate",
+            "Expected earnings dilution",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Iranian army",
+            "ORG",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Unrest",
+            "EVENT"
+        ]
+    ]
+}

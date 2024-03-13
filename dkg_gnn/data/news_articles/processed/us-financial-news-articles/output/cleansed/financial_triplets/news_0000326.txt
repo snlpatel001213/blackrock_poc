@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Andy Murray",
+            "PERSON",
+            "Has",
+            "Hip Issues",
+            "CONCEPT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Operate_In",
+            "Tennis SECTOR",
+            "SECTOR"
+        ],
+        [
+            "Hip Issues",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Andy Murray",
+            "PERSON"
+        ]
+    ]
+}

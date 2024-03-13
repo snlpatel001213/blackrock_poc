@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Asv Holdings Inc",
+            "COMP",
+            "Announce",
+            "New Credit Facility",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Asv Holdings Inc",
+            "COMP",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "New Credit Facility",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "50 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Credit Facility",
+            "FIN_INSTRUMENT",
+            "Decrease",
+            "Annual Interest Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Credit Facility",
+            "FIN_INSTRUMENT",
+            "Control",
+            "15 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Credit Facility",
+            "FIN_INSTRUMENT",
+            "Control",
+            "35 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Credit Facility",
+            "FIN_INSTRUMENT",
+            "Replace",
+            "Former Credit Agreement",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

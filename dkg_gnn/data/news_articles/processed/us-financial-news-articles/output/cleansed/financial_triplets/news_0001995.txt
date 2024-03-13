@@ -1,0 +1,54 @@
+{
+    "output": [
+        [
+            "AG Barr",
+            "COMP",
+            "Produce",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "AG Barr",
+            "COMP",
+            "Decrease",
+            "Sugar",
+            "ECON_INDICATOR",
+            "in",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "Scotland",
+            "GPE",
+            "Has",
+            "Irn Bru",
+            "PRODUCT",
+            "as",
+            "Second National Drink",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Allen",
+            "PERSON",
+            "Raise",
+            "Petition",
+            "ORG",
+            "to",
+            "Reverse",
+            "Decision",
+            "of",
+            "AG Barr",
+            "COMP",
+            "on",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "Irn Bru",
+            "PRODUCT",
+            "Relate_To",
+            "Hangover Cure",
+            "CONCEPT"
+        ]
+    ]
+}

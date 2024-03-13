@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Ask",
+            "Medicare",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Prefer",
+            "More People Having Health Insurance",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Favor",
+            "Obamacare",
+            "EVENT"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Oppose",
+            "Obamacare",
+            "EVENT"
+        ],
+        [
+            "Medicare",
+            "ORG/GOV",
+            "Cover",
+            "59 Million Beneficiaries",
+            "NUMBER"
+        ],
+        [
+            "Sen. Bernie Sanders",
+            "PERSON",
+            "Call",
+            "Expand Medicare",
+            "ORG/GOV"
+        ],
+        [
+            "Obamacare",
+            "EVENT",
+            "Expand",
+            "20 Million People",
+            "NUMBER"
+        ],
+        [
+            "Obamacare",
+            "EVENT",
+            "Promoted",
+            "Democratic President",
+            "PERSON"
+        ],
+        [
+            "Obamacare",
+            "EVENT",
+            "Approved",
+            "Democratic Controlled Congress",
+            "ORG/GOV"
+        ],
+        [
+            "More Than 12 Percent",
+            "NUMBER",
+            "Lack",
+            "Health Insurance",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Wonder",
+            "Medicare Cover Every American",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Insist",
+            "Repeal Obamacare",
+            "EVENT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Believe",
+            "Repeal Most Satisfying",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Endorse",
+            "Repeal-And-Replace Effort",
+            "CONCEPT"
+        ],
+        [
+            "Tom Price",
+            "PERSON",
+            "Resign",
+            "After Exposure Of Habit Of Taking Pricey Charter Jet Flights",
+            "CONCEPT"
+        ]
+    ]
+}

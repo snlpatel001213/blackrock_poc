@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Four men",
+            "PERSON",
+            "Convicted",
+            "hazing death",
+            "EVENT"
+        ],
+        [
+            "Chun Hsien \u201cMichael\u201d Deng",
+            "PERSON",
+            "Die",
+            "hazing ritual",
+            "EVENT"
+        ],
+        [
+            "Pi Delta Psi",
+            "ORG",
+            "Ban",
+            "Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Pi Delta Psi",
+            "ORG",
+            "Fine",
+            "$110,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pi Delta Psi",
+            "ORG",
+            "Participates_In",
+            "hazing ritual",
+            "EVENT"
+        ],
+        [
+            "Baruch College",
+            "ORG",
+            "Involved",
+            "hazing death",
+            "EVENT"
+        ]
+    ]
+}

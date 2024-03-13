@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Barcelona",
+            "GPE",
+            "Has",
+            "Dembele",
+            "PERSON"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Introduce",
+            "Dembele",
+            "PERSON"
+        ],
+        [
+            "Dembele",
+            "PERSON",
+            "Operate_In",
+            "La Liga",
+            "SECTOR"
+        ],
+        [
+            "Barcelona",
+            "GPE",
+            "Operate_In",
+            "Copa del Rey",
+            "EVENT"
+        ]
+    ]
+}

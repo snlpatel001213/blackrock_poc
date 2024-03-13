@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Equities",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Japanese government bond prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Safe-haven debt",
+            "CONCEPT",
+            "Relate_To",
+            "Japanese government bond prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Trading",
+            "CONCEPT"
+        ],
+        [
+            "0.055 percent",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "10-year JGB yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "0.810 percent",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "30-year JGB yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "960 billion yen",
+            "FIN_INSTRUMENT",
+            "Is_Member_Of",
+            "Debt-purchasing operation",
+            "CONCEPT"
+        ],
+        [
+            "$8.52 billion",
+            "FIN_INSTRUMENT",
+            "Is_Member_Of",
+            "Debt-purchasing operation",
+            "CONCEPT"
+        ],
+        [
+            "Ultra-easy monetary policy",
+            "CONCEPT",
+            "Relate_To",
+            "Vow",
+            "CONCEPT"
+        ],
+        [
+            "$1",
+            "FIN_INSTRUMENT",
+            "Is_Member_Of",
+            "112.6400 yen",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "112.6400 yen",
+            "FIN_INSTRUMENT",
+            "Is_Member_Of",
+            "1 yen",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

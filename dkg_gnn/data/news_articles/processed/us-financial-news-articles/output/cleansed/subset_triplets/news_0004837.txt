@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Announce",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Texas Capital Bank",
+            "ORG",
+            "Operate_In",
+            "Dallas",
+            "GPE"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Has",
+            "Parent Company",
+            "ORG"
+        ],
+        [
+            "Texas Capital Bank",
+            "ORG",
+            "Is_Member_Of",
+            "Texas Capital Bancshares, Inc.",
+            "ORG"
+        ],
+        [
+            "Executive Management",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Fourth Quarter Results",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Relate_To",
+            "Fourth Quarter Results",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Has",
+            "Unique PIN Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "Russell 2000\u00ae Index",
+            "ORG"
+        ],
+        [
+            "Texas Capital Bancshares, Inc.",
+            "ORG",
+            "Is_Member_Of",
+            "S&P MidCap 400\u00ae",
+            "ORG"
+        ],
+        [
+            "Heather Worley",
+            "PERSON",
+            "Has",
+            "Email",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Tangshan",
+            "GPE",
+            "Introduce",
+            "Emergency Measures",
+            "CONCEPT"
+        ],
+        [
+            "Tangshan",
+            "GPE",
+            "Operate_In",
+            "Steel Hub",
+            "COMP"
+        ],
+        [
+            "Steel Mills",
+            "COMP",
+            "Control",
+            "Sintering",
+            "PRODUCT"
+        ],
+        [
+            "Steel Mills",
+            "COMP",
+            "Control",
+            "Shaft Furnace Production",
+            "PRODUCT"
+        ],
+        [
+            "Tangshan",
+            "GPE",
+            "Enforce",
+            "Second-Level Pollution Alert",
+            "CONCEPT"
+        ],
+        [
+            "Tangshan",
+            "GPE",
+            "Participates_In",
+            "Transportation Sector",
+            "SECTOR"
+        ],
+        [
+            "Tangshan",
+            "GPE",
+            "Participates_In",
+            "Construction Sectors",
+            "SECTOR"
+        ],
+        [
+            "Tangshan",
+            "GPE",
+            "Participates_In",
+            "Miners",
+            "COMP"
+        ],
+        [
+            "Ruby Lian",
+            "PERSON",
+            "Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Biju Dwarakanath",
+            "PERSON",
+            "Editing",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

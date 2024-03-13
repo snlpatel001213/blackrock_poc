@@ -1,0 +1,45 @@
+{
+    "output": [
+        [
+            "Gene Munster",
+            "PERSON",
+            "Announce",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Impact",
+            "Target",
+            "COMP"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Relate_To",
+            "Offline Partner"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Control",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Has",
+            "Manageable Store Count",
+            "QUANTITY"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Share",
+            "Demographic",
+            "CONCEPT"
+        ]
+    ]
+}

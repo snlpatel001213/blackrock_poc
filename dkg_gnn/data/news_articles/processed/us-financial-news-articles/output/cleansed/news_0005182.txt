@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Security researchers",
+            "PERSON",
+            "Disclose",
+            "Security flaws",
+            "CONCEPT"
+        ],
+        [
+            "Security flaws",
+            "CONCEPT",
+            "Put",
+            "Phones",
+            "COMP"
+        ],
+        [
+            "Phones",
+            "COMP",
+            "Virtually",
+            "Computers",
+            "COMP"
+        ],
+        [
+            "Computers",
+            "COMP",
+            "At risk",
+            "Chips",
+            "COMP"
+        ],
+        [
+            "Chips",
+            "COMP",
+            "From",
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Chips",
+            "COMP",
+            "And",
+            "AMD",
+            "ORG"
+        ],
+        [
+            "Security flaws",
+            "CONCEPT",
+            "Could",
+            "Let",
+            "VERB"
+        ],
+        [
+            "Hackers",
+            "PERSON",
+            "Steal",
+            "Sensitive information",
+            "CONCEPT"
+        ]
+    ]
+}

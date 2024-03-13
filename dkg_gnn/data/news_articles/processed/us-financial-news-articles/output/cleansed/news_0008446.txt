@@ -1,0 +1,131 @@
+{
+    "output": [
+        [
+            "Silvio Berlusconi",
+            "PERSON",
+            "Say",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "Silvio Berlusconi",
+            "PERSON",
+            "Has",
+            "euroceptic view",
+            "CONCEPT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Must_Not",
+            "Leave",
+            "euro",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Silvio Berlusconi",
+            "PERSON",
+            "Speak_On_Behalf_Of",
+            "League leader",
+            "Matteo Salvini",
+            "PERSON"
+        ],
+        [
+            "League",
+            "ORG",
+            "Has",
+            "eurosceptic view",
+            "CONCEPT"
+        ],
+        [
+            "League",
+            "ORG",
+            "Softened",
+            "Anti-euro rhetoric",
+            "CONCEPT"
+        ],
+        [
+            "League",
+            "ORG",
+            "Prepare",
+            "Italy to exit euro",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "League",
+            "ORG",
+            "Begin",
+            "Preparations to arrive at monetary sovereignty",
+            "CONCEPT"
+        ],
+        [
+            "Centre-right bloc",
+            "ORG",
+            "Take",
+            "Most seats in election",
+            "EVENT"
+        ],
+        [
+            "Centre-right bloc",
+            "ORG",
+            "Expected",
+            "to take most seats in election",
+            "EVENT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Most popular single party",
+            "CONCEPT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Rowed back",
+            "Eurosceptic stance",
+            "CONCEPT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Leader",
+            "Luigi Di Maio",
+            "PERSON"
+        ],
+        [
+            "Luigi Di Maio",
+            "PERSON",
+            "Confirm",
+            "5-Star would raise budget deficit",
+            "CONCEPT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Raise",
+            "Budget deficit above EU limit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Want",
+            "Renegotiate EU rules on banks capital requirements",
+            "CONCEPT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Pursue",
+            "Referendum on euro if unable to win concessions",
+            "CONCEPT"
+        ],
+        [
+            "5-Star Movement",
+            "ORG",
+            "Avoid",
+            "Referendum on euro",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Advanced Medical Isotope Corporation",
+            "COMP",
+            "Announce",
+            "Vivos Inc.",
+            "PERSON"
+        ],
+        [
+            "Vivos Inc.",
+            "PERSON",
+            "Operate_In",
+            "Isotope Applications",
+            "SECTOR"
+        ],
+        [
+            "Vivos Inc.",
+            "PERSON",
+            "Introduce",
+            "RadioGel TM",
+            "PRODUCT"
+        ],
+        [
+            "RadioGel TM",
+            "PRODUCT",
+            "Control",
+            "Yttrium-90",
+            "ECON_INDICATOR"
+        ],
+        [
+            "RadioGel TM",
+            "PRODUCT",
+            "Participates_In",
+            "Brachytherapy",
+            "PRODUCT"
+        ],
+        [
+            "RadioGel TM",
+            "PRODUCT",
+            "Impact",
+            "Tumors",
+            "CONCEPT"
+        ],
+        [
+            "RadioGel TM",
+            "PRODUCT",
+            "Relate_To",
+            "Private Animal Clinics",
+            "COMP"
+        ]
+    ]
+}

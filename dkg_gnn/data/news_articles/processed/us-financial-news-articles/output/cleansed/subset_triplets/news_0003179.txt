@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "PERSON",
+            "Relate_To",
+            "FANG Stocks",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "PERSON",
+            "Relate_To",
+            "FANG Stocks",
+            "ORG"
+        ],
+        [
+            "Netflix",
+            "PERSON",
+            "Relate_To",
+            "FANG Stocks",
+            "ORG"
+        ],
+        [
+            "Google",
+            "PERSON",
+            "Relate_To",
+            "FANG Stocks",
+            "ORG"
+        ],
+        [
+            "FANG Stocks",
+            "ORG",
+            "Impact",
+            "Stock Outlook",
+            "CONCEPT"
+        ]
+    ]
+}

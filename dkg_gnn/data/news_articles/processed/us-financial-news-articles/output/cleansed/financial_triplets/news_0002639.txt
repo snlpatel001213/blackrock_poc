@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Announce",
+            "fourth quarter and full year 2017 financial results conference call",
+            "EVENT"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Operate_In",
+            "Las Vegas",
+            "GPE"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Produce",
+            "industry-low fares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Produce",
+            "other travel-related products",
+            "PRODUCT"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Control",
+            "more than 85 aircraft",
+            "COMP"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Control",
+            "350 routes",
+            "EVENT"
+        ],
+        [
+            "Allegiant Travel Company",
+            "ORG",
+            "Control",
+            "base airfares less than half the cost of the average domestic roundtrip ticket",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Maurice J. Gallagher Jr.",
+            "PERSON",
+            "Participates_In",
+            "fourth quarter and full year 2017 financial results conference call",
+            "EVENT"
+        ],
+        [
+            "John Redmond",
+            "PERSON",
+            "Participates_In",
+            "fourth quarter and full year 2017 financial results conference call",
+            "EVENT"
+        ],
+        [
+            "Scott Sheldon",
+            "PERSON",
+            "Participates_In",
+            "fourth quarter and full year 2017 financial results conference call",
+            "EVENT"
+        ]
+    ]
+}

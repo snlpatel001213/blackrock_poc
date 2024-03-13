@@ -1,0 +1,227 @@
+{
+    "output": [
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Acquire",
+            "53,460,520 common shares",
+            "PRODUCT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Rangar Capital",
+            "ORG"
+        ],
+        [
+            "Rangar Capital",
+            "ORG",
+            "Acquire",
+            "53,460,520 common shares",
+            "PRODUCT"
+        ],
+        [
+            "Rangar Capital",
+            "ORG",
+            "Operate_In",
+            "Bundeep Singh Rangar",
+            "PERSON"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Acquire",
+            "ownership of 53,460,520 common shares",
+            "PRODUCT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Acquire",
+            "from 4 individuals",
+            "PERSON"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Increase",
+            "security holding percentage",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Fineqia",
+            "COMP",
+            "Participates_In",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Acquisition",
+            "CONCEPT",
+            "Relate_To",
+            "53,460,520 common shares",
+            "PRODUCT"
+        ],
+        [
+            "Acquisition",
+            "CONCEPT",
+            "Relate_To",
+            "4 individuals",
+            "PERSON"
+        ],
+        [
+            "Acquiror",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Bundeep Singh Rangar",
+            "PERSON"
+        ],
+        [
+            "Acquiror",
+            "CONCEPT",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Acquired Shares",
+            "PRODUCT",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Vendors",
+            "PERSON",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Beneficially_Own",
+            "75,016,289 Common Shares",
+            "PRODUCT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Beneficially_Own",
+            "114,750,201 common share purchase warrants",
+            "PRODUCT"
+        ],
+        [
+            "Rangar Capital",
+            "ORG",
+            "Beneficially_Own",
+            "75,016,289 Common Shares",
+            "PRODUCT"
+        ],
+        [
+            "Rangar Capital",
+            "ORG",
+            "Beneficially_Own",
+            "114,750,201 common share purchase warrants",
+            "PRODUCT"
+        ],
+        [
+            "Oranjeboom Ventures Limited",
+            "ORG",
+            "Beneficially_Own",
+            "common share purchase warrants",
+            "PRODUCT"
+        ],
+        [
+            "IXL Bancorp Limited",
+            "ORG",
+            "Beneficially_Own",
+            "common share purchase warrants",
+            "PRODUCT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Enter",
+            "transaction",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Increase_Or_Decrease",
+            "investment",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Head Office",
+            "CONCEPT",
+            "Operate_In",
+            "Fineqia",
+            "COMP"
+        ],
+        [
+            "Fineqia",
+            "COMP",
+            "File",
+            "early warning report",
+            "PRODUCT"
+        ],
+        [
+            "Canadian securities regulators",
+            "ORG/GOV",
+            "Receive",
+            "early warning report",
+            "PRODUCT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Provide",
+            "details on the Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Bundeep Singh Rangar",
+            "PERSON",
+            "Contact",
+            "at +44 20 7754 9144",
+            "CONCEPT"
+        ],
+        [
+            "SOURCE",
+            "CONCEPT",
+            "Bundeep Singh Rangar",
+            "PERSON"
+        ]
+    ]
+}

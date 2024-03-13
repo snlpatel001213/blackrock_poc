@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "I",
+            "PERSON",
+            "Consume",
+            "Macarons",
+            "PRODUCT"
+        ],
+        [
+            "Macarons",
+            "PRODUCT",
+            "Relate_To",
+            "Egg-white",
+            "CONCEPT"
+        ],
+        [
+            "Macarons",
+            "PRODUCT",
+            "Relate_To",
+            "Ground-almond",
+            "CONCEPT"
+        ],
+        [
+            "I",
+            "PERSON",
+            "Control",
+            "Proportion",
+            "CONCEPT"
+        ],
+        [
+            "Proportion",
+            "CONCEPT",
+            "Relate_To",
+            "Egg-white",
+            "CONCEPT"
+        ],
+        [
+            "Proportion",
+            "CONCEPT",
+            "Relate_To",
+            "Ground-almond",
+            "CONCEPT"
+        ]
+    ]
+}

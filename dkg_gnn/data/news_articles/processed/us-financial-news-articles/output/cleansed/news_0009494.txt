@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Mizrahi-Tefahot Bank",
+            "COMP",
+            "Announce",
+            "Union Bank of Israel purchase",
+            "EVENT"
+        ],
+        [
+            "Mizrahi-Tefahot Bank",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Union Bank of Israel",
+            "COMP",
+            "Operate_In",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Mizrahi-Tefahot Bank",
+            "COMP",
+            "Control",
+            "Union Bank of Israel",
+            "COMP"
+        ],
+        [
+            "Mizrahi-Tefahot Bank",
+            "COMP",
+            "Impact",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "Mizrahi-Tefahot Bank",
+            "COMP",
+            "Participates_In",
+            "Competition",
+            "CONCEPT"
+        ],
+        [
+            "Hapoalim",
+            "COMP",
+            "Participates_In",
+            "Competition",
+            "CONCEPT"
+        ],
+        [
+            "Leumi",
+            "COMP",
+            "Participates_In",
+            "Competition",
+            "CONCEPT"
+        ],
+        [
+            "Banking Regulator",
+            "ORG/REG",
+            "Support",
+            "Mizrahi-Tefahot Bank",
+            "COMP"
+        ],
+        [
+            "Finance Minister Moshe Kahlon",
+            "PERSON",
+            "Oppose",
+            "Mizrahi-Tefahot Bank",
+            "COMP"
+        ],
+        [
+            "Economy Minister Eli Cohen",
+            "PERSON",
+            "Oppose",
+            "Mizrahi-Tefahot Bank",
+            "COMP"
+        ],
+        [
+            "Bank of Israel",
+            "ORG/REG",
+            "Has",
+            "Banking Supervisory Role",
+            "CONCEPT"
+        ],
+        [
+            "Hedva Ber",
+            "PERSON",
+            "Supervise",
+            "Banks",
+            "COMP"
+        ],
+        [
+            "Parliamentary Finance Committee",
+            "ORG",
+            "Can",
+            "Strip",
+            "VERB"
+        ],
+        [
+            "Bank of Israel",
+            "ORG/REG",
+            "Consideration",
+            "Number of Players in Banking System",
+            "CONCEPT"
+        ]
+    ]
+}

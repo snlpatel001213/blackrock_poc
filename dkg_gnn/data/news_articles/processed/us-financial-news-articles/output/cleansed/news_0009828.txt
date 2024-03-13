@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "Perrigo Company Plc",
+            "ORG",
+            "Has",
+            "Perrigo DAC",
+            "ORG/SUB"
+        ],
+        [
+            "Perrigo Company Plc",
+            "ORG",
+            "Appoint",
+            "Uwe R\u00f6hrhoff",
+            "PERSON"
+        ],
+        [
+            "Uwe R\u00f6hrhoff",
+            "PERSON",
+            "Employment_Agreement",
+            "Perrigo DAC",
+            "ORG/SUB"
+        ],
+        [
+            "Perrigo DAC",
+            "ORG/SUB",
+            "Initial_Term",
+            "Three_Years",
+            "TIME"
+        ],
+        [
+            "Perrigo DAC",
+            "ORG/SUB",
+            "Provide",
+            "Annual_Base_Salary",
+            "EUR 850,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uwe R\u00f6hrhoff",
+            "PERSON",
+            "Receive",
+            "Sign-On_Bonus",
+            "EUR 850,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sign-On_Bonus",
+            "ECON_INDICATOR",
+            "Split",
+            "EUR 425,000",
+            "ECON_INDICATOR",
+            "Cash"
+        ],
+        [
+            "Sign-On_Bonus",
+            "ECON_INDICATOR",
+            "Split",
+            "EUR 425,000",
+            "ECON_INDICATOR",
+            "RSUS"
+        ],
+        [
+            "Uwe R\u00f6hrhoff",
+            "PERSON",
+            "Entitled",
+            "Target_Annual_Bonus",
+            "No_Less_Than",
+            "125%",
+            "Percent",
+            "Of",
+            "Annual_Base_Salary",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

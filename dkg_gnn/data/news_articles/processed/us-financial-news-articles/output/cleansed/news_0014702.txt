@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Bayer",
+            "COMP",
+            "Raise",
+            "1.8 billion euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Sell",
+            "10.4 percent stake",
+            "PRODUCT"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Buy",
+            "Monsanto",
+            "COMP"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Covestro",
+            "COMP",
+            "Share_Buyback",
+            "NA"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Sell",
+            "21 million Covestro shares",
+            "PRODUCT"
+        ],
+        [
+            "Covestro",
+            "COMP",
+            "Stock_Price",
+            "86.25 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Stake",
+            "14.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Covestro",
+            "COMP",
+            "Share_Price",
+            "87.52 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Place",
+            "Covestro shares",
+            "PRODUCT"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Relate_To",
+            "STOXX Europe 600 Chemicals",
+            "SECTOR"
+        ],
+        [
+            "Raymond James",
+            "ORG",
+            "Analyst",
+            "NA",
+            "NA"
+        ],
+        [
+            "Patrick Lambert",
+            "PERSON",
+            "Analyst",
+            "NA",
+            "NA"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Scheme",
+            "Gradually_shed_all_Covestro_stock",
+            "CONCEPT"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Sell",
+            "6.5 billion euros worth of shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Fetch",
+            "1 billion euros for bonds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Transfer",
+            "8.9 percent in Covestro shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Pension_Obligations",
+            "NA",
+            "NA"
+        ],
+        [
+            "EU commission",
+            "ORG/GOV",
+            "Review",
+            "Bayer\u2019s Monsanto deal",
+            "CONCEPT"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Launch",
+            "Cash call",
+            "NA"
+        ],
+        [
+            "Bernstein analysts",
+            "ORG",
+            "Expect",
+            "Capital increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bayer",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

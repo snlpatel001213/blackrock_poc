@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Build-A-Bear Workshop Inc",
+            "COMP",
+            "Name",
+            "Craig Leavitt",
+            "PERSON"
+        ],
+        [
+            "Craig Leavitt",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG"
+        ]
+    ]
+}

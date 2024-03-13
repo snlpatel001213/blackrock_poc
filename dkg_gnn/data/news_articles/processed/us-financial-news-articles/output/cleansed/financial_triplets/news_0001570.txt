@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Accelerating Economy",
+            "GPE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "2 percent inflation target",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Market Rally",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "CONCEPT",
+            "Raise",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Operate_In",
+            "Mid-December Meeting",
+            "EVENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Raise",
+            "Benchmark Interest Rate",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Open Market Committee",
+            "ORG/REG",
+            "Raise",
+            "Economic Outlook",
+            "CONCEPT"
+        ]
+    ]
+}

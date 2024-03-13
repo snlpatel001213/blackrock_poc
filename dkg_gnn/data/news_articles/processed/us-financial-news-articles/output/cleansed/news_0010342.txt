@@ -1,0 +1,85 @@
+{
+    "output": [
+        [
+            "cybersecurity researcher",
+            "PERSON",
+            "Find",
+            "malware",
+            "PRODUCT"
+        ],
+        [
+            "malware",
+            "PRODUCT",
+            "Mine",
+            "Monero",
+            "CRYPTOCURRENCY"
+        ],
+        [
+            "Infected computer",
+            "COMP",
+            "Instructed",
+            "Mine",
+            "Monero",
+            "CRYPTOCURRENCY"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Hackers",
+            "PERSON"
+        ],
+        [
+            "Hackers",
+            "PERSON",
+            "Target",
+            "new assets",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Pursue",
+            "alternative income streams",
+            "CONCEPT"
+        ],
+        [
+            "Monero",
+            "CRYPTOCURRENCY",
+            "Route",
+            "bounty",
+            "CONCEPT"
+        ],
+        [
+            "North Korean university",
+            "ORG",
+            "Receive",
+            "bounty",
+            "CONCEPT"
+        ],
+        [
+            "AlienVault",
+            "ORG",
+            "Release",
+            "report",
+            "PRODUCT"
+        ],
+        [
+            "report",
+            "PRODUCT",
+            "Released",
+            "Monday",
+            "DATE"
+        ],
+        [
+            "Monero",
+            "CRYPTOCURRENCY",
+            "Describe",
+            "itself",
+            "PRONOUN",
+            "as",
+            "secure, private and untraceable",
+            "CONCEPT"
+        ]
+    ]
+}

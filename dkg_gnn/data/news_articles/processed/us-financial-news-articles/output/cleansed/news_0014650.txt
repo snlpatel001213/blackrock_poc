@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Marlin Business Services Corp",
+            "COMP",
+            "Announce",
+            "Estimated Impact Of Tax Reform",
+            "CONCEPT"
+        ],
+        [
+            "Marlin Business Services Corp",
+            "COMP",
+            "Expects",
+            "One-Time Net Tax Benefit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marlin Business Services Corp",
+            "COMP",
+            "Relate_To",
+            "Deferred Tax Items",
+            "CONCEPT"
+        ],
+        [
+            "Marlin Business Services Corp",
+            "COMP",
+            "Expects",
+            "Net Reduction In Effective Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Marlin Business Services Corp",
+            "COMP",
+            "Relate_To",
+            "New Tax Law",
+            "CONCEPT"
+        ]
+    ]
+}

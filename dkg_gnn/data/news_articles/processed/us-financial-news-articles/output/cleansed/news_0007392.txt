@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Eric Wiebes",
+            "PERSON",
+            "Say",
+            "reduce output at Groningen gas field",
+            "ORG/GOV"
+        ],
+        [
+            "Groningen gas field",
+            "GPE",
+            "Has",
+            "output",
+            "ORG/GOV"
+        ],
+        [
+            "Groningen gas field",
+            "GPE",
+            "Reduce",
+            "as much as possible",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Groningen gas field",
+            "GPE",
+            "Participates_In",
+            "current government term",
+            "TIME"
+        ],
+        [
+            "Groningen gas field",
+            "GPE",
+            "Operate_In",
+            "Gas extraction industry",
+            "SECTOR"
+        ],
+        [
+            "Dozens of earthquakes",
+            "QUANTITY",
+            "Relate_To",
+            "Groningen gas field",
+            "GPE"
+        ],
+        [
+            "Thousands of buildings and homes",
+            "QUANTITY",
+            "Relate_To",
+            "damage",
+            "CONCEPT"
+        ],
+        [
+            "New coalition government",
+            "ORG/GOV",
+            "Under",
+            "Prime Minister Mark Rutte",
+            "PERSON"
+        ],
+        [
+            "New coalition government",
+            "ORG/GOV",
+            "Agree",
+            "reduce output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Groningen gas field",
+            "GPE",
+            "Reduce",
+            "20 billion cubic metres",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NAM joint venture",
+            "ORG",
+            "Operate_In",
+            "Groningen gas field",
+            "GPE"
+        ],
+        [
+            "NAM joint venture",
+            "ORG",
+            "Between",
+            "Royal Dutch Shell",
+            "COMP"
+        ],
+        [
+            "NAM joint venture",
+            "ORG",
+            "Between",
+            "ExxonMobil",
+            "COMP"
+        ]
+    ]
+}

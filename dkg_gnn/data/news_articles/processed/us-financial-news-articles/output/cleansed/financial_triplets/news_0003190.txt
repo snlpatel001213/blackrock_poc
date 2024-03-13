@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Fritz Lanman",
+            "PERSON",
+            "Announce",
+            "ClassPass",
+            "ORG"
+        ],
+        [
+            "ClassPass",
+            "ORG",
+            "Introduce",
+            "new product",
+            "PRODUCT"
+        ],
+        [
+            "new product",
+            "PRODUCT",
+            "Relate_To",
+            "fitness classes",
+            "PRODUCT"
+        ],
+        [
+            "new product",
+            "PRODUCT",
+            "Operate_In",
+            "comfort of your home",
+            "GPE"
+        ]
+    ]
+}

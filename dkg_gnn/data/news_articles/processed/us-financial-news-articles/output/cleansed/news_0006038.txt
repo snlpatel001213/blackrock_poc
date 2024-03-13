@@ -1,0 +1,115 @@
+{
+    "output": [
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Sell",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Own",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Buy",
+            "Shares",
+            "ORG"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Invest",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "SoftBank Group Corp",
+            "ORG",
+            "Lead",
+            "Consortium",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Co-founder",
+            "Travis Kalanick",
+            "PERSON"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Valued",
+            "$48B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Valued",
+            "$68B",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Planned",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Have",
+            "Employees",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Have",
+            "Early Investors",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Have",
+            "Shareholders",
+            "ORG"
+        ],
+        [
+            "Uber",
+            "ORG",
+            "Have",
+            "New CEO",
+            "PERSON"
+        ],
+        [
+            "Dara Khosrowshahi",
+            "PERSON",
+            "New CEO",
+            "Uber",
+            "ORG"
+        ],
+        [
+            "Dara Khosrowshahi",
+            "PERSON",
+            "Benefit",
+            "Deep-pocketed investor",
+            "ORG"
+        ],
+        [
+            "Deep-pocketed investor",
+            "ORG",
+            "SoftBank",
+            "ORG"
+        ]
+    ]
+}

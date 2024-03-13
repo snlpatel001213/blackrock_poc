@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "10-year euro bond",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Eurozone",
+            "GPE"
+        ],
+        [
+            "10-year euro bond",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Moody\u2019s A2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year euro bond",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Standard & Poor\u2019s A+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year euro bond",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Fitch Ratings A+",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

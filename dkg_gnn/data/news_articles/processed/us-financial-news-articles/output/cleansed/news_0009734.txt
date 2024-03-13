@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Shanghai Pharmaceuticals Holding Co Ltd.",
+            "COMP",
+            "Says",
+            "Changzhou-based pharmaceuticals unit",
+            "ORG"
+        ],
+        [
+            "Changzhou-based pharmaceuticals unit",
+            "ORG",
+            "Receive",
+            "goods manufacture practice (GMP) certificate",
+            "CONCEPT"
+        ],
+        [
+            "Jiangsu Food and Drug Administration",
+            "ORG/REG",
+            "Give",
+            "GMP certificate",
+            "CONCEPT"
+        ],
+        [
+            "Changzhou-based pharmaceuticals unit",
+            "ORG",
+            "Products include",
+            "acyclovir, ganciclovir",
+            "PRODUCT"
+        ],
+        [
+            "Changzhou-based pharmaceuticals unit",
+            "ORG",
+            "Products include",
+            "production line",
+            "PRODUCT"
+        ],
+        [
+            "Jiangsu Food and Drug Administration",
+            "ORG/REG",
+            "Valid period",
+            "until Dec. 25, 2022",
+            "DATE"
+        ],
+        [
+            "Shanghai-based pharmaceuticals unit",
+            "ORG",
+            "Receive",
+            "goods manufacture practice (GMP) certificate",
+            "CONCEPT"
+        ],
+        [
+            "Shanghai Food and Drug Administration",
+            "ORG/REG",
+            "Give",
+            "GMP certificate",
+            "CONCEPT"
+        ],
+        [
+            "Shanghai-based pharmaceuticals unit",
+            "ORG",
+            "Products include",
+            "flurbiprofen axetil",
+            "PRODUCT"
+        ],
+        [
+            "Shanghai Food and Drug Administration",
+            "ORG/REG",
+            "Valid period",
+            "until Dec. 26, 2022",
+            "DATE"
+        ]
+    ]
+}

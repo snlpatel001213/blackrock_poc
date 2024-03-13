@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Semgroup Corp",
+            "COMP",
+            "Announce",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "Semgroup Corp",
+            "COMP",
+            "Use",
+            "Proceeds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Semgroup Corp",
+            "COMP",
+            "Relate_To",
+            "Capital Raise Plan",
+            "CONCEPT"
+        ],
+        [
+            "Semgroup Corp",
+            "COMP",
+            "Relate_To",
+            "Acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Semgroup Corp",
+            "COMP",
+            "Pre-fund",
+            "Capital Growth Projects",
+            "CONCEPT"
+        ]
+    ]
+}

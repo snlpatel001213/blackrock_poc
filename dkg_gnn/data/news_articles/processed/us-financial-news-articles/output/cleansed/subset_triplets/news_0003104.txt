@@ -1,0 +1,68 @@
+{
+    "output": [
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Participates_In",
+            "Farmers Insurance Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Operate_In",
+            "PGA Tour",
+            "ORG"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Operate_In",
+            "Tiger Woods Foundation",
+            "ORG"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Participates_In",
+            "Genesis Open",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Has",
+            "14",
+            "ECON_INDICATOR",
+            "Major Titles"
+        ],
+        [
+            "Farmers Insurance Open",
+            "EVENT",
+            "Has",
+            "Torrey Pines",
+            "GPE"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Has",
+            "Back Pain",
+            "CONCEPT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Participates_In",
+            "Hero World Challenge",
+            "EVENT"
+        ],
+        [
+            "Tiger Woods",
+            "PERSON",
+            "Participates_In",
+            "Dubai Desert Classic",
+            "EVENT"
+        ]
+    ]
+}

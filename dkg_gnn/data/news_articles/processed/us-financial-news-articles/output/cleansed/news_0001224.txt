@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Emergency services",
+            "ORG",
+            "Announce",
+            "48 deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Collide",
+            "Truck",
+            "PRODUCT"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Career off",
+            "Cliff",
+            "PRODUCT"
+        ],
+        [
+            "Accident",
+            "EVENT",
+            "Happen",
+            "Panamericana Norte highway",
+            "GPE"
+        ],
+        [
+            "Accident",
+            "EVENT",
+            "Relate to",
+            "Pasamayo",
+            "GPE"
+        ],
+        [
+            "Accident",
+            "EVENT",
+            "Investigate",
+            "Police",
+            "ORG"
+        ],
+        [
+            "Road",
+            "PRODUCT",
+            "Unsafe",
+            "Peru",
+            "GPE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Rush",
+            "Emergency medical services",
+            "ORG"
+        ],
+        [
+            "Survivors",
+            "PERSON",
+            "Treated",
+            "Injuries",
+            "PRODUCT"
+        ]
+    ]
+}

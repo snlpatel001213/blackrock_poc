@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Operate_In",
+            "TOKYO",
+            "GPE"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Control",
+            "Ultra-Easy Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Ultra-Easy Monetary Policy",
+            "CONCEPT",
+            "Beat",
+            "Deflation",
+            "CONCEPT"
+        ],
+        [
+            "Haruhiko Kuroda",
+            "PERSON",
+            "Say",
+            "Speech",
+            "CONCEPT"
+        ],
+        [
+            "Haruhiko Kuroda",
+            "PERSON",
+            "Is_Member_Of",
+            "Bank of Japan",
+            "ORG/REG"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Have",
+            "Deflationary Mindset",
+            "CONCEPT"
+        ]
+    ]
+}

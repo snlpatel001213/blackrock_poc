@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Nicola Sturgeon",
+            "PERSON",
+            "Is_Member_Of",
+            "Scottish Leader",
+            "GPE"
+        ],
+        [
+            "Scottish Leader",
+            "GPE",
+            "Announce",
+            "will look at independence vote",
+            "EVENT"
+        ],
+        [
+            "Scotland",
+            "GPE",
+            "Has",
+            "First Minister",
+            "PERSON"
+        ],
+        [
+            "First Minister",
+            "PERSON",
+            "Visits",
+            "Rolls Royce plant",
+            "COMP"
+        ],
+        [
+            "Rolls Royce plant",
+            "COMP",
+            "Locate_In",
+            "Inchinnan",
+            "GPE"
+        ],
+        [
+            "Scottish Leader",
+            "GPE",
+            "Update",
+            "by end of this year",
+            "TIME"
+        ],
+        [
+            "Scotland",
+            "GPE",
+            "Has",
+            "shape of a deal",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Has",
+            "shape of a deal",
+            "CONCEPT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Has",
+            "shape of a deal",
+            "CONCEPT"
+        ],
+        [
+            "Scottish Leader",
+            "GPE",
+            "Look_At",
+            "future relationship",
+            "CONCEPT"
+        ],
+        [
+            "Scottish Leader",
+            "GPE",
+            "Make_Judgment",
+            "next appropriate steps",
+            "CONCEPT"
+        ]
+    ]
+}

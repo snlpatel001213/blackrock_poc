@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Jay Leno",
+            "PERSON",
+            "Participates_In",
+            "Nitro Circus",
+            "ORG"
+        ],
+        [
+            "Nitro Circus",
+            "ORG",
+            "Operate_In",
+            "Stunt",
+            "CONCEPT"
+        ],
+        [
+            "Travis Pastrana",
+            "PERSON",
+            "Control",
+            "Motorcycles",
+            "PRODUCT"
+        ],
+        [
+            "Motorcycles",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Recliner",
+            "PRODUCT"
+        ],
+        [
+            "Jay Leno",
+            "PERSON",
+            "Has",
+            "Soda",
+            "PRODUCT"
+        ],
+        [
+            "Soda",
+            "PRODUCT",
+            "Relate_To",
+            "Beverage",
+            "SECTOR"
+        ],
+        [
+            "Jay Leno",
+            "PERSON",
+            "Raise",
+            "Awareness",
+            "CONCEPT"
+        ],
+        [
+            "Awareness",
+            "CONCEPT",
+            "Relate_To",
+            "Safety",
+            "CONCEPT"
+        ]
+    ]
+}

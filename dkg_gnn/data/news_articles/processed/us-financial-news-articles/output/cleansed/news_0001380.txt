@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Turkish authorities",
+            "ORG/GOV",
+            "Issue",
+            "detention warrants for 68 shareholders",
+            "ENTITY"
+        ],
+        [
+            "Bank Asya",
+            "COMP",
+            "Relate_To",
+            "post-coup probe",
+            "EVENT"
+        ],
+        [
+            "shareholders of Bank Asya",
+            "ENTITY",
+            "Participates_In",
+            "operation",
+            "ENTITY"
+        ],
+        [
+            "operation",
+            "ENTITY",
+            "Target",
+            "network of the cleric",
+            "PERSON"
+        ],
+        [
+            "cleric",
+            "PERSON",
+            "Accused_Of",
+            "orchestrating last year\u2019s failed coup attempt",
+            "EVENT"
+        ],
+        [
+            "Bank Asya",
+            "COMP",
+            "Founded_By",
+            "followers of the U.S.-based cleric Fethullah Gulen",
+            "PERSON"
+        ],
+        [
+            "Bank Asya",
+            "COMP",
+            "Seized_By",
+            "state",
+            "ORG/GOV"
+        ],
+        [
+            "state",
+            "ORG/GOV",
+            "Crackdown",
+            "other Gulen-linked companies",
+            "ENTITY"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Says",
+            "Gulen masterminded the 2016 attempted coup",
+            "EVENT"
+        ],
+        [
+            "Gulen",
+            "PERSON",
+            "Denied",
+            "charges",
+            "ENTITY"
+        ],
+        [
+            "Gulen",
+            "PERSON",
+            "Condemned",
+            "coup",
+            "EVENT"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Jailed",
+            "more than 50,000 people",
+            "ENTITY"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Suspended",
+            "or dismissed from their jobs some 150,000 people",
+            "ENTITY"
+        ]
+    ]
+}

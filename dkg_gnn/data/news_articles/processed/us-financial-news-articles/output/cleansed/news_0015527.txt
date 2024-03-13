@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Say",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Has",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Will_Never",
+            "Have_Position",
+            "IN"
+        ],
+        [
+            "Cryptocurrency",
+            "CONCEPT",
+            "Come_To",
+            "Bad_Ending",
+            "CONCEPT"
+        ]
+    ]
+}

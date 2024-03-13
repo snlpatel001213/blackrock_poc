@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Fish",
+            "GPE",
+            "Dying",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Iguanas",
+            "PERSON",
+            "Freezing",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Trees",
+            "GPE",
+            "In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Manatees",
+            "PERSON",
+            "Seeking",
+            "Warmer Water",
+            "CONCEPT"
+        ],
+        [
+            "Sea Turtles",
+            "PERSON",
+            "Rescued",
+            "Frigid Water",
+            "CONCEPT"
+        ]
+    ]
+}

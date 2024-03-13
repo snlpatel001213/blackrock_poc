@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Bitcoin Cash",
+            "COMP"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "250 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Has",
+            "91.79 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Operate_In",
+            "Financial Institutions",
+            "ORG/REG"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Relate_To",
+            "American Express Co",
+            "COMP"
+        ],
+        [
+            "NEM",
+            "CONCEPT",
+            "Has",
+            "29,000 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stellar",
+            "CONCEPT",
+            "Has",
+            "14,000 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stellar",
+            "CONCEPT",
+            "Participates_In",
+            "Global Payments",
+            "CONCEPT"
+        ],
+        [
+            "Dash",
+            "CONCEPT",
+            "Has",
+            "9,300 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dash",
+            "CONCEPT",
+            "Control",
+            "Instant Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Has",
+            "9,200 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Produce",
+            "Smart Contracts",
+            "CONCEPT"
+        ],
+        [
+            "Litecoin",
+            "CONCEPT",
+            "Has",
+            "4,800 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Litecoin",
+            "CONCEPT",
+            "Operate_In",
+            "Cryptocurrency Market",
+            "SECTOR"
+        ],
+        [
+            "Cardano",
+            "CONCEPT",
+            "Has",
+            "3,000 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cardano",
+            "CONCEPT",
+            "Invests_In",
+            "Blockchain Technology",
+            "CONCEPT"
+        ],
+        [
+            "IOTA",
+            "CONCEPT",
+            "Has",
+            "450 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IOTA",
+            "CONCEPT",
+            "Raise",
+            "Market Cap",
+            "CONCEPT"
+        ]
+    ]
+}

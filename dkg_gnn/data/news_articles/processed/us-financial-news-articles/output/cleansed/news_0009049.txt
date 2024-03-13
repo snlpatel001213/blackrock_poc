@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Announce",
+            "trade crackdown",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Introduce",
+            "new tariffs",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "alleged unfair trade practices",
+            "CONCEPT"
+        ],
+        [
+            "Trump's administration",
+            "ORG/GOV",
+            "Begin_finalizing",
+            "decisions on trade fights",
+            "CONCEPT"
+        ],
+        [
+            "Trump's administration",
+            "ORG/GOV",
+            "Operate_In",
+            "trade policy",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Speaking",
+            "in Beijing",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Identify",
+            "trade imbalances",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Refocus",
+            "on policy areas",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Need_not_rely",
+            "on Congress",
+            "ORG/GOV"
+        ]
+    ]
+}

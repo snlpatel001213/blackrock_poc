@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Philippine shares",
+            "GPE",
+            "Increase",
+            "8923.72",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Foreign investors",
+            "ORG",
+            "Net buying",
+            "Equities worth 1.42 billion pesos",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SM Prime Holdings Inc",
+            "COMP",
+            "Close up",
+            "3.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "International Container Terminal Services Inc",
+            "COMP",
+            "Close up",
+            "2.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vietnam shares",
+            "GPE",
+            "Rise",
+            "1%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Joint Stock Commercial Bank for Foreign Trade of Viet Nam",
+            "COMP",
+            "Close up",
+            "5.6%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Close up",
+            "0.4%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United Overseas Bank Ltd",
+            "COMP",
+            "End up",
+            "2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thai shares",
+            "GPE",
+            "End largely flat",
+            null,
+            null
+        ],
+        [
+            "Indonesia",
+            "GPE",
+            "Close 0.2% lower",
+            null,
+            null
+        ]
+    ]
+}

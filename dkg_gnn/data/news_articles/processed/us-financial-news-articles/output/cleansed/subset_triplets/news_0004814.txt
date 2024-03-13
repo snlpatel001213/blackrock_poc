@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Google",
+            "COMP",
+            "Control",
+            "Gbikes",
+            "PRODUCT"
+        ],
+        [
+            "Gbikes",
+            "PRODUCT",
+            "Operate_In",
+            "Google Campus",
+            "GPE"
+        ],
+        [
+            "Mountain View Residents",
+            "PERSON",
+            "Impact",
+            "Gbikes",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Relate_To",
+            "Google Buses",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Relate_To",
+            "Income Inequality",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Relate_To",
+            "Rising Rents",
+            "CONCEPT"
+        ]
+    ]
+}

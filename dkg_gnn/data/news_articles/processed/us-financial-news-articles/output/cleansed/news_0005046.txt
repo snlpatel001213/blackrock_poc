@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Is_Member_Of",
+            "Brexit Campaigner",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Convince",
+            "David Cameron",
+            "PERSON"
+        ],
+        [
+            "David Cameron",
+            "PERSON",
+            "Call",
+            "Brexit Referendum",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Lead",
+            "Brexit Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Brexit",
+            "CONCEPT",
+            "Happen",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Meet",
+            "Michel Barnier",
+            "PERSON"
+        ],
+        [
+            "Michel Barnier",
+            "PERSON",
+            "EU_Chief_Negotiator",
+            "EU",
+            "GPE"
+        ],
+        [
+            "17.4 Million",
+            "ECON_INDICATOR",
+            "Vote",
+            "Leave",
+            "CONCEPT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Referendum",
+            "2016",
+            "EVENT"
+        ],
+        [
+            "51.9 Percent",
+            "ECON_INDICATOR",
+            "Vote",
+            "Leave",
+            "CONCEPT"
+        ],
+        [
+            "48.1 Percent",
+            "ECON_INDICATOR",
+            "Vote",
+            "Stay",
+            "CONCEPT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Prime_Minister",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Weak",
+            "EU_Divorce_Talks",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Scold",
+            "Theresa May",
+            "PERSON"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Represent",
+            "17.4_Million_People",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Ask",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Meet",
+            "Michel Barnier",
+            "PERSON"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Leave",
+            "EU",
+            "GPE"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Divorce_Talks",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Dismiss",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Cast",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Deep_Trouble",
+            "EU_Project",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "End",
+            "EU_Project",
+            "CONCEPT"
+        ],
+        [
+            "Tony Blair",
+            "PERSON",
+            "Opponent",
+            "Brexit",
+            "CONCEPT"
+        ],
+        [
+            "Tony Blair",
+            "PERSON",
+            "Speculation",
+            "Change_Mind",
+            "CONCEPT"
+        ]
+    ]
+}

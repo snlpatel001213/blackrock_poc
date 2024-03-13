@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "GATX Corporation",
+            "ORG",
+            "Announce",
+            "2017 Fourth Quarter Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GATX Corporation",
+            "ORG",
+            "Operate_In",
+            "Chicago, Illinois",
+            "GPE"
+        ],
+        [
+            "GATX Corporation",
+            "ORG",
+            "Hold",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Listen_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Access",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "GATX Corporation",
+            "ORG",
+            "Relate_To",
+            "GATX",
+            "COMP"
+        ],
+        [
+            "GATX",
+            "COMP",
+            "Have",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Contain",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Information",
+            "CONCEPT",
+            "Include",
+            "Financial",
+            "CONCEPT"
+        ],
+        [
+            "Jennifer McManus",
+            "PERSON",
+            "Contact_For",
+            "Further Information",
+            "CONCEPT"
+        ]
+    ]
+}

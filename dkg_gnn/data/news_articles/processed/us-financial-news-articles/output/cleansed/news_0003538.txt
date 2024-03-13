@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Turkey",
+            "GPE",
+            "Condemn",
+            "U.S.",
+            "ORG/GOV"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Convict",
+            "Turkish banker",
+            "PERSON"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Push_Back",
+            "U.S. conviction",
+            "EVENT"
+        ],
+        [
+            "Case",
+            "EVENT",
+            "Strain",
+            "Diplomatic relations",
+            "SECTOR"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Anger",
+            "Erdogan",
+            "PERSON"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Accuse",
+            "U.S. court officials",
+            "ORG"
+        ],
+        [
+            "Testimony",
+            "EVENT",
+            "Implicate",
+            "Senior officials",
+            "PERSON"
+        ],
+        [
+            "Ankara",
+            "GPE",
+            "Say",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "Case",
+            "EVENT",
+            "Based_On",
+            "Fabricated evidence",
+            "CONCEPT"
+        ],
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Convict",
+            "Five of six counts",
+            "CONCEPT"
+        ],
+        [
+            "U.S. court",
+            "ORG",
+            "Make",
+            "Interference",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Charge",
+            "Nine people",
+            "PERSON"
+        ],
+        [
+            "Ankara",
+            "GPE",
+            "Not_Threaten",
+            "Concrete measures",
+            "CONCEPT"
+        ],
+        [
+            "U.S. case",
+            "EVENT",
+            "Based_On",
+            "Testimony",
+            "EVENT"
+        ],
+        [
+            "Gold trader",
+            "PERSON",
+            "Cooperate",
+            "U.S. prosecutors",
+            "ORG"
+        ],
+        [
+            "Zarrab",
+            "PERSON",
+            "Plead_Guilty",
+            "Charges",
+            "CONCEPT"
+        ],
+        [
+            "Zarrab",
+            "PERSON",
+            "Implicate",
+            "Top Turkish politicians",
+            "PERSON"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Authorise",
+            "Two Turkish banks",
+            "COMP"
+        ],
+        [
+            "Deputy Prime Minister Bekir Bozdag",
+            "PERSON",
+            "Tweet",
+            "Zarrab court case",
+            "EVENT"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Say",
+            "Atilla",
+            "PERSON"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Halkbank",
+            "COMP",
+            "Advance",
+            "More than 4 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Court decision",
+            "EVENT",
+            "Unlikely",
+            "Damage",
+            "CONCEPT"
+        ],
+        [
+            "Erdogan",
+            "PERSON",
+            "Govern",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Teneo Intelligence",
+            "COMP",
+            "Say",
+            "Government",
+            "PERSON"
+        ],
+        [
+            "Government",
+            "PERSON",
+            "Portray",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "See",
+            "Possibility",
+            "CONCEPT"
+        ],
+        [
+            "Turkish lenders",
+            "COMP",
+            "Hit",
+            "Fines",
+            "CONCEPT"
+        ],
+        [
+            "Paul Fage",
+            "PERSON",
+            "Say",
+            "Whole thing",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Impose",
+            "Fines",
+            "CONCEPT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Respond",
+            "U.S.",
+            "ORG/GOV"
+        ],
+        [
+            "Finance Minister Naci Agbal",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "COMP"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Stand_By",
+            "Banks",
+            "COMP"
+        ]
+    ]
+}

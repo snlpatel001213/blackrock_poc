@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "International Paper",
+            "COMP",
+            "Declare",
+            "Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "International Paper",
+            "COMP",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "International Paper",
+            "COMP",
+            "Operate_In",
+            "Latin America",
+            "GPE"
+        ],
+        [
+            "International Paper",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "International Paper",
+            "COMP",
+            "Operate_In",
+            "North Africa",
+            "GPE"
+        ],
+        [
+            "International Paper",
+            "COMP",
+            "Operate_In",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Dividend",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "International Paper",
+            "COMP"
+        ],
+        [
+            "Dividend",
+            "ECON_INDICATOR",
+            "Payable",
+            "March 15, 2018",
+            "DATE"
+        ],
+        [
+            "Holders of record",
+            "PERSON",
+            "Record",
+            "February 21, 2018",
+            "DATE"
+        ]
+    ]
+}

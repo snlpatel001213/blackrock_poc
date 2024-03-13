@@ -1,0 +1,93 @@
+{
+    "output": [
+        [
+            "The Sterling Group",
+            "ORG",
+            "Announce",
+            "Construction Supply Group",
+            "COMP"
+        ],
+        [
+            "Brock White of Wisconsin",
+            "COMP",
+            "Operate_In",
+            "Milwaukee",
+            "GPE"
+        ],
+        [
+            "Construction Supply Group",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Construction Supply Group",
+            "COMP",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Construction Supply Group",
+            "COMP",
+            "Has",
+            "73",
+            "ECON_INDICATOR",
+            "Branches"
+        ],
+        [
+            "Construction Supply Group",
+            "COMP",
+            "Has",
+            "1150",
+            "ECON_INDICATOR",
+            "Employees"
+        ],
+        [
+            "Brock White of Wisconsin",
+            "COMP",
+            "Is_Member_Of",
+            "Construction Supply Group",
+            "COMP"
+        ],
+        [
+            "Brock White of Wisconsin",
+            "COMP",
+            "Operate_In",
+            "Milwaukee",
+            "GPE"
+        ],
+        [
+            "Brock White",
+            "COMP",
+            "Operate_In",
+            "Construction Supply Group",
+            "COMP"
+        ],
+        [
+            "The Sterling Group",
+            "ORG",
+            "Has",
+            "51",
+            "ECON_INDICATOR",
+            "Platform_Companies"
+        ],
+        [
+            "The Sterling Group",
+            "ORG",
+            "Has",
+            "Over_10.0_Billion",
+            "ECON_INDICATOR",
+            "Transaction_Value"
+        ],
+        [
+            "The Sterling Group",
+            "ORG",
+            "Has",
+            "Over_2.2_Billion",
+            "ECON_INDICATOR",
+            "Assets_Under_Management"
+        ]
+    ]
+}

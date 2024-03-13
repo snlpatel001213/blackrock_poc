@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Robins Kaplan LLP",
+            "ORG",
+            "Announce",
+            "David Graff",
+            "PERSON"
+        ],
+        [
+            "David Graff",
+            "PERSON",
+            "Has",
+            "Groundbreaking work",
+            "CONCEPT"
+        ],
+        [
+            "David Graff",
+            "PERSON",
+            "Participates_In",
+            "Commercial litigation practice",
+            "SECTOR"
+        ],
+        [
+            "David Graff",
+            "PERSON",
+            "Impact",
+            "Clients recourse",
+            "CONCEPT"
+        ],
+        [
+            "Robins Kaplan LLP",
+            "ORG",
+            "Operate_In",
+            "National platform",
+            "CONCEPT"
+        ],
+        [
+            "Robins Kaplan LLP",
+            "ORG",
+            "Has",
+            "Broad-based group of trial lawyers",
+            "CONCEPT"
+        ],
+        [
+            "Robins Kaplan LLP",
+            "ORG",
+            "Has",
+            "Bench in New York and beyond",
+            "CONCEPT"
+        ]
+    ]
+}

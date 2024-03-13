@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Brazilian state-owned power holding Centrais El\u00e9tricas Brasileiras SA",
+            "ORG/GOV",
+            "Hire",
+            "Hogan Lovells",
+            "ORG"
+        ],
+        [
+            "Centrais El\u00e9tricas Brasileiras SA",
+            "ORG/GOV",
+            "Resolve",
+            "Class Action Lawsuits",
+            "EVENT"
+        ],
+        [
+            "Hogan Lovells",
+            "ORG",
+            "Investigate",
+            "Alleged Acts of Corruption",
+            "EVENT"
+        ],
+        [
+            "Centrais El\u00e9tricas Brasileiras SA",
+            "ORG/GOV",
+            "Participates_In",
+            "Operation Car Wash",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "New Jersey",
+            "GPE",
+            "Control",
+            "Waterfront Commission of New York Harbor",
+            "ORG"
+        ],
+        [
+            "Waterfront Commission of New York Harbor",
+            "ORG",
+            "Operate_In",
+            "New York Harbor",
+            "GPE"
+        ],
+        [
+            "Waterfront Commission of New York Harbor",
+            "ORG",
+            "Relate_To",
+            "Organized Crime",
+            "CONCEPT"
+        ],
+        [
+            "Waterfront Commission of New York Harbor",
+            "ORG",
+            "Relate_To",
+            "Racketeering",
+            "CONCEPT"
+        ],
+        [
+            "Port Industry",
+            "SECTOR",
+            "Relate_To",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Port Industry",
+            "SECTOR",
+            "Relate_To",
+            "Mafia Involvement",
+            "CONCEPT"
+        ],
+        [
+            "Shipping Companies",
+            "COMP",
+            "Relate_To",
+            "New Workers",
+            "PERSON"
+        ]
+    ]
+}

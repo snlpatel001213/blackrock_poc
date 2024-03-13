@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "State Bank Financial Corporation",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "State Bank Financial Corporation",
+            "COMP",
+            "Operate_In",
+            "Atlanta",
+            "GPE"
+        ],
+        [
+            "State Bank Financial Corporation",
+            "COMP",
+            "Has",
+            "State Bank and Trust Company",
+            "ORG"
+        ],
+        [
+            "State Bank Financial Corporation",
+            "COMP",
+            "Produce",
+            "Commercial and Retail Banking Products",
+            "PRODUCT"
+        ],
+        [
+            "State Bank",
+            "ORG",
+            "Participates_In",
+            "Full Service Banking Business",
+            "SECTOR"
+        ],
+        [
+            "State Bank Financial Corporation",
+            "COMP",
+            "Control",
+            "Sheila Ray",
+            "PERSON"
+        ],
+        [
+            "Sheila Ray",
+            "PERSON",
+            "Raise",
+            "Investor Relations",
+            "SECTOR"
+        ]
+    ]
+}

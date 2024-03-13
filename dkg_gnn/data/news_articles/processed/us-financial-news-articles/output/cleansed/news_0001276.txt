@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Telemedicine",
+            "CONCEPT",
+            "Allow",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "Patients",
+            "PERSON",
+            "Access",
+            "Doctors",
+            "PERSON"
+        ],
+        [
+            "Doctors",
+            "PERSON",
+            "On_Demand",
+            "null",
+            "null"
+        ]
+    ]
+}

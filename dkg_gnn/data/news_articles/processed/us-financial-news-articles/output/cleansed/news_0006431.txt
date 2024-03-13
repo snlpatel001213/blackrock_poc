@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Participates_In",
+            "Pyeongchang Winter Games",
+            "EVENT"
+        ],
+        [
+            "Sweden",
+            "GPE",
+            "Has",
+            "Charlotte Kalla",
+            "PERSON"
+        ],
+        [
+            "Norway",
+            "GPE",
+            "Control",
+            "Women\u2019s gold medals",
+            "EVENT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Operate_In",
+            "Tarendo",
+            "GPE"
+        ],
+        [
+            "Tarendo",
+            "GPE",
+            "Relate_To",
+            "Charlotte Kalla\u2019s mentality",
+            "CONCEPT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Raise",
+            "Charlotte Kalla\u2019s profile",
+            "CONCEPT"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Leader",
+            "2017/18 FIS overall World Cup rankings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Ingvild Oestberg",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Heidi Weng",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Marit Bjoergen",
+            "PERSON"
+        ],
+        [
+            "Charlotte Kalla",
+            "PERSON",
+            "Compete_With",
+            "Ragnhild Haga",
+            "PERSON"
+        ]
+    ]
+}

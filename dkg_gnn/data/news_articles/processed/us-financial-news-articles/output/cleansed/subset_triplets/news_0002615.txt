@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Sudan",
+            "GPE",
+            "Operate_In",
+            "Kordofan",
+            "GPE"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Operate_In",
+            "Blue Nile",
+            "GPE"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Participates_In",
+            "Conflict",
+            "CONCEPT"
+        ],
+        [
+            "Rebels",
+            "ORG",
+            "Participates_In",
+            "Conflict",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Progress on counter terrorism cooperation",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Resolving internal conflicts",
+            "CONCEPT"
+        ],
+        [
+            "Rebels",
+            "ORG",
+            "Participates_In",
+            "Fighting",
+            "CONCEPT"
+        ],
+        [
+            "Army",
+            "ORG",
+            "Participates_In",
+            "Fighting",
+            "CONCEPT"
+        ],
+        [
+            "Darfur",
+            "GPE",
+            "Operate_In",
+            "Conflict",
+            "CONCEPT"
+        ]
+    ]
+}

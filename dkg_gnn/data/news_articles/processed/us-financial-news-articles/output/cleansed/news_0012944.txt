@@ -1,0 +1,83 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Power restored in parts of Kenyan capital after major outage",
+            "EVENT"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Control",
+            "Transmission system",
+            "CONCEPT"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Cause",
+            "Widespread outages",
+            "EVENT"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Operate_In",
+            "Kenya",
+            "GPE"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Distribute",
+            "Electricity",
+            "PRODUCT"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Get",
+            "60 percent of revenues",
+            "ECON_INDICATOR",
+            "From",
+            "Industrial consumers",
+            "SECTOR",
+            "In",
+            "Nairobi",
+            "GPE",
+            "And",
+            "Thika",
+            "GPE"
+        ],
+        [
+            "Kenya Power",
+            "ORG",
+            "Get",
+            "Bulk of its power",
+            "PRODUCT",
+            "From",
+            "Kenya Electricity Generating Company",
+            "COMP",
+            "(KenGen)"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Have",
+            "Installed electricity generating capacity",
+            "CONCEPT",
+            "Of",
+            "2341 MW"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Most of it",
+            "From",
+            "Geothermal and hydroelectric power",
+            "CONCEPT"
+        ]
+    ]
+}

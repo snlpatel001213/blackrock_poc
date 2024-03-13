@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Roger Federer",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Has",
+            "19",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Positive_Impact_On",
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "Jack Sock",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Jack Sock",
+            "PERSON",
+            "Control",
+            "8",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Positive_Impact_On",
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "CoCo Vandeweghe",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Participates_In",
+            "Hopman Cup",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Participates_In",
+            "Hopman Cup",
+            "EVENT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Impact",
+            "Final",
+            "EVENT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Is_Member_Of",
+            "Group B",
+            "SECTOR"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Is_Member_Of",
+            "Group A",
+            "SECTOR"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Is_Member_Of",
+            "Group A",
+            "SECTOR"
+        ],
+        [
+            "Naomi Osaka",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Anastasia Pavlyuchenkova",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Karen Khachanov",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Yuichi Sugita",
+            "PERSON",
+            "Participates_In",
+            "Tennis",
+            "CONCEPT"
+        ]
+    ]
+}

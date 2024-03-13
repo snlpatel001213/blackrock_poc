@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Ministry of Finance",
+            "ORG/GOV",
+            "Release",
+            "Taiwan's exports, imports and trade balance for December",
+            "EVENT"
+        ],
+        [
+            "Taiwan",
+            "GPE",
+            "Has",
+            "Ministry of Finance",
+            "ORG/GOV"
+        ],
+        [
+            "Ministry of Finance",
+            "ORG/GOV",
+            "Operate_In",
+            "Taiwan",
+            "GPE"
+        ],
+        [
+            "Exports",
+            "ECON_INDICATOR",
+            "Impact_On",
+            "Taiwan's economy",
+            "CONCEPT"
+        ],
+        [
+            "Imports",
+            "ECON_INDICATOR",
+            "Impact_On",
+            "Taiwan's economy",
+            "CONCEPT"
+        ],
+        [
+            "Trade balance",
+            "ECON_INDICATOR",
+            "Impact_On",
+            "Taiwan's economy",
+            "CONCEPT"
+        ],
+        [
+            "Exports to China",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "China",
+            "GPE"
+        ],
+        [
+            "Exports to U.S.",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Exports to Japan",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Exports to Europe",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

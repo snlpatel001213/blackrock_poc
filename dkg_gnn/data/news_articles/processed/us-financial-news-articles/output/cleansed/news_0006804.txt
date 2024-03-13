@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Impact",
+            "Anxiety",
+            "CONCEPT"
+        ],
+        [
+            "25%",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Americans",
+            "PERSON"
+        ],
+        [
+            "Music",
+            "PRODUCT",
+            "Relate_To",
+            "Sleep",
+            "CONCEPT"
+        ],
+        [
+            "University of Pennsylvania Perelman School of Medicine",
+            "ORG",
+            "Has",
+            "Mathias Basner",
+            "PERSON"
+        ],
+        [
+            "Mathias Basner",
+            "PERSON",
+            "Explain",
+            "Impact of Music on Sleep",
+            "CONCEPT"
+        ],
+        [
+            "Sleep",
+            "CONCEPT",
+            "Relate_To",
+            "Rituals",
+            "CONCEPT"
+        ]
+    ]
+}

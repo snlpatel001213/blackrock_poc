@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Join",
+            "Girls Who Invest",
+            "ORG"
+        ],
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Replace",
+            "Kathleen Powers Dunlap",
+            "PERSON"
+        ],
+        [
+            "Girls Who Invest",
+            "ORG",
+            "Have",
+            "30% of world investable capital managed by women by 2030",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Bring",
+            "Executive leadership experience in finance, public service and education",
+            "CONCEPT"
+        ],
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Managed",
+            "$100 billion in assets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Chair",
+            "Executive Education Board of The Wharton School at the University of Pennsylvania",
+            "ORG"
+        ],
+        [
+            "Janet Cowell",
+            "PERSON",
+            "Earned",
+            "BA in Non-Western History from the University of Pennsylvania and MBA from The Wharton School",
+            "EDUCATION"
+        ],
+        [
+            "Seema R. Hingorani",
+            "PERSON",
+            "Founder and Chair",
+            "Girls Who Invest",
+            "ORG"
+        ],
+        [
+            "Seema R. Hingorani",
+            "PERSON",
+            "Look forward",
+            "Working with Janet",
+            "PERSON"
+        ],
+        [
+            "Kathleen Powers Dunlap",
+            "PERSON",
+            "Retire",
+            "Position of CEO at Girls Who Invest",
+            "ORG"
+        ],
+        [
+            "Kathleen Powers Dunlap",
+            "PERSON",
+            "Help",
+            "Execute on a bold vision to create a significant pipeline of talented and diverse young women prepared to succeed on investment teams in the asset management industry",
+            "CONCEPT"
+        ],
+        [
+            "Kathleen Powers Dunlap",
+            "PERSON",
+            "Thank",
+            "GWI board, advisory board, partners and scholar community",
+            "ORG/COMP"
+        ]
+    ]
+}

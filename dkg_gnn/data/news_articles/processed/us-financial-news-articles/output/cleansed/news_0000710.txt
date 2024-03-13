@@ -1,0 +1,91 @@
+{
+    "output": [
+        [
+            "Gold",
+            "PRODUCT",
+            "Decrease",
+            "Wednesday",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Trade",
+            "aftermarket",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Down",
+            "0.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "At",
+            "$1,312.10",
+            "NONE"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Troy ounce",
+            "NONE"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Electronic trading",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Close",
+            "0.2%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "At",
+            "$1,316.20",
+            "NONE"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Comex division",
+            "NONE"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "New York Mercantile Exchange",
+            "NONE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Release",
+            "Minutes",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Mulling",
+            "Faster pace",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Rate increases",
+            "This year",
+            "TIME"
+        ]
+    ]
+}

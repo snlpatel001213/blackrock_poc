@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Bureau of Labor Statistics",
+            "ORG/GOV",
+            "Operate_In",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "6.8 percent",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Black unemployment rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Black unemployment rate",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Unemployment overall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment overall",
+            "ECON_INDICATOR",
+            "Has",
+            "4.1 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GE Aviation",
+            "COMP",
+            "Operate_In",
+            "Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Unemployment rate",
+            "ECON_INDICATOR",
+            "Impact",
+            "Non-farm payrolls",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Retail",
+            "SECTOR",
+            "Participates_In",
+            "Holiday season",
+            "CONCEPT"
+        ],
+        [
+            "National unemployment rate",
+            "ECON_INDICATOR",
+            "Has",
+            "4.1 percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Randall & Quilter Investment Holdings Ltd",
+            "COMP",
+            "Has_Resigned",
+            "Tom Booth",
+            "PERSON"
+        ],
+        [
+            "Randall & Quilter Investment Holdings Ltd",
+            "COMP",
+            "Is_Member_Of",
+            "Further Company Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Tom Booth",
+            "PERSON",
+            "Was",
+            "Group Chief Financial Officer",
+            "TITLE"
+        ],
+        [
+            "Alan Quilter",
+            "PERSON",
+            "Will_Assume",
+            "Group Chief Financial Officer",
+            "TITLE"
+        ]
+    ]
+}

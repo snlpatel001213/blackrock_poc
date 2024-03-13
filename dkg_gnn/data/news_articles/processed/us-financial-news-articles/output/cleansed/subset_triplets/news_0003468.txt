@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Minneapolis",
+            "GPE",
+            "Participates_In",
+            "Tightest Labor Markets",
+            "CONCEPT"
+        ],
+        [
+            "Denver",
+            "GPE",
+            "Participates_In",
+            "Tightest Labor Markets",
+            "CONCEPT"
+        ],
+        [
+            "Fort Myers",
+            "GPE",
+            "Participates_In",
+            "Tightest Labor Markets",
+            "CONCEPT"
+        ],
+        [
+            "Fort Myers",
+            "GPE",
+            "Has",
+            "Unemployment Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Businesses",
+            "ORG",
+            "Raise",
+            "Pay",
+            "CONCEPT"
+        ]
+    ]
+}

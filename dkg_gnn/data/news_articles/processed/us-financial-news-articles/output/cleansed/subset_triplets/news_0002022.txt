@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Decrease",
+            "5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Chip Industry",
+            "SECTOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Security Issues",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Hacking",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Invests_In",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Financial and Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Market Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Positive_Impact_On",
+            "Patches",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Positive_Impact_On",
+            "Bugs",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Positive_Impact_On",
+            "Financial Performance",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

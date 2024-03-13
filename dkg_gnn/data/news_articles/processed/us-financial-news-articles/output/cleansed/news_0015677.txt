@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Law enforcement authorities",
+            "ORG/GOV",
+            "Unveil",
+            "Charges",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Include",
+            "Murder",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Include",
+            "Drug Trafficking",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Include",
+            "Conspiracy",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Operate_In",
+            "Central America",
+            "GPE"
+        ],
+        [
+            "17 alleged members",
+            "PERSON",
+            "Charged_With",
+            "Criminal Enterprise",
+            "EVENT"
+        ],
+        [
+            "Nassau County District Attorney",
+            "ORG/GOV",
+            "Say",
+            "Indictment",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Organize_Into",
+            "Several Sub-groups",
+            "ORG/REG"
+        ],
+        [
+            "Each Sub-group",
+            "ORG/REG",
+            "Report_To",
+            "Gang Leaders in El Salvador",
+            "PERSON"
+        ],
+        [
+            "Gang Leaders in El Salvador",
+            "PERSON",
+            "Send",
+            "Proceeds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Started",
+            "Los Angeles",
+            "GPE"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Exist_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Cite",
+            "MS-13",
+            "ORG/REG"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Source_Of",
+            "Violence",
+            "CONCEPT"
+        ],
+        [
+            "Lax Enforcement",
+            "CONCEPT",
+            "Blamed_For",
+            "MS-13 Existence",
+            "CONCEPT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Include",
+            "Foreign Nationals",
+            "PERSON"
+        ],
+        [
+            "Foreign Nationals",
+            "PERSON",
+            "From",
+            "El Salvador or Honduras",
+            "GPE"
+        ],
+        [
+            "Two Defendants",
+            "PERSON",
+            "Accused_Of",
+            "Murder",
+            "EVENT"
+        ],
+        [
+            "Prosecutors",
+            "ORG/GOV",
+            "Seize",
+            "Four Kilograms",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prosecutors",
+            "ORG/GOV",
+            "Solve",
+            "Two Murders",
+            "EVENT"
+        ],
+        [
+            "MS-13 or Mara Salvatrucha",
+            "ORG/REG",
+            "Highest-Level Mara Salvatrucha Leader",
+            "PERSON"
+        ],
+        [
+            "Northeast",
+            "GPE",
+            "Report_To",
+            "MS-13 in El Salvador",
+            "PERSON"
+        ]
+    ]
+}

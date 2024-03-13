@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "European markets",
+            "FIN_INSTRUMENT",
+            "Open",
+            "lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European equities",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Wednesday morning",
+            "TIME"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Watch_Out_For",
+            "Corporate Earnings",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Watch_Out_For",
+            "Fresh Data",
+            "EVENT"
+        ]
+    ]
+}

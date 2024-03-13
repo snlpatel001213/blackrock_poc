@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Press Secretary Sarah Huckabee Sanders",
+            "PERSON"
+        ],
+        [
+            "Press Secretary Sarah Huckabee Sanders",
+            "PERSON",
+            "Participates_In",
+            "Daily Press Briefing",
+            "EVENT"
+        ],
+        [
+            "President",
+            "ORG/GOV",
+            "Relate_To",
+            "Comments on former strategist Steve Bannon",
+            "CONCEPT"
+        ]
+    ]
+}

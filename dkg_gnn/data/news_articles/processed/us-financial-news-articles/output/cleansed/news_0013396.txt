@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "US Preventive Services Task Force",
+            "ORG/GOV",
+            "Recommend",
+            "Scoliosis Screening",
+            "EVENT"
+        ],
+        [
+            "US Preventive Services Task Force",
+            "ORG/GOV",
+            "Not_Recommend",
+            "Routine Scoliosis Screening",
+            "EVENT"
+        ],
+        [
+            "U.S. doctors",
+            "PERSON",
+            "Debate",
+            "Scoliosis Screening",
+            "EVENT"
+        ],
+        [
+            "Dr. Alex Kemper",
+            "PERSON",
+            "State",
+            "Lack of Evidence for Long-term Benefits of Back Brace Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Back brace",
+            "PRODUCT",
+            "May",
+            "Stop Scoliosis from Getting Worse",
+            "CONCEPT"
+        ],
+        [
+            "Scoliosis",
+            "CONCEPT",
+            "Not_Relate_To",
+            "Improvements in Health that Last into Adulthood",
+            "CONCEPT"
+        ],
+        [
+            "American Academy of Pediatrics",
+            "ORG",
+            "Recommend",
+            "Routine Scoliosis Screening",
+            "EVENT"
+        ],
+        [
+            "Dr. Timothy Hresko",
+            "PERSON",
+            "Emphasize",
+            "Need for Early Detection of Scoliosis",
+            "CONCEPT"
+        ],
+        [
+            "Back brace",
+            "PRODUCT",
+            "Confirm",
+            "Value of Bracing",
+            "CONCEPT"
+        ],
+        [
+            "Screening",
+            "EVENT",
+            "Done_By",
+            "Looking for Curves along the Spine and Asymmetry around the Back, Shoulders and Hips",
+            "CONCEPT"
+        ],
+        [
+            "Screening",
+            "EVENT",
+            "May_Cause",
+            "Psychological Distress and Needless Testing and Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Scoliosis",
+            "CONCEPT",
+            "Not_Proven_to",
+            "Reduce Number of Adults with Breathing Problems, Back Pain, Disability or Reduced Quality of Life",
+            "CONCEPT"
+        ],
+        [
+            "Dr. John Francis Sarwark",
+            "PERSON",
+            "Advise",
+            "Parents to See a Doctor if Concerned about Scoliosis",
+            "CONCEPT"
+        ]
+    ]
+}

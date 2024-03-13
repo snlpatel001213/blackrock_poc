@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Prayuth Chan-ocha",
+            "PERSON",
+            "Is_Member_Of",
+            "Thailand PM",
+            "ORG/GOV"
+        ],
+        [
+            "Thailand PM",
+            "ORG/GOV",
+            "Use",
+            "cardboard cutout",
+            "CONCEPT"
+        ],
+        [
+            "cardboard cutout",
+            "CONCEPT",
+            "Relate_To",
+            "reporters",
+            "PERSON"
+        ]
+    ]
+}

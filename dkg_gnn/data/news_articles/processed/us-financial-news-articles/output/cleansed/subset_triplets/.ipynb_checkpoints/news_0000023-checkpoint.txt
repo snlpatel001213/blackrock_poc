@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Announce",
+            "Completed Acquisition",
+            "ORG"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Operate_In",
+            "Energy Service",
+            "SECTOR"
+        ],
+        [
+            "Stallion Oilfield Services Ltd.",
+            "COMP",
+            "Control",
+            "Stallion Remote Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Stallion Remote Treatment",
+            "PRODUCT",
+            "Relate_To",
+            "Industry Leading Services",
+            "CONCEPT"
+        ]
+    ]
+}

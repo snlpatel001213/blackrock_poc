@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Seth Meyers",
+            "PERSON",
+            "Host",
+            "Golden Globe Awards",
+            "EVENT"
+        ],
+        [
+            "Hollywood Foreign Press",
+            "ORG",
+            "Infuriate",
+            "President",
+            "ORG/GOV"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Not_here",
+            "Golden Globe Awards",
+            "EVENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Winner",
+            "Cecil B. DeMille Lifetime Achievement Award",
+            "EVENT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Endure",
+            "Years of abuse and assault",
+            "CONCEPT"
+        ],
+        [
+            "Laura Dern",
+            "PERSON",
+            "Winner",
+            "Best Supporting Actress for TV Series \u201cBig Little Lies\u201d",
+            "EVENT"
+        ],
+        [
+            "Sterling K. Brown",
+            "PERSON",
+            "Winner",
+            "Best Actor for TV Drama \u201cThis Is Us\u201d",
+            "EVENT"
+        ],
+        [
+            "Dan Fogelman",
+            "PERSON",
+            "Write",
+            "Role for black man",
+            "CONCEPT"
+        ],
+        [
+            "Frances McDormand",
+            "PERSON",
+            "Winner",
+            "Best Actress in Movie Drama \u201cThree Billboards Outside Ebbing, Missouri\u201d",
+            "EVENT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Winner",
+            "Best Limited Series \u201cBig Little Lies\u201d",
+            "EVENT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Seen",
+            "Heard",
+            "RELATE_TO"
+        ],
+        [
+            "Stories",
+            "PRODUCT",
+            "Told",
+            "Industry",
+            "SECTOR"
+        ]
+    ]
+}

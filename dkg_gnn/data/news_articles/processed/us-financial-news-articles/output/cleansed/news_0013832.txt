@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "C&D International Investment Group Ltd",
+            "COMP",
+            "Participates_In",
+            "Develop Land",
+            "CONCEPT"
+        ],
+        [
+            "WUHAN CHENGKAI",
+            "COMP",
+            "Participates_In",
+            "Develop Land",
+            "CONCEPT"
+        ],
+        [
+            "C&D International Investment Group Ltd",
+            "COMP",
+            "Is_Member_Of",
+            "GPE"
+        ],
+        [
+            "WUHAN CHENGKAI",
+            "COMP",
+            "Is_Member_Of",
+            "GPE"
+        ],
+        [
+            "PROJECT CO",
+            "COMP",
+            "Control",
+            "Develop Land",
+            "CONCEPT"
+        ],
+        [
+            "YI YUE",
+            "PERSON",
+            "Invests_In",
+            "PROJECT CO",
+            "COMP"
+        ],
+        [
+            "WUHAN CHENGKAI",
+            "COMP",
+            "Invests_In",
+            "PROJECT CO",
+            "COMP"
+        ],
+        [
+            "PROJECT CO",
+            "COMP",
+            "Has",
+            "Registered Capital",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

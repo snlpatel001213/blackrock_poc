@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Taylor Morrison Home Corp",
+            "COMP",
+            "Announce",
+            "Pricing",
+            "EVENT"
+        ],
+        [
+            "Taylor Morrison Home Corp",
+            "COMP",
+            "Raise",
+            "11 Million Shares",
+            "PRODUCT"
+        ],
+        [
+            "Taylor Morrison Home Corp",
+            "COMP",
+            "Control",
+            "TMM Holdings II",
+            "ORG"
+        ],
+        [
+            "TMM Holdings II",
+            "ORG",
+            "Repurchase",
+            "Aggregate of $100 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TMM Holdings II",
+            "ORG",
+            "Control",
+            "Partnership Units",
+            "PRODUCT"
+        ],
+        [
+            "TMM Holdings II",
+            "ORG",
+            "Control",
+            "Shares of Class B Common Stock",
+            "PRODUCT"
+        ]
+    ]
+}

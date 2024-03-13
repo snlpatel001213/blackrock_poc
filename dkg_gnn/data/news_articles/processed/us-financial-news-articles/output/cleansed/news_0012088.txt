@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Exponential ETFs",
+            "ORG"
+        ],
+        [
+            "Exponential ETFs",
+            "ORG",
+            "Launch",
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Track",
+            "Index of companies in the S&P 500",
+            "CONCEPT"
+        ],
+        [
+            "Index of companies in the S&P 500",
+            "CONCEPT",
+            "Relate_To",
+            "S&P 500",
+            "GPE"
+        ],
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Exchange-traded funds",
+            "SECTOR"
+        ],
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Weighted",
+            "Reverse order",
+            "CONCEPT"
+        ],
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Overweight",
+            "Smallest firms",
+            "COMP"
+        ],
+        [
+            "Reverse Cap Weighted U.S. Large Cap ETF",
+            "FIN_INSTRUMENT",
+            "Underweight",
+            "Largest firms",
+            "COMP"
+        ]
+    ]
+}

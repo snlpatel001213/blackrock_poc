@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "null",
+            null,
+            "null"
+        ],
+        [
+            "Chinese Government",
+            "ORG/GOV",
+            "Control",
+            "Property Sector",
+            "SECTOR"
+        ],
+        [
+            "UBS",
+            "COMP",
+            "Forecast",
+            "Zero Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Real Estate Transactions",
+            "SECTOR",
+            "null",
+            null,
+            "null"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Intensify",
+            "Crackdowns",
+            "null"
+        ],
+        [
+            "Speculative Buying",
+            "CONCEPT",
+            "Relate_To",
+            "Real Estate Purchases",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Have",
+            "Global Consequences",
+            "CONCEPT"
+        ],
+        [
+            "Kim Wright",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "COMP"
+        ],
+        [
+            "UBS Greater China Conference",
+            "EVENT",
+            "Host",
+            "Shanghai",
+            "GPE"
+        ],
+        [
+            "Chinese Authorities",
+            "ORG/GOV",
+            "Roll_Out",
+            "Measures",
+            "null"
+        ],
+        [
+            "2016",
+            "DATE",
+            "Since",
+            null,
+            "null"
+        ],
+        [
+            "Country Garden",
+            "COMP",
+            "Gain",
+            "Market Share",
+            "SECTOR"
+        ],
+        [
+            "China Vanke",
+            "COMP",
+            "Gain",
+            "Market Share",
+            "SECTOR"
+        ],
+        [
+            "Smaller Players",
+            "COMP",
+            "Exit",
+            "Sector",
+            "SECTOR"
+        ],
+        [
+            "Country Garden",
+            "COMP",
+            "Shares",
+            "Climb",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "China Vanke",
+            "COMP",
+            "Shares",
+            "Climb",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "2018",
+            "DATE",
+            "For",
+            null,
+            "null"
+        ],
+        [
+            "Property Sector",
+            "SECTOR",
+            "Slow",
+            "null",
+            "null"
+        ],
+        [
+            "Kim Wright",
+            "PERSON",
+            "Say",
+            "Performance",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Depend",
+            "Market Share",
+            "SECTOR"
+        ],
+        [
+            "Kim Wright",
+            "PERSON",
+            "Add",
+            "Little Bit",
+            "CONCEPT"
+        ]
+    ]
+}

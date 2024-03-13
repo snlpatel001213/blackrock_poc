@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Catherine Li",
+            "PERSON",
+            "Relate_To",
+            "Heavy identity tasks on the internet",
+            "CONCEPT"
+        ],
+        [
+            "Catherine Li",
+            "PERSON",
+            "Works_At",
+            "TheKey",
+            "ORG"
+        ],
+        [
+            "TheKey",
+            "ORG",
+            "Has",
+            "Biometric data",
+            "CONCEPT"
+        ],
+        [
+            "Biometric data",
+            "CONCEPT",
+            "Allow",
+            "Higher security data flows",
+            "CONCEPT"
+        ]
+    ]
+}

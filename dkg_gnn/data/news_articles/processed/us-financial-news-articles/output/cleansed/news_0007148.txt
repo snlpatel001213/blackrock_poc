@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "Kushner Cos",
+            "COMP",
+            "Probe",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Use",
+            "Visa Program",
+            "EB-5"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Operate_In",
+            "Real Estate",
+            "SECTOR"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Senior_Adviser",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Son-in-law",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "President",
+            "United States",
+            "GPE"
+        ],
+        [
+            "EB-5",
+            "CONCEPT",
+            "Grant",
+            "Visas",
+            "ORG/REG"
+        ],
+        [
+            "EB-5",
+            "CONCEPT",
+            "Investing",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Request",
+            "Information",
+            "ORG/REG"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Finance",
+            "Development Projects",
+            "SECTOR"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Refer",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Comply",
+            "Rules",
+            "CONCEPT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Do_Nothing_Improper",
+            "CONCEPT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Cooperate",
+            "Legal_Requests",
+            "ORG/REG"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Seek",
+            "Raise",
+            "MONEY"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Jointly_Develop",
+            "One_Journal_Square",
+            "PRODUCT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Seeking",
+            "Funding",
+            "MONEY"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Securities_Offering",
+            "CONCEPT"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Resign",
+            "Kushner_Cos",
+            "COMP"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Own",
+            "Stake",
+            "COMP"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Financial_Disclosure",
+            "Form",
+            "CONCEPT"
+        ]
+    ]
+}

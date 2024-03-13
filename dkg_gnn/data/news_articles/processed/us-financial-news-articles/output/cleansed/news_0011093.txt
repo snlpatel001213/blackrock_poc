@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Danish Police",
+            "ORG",
+            "Operate_In",
+            "Copenhagen",
+            "GPE"
+        ],
+        [
+            "U.S. Embassy",
+            "ORG/GOV",
+            "Located_In",
+            "Copenhagen",
+            "GPE"
+        ],
+        [
+            "Danish Police",
+            "ORG",
+            "Find",
+            "Object",
+            "CONCEPT"
+        ],
+        [
+            "Object",
+            "CONCEPT",
+            "Located_Near",
+            "U.S. Embassy",
+            "ORG/GOV"
+        ],
+        [
+            "Danish Police",
+            "ORG",
+            "Determine",
+            "Object",
+            "CONCEPT"
+        ],
+        [
+            "Danish Police",
+            "ORG",
+            "Not_Contain",
+            "Suspicious_Thing",
+            "CONCEPT"
+        ],
+        [
+            "Danish Police",
+            "ORG",
+            "Reopen",
+            "Roads",
+            "CONCEPT"
+        ],
+        [
+            "Roads",
+            "CONCEPT",
+            "Around",
+            "U.S. Embassy",
+            "ORG/GOV"
+        ]
+    ]
+}

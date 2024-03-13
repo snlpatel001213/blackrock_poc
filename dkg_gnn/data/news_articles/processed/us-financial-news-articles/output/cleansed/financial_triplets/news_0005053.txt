@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Twitter Inc.",
+            "ORG",
+            "Operate_In",
+            "Social Media Network",
+            "SECTOR"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "Twitter",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Control",
+            "Nuclear Button",
+            "CONCEPT"
+        ],
+        [
+            "Twitter",
+            "ORG",
+            "Has",
+            "Policy",
+            "CONCEPT"
+        ],
+        [
+            "Twitter",
+            "ORG",
+            "Impact",
+            "Public Interest",
+            "CONCEPT"
+        ],
+        [
+            "Twitter",
+            "ORG",
+            "Impact",
+            "Growth",
+            "CONCEPT"
+        ]
+    ]
+}

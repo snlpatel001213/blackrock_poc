@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Prince Harry",
+            "PERSON",
+            "Participates_In",
+            "Radio Station Visit",
+            "EVENT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Participates_In",
+            "Radio Station Visit",
+            "EVENT"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Is_Member_Of",
+            "Royal Family",
+            "ORG/GOV"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Relate_To",
+            "Royal Family",
+            "ORG/GOV"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Operate_In",
+            "Brixton",
+            "GPE"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Support",
+            "Young People",
+            "CONCEPT"
+        ]
+    ]
+}

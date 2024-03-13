@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Renault Group",
+            "ORG",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Dacia",
+            "COMP",
+            "Has",
+            "6.5 percent increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Renault",
+            "COMP",
+            "Has",
+            "2.7 percent increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Renault",
+            "COMP",
+            "Is_Member_Of",
+            "Renault Group",
+            "ORG"
+        ]
+    ]
+}

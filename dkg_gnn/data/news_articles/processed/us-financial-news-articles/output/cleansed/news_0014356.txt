@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Quit",
+            "BBC China Editor",
+            "ORG/GOV"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Fight",
+            "Pay Equality",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Force",
+            "Pay Disclosures",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Funded_By",
+            "Licence Fee",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Reach",
+            "95 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Hold",
+            "Exacting Standards",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Speak",
+            "Fluent Mandarin",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Report",
+            "China",
+            "GPE"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Return",
+            "TV Newsroom",
+            "ORG/GOV"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Expect",
+            "Equal Pay",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Pay",
+            "Carrie Gracie",
+            "PERSON"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Offer",
+            "Increase Pay",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Reject",
+            "Rise",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Have",
+            "Gender Pay Gap",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Commit",
+            "Wipe Out Gender Pay Gap",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Defend",
+            "Gender Pay Gap",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Say",
+            "No Systemic Discrimination Against Women",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Conduct",
+            "Independent Audit",
+            "CONCEPT"
+        ],
+        [
+            "Harriet Harman",
+            "PERSON",
+            "Write",
+            "Twitter",
+            "ORG/REG"
+        ],
+        [
+            "Harriet Harman",
+            "PERSON",
+            "Say",
+            "Problem Bigger Than BBC",
+            "CONCEPT"
+        ],
+        [
+            "Harriet Harman",
+            "PERSON",
+            "Advocate",
+            "Women Equality",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Ranked",
+            "15th",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Perform Worse",
+            "Comparable European Countries",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Measure",
+            "Global Gender Gap Index 2017",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Complain",
+            "Pay Discrimination",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Accuse",
+            "BBC",
+            "ORG/GOV"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Adopt",
+            "Divide And Rule",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Offer",
+            "Pay Rises",
+            "CONCEPT"
+        ],
+        [
+            "BBC",
+            "ORG/GOV",
+            "Lock Down",
+            "Complaints Process",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Battle",
+            "Bosses",
+            "PERSON"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Cite",
+            "Chinese State Censorship",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Cite",
+            "Surveillance",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Cite",
+            "Police Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Carrie Gracie",
+            "PERSON",
+            "Cite",
+            "Official Intimidation",
+            "CONCEPT"
+        ]
+    ]
+}

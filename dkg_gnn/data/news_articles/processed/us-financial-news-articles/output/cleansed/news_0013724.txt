@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Bank of Spain",
+            "ORG/GOV",
+            "Control",
+            "Spanish GDP growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Catalonia",
+            "GPE",
+            "Impact",
+            "Spanish GDP growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Spain",
+            "ORG/GOV",
+            "Operate_In",
+            "Spain",
+            "GPE"
+        ]
+    ]
+}

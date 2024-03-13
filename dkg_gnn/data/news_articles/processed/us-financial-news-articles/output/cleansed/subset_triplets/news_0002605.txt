@@ -1,0 +1,120 @@
+{
+    "output": [
+        [
+            "Attorney General Jeff Sessions",
+            "PERSON",
+            "Has",
+            "rescind an Obama -era policy",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General Jeff Sessions",
+            "PERSON",
+            "Impact",
+            "new confusion about enforcement and use",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Announce",
+            "change",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Justice Department",
+            "ORG",
+            "Control",
+            "federal prosecutors",
+            "PERSON"
+        ],
+        [
+            "Senator Cory Gardner",
+            "PERSON",
+            "Participates_In",
+            "Twitter",
+            "PRODUCT"
+        ],
+        [
+            "Senator Cory Gardner",
+            "PERSON",
+            "Negative_Impact_On",
+            "Justice Department",
+            "ORG"
+        ],
+        [
+            "Obama Administration",
+            "ORG",
+            "Introduce",
+            "policy that has generally barred federal law enforcement officials",
+            "PERSON",
+            "from interfering with marijuana sales",
+            "CONCEPT",
+            "in states where the drug is legal",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General",
+            "PERSON",
+            "Operate_In",
+            "Justice Department",
+            "ORG"
+        ],
+        [
+            "Justice Department",
+            "ORG",
+            "Produce",
+            "one-page memo",
+            "PRODUCT"
+        ],
+        [
+            "Attorney General",
+            "PERSON",
+            "Relate_To",
+            "well-established principles that govern all federal prosecutions",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "top priorities on such issues as immigration and opioids",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General",
+            "PERSON",
+            "Control",
+            "Justice Department agenda",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana advocates",
+            "PERSON",
+            "Relate_To",
+            "concerns",
+            "CONCEPT"
+        ],
+        [
+            "Obama Administration",
+            "ORG",
+            "Introduce",
+            "memo written by then-Deputy Attorney General James M. Cole",
+            "PERSON"
+        ],
+        [
+            "Justice Department",
+            "ORG",
+            "Operate_In",
+            "Washington D.C.",
+            "GPE"
+        ]
+    ]
+}

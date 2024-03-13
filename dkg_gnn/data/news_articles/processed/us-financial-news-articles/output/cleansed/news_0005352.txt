@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Belgians",
+            "PERSON",
+            "Participates_In",
+            "New Year's Plunge",
+            "EVENT"
+        ],
+        [
+            "New Year's Plunge",
+            "EVENT",
+            "Relate_To",
+            "Ostend",
+            "GPE"
+        ],
+        [
+            "Ostend",
+            "GPE",
+            "Has",
+            "North Sea",
+            "GPE"
+        ]
+    ]
+}

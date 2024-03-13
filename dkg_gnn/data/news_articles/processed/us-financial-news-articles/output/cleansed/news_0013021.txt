@@ -1,0 +1,34 @@
+{
+    "output": [
+        [
+            "Patterson-UTI Energy Inc",
+            "ORG",
+            "Announce",
+            "Pricing",
+            "EVENT"
+        ],
+        [
+            "Patterson-UTI Energy Inc",
+            "ORG",
+            "Announce",
+            "$525 Mln",
+            "ECON_INDICATOR",
+            "Offering",
+            "EVENT",
+            "of",
+            "Senior",
+            "Notes",
+            "FIN_INSTRUMENT",
+            "Due",
+            "2028",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Patterson-UTI Energy Inc",
+            "ORG",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ]
+    ]
+}

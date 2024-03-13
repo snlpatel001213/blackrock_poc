@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Roy Moore",
+            "PERSON"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Accuse",
+            "Sexual Assault",
+            "CONCEPT"
+        ],
+        [
+            "Home",
+            "PRODUCT",
+            "Destroy",
+            "Fire",
+            "EVENT"
+        ],
+        [
+            "Alabama Woman",
+            "PERSON",
+            "Home",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Etowah County Sheriff\u2019s Office",
+            "ORG",
+            "Say",
+            "Not Linked",
+            "CONCEPT"
+        ],
+        [
+            "Fire",
+            "EVENT",
+            "Not Related",
+            "Roy Moore",
+            "PERSON"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Tina Johnson",
+            "PERSON",
+            "Accuse",
+            "Roy Moore",
+            "PERSON"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Groped",
+            "Tina Johnson",
+            "PERSON"
+        ],
+        [
+            "Tina Johnson",
+            "PERSON",
+            "Visit",
+            "Roy Moore",
+            "PERSON"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Hire",
+            "Tina Johnson",
+            "PERSON"
+        ],
+        [
+            "Alabama Law Office",
+            "PRODUCT",
+            "Roy Moore",
+            "PERSON"
+        ],
+        [
+            "Tina Johnson",
+            "PERSON",
+            "28",
+            "null",
+            "NUM"
+        ],
+        [
+            "Tina Johnson",
+            "PERSON",
+            "Lost",
+            "Everything",
+            "CONCEPT"
+        ],
+        [
+            "Tina Johnson",
+            "PERSON",
+            "Quote",
+            "Al.com",
+            "ORG"
+        ],
+        [
+            "Al.com",
+            "ORG",
+            "Speak",
+            "Person of Interest",
+            "PERSON"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Conservative Christian",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Campaign",
+            "Tainted",
+            "CONCEPT"
+        ],
+        [
+            "Roy Moore",
+            "PERSON",
+            "Defeat",
+            "Alabama\u2019,s special election",
+            "EVENT"
+        ],
+        [
+            "Doug Jones",
+            "PERSON",
+            "First Democrat",
+            "Sent",
+            "VERB"
+        ],
+        [
+            "Doug Jones",
+            "PERSON",
+            "Senate",
+            "From Republican stronghold Alabama",
+            "GPE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Edit",
+            "Sandra Maler",
+            "PERSON"
+        ]
+    ]
+}

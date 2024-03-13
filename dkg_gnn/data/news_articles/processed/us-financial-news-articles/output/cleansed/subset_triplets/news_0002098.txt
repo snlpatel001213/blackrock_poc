@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Sydney Cricket Ground",
+            "GPE",
+            "Operate_In",
+            "City of Sydney",
+            "GPE"
+        ],
+        [
+            "Sydney Cricket Ground",
+            "GPE",
+            "Has",
+            "Capacity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sydney Cricket Ground",
+            "GPE",
+            "Has",
+            "Spin-friendly Pitch",
+            "CONCEPT"
+        ],
+        [
+            "Sydney Cricket Ground",
+            "GPE",
+            "Has",
+            "Seam-friendly Pitch",
+            "CONCEPT"
+        ],
+        [
+            "David Warner",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Cameron Bancroft",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ],
+        [
+            "James Anderson",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Alastair Cook",
+            "PERSON",
+            "Participates_In",
+            "Ashes Test",
+            "EVENT"
+        ]
+    ]
+}

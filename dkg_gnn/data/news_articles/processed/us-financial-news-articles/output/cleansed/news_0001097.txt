@@ -1,0 +1,148 @@
+{
+    "output": [
+        [
+            "Otto",
+            "ORG",
+            "Suspend",
+            "Smart lock",
+            "PRODUCT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Founded",
+            "2012",
+            "TIME"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Has",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Introduce",
+            "Digital door locks",
+            "PRODUCT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Operate_In",
+            "Technology sector",
+            "SECTOR"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Participates_In",
+            "Homeowners",
+            "PERSON"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Negative_Impact_On",
+            "Cash to continue operations",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Raise",
+            "Additional funding",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Invests_In",
+            "Startup",
+            "ORG"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Venture capital-backed company",
+            "CONCEPT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Sustainable businesses",
+            "CONCEPT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Cash infusions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Startups",
+            "CONCEPT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Control of their own destiny",
+            "CONCEPT"
+        ],
+        [
+            "Otto",
+            "ORG",
+            "Relate_To",
+            "Investor cash infusions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Digital door locks",
+            "PRODUCT",
+            "Decrease",
+            "$699 price point",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Digital door locks",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Security, design and performance",
+            "CONCEPT"
+        ],
+        [
+            "Digital door locks",
+            "PRODUCT",
+            "Relate_To",
+            "New generation of home access",
+            "CONCEPT"
+        ],
+        [
+            "August",
+            "ORG",
+            "Drop",
+            "$80",
+            "ECON_INDICATOR",
+            "August Smart Lock",
+            "PRODUCT"
+        ],
+        [
+            "August",
+            "ORG",
+            "Sell",
+            "Itself",
+            "EVENT",
+            "Swedish lock giant Assa Abloy",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Gold",
+            "PRODUCT",
+            "Steady",
+            "3-1/2-month high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Raise",
+            "0.5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Operate_In",
+            "U.S. dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. dollar",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "four-month low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Unable_To_Capitalize_On",
+            "dollar weakness",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Beginning_To_Look",
+            "overvalued",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Fair_Value",
+            "around $1,230",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Expensive",
+            "at current prices",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Doubt",
+            "recent U.S. tax changes will lead to inflation",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Doubt",
+            "widely-expected path of future rate hikes",
+            "CONCEPT"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Likely_To_Trade",
+            "between $1,200 and $1,300",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "PRODUCT",
+            "Ease",
+            "as the dollar recovered",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Rise",
+            "1.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Touch",
+            "record highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Tight_Supplies",
+            "N/A",
+            "CONCEPT"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Price_Jumped",
+            "56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Fears_Of_Shortage",
+            "N/A",
+            "CONCEPT"
+        ],
+        [
+            "Palladium",
+            "PRODUCT",
+            "Well_Supported",
+            "N/A",
+            "CONCEPT"
+        ],
+        [
+            "Silver",
+            "PRODUCT",
+            "Rise",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Silver",
+            "PRODUCT",
+            "Hit",
+            "eight-week high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Platinum",
+            "PRODUCT",
+            "Rise",
+            "0.7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Platinum",
+            "PRODUCT",
+            "Touch",
+            "3-1/2 month high",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

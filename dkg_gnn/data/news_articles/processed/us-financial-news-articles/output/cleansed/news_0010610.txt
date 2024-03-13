@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Control",
+            "VIP Petcare",
+            "COMP"
+        ],
+        [
+            "VIP Petcare",
+            "COMP",
+            "Is_Member_Of",
+            "PetIQ Inc",
+            "COMP"
+        ],
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Sees",
+            "2017 Preliminary Net Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Sees",
+            "2018 Pro Forma Net Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Anticipate",
+            "$450 Million to $500 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PetIQ Inc",
+            "COMP",
+            "Transaction",
+            "$220 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

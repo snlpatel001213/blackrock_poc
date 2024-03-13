@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Sudan",
+            "GPE",
+            "Participates_In",
+            "Use_Of_Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Kenya",
+            "GPE",
+            "Participates_In",
+            "Use_Of_Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Participates_In",
+            "Use_Of_Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Invests_In",
+            "Bitcoin",
+            "PRODUCT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Relate_To",
+            "Gigantic_Bubble",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Notch",
+            "1,375% Gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Used_For",
+            "Pay_For_Things",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Has",
+            "Transaction_Fees",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "PRODUCT",
+            "Has",
+            "Rising_Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Location",
+            "Attempt_To_Spend_Bitcoin",
+            "CONCEPT"
+        ]
+    ]
+}

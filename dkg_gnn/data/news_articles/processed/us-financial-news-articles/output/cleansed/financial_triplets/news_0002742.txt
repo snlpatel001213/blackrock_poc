@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Bomb Cyclone",
+            "CONCEPT",
+            "Impact",
+            "Severe Winter Weather",
+            "EVENT"
+        ],
+        [
+            "Bomb Cyclone",
+            "CONCEPT",
+            "Relate_To",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Relate_To",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "Virginia",
+            "GPE",
+            "Relate_To",
+            "Blizzard Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Maine",
+            "GPE",
+            "Relate_To",
+            "Blizzard Conditions",
+            "CONCEPT"
+        ]
+    ]
+}

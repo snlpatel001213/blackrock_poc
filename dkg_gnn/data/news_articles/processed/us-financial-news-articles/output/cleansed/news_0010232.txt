@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Expect",
+            "4.6%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Expect",
+            "15.3%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Expect",
+            "2.9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Expect",
+            "Slightly above $0.98 to $0.99",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Has",
+            "Unique model offering health and value across the store",
+            "CONCEPT"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Has",
+            "Consistent execution",
+            "CONCEPT"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Has",
+            "Strategic initiatives",
+            "CONCEPT"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Participates_In",
+            "20th Annual ICR Conference",
+            "EVENT"
+        ],
+        [
+            "Amin Maredia",
+            "PERSON",
+            "Is_Member_Of",
+            "Sprouts Farmers Market",
+            "COMP"
+        ],
+        [
+            "Brad Lukow",
+            "PERSON",
+            "Is_Member_Of",
+            "Sprouts Farmers Market",
+            "COMP"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Operate_In",
+            "Orlando, Florida",
+            "GPE"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Operate_In",
+            "15 states",
+            "GPE"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Has",
+            "More than 280 stores",
+            "COMP"
+        ],
+        [
+            "Sprouts Farmers Market",
+            "COMP",
+            "Employs",
+            "More than 27,000 team members",
+            "CONCEPT"
+        ]
+    ]
+}

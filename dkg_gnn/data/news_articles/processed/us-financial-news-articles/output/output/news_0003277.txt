@@ -1,0 +1,1 @@
+{'output': [['Traders', 'PERSON', 'Participates_In', 'Fast Money Halftime Report', 'EVENT'], ['Fast Money Halftime Report', 'EVENT', 'Relate_To', 'These six stocks', 'PRODUCT'], ['These six stocks', 'PRODUCT', 'Operate_In', 'Dow', 'ECON_INDICATOR'], ['Dow', 'ECON_INDICATOR', 'Impact', '25,000', 'NUMERIC']]}

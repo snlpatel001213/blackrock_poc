@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Health Care Sector",
+            "SECTOR"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Control",
+            "Prices",
+            "CONCEPT"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Impact",
+            "Other Advanced Industrialized Countries",
+            "GPE"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Has",
+            "Uwe Reinhardt",
+            "PERSON"
+        ],
+        [
+            "Paper",
+            "PRODUCT",
+            "Relate_To",
+            "Prices",
+            "CONCEPT"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Decrease",
+            "Health Spending",
+            "CONCEPT"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Decrease",
+            "Spending from Cardiovascular Diseases",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Invests_In",
+            "OneMain Holdings",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Invests_In",
+            "OneMain Holdings",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Control",
+            "Remaining Equity Interest",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Raise",
+            "26.00",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Own",
+            "Approximately 40.5%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Participates_In",
+            "Second Quarter",
+            "TIME"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Subject_To",
+            "Regulatory Approvals",
+            "ORG/REG"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Subject_To",
+            "Other Customary Closing Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Employ",
+            "Team Members",
+            "PERSON"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Dedicate",
+            "Support Communities",
+            "GPE"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Serve",
+            "Lead Financial Advisor",
+            "ORG"
+        ],
+        [
+            "Sidley Austin LLP",
+            "ORG",
+            "Serve",
+            "Legal Counsel",
+            "ORG"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Provide",
+            "Advisory Services",
+            "ORG"
+        ],
+        [
+            "Fortress Investment Group",
+            "ORG",
+            "Sell",
+            "Remaining Equity Interest",
+            "COMP"
+        ],
+        [
+            "Fortress Investment Group",
+            "ORG",
+            "Own",
+            "Majority Investor",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Appreciate",
+            "Support Insight",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Confident",
+            "Build Shareholder Value",
+            "CONCEPT"
+        ],
+        [
+            "Citi",
+            "ORG",
+            "Serve",
+            "Financial Advisor",
+            "ORG"
+        ],
+        [
+            "Cravath Swaine & Moore LLP",
+            "ORG",
+            "Serve",
+            "Legal Counsel",
+            "ORG"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Manage",
+            "Apollo Investment Fund VIII",
+            "COMP"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Commit",
+            "Available Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apollo Investment Fund VIII",
+            "COMP",
+            "Commit",
+            "OneMain",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Sponsor",
+            "Private Investment Funds",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Employ",
+            "More Than 270 People",
+            "PERSON"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Provide",
+            "Personal Loan Products",
+            "PRODUCT"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Offer",
+            "Responsible Service",
+            "CONCEPT"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Serve",
+            "Over 100 Years",
+            "TIME"
+        ]
+    ]
+}

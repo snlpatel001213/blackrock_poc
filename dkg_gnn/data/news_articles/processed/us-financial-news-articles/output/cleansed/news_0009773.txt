@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Explore",
+            "Private Brands Business",
+            "ORG"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Produce",
+            "Nut Butter",
+            "PRODUCT"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Produce",
+            "Dried Fruits",
+            "PRODUCT"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Produce",
+            "Pasta",
+            "PRODUCT"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Produce",
+            "Granola Products",
+            "PRODUCT"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Participates_In",
+            "Retail",
+            "SECTOR"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Participates_In",
+            "Distribution",
+            "SECTOR"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Impact",
+            "Company Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Counts",
+            "Grocers Whole Foods Market",
+            "GPE"
+        ],
+        [
+            "Private Brands Business",
+            "ORG",
+            "Counts",
+            "Grocers Aldi",
+            "GPE"
+        ],
+        [
+            "Michael Foods Group",
+            "ORG",
+            "Control",
+            "Jim Dwyer",
+            "PERSON"
+        ],
+        [
+            "Post Consumer Brands",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Michael Foods Group",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Active Nutrition",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Weetabix",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Refrigerated Retail",
+            "ORG",
+            "Will_Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Food Service",
+            "ORG",
+            "Will_Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Bob Evans Farms",
+            "ORG",
+            "Acquisition_By",
+            "Post Holdings Inc",
+            "COMP"
+        ],
+        [
+            "Bob Evans Farms",
+            "ORG",
+            "Acquisition_Completion_By",
+            "January 12",
+            "DATE"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Post Holdings Inc",
+            "COMP",
+            "Share_Price",
+            "$81",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vibhuti Sharma",
+            "PERSON",
+            "Reporting",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Bernard Orr",
+            "PERSON",
+            "Editing",
+            "Saumyadeb Chakrabarty",
+            "PERSON"
+        ]
+    ]
+}

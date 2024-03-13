@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Participates_In",
+            "Stoke City",
+            "ORG"
+        ],
+        [
+            "Mark Hughes",
+            "PERSON",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Stoke City",
+            "ORG",
+            "Control",
+            "Premier League Relegation Zone",
+            "SECTOR"
+        ]
+    ]
+}

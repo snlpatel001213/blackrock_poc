@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Allianz",
+            "ORG",
+            "Invest",
+            "American Well",
+            "COMP"
+        ],
+        [
+            "American Well",
+            "COMP",
+            "Operate_In",
+            "Digital Healthcare",
+            "SECTOR"
+        ],
+        [
+            "Allianz X",
+            "ORG",
+            "Participates_In",
+            "Investment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Allianz",
+            "ORG",
+            "Control",
+            "Allianz X",
+            "ORG"
+        ],
+        [
+            "Allianz",
+            "ORG",
+            "Impact",
+            "Digital Health Solutions",
+            "CONCEPT"
+        ],
+        [
+            "American Well",
+            "COMP",
+            "Relate_To",
+            "Wearable Sensors",
+            "PRODUCT"
+        ],
+        [
+            "American Well",
+            "COMP",
+            "Relate_To",
+            "Remote Monitoring",
+            "CONCEPT"
+        ],
+        [
+            "American Well",
+            "COMP",
+            "Relate_To",
+            "Virtual Visits",
+            "CONCEPT"
+        ]
+    ]
+}

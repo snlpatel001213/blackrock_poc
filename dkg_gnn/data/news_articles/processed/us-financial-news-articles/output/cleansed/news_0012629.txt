@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Beiersdorf",
+            "COMP",
+            "Post",
+            "5.7 percent rise in organic group sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Forecast",
+            "4 to 5 percent gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Sales",
+            "7.1 billion euros",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Exclude",
+            "exchange rate effects",
+            "CONCEPT"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Exclude",
+            "impact of acquisitions and divestments",
+            "CONCEPT"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Cite",
+            "particular strength at its consumer segment",
+            "SECTOR"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Cite",
+            "adhesives unit Tesa",
+            "COMP"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Perform",
+            "strongly against rivals Unilever",
+            "COMP"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "Perform",
+            "strongly against rivals Reckitt Benckiser",
+            "COMP"
+        ],
+        [
+            "Beiersdorf",
+            "COMP",
+            "CEO",
+            "Stefan Heidenreich",
+            "PERSON"
+        ],
+        [
+            "Stefan Heidenreich",
+            "PERSON",
+            "Say",
+            "good reason to be cautiously optimistic as we start into 2018",
+            "CONCEPT"
+        ],
+        [
+            "RBC Capital Market",
+            "COMP",
+            "Note",
+            "sales surpassed its expectations",
+            "CONCEPT"
+        ]
+    ]
+}

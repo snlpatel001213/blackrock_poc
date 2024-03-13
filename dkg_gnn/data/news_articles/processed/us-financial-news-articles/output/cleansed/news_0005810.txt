@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Prosecutors",
+            "ORG",
+            "File",
+            "Additional Bribery Charges",
+            "EVENT"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Receive",
+            "$3.3 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Receive",
+            "Official Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Receive",
+            "From Three Of Her Spy Chiefs",
+            "ORG"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Accused",
+            "Of Receiving",
+            "CONCEPT"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Accused",
+            "Official Funds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Park Geun-hye",
+            "PERSON",
+            "Accused",
+            "For Personal Purposes",
+            "CONCEPT"
+        ]
+    ]
+}

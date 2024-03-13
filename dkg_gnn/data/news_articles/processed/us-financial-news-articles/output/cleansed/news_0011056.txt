@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "AOI TYO Holdings Inc",
+            "COMP",
+            "Announce",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "TYO Inc",
+            "COMP",
+            "Participates_In",
+            "Sell",
+            "PRODUCT"
+        ],
+        [
+            "Office Building",
+            "PRODUCT",
+            "Control",
+            "TYO Inc",
+            "COMP"
+        ],
+        [
+            "Land",
+            "PRODUCT",
+            "Control",
+            "TYO Inc",
+            "COMP"
+        ],
+        [
+            "Tokyo",
+            "GPE",
+            "Locate_In",
+            "Office Building",
+            "PRODUCT"
+        ],
+        [
+            "Tokyo",
+            "GPE",
+            "Locate_In",
+            "Land",
+            "PRODUCT"
+        ],
+        [
+            "TYO Inc",
+            "COMP",
+            "Gain",
+            "484 million yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "March 30",
+            "EVENT",
+            "Relate_To",
+            "Sell",
+            "PRODUCT"
+        ]
+    ]
+}

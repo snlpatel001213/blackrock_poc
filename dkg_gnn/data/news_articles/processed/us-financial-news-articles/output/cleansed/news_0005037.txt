@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "Starz",
+            "ORG",
+            "Demand",
+            "Altice USA Inc",
+            "ORG"
+        ],
+        [
+            "Starz",
+            "ORG",
+            "Owned_By",
+            "Lions Gate Entertainment",
+            "ORG"
+        ],
+        [
+            "Altice USA Inc",
+            "ORG",
+            "Failed_To_Reach_Agreement",
+            "Starz",
+            "ORG"
+        ],
+        [
+            "Starz",
+            "ORG",
+            "Pulled_Signal",
+            "Altice",
+            "ORG"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Advised",
+            "Customers",
+            "GPE"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "No_Longer_Carry",
+            "Starzs_Channels",
+            "ORG"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Advised",
+            "Sign_Up",
+            "VERB",
+            "Online_Video_Service",
+            "PRODUCT"
+        ],
+        [
+            "Altice",
+            "ORG",
+            "Editing",
+            "Cynthia Osterman",
+            "PERSON"
+        ]
+    ]
+}

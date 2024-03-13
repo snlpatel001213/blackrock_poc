@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Egypt",
+            "GPE",
+            "Operate_In",
+            "Islamic State Insurgency",
+            "CONCEPT"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Operate_In",
+            "Remote North Sinai Region",
+            "GPE"
+        ],
+        [
+            "Islamists",
+            "ORG",
+            "Operate_In",
+            "Western Desert",
+            "GPE"
+        ],
+        [
+            "Egypt",
+            "GPE",
+            "Announce",
+            "Election Date",
+            "EVENT"
+        ]
+    ]
+}

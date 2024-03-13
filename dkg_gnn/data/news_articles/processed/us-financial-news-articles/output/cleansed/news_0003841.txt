@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Say",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Complete",
+            "Nuclear Weapons Program",
+            "CONCEPT"
+        ],
+        [
+            "Nuclear Weapons Program",
+            "CONCEPT",
+            "Relate_To",
+            "Continental U.S.",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Call",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Call",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Have",
+            "Weapons",
+            "CONCEPT"
+        ],
+        [
+            "Weapons",
+            "CONCEPT",
+            "Deter",
+            "Military Attack",
+            "CONCEPT"
+        ],
+        [
+            "Military Attack",
+            "CONCEPT",
+            "From",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

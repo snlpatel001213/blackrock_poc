@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Full-Year Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Operate_In",
+            "Consumer and Commercial Services",
+            "SECTOR"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Review",
+            "Company's Financial and Operating Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Individuals",
+            "PERSON",
+            "Wishing",
+            "Participate",
+            "EVENT"
+        ],
+        [
+            "Individuals",
+            "PERSON",
+            "Unable",
+            "Join",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Replay",
+            "Available",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Broadcast",
+            "Live",
+            "EVENT"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Access",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Provide",
+            "Pest Control Services",
+            "SERVICE"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Protect",
+            "Against",
+            "EVENT"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Serve",
+            "Two Million Customers",
+            "PERSON"
+        ],
+        [
+            "Rollins, Inc.",
+            "ORG",
+            "Located",
+            "More Than Seven Hundred Locations",
+            "LOCATION"
+        ]
+    ]
+}

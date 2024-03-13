@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "CSG",
+            "ORG",
+            "Invites",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Bret Griess",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Randy Wiese",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Discuss",
+            "Earnings Results",
+            "EVENT"
+        ],
+        [
+            "1-888-587-0615",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Liz Bauer",
+            "PERSON",
+            "Is_Member_Of",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "CSG Systems International",
+            "ORG",
+            "Has",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CSG Systems International",
+            "ORG",
+            "Operate_In",
+            "Communications Sector",
+            "SECTOR"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Deliver",
+            "Revenue Management",
+            "CONCEPT"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Deliver",
+            "Customer Experience",
+            "CONCEPT"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Deliver",
+            "Digital Monetization Solutions",
+            "CONCEPT"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Trusted Partner",
+            "Digital Transformation",
+            "CONCEPT"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Serve",
+            "Respected Communications",
+            "ORG"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Serve",
+            "Media and Entertainment Service Providers",
+            "ORG"
+        ],
+        [
+            "CSG",
+            "ORG",
+            "Serve",
+            "Global Brands",
+            "ORG"
+        ]
+    ]
+}

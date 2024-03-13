@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Impact",
+            "Oil Price Rally",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Fear",
+            "Shale Companies to Flood Market",
+            "CONCEPT"
+        ],
+        [
+            "Benchmark Brent Crude",
+            "ECON_INDICATOR",
+            "Rise",
+            "Above $68 a Barrel",
+            "NONE"
+        ],
+        [
+            "Oil Producing Nations",
+            "GPE",
+            "Receive",
+            "Boost in Revenues",
+            "CONCEPT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Worry",
+            "Prolonged Rally Stimulate Shale Production",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Say",
+            "Not Keen on Increased Prices",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Want",
+            "Crude Above $60",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Reduce",
+            "Gap in State Budget",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Advocate",
+            "Higher Prices",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Production",
+            "Rise Above 10 Million Barrels per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Say",
+            "2018 Rally Driven by Iran Unrest",
+            "EVENT"
+        ],
+        [
+            "OPEC",
+            "ORG/GOV",
+            "Worry",
+            "Sharp Decline in Prices",
+            "CONCEPT"
+        ],
+        [
+            "Others",
+            "NONE",
+            "Worry",
+            "Economic Growth Slow",
+            "CONCEPT"
+        ],
+        [
+            "Higher Prices",
+            "CONCEPT",
+            "Encourage",
+            "Some Producers to Pump Above Output Target",
+            "CONCEPT"
+        ]
+    ]
+}

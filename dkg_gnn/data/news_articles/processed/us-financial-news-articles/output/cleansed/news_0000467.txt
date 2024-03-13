@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Great American migration",
+            "EVENT",
+            "Relate_To",
+            "High-tax States",
+            "GPE"
+        ],
+        [
+            "High-tax States",
+            "GPE",
+            "Control",
+            "State and Local Taxes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "State and Local Taxes",
+            "ECON_INDICATOR",
+            "Known_As",
+            "SALT",
+            "CONCEPT"
+        ],
+        [
+            "SALT",
+            "CONCEPT",
+            "Has",
+            "$10,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "High-tax States",
+            "GPE",
+            "Lose",
+            "Population",
+            "CONCEPT"
+        ],
+        [
+            "Census Bureau",
+            "ORG",
+            "Release",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "Relevant_To",
+            "House",
+            "ORG/GOV"
+        ],
+        [
+            "Tax Reform",
+            "EVENT",
+            "Impact",
+            "State and Local Politicians",
+            "PERSON"
+        ]
+    ]
+}

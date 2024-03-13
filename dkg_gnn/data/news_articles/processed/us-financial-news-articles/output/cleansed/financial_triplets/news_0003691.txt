@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "Private Jobs Report",
+            "EVENT",
+            "Positive_Impact_On",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Global Markets",
+            "SECTOR",
+            "Positive_Impact_On",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Major Economies",
+            "GPE",
+            "Positive_Impact_On",
+            "Global Markets",
+            "SECTOR"
+        ]
+    ]
+}

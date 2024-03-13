@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Japanese Central Bank",
+            "ORG/GOV",
+            "Announce",
+            "Reports",
+            "EVENT"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Buy",
+            "\u00a5190 billion worth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Expect",
+            "\u00a5200 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/GOV",
+            "Rattle",
+            "Market",
+            "SECTOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Conjecture",
+            "BOJ tapering",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Relate_To",
+            "Tapering",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Relate_To",
+            "Stealth",
+            "CONCEPT"
+        ],
+        [
+            "BOJ",
+            "ORG/GOV",
+            "Relate_To",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Government Bond Yields",
+            "ECON_INDICATOR",
+            "Tick_Up",
+            "Globally",
+            "GPE"
+        ],
+        [
+            "Recent Days",
+            "EVENT",
+            "Relate_To",
+            "Government Bond Yields",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

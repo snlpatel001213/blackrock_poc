@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nikki Haley",
+            "PERSON",
+            "Praises",
+            "Iranian Demonstrators",
+            "PERSON"
+        ],
+        [
+            "Iranian Demonstrators",
+            "PERSON",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran Government",
+            "ORG/GOV"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Spontaneous",
+            "null",
+            "null"
+        ]
+    ]
+}

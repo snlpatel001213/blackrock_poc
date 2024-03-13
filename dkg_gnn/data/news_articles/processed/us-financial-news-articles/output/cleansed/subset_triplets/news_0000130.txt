@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Announce",
+            "Merger",
+            "EVENT"
+        ],
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Operate_In",
+            "EMEA",
+            "GPE"
+        ],
+        [
+            "Star2Star",
+            "ORG",
+            "Is_Member_Of",
+            "Unified Communications market",
+            "SECTOR"
+        ],
+        [
+            "Star2Star",
+            "ORG",
+            "Control",
+            "StarBlue",
+            "ORG"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Control",
+            "StarBlue",
+            "ORG"
+        ],
+        [
+            "Star2Star Communications",
+            "ORG",
+            "Positive_Impact_On",
+            "Unified Communications market",
+            "SECTOR"
+        ],
+        [
+            "Blueface",
+            "ORG",
+            "Positive_Impact_On",
+            "Unified Communications market",
+            "SECTOR"
+        ]
+    ]
+}

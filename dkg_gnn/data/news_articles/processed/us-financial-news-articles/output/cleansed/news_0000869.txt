@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "U.S. Stock Market",
+            "FIN_INSTRUMENT",
+            "End",
+            "2018-01-01",
+            "DATE"
+        ],
+        [
+            "U.S. Stock Market",
+            "FIN_INSTRUMENT",
+            "Higher",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Peter Costa",
+            "PERSON",
+            "Think",
+            "Trend Continue",
+            "CONCEPT"
+        ],
+        [
+            "Peter Costa",
+            "PERSON",
+            "Tell",
+            "CNBC Closing Bell",
+            "EVENT"
+        ],
+        [
+            "Trader Peter Costa",
+            "PERSON",
+            "President",
+            "Empire Executions",
+            "ORG"
+        ],
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Continue Going Up",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Have",
+            "Minor Pullbacks",
+            "CONCEPT"
+        ],
+        [
+            "Until",
+            "ADV",
+            "Market",
+            "Have",
+            "Something Game Changer",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Not Think",
+            "Much Way",
+            "TIME",
+            "This Market Going Higher",
+            "CONCEPT"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Close",
+            "0.8 Percent Higher",
+            "ECON_INDICATOR",
+            "2695.79",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Notch",
+            "Intraday and Closing Records",
+            "RECORD"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "Record Highs",
+            "RECORD"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Close",
+            "Above 7000",
+            "ECON_INDICATOR",
+            "First Time",
+            "TIME"
+        ],
+        [
+            "Strong Start",
+            "CONCEPT",
+            "Continuation",
+            "Action Seen",
+            "2017",
+            "YEAR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "19.4 Percent",
+            "ECON_INDICATOR",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "25.1 Percent",
+            "ECON_INDICATOR",
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "28.2 Percent",
+            "ECON_INDICATOR",
+            "Respectively",
+            "ADV"
+        ],
+        [
+            "Costa",
+            "PERSON",
+            "See",
+            "Good News",
+            "CONCEPT",
+            "Rally in Dow Transports",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Costa",
+            "PERSON",
+            "Think",
+            "More New Highs to Come",
+            "CONCEPT"
+        ],
+        [
+            "That",
+            "DET",
+            "Just Tell",
+            "Economy Still Growing",
+            "CONCEPT"
+        ],
+        [
+            "That",
+            "DET",
+            "Just Tell",
+            "More Room on Upside",
+            "CONCEPT"
+        ],
+        [
+            "Paul Hickey",
+            "PERSON",
+            "Believe",
+            "Investors Should Stay Course",
+            "CONCEPT"
+        ],
+        [
+            "Market",
+            "FIN_INSTRUMENT",
+            "Ultimately Care",
+            "What Economy and Federal Reserve Doing",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "GPE",
+            "Continue to Do Well",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Leading Indicators of Economy",
+            "CONCEPT",
+            "Show Strength",
+            "null",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fed",
+            "ORG/GOV",
+            "Not Showing",
+            "Real Signs of Becoming Overly Aggressive",
+            "CONCEPT"
+        ],
+        [
+            "Until",
+            "ADV",
+            "Two Things Change",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Best Served",
+            "Stick with Plans and Market",
+            "CONCEPT",
+            "Reacting to Headlines or Becoming More Cautious",
+            "CONCEPT",
+            "Pullback",
+            "CONCEPT"
+        ],
+        [
+            "Fred Imbert",
+            "PERSON",
+            "Contributed",
+            "This Report",
+            "CONCEPT",
+            "CNBC",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Cho Myong-gyon",
+            "PERSON",
+            "Offer",
+            "high-ranking government talks",
+            "EVENT"
+        ],
+        [
+            "Cho Myong-gyon",
+            "PERSON",
+            "Expect",
+            "two Koreas to focus on bringing a North Korean delegation to the Pyeongchang Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "South Korean Unification Minister",
+            "ORG",
+            "Offer",
+            "high-ranking government talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Suggest",
+            "talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Stick to",
+            "nuclear ambitions",
+            "CONCEPT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Open to dialogue",
+            "Seoul",
+            "GPE"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "Declare",
+            "North Korea a nuclear power",
+            "CONCEPT"
+        ],
+        [
+            "North Korean leader",
+            "PERSON",
+            "Declare",
+            "North Korea a nuclear power",
+            "CONCEPT"
+        ],
+        [
+            "North Korean delegation",
+            "GROUP",
+            "Possibly take part in",
+            "Winter Games",
+            "EVENT"
+        ],
+        [
+            "Pyeongchang Winter Olympics",
+            "EVENT",
+            "Begin",
+            "next month",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "output": [
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Hire",
+            "Kelli L. Kellar",
+            "PERSON"
+        ],
+        [
+            "Kelli L. Kellar",
+            "PERSON",
+            "Join",
+            "Arotech Corporation",
+            "ORG"
+        ],
+        [
+            "Kelli L. Kellar",
+            "PERSON",
+            "Start",
+            "April 1, 2018",
+            "DATE",
+            "CFO",
+            "POS"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Retire",
+            "Tom Paup",
+            "PERSON"
+        ],
+        [
+            "Tom Paup",
+            "PERSON",
+            "CFO",
+            "Arotech Corporation",
+            "ORG"
+        ],
+        [
+            "Kelli L. Kellar",
+            "PERSON",
+            "External Reporting",
+            "Fiat Chrysler Automobiles",
+            "ORG"
+        ],
+        [
+            "Kelli L. Kellar",
+            "PERSON",
+            "Controller",
+            "Silverpop Systems",
+            "ORG"
+        ],
+        [
+            "Kelli L. Kellar",
+            "PERSON",
+            "CAO",
+            "Premier Exhibitions",
+            "ORG"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Interactive Simulation",
+            "Military",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Interactive Simulation",
+            "Law Enforcement",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Interactive Simulation",
+            "Commercial Markets",
+            "SECTOR"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Mobile Power Systems",
+            "Military",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Mobile Power Systems",
+            "Commercial Markets",
+            "SECTOR"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Mobile Power Systems",
+            "Medical Markets",
+            "SECTOR"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Corporate Offices",
+            "Ann Arbor",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Research",
+            "Michigan",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Development",
+            "Michigan",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Production",
+            "South Carolina",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Production",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Annual Audit",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Annual Report",
+            "SEC",
+            "ORG/REG"
+        ],
+        [
+            "Arotech Corporation",
+            "ORG",
+            "Investor Relations",
+            "Scott Schmidt",
+            "PERSON"
+        ]
+    ]
+}

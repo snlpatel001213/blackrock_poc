@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Jaguar Land Rover",
+            "COMP",
+            "Attack",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "UK Prime Minister",
+            "ORG/GOV",
+            "Has",
+            "Lack of Authority",
+            "CONCEPT"
+        ],
+        [
+            "UK Prime Minister",
+            "ORG/GOV",
+            "Has",
+            "Questions over Competence",
+            "CONCEPT"
+        ],
+        [
+            "Britain\u2019s Manufacturers",
+            "SECTOR",
+            "Upbeat",
+            "State of Global Economy",
+            "CONCEPT"
+        ],
+        [
+            "Britain\u2019s Manufacturers",
+            "SECTOR",
+            "Believe",
+            "Demand from Overseas",
+            "CONCEPT"
+        ],
+        [
+            "UK House Prices",
+            "ECON_INDICATOR",
+            "Fell",
+            "December",
+            "TIME"
+        ],
+        [
+            "Halifax",
+            "COMP",
+            "Announce",
+            "Fall in House Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Travel Companies",
+            "SECTOR",
+            "Hope",
+            "UK Government",
+            "ORG/GOV"
+        ],
+        [
+            "Holidaymakers",
+            "PERSON",
+            "Approached",
+            "Compensation",
+            "PRODUCT"
+        ],
+        [
+            "High Street Retailers",
+            "SECTOR",
+            "Faced",
+            "Dismal End",
+            "TIME"
+        ],
+        [
+            "Households",
+            "PERSON",
+            "Cut Back",
+            "Overall Spending",
+            "CONCEPT"
+        ],
+        [
+            "Vauxhall",
+            "COMP",
+            "Cut",
+            "Jobs",
+            "PERSON"
+        ],
+        [
+            "Vauxhall",
+            "COMP",
+            "Slash",
+            "Production",
+            "CONCEPT"
+        ],
+        [
+            "Bailiffs",
+            "PERSON",
+            "Unleashed",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Struggle",
+            "Pay Higher Business Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dominic Chappell",
+            "PERSON",
+            "Failed",
+            "Provide Information",
+            "CONCEPT"
+        ],
+        [
+            "BHS",
+            "COMP",
+            "Collapse",
+            "Administration",
+            "EVENT"
+        ],
+        [
+            "Royal Bank of Scotland Group Plc",
+            "COMP",
+            "Trader",
+            "Fined",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Banned",
+            "Regulated Trading",
+            "CONCEPT"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Role",
+            "Libor-rigging Scandal",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Top",
+            "25,000",
+            "NUMERICAL"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Strong Economic Data",
+            "ECON_INDICATOR",
+            "Extend",
+            "New Years Equities Rally",
+            "EVENT"
+        ]
+    ]
+}

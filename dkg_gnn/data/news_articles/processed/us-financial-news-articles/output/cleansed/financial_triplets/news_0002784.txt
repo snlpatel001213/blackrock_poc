@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "T-Mobile US",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "T-Mobile US",
+            "COMP",
+            "Has",
+            "Magenta color",
+            "CONCEPT"
+        ],
+        [
+            "T-Mobile US",
+            "COMP",
+            "Impact",
+            "Customer satisfaction",
+            "CONCEPT"
+        ],
+        [
+            "Virgin Group",
+            "ORG",
+            "Has",
+            "Virgin name",
+            "CONCEPT"
+        ],
+        [
+            "Virgin Group",
+            "ORG",
+            "Participates_In",
+            "Different industries",
+            "SECTOR"
+        ],
+        [
+            "Virgin",
+            "ORG",
+            "Decrease",
+            "Music retail business",
+            "SECTOR"
+        ],
+        [
+            "Dollar Shave Club",
+            "COMP",
+            "Has",
+            "Michael Dubin",
+            "PERSON"
+        ],
+        [
+            "Dollar Shave Club",
+            "COMP",
+            "Produce",
+            "Humorous commercials",
+            "CONCEPT"
+        ],
+        [
+            "SOHO China",
+            "COMP",
+            "Has",
+            "Zhang Xin",
+            "PERSON"
+        ],
+        [
+            "SOHO China",
+            "COMP",
+            "Control",
+            "Construction standards",
+            "CONCEPT"
+        ],
+        [
+            "Small business",
+            "COMP",
+            "Relate_To",
+            "Entrepreneurial spirit",
+            "CONCEPT"
+        ]
+    ]
+}

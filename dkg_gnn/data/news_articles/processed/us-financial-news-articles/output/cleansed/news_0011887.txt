@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Gonzalo Guzm\u00e1n",
+            "PERSON",
+            "Grow_Up_In",
+            "Veracruz",
+            "GPE"
+        ],
+        [
+            "Gonzalo Guzm\u00e1n",
+            "PERSON",
+            "Learn",
+            "Home Cooking",
+            "CONCEPT"
+        ],
+        [
+            "Gonzalo Guzm\u00e1n",
+            "PERSON",
+            "Create",
+            "Chile-Rubbed Trout Fillet",
+            "PRODUCT"
+        ],
+        [
+            "Chile-Rubbed Trout Fillet",
+            "PRODUCT",
+            "Serve_With",
+            "Spicy Tomato-Kale Saut\u00e9",
+            "PRODUCT"
+        ],
+        [
+            "Gonzalo Guzm\u00e1n",
+            "PERSON",
+            "Work_At",
+            "Top San Francisco Restaurants",
+            "ORG"
+        ],
+        [
+            "Gonzalo Guzm\u00e1n",
+            "PERSON",
+            "Learn",
+            "Respect For Local Produce",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "People\u2019s Utah Bancorp",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Year-End Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "People\u2019s Utah Bancorp",
+            "ORG",
+            "Operate_In",
+            "Utah and Southern Idaho",
+            "GPE"
+        ],
+        [
+            "People\u2019s Intermountain Bank",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "Bank of American Fork",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "Lewiston State Bank",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "People\u2019s Town & Country Bank",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "GrowthFunding Equipment Finance",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "People\u2019s Intermountain Bank Mortgage",
+            "ORG",
+            "Is_Member_Of",
+            "People\u2019s Utah Bancorp",
+            "ORG"
+        ],
+        [
+            "People\u2019s Utah Bancorp",
+            "ORG",
+            "Invests_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "People\u2019s Utah Bancorp",
+            "ORG",
+            "Relate_To",
+            "Investor Relations Contact",
+            "CONCEPT"
+        ]
+    ]
+}

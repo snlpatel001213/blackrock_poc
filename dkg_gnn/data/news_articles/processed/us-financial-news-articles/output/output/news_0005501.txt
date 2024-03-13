@@ -1,0 +1,1 @@
+{'output': [['NHS', 'ORG/GOV', 'Control', 'All non-urgent surgery', 'CONCEPT'], ['NHS', 'ORG/GOV', 'Operate_In', 'Country', 'GPE'], ['NHS', 'ORG/GOV', 'Has', 'Every hospital', 'ORG'], ['Every hospital', 'ORG', 'Cancel', 'All non-urgent surgery', 'CONCEPT']]}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "Take_Down",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Has",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Seize",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Charities",
+            "ORG",
+            "Control",
+            "Hafiz_Saeed",
+            "PERSON"
+        ],
+        [
+            "Islamist_Leader",
+            "PERSON",
+            "Relate_To",
+            "Terrorism",
+            "CONCEPT"
+        ],
+        [
+            "Mumbai_Attacks",
+            "EVENT",
+            "Negative_Impact_On",
+            "Public_Safety",
+            "CONCEPT"
+        ]
+    ]
+}

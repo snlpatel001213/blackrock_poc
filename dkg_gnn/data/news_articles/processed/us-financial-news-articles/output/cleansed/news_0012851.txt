@@ -1,0 +1,92 @@
+{
+    "output": [
+        [
+            "GoPro",
+            "COMP",
+            "Hire",
+            "J.P. Morgan Chase",
+            "ORG"
+        ],
+        [
+            "J.P. Morgan Chase",
+            "ORG",
+            "Help",
+            "GoPro",
+            "COMP"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Consider",
+            "Sale",
+            "EVENT"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Consider",
+            "Partnership",
+            "EVENT"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Plan",
+            "Remain Independent",
+            "CONCEPT"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Layoff",
+            "About 20 Percent",
+            "ECON_INDICATOR",
+            "Workforce",
+            "PERSON"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Lower",
+            "Guidance",
+            "CONCEPT",
+            "After",
+            "Weak",
+            "ECON_INDICATOR",
+            "Holiday Season",
+            "CONCEPT"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Lower",
+            "Prices",
+            "VERB",
+            "Hero5 Black Cameras",
+            "PRODUCT"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Expect",
+            "Revenue",
+            "ECON_INDICATOR",
+            "About 340 Million",
+            "NUM",
+            "For",
+            "Q4"
+        ],
+        [
+            "GoPro",
+            "COMP",
+            "Project",
+            "Revenue",
+            "ECON_INDICATOR",
+            "470 Million",
+            "NUM",
+            "For",
+            "Q4",
+            "IN"
+        ]
+    ]
+}

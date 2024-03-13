@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Record-setting Period",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "U.S. Stock Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. Stock Market",
+            "SECTOR",
+            "Relate_To",
+            "Nearly Nine-Year Surge",
+            "CONCEPT"
+        ],
+        [
+            "Individual Investors",
+            "PERSON",
+            "Participates_In",
+            "U.S. Stock Market",
+            "SECTOR"
+        ],
+        [
+            "U.S. Stock Market",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Individual Investors",
+            "PERSON"
+        ]
+    ]
+}

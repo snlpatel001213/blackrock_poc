@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "T2 Biosystems",
+            "COMP",
+            "Announce",
+            "Preliminary Fourth Quarter 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "T2 Biosystems",
+            "COMP",
+            "Provides",
+            "Update on T2Bacteria Panel",
+            "PRODUCT"
+        ],
+        [
+            "T2 Bacteria Panel",
+            "PRODUCT",
+            "Relate_To",
+            "FDA Clearance",
+            "ORG/REG"
+        ],
+        [
+            "T2 Bacteria Panel",
+            "PRODUCT",
+            "Control",
+            "T2 Biosystems",
+            "COMP"
+        ],
+        [
+            "T2 Biosystems",
+            "COMP",
+            "Impact",
+            "Total Revenue in Q4",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total Revenue in Q4",
+            "ECON_INDICATOR",
+            "Exceed",
+            "Previously Guided Range of $1.1 to $1.3 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FDA Clearance of T2Bacteria Panel",
+            "ORG/REG",
+            "On_Track_For",
+            "Q1 2018",
+            "DATE"
+        ]
+    ]
+}

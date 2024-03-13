@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Participates_In",
+            "Billion Dollar Buyer",
+            "ORG"
+        ],
+        [
+            "Catherine and Sean Lowe",
+            "PERSON",
+            "Is_Member_Of",
+            "The Bachelor",
+            "ORG"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Relate_To",
+            "stationery company",
+            "COMP"
+        ],
+        [
+            "Tilman Fertitta",
+            "PERSON",
+            "Negative_Impact_On",
+            "making cards",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Arcade game",
+            "PRODUCT",
+            "Celebrate",
+            "40th Birthday",
+            "EVENT"
+        ],
+        [
+            "Space Invaders",
+            "PRODUCT",
+            "Relate_To",
+            "Arcade game",
+            "PRODUCT"
+        ],
+        [
+            "Gamers",
+            "PERSON",
+            "Participates_In",
+            "Celebrate 40 years",
+            "EVENT"
+        ],
+        [
+            "Japanese",
+            "GPE",
+            "Produce",
+            "Space Invaders",
+            "PRODUCT"
+        ],
+        [
+            "Central Tokyo",
+            "GPE",
+            "Operate_In",
+            "Themed Exhibition",
+            "EVENT"
+        ]
+    ]
+}

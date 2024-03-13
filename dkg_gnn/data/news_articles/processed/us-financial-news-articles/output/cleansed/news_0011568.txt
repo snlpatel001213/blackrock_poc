@@ -1,0 +1,145 @@
+{
+    "output": [
+        [
+            "Banks",
+            "ORG",
+            "Compete",
+            "Cable Companies",
+            "ORG"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Compete",
+            "Airlines",
+            "ORG"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Compete",
+            "Drug Companies",
+            "ORG"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Have",
+            "Confidence",
+            "CONCEPT",
+            "in",
+            "Banks",
+            "ORG"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Image",
+            "took",
+            "Impact_On",
+            "after",
+            "2008 Financial Meltdown",
+            "EVENT"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Image",
+            "Improve",
+            "Impact_On",
+            "since",
+            "then"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Seen",
+            "Less Positively",
+            "Impact_On",
+            "than",
+            "Prior to Crisis",
+            "EVENT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Filed",
+            "Complaints",
+            "Has",
+            "CFPB",
+            "ORG/REG"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Filed",
+            "Complaints",
+            "Against",
+            "Financial Institutions",
+            "ORG"
+        ],
+        [
+            "Financial Institutions",
+            "ORG",
+            "Included",
+            "S&P Banks Select Industry Index",
+            "SECTOR"
+        ],
+        [
+            "Complaints",
+            "CONCEPT",
+            "Most Common",
+            "Order",
+            "Are",
+            "Mortgages",
+            "PRODUCT",
+            "Debt Collection",
+            "CONCEPT",
+            "Credit Reporting",
+            "CONCEPT",
+            "Credit Card",
+            "PRODUCT",
+            "Bank Accounts or Service",
+            "PRODUCT"
+        ],
+        [
+            "Banks",
+            "ORG",
+            "Ranked",
+            "Complaints per Billions of Dollars in Deposits",
+            "Has",
+            "LendEdu",
+            "ORG"
+        ],
+        [
+            "TCF National Bank",
+            "ORG",
+            "Top Spot",
+            "as",
+            "Bank with Most CFPB Complaints per Billions of Dollars in Deposits",
+            "Has",
+            "Score",
+            "13.59"
+        ],
+        [
+            "SunTrust Banks",
+            "ORG",
+            "Second",
+            "with",
+            "Complaints per Billions of Dollars in Deposits",
+            "Has",
+            "Score",
+            "7.12"
+        ],
+        [
+            "Citizens Financial Group",
+            "ORG",
+            "Third",
+            "with",
+            "Complaints per Billions of Dollars in Deposits",
+            "Has",
+            "Score",
+            "6.91"
+        ]
+    ]
+}

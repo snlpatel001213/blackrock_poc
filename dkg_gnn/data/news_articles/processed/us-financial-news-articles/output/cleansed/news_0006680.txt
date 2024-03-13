@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Wells Fargo",
+            "COMP",
+            "Sue",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Participates_In",
+            "Utah",
+            "GPE"
+        ],
+        [
+            "Utah",
+            "GPE",
+            "Control",
+            "Wells Fargo",
+            "COMP"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Drop",
+            "Bid",
+            "CONCEPT"
+        ],
+        [
+            "Bid",
+            "CONCEPT",
+            "Relate_To",
+            "Arbitration",
+            "CONCEPT"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Vacate",
+            "Trial",
+            "EVENT"
+        ],
+        [
+            "Trial",
+            "EVENT",
+            "Operate_In",
+            "Jan. 22",
+            "DATE"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "File",
+            "Motion",
+            "CONCEPT"
+        ],
+        [
+            "Motion",
+            "CONCEPT",
+            "Relate_To",
+            "Dismiss",
+            "CONCEPT"
+        ],
+        [
+            "Lawsuit",
+            "EVENT",
+            "Relate_To",
+            "Wells Fargo",
+            "COMP"
+        ],
+        [
+            "Lawsuit",
+            "EVENT",
+            "Relate_To",
+            "Customers",
+            "PERSON"
+        ]
+    ]
+}

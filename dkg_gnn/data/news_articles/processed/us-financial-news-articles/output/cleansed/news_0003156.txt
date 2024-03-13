@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Seized_From",
+            "Unpermitted Location",
+            "ORG"
+        ],
+        [
+            "Unpermitted Location",
+            "ORG",
+            "Operate_In",
+            "Louisiana",
+            "GPE"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Relocate_To",
+            "Lions Tigers & Bears",
+            "ORG"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Require",
+            "Immediate Medical Attention",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Respond_Well_To",
+            "Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Orphaned",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Lack_Of_Color_In_Fur",
+            "Leucism",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Genetic_Mutation",
+            "Occur",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Bengal_Tigers",
+            "Naturally_Occur",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Classified_Not",
+            "Subspecies",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Considered",
+            "Albino",
+            "CONCEPT"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Arrive",
+            "Lions Tigers & Bears",
+            "ORG"
+        ],
+        [
+            "Five-month-old white tiger cub",
+            "PERSON",
+            "Receive",
+            "Ongoing Medical Care",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "Provide",
+            "Safe Haven",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "Inspire",
+            "Educational Forum",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "End",
+            "Exotic Animal Trade",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "NO_KILL",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "NO_BREED",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "NO_SELL",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "Accreditation",
+            "Global Federation of Animal Sanctuaries",
+            "ORG/REG"
+        ],
+        [
+            "Lions Tigers & Bears",
+            "ORG",
+            "Accreditation",
+            "American Sanctuary Association",
+            "ORG/REG"
+        ],
+        [
+            "Bobbi Brink",
+            "PERSON",
+            "Founder",
+            "Lions Tigers & Bears",
+            "ORG"
+        ],
+        [
+            "Bobbi Brink",
+            "PERSON",
+            "Director",
+            "Lions Tigers & Bears",
+            "ORG"
+        ],
+        [
+            "Bobbi Brink",
+            "PERSON",
+            "Say",
+            "See_This_Often",
+            "CONCEPT"
+        ],
+        [
+            "Exotic Pet Trade",
+            "CONCEPT",
+            "Multi-Billion_Dollar_Industry",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Exotic Pet Trade",
+            "CONCEPT",
+            "Illegal_Ownership",
+            "Like",
+            "CONCEPT"
+        ],
+        [
+            "Exotic Pet Trade",
+            "CONCEPT",
+            "Pose",
+            "Real_Threat",
+            "CONCEPT"
+        ],
+        [
+            "Exotic Pet Trade",
+            "CONCEPT",
+            "Public_Health_And_Safety",
+            "Threat",
+            "CONCEPT"
+        ]
+    ]
+}

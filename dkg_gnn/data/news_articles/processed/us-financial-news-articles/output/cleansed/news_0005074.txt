@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Pinnacle Foods Inc.",
+            "COMP",
+            "Announce",
+            "Daniel Poland",
+            "PERSON"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Join",
+            "WhiteWave",
+            "ORG"
+        ],
+        [
+            "WhiteWave",
+            "ORG",
+            "Acquire",
+            "DanoneWave",
+            "ORG"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Named",
+            "Chief Supply Chain Officer",
+            "ORG"
+        ],
+        [
+            "DanoneWave",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Employed",
+            "H.J. Heinz Company",
+            "ORG"
+        ],
+        [
+            "H.J. Heinz Company",
+            "ORG",
+            "Acquire",
+            "Kraft Heinz Company",
+            "ORG"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Earn",
+            "Bachelor of Science degree",
+            "CONCEPT"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Earn",
+            "MBA",
+            "CONCEPT"
+        ],
+        [
+            "Pinnacle Foods Inc.",
+            "COMP",
+            "Replace",
+            "D. Michael Wittman",
+            "PERSON"
+        ],
+        [
+            "D. Michael Wittman",
+            "PERSON",
+            "Retire",
+            "null",
+            "null"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Report",
+            "Mark Clouse",
+            "PERSON"
+        ],
+        [
+            "Mark Clouse",
+            "PERSON",
+            "CEO",
+            "Pinnacle Foods Inc.",
+            "COMP"
+        ],
+        [
+            "Daniel Poland",
+            "PERSON",
+            "Lead",
+            "Supply Chain",
+            "SECTOR"
+        ],
+        [
+            "Pinnacle Foods Inc.",
+            "COMP",
+            "Headquartered",
+            "Parsippany",
+            "GPE"
+        ],
+        [
+            "Pinnacle Foods Inc.",
+            "COMP",
+            "Mission",
+            "Unleash brand potential",
+            "CONCEPT"
+        ]
+    ]
+}

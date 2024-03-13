@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "E.W. Scripps Company",
+            "COMP",
+            "Has",
+            "Rebecca Riegelsberger",
+            "PERSON"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Operate_In",
+            "Tax and Treasury",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Control",
+            "Corporate Tax Department",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Control",
+            "Treasury Operations",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Control",
+            "Bank Relationships",
+            "ORG"
+        ],
+        [
+            "Doug Lyons",
+            "PERSON",
+            "Is_Member_Of",
+            "Scripps",
+            "COMP"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Report_To",
+            "Doug Lyons",
+            "PERSON"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Earned",
+            "Bachelor Degree",
+            "CONCEPT"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Earned",
+            "Master Degree",
+            "CONCEPT"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Is_Member_Of",
+            "CPA",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Is_Member_Of",
+            "AICPA",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Is_Member_Of",
+            "Ohio Society of CPA",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Work_For",
+            "Scripps Networks Interactive",
+            "COMP"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Serve_As",
+            "Chair",
+            "ORG"
+        ],
+        [
+            "Rebecca Riegelsberger",
+            "PERSON",
+            "Serve_As",
+            "Trustee",
+            "ORG"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Produce",
+            "Newsy",
+            "PRODUCT"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Produce",
+            "Midroll Media",
+            "PRODUCT"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Operate_In",
+            "National Broadcast Networks",
+            "SECTOR"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Operate_In",
+            "Local and National Journalism",
+            "SECTOR"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Operate_In",
+            "Content Businesses",
+            "SECTOR"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Operate_In",
+            "Award-winning Investigative Reporting Newsroom",
+            "SECTOR"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Control",
+            "Scripps National Spelling Bee",
+            "EVENT"
+        ],
+        [
+            "Scripps",
+            "COMP",
+            "Founded",
+            "1878",
+            "DATE"
+        ]
+    ]
+}

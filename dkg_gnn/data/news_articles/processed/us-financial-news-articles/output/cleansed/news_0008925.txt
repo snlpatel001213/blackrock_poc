@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "FTSE 100",
+            "FIN_INSTRUMENT",
+            "Down",
+            0.28,
+            "PERCENT"
+        ],
+        [
+            "Oil and mining companies",
+            "SECTOR",
+            "Drag",
+            "FTSE 100",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Britain\u2019s FTSE 100 index",
+            "FIN_INSTRUMENT",
+            "End",
+            "7,747.18",
+            "POINTS"
+        ],
+        [
+            "BP",
+            "COMP",
+            "Slide",
+            null,
+            null
+        ],
+        [
+            "British inflation",
+            "ECON_INDICATOR",
+            "Dip",
+            null,
+            null
+        ],
+        [
+            "Interest rate-sensitive banks",
+            "SECTOR",
+            "Prop",
+            "FTSE",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Oil and mining shares",
+            "SECTOR",
+            "Pressure",
+            "FTSE",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BHP Billiton",
+            "COMP",
+            "Slide",
+            null,
+            null
+        ],
+        [
+            "Glencore",
+            "COMP",
+            "Slide",
+            null,
+            null
+        ],
+        [
+            "Rio Tinto",
+            "COMP",
+            "Slide",
+            null,
+            null
+        ],
+        [
+            "Anglo American",
+            "COMP",
+            "Slide",
+            null,
+            null
+        ],
+        [
+            "Associated British Foods",
+            "COMP",
+            "Advance",
+            null,
+            null
+        ],
+        [
+            "Capita",
+            "COMP",
+            "Tumble",
+            null,
+            null
+        ],
+        [
+            "Prudential",
+            "COMP",
+            "Transfer",
+            null,
+            null
+        ],
+        [
+            "JD Sports",
+            "COMP",
+            "Raise",
+            "Guidance",
+            null
+        ],
+        [
+            "Provident Financial",
+            "COMP",
+            "Tumble",
+            null,
+            null
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Winter Storm Grayson",
+            "EVENT",
+            "Relate_To",
+            "East Coast",
+            "GPE"
+        ],
+        [
+            "Winter Storm Grayson",
+            "EVENT",
+            "Produce",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "Winter Storm Grayson",
+            "EVENT",
+            "Produce",
+            "Flooding",
+            "CONCEPT"
+        ],
+        [
+            "Winter Storm Grayson",
+            "EVENT",
+            "Negative_Impact_On",
+            "Impassable Roads",
+            "CONCEPT"
+        ],
+        [
+            "East Coast",
+            "GPE",
+            "Location_Of",
+            "Snow",
+            "CONCEPT"
+        ],
+        [
+            "East Coast",
+            "GPE",
+            "Location_Of",
+            "Flooding",
+            "CONCEPT"
+        ],
+        [
+            "East Coast",
+            "GPE",
+            "Location_Of",
+            "Impassable Roads",
+            "CONCEPT"
+        ]
+    ]
+}

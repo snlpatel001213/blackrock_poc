@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "iPhone",
+            "PRODUCT",
+            "Produce",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "Wall Street",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Impact",
+            "Hundreds of Billions of Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Some Big Shareholders",
+            "PERSON",
+            "Raise",
+            "Campaign",
+            "EVENT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Relate_To",
+            "Socially Responsible",
+            "CONCEPT"
+        ],
+        [
+            "Leading Activist Investor",
+            "PERSON",
+            "Participates_In",
+            "Campaign",
+            "EVENT"
+        ],
+        [
+            "Pension Fund",
+            "ORG",
+            "Participates_In",
+            "Campaign",
+            "EVENT"
+        ],
+        [
+            "Smartphone Maker",
+            "COMP",
+            "Relate_To",
+            "Phone Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Jana",
+            "PERSON",
+            "Is_Member_Of",
+            "Leading Activist Investor",
+            "PERSON"
+        ],
+        [
+            "Former Apple Executives",
+            "PERSON",
+            "Announce",
+            "Video",
+            "PRODUCT"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Relate_To",
+            "iPhone Birthday",
+            "EVENT"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Contain",
+            "Executives",
+            "PERSON"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Contain",
+            "Missteps",
+            "CONCEPT"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Contain",
+            "Triumphs",
+            "CONCEPT"
+        ]
+    ]
+}

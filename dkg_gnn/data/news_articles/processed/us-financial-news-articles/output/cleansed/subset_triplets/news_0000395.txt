@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Announce",
+            "Stock Split",
+            "CONCEPT"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Control",
+            "Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Produce",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Participates_In",
+            "Food Safety",
+            "SECTOR"
+        ],
+        [
+            "Neogen Corporation",
+            "COMP",
+            "Participates_In",
+            "Animal Safety",
+            "SECTOR"
+        ]
+    ]
+}

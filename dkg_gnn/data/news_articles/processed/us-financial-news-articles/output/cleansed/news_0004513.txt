@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Mike Tyson",
+            "PERSON",
+            "Has",
+            "Tyson Ranch",
+            "GPE"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Operate_In",
+            "Mojave Desert",
+            "GPE"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Locate_Near",
+            "Edwards Air Force Base",
+            "GPE"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Plan_To",
+            "Cannabis Cultivation",
+            "CONCEPT"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Plan_To",
+            "Edibles Factory",
+            "PRODUCT"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Plan_To",
+            "Amphitheater",
+            "PRODUCT"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Plan_To",
+            "Upscale Campground",
+            "PRODUCT"
+        ],
+        [
+            "Mike Tyson",
+            "PERSON",
+            "Advocate_For",
+            "Cannabis",
+            "CONCEPT"
+        ],
+        [
+            "Mike Tyson",
+            "PERSON",
+            "Proponent_Of",
+            "CBD",
+            "CONCEPT"
+        ],
+        [
+            "CBD",
+            "CONCEPT",
+            "Help",
+            "Veterans",
+            "PERSON"
+        ],
+        [
+            "Veterans",
+            "PERSON",
+            "Suffer_From",
+            "PTSD",
+            "CONCEPT"
+        ],
+        [
+            "American Green",
+            "COMP",
+            "Buy",
+            "Nipton",
+            "GPE"
+        ],
+        [
+            "Nipton",
+            "GPE",
+            "Transform_To",
+            "Marijuana Tourist Destination",
+            "CONCEPT"
+        ],
+        [
+            "Nipton",
+            "GPE",
+            "Plan_To",
+            "Production Hub",
+            "CONCEPT"
+        ],
+        [
+            "Nipton",
+            "GPE",
+            "Plan_To",
+            "CBD-Infused Water",
+            "PRODUCT"
+        ],
+        [
+            "American Green",
+            "COMP",
+            "Plan_To_Spend",
+            "$2.5 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "$2.5 Million",
+            "ECON_INDICATOR",
+            "By",
+            "Early 2019",
+            "DATE"
+        ],
+        [
+            "Tyson Ranch",
+            "GPE",
+            "Not_Yet",
+            "Announce",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Fail_To_Qualify",
+            "World Cup Finals",
+            "EVENT"
+        ],
+        [
+            "Bruce Arena",
+            "PERSON",
+            "Lose",
+            "Job",
+            "CONCEPT"
+        ],
+        [
+            "Dave Sarachan",
+            "PERSON",
+            "Interim_Coach",
+            "US Men's National Team",
+            "ORG"
+        ],
+        [
+            "29 Players",
+            "PERSON",
+            "Selected",
+            "Training Camp",
+            "EVENT"
+        ],
+        [
+            "Dave Sarachan",
+            "PERSON",
+            "Conduct",
+            "Fitness Tests",
+            "EVENT"
+        ],
+        [
+            "Dave Sarachan",
+            "PERSON",
+            "Conduct",
+            "Training Drills",
+            "EVENT"
+        ],
+        [
+            "Next Generation",
+            "PERSON",
+            "Participates_In",
+            "Training Camp",
+            "EVENT"
+        ],
+        [
+            "US Men's National Team",
+            "ORG",
+            "Move_On",
+            "World Cup Qualifying Campaign",
+            "EVENT"
+        ],
+        [
+            "Gyasi Zardes",
+            "PERSON",
+            "Positive",
+            "Camp",
+            "EVENT"
+        ],
+        [
+            "Dave Sarachan",
+            "PERSON",
+            "Not_Over",
+            "Disappointment",
+            "CONCEPT"
+        ],
+        [
+            "Walker Zimmerman",
+            "PERSON",
+            "Defender",
+            "US Men's National Team",
+            "ORG"
+        ],
+        [
+            "Walker Zimmerman",
+            "PERSON",
+            "Approach",
+            "2022",
+            "DATE"
+        ],
+        [
+            "Walker Zimmerman",
+            "PERSON",
+            "Sticks Together",
+            "Team",
+            "ORG"
+        ]
+    ]
+}

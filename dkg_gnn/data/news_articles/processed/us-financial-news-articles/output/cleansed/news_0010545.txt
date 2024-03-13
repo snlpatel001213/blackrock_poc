@@ -1,0 +1,173 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Report",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Has",
+            "Defending Champion",
+            "TITLE"
+        ],
+        [
+            "Stephane Peterhansel",
+            "PERSON",
+            "Increase",
+            "Lead",
+            "ECON_INDICATOR",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Participates_In",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Event",
+            "Crash",
+            "EVENT"
+        ],
+        [
+            "Sam Sunderland",
+            "PERSON",
+            "Relate_To",
+            "Helicopter",
+            "PRODUCT"
+        ],
+        [
+            "Adrian van Beveren",
+            "PERSON",
+            "Lead",
+            "Bikes Category",
+            "SECTOR",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Adrian van Beveren",
+            "PERSON",
+            "Win",
+            "Stage",
+            "EVENT",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Pablo Quintanilla",
+            "PERSON",
+            "Second",
+            "Bikes Category",
+            "SECTOR",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Pablo Quintanilla",
+            "PERSON",
+            "Clear",
+            "One Minute and 55 Seconds",
+            "ECON_INDICATOR",
+            "Adrian van Beveren",
+            "PERSON"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Leader",
+            "After Opening Day",
+            "EVENT",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Fall",
+            "Fourth",
+            "SECTOR",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Nasser al-Attiyah",
+            "PERSON",
+            "Adrift",
+            "58 Minutes",
+            "ECON_INDICATOR",
+            "Stephane Peterhansel",
+            "PERSON"
+        ],
+        [
+            "Qatar",
+            "GPE",
+            "Home",
+            "Nasser al-Attiyah",
+            "PERSON"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Manufacturer",
+            "One-Two-Three",
+            "EVENT",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Peugeot",
+            "COMP",
+            "Team Mate",
+            "Sebastien Loeb",
+            "PERSON"
+        ],
+        [
+            "Sebastien Loeb",
+            "PERSON",
+            "Win",
+            "Stage",
+            "EVENT",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Carlos Sainz",
+            "PERSON",
+            "Third",
+            "Dakar Rally",
+            "EVENT",
+            "Peugeot",
+            "COMP"
+        ],
+        [
+            "Toyota",
+            "COMP",
+            "Car",
+            "Nasser al-Attiyah",
+            "PERSON"
+        ],
+        [
+            "Alan Baldwin",
+            "PERSON",
+            "Reporting",
+            "Dakar Rally",
+            "EVENT"
+        ],
+        [
+            "Ken Ferris",
+            "PERSON",
+            "Editing",
+            "Dakar Rally",
+            "EVENT"
+        ]
+    ]
+}

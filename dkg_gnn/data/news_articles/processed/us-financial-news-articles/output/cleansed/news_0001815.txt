@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Lisa Rapaport",
+            "PERSON",
+            "Write",
+            "Air pollution around conception tied to birth defects",
+            "EVENT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Breathe",
+            "Polluted air",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Get",
+            "Pregnant",
+            "EVENT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Examine",
+            "Data on birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Match",
+            "These records",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Focus",
+            "On what\u2019s known as fine particulate matter",
+            "CONCEPT"
+        ],
+        [
+            "PM 2.5",
+            "CONCEPT",
+            "Associated with",
+            "Increased risk of congenital birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Emily DeFranco",
+            "PERSON",
+            "Senior study author",
+            "University of Cincinnati College of Medicine",
+            "ORG"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Exposed",
+            "PM 2.5 levels",
+            "CONCEPT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Live",
+            "Near mothers\u2019 homes",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Look at",
+            "Every mother in the study",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Find",
+            "Women were exposed to average PM 2.5 levels",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Look at",
+            "Subset of women",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Find",
+            "For every 10 ug/m3 increase in PM 2.5 levels",
+            "CONCEPT"
+        ],
+        [
+            "Babies",
+            "PERSON",
+            "Born",
+            "Birth defects",
+            "CONCEPT"
+        ],
+        [
+            "Certain types of birth defects",
+            "CONCEPT",
+            "Appear",
+            "More strongly connected to air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Abdominal malformations",
+            "CONCEPT",
+            "Connected",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Hypospadias",
+            "CONCEPT",
+            "Connected",
+            "Air pollution",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Environmental Protection Agency",
+            "ORG/GOV",
+            "Set standard",
+            "Particulate matter levels",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Shruthi Mahalingaiah",
+            "PERSON",
+            "Advise",
+            "Limit exposure to air pollution",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Shruthi Mahalingaiah",
+            "PERSON",
+            "Not involved",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Women",
+            "PERSON",
+            "Consider",
+            "Installing appropriate air or ventilation systems",
+            "CONCEPT"
+        ],
+        [
+            "Policy makers",
+            "PERG",
+            "Work",
+            "Together",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Work",
+            "Together",
+            "CONCEPT"
+        ],
+        [
+            "Nations",
+            "GPE",
+            "Work",
+            "Together",
+            "CONCEPT"
+        ],
+        [
+            "Reduce emissions",
+            "CONCEPT",
+            "Goal",
+            "null",
+            "null"
+        ]
+    ]
+}

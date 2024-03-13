@@ -1,0 +1,241 @@
+{
+    "output": [
+        [
+            "Japan",
+            "GPE",
+            "Face",
+            "Greatest Danger",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Since",
+            "World War Two",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Operate_In",
+            "Security Situation",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Provocations",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Unacceptable",
+            "CONCEPT"
+        ],
+        [
+            "Shinzo Abe",
+            "PERSON",
+            "Prime Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Shinzo Abe",
+            "PERSON",
+            "Vow",
+            "VERB"
+        ],
+        [
+            "Shinzo Abe",
+            "PERSON",
+            "Protect",
+            "VERB"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Raise",
+            "Defences",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Approve",
+            "Record Military Budget",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Increase",
+            "Defence Outlays",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Ambassador",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Warn",
+            "VERB"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Prepare",
+            "VERB"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Fire",
+            "VERB"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Trample",
+            "VERB"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Desire",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "International Community",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Provocative Behaviour",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Amend",
+            "Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Loosen",
+            "Constraints",
+            "CONCEPT"
+        ],
+        [
+            "Military",
+            "ORG",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Public",
+            "CONCEPT",
+            "Divided",
+            "CONCEPT"
+        ],
+        [
+            "War-renouncing",
+            "VERB",
+            "Article 9",
+            "CONCEPT"
+        ],
+        [
+            "Article 9",
+            "CONCEPT",
+            "Ban",
+            "VERB"
+        ],
+        [
+            "Article 9",
+            "CONCEPT",
+            "Interpret",
+            "VERB"
+        ],
+        [
+            "Article 9",
+            "CONCEPT",
+            "Allow",
+            "VERB"
+        ],
+        [
+            "Military",
+            "ORG",
+            "Exclusively",
+            "ADV",
+            "Defensive",
+            "ADJ",
+            "Purposes",
+            "CONCEPT"
+        ],
+        [
+            "Abe",
+            "PERSON",
+            "Want",
+            "VERB",
+            "More",
+            "ADV",
+            "Debate",
+            "VERB"
+        ],
+        [
+            "Abe",
+            "PERSON",
+            "Push",
+            "VERB",
+            "Revise",
+            "VERB",
+            "Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Abe",
+            "PERSON",
+            "Liberal Democratic Party",
+            "ORG",
+            "Led",
+            "VERB",
+            "Coalition",
+            "ORG"
+        ],
+        [
+            "Abe",
+            "PERSON",
+            "Retain",
+            "VERB",
+            "Super Majority",
+            "CONCEPT"
+        ],
+        [
+            "Abe",
+            "PERSON",
+            "Re-energise",
+            "VERB",
+            "Push",
+            "VERB",
+            "Revise",
+            "VERB",
+            "Constitution",
+            "CONCEPT"
+        ]
+    ]
+}

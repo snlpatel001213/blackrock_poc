@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Nikkei Share Average",
+            "FIN_INSTRUMENT",
+            "Stay_At",
+            "26-year high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nikkei Share Average",
+            "FIN_INSTRUMENT",
+            "Fall",
+            null,
+            null
+        ],
+        [
+            "Tokyo Electron",
+            "COMP",
+            "Tumble",
+            null,
+            null
+        ],
+        [
+            "Fast Retailing",
+            "COMP",
+            "Shed",
+            null,
+            null
+        ],
+        [
+            "Topix",
+            "FIN_INSTRUMENT",
+            "Up",
+            null,
+            null
+        ],
+        [
+            "Insurance sector",
+            "SECTOR",
+            "Rise",
+            null,
+            null
+        ],
+        [
+            "Banking sector",
+            "SECTOR",
+            "Add",
+            null,
+            null
+        ],
+        [
+            "10-year U.S. Treasury note",
+            "FIN_INSTRUMENT",
+            "Reach",
+            "10-month high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Japan",
+            "ORG/REG",
+            "Trim",
+            "Purchases",
+            null
+        ],
+        [
+            "Dai-ichi Life Holdings",
+            "COMP",
+            "Soar",
+            null,
+            null
+        ],
+        [
+            "T&D Holdings",
+            "COMP",
+            "Add",
+            null,
+            null
+        ],
+        [
+            "Mitsubishi UFJ Financial Group",
+            "COMP",
+            "Advance",
+            null,
+            null
+        ],
+        [
+            "Mizuho Financial Group",
+            "COMP",
+            "Gain",
+            null,
+            null
+        ]
+    ]
+}

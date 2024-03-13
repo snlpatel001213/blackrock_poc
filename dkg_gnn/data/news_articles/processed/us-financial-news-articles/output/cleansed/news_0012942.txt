@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Meet",
+            "Nazarbayev",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "GPE",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Control",
+            "White House",
+            "GPE"
+        ],
+        [
+            "Nazarbayev",
+            "PERSON",
+            "Lead",
+            "Kazakhstan",
+            "GPE"
+        ],
+        [
+            "Kazakhstan",
+            "GPE",
+            "Tenure",
+            "UN Security Council",
+            "ORG/GOV"
+        ],
+        [
+            "UN Security Council",
+            "ORG/GOV",
+            "Relate_To",
+            "International Challenges",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Ways",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Strengthen",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Enhance",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Strategic Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Regional Security Issues",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Discuss",
+            "Economic Cooperation",
+            "CONCEPT"
+        ]
+    ]
+}

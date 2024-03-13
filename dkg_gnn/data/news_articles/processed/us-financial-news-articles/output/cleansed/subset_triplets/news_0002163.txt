@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Has",
+            "New drug approvals",
+            "CONCEPT"
+        ],
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Relate_To",
+            "Acceleration of Approvals",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "FDA",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "Gabriel Jesus",
+            "PERSON",
+            "Operate_In",
+            "Manchester City",
+            "COMP"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Has",
+            "Injury Concern",
+            "CONCEPT"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Premier League",
+            "SECTOR",
+            "Has",
+            "Fixture Programme",
+            "CONCEPT"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Has",
+            "Injury Concern",
+            "CONCEPT",
+            "With",
+            "Kyle Walker",
+            "PERSON"
+        ],
+        [
+            "David Silva",
+            "PERSON",
+            "Has",
+            "Personal Issues",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Citi",
+            "COMP",
+            "Announce",
+            "Down Market",
+            "CONCEPT"
+        ],
+        [
+            "Citi",
+            "COMP",
+            "Has",
+            "Tobias Levkovich",
+            "PERSON"
+        ],
+        [
+            "Tobias Levkovich",
+            "PERSON",
+            "Says",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Have",
+            "Lose Money",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Lose Money",
+            "ECON_INDICATOR",
+            "For",
+            "Long Period",
+            "TIME"
+        ]
+    ]
+}

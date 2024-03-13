@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Announce",
+            "judge picks",
+            "ORG/GOV"
+        ],
+        [
+            "judge picks",
+            "ORG/GOV",
+            "Relate_To",
+            "federal judge positions",
+            "ORG/GOV"
+        ],
+        [
+            "federal judge positions",
+            "ORG/GOV",
+            "Operate_In",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "federal judge positions",
+            "ORG/GOV",
+            "Operate_In",
+            "Colorado",
+            "GPE"
+        ],
+        [
+            "federal judge positions",
+            "ORG/GOV",
+            "Operate_In",
+            "Louisiana",
+            "GPE"
+        ],
+        [
+            "Alabama",
+            "GPE",
+            "Has",
+            "judicial emergencies",
+            "CONCEPT"
+        ],
+        [
+            "Colorado",
+            "GPE",
+            "Has",
+            "judicial emergencies",
+            "CONCEPT"
+        ],
+        [
+            "Louisiana",
+            "GPE",
+            "Has",
+            "judicial emergencies",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Announce",
+            "judicial emergencies",
+            "CONCEPT"
+        ]
+    ]
+}

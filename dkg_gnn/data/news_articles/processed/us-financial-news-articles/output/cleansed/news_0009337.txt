@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Ayatollah Ali Khamenei",
+            "PERSON",
+            "Say",
+            "Citizens",
+            "GPE"
+        ],
+        [
+            "Ayatollah Ali Khamenei",
+            "PERSON",
+            "Acknowledge",
+            "Grievances",
+            "CONCEPT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Take Part In",
+            "Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Demonstrations",
+            "EVENT",
+            "Test",
+            "Regime Tolerance",
+            "CONCEPT"
+        ],
+        [
+            "Regime",
+            "ORG/GOV",
+            "Respond To",
+            "Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Demonstrations",
+            "EVENT",
+            "Expose",
+            "Working-Class Complaints",
+            "CONCEPT"
+        ],
+        [
+            "Working-Class",
+            "PERSON",
+            "Complain About",
+            "High Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Working-Class",
+            "PERSON",
+            "Complain About",
+            "Widespread Unemployment",
+            "CONCEPT"
+        ],
+        [
+            "Working-Class",
+            "PERSON",
+            "Complain About",
+            "Persistent Economic",
+            "CONCEPT"
+        ]
+    ]
+}

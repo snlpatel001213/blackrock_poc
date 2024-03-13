@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Passenger train",
+            "PRODUCT",
+            "Hit",
+            "Truck",
+            "PRODUCT"
+        ],
+        [
+            "Passenger train",
+            "PRODUCT",
+            "Kill",
+            "At least 12",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Have",
+            "At least a dozen deaths",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

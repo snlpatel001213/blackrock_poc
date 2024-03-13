@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Apothecarium",
+            "COMP",
+            "Sell",
+            "Recreational Marijuana",
+            "PRODUCT"
+        ],
+        [
+            "Apothecarium",
+            "COMP",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Apothecarium",
+            "COMP",
+            "Offer",
+            "Discount",
+            "PRODUCT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Legalize",
+            "Recreational Marijuana",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Department of Justice",
+            "ORG/GOV",
+            "Lift",
+            "Hands_off_approach",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Department of Justice",
+            "ORG/GOV",
+            "Authorize",
+            "Prosecute",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Attorney General Jeff Sessions",
+            "PERSON",
+            "Make",
+            "Move",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana Stocks",
+            "FIN_INSTRUMENT",
+            "Plunge",
+            "null",
+            "null"
+        ],
+        [
+            "Industry",
+            "SECTOR",
+            "Fret",
+            "null",
+            "null"
+        ],
+        [
+            "Longtime Marijuana Operators",
+            "PERSON",
+            "Expect",
+            "Business as usual",
+            "CONCEPT"
+        ]
+    ]
+}

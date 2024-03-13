@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "VTech Electronics",
+            "COMP",
+            "Collect",
+            "digital data on children",
+            "CONCEPT"
+        ],
+        [
+            "VTech Electronics",
+            "COMP",
+            "Fail",
+            "keep information secure",
+            "CONCEPT"
+        ],
+        [
+            "VTech Electronics",
+            "COMP",
+            "Pay",
+            "$650,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Trade Commission",
+            "ORG/REG",
+            "Say",
+            "VTech Electronics agreed to pay $650,000",
+            "CONCEPT"
+        ],
+        [
+            "Federal Trade Commission",
+            "ORG/REG",
+            "Reject",
+            "proposal by Energy Secretary Rick Perry",
+            "CONCEPT"
+        ],
+        [
+            "Energy Secretary Rick Perry",
+            "PERSON",
+            "Propose",
+            "subsidize struggling coal and nuclear plants",
+            "CONCEPT"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Try",
+            "revive America\u2019s declining coal industry",
+            "CONCEPT"
+        ],
+        [
+            "Conde Nast",
+            "COMP",
+            "Pick",
+            "Samantha Barry",
+            "PERSON"
+        ],
+        [
+            "Samantha Barry",
+            "PERSON",
+            "Be",
+            "next editor in chief of Glamour",
+            "COMP"
+        ],
+        [
+            "Samantha Barry",
+            "PERSON",
+            "Have",
+            "exclusively digital and television background",
+            "CONCEPT"
+        ]
+    ]
+}

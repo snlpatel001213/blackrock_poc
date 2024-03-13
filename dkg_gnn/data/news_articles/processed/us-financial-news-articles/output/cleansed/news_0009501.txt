@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Russian Government",
+            "ORG/GOV",
+            "Impact",
+            "Mexico 2018 Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Russian Government",
+            "ORG/GOV",
+            "Stir",
+            "Division",
+            "CONCEPT"
+        ],
+        [
+            "H.R. McMaster",
+            "PERSON",
+            "Say",
+            "Evidence of Russian Meddling",
+            "CONCEPT"
+        ],
+        [
+            "H.R. McMaster",
+            "PERSON",
+            "Concerned",
+            "Russia\u2019s Use of Advanced Cyber Tools",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Elect",
+            "New President",
+            "EVENT"
+        ],
+        [
+            "Andres Manuel Lopez Obrador",
+            "PERSON",
+            "Frontrunner",
+            "Presidential Contest",
+            "EVENT"
+        ],
+        [
+            "Andres Manuel Lopez Obrador",
+            "PERSON",
+            "Divisive Figure",
+            "Politics",
+            "SECTOR"
+        ],
+        [
+            "Andres Manuel Lopez Obrador",
+            "PERSON",
+            "Seen",
+            "Kremlin\u2019s Favorite",
+            "CONCEPT"
+        ],
+        [
+            "Russia Today",
+            "COMP",
+            "Run",
+            "Weekly Video Blog",
+            "EVENT"
+        ],
+        [
+            "Russia Today",
+            "COMP",
+            "Host",
+            "Prominent Supporter of Lopez Obrador",
+            "PERSON"
+        ],
+        [
+            "Lopez Obrador",
+            "PERSON",
+            "Critic",
+            "Pena Nieto\u2019s Sweeping Energy Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "Lopez Obrador",
+            "PERSON",
+            "Seek",
+            "Friendly Relations with U.S. Government",
+            "ORG/GOV"
+        ],
+        [
+            "Lopez Obrador",
+            "PERSON",
+            "Demand",
+            "Respect",
+            "CONCEPT"
+        ]
+    ]
+}

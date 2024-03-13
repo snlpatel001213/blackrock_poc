@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Introduce",
+            "CME Bitcoin Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "E-Trade Financial",
+            "ORG",
+            "Has",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Has",
+            "Price",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

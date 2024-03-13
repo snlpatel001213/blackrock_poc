@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "NAM",
+            "ORG",
+            "Propose",
+            "Cutting Production",
+            "ACT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Operate_In",
+            "Groningen Gas Field",
+            "LOC"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Compose_Of",
+            "Royal Dutch Shell",
+            "ORG"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Compose_Of",
+            "Exxon Mobil",
+            "ORG"
+        ],
+        [
+            "Production Clusters",
+            "ACT",
+            "Shut_Down",
+            "null",
+            "null"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Present",
+            "Details",
+            "ACT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Make_Final_Decision",
+            "Output",
+            "ACT"
+        ],
+        [
+            "Minister of Economic Affairs",
+            "PERSON",
+            "Say",
+            "Reduce Output",
+            "ACT"
+        ],
+        [
+            "Groningen Region",
+            "LOC",
+            "Experience",
+            "Tremor",
+            "ACT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Lower",
+            "Gas Production",
+            "ACT"
+        ],
+        [
+            "Current Government Term",
+            "TIME",
+            "Through",
+            "2021",
+            "DATE"
+        ],
+        [
+            "Coalition Government",
+            "ORG/GOV",
+            "Agree",
+            "Reduce Output",
+            "ACT"
+        ],
+        [
+            "Prime Minister",
+            "PERSON",
+            "Mark Rutte",
+            "null",
+            "PERSON"
+        ],
+        [
+            "Production Year 2015-16",
+            "TIME",
+            "39.4 bcm",
+            "null",
+            "NUM"
+        ]
+    ]
+}

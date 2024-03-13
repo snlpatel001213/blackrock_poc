@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Penske Automotive Group",
+            "COMP",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Penske Automotive Group",
+            "COMP",
+            "Operate_In",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Is_Member_Of",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Operate_In",
+            "Wakefield",
+            "GPE"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Operate_In",
+            "Sheffield",
+            "GPE"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Operate_In",
+            "Manchester",
+            "GPE"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Operate_In",
+            "Warrington",
+            "GPE"
+        ],
+        [
+            "Penske Automotive Group",
+            "COMP",
+            "Control",
+            "Used Car Supermarket Business",
+            "SECTOR"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Produce",
+            "18000 Vehicles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "The Car People",
+            "COMP",
+            "Raise",
+            "300 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Penske Automotive Group",
+            "COMP",
+            "Operate_In",
+            "Second Largest Market",
+            "SECTOR"
+        ]
+    ]
+}

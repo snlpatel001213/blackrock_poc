@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Announce",
+            "Fixes",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Rebuff",
+            "Concerns",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Microchips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Confirm",
+            "Flaws",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Microprocessors",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Security_Updates",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Negative_Impact_On",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Report",
+            "Little_To_No_Impact",
+            "EVENT"
+        ],
+        [
+            "Amazon.com Inc",
+            "COMP",
+            "Report",
+            "Little_To_No_Impact",
+            "EVENT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Report",
+            "Little_To_No_Impact",
+            "EVENT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Report",
+            "Little_To_No_Impact",
+            "EVENT"
+        ]
+    ]
+}

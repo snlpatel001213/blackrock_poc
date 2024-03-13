@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Crown of thorns starfish",
+            "CONCEPT",
+            "Impact",
+            "Corals",
+            "CONCEPT"
+        ],
+        [
+            "Crown of thorns starfish",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Great Barrier Reef",
+            "GPE"
+        ],
+        [
+            "Crown of thorns starfish",
+            "CONCEPT",
+            "Operate_In",
+            "Great Barrier Reef Marine Park",
+            "ORG"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "Coral bleaching",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "Crown of thorns starfish outbreak",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "Healthy populations of herbivorous fish",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "High ocean temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "Logistically difficult to access",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "Hostile environment to work in",
+            "CONCEPT"
+        ],
+        [
+            "Great Barrier Reef",
+            "GPE",
+            "Has",
+            "World heritage listing",
+            "CONCEPT"
+        ],
+        [
+            "Swains Reefs",
+            "GPE",
+            "Has",
+            "Crown of thorns starfish outbreak",
+            "CONCEPT"
+        ],
+        [
+            "Swains Reefs",
+            "GPE",
+            "Has",
+            "Coral-eating crown of thorns starfish",
+            "CONCEPT"
+        ],
+        [
+            "Swains Reefs",
+            "GPE",
+            "Has",
+            "Logistically difficult to access",
+            "CONCEPT"
+        ],
+        [
+            "Swains Reefs",
+            "GPE",
+            "Has",
+            "Hostile environment to work in",
+            "CONCEPT"
+        ],
+        [
+            "Australian Institute of Marine Science",
+            "ORG",
+            "Has",
+            "Senior research scientist",
+            "PERSON"
+        ],
+        [
+            "Australian Institute of Marine Science",
+            "ORG",
+            "Relate_To",
+            "Crown of thorns starfish outbreak",
+            "CONCEPT"
+        ],
+        [
+            "Tourism industry",
+            "SECTOR",
+            "Impact",
+            "Coral loss",
+            "CONCEPT"
+        ],
+        [
+            "Tourism industry",
+            "SECTOR",
+            "Operate_In",
+            "Great Barrier Reef",
+            "GPE"
+        ],
+        [
+            "UNESCO",
+            "ORG",
+            "Has",
+            "World heritage listing",
+            "CONCEPT"
+        ],
+        [
+            "UNESCO",
+            "ORG",
+            "Relate_To",
+            "Great Barrier Reef",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "output": [
+        [
+            "Allergan",
+            "COMP",
+            "Raise",
+            "1 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Announce",
+            "Fiscal 2018 Outlook",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Control",
+            "Loss of Exclusivity Revenue Headwinds",
+            "CONCEPT"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Has",
+            "Chairman and CEO",
+            "PERSON"
+        ],
+        [
+            "Brent Saunders",
+            "PERSON",
+            "Is_Member_Of",
+            "Allergan",
+            "COMP"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Impact",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Decrease",
+            "20 %",
+            "ECON_INDICATOR",
+            "in",
+            "2017"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Increase",
+            "4 %",
+            "ECON_INDICATOR",
+            "in",
+            "2019"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "Report",
+            "Disappointing Holiday Sales",
+            "EVENT"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "Own",
+            "Brands",
+            "ORG"
+        ],
+        [
+            "Anthropologie",
+            "ORG",
+            "Be_Part_Of",
+            "Urban Outfitters",
+            "COMP"
+        ],
+        [
+            "Free People",
+            "ORG",
+            "Be_Part_Of",
+            "Urban Outfitters",
+            "COMP"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "See",
+            "Year-over-Year Same Store Sales Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "See",
+            "Double-digit Sales",
+            "ECON_INDICATOR",
+            "in",
+            "Direct-to-consumer Channel"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "See",
+            "Negative Sales",
+            "ECON_INDICATOR",
+            "in-stores"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Post",
+            "7.1 % Increase",
+            "ECON_INDICATOR",
+            "during",
+            "Regular Trading"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Climb",
+            "2 %",
+            "ECON_INDICATOR",
+            "in",
+            "Extended Session"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Announce",
+            "Second Quarter Financial Guidance",
+            "EVENT"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Announce",
+            "Revenue, Gross Margin and Shipment Estimates",
+            "EVENT"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Beat",
+            "Analyst Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Seagate",
+            "COMP",
+            "Announce",
+            "Completion of Long-term Supply Deal",
+            "EVENT",
+            "with",
+            "Toshiba"
+        ],
+        [
+            "A. Schulman",
+            "COMP",
+            "Gain",
+            "5 %",
+            "ECON_INDICATOR",
+            "in",
+            "After-hours Session"
+        ],
+        [
+            "A. Schulman",
+            "COMP",
+            "Report",
+            "First Quarter Financial Results",
+            "EVENT"
+        ],
+        [
+            "A. Schulman",
+            "COMP",
+            "Include",
+            "12 % Growth in Net Sales",
+            "ECON_INDICATOR",
+            "Year-over-Year"
+        ]
+    ]
+}

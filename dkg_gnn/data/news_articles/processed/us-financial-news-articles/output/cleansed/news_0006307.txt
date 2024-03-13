@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Brookfield Business Partners Lp",
+            "ORG",
+            "Acquire",
+            "Sch\u00f6eller Allibert",
+            "COMP"
+        ],
+        [
+            "Sch\u00f6eller Allibert",
+            "COMP",
+            "Control",
+            "Sch\u00f6eller Group",
+            "ORG"
+        ],
+        [
+            "Brookfield Business Partners Lp",
+            "ORG",
+            "Control",
+            "Sch\u00f6eller Allibert",
+            "COMP"
+        ],
+        [
+            "Sch\u00f6eller Allibert",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Brookfield Business Partners Lp",
+            "ORG",
+            "Invests_In",
+            "Sch\u00f6eller Allibert",
+            "COMP"
+        ],
+        [
+            "Sch\u00f6eller Allibert",
+            "COMP",
+            "Sell",
+            "Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stake",
+            "ECON_INDICATOR",
+            "Belong_To",
+            "Sch\u00f6eller Allibert",
+            "COMP"
+        ],
+        [
+            "Sch\u00f6eller Allibert",
+            "COMP",
+            "Belong_To",
+            "JPMorgan Chase & Co",
+            "ORG/REG"
+        ],
+        [
+            "JPMorgan Chase & Co",
+            "ORG/REG",
+            "Sell",
+            "Stake",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Send",
+            "Warships",
+            "COMP"
+        ],
+        [
+            "Warships",
+            "COMP",
+            "Operate_In",
+            "Russian Navy",
+            "ORG"
+        ],
+        [
+            "British Frigate",
+            "COMP",
+            "Escort",
+            "Warships",
+            "COMP"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Has",
+            "Defense Ministry",
+            "ORG"
+        ],
+        [
+            "Defense Ministry",
+            "ORG",
+            "Add",
+            "Naval Activity",
+            "CONCEPT"
+        ],
+        [
+            "Naval Activity",
+            "CONCEPT",
+            "Relate_To",
+            "UK Waters",
+            "GPE"
+        ],
+        [
+            "UK Waters",
+            "GPE",
+            "Experience",
+            "Upsurge",
+            "CONCEPT"
+        ]
+    ]
+}

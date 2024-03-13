@@ -1,0 +1,230 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Bonds Update",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Commerce Minister Suresh Prabhu",
+            "PERSON",
+            "Participates_In",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Parliament",
+            "GPE",
+            "Operate_In",
+            "New Delhi",
+            "GPE"
+        ],
+        [
+            "Dhara Ranasinghe",
+            "PERSON",
+            "Relate_To",
+            "Bonds Update",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Call_Off",
+            "Deal",
+            "ORG"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Has",
+            "Rafael",
+            "ORG"
+        ],
+        [
+            "Rafael",
+            "ORG",
+            "Produce",
+            "Spike",
+            "PRODUCT"
+        ],
+        [
+            "Lower-caste Dalits",
+            "PERSON",
+            "Disrupt",
+            "Business",
+            "SECTOR"
+        ],
+        [
+            "Mumbai",
+            "GPE",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Defend",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Kim",
+            "PERSON",
+            "Relate_To",
+            "Mental Fitness",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "Mental Fitness",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Deploys",
+            "Revolutionary Guards",
+            "ORG"
+        ],
+        [
+            "Revolutionary Guards",
+            "ORG",
+            "Control",
+            "Forces",
+            "ORG"
+        ],
+        [
+            "Three Provinces",
+            "GPE",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Anti-government Unrest",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Has",
+            "Manufacturing PMI",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manufacturing PMI",
+            "ECON_INDICATOR",
+            "Highest",
+            "Since Feb 2014",
+            "TIME"
+        ],
+        [
+            "Indian Rupee",
+            "CURRENCY",
+            "Trade",
+            "Lower",
+            "DIRECTION"
+        ],
+        [
+            "Indian Government Bonds",
+            "PRODUCT",
+            "Edge",
+            "Lower",
+            "DIRECTION"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Expect",
+            "Supply of Notes",
+            "PRODUCT"
+        ],
+        [
+            "Benchmark 6.79 percent bond",
+            "PRODUCT",
+            "Maturity",
+            "2027",
+            "TIME"
+        ],
+        [
+            "SGX Nifty Futures",
+            "PRODUCT",
+            "Trade",
+            "Up",
+            "DIRECTION"
+        ],
+        [
+            "Major Indexes",
+            "SECTOR",
+            "Hit",
+            "Record Closing Highs",
+            "EVENT"
+        ],
+        [
+            "Technology Stocks",
+            "SECTOR",
+            "Climb",
+            "After",
+            "EVENT"
+        ],
+        [
+            "U.S. Data",
+            "ECON_INDICATOR",
+            "Upbeat",
+            "Reinforce",
+            "EVENT"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Hover",
+            "At",
+            "LOCATION"
+        ],
+        [
+            "Gold Prices",
+            "ECON_INDICATOR",
+            "Ease",
+            "Early",
+            "TIME"
+        ],
+        [
+            "FII Investments",
+            "ORG",
+            "Equities",
+            "EQUITIES"
+        ],
+        [
+            "FII Investments",
+            "ORG",
+            "Debt",
+            "DEBT"
+        ],
+        [
+            "PNDF spot",
+            "CURRENCY",
+            "63.47/63.50",
+            "January 3"
+        ],
+        [
+            "10-yr bond yields",
+            "ECON_INDICATOR",
+            "7.33 pct",
+            "Month-to-date"
+        ],
+        [
+            "10-yr bond yields",
+            "ECON_INDICATOR",
+            "7.33 pct",
+            "Year-to-date"
+        ]
+    ]
+}

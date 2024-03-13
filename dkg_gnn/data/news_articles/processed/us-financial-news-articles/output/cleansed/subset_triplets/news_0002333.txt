@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "European markets",
+            "GPE",
+            "Negative_Impact_On",
+            "Nervous",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone",
+            "GPE",
+            "Has",
+            "Record manufacturing surveys",
+            "EVENT"
+        ],
+        [
+            "Asian shares",
+            "GPE",
+            "Positive_Impact_On",
+            "Chinese manufacturing survey",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Surprisingly upbeat survey of manufacturing",
+            "EVENT"
+        ],
+        [
+            "Korea",
+            "GPE",
+            "Relate_To",
+            "Signs of a thaw in Korean relations",
+            "EVENT"
+        ]
+    ]
+}

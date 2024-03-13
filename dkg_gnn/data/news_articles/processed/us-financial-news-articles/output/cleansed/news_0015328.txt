@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Financo",
+            "ORG",
+            "Announce",
+            "Douglas Lehrman",
+            "PERSON"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Join",
+            "Financo",
+            "ORG"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Lead",
+            "Financo's expansion into Healthcare Services",
+            "SECTOR"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Expertise",
+            "Healthcare Services",
+            "SECTOR"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Work",
+            "Companies and private equity and venture capital firms",
+            "ORG"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Role",
+            "Strategic advisory work, growth equity capital raises, strategic investments, and mergers and acquisitions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Financo",
+            "ORG",
+            "Operate_In",
+            "Consumer sector",
+            "SECTOR"
+        ],
+        [
+            "Financo",
+            "ORG",
+            "Broadens",
+            "Coverage to include Healthcare Services",
+            "SECTOR"
+        ],
+        [
+            "Healthcare Services",
+            "SECTOR",
+            "Growing",
+            "Extremely rapid pace",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Delivers",
+            "Level of tenured focus and extraordinary reach and knowledge in this industry",
+            "CONCEPT"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Focus",
+            "Advise businesses in building innovative enterprises at the intersection of healthcare services, retail and digital platforms, fitness, and medical nutrition",
+            "CONCEPT"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Impact",
+            "Cost structure of the healthcare",
+            "CONCEPT"
+        ],
+        [
+            "Douglas Lehrman",
+            "PERSON",
+            "Excited",
+            "Bring many relationships to provide additional value to all areas at Financo",
+            "ORG"
+        ]
+    ]
+}

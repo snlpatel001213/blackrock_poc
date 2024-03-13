@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Impact",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Impact",
+            "Job growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Expect",
+            "Job growth slow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Expect",
+            "Labor market hit full employment",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Expect",
+            "Unemployment rate drop",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Manufacturing sector",
+            "SECTOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Transportation sector",
+            "SECTOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Real estate sector",
+            "SECTOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Retail sector",
+            "SECTOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Increase",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Layoffs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Layoffs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Labor market",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Hiring rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Hiring",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Job openings rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Job openings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Look at",
+            "Quits rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Consider",
+            "Low turnover rates",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Consider",
+            "Little pressure for employers to raise wages",
+            "CONCEPT"
+        ],
+        [
+            "ZipRecruiter",
+            "COMP",
+            "Has",
+            "Chief economist",
+            "PERSON"
+        ],
+        [
+            "ZipRecruiter",
+            "COMP",
+            "Chief economist",
+            "Cathy Barrera",
+            "PERSON"
+        ],
+        [
+            "ZipRecruiter",
+            "COMP",
+            "Chief economist",
+            "Consider",
+            "Less movement in the labor market"
+        ],
+        [
+            "ZipRecruiter",
+            "COMP",
+            "Chief economist",
+            "Consider",
+            "Pressure for employers to raise wages"
+        ]
+    ]
+}

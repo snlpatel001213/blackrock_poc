@@ -1,0 +1,142 @@
+{
+    "output": [
+        [
+            "Sangamo Therapeutics Inc",
+            "ORG",
+            "Partner",
+            "Pfizer Inc",
+            "ORG"
+        ],
+        [
+            "Sangamo Therapeutics Inc",
+            "ORG",
+            "Develop",
+            "Gene Therapy",
+            "PRODUCT"
+        ],
+        [
+            "Gene Therapy",
+            "PRODUCT",
+            "Treat",
+            "ALS",
+            "CONCEPT"
+        ],
+        [
+            "Gene Therapy",
+            "PRODUCT",
+            "Treat",
+            "Brain Disorder",
+            "CONCEPT"
+        ],
+        [
+            "Brain Disorder",
+            "CONCEPT",
+            "Link",
+            "Mutations",
+            "CONCEPT"
+        ],
+        [
+            "Mutations",
+            "CONCEPT",
+            "Link",
+            "Gene",
+            "CONCEPT"
+        ],
+        [
+            "Gene",
+            "CONCEPT",
+            "Link",
+            "About a Third",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gene Therapy",
+            "PRODUCT",
+            "Gain",
+            "Momentum",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Update",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Help",
+            "Speed Up",
+            "CONCEPT"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Approve",
+            "Spark Therapeutics Inc\u2019s Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Spark Therapeutics Inc",
+            "ORG",
+            "Treatment",
+            "Rare Form",
+            "CONCEPT"
+        ],
+        [
+            "Rare Form",
+            "CONCEPT",
+            "Blindness",
+            "CONCEPT"
+        ],
+        [
+            "Sangamo Therapeutics Inc",
+            "ORG",
+            "Receive",
+            "$12 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sangamo Therapeutics Inc",
+            "ORG",
+            "Receive",
+            "Additional $150 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ALS",
+            "CONCEPT",
+            "Attract",
+            "International Attention",
+            "CONCEPT"
+        ],
+        [
+            "International Attention",
+            "CONCEPT",
+            "Ice Bucket Challenge",
+            "EVENT"
+        ],
+        [
+            "Ice Bucket Challenge",
+            "EVENT",
+            "Encourage",
+            "Donations",
+            "CONCEPT"
+        ],
+        [
+            "Sangamo Therapeutics Inc",
+            "ORG",
+            "Shares",
+            "Up 5.4 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pfizer Inc",
+            "ORG",
+            "Shares",
+            "Up Marginally",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

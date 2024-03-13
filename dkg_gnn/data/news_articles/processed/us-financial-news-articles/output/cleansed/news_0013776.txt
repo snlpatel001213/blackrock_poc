@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Varun Beverages",
+            "COMP",
+            "Approve",
+            "Buying Franchisee Rights",
+            "CONCEPT"
+        ],
+        [
+            "Varun Beverages",
+            "COMP",
+            "Relate_To",
+            "Pepsico India",
+            "COMP"
+        ],
+        [
+            "Pepsico India",
+            "COMP",
+            "Control",
+            "Sub-Territory",
+            "CONCEPT"
+        ],
+        [
+            "Sub-Territory",
+            "CONCEPT",
+            "Locate_In",
+            "State of Bihar",
+            "GPE"
+        ]
+    ]
+}

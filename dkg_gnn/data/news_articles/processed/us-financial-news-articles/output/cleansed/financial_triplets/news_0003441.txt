@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Ripple",
+            "COMP",
+            "Has",
+            "Chris Larsen",
+            "PERSON"
+        ],
+        [
+            "Chris Larsen",
+            "PERSON",
+            "Has",
+            "5.19 billion XRP",
+            "PRODUCT"
+        ],
+        [
+            "Chris Larsen",
+            "PERSON",
+            "Has",
+            "17 percent stake",
+            "CONCEPT",
+            "In",
+            "Ripple",
+            "COMP"
+        ]
+    ]
+}

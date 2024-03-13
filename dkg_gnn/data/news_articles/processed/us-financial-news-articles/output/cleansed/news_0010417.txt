@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "London Wall Mortgage Capital plc Series Fleet 2018-01",
+            "ORG/REG",
+            "Issue",
+            "London Wall Capital Investments LLP",
+            "ORG"
+        ],
+        [
+            "London Wall Capital Investments LLP",
+            "ORG",
+            "Sell_Portfolio",
+            "Fleet Mortgages Limited",
+            "ORG"
+        ],
+        [
+            "Fleet Mortgages Limited",
+            "ORG",
+            "Hold_Legal_Title",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "HSBC",
+            "ORG",
+            "Sole_Arranger",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Citi",
+            "ORG",
+            "Joint_Lead_Manager",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class A",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class B",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class C",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class D",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class Z1",
+            "FIN_INSTRUMENT",
+            "Retain",
+            "London Wall Capital Investments LLP",
+            "ORG"
+        ],
+        [
+            "Class Z2",
+            "FIN_INSTRUMENT",
+            "Retain",
+            "London Wall Capital Investments LLP",
+            "ORG"
+        ],
+        [
+            "Series Fleet 2018-01",
+            "ORG/REG",
+            "Credit_Enhancement",
+            "Class A to D Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Series Fleet 2018-01",
+            "ORG/REG",
+            "Credit_Enhancement",
+            "Z notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Series Fleet 2018-01",
+            "ORG/REG",
+            "Credit_Enhancement",
+            "Series Revenue Priority of Payments",
+            "CONCEPT"
+        ],
+        [
+            "Class A to D Notes",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Series Principal Deficiency",
+            "CONCEPT"
+        ],
+        [
+            "Issuer",
+            "ORG/REG",
+            "Redemption_Option",
+            "Class A to D Noteholders",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Class A to D Noteholders",
+            "FIN_INSTRUMENT",
+            "Receive",
+            "Margin Step-Up",
+            "CONCEPT"
+        ],
+        [
+            "London Wall Capital Investments LLP",
+            "ORG",
+            "Retain",
+            "Class Z1 and Z2 notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Proceeds of Class Z2 notes",
+            "FIN_INSTRUMENT",
+            "Used_To_Fund",
+            "Series Main Reserve Fund",
+            "CONCEPT"
+        ],
+        [
+            "HSBC",
+            "ORG",
+            "Billing_Delivery",
+            "Series Fleet 2018-01",
+            "ORG/REG"
+        ],
+        [
+            "Class A",
+            "FIN_INSTRUMENT",
+            "Listing",
+            "London Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Class B",
+            "FIN_INSTRUMENT",
+            "Listing",
+            "London Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Class C",
+            "FIN_INSTRUMENT",
+            "Listing",
+            "London Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Class D",
+            "FIN_INSTRUMENT",
+            "Listing",
+            "London Stock Exchange",
+            "GPE"
+        ],
+        [
+            "Fleet Mortgages Limited",
+            "ORG",
+            "Extend",
+            "Buy-To-Let mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Transaction",
+            "CONCEPT",
+            "Supported_By",
+            "\u00a3310m portfolio of UK BTL mortgages",
+            "PRODUCT"
+        ],
+        [
+            "Transaction",
+            "CONCEPT",
+            "Supported_By",
+            "\u00a315m pre-funding reserve",
+            "PRODUCT"
+        ],
+        [
+            "Completed mortgages and prefunded mortgages",
+            "PRODUCT",
+            "Recently-originated",
+            "Fleet Mortgages Limited",
+            "ORG"
+        ]
+    ]
+}

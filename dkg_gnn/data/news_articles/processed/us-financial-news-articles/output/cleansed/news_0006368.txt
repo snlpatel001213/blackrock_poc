@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Win",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Beat",
+            "Ryan Harrison",
+            "PERSON"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Gain",
+            "Confidence Boost",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Operate_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Ryan Harrison",
+            "PERSON",
+            "Lose",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Ryan Harrison",
+            "PERSON",
+            "Serve",
+            "Double Fault",
+            "CONCEPT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Break",
+            "Ryan Harrison",
+            "PERSON"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Love",
+            "Playing in Front of",
+            "GPE"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Lift",
+            "Trophy",
+            "PRODUCT"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Rise",
+            "World Rankings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Lleyton Hewitt",
+            "PERSON",
+            "Win",
+            "Brisbane International",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Withdraw",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Kei Nishikori",
+            "PERSON",
+            "Withdraw",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Battle",
+            "Injury Problems",
+            "CONCEPT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Battle",
+            "Injury Problems",
+            "CONCEPT"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Battle",
+            "Injury Problems",
+            "CONCEPT"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Have",
+            "Men\u2019s Field",
+            "SECTOR"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Begin",
+            "Melbourne Park",
+            "GPE"
+        ]
+    ]
+}

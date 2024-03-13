@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Czech Republic",
+            "GPE",
+            "Participates_In",
+            "Vote",
+            "EVENT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Relate_To",
+            "Czech Republic",
+            "GPE"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Has",
+            "Eurosceptic Views",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Has",
+            "Anti-Immigrant Stance",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Divide",
+            "Czech Republic",
+            "GPE"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Head_To",
+            "Vote",
+            "EVENT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Expected_To",
+            "Be_Chosen_Again",
+            "EVENT"
+        ]
+    ]
+}

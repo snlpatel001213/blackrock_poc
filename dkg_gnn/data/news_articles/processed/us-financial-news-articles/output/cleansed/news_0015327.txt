@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Carrefour",
+            "COMP",
+            "Acquire",
+            "Showroomprive.com",
+            "COMP"
+        ],
+        [
+            "Showroomprive.com",
+            "COMP",
+            "Founded_By",
+            null,
+            "PERSON"
+        ],
+        [
+            "Conforama",
+            "COMP",
+            "Sell",
+            "Showroomprive.com",
+            "COMP"
+        ],
+        [
+            "Carrefour",
+            "COMP",
+            "Operate_In",
+            "Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Showroomprive.com",
+            "COMP",
+            "Operate_In",
+            "Online Fashion Sector",
+            "SECTOR"
+        ],
+        [
+            "Carrefour",
+            "COMP",
+            "Hold",
+            "16.86%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Carrefour",
+            "COMP",
+            "Hold",
+            "13.67%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Showroomprive.com",
+            "COMP",
+            "Founders_Retain",
+            "27.17%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Showroomprive.com",
+            "COMP",
+            "Founders_Retain",
+            "40.42%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alexandre Bompard",
+            "PERSON",
+            "Is_Member_Of",
+            "Carrefour",
+            "COMP"
+        ],
+        [
+            "Alexandre Bompard",
+            "PERSON",
+            "Say",
+            null,
+            "CONCEPT"
+        ],
+        [
+            "Carrefour",
+            "COMP",
+            "Impact",
+            "Online Private Market",
+            "CONCEPT"
+        ],
+        [
+            "Carrefour",
+            "COMP",
+            "Strengthen",
+            "Offering",
+            "CONCEPT"
+        ]
+    ]
+}

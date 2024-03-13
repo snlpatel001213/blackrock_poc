@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "ADT Inc.",
+            "ORG",
+            "Announce",
+            "Initial Public Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ADT Inc.",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "ADT Inc.",
+            "ORG",
+            "Intend_To_Use",
+            "Gross Proceeds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADT Inc.",
+            "ORG",
+            "Partially_Redeem",
+            "Outstanding Second Lien Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ADT Inc.",
+            "ORG",
+            "Redeem",
+            "ADT Inc.\u2019s Preferred Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "null"
+        ],
+        [
+            "Goldman Sachs & Co. LLC",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "null"
+        ],
+        [
+            "Barclays",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "null"
+        ],
+        [
+            "Deutsche Bank Securities",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "null"
+        ],
+        [
+            "RBC Capital Markets",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "null"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Serve_As",
+            "Bookrunner",
+            "null"
+        ],
+        [
+            "BofA Merrill Lynch",
+            "ORG",
+            "Serve_As",
+            "Bookrunner",
+            "null"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Serve_As",
+            "Bookrunner",
+            "null"
+        ],
+        [
+            "Imperial Capital",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "Academy Securities Inc.",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "Allen & Company LLC",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "Apollo Global Securities",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "Citizens Capital Markets",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "LionTree",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "SunTrust Robinson Humphrey",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ],
+        [
+            "The Williams Capital Group, L.P.",
+            "ORG",
+            "Act_As",
+            "Co-Manager",
+            "null"
+        ]
+    ]
+}

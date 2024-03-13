@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Medreleaf Corp",
+            "ORG",
+            "Announce",
+            "Upsize Of Previously Announced Offering",
+            "CONCEPT"
+        ],
+        [
+            "Medreleaf Corp",
+            "ORG",
+            "Control",
+            "5 Million Units Of CO",
+            "PRODUCT"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Buy",
+            "5 Million Units Of CO",
+            "PRODUCT"
+        ],
+        [
+            "5 Million Units Of CO",
+            "PRODUCT",
+            "Sell",
+            "Underwriters",
+            "ORG"
+        ],
+        [
+            "5 Million Units Of CO",
+            "PRODUCT",
+            "Operate_In",
+            "Further Company Coverage",
+            "CONCEPT"
+        ],
+        [
+            "5 Million Units Of CO",
+            "PRODUCT",
+            "Sell",
+            "$26.50 Per Unit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Medreleaf Corp",
+            "ORG",
+            "Raise",
+            "$132.5 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

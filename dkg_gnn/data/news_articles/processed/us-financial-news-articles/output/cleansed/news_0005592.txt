@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Sanchi",
+            "COMP",
+            "Produce",
+            "Ultra Light Crude",
+            "PRODUCT"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Control",
+            "National Iranian Tanker Co",
+            "ORG"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Raise",
+            "60 Million Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Has",
+            "32 Crew Members",
+            "PERSON"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Operate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Carry",
+            "64000 Tonnes of Grain",
+            "PRODUCT"
+        ],
+        [
+            "CF Crystal",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Collision",
+            "EVENT",
+            "Relate_To",
+            "Sanchi",
+            "COMP"
+        ],
+        [
+            "Collision",
+            "EVENT",
+            "Relate_To",
+            "CF Crystal",
+            "COMP"
+        ],
+        [
+            "Collision",
+            "EVENT",
+            "Impact",
+            "Ultra Light Crude",
+            "PRODUCT"
+        ],
+        [
+            "Collision",
+            "EVENT",
+            "Negative_Impact_On",
+            "Sanchi",
+            "COMP"
+        ],
+        [
+            "Collision",
+            "EVENT",
+            "Negative_Impact_On",
+            "CF Crystal",
+            "COMP"
+        ]
+    ]
+}

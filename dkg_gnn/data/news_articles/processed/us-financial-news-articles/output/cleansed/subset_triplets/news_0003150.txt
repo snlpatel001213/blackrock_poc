@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "John Stoltzfus",
+            "PERSON",
+            "Operate_In",
+            "Oppenheimer",
+            "ORG"
+        ],
+        [
+            "Double-digit rally",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "2018",
+            "GPE"
+        ],
+        [
+            "Double-digit rally",
+            "ECON_INDICATOR",
+            "Impact",
+            "Sectors",
+            "SECTOR"
+        ]
+    ]
+}

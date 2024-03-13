@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "PVH Heritage Brands",
+            "ORG",
+            "Ring",
+            "Opening Bell",
+            "EVENT"
+        ],
+        [
+            "Ken Duane",
+            "PERSON",
+            "Is_Member_Of",
+            "PVH Heritage Brands",
+            "ORG"
+        ],
+        [
+            "NYSE",
+            "ORG/EXCH",
+            "Host",
+            "Opening Bell",
+            "EVENT"
+        ],
+        [
+            "Laura James",
+            "PERSON",
+            "Participates_In",
+            "Playworks NY/NJ",
+            "ORG",
+            "Ring",
+            "Opening Bell",
+            "EVENT"
+        ],
+        [
+            "Playworks NY/NJ",
+            "ORG",
+            "Participates_In",
+            "Opening Bell",
+            "EVENT"
+        ],
+        [
+            "Nasdaq",
+            "ORG/EXCH",
+            "Host",
+            "Opening Bell",
+            "EVENT"
+        ]
+    ]
+}

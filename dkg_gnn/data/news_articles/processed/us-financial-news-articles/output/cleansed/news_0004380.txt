@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Mike Rogers",
+            "PERSON",
+            "Announce",
+            "Retire",
+            "ORG/GOV"
+        ],
+        [
+            "Mike Rogers",
+            "PERSON",
+            "Expect",
+            "Nominate and Approve",
+            "ORG/GOV"
+        ],
+        [
+            "Mike Rogers",
+            "PERSON",
+            "Heads",
+            "U.S. Cyber Command",
+            "ORG/GOV"
+        ],
+        [
+            "NSA",
+            "ORG/GOV",
+            "Did_not_immediately_respond",
+            "Request for comment",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "By",
+            "Doina Chiacu and Susan Heavey",
+            "PERSON"
+        ]
+    ]
+}

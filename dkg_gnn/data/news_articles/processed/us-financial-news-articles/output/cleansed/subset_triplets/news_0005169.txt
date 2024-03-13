@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Publisher",
+            "ORG",
+            "Produce",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Relate_To",
+            "First Year of Trump Administration",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Control",
+            "Administration",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "FAW Car Co Ltd",
+            "COMP",
+            "Invests_In",
+            "Mobike Chuxing Technology Co",
+            "ORG"
+        ],
+        [
+            "FAW Car Co Ltd",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Mobike Chuxing Technology Co",
+            "ORG",
+            "Participates_In",
+            "Car-sharing Unit",
+            "ORG"
+        ],
+        [
+            "FAW Car Co Ltd",
+            "COMP",
+            "Impact",
+            "FAWs Earnings",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mobike",
+            "ORG",
+            "Is_Member_Of",
+            "100 million users",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mobike",
+            "ORG",
+            "Relate_To",
+            "25 million rides a day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ofo",
+            "ORG",
+            "Raise",
+            "$450 million",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

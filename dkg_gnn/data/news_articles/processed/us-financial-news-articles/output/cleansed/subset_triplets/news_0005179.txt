@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Introduce",
+            "Association Health Plans",
+            "PRODUCT"
+        ],
+        [
+            "Association Health Plans",
+            "PRODUCT",
+            "Operate_In",
+            "Health Insurance Market",
+            "SECTOR"
+        ],
+        [
+            "Affordable Care Act",
+            "PRODUCT",
+            "Has",
+            "Pre-existing Conditions",
+            "CONCEPT"
+        ]
+    ]
+}

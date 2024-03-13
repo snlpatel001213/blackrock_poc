@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "FCB Financial Holdings, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FCB Financial Holdings, Inc.",
+            "ORG",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "FCB Financial Holdings, Inc.",
+            "ORG",
+            "Has",
+            "more than $10 billion assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FCB Financial Holdings, Inc.",
+            "ORG",
+            "Has",
+            "capital ratios that exceed regulatory standards",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conference call",
+            "EVENT",
+            "Relate_To",
+            "Fourth Quarter 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Operate_In",
+            "FCB Financial Holdings, Inc.",
+            "ORG"
+        ]
+    ]
+}

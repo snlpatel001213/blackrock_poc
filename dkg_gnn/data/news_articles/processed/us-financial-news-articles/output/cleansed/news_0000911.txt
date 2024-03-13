@@ -1,0 +1,236 @@
+{
+    "output": [
+        [
+            "Global equity markets",
+            "ECON_INDICATOR",
+            "Rise",
+            "2018",
+            "DATE"
+        ],
+        [
+            "MSCI\u2019s gauge of stocks",
+            "ECON_INDICATOR",
+            "Gain",
+            "0.61",
+            "PERCENT"
+        ],
+        [
+            "Major stock indexes",
+            "ECON_INDICATOR",
+            "Close",
+            "2017",
+            "DATE",
+            "With",
+            "Best performance",
+            "Since",
+            "2013",
+            "DATE"
+        ],
+        [
+            "U.S. market",
+            "SECTOR",
+            "Advance",
+            "Amid",
+            "Strong economic growth",
+            "CONCEPT",
+            "And",
+            "Corporate earnings",
+            "CONCEPT",
+            "Low interest rates",
+            "CONCEPT",
+            "And",
+            "Hopes",
+            "CONCEPT",
+            "Of",
+            "U.S. corporate tax cuts",
+            "CONCEPT"
+        ],
+        [
+            "U.S. equity indexes",
+            "SECTOR",
+            "Advance",
+            "On",
+            "Tuesday",
+            "DATE"
+        ],
+        [
+            "S&P 500",
+            "INDEX",
+            "Gain",
+            "0.64",
+            "PERCENT"
+        ],
+        [
+            "Nasdaq Composite",
+            "INDEX",
+            "Add",
+            "1.33",
+            "PERCENT"
+        ],
+        [
+            "European stocks",
+            "SECTOR",
+            "Close",
+            "Lower",
+            "On",
+            "Tuesday",
+            "DATE"
+        ],
+        [
+            "Autos stocks",
+            "SECTOR",
+            "Fall",
+            "Following",
+            "Weaker car registrations data",
+            "CONCEPT"
+        ],
+        [
+            "Pan-European STOXX 600 index",
+            "INDEX",
+            "Fall",
+            "0.21",
+            "PERCENT"
+        ],
+        [
+            "Euro zone stocks",
+            "SECTOR",
+            "Down",
+            "0.19",
+            "PERCENT"
+        ],
+        [
+            "Shares",
+            "SECTOR",
+            "Rise",
+            "In",
+            "Asia"
+        ],
+        [
+            "Shanghai blue chips",
+            "INDEX",
+            "Climb",
+            "1.41",
+            "PERCENT"
+        ],
+        [
+            "MSCI\u2019s 24-country emerging market stock index",
+            "INDEX",
+            "Jump",
+            "To",
+            "Multi-year high"
+        ],
+        [
+            "Dollar index",
+            "INDEX",
+            "Fall",
+            "0.23",
+            "PERCENT"
+        ],
+        [
+            "Dollar",
+            "CURRENCY",
+            "Hampered",
+            "By",
+            "Market expectations of a slower pace of interest rate increases by the Federal Reserve",
+            "ORG/REG",
+            "And",
+            "Tepid U.S. inflation picture",
+            "CONCEPT"
+        ],
+        [
+            "Euro",
+            "CURRENCY",
+            "Rise",
+            "0.3",
+            "PERCENT"
+        ],
+        [
+            "Euro zone manufacturers",
+            "SECTOR",
+            "Ramp up activity",
+            "Last month",
+            "CONCEPT"
+        ],
+        [
+            "Japanese yen",
+            "CURRENCY",
+            "Strengthen",
+            "0.28",
+            "PERCENT"
+        ],
+        [
+            "Sterling",
+            "CURRENCY",
+            "Last trading",
+            "At",
+            "$1.3594",
+            "CURRENCY",
+            "Up",
+            "0.69",
+            "PERCENT",
+            "On",
+            "the day"
+        ],
+        [
+            "U.S. Treasury yields",
+            "ECON_INDICATOR",
+            "Rise",
+            "In line with European government yields"
+        ],
+        [
+            "European Central Bank official",
+            "PERSON",
+            "Say",
+            "The bank\u2019s massive bond purchase program",
+            "PRODUCT",
+            "Might not continue later this year",
+            "DATE"
+        ],
+        [
+            "U.S. 10-year notes",
+            "PRODUCT",
+            "Last fall",
+            "16/32",
+            "IN price to yield",
+            "2.4687",
+            "PERCENT"
+        ],
+        [
+            "U.S. 30-year bond",
+            "PRODUCT",
+            "Last fall",
+            "45/32",
+            "IN price to yield",
+            "2.8105",
+            "PERCENT"
+        ],
+        [
+            "U.S. crude",
+            "PRODUCT",
+            "Fall",
+            "0.13",
+            "PERCENT"
+        ],
+        [
+            "Brent",
+            "PRODUCT",
+            "Down",
+            "0.52",
+            "PERCENT"
+        ],
+        [
+            "Copper",
+            "PRODUCT",
+            "Lose",
+            "0.42",
+            "PERCENT"
+        ],
+        [
+            "Spot gold",
+            "PRODUCT",
+            "Add",
+            "1.0",
+            "PERCENT"
+        ]
+    ]
+}

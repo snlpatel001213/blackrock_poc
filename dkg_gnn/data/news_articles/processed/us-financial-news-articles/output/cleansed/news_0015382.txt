@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "KA Fund Advisors, LLC",
+            "ORG",
+            "Announce",
+            "Promotions",
+            "EVENT"
+        ],
+        [
+            "James C. Baker",
+            "PERSON",
+            "Promoted_To",
+            "Portfolio Manager",
+            "TITLE"
+        ],
+        [
+            "Kayne Anderson",
+            "ORG",
+            "Employer_Of",
+            "James C. Baker",
+            "PERSON"
+        ],
+        [
+            "Kayne Anderson MLP Investment Company",
+            "COMP",
+            "Client_Of",
+            "KA Fund Advisors, LLC",
+            "ORG"
+        ],
+        [
+            "Kayne Anderson Energy Total Return Fund, Inc.",
+            "COMP",
+            "Client_Of",
+            "KA Fund Advisors, LLC",
+            "ORG"
+        ],
+        [
+            "Kayne Anderson Midstream/Energy Fund, Inc.",
+            "COMP",
+            "Client_Of",
+            "KA Fund Advisors, LLC",
+            "ORG"
+        ],
+        [
+            "Kayne Anderson Energy Development Company",
+            "COMP",
+            "Client_Of",
+            "KA Fund Advisors, LLC",
+            "ORG"
+        ],
+        [
+            "Kevin S. McCarthy",
+            "PERSON",
+            "Continue_In",
+            "Role",
+            "TITLE"
+        ],
+        [
+            "J.C. Frey",
+            "PERSON",
+            "Continue_In",
+            "Role",
+            "TITLE"
+        ],
+        [
+            "Ron M. Logan",
+            "PERSON",
+            "Promoted_To",
+            "Assistant Portfolio Manager",
+            "TITLE"
+        ],
+        [
+            "Jody C. Meraz",
+            "PERSON",
+            "Promoted_To",
+            "Assistant Portfolio Manager",
+            "TITLE"
+        ],
+        [
+            "Alan R. Boswell",
+            "PERSON",
+            "Promoted_To",
+            "Managing Director",
+            "TITLE"
+        ],
+        [
+            "Eric M. Javidi",
+            "PERSON",
+            "Promoted_To",
+            "Managing Director",
+            "TITLE"
+        ],
+        [
+            "Kayne Anderson",
+            "ORG",
+            "Employer_Of",
+            "Alan R. Boswell",
+            "PERSON"
+        ],
+        [
+            "Kayne Anderson",
+            "ORG",
+            "Employer_Of",
+            "Eric M. Javidi",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Barely_Rose",
+            null,
+            "NA"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "ECON_INDICATOR",
+            "Fell",
+            null,
+            "NA"
+        ],
+        [
+            "Nasdaq Composite",
+            "ECON_INDICATOR",
+            "Added",
+            null,
+            "NA"
+        ],
+        [
+            "Healthcare Sector",
+            "SECTOR",
+            "Weighed",
+            null,
+            "NA"
+        ],
+        [
+            "Financial Sector",
+            "SECTOR",
+            "Weighed",
+            null,
+            "NA"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Took_Breather",
+            null,
+            "NA"
+        ],
+        [
+            "Earnings Season",
+            "EVENT",
+            "Relate_To",
+            null,
+            "NA"
+        ],
+        [
+            "Start of 2018",
+            "EVENT",
+            "Relate_To",
+            null,
+            "NA"
+        ],
+        [
+            "Sinead Carew",
+            "PERSON",
+            "Reporting",
+            null,
+            "NA"
+        ],
+        [
+            "Nick Zieminski",
+            "PERSON",
+            "Editing",
+            null,
+            "NA"
+        ]
+    ]
+}

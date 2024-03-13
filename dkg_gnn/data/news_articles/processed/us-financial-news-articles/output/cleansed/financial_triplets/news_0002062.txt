@@ -1,0 +1,90 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Participates_In",
+            "Pro-growth Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Participates_In",
+            "Solid Corporate Earnings",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "US Investor Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Pro-growth Agenda",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Pro-growth Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "24000",
+            "ECON_INDICATOR",
+            "24 trading days after it first closed above the 24,000 mark"
+        ],
+        [
+            "Strong US Economic Data",
+            "CONCEPT",
+            "Impact",
+            "US Investor Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "Solid Corporate Earnings",
+            "CONCEPT",
+            "Impact",
+            "US Investor Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "Upbeat Sentiment",
+            "CONCEPT",
+            "Relate_To",
+            "Robust Growth Globally",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Significant Exuberance",
+            "CONCEPT",
+            "for Stocks"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ]
+    ]
+}

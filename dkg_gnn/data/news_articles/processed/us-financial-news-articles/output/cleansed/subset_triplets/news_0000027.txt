@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Labour Party",
+            "ORG",
+            "Has",
+            "economic plan",
+            "CONCEPT"
+        ],
+        [
+            "Labour Party",
+            "ORG",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Labour Party",
+            "ORG",
+            "Control",
+            "debt-funded 250 billion pound 10-year investment plan",
+            "CONCEPT"
+        ],
+        [
+            "Angela Rayner",
+            "PERSON",
+            "Is_Member_Of",
+            "Labour Party",
+            "ORG"
+        ],
+        [
+            "Labour Party",
+            "ORG",
+            "Has",
+            "Fiscal Credibility Rule",
+            "CONCEPT"
+        ]
+    ]
+}

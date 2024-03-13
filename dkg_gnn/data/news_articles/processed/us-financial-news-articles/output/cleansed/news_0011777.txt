@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Operate_In",
+            "Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Control",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Announce",
+            "Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Wait",
+            "Set Up",
+            "CONCEPT"
+        ],
+        [
+            "Abel and Jain",
+            "PERSON",
+            "Participates_In",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Abel and Jain",
+            "PERSON",
+            "Know",
+            "A Lot More",
+            "CONCEPT"
+        ],
+        [
+            "Abel and Jain",
+            "PERSON",
+            "Relate_To",
+            "1 Year From Now",
+            "TIME"
+        ]
+    ]
+}

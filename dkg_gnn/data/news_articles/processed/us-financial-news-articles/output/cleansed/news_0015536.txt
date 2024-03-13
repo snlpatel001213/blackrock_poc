@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Impact",
+            "Intesa Sanpaolo",
+            "COMP"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Has",
+            "Bad Loan Portfolio",
+            "PRODUCT"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "In_Talks_With",
+            "Intrum Justitia",
+            "COMP"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Decrease",
+            "Bad Loan Ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Participates_In",
+            "Banking Industry",
+            "SECTOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Relate_To",
+            "Bad Loan Rules",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Relate_To",
+            "Bad Loan Review",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Relate_To",
+            "Tighter EU Regulation",
+            "CONCEPT"
+        ],
+        [
+            "Italian Banks",
+            "COMP",
+            "Has",
+            "Soured Debts",
+            "PRODUCT"
+        ],
+        [
+            "Italian Banks",
+            "COMP",
+            "Has",
+            "Bad Loan Ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Has",
+            "New Business Plan",
+            "PRODUCT"
+        ],
+        [
+            "UniCredit",
+            "COMP",
+            "Has",
+            "2020 Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Credito Valtellinese",
+            "COMP",
+            "Has",
+            "2020 Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Positive_Impact_On",
+            "Capital Management",
+            "CONCEPT"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Positive_Impact_On",
+            "Capital Gains",
+            "CONCEPT"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Positive_Impact_On",
+            "Profitability",
+            "CONCEPT"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Positive_Impact_On",
+            "Dividends",
+            "CONCEPT"
+        ],
+        [
+            "Intesa Sanpaolo",
+            "COMP",
+            "Positive_Impact_On",
+            "Market Valuations",
+            "CONCEPT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Has",
+            "Slow Moving Judicial System",
+            "CONCEPT"
+        ]
+    ]
+}

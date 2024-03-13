@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Has",
+            "25000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "GDP growth around 6.5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Japanese market",
+            "COMP",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "Europe",
+            "GPE",
+            "Operate_In",
+            "Euro zone",
+            "GPE"
+        ],
+        [
+            "ADP",
+            "COMP",
+            "Produce",
+            "Jobs report at 250000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US",
+            "GPE",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "UBS strategist Keith Parker",
+            "PERSON",
+            "Raise",
+            "2018 S&P forecast to a gain of 18 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Slow, well-communicated rate hike path",
+            "CONCEPT"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Relate_To",
+            "Federal Reserve rate hikes",
+            "CONCEPT"
+        ],
+        [
+            "Recessions",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Bull markets",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Negative_Impact_On",
+            "Bull markets",
+            "CONCEPT"
+        ],
+        [
+            "Inflation worries",
+            "CONCEPT",
+            "Relate_To",
+            "Bear argument",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Relate_To",
+            "Bear argument",
+            "CONCEPT"
+        ],
+        [
+            "Terrorist attack",
+            "EVENT",
+            "Relate_To",
+            "Bear argument",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "Bear argument",
+            "CONCEPT"
+        ]
+    ]
+}

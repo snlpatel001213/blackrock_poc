@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Commercial Metals Company",
+            "COMP",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Commercial Metals Company",
+            "COMP",
+            "Operate_In",
+            "Steel Industry",
+            "SECTOR"
+        ],
+        [
+            "Gerdau S.A.",
+            "ORG",
+            "Operate_In",
+            "Steel Industry",
+            "SECTOR"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Control",
+            "Rebar Fabrication Facilities",
+            "ORG"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Operate_In",
+            "Knoxville, Tennessee",
+            "GPE"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Operate_In",
+            "Jacksonville, Florida",
+            "GPE"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Operate_In",
+            "Sayreville, New Jersey",
+            "GPE"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Operate_In",
+            "Rancho Cucamonga, California",
+            "GPE"
+        ],
+        [
+            "CMC",
+            "COMP",
+            "Operate_In",
+            "Largest Construction Regions",
+            "SECTOR"
+        ],
+        [
+            "Barbara Smith",
+            "PERSON",
+            "Is_Member_Of",
+            "Commercial Metals Company",
+            "COMP"
+        ]
+    ]
+}

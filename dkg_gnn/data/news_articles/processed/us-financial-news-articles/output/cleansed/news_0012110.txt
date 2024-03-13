@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Bioceres",
+            "ORG",
+            "Seek",
+            "$100 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Operate_In",
+            "Wall Street",
+            "GPE"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Develop",
+            "Agricultural genetics",
+            "CONCEPT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Make",
+            "Minor acquisition",
+            "CONCEPT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Repay",
+            "Debt",
+            "CONCEPT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Commercialization",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Has",
+            "Genes",
+            "CONCEPT"
+        ],
+        [
+            "Genes",
+            "CONCEPT",
+            "Withstand",
+            "Drought",
+            "CONCEPT"
+        ],
+        [
+            "Genes",
+            "CONCEPT",
+            "Withstand",
+            "Cold temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Produce",
+            "Insecticides",
+            "PRODUCT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Produce",
+            "Fungicides",
+            "PRODUCT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Produce",
+            "Bio-fertilizers",
+            "PRODUCT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "Produce",
+            "Chemical-based fertilizers",
+            "PRODUCT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "File",
+            "Registration statement",
+            "CONCEPT"
+        ],
+        [
+            "Bioceres",
+            "ORG",
+            "File",
+            "Petition",
+            "CONCEPT"
+        ],
+        [
+            "Foreign investors",
+            "PERSON",
+            "Seek",
+            "Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "Foreign investors",
+            "PERSON",
+            "Buy",
+            "Argentine equities",
+            "PRODUCT"
+        ],
+        [
+            "Argentina",
+            "GPE",
+            "Have",
+            "Market-friendly President",
+            "PERSON"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Name",
+            "Mauricio Macri",
+            "PERSON"
+        ]
+    ]
+}

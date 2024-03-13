@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Participates_In",
+            "Exhibition Event",
+            "EVENT"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Operate_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Rafa Nadal",
+            "PERSON",
+            "Participates_In",
+            "Tie Break Tens",
+            "EVENT"
+        ],
+        [
+            "Tie Break Tens",
+            "EVENT",
+            "Has",
+            "Super Tie Breaks",
+            "CONCEPT"
+        ],
+        [
+            "Tie Break Tens",
+            "EVENT",
+            "Has",
+            "$250,000",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

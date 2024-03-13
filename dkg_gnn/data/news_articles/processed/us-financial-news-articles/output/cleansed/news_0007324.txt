@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "John Young",
+            "PERSON",
+            "Operate_In",
+            "NASA",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Gemini Program",
+            "SECTOR"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Apollo Lunar Missions",
+            "SECTOR"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Space Shuttles Missions",
+            "SECTOR"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "Apollo 16 Mission",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "Apollo 10 Mission",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "Columbia First Flight",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "First Spacelab Trek",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Has",
+            "Lunar Exploration Experience",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Has",
+            "Navy Test Pilot Experience",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Is_Member_Of",
+            "US Space Program",
+            "CONCEPT"
+        ],
+        [
+            "Gemini 3",
+            "EVENT",
+            "Introduce",
+            "Two-man US Space Jaunt",
+            "CONCEPT"
+        ],
+        [
+            "Gus Grissom",
+            "PERSON",
+            "Participates_In",
+            "Gemini 3",
+            "EVENT"
+        ],
+        [
+            "Corned Beef Sandwich",
+            "PRODUCT",
+            "Relate_To",
+            "Young Stunt",
+            "CONCEPT"
+        ],
+        [
+            "NASA",
+            "ORG/GOV",
+            "Negative_Impact_On",
+            "Young Stunt",
+            "CONCEPT"
+        ],
+        [
+            "Apollo 10",
+            "EVENT",
+            "Relate_To",
+            "Apollo 11 Dress Rehearsal",
+            "CONCEPT"
+        ],
+        [
+            "Columbia",
+            "PRODUCT",
+            "Operate_In",
+            "Space Shuttles Missions",
+            "SECTOR"
+        ],
+        [
+            "Spacelab",
+            "PRODUCT",
+            "Operate_In",
+            "Space Shuttles Missions",
+            "SECTOR"
+        ],
+        [
+            "Challenger",
+            "PRODUCT",
+            "Relate_To",
+            "1986 Flight Cancellation",
+            "EVENT"
+        ]
+    ]
+}

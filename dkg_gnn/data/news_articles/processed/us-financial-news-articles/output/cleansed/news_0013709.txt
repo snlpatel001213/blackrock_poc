@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Some elite private K-12 schools",
+            "GPE",
+            "Control",
+            "Compensation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "These schools",
+            "GPE",
+            "Has",
+            "Tuition and Fees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "These schools",
+            "GPE",
+            "Has",
+            "Climbing Walls",
+            "FACILITY"
+        ],
+        [
+            "These schools",
+            "GPE",
+            "Has",
+            "Kindergarten Application Process",
+            "CONCEPT"
+        ],
+        [
+            "Executive compensation",
+            "ECON_INDICATOR",
+            "Exceeds",
+            "Pay of many college presidents",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

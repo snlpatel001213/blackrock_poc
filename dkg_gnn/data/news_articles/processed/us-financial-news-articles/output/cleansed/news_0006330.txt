@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Is_Member_Of",
+            "Apple",
+            "ORG"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Participates_In",
+            "Apple Music",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Control",
+            "Interscope",
+            "ORG"
+        ],
+        [
+            "Interscope",
+            "ORG",
+            "Help",
+            "iTunes",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Join",
+            "Apple",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Acquire",
+            "Beats",
+            "ORG"
+        ],
+        [
+            "Beats",
+            "ORG",
+            "Worth",
+            "$3 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Vest",
+            "$400 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "Apple Music",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Departure",
+            "August",
+            "DATE"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Stake",
+            "Jimmy Iovine",
+            "PERSON"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Decline",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Identity",
+            "Music Technology Pioneer",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "ORG",
+            "Release",
+            "HomePod",
+            "PRODUCT"
+        ],
+        [
+            "Spotify",
+            "ORG",
+            "Aim",
+            "Public",
+            "CONCEPT"
+        ],
+        [
+            "Spotify",
+            "ORG",
+            "Compete",
+            "Apple Music",
+            "PRODUCT"
+        ]
+    ]
+}

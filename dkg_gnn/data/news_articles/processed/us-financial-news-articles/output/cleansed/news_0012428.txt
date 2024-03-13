@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Convert",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Control",
+            "Aramco",
+            "ORG"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Introduce",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "IPO",
+            "EVENT",
+            "Relate_To",
+            "Vision 2030",
+            "CONCEPT"
+        ],
+        [
+            "Vision 2030",
+            "CONCEPT",
+            "Championed_By",
+            "Mohammad bin Salman",
+            "PERSON"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "Fully_Paid_Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "200 billion ordinary shares",
+            "CONCEPT"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Has",
+            "11 members board",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Retain",
+            "Ultimate_Decision",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Appoint",
+            "Company\u2019s chairman",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Consider",
+            "Listing_Aramco",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Consider",
+            "Private_Placement",
+            "CONCEPT"
+        ],
+        [
+            "Aramco",
+            "ORG",
+            "Comply",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Debate",
+            "Valuation",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Member_Of",
+            "OPEC",
+            "ORG"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Lead",
+            "Oil_Production_Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Cooperate",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "OPEC",
+            "ORG",
+            "Agreement",
+            "Extend_Oil_Output_Cuts",
+            "CONCEPT"
+        ]
+    ]
+}

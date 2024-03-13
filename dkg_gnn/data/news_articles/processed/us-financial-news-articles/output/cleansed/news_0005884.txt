@@ -1,0 +1,283 @@
+{
+    "output": [
+        [
+            "Mexico",
+            "GPE",
+            "Is_Member_Of",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Is_Member_Of",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Dispute",
+            "Reports",
+            "CONCEPT"
+        ],
+        [
+            "Reports",
+            "CONCEPT",
+            "Relate_To",
+            "Tainted Alcohol",
+            "CONCEPT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Describe",
+            "Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Warnings",
+            "CONCEPT",
+            "Relate_To",
+            "Criminal Activities",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "No Evidence",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Problem",
+            "CONCEPT"
+        ],
+        [
+            "Problem",
+            "CONCEPT",
+            "Relate_To",
+            "Beach Drinking Culture",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Case",
+            "CONCEPT"
+        ],
+        [
+            "Case",
+            "CONCEPT",
+            "Relate_To",
+            "Excessive Alcohol",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Medical Evidence",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Have",
+            "Illegal Alcohol",
+            "CONCEPT"
+        ],
+        [
+            "Illegal Alcohol",
+            "CONCEPT",
+            "Relate_To",
+            "Not Taxed",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Illegal Alcohol",
+            "CONCEPT"
+        ],
+        [
+            "Illegal Alcohol",
+            "CONCEPT",
+            "Relate_To",
+            "Good Alcohol",
+            "CONCEPT"
+        ],
+        [
+            "Illegal Alcohol",
+            "CONCEPT",
+            "Relate_To",
+            "Not Tainted",
+            "CONCEPT"
+        ],
+        [
+            "TripAdvisor",
+            "COMP",
+            "Found",
+            "Delete",
+            "VERB"
+        ],
+        [
+            "Users",
+            "PERSON",
+            "Complaints",
+            "Experiences",
+            "CONCEPT"
+        ],
+        [
+            "Mexican Resorts",
+            "COMP",
+            "Experiences",
+            "CONCEPT"
+        ],
+        [
+            "Milwaukee Journal Sentinel",
+            "COMP",
+            "Find",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Update",
+            "Warning",
+            "CONCEPT"
+        ],
+        [
+            "Warning",
+            "CONCEPT",
+            "Relate_To",
+            "Traveling",
+            "VERB"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Have",
+            "Risk",
+            "CONCEPT"
+        ],
+        [
+            "Risk",
+            "CONCEPT",
+            "Relate_To",
+            "Organized Crime Activity",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Citizens",
+            "PERSON",
+            "Victims",
+            "Violent Crimes",
+            "CONCEPT"
+        ],
+        [
+            "Violent Crimes",
+            "CONCEPT",
+            "Relate_To",
+            "Homicide",
+            "CONCEPT"
+        ],
+        [
+            "Violent Crimes",
+            "CONCEPT",
+            "Relate_To",
+            "Kidnapping",
+            "CONCEPT"
+        ],
+        [
+            "Violent Crimes",
+            "CONCEPT",
+            "Relate_To",
+            "Carjacking",
+            "CONCEPT"
+        ],
+        [
+            "Violent Crimes",
+            "CONCEPT",
+            "Relate_To",
+            "Robbery",
+            "CONCEPT"
+        ],
+        [
+            "Mexican States",
+            "GPE",
+            "Risk",
+            "Organized Crime Activity",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Dont Want",
+            "U.S. State Department",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Remove",
+            "Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Information",
+            "CONCEPT",
+            "Relate_To",
+            "Misleading",
+            "CONCEPT"
+        ],
+        [
+            "Enrique de la Madrid Cordero",
+            "PERSON",
+            "Say",
+            "Problems",
+            "CONCEPT"
+        ],
+        [
+            "Problems",
+            "CONCEPT",
+            "Relate_To",
+            "Perception",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Could Do",
+            "Promote",
+            "VERB"
+        ],
+        [
+            "Promote",
+            "VERB",
+            "Relate_To",
+            "Responsible Drinking",
+            "CONCEPT"
+        ],
+        [
+            "Alcohol",
+            "CONCEPT",
+            "Relate_To",
+            "Responsible Drinking",
+            "CONCEPT"
+        ]
+    ]
+}

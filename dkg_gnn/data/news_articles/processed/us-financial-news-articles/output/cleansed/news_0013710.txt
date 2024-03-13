@@ -1,0 +1,197 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Russia",
+            "ORG/GOV"
+        ],
+        [
+            "Russia",
+            "ORG/GOV",
+            "Help",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Get",
+            "Supplies",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Doubt",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Persist",
+            "Major Global Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Praise",
+            "China",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "ORG/GOV",
+            "Restrict",
+            "Oil And Coal Supplies",
+            "COMP"
+        ],
+        [
+            "Russia",
+            "ORG/GOV",
+            "Fill",
+            "Gaps",
+            "COMP"
+        ],
+        [
+            "Russia",
+            "ORG/GOV",
+            "Deny",
+            "Breach",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Rely",
+            "Imported Fuel",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Require",
+            "Oil",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Blame",
+            "U.S. Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Russia",
+            "ORG/GOV"
+        ],
+        [
+            "Russia",
+            "ORG/GOV",
+            "Can Do",
+            "Lot",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Get",
+            "Closer",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Advancing",
+            "Ability",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Deliver",
+            "Missile",
+            "PRODUCT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Welcome",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Winter Olympics",
+            "EVENT",
+            "Hold",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Not Reveal",
+            "Hand",
+            "COMP"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Mean Business",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Speak",
+            "U.S. Officials",
+            "COMP"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Signal",
+            "Openness",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Weigh",
+            "Pre-emptive Strike",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Touch Off",
+            "War",
+            "CONCEPT"
+        ]
+    ]
+}

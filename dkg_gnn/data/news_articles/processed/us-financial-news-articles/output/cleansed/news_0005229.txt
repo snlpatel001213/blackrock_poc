@@ -1,0 +1,56 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Release",
+            "transcripts",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Unleash",
+            "bond purchases",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bond purchases",
+            "FIN_INSTRUMENT",
+            "Impact_On",
+            "US economic recovery",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Nominate",
+            "next Federal Reserve chairman",
+            "ORG/REG"
+        ],
+        [
+            "Janet Yellen",
+            "PERSON",
+            "Not",
+            "get second term",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decide",
+            "choose new leader",
+            "PERSON",
+            "for",
+            "Federal Reserve",
+            "ORG/REG"
+        ]
+    ]
+}

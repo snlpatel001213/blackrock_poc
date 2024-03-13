@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Monsanto Co",
+            "COMP",
+            "Has",
+            "Roundup",
+            "PRODUCT"
+        ],
+        [
+            "Warning",
+            "EVENT",
+            "Relate_To",
+            "Cancer-causing",
+            "CONCEPT"
+        ],
+        [
+            "Crisis",
+            "CONCEPT",
+            "Relate_To",
+            "Dicamba-based product",
+            "PRODUCT"
+        ],
+        [
+            "Federal lawsuit",
+            "EVENT",
+            "Relate_To",
+            "Stop glyphosate warnings",
+            "EVENT"
+        ]
+    ]
+}

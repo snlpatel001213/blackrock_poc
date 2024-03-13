@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Las Vegas Sands",
+            "COMP",
+            "Relate_To",
+            "Macau Gaming Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wynn Resorts",
+            "COMP",
+            "Relate_To",
+            "Macau Gaming Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Volkswagen",
+            "COMP",
+            "Control",
+            "Diesel Emissions Scandal",
+            "CONCEPT"
+        ],
+        [
+            "Sears Holdings",
+            "COMP",
+            "Decrease",
+            "Paid National Television Commercials",
+            "CONCEPT"
+        ],
+        [
+            "Altice USA",
+            "COMP",
+            "Decrease",
+            "Starz and Encore Movie Channels",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Introduce",
+            "29$ Replacement Batteries",
+            "PRODUCT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Relate_To",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Walt Disney",
+            "COMP",
+            "Control",
+            "Star Wars: The Last Jedi",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Raise",
+            "Holiday-induced Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MagnifyMoney",
+            "ORG",
+            "Announce",
+            "Holiday Debt Survey",
+            "EVENT"
+        ],
+        [
+            "Shoppers",
+            "PERSON",
+            "Participates_In",
+            "Holiday Spending",
+            "EVENT"
+        ],
+        [
+            "Shopper",
+            "PERSON",
+            "Pay_Off",
+            "Holiday-induced Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shopper",
+            "PERSON",
+            "Make",
+            "Minimum Payment",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shopper",
+            "PERSON",
+            "Pay",
+            "Interest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Varo Money",
+            "ORG",
+            "Conduct",
+            "Survey",
+            "EVENT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Fail_To",
+            "Budget",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Plan_To",
+            "Pay_Off",
+            "Credit Cards",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Americans",
+            "PERSON",
+            "Need",
+            "One_To_Three_Months",
+            "TIME"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Take",
+            "More_Than_Six_Months",
+            "TIME"
+        ],
+        [
+            "Consumer Credit Card Debt",
+            "ECON_INDICATOR",
+            "Stand",
+            "Eight Hundred Eight Billion Dollars",
+            "QUANTITY"
+        ],
+        [
+            "Financial Advisors",
+            "PERSON",
+            "Recommend",
+            "Pay_Down",
+            "Credit Card Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Figure_Out",
+            "What_You_Owe",
+            "ACTIVITY"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Get",
+            "Balances_And_Interest_Rates",
+            "ACTIVITY"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Check",
+            "Debt_Avalanche_Or_Snowball",
+            "ACTIVITY"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Prioritize",
+            "Smallest_Debts",
+            "ACTIVITY"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Consolidate",
+            "Debt",
+            "ACTIVITY"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Choose",
+            "Consolidation_Strategy",
+            "ACTIVITY"
+        ]
+    ]
+}

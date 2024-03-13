@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Goldman Sachs",
+            "COMP",
+            "Lead",
+            "pack",
+            "ORG"
+        ],
+        [
+            "Dick Bove",
+            "PERSON",
+            "Discuss",
+            "bank earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dick Bove",
+            "PERSON",
+            "Discuss",
+            "Goldman Sachs",
+            "COMP"
+        ]
+    ]
+}

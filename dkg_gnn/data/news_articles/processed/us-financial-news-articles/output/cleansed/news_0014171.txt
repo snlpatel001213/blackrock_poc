@@ -1,0 +1,33 @@
+{
+    "output": [
+        [
+            "Robert De Niro",
+            "PERSON",
+            "Calls",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Robert De Niro",
+            "PERSON",
+            "Relate_To",
+            "National Board of Review Awards",
+            "EVENT"
+        ],
+        [
+            "Robert De Niro",
+            "PERSON",
+            "Impact",
+            "Negative_Impact_On",
+            "Trump",
+            "PERSON"
+        ]
+    ]
+}

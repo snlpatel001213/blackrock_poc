@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "1,432",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Puerto Rico",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Dominican Republic",
+            "GPE"
+        ],
+        [
+            "Franchisee John Mahoney",
+            "PERSON",
+            "Participates_In",
+            "Planet Fitness",
+            "ORG"
+        ],
+        [
+            "Franchise Group",
+            "COMP",
+            "Operate_In",
+            "Suffolk County",
+            "GPE"
+        ],
+        [
+            "Company Owned Stores",
+            "COMP",
+            "Operate_In",
+            "Western Half",
+            "GPE"
+        ]
+    ]
+}

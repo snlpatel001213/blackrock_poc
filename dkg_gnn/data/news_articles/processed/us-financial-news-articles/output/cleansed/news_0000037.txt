@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Israeli archaeologists",
+            "PERSON",
+            "Unveil",
+            "clay seal impression",
+            "ORG"
+        ],
+        [
+            "clay seal impression",
+            "PRODUCT",
+            "Belong_To",
+            "governor of the city",
+            "PERSON"
+        ],
+        [
+            "governor of the city",
+            "PERSON",
+            "Is_Member_Of",
+            "biblical Jerusalem",
+            "GPE"
+        ],
+        [
+            "artifact",
+            "PRODUCT",
+            "Likely_Attached_To",
+            "shipment",
+            "PRODUCT"
+        ],
+        [
+            "artifact",
+            "PRODUCT",
+            "Sent_As",
+            "souvenir",
+            "PRODUCT"
+        ],
+        [
+            "artifact",
+            "PRODUCT",
+            "On_Behalf_Of",
+            "governor",
+            "PERSON"
+        ],
+        [
+            "Israel Antiquities Authority",
+            "ORG",
+            "Quote",
+            "excavator Shlomit Weksler-Bdolah",
+            "PERSON"
+        ],
+        [
+            "governor of Jerusalem",
+            "PERSON",
+            "Mentioned_In",
+            "Bible",
+            "CONCEPT"
+        ],
+        [
+            "governor of Jerusalem",
+            "PERSON",
+            "Mentioned_In",
+            "2 Kings",
+            "CONCEPT"
+        ],
+        [
+            "governor of Jerusalem",
+            "PERSON",
+            "Mentioned_In",
+            "2 Chronicles",
+            "CONCEPT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Overturn",
+            "decades-old policy",
+            "CONCEPT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Stir",
+            "Palestinian protests",
+            "EVENT"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Stir",
+            "international concern",
+            "CONCEPT"
+        ]
+    ]
+}

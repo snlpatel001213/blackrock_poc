@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Monteverde & Associates PC",
+            "ORG",
+            "File",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Involved_In",
+            "Class action lawsuit",
+            "EVENT"
+        ],
+        [
+            "United States District Court",
+            "ORG/GOV",
+            "Location",
+            "Case",
+            "EVENT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Has",
+            "Board of directors",
+            "ORG"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Involved_In",
+            "Merger Agreement",
+            "EVENT"
+        ],
+        [
+            "Arby's Restaurant Group",
+            "COMP",
+            "Involved_In",
+            "Merger Agreement",
+            "EVENT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Has",
+            "Buffalo Wild Wings common stock",
+            "COMP"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Hold",
+            "Buffalo Wild Wings common stock",
+            "COMP"
+        ],
+        [
+            "Shareholders",
+            "PERSON",
+            "Harm",
+            "Buffalo Wild Wings and its board of directors",
+            "ORG"
+        ],
+        [
+            "Merger Agreement",
+            "EVENT",
+            "Value",
+            "$2.9 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "File",
+            "Definitive Proxy Statement",
+            "EVENT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Receive",
+            "Proxy",
+            "EVENT"
+        ],
+        [
+            "Proxy",
+            "EVENT",
+            "Recommend",
+            "Vote in favor of Proposed Transaction",
+            "EVENT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Shareholders",
+            "Vote in favor of Proposed Transaction",
+            "EVENT"
+        ],
+        [
+            "Proxy",
+            "EVENT",
+            "Omits",
+            "Material information",
+            "CONCEPT"
+        ],
+        [
+            "Proxy",
+            "EVENT",
+            "Misrepresents",
+            "Material information",
+            "CONCEPT"
+        ],
+        [
+            "Buffalo Wild Wings",
+            "COMP",
+            "Has",
+            "Goldman Sachs",
+            "ORG"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Financial advisor",
+            "Company",
+            "COMP"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Conduct",
+            "Financial analyses",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Past dealings",
+            "Goldman Sachs",
+            "ORG"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Historical relationship",
+            "Arby's",
+            "COMP"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Lead plaintiff",
+            "No later than 60 days from today",
+            "TIME"
+        ],
+        [
+            "Putative class",
+            "PERSON",
+            "Move",
+            "Court",
+            "ORG/GOV"
+        ],
+        [
+            "Putative class",
+            "PERSON",
+            "Choose",
+            "Do nothing",
+            "ACTION"
+        ],
+        [
+            "Putative class",
+            "PERSON",
+            "Remain",
+            "Absent class member",
+            "PERSON"
+        ]
+    ]
+}

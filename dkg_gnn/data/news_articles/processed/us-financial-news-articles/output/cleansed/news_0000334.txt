@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Compass",
+            "ORG",
+            "Is_Member_Of",
+            "Catering Firm",
+            "ORG"
+        ],
+        [
+            "Dominic Blakemore",
+            "PERSON",
+            "Participates_In",
+            "Compass",
+            "ORG"
+        ],
+        [
+            "Dominic Blakemore",
+            "PERSON",
+            "Start",
+            "Tenure",
+            "CONCEPT"
+        ],
+        [
+            "Richard Cousins",
+            "PERSON",
+            "Die",
+            "..",
+            "CONCEPT"
+        ],
+        [
+            "Richard Cousins",
+            "PERSON",
+            "Is_Member_Of",
+            "Family Members",
+            "PERSON"
+        ],
+        [
+            "Seaplane",
+            "PRODUCT",
+            "Crash",
+            "..",
+            "CONCEPT"
+        ],
+        [
+            "Seaplane",
+            "PRODUCT",
+            "Involve_In",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Seaplane",
+            "PRODUCT",
+            "Involve_In",
+            "New Year\u2019s Eve",
+            "EVENT"
+        ]
+    ]
+}

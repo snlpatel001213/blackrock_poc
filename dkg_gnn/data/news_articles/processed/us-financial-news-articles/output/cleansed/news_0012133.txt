@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Philippines",
+            "GPE",
+            "Exhume",
+            "bodies of two children",
+            "GPE"
+        ],
+        [
+            "Government Agency",
+            "ORG/GOV",
+            "Exhume",
+            "bodies",
+            "GPE"
+        ],
+        [
+            "Parents",
+            "PERSON",
+            "Suspect",
+            "children died of dengue",
+            "CONCEPT"
+        ],
+        [
+            "Children",
+            "PERSON",
+            "Receive",
+            "Dengvaxia",
+            "PRODUCT"
+        ],
+        [
+            "Department of Health (DOH)",
+            "ORG/GOV",
+            "Stop",
+            "using Dengvaxia",
+            "PRODUCT"
+        ],
+        [
+            "Sanofi Pasteur",
+            "ORG",
+            "Say",
+            "Dengvaxia may increase risk of severe dengue",
+            "CONCEPT"
+        ],
+        [
+            "Public Attorney\u2019s Office (PAO)",
+            "ORG",
+            "Examine",
+            "bodies",
+            "GPE"
+        ],
+        [
+            "PAO",
+            "ORG",
+            "Observe",
+            "bleeding",
+            "CONCEPT"
+        ],
+        [
+            "PAO",
+            "ORG",
+            "Investigate",
+            "deaths of five other children",
+            "PERSON"
+        ],
+        [
+            "PAO",
+            "ORG",
+            "Reveal",
+            "pattern in how children died",
+            "CONCEPT"
+        ],
+        [
+            "PAO",
+            "ORG",
+            "Observe",
+            "bleeding in vital organs",
+            "CONCEPT"
+        ],
+        [
+            "PAO",
+            "ORG",
+            "Observe",
+            "hemorrhagic shock",
+            "CONCEPT"
+        ],
+        [
+            "DOH",
+            "ORG/GOV",
+            "Look",
+            "at findings",
+            "CONCEPT"
+        ],
+        [
+            "DOH",
+            "ORG/GOV",
+            "Submit",
+            "cases to review panel",
+            "CONCEPT"
+        ],
+        [
+            "Review Panel",
+            "ORG",
+            "Review",
+            "cases involving deaths of 14 children",
+            "PERSON"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "First approved vaccine",
+            "for dengue",
+            "CONCEPT"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "Not protect equally",
+            "against four types of virus",
+            "CONCEPT"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "Provide protective benefit",
+            "against dengue fever",
+            "CONCEPT"
+        ],
+        [
+            "Dengvaxia",
+            "PRODUCT",
+            "May suffer more severe symptoms",
+            "following vaccination",
+            "CONCEPT"
+        ],
+        [
+            "Sanofi",
+            "ORG",
+            "Say",
+            "no death causally linked to dengue vaccine",
+            "CONCEPT"
+        ]
+    ]
+}

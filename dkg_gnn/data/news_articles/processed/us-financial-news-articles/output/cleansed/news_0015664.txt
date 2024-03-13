@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "MCG",
+            "GPE",
+            "Has",
+            "poor pitch",
+            "CONCEPT"
+        ],
+        [
+            "International Cricket Council",
+            "ORG/REG",
+            "Give",
+            "warning",
+            "CONCEPT"
+        ],
+        [
+            "Melbourne Cricket Ground",
+            "GPE",
+            "Receive",
+            "warning",
+            "CONCEPT"
+        ],
+        [
+            "Cricket",
+            "CONCEPT",
+            "In",
+            "Ashes test",
+            "CONCEPT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Play",
+            "England",
+            "GPE"
+        ],
+        [
+            "MCG",
+            "GPE",
+            "In",
+            "Melbourne",
+            "GPE"
+        ],
+        [
+            "Track",
+            "CONCEPT",
+            "Draw",
+            "criticism",
+            "CONCEPT"
+        ],
+        [
+            "Both teams",
+            "CONCEPT",
+            "Criticize",
+            "pitch",
+            "CONCEPT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Score",
+            "327",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Score",
+            "263",
+            "ECON_INDICATOR"
+        ],
+        [
+            "England",
+            "GPE",
+            "Score",
+            "491",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Match referee",
+            "CONCEPT",
+            "Say",
+            "report",
+            "CONCEPT"
+        ],
+        [
+            "Surface",
+            "CONCEPT",
+            "Not allow",
+            "even contest",
+            "CONCEPT"
+        ],
+        [
+            "Cricket Australia",
+            "ORG",
+            "Do not contest",
+            "rating",
+            "CONCEPT"
+        ],
+        [
+            "ICC",
+            "ORG/REG",
+            "Say",
+            "commitment",
+            "CONCEPT"
+        ],
+        [
+            "Melbourne Cricket Club",
+            "ORG",
+            "Commit",
+            "improve pitches",
+            "CONCEPT"
+        ],
+        [
+            "MCG",
+            "GPE",
+            "Host",
+            "one-day international",
+            "CONCEPT"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Play",
+            "England",
+            "GPE"
+        ],
+        [
+            "ICC",
+            "ORG/REG",
+            "Revise",
+            "pitch and outfield monitoring process",
+            "CONCEPT"
+        ],
+        [
+            "Venue",
+            "CONCEPT",
+            "Allocate",
+            "demerit points",
+            "CONCEPT"
+        ],
+        [
+            "MCG",
+            "GPE",
+            "Under",
+            "new process",
+            "CONCEPT"
+        ]
+    ]
+}

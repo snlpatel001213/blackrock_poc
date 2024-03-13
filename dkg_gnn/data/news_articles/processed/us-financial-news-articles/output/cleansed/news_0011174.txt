@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "L Brands Inc",
+            "COMP",
+            "Announce",
+            "Redeem",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "L Brands Inc",
+            "COMP",
+            "Control",
+            "8.500 Pct Senior Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "8.500 Pct Senior Notes",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "2019",
+            "GPE"
+        ],
+        [
+            "8.500 Pct Senior Notes",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "500 Million Dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "L Brands Inc",
+            "COMP",
+            "Impact",
+            "Further company coverage",
+            "CONCEPT"
+        ]
+    ]
+}

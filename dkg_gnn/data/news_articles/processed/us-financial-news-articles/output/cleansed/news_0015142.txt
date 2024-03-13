@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "AccessOne",
+            "COMP",
+            "Acquire",
+            "HealthFirst Financial",
+            "COMP"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Operate_In",
+            "Patient Financing",
+            "SECTOR"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Operate_In",
+            "Patient Financing",
+            "SECTOR"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Backed_By",
+            "Capital One Bank",
+            "ORG/BANK"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Backed_By",
+            "Frontier Capital",
+            "ORG/VC"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Has",
+            "Proprietary Predictive Analytics",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Has",
+            "Software Systems",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Has",
+            "Patient-First Advocate Teams",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Has",
+            "Consumer Finance Technology",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Has",
+            "Innovation",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Has",
+            "Financing Flexibility",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Has",
+            "High Patient Satisfaction",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Impact",
+            "Declining Collection Rates",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Impact",
+            "Loss of Patient Retention",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Improve",
+            "Patient Satisfaction Scores",
+            "CONCEPT"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Lower",
+            "Bad Debt",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Founded_In",
+            "2001",
+            "DATE"
+        ],
+        [
+            "AccessOne",
+            "COMP",
+            "Founded_In",
+            "2002",
+            "DATE"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Awarded",
+            "Peer Review Designation",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Awarded",
+            "Prestigious Peer Review Designation",
+            "CONCEPT"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "Healthcare Financing",
+            "SECTOR"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "Professional Service Companies",
+            "SECTOR"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "Hawes Group",
+            "COMP"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "Hawes Technologies",
+            "COMP"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "HeRO Business Services",
+            "COMP"
+        ],
+        [
+            "HealthFirst Financial",
+            "COMP",
+            "Participates_In",
+            "Professional Credit Service",
+            "COMP"
+        ]
+    ]
+}

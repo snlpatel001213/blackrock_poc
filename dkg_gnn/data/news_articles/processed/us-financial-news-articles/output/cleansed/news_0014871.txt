@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Ease",
+            "Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Relate_To",
+            "Brexit",
+            "EVENT"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Debate",
+            "null",
+            "null"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Operate_In",
+            "European Council",
+            "ORG/GOV"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Possibly_Impact",
+            "Financial Squeeze",
+            "CONCEPT"
+        ]
+    ]
+}

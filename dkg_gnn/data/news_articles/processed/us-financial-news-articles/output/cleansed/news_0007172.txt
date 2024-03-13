@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Internet Association",
+            "ORG",
+            "Intends_To_Join",
+            "Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Federal Communications Commission",
+            "ORG/REG",
+            "Control",
+            "Net Neutrality Rules",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Is_Member_Of",
+            "Internet Association",
+            "ORG"
+        ],
+        [
+            "Facebook",
+            "ORG",
+            "Is_Member_Of",
+            "Internet Association",
+            "ORG"
+        ],
+        [
+            "AT&T",
+            "ORG",
+            "Control",
+            "Internet Service Providers",
+            "ORG"
+        ],
+        [
+            "Comcast",
+            "ORG",
+            "Control",
+            "Internet Service Providers",
+            "ORG"
+        ],
+        [
+            "Verizon",
+            "ORG",
+            "Control",
+            "Internet Service Providers",
+            "ORG"
+        ],
+        [
+            "Ajit Pai",
+            "PERSON",
+            "Approve",
+            "FCC Chairman",
+            "ORG/REG"
+        ],
+        [
+            "U.S. President Donald Trump",
+            "PERSON",
+            "Appoint",
+            "Ajit Pai",
+            "PERSON"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Issue",
+            "Statement",
+            "CONCEPT"
+        ],
+        [
+            "New Rules",
+            "CONCEPT",
+            "Give",
+            "Internet Service Providers",
+            "ORG"
+        ],
+        [
+            "Internet Service Providers",
+            "ORG",
+            "Have",
+            "New Transparency Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Include",
+            "Airbnb",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Include",
+            "Etsy",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Include",
+            "Amazon",
+            "ORG"
+        ]
+    ]
+}

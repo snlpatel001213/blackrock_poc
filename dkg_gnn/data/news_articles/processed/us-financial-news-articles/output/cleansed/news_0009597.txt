@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Has",
+            "DHEA",
+            "CONCEPT"
+        ],
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Report",
+            "PGA Tour",
+            "ORG/GOV"
+        ],
+        [
+            "PGA Tour",
+            "ORG/GOV",
+            "Ban",
+            "Brad Fritsch",
+            "PERSON"
+        ],
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Play",
+            "Buy.com Tour",
+            "ORG"
+        ],
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Eligible",
+            "Return",
+            "VERB"
+        ],
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Operate_In",
+            "Golf",
+            "CONCEPT"
+        ],
+        [
+            "DHEA",
+            "CONCEPT",
+            "Produce",
+            "Adrenal Glands",
+            "ORG"
+        ],
+        [
+            "DHEA",
+            "CONCEPT",
+            "Peak",
+            "Mid-20s",
+            "TIME"
+        ],
+        [
+            "DHEA",
+            "CONCEPT",
+            "Decline",
+            "Age",
+            "TIME"
+        ],
+        [
+            "PGA Tour",
+            "ORG/GOV",
+            "Suspend",
+            "Brad Fritsch",
+            "PERSON"
+        ],
+        [
+            "Brad Fritsch",
+            "PERSON",
+            "Join",
+            "Small List",
+            "QUANTITY"
+        ],
+        [
+            "PGA Tour",
+            "ORG/GOV",
+            "Ban",
+            "Deer Antler Spray",
+            "PRODUCT"
+        ],
+        [
+            "Deer Antler Spray",
+            "PRODUCT",
+            "Contain",
+            "Insulin-like Growth Factor",
+            "CONCEPT"
+        ],
+        [
+            "PGA Tour",
+            "ORG/GOV",
+            "Lift",
+            "Suspension",
+            "VERB"
+        ],
+        [
+            "World Anti-Doping Agency",
+            "ORG/REG",
+            "Conclude",
+            "Remove",
+            "VERB"
+        ],
+        [
+            "Deer Antler Spray",
+            "PRODUCT",
+            "From",
+            "List",
+            "CONCEPT"
+        ]
+    ]
+}

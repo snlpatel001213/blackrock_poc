@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Winter Olympics",
+            "EVENT",
+            "Relate_To",
+            "talks",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "John Park",
+            "PERSON",
+            "Is_Member_Of",
+            "Harvard Kennedy School",
+            "ORG"
+        ],
+        [
+            "Harvard Kennedy School",
+            "ORG",
+            "Has",
+            "John Park",
+            "PERSON"
+        ]
+    ]
+}

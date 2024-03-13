@@ -1,0 +1,36 @@
+{
+    "output": [
+        [
+            "Average Boss",
+            "PERSON",
+            "Has",
+            "Same Salary",
+            "ECON_INDICATOR",
+            "as",
+            "Typical Worker",
+            "PERSON",
+            "in",
+            "Year",
+            "TIME"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Look_At",
+            "Pay",
+            "ECON_INDICATOR",
+            "of",
+            "Top 13 UK Banks",
+            "ORG",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Top 13 UK Banks",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Donate",
+            "TheDream.US",
+            "ORG"
+        ],
+        [
+            "Amazon.com Inc",
+            "COMP",
+            "Donate",
+            "TheDream.US",
+            "ORG"
+        ],
+        [
+            "TheDream.US",
+            "ORG",
+            "Fund",
+            "1000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TheDream.US",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "U.S. high school graduates",
+            "PERSON",
+            "Have",
+            "DACA status",
+            "CONCEPT"
+        ],
+        [
+            "DACA",
+            "CONCEPT",
+            "Protect",
+            "young immigrants",
+            "PERSON"
+        ],
+        [
+            "young immigrants",
+            "PERSON",
+            "Brought",
+            "illegally",
+            "ADV"
+        ],
+        [
+            "parents",
+            "PERSON",
+            "of",
+            "Dreamers",
+            "PERSON"
+        ],
+        [
+            "U.S. President",
+            "PERSON",
+            "Blast",
+            "federal court system",
+            "ORG"
+        ],
+        [
+            "federal court system",
+            "ORG",
+            "Be",
+            "broken and unfair",
+            "CONCEPT"
+        ],
+        [
+            "TheDream.US",
+            "ORG",
+            "Enroll",
+            "2,850",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TheDream.US",
+            "ORG",
+            "Cover",
+            "cost of tuition, fees and books",
+            "CONCEPT"
+        ],
+        [
+            "Bezos\u2019 parents",
+            "PERSON",
+            "Donate",
+            "TheDream.US",
+            "ORG"
+        ],
+        [
+            "The Bill and Melinda Gates Foundation",
+            "ORG",
+            "Contribute",
+            "TheDream.US",
+            "ORG"
+        ],
+        [
+            "Pershing Square Foundation",
+            "ORG",
+            "Contribute",
+            "TheDream.US",
+            "ORG"
+        ],
+        [
+            "Chan Zuckerberg Initiative",
+            "ORG",
+            "Contribute",
+            "TheDream.US",
+            "ORG"
+        ]
+    ]
+}

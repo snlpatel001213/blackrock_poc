@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Aldi UK",
+            "ORG",
+            "Increase",
+            "December sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Operate_In",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Plan",
+            "70 more stores",
+            "COMP"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Target",
+            "1,000 UK stores",
+            "COMP"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Has",
+            "Premium ranges",
+            "PRODUCT"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Impact",
+            "UK food retailing",
+            "SECTOR"
+        ],
+        [
+            "Aldi",
+            "ORG",
+            "Introduce",
+            "Specially Selected products",
+            "PRODUCT"
+        ],
+        [
+            "Specially Selected products",
+            "PRODUCT",
+            "Increase",
+            "sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aldi UK",
+            "ORG",
+            "Pay",
+            "store assistants",
+            "PERSON",
+            "a minimum",
+            "8.85 pounds an hour",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tesco",
+            "ORG",
+            "Update",
+            "on Christmas trading",
+            "EVENT"
+        ],
+        [
+            "Sainsbury\u2019s",
+            "ORG",
+            "Update",
+            "on Christmas trading",
+            "EVENT"
+        ],
+        [
+            "Morrisons",
+            "ORG",
+            "Have",
+            "market share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aldi",
+            "ORG",
+            "Overtake",
+            "Co-operative Group",
+            "ORG",
+            "to become",
+            "Britain\u2019s fifth largest grocer",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Rupert Murdoch",
+            "PERSON",
+            "Relate_To",
+            "New Fox",
+            "ORG"
+        ],
+        [
+            "Rupert Murdoch",
+            "PERSON",
+            "Operate_In",
+            "Media",
+            "SECTOR"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "President",
+            "ORG/GOV"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Relate_To",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Relate_To",
+            "Chief Strategist",
+            "SECTOR"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Relate_To",
+            "Trump Family",
+            "PERSON"
+        ],
+        [
+            "Breitbart",
+            "ORG",
+            "Control",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Breitbart",
+            "ORG",
+            "Control",
+            "Mercer Family",
+            "PERSON"
+        ],
+        [
+            "Murdoch",
+            "PERSON",
+            "Operate_In",
+            "Fox News",
+            "ORG"
+        ],
+        [
+            "Breitbart",
+            "ORG",
+            "Raise",
+            "Influence",
+            "CONCEPT"
+        ],
+        [
+            "Breitbart",
+            "ORG",
+            "Raise",
+            "Clout",
+            "CONCEPT"
+        ],
+        [
+            "New Fox",
+            "ORG",
+            "Relate_To",
+            "News-and-Sports Business",
+            "SECTOR"
+        ]
+    ]
+}

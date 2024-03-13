@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Meltdown",
+            "EVENT",
+            "Impact",
+            "Modern Computers",
+            "GPE"
+        ],
+        [
+            "Spectre",
+            "EVENT",
+            "Impact",
+            "Modern Computers",
+            "GPE"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Relate_To",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Relate_To",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Stephen Nellis",
+            "PERSON",
+            "Announce",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Stephen Nellis",
+            "PERSON",
+            "Announce",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Stephen Nellis",
+            "PERSON",
+            "Is_Member_Of",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

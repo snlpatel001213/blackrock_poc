@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Nextdecade Corp",
+            "COMP",
+            "File",
+            "Stock Shelf",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nextdecade Corp",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "ORG/REG"
+        ],
+        [
+            "Nextdecade Corp",
+            "COMP",
+            "Impact",
+            "$100 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

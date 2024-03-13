@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Rep. Kevin McCarthy",
+            "PERSON",
+            "Talks_About",
+            "Tax Reform",
+            "CONCEPT"
+        ],
+        [
+            "Rep. Kevin McCarthy",
+            "PERSON",
+            "Talks_About",
+            "2018 Midterm Elections",
+            "EVENT"
+        ],
+        [
+            "Rep. Kevin McCarthy",
+            "PERSON",
+            "Relate_To",
+            "America",
+            "GPE"
+        ],
+        [
+            "Tax Reform",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "America",
+            "GPE"
+        ]
+    ]
+}

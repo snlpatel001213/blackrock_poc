@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Chris Rondeau",
+            "PERSON",
+            "Ring",
+            "Planet Fitness",
+            "COMP"
+        ],
+        [
+            "Planet Fitness",
+            "COMP",
+            "Operate_In",
+            "GPE"
+        ],
+        [
+            "Rick Stollmeyer",
+            "PERSON",
+            "Ring",
+            "Mindbody",
+            "COMP"
+        ],
+        [
+            "Mindbody",
+            "COMP",
+            "Operate_In",
+            "GPE"
+        ],
+        [
+            "Planet Fitness",
+            "COMP",
+            "Listed_On",
+            "NYSE",
+            "ORG/EXC"
+        ],
+        [
+            "Mindbody",
+            "COMP",
+            "Listed_On",
+            "Nasdaq",
+            "ORG/EXC"
+        ]
+    ]
+}

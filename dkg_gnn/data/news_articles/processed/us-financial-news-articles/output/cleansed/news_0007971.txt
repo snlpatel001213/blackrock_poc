@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sutlej Textiles And Industries Ltd",
+            "COMP",
+            "Set_Up",
+            "Green Fibre Project",
+            "PROJECT"
+        ],
+        [
+            "Green Fibre Project",
+            "PROJECT",
+            "Produce",
+            "Polyester Staple Fibre",
+            "PRODUCT"
+        ],
+        [
+            "Sutlej Textiles And Industries Ltd",
+            "COMP",
+            "Operate_In",
+            "Jammu & Kashmir",
+            "GPE"
+        ],
+        [
+            "Sutlej Textiles And Industries Ltd",
+            "COMP",
+            "Approve",
+            "Deferment of Brownfield Capacity Expansion Plan",
+            "PROJECT"
+        ],
+        [
+            "Brownfield Capacity Expansion Plan",
+            "PROJECT",
+            "Locate_At",
+            "Baddi",
+            "GPE"
+        ]
+    ]
+}

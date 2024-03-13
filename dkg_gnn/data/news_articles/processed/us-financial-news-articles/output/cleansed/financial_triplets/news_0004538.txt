@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Operate_In",
+            "Minneapolis",
+            "GPE"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Invests_In",
+            "OneMain Holdings",
+            "COMP"
+        ],
+        [
+            "V\u00e4rde Partners",
+            "ORG",
+            "Invests_In",
+            "OneMain Holdings",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Control",
+            "Remaining Equity Interest",
+            "COMP"
+        ],
+        [
+            "OneMain Holdings",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Raise",
+            "26.00",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "The Buccini/Pollin Group",
+            "ORG",
+            "Acquire",
+            "Hilton Melbourne Rialto Place",
+            "COMP"
+        ],
+        [
+            "PM Hotel Group",
+            "ORG",
+            "Operate",
+            "Hilton Melbourne Rialto Place",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Located_In",
+            "Melbourne",
+            "GPE"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Located_Near",
+            "Melbourne International Airport",
+            "GPE"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Located_Near",
+            "Space Coast industrial base",
+            "GPE"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Located_Near",
+            "Melbourne beaches",
+            "GPE"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Located_Near",
+            "youth sports complexes",
+            "GPE"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Completed",
+            "5 million dollar upgrade",
+            "CONCEPT"
+        ],
+        [
+            "Hilton Melbourne Rialto Place",
+            "COMP",
+            "Has",
+            "12000 sq. ft. function space",
+            "CONCEPT"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Completed",
+            "30 million dollar renovations",
+            "CONCEPT"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Completed",
+            "construction on Embassy Suites Midtown Manhattan",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Acquired",
+            "DoubleTree by Hilton Wilmington",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Broke ground on",
+            "Virgin Hotels Nashville",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Acquired",
+            "HOTEL DU PONT",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Acquired",
+            "Sheraton DFW Airport Hotel",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Completed",
+            "addition and comprehensive renovation of Fairfield Inn by Marriott King of Prussia",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Nearing completion of",
+            "Canopy by Hilton Hotel Washington, D.C. \u2013 Bethesda North",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Nearing completion of",
+            "Canopy by Hilton Portland, Ore. \u2013 Pearl District",
+            "COMP"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Maintain",
+            "full acquisition and development pipeline",
+            "CONCEPT"
+        ],
+        [
+            "BPG",
+            "ORG",
+            "Forecast",
+            "happy and healthy New Year for both BPG and the hotel industry at large",
+            "CONCEPT"
+        ]
+    ]
+}

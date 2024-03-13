@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Send",
+            "Bradie Tennell",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Send",
+            "Mirai Nagasu",
+            "PERSON"
+        ],
+        [
+            "U.S.",
+            "ORG/GOV",
+            "Send",
+            "Karen Chen",
+            "PERSON"
+        ],
+        [
+            "U.S. Figure Skating",
+            "ORG",
+            "Participates_In",
+            "Olympic Games",
+            "EVENT"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Impact",
+            "U.S. Figure Skating",
+            "ORG"
+        ],
+        [
+            "Mirai Nagasu",
+            "PERSON",
+            "Impact",
+            "U.S. Figure Skating",
+            "ORG"
+        ],
+        [
+            "Karen Chen",
+            "PERSON",
+            "Impact",
+            "U.S. Figure Skating",
+            "ORG"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Win",
+            "National Title",
+            "EVENT"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Perform",
+            "Free Program",
+            "EVENT"
+        ],
+        [
+            "Bradie Tennell",
+            "PERSON",
+            "Perform",
+            "Music from Cinderella",
+            "PRODUCT"
+        ]
+    ]
+}

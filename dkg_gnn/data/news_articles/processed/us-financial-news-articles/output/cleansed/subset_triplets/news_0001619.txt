@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "IDEX CORPORATION",
+            "COMP",
+            "Announce",
+            "Appointment of Mark A. Beck",
+            "PERSON"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Operate_In",
+            "JELD-WEN",
+            "COMP"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Operate_In",
+            "Danaher Corporation",
+            "COMP"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Operate_In",
+            "Corning Incorporated",
+            "COMP"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Participates_In",
+            "Dow-Corning Corporation",
+            "COMP"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Has",
+            "B.A. in Business Management",
+            "CONCEPT"
+        ],
+        [
+            "Mark A. Beck",
+            "PERSON",
+            "Has",
+            "M.B.A. from Harvard Business School",
+            "CONCEPT"
+        ],
+        [
+            "IDEX Corporation",
+            "COMP",
+            "Produce",
+            "Fluidics systems and components",
+            "PRODUCT"
+        ],
+        [
+            "IDEX Corporation",
+            "COMP",
+            "Produce",
+            "Fire and safety products",
+            "PRODUCT"
+        ],
+        [
+            "IDEX Corporation",
+            "COMP",
+            "Produce",
+            "Jaws of Life\u00ae family",
+            "PRODUCT"
+        ],
+        [
+            "IDEX Corporation",
+            "COMP",
+            "Relate_To",
+            "High growth specialized markets",
+            "SECTOR"
+        ],
+        [
+            "IDEX Corporation",
+            "COMP",
+            "Relate_To",
+            "Enabling technology",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Next",
+            "PERSON",
+            "Raise",
+            "Full-year Profit Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "PERSON",
+            "Operate_In",
+            "Clothing Retail Sector",
+            "SECTOR"
+        ],
+        [
+            "Next",
+            "PERSON",
+            "Has",
+            "Third Quarter Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next",
+            "PERSON",
+            "Relate_To",
+            "RBC Europe Retail Analyst",
+            "PERSON"
+        ],
+        [
+            "Next",
+            "PERSON",
+            "Operate_In",
+            "UK and Ireland",
+            "GPE"
+        ]
+    ]
+}

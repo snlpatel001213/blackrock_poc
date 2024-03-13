@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "Hedge Funds",
+            "ORG",
+            "Has",
+            "Record bullish positions",
+            "CONCEPT"
+        ],
+        [
+            "Hedge Funds",
+            "ORG",
+            "Has",
+            "Record net long position",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US heating oil futures and options",
+            "PRODUCT",
+            "Has",
+            "Record net long position",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European gasoil",
+            "PRODUCT",
+            "Has",
+            "Record net long position",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Portfolio managers",
+            "ORG",
+            "Boost",
+            "Net long position in heating oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Portfolio managers",
+            "ORG",
+            "Boost",
+            "Net long position in gasoil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Petroleum complex",
+            "CONCEPT",
+            "Has",
+            "Few changes",
+            "CONCEPT"
+        ],
+        [
+            "Net long positions",
+            "ECON_INDICATOR",
+            "Rise",
+            "Gasoline",
+            "PRODUCT"
+        ],
+        [
+            "Net longs",
+            "ECON_INDICATOR",
+            "Up",
+            "Brent",
+            "PRODUCT"
+        ],
+        [
+            "Net long positions",
+            "ECON_INDICATOR",
+            "Fall",
+            "WTI",
+            "PRODUCT"
+        ],
+        [
+            "Portfolio managers",
+            "ORG",
+            "Bullish",
+            "Middle distillates prices and refining margins",
+            "CONCEPT"
+        ],
+        [
+            "Distillate consumption",
+            "CONCEPT",
+            "Grow",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Refiners",
+            "ORG",
+            "Struggle",
+            "Make enough distillate",
+            "CONCEPT"
+        ],
+        [
+            "US distillate stocks",
+            "PRODUCT",
+            "Fall",
+            "24 million barrels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Heating oil",
+            "PRODUCT",
+            "Consumption",
+            "Boost",
+            "CONCEPT"
+        ],
+        [
+            "Cold weather",
+            "CONCEPT",
+            "Boost",
+            "Consumption of heating oil",
+            "CONCEPT"
+        ],
+        [
+            "Heating oil",
+            "PRODUCT",
+            "Relate_To",
+            "Heating homes and offices",
+            "CONCEPT"
+        ],
+        [
+            "Heating oil",
+            "PRODUCT",
+            "Relate_To",
+            "Auxiliary fuel for power stations",
+            "CONCEPT"
+        ],
+        [
+            "Winter heating season",
+            "CONCEPT",
+            "Not reach",
+            "Half-way point",
+            "TIME"
+        ],
+        [
+            "Heating demand",
+            "CONCEPT",
+            "Higher",
+            "Two previous years",
+            "TIME"
+        ],
+        [
+            "Heating demand",
+            "CONCEPT",
+            "Higher",
+            "Long-term average",
+            "TIME"
+        ],
+        [
+            "US stocks of distillate fuel oil",
+            "PRODUCT",
+            "Fall",
+            "Below 10-year seasonal average",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Industrial activity",
+            "CONCEPT",
+            "Rise",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Global freight movements",
+            "CONCEPT",
+            "Rise",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Distillate stocks",
+            "PRODUCT",
+            "Start",
+            "Depleted state",
+            "CONCEPT"
+        ],
+        [
+            "Positioning",
+            "CONCEPT",
+            "Become",
+            "Significant source of downside risk",
+            "CONCEPT"
+        ],
+        [
+            "Funds",
+            "ORG",
+            "Hold",
+            "10 long positions in U.S. heating oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Funds",
+            "ORG",
+            "Hold",
+            "Every short one",
+            "CONCEPT"
+        ],
+        [
+            "Positioning",
+            "CONCEPT",
+            "Climb",
+            "Over 16:1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Positioning",
+            "CONCEPT",
+            "Close",
+            "Record of 19:1",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

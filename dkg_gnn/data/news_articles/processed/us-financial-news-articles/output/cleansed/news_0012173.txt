@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "House Majority Leader Kevin McCarthy",
+            "PERSON",
+            "Discusses",
+            "GOP tax law",
+            "EVENT"
+        ],
+        [
+            "House Majority Leader Kevin McCarthy",
+            "PERSON",
+            "Operate_In",
+            "Republican Party",
+            "ORG"
+        ],
+        [
+            "GOP tax law",
+            "EVENT",
+            "Relate_To",
+            "Republican Party",
+            "ORG"
+        ]
+    ]
+}

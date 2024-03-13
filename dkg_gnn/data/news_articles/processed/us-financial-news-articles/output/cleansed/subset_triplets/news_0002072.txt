@@ -1,0 +1,36 @@
+{
+    "output": [
+        [
+            "Deciphera Pharmaceuticals Inc.",
+            "COMP",
+            "Operate_In",
+            "Pharmaceuticals Sector",
+            "SECTOR"
+        ],
+        [
+            "DCC-2618",
+            "PRODUCT",
+            "Participates_In",
+            "INVICTUS Study",
+            "EVENT"
+        ],
+        [
+            "INVICTUS Study",
+            "EVENT",
+            "Relate_To",
+            "Advanced Gastrointestinal Stromal Tumors",
+            "CONCEPT"
+        ],
+        [
+            "Deciphera Pharmaceuticals Inc.",
+            "COMP",
+            "Control",
+            "Phase 3 Study",
+            "EVENT",
+            "Serve",
+            "Basis",
+            "NDS",
+            "CONCEPT"
+        ]
+    ]
+}

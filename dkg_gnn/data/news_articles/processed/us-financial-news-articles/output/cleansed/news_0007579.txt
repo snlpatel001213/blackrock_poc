@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Juno Therapeutics",
+            "ORG",
+            "Appoint",
+            "Cindy Elkins",
+            "PERSON"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Operate_In",
+            "Biopharmaceutical Company",
+            "ORG"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Relate_To",
+            "Chief Information Officer",
+            "TITLE"
+        ],
+        [
+            "Juno Therapeutics",
+            "ORG",
+            "Control",
+            "Cindy Elkins",
+            "PERSON"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Positive_Impact_On",
+            "Discovery of Breakthrough Therapies",
+            "CONCEPT"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Lead",
+            "US Commercial Technology Integration",
+            "CONCEPT"
+        ],
+        [
+            "Genentech",
+            "COMP",
+            "Under_Leadership",
+            "Cindy Elkins",
+            "PERSON"
+        ],
+        [
+            "Genentech",
+            "COMP",
+            "Implement",
+            "Key Technology Platforms",
+            "CONCEPT"
+        ],
+        [
+            "Genentech",
+            "COMP",
+            "Provide",
+            "Exceptional User Experience",
+            "CONCEPT"
+        ],
+        [
+            "Genentech",
+            "COMP",
+            "Have",
+            "Over 44,000 People",
+            "CONCEPT"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Member_Of",
+            "Board of Directors",
+            "TITLE"
+        ],
+        [
+            "Weight Watchers",
+            "COMP",
+            "Have",
+            "Cindy Elkins",
+            "PERSON"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Earn",
+            "MBA",
+            "DEGREE"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Earn",
+            "BS",
+            "DEGREE"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Graduate_From",
+            "Santa Clara University",
+            "UNIV"
+        ],
+        [
+            "Cindy Elkins",
+            "PERSON",
+            "Graduate_From",
+            "UCLA",
+            "UNIV"
+        ]
+    ]
+}

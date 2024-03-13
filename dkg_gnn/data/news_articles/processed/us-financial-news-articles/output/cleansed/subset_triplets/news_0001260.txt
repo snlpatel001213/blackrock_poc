@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Principal Financial Group",
+            "ORG",
+            "Announce",
+            "Results",
+            "EVENT"
+        ],
+        [
+            "Principal Financial Group",
+            "ORG",
+            "Operate_In",
+            "Financial Services",
+            "SECTOR"
+        ],
+        [
+            "Dan Houston",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Deanna Strable",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Fire and Fury",
+            "EVENT",
+            "Announce",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Author",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Figure_Of",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Participates_In",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "White House Aides",
+            "PERSON",
+            "Source",
+            "Claims",
+            "CONCEPT"
+        ]
+    ]
+}

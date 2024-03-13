@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Tokyo Fish Market",
+            "GPE",
+            "Net",
+            "300,000$",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tokyo Fish Market",
+            "GPE",
+            "Sell",
+            "Bluefin Tuna",
+            "PRODUCT"
+        ],
+        [
+            "Bluefin Tuna",
+            "PRODUCT",
+            "Relate_To",
+            "New Year Auction",
+            "EVENT"
+        ],
+        [
+            "Tokyo Fish Market",
+            "GPE",
+            "Relocate",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

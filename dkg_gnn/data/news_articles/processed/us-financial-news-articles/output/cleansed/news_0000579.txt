@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Await",
+            "Fed minutes",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Ease",
+            "3-1/2 month high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "On_Track",
+            "First day of losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "CONCEPT",
+            "Pressure",
+            "Gold",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "CONCEPT",
+            "Rise",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "CONCEPT",
+            "Remain",
+            "Near four-month low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "CONCEPT",
+            "Decline",
+            "Nearly 3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "CONCEPT",
+            "Relate_To",
+            "Gold",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Await",
+            "Manufacturing data",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Await",
+            "Minutes of a December U.S. Federal Reserve meeting",
+            "EVENT"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Fall",
+            "Run-up to third U.S. interest rate rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "CONCEPT",
+            "Recover",
+            "Climb 5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spot gold",
+            "CONCEPT",
+            "14-day relative strength index (RSI)",
+            "75",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Down",
+            "0.5 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Hit",
+            "Record high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Soar",
+            "56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Tighten",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Well-managed",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "Palladium",
+            "CONCEPT",
+            "Support",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spot silver",
+            "CONCEPT",
+            "Down",
+            "0.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Spot silver",
+            "CONCEPT",
+            "Touch",
+            "Six-week high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Platinum",
+            "CONCEPT",
+            "1.1 percent higher",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

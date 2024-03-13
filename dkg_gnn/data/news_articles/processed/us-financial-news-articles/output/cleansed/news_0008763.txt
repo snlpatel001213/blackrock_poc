@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "AbbVie Inc.",
+            "COMP",
+            "Pool_Resources",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "Alnylam Pharmaceuticals Inc.",
+            "COMP",
+            "Pool_Resources",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "AstraZeneca PLC",
+            "COMP",
+            "Pool_Resources",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "Biogen Inc.",
+            "COMP",
+            "Pool_Resources",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Pool_Resources",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc.",
+            "COMP",
+            "Control",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "Regeneron Pharmaceuticals Inc.",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical Companies",
+            "ORG"
+        ],
+        [
+            "UK Biobank",
+            "GPE",
+            "Participates_In",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ],
+        [
+            "GlaxoSmithKline PLC",
+            "COMP",
+            "Participates_In",
+            "Genetic and Medical Database",
+            "PRODUCT"
+        ]
+    ]
+}

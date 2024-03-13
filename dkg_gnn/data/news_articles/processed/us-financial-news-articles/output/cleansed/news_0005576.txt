@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "End",
+            "Obama-era Policy",
+            "ORG"
+        ],
+        [
+            "Obama Administration",
+            "ORG/GOV",
+            "Advise",
+            "Prosecutors",
+            "ORG"
+        ],
+        [
+            "Sessions",
+            "PERSON",
+            "Operate_In",
+            "Justice Department",
+            "ORG"
+        ],
+        [
+            "Congress",
+            "ORG",
+            "Have",
+            "Duty",
+            "CONCEPT"
+        ],
+        [
+            "Yuba County Sheriff",
+            "ORG",
+            "Hopeful",
+            "New Willingness",
+            "CONCEPT"
+        ],
+        [
+            "Feds",
+            "ORG",
+            "Send",
+            "Shivers",
+            "CONCEPT"
+        ],
+        [
+            "Obama Administration",
+            "ORG/GOV",
+            "Put",
+            "Policy",
+            "ORG"
+        ],
+        [
+            "Congressional Amendment",
+            "ORG",
+            "Block",
+            "Justice Department",
+            "ORG"
+        ],
+        [
+            "Sessions",
+            "PERSON",
+            "Decision",
+            "Change in Policy",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana-related Stocks",
+            "FIN_INSTRUMENT",
+            "Suffer",
+            "Skid",
+            "CONCEPT"
+        ],
+        [
+            "Experts",
+            "PERSON",
+            "Suggest",
+            "Large-scale Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Marijuana Industry",
+            "SECTOR",
+            "Entrenched",
+            "Multi-billion-dollar Industry",
+            "CONCEPT"
+        ],
+        [
+            "Washington Gov",
+            "PERSON",
+            "Continue",
+            "Marijuana Operations",
+            "ORG"
+        ],
+        [
+            "Harborside",
+            "COMP",
+            "Business as Usual",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Steve DeAngelo",
+            "PERSON",
+            "Founder and CEO",
+            "Harborside",
+            "COMP"
+        ],
+        [
+            "Gurman",
+            "PERSON",
+            "Reported",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Associated Press",
+            "ORG",
+            "Contribute",
+            "Report",
+            "CONCEPT"
+        ]
+    ]
+}

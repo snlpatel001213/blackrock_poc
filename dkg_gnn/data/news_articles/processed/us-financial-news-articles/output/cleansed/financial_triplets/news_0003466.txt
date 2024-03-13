@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Kyungmin Cho",
+            "PERSON",
+            "Participates_In",
+            "U.S. Army Soldier\u2019s Creed Recitation",
+            "CONCEPT"
+        ],
+        [
+            "Kyungmin Cho",
+            "PERSON",
+            "Is_Member_Of",
+            "Temple University",
+            "ORG"
+        ],
+        [
+            "U.S. Army Soldier\u2019s Creed",
+            "CONCEPT",
+            "Relate_To",
+            "American Way of Life",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Army Soldier\u2019s Creed",
+            "CONCEPT",
+            "Relate_To",
+            "Freedom",
+            "CONCEPT"
+        ]
+    ]
+}

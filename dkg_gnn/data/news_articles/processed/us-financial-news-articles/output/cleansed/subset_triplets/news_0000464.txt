@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "North Korea",
+            "GPE",
+            "Has",
+            "Nuclear and Missile Programs",
+            "CONCEPT"
+        ],
+        [
+            "United Nations",
+            "ORG/REG",
+            "Operate_In",
+            "International Community",
+            "CONCEPT"
+        ],
+        [
+            "United Nations",
+            "ORG/REG",
+            "Has",
+            "Aimed to Limit",
+            "ORG/REG"
+        ],
+        [
+            "United Nations",
+            "ORG/REG",
+            "Has",
+            "Limit the Supply of Oil",
+            "ECON_INDICATOR"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Violation of Sanctions",
+            "ORG/REG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "Reports",
+            "PRODUCT"
+        ]
+    ]
+}

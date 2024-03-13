@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Obama-era marijuana policy",
+            "CONCEPT",
+            "Relate_To",
+            "Eased enforcement of federal marijuana laws",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Justice Department",
+            "ORG/GOV",
+            "Operate_In",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Obama",
+            "PERSON",
+            "Is_Member_Of",
+            "Democratic",
+            "ORG"
+        ],
+        [
+            "Obama-era marijuana policy",
+            "CONCEPT",
+            "Impact",
+            "Marijuana industry",
+            "SECTOR"
+        ],
+        [
+            "Marijuana industry",
+            "SECTOR",
+            "Operate_In",
+            "These states",
+            "GPE"
+        ]
+    ]
+}

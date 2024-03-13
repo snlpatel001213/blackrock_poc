@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Cherry Heering Liqueur",
+            "PRODUCT",
+            "Announce",
+            "Cherry Heering",
+            "ORG"
+        ],
+        [
+            "Cherry Heering",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "De Kuyper Royal Distillers",
+            "ORG",
+            "Introduce",
+            "Cherry Heering",
+            "PRODUCT"
+        ],
+        [
+            "De Kuyper Royal Distillers",
+            "ORG",
+            "Is_Member_Of",
+            "Royal Dutch Distillers",
+            "ORG"
+        ],
+        [
+            "Royal Dutch Distillers",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Cherry Heering",
+            "PRODUCT",
+            "Relate_To",
+            "Blood and Sand",
+            "CONCEPT"
+        ],
+        [
+            "Cherry Heering",
+            "PRODUCT",
+            "Relate_To",
+            "Copenhagen",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Number One Cocktail Market",
+            "CONCEPT"
+        ],
+        [
+            "Cherry Heering",
+            "PRODUCT",
+            "Impact",
+            "Cherry Heering",
+            "ORG"
+        ]
+    ]
+}

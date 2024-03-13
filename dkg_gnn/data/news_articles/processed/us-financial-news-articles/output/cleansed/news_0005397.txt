@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Miragen Therapeutics",
+            "COMP",
+            "Has",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Board of Directors",
+            "ORG",
+            "Vote",
+            "Increase size",
+            "NUM"
+        ],
+        [
+            "Miragen Therapeutics",
+            "COMP",
+            "Operate_In",
+            "Biotechnology Industry",
+            "SECTOR"
+        ]
+    ]
+}

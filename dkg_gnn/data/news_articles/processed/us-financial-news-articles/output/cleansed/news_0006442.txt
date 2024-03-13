@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Call_For",
+            "Nuclear Disarmament",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Support",
+            "Dialogue",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Ensure",
+            "Peaceful Future",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Bilateral Talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Bilateral Talks",
+            "EVENT"
+        ],
+        [
+            "Korean Peninsula",
+            "GPE",
+            "Relate_To",
+            "Nuclear Disarmament",
+            "CONCEPT"
+        ]
+    ]
+}

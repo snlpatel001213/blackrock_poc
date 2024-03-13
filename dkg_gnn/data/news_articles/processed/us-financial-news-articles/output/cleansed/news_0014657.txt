@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "MEDICLIN AG",
+            "COMP",
+            "Is_Member_Of",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "JENS BREUER",
+            "PERSON",
+            "Leave",
+            "Board of Management",
+            "ORG/REG"
+        ],
+        [
+            "MEDICLIN AG",
+            "COMP",
+            "Has",
+            "Board of Management",
+            "ORG/REG"
+        ],
+        [
+            "JENS BREUER",
+            "PERSON",
+            "Leave",
+            "MEDICLIN AG",
+            "COMP"
+        ],
+        [
+            "JENS BREUER",
+            "PERSON",
+            "Leave",
+            "Board of Management",
+            "ORG/REG",
+            "Of",
+            "MEDICLIN AG",
+            "COMP"
+        ],
+        [
+            "JENS BREUER",
+            "PERSON",
+            "Leave",
+            "MEDICLIN AG",
+            "COMP",
+            "At",
+            "His",
+            "PERSON",
+            "Own",
+            "PERSON",
+            "Request",
+            "May",
+            "2018",
+            "EVENT"
+        ]
+    ]
+}

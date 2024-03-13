@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Face",
+            "new questions",
+            "CONCEPT",
+            "U.S. Government",
+            "ORG/GOV",
+            "about",
+            "CONCEPT",
+            "handling",
+            "CONCEPT",
+            "battery-related performance issues",
+            "CONCEPT",
+            "on iPhones",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Apology",
+            "last month",
+            "TIME",
+            "about",
+            "CONCEPT",
+            "battery-related performance issues",
+            "CONCEPT",
+            "on iPhones",
+            "PRODUCT"
+        ],
+        [
+            "Wag Labs Inc",
+            "COMP",
+            "inadvertently exposed",
+            "VERB",
+            "webpages",
+            "CONCEPT",
+            "showing customer information",
+            "CONCEPT",
+            "including addresses and lockbox codes",
+            "CONCEPT",
+            "that could have enabled thieves to break into homes",
+            "CONCEPT"
+        ],
+        [
+            "The Trump administration",
+            "ORG/GOV",
+            "told",
+            "VERB",
+            "Florida's governor",
+            "GPE",
+            "it won't consider",
+            "VERB",
+            "new oil and gas drilling",
+            "CONCEPT",
+            "off the state's coast",
+            "GPE",
+            "backtracking on plans to expand offshore drilling all around the U.S.",
+            "CONCEPT",
+            "and bowing to pressure from fellow Republicans in the state",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "delivered",
+            "VERB",
+            "a record 763 jetliners",
+            "CONCEPT",
+            "in 2017",
+            "TIME",
+            "and secured net orders for 912 planes",
+            "CONCEPT",
+            "as surging airline traffic continues to fuel a multi-year boom for the airline and aerospace industries",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "David Tepper",
+            "PERSON",
+            "Relate_To",
+            "Appaloosa",
+            "ORG"
+        ],
+        [
+            "Appaloosa",
+            "ORG",
+            "Has",
+            "David Tepper",
+            "PERSON"
+        ],
+        [
+            "Fast Money Halftime Report",
+            "EVENT",
+            "Participates_In",
+            "Traders",
+            "PERSON"
+        ]
+    ]
+}

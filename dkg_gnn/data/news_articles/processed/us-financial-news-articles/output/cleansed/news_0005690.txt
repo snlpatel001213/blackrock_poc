@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Sanchi",
+            "COMP",
+            "Control",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Has",
+            "One Million Barrels Of Light Crude",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Collide",
+            "Chinese Cargo Ship",
+            "COMP"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Leak",
+            "Fuel",
+            "PRODUCT"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Located",
+            "East China Sea",
+            "GPE"
+        ],
+        [
+            "Sanchi",
+            "COMP",
+            "Impact",
+            "Exxon Valdez",
+            "COMP"
+        ],
+        [
+            "Exxon Valdez",
+            "COMP",
+            "Spill",
+            "260000 Barrels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Exxon Valdez",
+            "COMP",
+            "Located",
+            "Prince William Sound",
+            "GPE"
+        ],
+        [
+            "Exxon Valdez",
+            "COMP",
+            "Off",
+            "Alaska",
+            "GPE"
+        ]
+    ]
+}

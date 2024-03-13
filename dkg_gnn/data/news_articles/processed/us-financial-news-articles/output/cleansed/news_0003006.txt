@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "Google",
+            "ORG",
+            "Discover",
+            "Serious Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Has",
+            "Project Zero Team",
+            "ORG"
+        ],
+        [
+            "Project Zero Team",
+            "ORG",
+            "Discover",
+            "Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Flaw",
+            "CONCEPT",
+            "Could Allow",
+            "Bad Actors",
+            "PERSON"
+        ],
+        [
+            "Bad Actors",
+            "PERSON",
+            "Gather",
+            "Passwords",
+            "CONCEPT"
+        ],
+        [
+            "Passwords",
+            "CONCEPT",
+            "And",
+            "Sensitive Data",
+            "CONCEPT"
+        ],
+        [
+            "Sensitive Data",
+            "CONCEPT",
+            "From",
+            "Systems Memory",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Disclose",
+            "Vulnerability",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Work",
+            "Patch",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Say",
+            "Average Computer User",
+            "PERSON"
+        ],
+        [
+            "Average Computer User",
+            "PERSON",
+            "Wont Experience",
+            "Significant Slowdowns",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Plan",
+            "Disclose",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "And",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Plan",
+            "Disclose",
+            "CONCEPT"
+        ],
+        [
+            "Issue",
+            "CONCEPT",
+            "Next Week",
+            "TIME"
+        ],
+        [
+            "Tech Companies",
+            "ORG",
+            "Typically",
+            "Withhold",
+            "CONCEPT"
+        ],
+        [
+            "Details",
+            "CONCEPT",
+            "About",
+            "Security Problems",
+            "CONCEPT"
+        ],
+        [
+            "Until",
+            "ADP",
+            "Fixes",
+            "CONCEPT"
+        ],
+        [
+            "Hackers",
+            "PERSON",
+            "Wouldnt Have",
+            "Roadmap",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Forced",
+            "Disclose",
+            "CONCEPT"
+        ],
+        [
+            "Problem",
+            "CONCEPT",
+            "Wednesday",
+            "TIME"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Cause",
+            "Intels Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Fall",
+            "3.4 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Affect",
+            "Other Processors",
+            "COMP"
+        ],
+        [
+            "Other Processors",
+            "COMP",
+            "And",
+            "Devices",
+            "COMP"
+        ],
+        [
+            "Devices",
+            "COMP",
+            "And",
+            "Operating Systems",
+            "COMP"
+        ],
+        [
+            "Running",
+            "CONCEPT",
+            "Them",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Cite",
+            "Rival AMD",
+            "COMP"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Say",
+            "Chips",
+            "COMP"
+        ],
+        [
+            "Chips",
+            "COMP",
+            "Safe",
+            "CONCEPT"
+        ],
+        [
+            "Because",
+            "ADP",
+            "They",
+            "CONCEPT"
+        ],
+        [
+            "Use",
+            "CONCEPT",
+            "Different Designs",
+            "CONCEPT"
+        ],
+        [
+            "Intel Stock",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "3.4 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Gain",
+            "5.2 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

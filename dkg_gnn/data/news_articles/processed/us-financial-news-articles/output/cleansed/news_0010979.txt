@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "CNBC Tech Check",
+            "EVENT",
+            "Relate_To",
+            "Tech News",
+            "CONCEPT"
+        ],
+        [
+            "CNBC Tech Check",
+            "EVENT",
+            "Operate_In",
+            "1 Market",
+            "COMP"
+        ],
+        [
+            "1 Market",
+            "COMP",
+            "Located_In",
+            "San Francisco",
+            "GPE"
+        ]
+    ]
+}

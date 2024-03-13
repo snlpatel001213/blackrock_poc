@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "EE Rising Star",
+            "EVENT",
+            "Announce",
+            "Three Actors",
+            "PERSON"
+        ],
+        [
+            "Three Actors",
+            "PERSON",
+            "Play",
+            "LGBT Roles",
+            "ORG"
+        ],
+        [
+            "EE Rising Star",
+            "EVENT",
+            "Relate_To",
+            "LGBT Roles",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "MSC Industrial Supply Co.",
+            "COMP",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MSC Industrial Supply Co.",
+            "COMP",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "MSC Industrial Supply Co.",
+            "COMP",
+            "Control",
+            "Metalworking",
+            "SECTOR"
+        ],
+        [
+            "MSC Industrial Supply Co.",
+            "COMP",
+            "Control",
+            "MRO",
+            "SECTOR"
+        ],
+        [
+            "MSC Industrial Supply Co.",
+            "COMP",
+            "Impact",
+            "Tax Cuts and Jobs Act",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Few specialists",
+            "CONCEPT",
+            "Relate_To",
+            "Death rates for patients undergoing surgery in Africa",
+            "EVENT"
+        ],
+        [
+            "Poor hospital infrastructure",
+            "CONCEPT",
+            "Relate_To",
+            "Death rates for patients undergoing surgery in Africa",
+            "EVENT"
+        ],
+        [
+            "Lack of post-operative monitoring",
+            "CONCEPT",
+            "Relate_To",
+            "Death rates for patients undergoing surgery in Africa",
+            "EVENT"
+        ],
+        [
+            "Lower-risk profile",
+            "CONCEPT",
+            "Relate_To",
+            "Patients receiving surgery in Africa",
+            "EVENT"
+        ],
+        [
+            "Lower complication rates",
+            "CONCEPT",
+            "Relate_To",
+            "Patients receiving surgery in Africa",
+            "EVENT"
+        ],
+        [
+            "Twice as likely to die",
+            "CONCEPT",
+            "Relate_To",
+            "Patients receiving surgery in Africa",
+            "EVENT"
+        ]
+    ]
+}

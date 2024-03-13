@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Iran protests",
+            "EVENT",
+            "Relate_To",
+            "Unrest",
+            "CONCEPT"
+        ],
+        [
+            "2009",
+            "EVENT",
+            "Relate_To",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "2009",
+            "EVENT",
+            "Relate_To",
+            "Re-election",
+            "EVENT"
+        ],
+        [
+            "Mahmoud Ahmadinejad",
+            "PERSON",
+            "Control",
+            "Iran protests",
+            "EVENT"
+        ]
+    ]
+}

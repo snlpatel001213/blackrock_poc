@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Intec Pharma Ltd",
+            "COMP",
+            "Has",
+            "7.18 Percent Passive Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Meitav Dash Investments Ltd Group",
+            "ORG",
+            "Invests_In",
+            "Intec Pharma Ltd",
+            "COMP"
+        ],
+        [
+            "Intec Pharma Ltd",
+            "COMP",
+            "Relate_To",
+            "SEC Filing",
+            "CONCEPT"
+        ]
+    ]
+}

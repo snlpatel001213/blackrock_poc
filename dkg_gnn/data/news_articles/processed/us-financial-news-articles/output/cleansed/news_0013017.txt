@@ -1,0 +1,232 @@
+{
+    "output": [
+        [
+            "Asian shares",
+            "GPE",
+            "Step_Back_From",
+            "2007 peak",
+            "GPE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Book",
+            "Profits",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Oil prices",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "3-year high",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "MSCI\u2019s broadest index of Asia-Pacific shares outside Japan",
+            "GPE",
+            "Slip",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Information technology shares",
+            "SECTOR",
+            "Lead",
+            "Decline",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Samsung Electronics",
+            "COMP",
+            "Extend",
+            "Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Japan\u2019s Nikkei",
+            "GPE",
+            "Shed",
+            "0.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Take",
+            "Profits",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "High-flying hi-tech shares",
+            "SECTOR",
+            "Investors",
+            "Sell",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Asia",
+            "GPE",
+            "Expectations",
+            "Solid",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wall Street\u2019s major indexes",
+            "GPE",
+            "Extend",
+            "New Year rally",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. fourth-quarter earnings",
+            "ECON_INDICATOR",
+            "Expected",
+            "Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Goldilocks economy",
+            "CONCEPT",
+            "Continue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fed",
+            "ORG/GOV",
+            "Raise",
+            "Interest rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500 companies",
+            "COMP",
+            "Profits",
+            "Expected",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Some investors",
+            "PERSON",
+            "Boost",
+            "Risk sentiment",
+            "CONCEPT"
+        ],
+        [
+            "Tensions",
+            "CONCEPT",
+            "Ease",
+            "Korean peninsula",
+            "GPE"
+        ],
+        [
+            "North and South Korea",
+            "GPE",
+            "Agree",
+            "Future talks",
+            "EVENT"
+        ],
+        [
+            "Washington",
+            "GPE",
+            "Welcome",
+            "First step",
+            "EVENT"
+        ],
+        [
+            "Currency market",
+            "SECTOR",
+            "Yen",
+            "Maintain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Japan",
+            "ORG",
+            "Trim",
+            "Amount",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BOJ",
+            "ORG",
+            "Subtle reduction",
+            "Bond buying",
+            "SECTOR"
+        ],
+        [
+            "Currency trader",
+            "PERSON",
+            "Say",
+            "Unwinding",
+            "CONCEPT"
+        ],
+        [
+            "Central bank stimulus",
+            "CONCEPT",
+            "Unwinding",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Ease",
+            "Profit-taking",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year U.S. bond yield",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "Above",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "3-year high",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "OPEC-led production cuts",
+            "CONCEPT",
+            "Tight supply balance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude inventories",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "Sharper",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rising oil prices",
+            "FIN_INSTRUMENT",
+            "Fan",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "December producer prices",
+            "Grow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Producer price index",
+            "CONCEPT",
+            "13 months",
+            "Slowest pace",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Factory demand",
+            "CONCEPT",
+            "Dent",
+            "Raw materials",
+            "CONCEPT"
+        ]
+    ]
+}

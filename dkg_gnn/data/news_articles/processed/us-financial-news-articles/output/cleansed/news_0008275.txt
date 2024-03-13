@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Hologic, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hologic, Inc.",
+            "ORG",
+            "Operate_In",
+            "Medical Technology",
+            "SECTOR"
+        ],
+        [
+            "Hologic, Inc.",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interested Participants",
+            "PERSON",
+            "Listen_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Hologic, Inc.",
+            "ORG",
+            "Provide",
+            "Webcast",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "On",
+            "Company's Website",
+            "COMP"
+        ],
+        [
+            "Company's Website",
+            "COMP",
+            "Have",
+            "Archive",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "output": [
+        [
+            "Airlines",
+            "ORG",
+            "Cancel",
+            "Flights",
+            "PRODUCT"
+        ],
+        [
+            "Schools",
+            "ORG",
+            "Close",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Winter Storm",
+            "EVENT",
+            "Roar",
+            "East Coast",
+            "GPE"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Bring",
+            "Heavy Snow",
+            "CONCEPT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Bring",
+            "Strong Winds",
+            "CONCEPT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Threaten",
+            "New England",
+            "GPE"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Bring",
+            "Deep Freeze",
+            "CONCEPT"
+        ],
+        [
+            "North Florida",
+            "GPE",
+            "Experience",
+            "Deep Freeze",
+            "CONCEPT"
+        ],
+        [
+            "Storm",
+            "EVENT",
+            "Bring",
+            "Record Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Coastal Georgia",
+            "GPE",
+            "Experience",
+            "Record Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "South Carolina",
+            "GPE",
+            "Experience",
+            "Record Snowfall",
+            "CONCEPT"
+        ],
+        [
+            "Charleston International Airport",
+            "ORG",
+            "Shut Down",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Officials",
+            "ORG",
+            "Ask",
+            "Drivers",
+            "PERSON",
+            "Stay Off",
+            "Roads",
+            "PRODUCT",
+            "Icy Bridges",
+            "PRODUCT"
+        ]
+    ]
+}

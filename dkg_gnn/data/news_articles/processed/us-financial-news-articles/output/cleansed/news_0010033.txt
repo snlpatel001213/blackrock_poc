@@ -1,0 +1,155 @@
+{
+    "output": [
+        [
+            "Myanmar prosecutors",
+            "ORG/GOV",
+            "Seek",
+            "Charges",
+            "ORG/REG"
+        ],
+        [
+            "Charges",
+            "ORG/REG",
+            "Under",
+            "Official Secrets Act",
+            "ORG/REG"
+        ],
+        [
+            "Official Secrets Act",
+            "ORG/REG",
+            "Carries",
+            "Maximum Prison Sentence",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Maximum Prison Sentence",
+            "ECON_INDICATOR",
+            "Of",
+            "14 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reporters",
+            "PERSON",
+            "Be",
+            "Reuters",
+            "COMP"
+        ],
+        [
+            "Reuters",
+            "COMP",
+            "Reporters",
+            "Wa Lone",
+            "PERSON"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "And",
+            "Kyaw Soe Oo",
+            "PERSON"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Detained",
+            "On",
+            "DATE"
+        ],
+        [
+            "DATE",
+            "DATE",
+            "After",
+            "They Had Been Invited",
+            "VERB"
+        ],
+        [
+            "They",
+            "PERSON",
+            "To Meet",
+            "Police Officers",
+            "ORG/GOV"
+        ],
+        [
+            "Police Officers",
+            "ORG/GOV",
+            "Over",
+            "Dinner",
+            "PRODUCT"
+        ],
+        [
+            "They",
+            "PERSON",
+            "Had Worked",
+            "On",
+            "REPORTING"
+        ],
+        [
+            "REPORTING",
+            "REPORTING",
+            "Of",
+            "Rohingya Muslims Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Rohingya Muslims Crisis",
+            "CONCEPT",
+            "In",
+            "Rakhine",
+            "GPE"
+        ],
+        [
+            "Rakhine",
+            "GPE",
+            "-",
+            "According To",
+            "VERB"
+        ],
+        [
+            "According To",
+            "VERB",
+            "United Nations\u2019 Estimates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United Nations\u2019 Estimates",
+            "ECON_INDICATOR",
+            "-",
+            "About",
+            "VERB"
+        ],
+        [
+            "About",
+            "VERB",
+            "655,000",
+            "NUM",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NUM",
+            "NUM",
+            "Rohingya Muslims",
+            "CONCEPT",
+            "Have Fled"
+        ],
+        [
+            "Have Fled",
+            "VERB",
+            "From",
+            "VERB"
+        ],
+        [
+            "From",
+            "VERB",
+            "Fierce Military Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Fierce Military Crackdown",
+            "CONCEPT",
+            "On",
+            "Militants",
+            "PERSON"
+        ]
+    ]
+}

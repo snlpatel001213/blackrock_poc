@@ -1,0 +1,143 @@
+{
+    "output": [
+        [
+            "Cancer patients",
+            "PERSON",
+            "Have",
+            "Hot flashes",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Hormone therapy",
+            "CONCEPT"
+        ],
+        [
+            "Hormone therapy",
+            "CONCEPT",
+            "Control",
+            "Hormone levels",
+            "CONCEPT"
+        ],
+        [
+            "Hormone therapy",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Hot flashes",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Impact",
+            "Quality of life",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Cancer",
+            "GPE"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Infection",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Medications",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Steroids",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Relate_To",
+            "Hormone therapy",
+            "CONCEPT"
+        ],
+        [
+            "Management",
+            "CONCEPT",
+            "Include",
+            "Prevention",
+            "CONCEPT"
+        ],
+        [
+            "Management",
+            "CONCEPT",
+            "Include",
+            "Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Nonmedication-based techniques",
+            "CONCEPT",
+            "Include",
+            "Documenting hot flashes",
+            "CONCEPT"
+        ],
+        [
+            "Nonmedication-based techniques",
+            "CONCEPT",
+            "Include",
+            "Avoiding triggers",
+            "CONCEPT"
+        ],
+        [
+            "Nonmedication-based techniques",
+            "CONCEPT",
+            "Include",
+            "Lifestyle changes",
+            "CONCEPT"
+        ],
+        [
+            "Nonmedication-based techniques",
+            "CONCEPT",
+            "Include",
+            "Cool environment",
+            "CONCEPT"
+        ],
+        [
+            "Nonmedication-based techniques",
+            "CONCEPT",
+            "Include",
+            "Relaxation activities",
+            "CONCEPT"
+        ],
+        [
+            "Low doses of certain antidepressants",
+            "CONCEPT",
+            "Treat",
+            "Hot flashes",
+            "CONCEPT"
+        ],
+        [
+            "Hot flashes",
+            "CONCEPT",
+            "Require",
+            "Change in dose or discontinuation of hormone therapy",
+            "CONCEPT"
+        ],
+        [
+            "Alternative therapies",
+            "CONCEPT",
+            "Haven\u2019t been extensively studied for treating hot flashes in cancer patients",
+            "CONCEPT"
+        ]
+    ]
+}

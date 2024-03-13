@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Harvard Business School",
+            "ORG",
+            "Announce",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Millionaires",
+            "PERSON",
+            "Participates_In",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Wealth",
+            "CONCEPT",
+            "Relate_To",
+            "Happiness",
+            "CONCEPT"
+        ],
+        [
+            "Wealth",
+            "CONCEPT",
+            "Impact",
+            "Life Satisfaction",
+            "CONCEPT"
+        ],
+        [
+            "Minute-to-minute Happiness",
+            "CONCEPT",
+            "Relate_To",
+            "Overall Happiness",
+            "CONCEPT"
+        ]
+    ]
+}

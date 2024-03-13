@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Vietnam",
+            "GPE",
+            "Launch",
+            "Trade Dispute",
+            "EVENT"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Challenge",
+            "U.S. Anti-dumping Measures",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Impose",
+            "Punitive Tariffs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Consider",
+            "Fish Fillets",
+            "PRODUCT"
+        ],
+        [
+            "Fish Fillets",
+            "PRODUCT",
+            "Dumped",
+            "null",
+            "null"
+        ],
+        [
+            "Fish Fillets",
+            "PRODUCT",
+            "Sold",
+            "At Unfairly Cheap Price",
+            "CONCEPT"
+        ],
+        [
+            "Fish Fillets",
+            "PRODUCT",
+            "On U.S. Market",
+            "null",
+            "null"
+        ],
+        [
+            "World Trade Organization",
+            "ORG",
+            "Publish",
+            "Filing",
+            "EVENT"
+        ],
+        [
+            "Tom Miles",
+            "PERSON",
+            "Report",
+            "null",
+            "null"
+        ],
+        [
+            "Alison Williams",
+            "PERSON",
+            "Edit",
+            "null",
+            "null"
+        ]
+    ]
+}

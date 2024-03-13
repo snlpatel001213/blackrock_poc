@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Brambles Ltd",
+            "COMP",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Brambles Ltd",
+            "COMP",
+            "Has",
+            "lower deferred tax liability",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Announce",
+            "biggest overhaul of U.S. tax code in 30 years",
+            "EVENT"
+        ],
+        [
+            "Brambles Ltd",
+            "COMP",
+            "Relate_To",
+            "U.S. House of Representatives",
+            "ORG/GOV"
+        ],
+        [
+            "Brambles Ltd",
+            "COMP",
+            "Impact",
+            "Shares of Brambles",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Brambles Ltd",
+            "COMP",
+            "Negative_Impact_On",
+            "number of measures",
+            "CONCEPT"
+        ]
+    ]
+}

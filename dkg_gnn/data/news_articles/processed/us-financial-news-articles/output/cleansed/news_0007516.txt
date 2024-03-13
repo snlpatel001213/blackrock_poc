@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Vernon Philander",
+            "PERSON",
+            "Has",
+            "6-42",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vernon Philander",
+            "PERSON",
+            "Control",
+            "Home Attack",
+            "SECTOR"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Host",
+            "India",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Operate_In",
+            "Three-test Series",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Produce",
+            "130",
+            "SCORE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Bowl Out",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Look To",
+            "Seize Control",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Fall",
+            "135",
+            "SCORE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Skittle",
+            "null",
+            "null"
+        ],
+        [
+            "Newlands",
+            "GPE",
+            "Location",
+            "Test",
+            "EVENT"
+        ],
+        [
+            "Newlands",
+            "GPE",
+            "Provide",
+            "Lively Wicket",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "null",
+            "null"
+        ],
+        [
+            "Nick Said",
+            "PERSON",
+            "Editing",
+            "null",
+            "null"
+        ],
+        [
+            "William Maclean",
+            "PERSON",
+            "Editing",
+            "null",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Genworth Financial Inc.",
+            "ORG",
+            "Operate_In",
+            "Insurance Sector",
+            "SECTOR"
+        ],
+        [
+            "Oceanwide",
+            "ORG",
+            "Relate_To",
+            "Update",
+            "EVENT"
+        ],
+        [
+            "CFIUS",
+            "ORG/REG",
+            "Relate_To",
+            "Clearance",
+            "EVENT"
+        ],
+        [
+            "Merger Agreement",
+            "EVENT",
+            "Operate_In",
+            "Insurance Sector",
+            "SECTOR"
+        ]
+    ]
+}

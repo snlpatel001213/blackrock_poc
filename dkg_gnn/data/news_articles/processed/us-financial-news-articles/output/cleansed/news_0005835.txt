@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trans World Entertainment Corp",
+            "COMP",
+            "Decrease",
+            "$108 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trans World Entertainment Corp",
+            "COMP",
+            "Relate_To",
+            "FYE Segment",
+            "SECTOR"
+        ],
+        [
+            "FYE Segment",
+            "SECTOR",
+            "Negative_Impact_On",
+            "Declining Mall Traffic",
+            "CONCEPT"
+        ]
+    ]
+}

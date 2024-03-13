@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Chicago Federal Reserve Bank",
+            "ORG/REG",
+            "Dissent",
+            "Charles Evans",
+            "PERSON"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Operate_In",
+            "Fed",
+            "ORG/REG"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Want",
+            "Wait",
+            "NONE"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Until",
+            "Mid-2018",
+            "DATE"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Explain",
+            "Dissent",
+            "NONE"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Expect",
+            "U.S. Economy",
+            "GPE"
+        ],
+        [
+            "U.S. Economy",
+            "GPE",
+            "Grow",
+            "Touch Faster",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Expect",
+            "U.S. Economy",
+            "GPE"
+        ],
+        [
+            "U.S. Economy",
+            "GPE",
+            "Grow",
+            "Touch Slower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Expect",
+            "Labor Market",
+            "SECTOR"
+        ],
+        [
+            "Labor Market",
+            "SECTOR",
+            "Continue",
+            "Strengthen",
+            "NONE"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Reporting",
+            "Ann Saphir",
+            "PERSON"
+        ],
+        [
+            "Ann Saphir",
+            "PERSON",
+            "Editing",
+            "Chizu Nomiyama",
+            "PERSON"
+        ]
+    ]
+}

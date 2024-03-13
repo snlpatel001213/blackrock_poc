@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "ArcLight Capital Partners",
+            "ORG",
+            "Acquire",
+            "Deepwater Perdido Platform",
+            "PRODUCT"
+        ],
+        [
+            "ArcLight Capital Partners",
+            "ORG",
+            "Operate_In",
+            "Oil & Gas Industry",
+            "SECTOR"
+        ],
+        [
+            "Deepwater Perdido Platform",
+            "PRODUCT",
+            "Relate_To",
+            "Perdido Regional Host",
+            "PRODUCT"
+        ],
+        [
+            "BP Exploration & Production",
+            "ORG",
+            "Sell",
+            "26.5% Interest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP Exploration & Production",
+            "ORG",
+            "Operate_In",
+            "Oil & Gas Industry",
+            "SECTOR"
+        ]
+    ]
+}

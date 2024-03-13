@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Lisa Rapaport",
+            "PERSON",
+            "Write",
+            "Exercise may reduce disability even in frail elders",
+            "EVENT"
+        ],
+        [
+            "Exercise",
+            "CONCEPT",
+            "Relate_To",
+            "Reduce disability",
+            "CONCEPT"
+        ],
+        [
+            "Older adults",
+            "PERSON",
+            "Participates_In",
+            "Exercise program",
+            "COMP"
+        ],
+        [
+            "Structured exercise program",
+            "COMP",
+            "Operate_In",
+            "Health education workshops",
+            "COMP"
+        ],
+        [
+            "Exercisers",
+            "PERSON",
+            "Do",
+            "Up to 150 minutes a week of walking and activities",
+            "CONCEPT"
+        ],
+        [
+            "Activities",
+            "CONCEPT",
+            "Impact",
+            "Improve strength, balance and flexibility",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Are",
+            "No less likely to become frail with exercise",
+            "CONCEPT"
+        ],
+        [
+            "Exercise",
+            "CONCEPT",
+            "Impact",
+            "Less likely to lose their ability to rise from a chair",
+            "CONCEPT"
+        ],
+        [
+            "Roger Fielding",
+            "PERSON",
+            "Say",
+            "Benefits of physical activity in terms of preventing physical disability still persist in older adults who are already experiencing symptoms of frailty",
+            "CONCEPT"
+        ],
+        [
+            "Older adults",
+            "PERSON",
+            "Can",
+            "Benefit from a regular structured program of physical activity",
+            "CONCEPT"
+        ],
+        [
+            "Exercise",
+            "CONCEPT",
+            "Reduce",
+            "Risk of developing specific components of the frailty syndrome like losing the ability to rise from a chair",
+            "CONCEPT"
+        ],
+        [
+            "Frail older adults",
+            "PERSON",
+            "Can",
+            "Benefit from exercise",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Are",
+            "Frail if they cannot rise from a chair 5 times without using the arms",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Are",
+            "Frail if they had lost a significant amount of weight recently",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Are",
+            "Frail if they feel like they have no energy",
+            "CONCEPT"
+        ],
+        [
+            "Exercise group",
+            "COMP",
+            "Have",
+            "About 6 percent of the people who are already considered frail",
+            "CONCEPT"
+        ],
+        [
+            "Health education group",
+            "COMP",
+            "Have",
+            "About 5 percent of the people who are already considered frail",
+            "CONCEPT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Are",
+            "Frail if they cannot accomplish this task",
+            "CONCEPT"
+        ],
+        [
+            "Exercise group",
+            "COMP",
+            "Have",
+            "About 3 percent to 6 percent lower percentage of participants who cannot accomplish this task",
+            "CONCEPT"
+        ],
+        [
+            "Study",
+            "CONCEPT",
+            "Have",
+            "One limitation",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Don\u2019t",
+            "Have data to show which individual components of the exercise program might have influenced frailty or disability",
+            "CONCEPT"
+        ],
+        [
+            "Exercise",
+            "CONCEPT",
+            "Reduces",
+            "Risk of disability",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Rebecca Brown",
+            "PERSON",
+            "Say",
+            "Exercise reduces the risk of disability, whether or not you are frail",
+            "CONCEPT"
+        ]
+    ]
+}

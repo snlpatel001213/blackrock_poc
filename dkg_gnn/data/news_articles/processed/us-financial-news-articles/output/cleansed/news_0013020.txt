@@ -1,0 +1,124 @@
+{
+    "output": [
+        [
+            "Ecuador",
+            "GPE",
+            "Is_Member_Of",
+            "UN",
+            "ORG/GOV"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Has",
+            "Political Asylum",
+            "ORG/GOV"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Located_In",
+            "Ecuador Embassy",
+            "ORG"
+        ],
+        [
+            "Julian Assange",
+            "PERSON",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "WikiLeaks",
+            "ORG",
+            "Control",
+            "Julian Assange",
+            "PERSON"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Announce",
+            "Look_For_Agreement",
+            "UN",
+            "ORG/GOV"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Impact",
+            "Julian Assange",
+            "PERSON"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Negative_Impact_On",
+            "Stay",
+            "VERB"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Participates_In",
+            "Discussion",
+            "VERB"
+        ],
+        [
+            "Ecuador",
+            "GPE",
+            "Relate_To",
+            "UK",
+            "GPE"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Control",
+            "Ecuador Embassy",
+            "ORG"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Participates_In",
+            "Discussion",
+            "VERB"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Relate_To",
+            "Ecuador",
+            "GPE"
+        ],
+        [
+            "Maria Fernanda Espinosa",
+            "PERSON",
+            "Is_Member_Of",
+            "Ecuador Government",
+            "ORG/GOV"
+        ],
+        [
+            "Maria Fernanda Espinosa",
+            "PERSON",
+            "Announce",
+            "Unsustainable",
+            "ADJ"
+        ],
+        [
+            "Maria Fernanda Espinosa",
+            "PERSON",
+            "Speak",
+            "Comments",
+            "VERB"
+        ],
+        [
+            "Maria Fernanda Espinosa",
+            "PERSON",
+            "Relate_To",
+            "State Media",
+            "ORG"
+        ]
+    ]
+}

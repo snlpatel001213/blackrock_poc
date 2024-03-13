@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Announce",
+            "Preliminary top line financial results",
+            "EVENT"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Operate_In",
+            "Medical and Industrial use",
+            "SECTOR"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Has",
+            "NASDAQ:EKSO",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Recognize",
+            "Revenue of approximately $2.5 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Recognize",
+            "Revenue of approximately $2.0 million in medical revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Ship",
+            "21 Ekso GT systems",
+            "PRODUCT"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Recognize",
+            "Revenue of approximately $330,000 on shipments of 56 units of its industrial products",
+            "PRODUCT"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Has",
+            "277 Ekso GT systems in the field at year end",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ekso Bionics Holdings Inc.",
+            "ORG",
+            "Has",
+            "$27.9 million of cash on its balance sheet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Is_Member_Of",
+            "Ekso Bionics Holdings Inc.",
+            "ORG"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Say",
+            "Preliminary results for the fourth quarter reflect the growing visibility of and interest in our medical products pipeline in both the United States and EMEA",
+            "EVENT"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Say",
+            "The growing awareness of our industrial products is also a positive sign",
+            "EVENT"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Say",
+            "As we move into 2018, we remain focused on building a solid foundation for commercial success",
+            "EVENT"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Say",
+            "This includes expanding our customer base with leading rehabilitation centers in China and Asia-Pacific",
+            "EVENT"
+        ],
+        [
+            "Thomas Looby",
+            "PERSON",
+            "Say",
+            "Our rental program continues to be an effective source of sales, and we are working to expand the program and convert current rentals to sales in the months ahead",
+            "EVENT"
+        ]
+    ]
+}

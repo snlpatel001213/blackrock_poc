@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Plan",
+            "Create",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "Coal Mining Sector",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "Super-large Coal Mining Companies",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "100 Million Tonnes Per Year Coal Capacity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Compete",
+            "Global Market",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Help",
+            "Modernize Sector",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Had",
+            "4000 Coal Mines",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "3.41 Billion Tonnes Per Year Coal Capacity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Include",
+            "Top Coal Miner Shenhua Group",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Include",
+            "China Coal Energy Group",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Include",
+            "Datong Coal Mine Group",
+            "ORG"
+        ],
+        [
+            "Shenhua Group",
+            "ORG",
+            "Capable",
+            "100 Million Tonnes Per Year Coal Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Coal Energy Group",
+            "ORG",
+            "Capable",
+            "100 Million Tonnes Per Year Coal Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Datong Coal Mine Group",
+            "ORG",
+            "Capable",
+            "100 Million Tonnes Per Year Coal Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Follow",
+            "Acquisition Last Year",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Include",
+            "Worlds Largest Utility",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Participates_In",
+            "Beijing Effort",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Shake",
+            "Indebted And Inefficient State Sector",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Create",
+            "Globally Competitive Firms",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Straddle",
+            "Many Sectors",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Deepens",
+            "War On Smog",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Push",
+            "Boost Cleaner Energy Consumption",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Limit",
+            "Coal Use",
+            "CONCEPT"
+        ],
+        [
+            "Coal Industry",
+            "ORG",
+            "Encourage",
+            "Dealmaking",
+            "CONCEPT"
+        ],
+        [
+            "Coal Industry",
+            "ORG",
+            "Encourage",
+            "Close Small-scale Inefficient Mines",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Pledge",
+            "Eliminate 800 Million Tonnes Of Outdated Capacity",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Add",
+            "500 Million Tonnes Of Advanced Output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Coal Output",
+            "3.9 Billion Tonnes Per Year By 2020",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

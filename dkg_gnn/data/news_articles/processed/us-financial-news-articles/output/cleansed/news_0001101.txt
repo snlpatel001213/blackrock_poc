@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Veru Inc",
+            "ORG",
+            "Reports",
+            "Q4 Loss Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Veru Inc",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Q4 Loss Per Share",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Fiscal 2017 Fourth-Quarter",
+            "EVENT"
+        ],
+        [
+            "Fiscal 2017 Fourth-Quarter",
+            "EVENT",
+            "Relate_To",
+            "Full-Year Financial Results",
+            "EVENT"
+        ],
+        [
+            "Q4 Loss Per Share",
+            "ECON_INDICATOR",
+            "Impact",
+            "Veru Inc",
+            "ORG"
+        ],
+        [
+            "Q4 Loss Per Share",
+            "ECON_INDICATOR",
+            "Has",
+            "$0.10",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q4 Revenue",
+            "ECON_INDICATOR",
+            "Has",
+            "$3.7 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q4 Revenue",
+            "ECON_INDICATOR",
+            "Impact",
+            "Veru Inc",
+            "ORG"
+        ],
+        [
+            "Q4 Revenue",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Q4 Loss Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q4 Revenue",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Full-Year Financial Results",
+            "EVENT"
+        ]
+    ]
+}

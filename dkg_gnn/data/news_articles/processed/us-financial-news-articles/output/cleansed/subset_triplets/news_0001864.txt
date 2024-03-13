@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Optimism over the tax bill",
+            "CONCEPT",
+            "Impact",
+            "Higher interest rates",
+            "CONCEPT"
+        ],
+        [
+            "Higher interest rates",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Total mortgage application volume",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Total mortgage application volume",
+            "ECON_INDICATOR",
+            "Decrease",
+            "2.8 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Higher interest rates",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Applications to refinance a home loan",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Applications to refinance a home loan",
+            "ECON_INDICATOR",
+            "Decrease",
+            "7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average contract interest rate for 30-year fixed-rate mortgages",
+            "ECON_INDICATOR",
+            "Has",
+            "4.25 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "80 percent loan-to-value ratio loans",
+            "CONCEPT",
+            "Has",
+            "Origination fee",
+            "CONCEPT"
+        ],
+        [
+            "Joel Kan",
+            "PERSON",
+            "Is_Member_Of",
+            "MBA economist",
+            "COMP"
+        ],
+        [
+            "Increased expectations of stronger economic growth",
+            "CONCEPT",
+            "Relate_To",
+            "Higher interest rates",
+            "CONCEPT"
+        ],
+        [
+            "Overseas markets",
+            "GPE",
+            "Relate_To",
+            "Mortgage rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Supply",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Potential buyers",
+            "CONCEPT"
+        ],
+        [
+            "Demand",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Potential buyers",
+            "CONCEPT"
+        ]
+    ]
+}

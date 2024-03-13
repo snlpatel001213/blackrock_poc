@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Flavio Dino",
+            "PERSON"
+        ],
+        [
+            "Flavio Dino",
+            "PERSON",
+            "Relate_To",
+            "Governor",
+            "PERSON"
+        ],
+        [
+            "Governor",
+            "PERSON",
+            "Operate_In",
+            "Maranh\u00e3o state",
+            "GPE"
+        ],
+        [
+            "Flavio Dino",
+            "PERSON",
+            "Relate_To",
+            "Political rival",
+            "PERSON"
+        ],
+        [
+            "Flavio Dino",
+            "PERSON",
+            "Relate_To",
+            "Sarney",
+            "PERSON"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Brazilian Labor Party",
+            "ORG"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Lower house",
+            "ORG"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Jovair Arantes",
+            "PERSON"
+        ],
+        [
+            "Jovair Arantes",
+            "PERSON",
+            "Operate_In",
+            "Brazilian Labor Party",
+            "ORG"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Ronaldo Nogueira",
+            "PERSON"
+        ],
+        [
+            "Ronaldo Nogueira",
+            "PERSON",
+            "Relate_To",
+            "Resignation",
+            "EVENT"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Appointment",
+            "EVENT"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Labor minister",
+            "PERSON"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Temer",
+            "PERSON"
+        ],
+        [
+            "Fernandes",
+            "PERSON",
+            "Relate_To",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

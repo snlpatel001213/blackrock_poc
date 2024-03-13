@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Relate_To",
+            "Pitti Uomo",
+            "PRODUCT"
+        ],
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Has",
+            "color-coded map",
+            "CONCEPT"
+        ],
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Has",
+            "sprawling zones",
+            "CONCEPT"
+        ],
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Has",
+            "attractions",
+            "CONCEPT"
+        ],
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Has",
+            "shoulder-to-shoulder bathroom lines",
+            "CONCEPT"
+        ],
+        [
+            "Disneyland",
+            "PRODUCT",
+            "Has",
+            "selfie sticks",
+            "CONCEPT"
+        ],
+        [
+            "Pitti Uomo",
+            "PRODUCT",
+            "Occur",
+            "93rd edition",
+            "CONCEPT"
+        ],
+        [
+            "Pitti Uomo",
+            "PRODUCT",
+            "Happen",
+            "twice annually",
+            "CONCEPT"
+        ],
+        [
+            "Pitti Uomo",
+            "PRODUCT",
+            "Take place",
+            "fortress",
+            "COMP"
+        ],
+        [
+            "Pitti Uomo",
+            "PRODUCT",
+            "Take place",
+            "Florence, Italy",
+            "GPE"
+        ],
+        [
+            "Retail buyers",
+            "PERSON",
+            "Participates_In",
+            "Pitti Uomo",
+            "PRODUCT"
+        ],
+        [
+            "Fashion editors",
+            "PERSON",
+            "Participates_In",
+            "Pitti Uomo",
+            "PRODUCT"
+        ],
+        [
+            "Dick Tracy suits",
+            "PRODUCT",
+            "Participates_In",
+            "Pitti Uomo",
+            "PRODUCT"
+        ]
+    ]
+}

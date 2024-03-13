@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "JAKARTA",
+            "GPE",
+            "Reporting",
+            "Agustinus Beo da Costa",
+            "PERSON"
+        ],
+        [
+            "Agustinus Beo da Costa",
+            "PERSON",
+            "Writing",
+            "Kanupriya Kapoor",
+            "PERSON"
+        ],
+        [
+            "Kanupriya Kapoor",
+            "PERSON",
+            "Editing",
+            "Michael Perry",
+            "PERSON"
+        ],
+        [
+            "Boat",
+            "COMP",
+            "Carry",
+            "48 Passengers",
+            "COMP"
+        ],
+        [
+            "48 Passengers",
+            "COMP",
+            "Include",
+            "Children",
+            "COMP"
+        ],
+        [
+            "Boat",
+            "COMP",
+            "Sank",
+            "Off Indonesia\u2019s Kalimantan island",
+            "GPE"
+        ],
+        [
+            "Boat",
+            "COMP",
+            "On_Its_Way",
+            "From Tanjung Selor",
+            "GPE",
+            "To Tarakan",
+            "GPE"
+        ],
+        [
+            "Boat",
+            "COMP",
+            "Overturned",
+            "null",
+            "COMP"
+        ],
+        [
+            "Rescue_Officials",
+            "PERSON",
+            "Said",
+            "null",
+            "COMP"
+        ],
+        [
+            "National_Rescue_Agency",
+            "ORG",
+            "Issue",
+            "Statement",
+            "COMP"
+        ],
+        [
+            "Statement",
+            "COMP",
+            "State",
+            "13 Passengers",
+            "COMP",
+            "Remain_Missing",
+            "null"
+        ],
+        [
+            "Rest",
+            "COMP",
+            "Had_Been_Rescued",
+            "null",
+            "COMP"
+        ],
+        [
+            "null",
+            "COMP",
+            "Clear",
+            "What_Cause",
+            "CONCEPT",
+            "Accident",
+            "EVENT"
+        ]
+    ]
+}

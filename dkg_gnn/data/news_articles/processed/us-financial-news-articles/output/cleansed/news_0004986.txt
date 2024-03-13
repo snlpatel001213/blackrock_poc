@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Top",
+            "25,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Extend",
+            "Rally",
+            "EVENT"
+        ],
+        [
+            "Strong Economic Data",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Rally",
+            "EVENT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Markets",
+            "SECTOR"
+        ]
+    ]
+}

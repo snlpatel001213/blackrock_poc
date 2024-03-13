@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "Ardelyx Inc.",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Ardelyx Inc.",
+            "ORG",
+            "Announce",
+            "Tenapanor for IBS-C",
+            "PRODUCT"
+        ],
+        [
+            "Tenapanor for IBS-C",
+            "PRODUCT",
+            "Relate_To",
+            "T3mpo-1 and T3mpo-2 Studies",
+            "EVENT"
+        ],
+        [
+            "Tenapanor for IBS-C",
+            "PRODUCT",
+            "Relate_To",
+            "Safety Data",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ardelyx Inc.",
+            "ORG",
+            "Control",
+            "Plans to Submit First NDA",
+            "EVENT"
+        ],
+        [
+            "Ardelyx Inc.",
+            "ORG",
+            "Control",
+            "Plans to Submit First NDA",
+            "EVENT",
+            "Relate_To",
+            "U.S. FDA",
+            "ORG/GOV"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Raiders",
+            "ORG",
+            "Introduce",
+            "Gruden",
+            "PERSON"
+        ],
+        [
+            "Gruden",
+            "PERSON",
+            "Operate_In",
+            "NFL",
+            "ORG/GOV"
+        ],
+        [
+            "Del Rio",
+            "PERSON",
+            "Participates_In",
+            "Raiders",
+            "ORG"
+        ]
+    ]
+}

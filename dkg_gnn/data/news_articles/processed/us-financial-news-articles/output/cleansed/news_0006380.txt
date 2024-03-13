@@ -1,0 +1,119 @@
+{
+    "output": [
+        [
+            "Sony",
+            "ORG",
+            "Introduce",
+            "Jumanji: Welcome to the Jungle",
+            "EVENT"
+        ],
+        [
+            "Sony",
+            "ORG",
+            "Operate_In",
+            "North American Locations",
+            "GPE"
+        ],
+        [
+            "Insidious: The Last Key",
+            "EVENT",
+            "Scare Up",
+            "Strong Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Universal",
+            "ORG",
+            "Distribute",
+            "Insidious: The Last Key",
+            "EVENT"
+        ],
+        [
+            "Disney-Lucasfilm",
+            "ORG",
+            "Operate_In",
+            "The Last Jedi",
+            "EVENT"
+        ],
+        [
+            "Fox",
+            "ORG",
+            "Operate_In",
+            "The Greatest Showman",
+            "EVENT",
+            "Ferdinand",
+            "EVENT"
+        ],
+        [
+            "STXfilms",
+            "ORG",
+            "Produce",
+            "Molly\u2019s Game",
+            "EVENT"
+        ],
+        [
+            "Jessica Chastain",
+            "PERSON",
+            "Star",
+            "Molly\u2019s Game",
+            "EVENT"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "EVENT",
+            "Top",
+            "$500 Million",
+            "ECON_INDICATOR",
+            "Worldwide"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "EVENT",
+            "Star",
+            "Dwayne Johnson",
+            "PERSON"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "EVENT",
+            "Star",
+            "Kevin Hart",
+            "PERSON"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "EVENT",
+            "Star",
+            "Jack Black",
+            "PERSON"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "EVENT",
+            "Star",
+            "Karen Gillan",
+            "PERSON"
+        ],
+        [
+            "Insidious: The Last Key",
+            "EVENT",
+            "Produce",
+            "Blumhouse Productions",
+            "ORG"
+        ],
+        [
+            "Insidious: The Last Key",
+            "EVENT",
+            "Produce",
+            "Sony Pictures",
+            "ORG"
+        ],
+        [
+            "Overall Domestic Business",
+            "ECON_INDICATOR",
+            "Up",
+            "18.1%",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

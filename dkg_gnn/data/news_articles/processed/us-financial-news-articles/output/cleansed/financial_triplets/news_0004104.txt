@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Malaysia",
+            "GPE",
+            "Impact",
+            "Balanced Budget",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Malaysia",
+            "GPE",
+            "Operate_In",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "Johari Abdul Ghani",
+            "PERSON",
+            "Participates_In",
+            "Conference",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Operate_In",
+            "Economy",
+            "GPE"
+        ],
+        [
+            "Prime Minister Najib Razak",
+            "PERSON",
+            "Operate_In",
+            "Malaysia",
+            "GPE"
+        ]
+    ]
+}

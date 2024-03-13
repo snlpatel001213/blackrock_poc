@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "The India Fund, Inc.",
+            "ORG",
+            "Announce",
+            "Distribution",
+            "EVENT"
+        ],
+        [
+            "The India Fund, Inc.",
+            "ORG",
+            "Operate_In",
+            "Financial Market",
+            "SECTOR"
+        ],
+        [
+            "Distribution",
+            "EVENT",
+            "Relate_To",
+            "Payout",
+            "CONCEPT"
+        ],
+        [
+            "Payout",
+            "CONCEPT",
+            "Impact",
+            "Investor",
+            "PERSON"
+        ],
+        [
+            "Investor",
+            "PERSON",
+            "Has",
+            "Shares",
+            "PRODUCT"
+        ],
+        [
+            "Shares",
+            "PRODUCT",
+            "Trade",
+            "Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Stock Exchange",
+            "ORG",
+            "Operate_In",
+            "Financial Market",
+            "SECTOR"
+        ],
+        [
+            "The India Fund, Inc.",
+            "ORG",
+            "Pay",
+            "Dividend",
+            "PRODUCT"
+        ],
+        [
+            "Dividend",
+            "PRODUCT",
+            "Has",
+            "Monetary Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Monetary Value",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Distribution",
+            "EVENT"
+        ]
+    ]
+}

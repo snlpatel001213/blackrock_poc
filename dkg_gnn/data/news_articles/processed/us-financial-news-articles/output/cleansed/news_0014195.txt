@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Kingold Jewelry Inc",
+            "COMP",
+            "Announce",
+            "Trust Loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kingold Jewelry Inc",
+            "COMP",
+            "Issue",
+            "Trust Loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Trust Loan",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Kingold Jewelry Inc",
+            "COMP"
+        ],
+        [
+            "Trust Loan",
+            "FIN_INSTRUMENT",
+            "Has",
+            "RMB 1,500 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trust Loan",
+            "FIN_INSTRUMENT",
+            "Issue_In",
+            "Installments",
+            "CONCEPT"
+        ],
+        [
+            "Installments",
+            "CONCEPT",
+            "Each",
+            "24 Month Term",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China MinSheng Trust Co",
+            "ORG/REG",
+            "Participates_In",
+            "Trust Loan",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

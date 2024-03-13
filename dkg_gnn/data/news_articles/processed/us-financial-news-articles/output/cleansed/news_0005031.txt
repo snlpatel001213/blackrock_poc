@@ -1,0 +1,266 @@
+{
+    "output": [
+        [
+            "Silicon Valley",
+            "GPE",
+            "Celebrates",
+            "Massive Exits",
+            "EVENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "Mark Zuckerberg",
+            "PERSON"
+        ],
+        [
+            "Snap",
+            "COMP",
+            "Has",
+            "Evan Spiegel",
+            "PERSON"
+        ],
+        [
+            "Salesforce",
+            "COMP",
+            "Has",
+            "Marc Benioff",
+            "PERSON"
+        ],
+        [
+            "Twitter",
+            "COMP",
+            "Has",
+            "Evan Williams",
+            "PERSON"
+        ],
+        [
+            "Paul Edmondson",
+            "PERSON",
+            "Pour",
+            "HubPages",
+            "COMP"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Raise",
+            "$8 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Acquired_By",
+            "Maven",
+            "COMP"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Operate_In",
+            "Seattle",
+            "GPE"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Investors",
+            "$5 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Founders_and_Employees",
+            "Cash_and_Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Has",
+            "32 Employees",
+            "PERSON"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Doubles_Size",
+            "HubPages",
+            "COMP"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Operate_Network_of_Websites",
+            "Topics",
+            "CONCEPT"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Trying_to_Build_Business",
+            "Without",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Control",
+            "About_Two_Thirds",
+            "ECON_INDICATOR",
+            "US Digital Ad Market",
+            "SECTOR"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Attracts",
+            "35 Million Visitors",
+            "ECON_INDICATOR",
+            "Month"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Close_to_70_Percent",
+            "Mobile",
+            "CONCEPT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Narrowed_Focus",
+            "27 Domains",
+            "CONCEPT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Committed",
+            "Premium_Content",
+            "CONCEPT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Fluctuated",
+            "Google",
+            "COMP",
+            "Search Engine",
+            "PRODUCT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Traffic_Plunge",
+            "22 Percent",
+            "ECON_INDICATOR",
+            "One Week",
+            "TIME"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Success",
+            "Google",
+            "COMP",
+            "Fluctuated"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Algorithm_Changes",
+            "No_Warning",
+            "CONCEPT",
+            "No_Explanation",
+            "CONCEPT"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Raise_Venture_Money",
+            "2007",
+            "TIME",
+            "2008",
+            "TIME"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Performance_Targets",
+            "Maximize_Pay",
+            "CONCEPT"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Shares",
+            "Highly_Volatile",
+            "CONCEPT",
+            "Thinly_Traded",
+            "CONCEPT"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Stock",
+            "Jumped",
+            "32 Percent",
+            "Closed",
+            "6.6 Percent"
+        ],
+        [
+            "James Heckman",
+            "PERSON",
+            "Maven",
+            "CEO",
+            "TITLE"
+        ],
+        [
+            "James Heckman",
+            "PERSON",
+            "Chief_Media_Strategist",
+            "Yahoo",
+            "COMP"
+        ],
+        [
+            "James Heckman",
+            "PERSON",
+            "Chief_Strategy_Officer",
+            "Fox Interactive Media",
+            "COMP"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Goal",
+            "Build_Publishing_Business",
+            "CONCEPT",
+            "Not_Bhelden_to_Google_Facebook_Duopoly",
+            "CONCEPT"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Acquire",
+            "Premium_Content_Sites",
+            "CONCEPT",
+            "Technology_Platform",
+            "CONCEPT"
+        ],
+        [
+            "Mom_and_Pop",
+            "CONCEPT",
+            "Small_Publishers",
+            "No_Longer_Have_Sustainable_Business",
+            "CONCEPT",
+            "Paul_and_I",
+            "PERSON",
+            "Agree",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Professor Eric Vivier",
+            "PERSON",
+            "Join",
+            "Innate Pharma",
+            "ORG"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Operate_In",
+            "Marseille, France",
+            "GPE"
+        ],
+        [
+            "Professor Eric Vivier",
+            "PERSON",
+            "Is_Member_Of",
+            "Aix-Marseille University",
+            "ORG"
+        ],
+        [
+            "Professor Eric Vivier",
+            "PERSON",
+            "Is_Member_Of",
+            "Marseille Public Hospitals",
+            "ORG"
+        ],
+        [
+            "Professor Eric Vivier",
+            "PERSON",
+            "Lead",
+            "Innate Pharma Research Laboratories",
+            "ORG"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Highly Experienced Researchers and Engineers",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Cutting-Edge Technology Platforms",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma Research Laboratories",
+            "ORG",
+            "Lead",
+            "Collaborations",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma Research Laboratories",
+            "ORG",
+            "Lead",
+            "Development of Collaborations",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma Research Laboratories",
+            "ORG",
+            "Relate_To",
+            "Marseille Immunopole Ecosystem",
+            "ORG"
+        ],
+        [
+            "Professor Vivier",
+            "PERSON",
+            "Is_Member_Of",
+            "Marseille Immunopole",
+            "ORG"
+        ],
+        [
+            "Professor Vivier",
+            "PERSON",
+            "Is_Member_Of",
+            "French National Academy of Medicine",
+            "ORG"
+        ],
+        [
+            "Professor Vivier",
+            "PERSON",
+            "Is_Member_Of",
+            "Institut Universitaire de France",
+            "ORG"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Specialize_In",
+            "Immuno-Oncology",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Pipeline",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "First-in-Class Clinical Stage Antibodies",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Preclinical Candidates",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Technologies",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Address",
+            "Cancer Indications",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Address",
+            "High Unmet Medical Needs",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Pioneer",
+            "Discovery and Development of Checkpoint Inhibitors",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Unique Expertise and Understanding of Natural Killer Cell Biology",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Major Alliances",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Have",
+            "Alliances with Leaders in the Biopharmaceutical Industry",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Building",
+            "Foundations to Become a Fully-Integrated Biopharmaceutical Company",
+            "CONCEPT"
+        ],
+        [
+            "Innate Pharma",
+            "ORG",
+            "Listed_On",
+            "Euronext Paris",
+            "ORG"
+        ]
+    ]
+}

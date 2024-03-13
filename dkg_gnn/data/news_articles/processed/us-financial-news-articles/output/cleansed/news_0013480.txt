@@ -1,0 +1,133 @@
+{
+    "output": [
+        [
+            "Chelsea",
+            "COMP",
+            "Participates_In",
+            "League Cup",
+            "EVENT"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Participates_In",
+            "League Cup",
+            "EVENT"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Operate_In",
+            "Soccer",
+            "CONCEPT"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Operate_In",
+            "Soccer",
+            "CONCEPT"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Located_In",
+            "Stamford Bridge",
+            "GPE"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Opponent_Of",
+            "Chelsea",
+            "COMP"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Missed",
+            "Chances",
+            "CONCEPT"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Opponent_Of",
+            "Chelsea",
+            "COMP"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Struggled",
+            "To_Break_Down",
+            "Arsenal",
+            "COMP"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Crafted",
+            "Openings",
+            "CONCEPT"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Defender",
+            "Andreas Christensen",
+            "PERSON"
+        ],
+        [
+            "Andreas Christensen",
+            "PERSON",
+            "Missed",
+            "Headers",
+            "CONCEPT"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Created",
+            "Little",
+            "Amount",
+            "CONCEPT",
+            "Going_Forward"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Obdurate",
+            "In_Defence",
+            "CONCEPT"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Participates_In",
+            "League Cup",
+            "EVENT"
+        ],
+        [
+            "Bristol City",
+            "COMP",
+            "Participates_In",
+            "League Cup",
+            "EVENT"
+        ],
+        [
+            "Manchester City",
+            "COMP",
+            "Leader_In",
+            "Premier_League",
+            "SECTOR"
+        ],
+        [
+            "Bristol City",
+            "COMP",
+            "Second_Tier",
+            "Soccer",
+            "CONCEPT"
+        ]
+    ]
+}

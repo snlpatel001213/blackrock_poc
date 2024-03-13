@@ -1,0 +1,215 @@
+{
+    "output": [
+        [
+            "Chase Corporation",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "EVENT"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Operate_In",
+            "November 30, 2017",
+            "DATE"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Raise",
+            "Revenue",
+            "ECON_INDICATOR",
+            "to",
+            "$61.92 Million",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Decrease",
+            "Operating Income",
+            "ECON_INDICATOR",
+            "by",
+            "$0.74 Million",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Decrease",
+            "Net Income",
+            "ECON_INDICATOR",
+            "by",
+            "$2.05 Million",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Decrease",
+            "Earnings Per Share",
+            "ECON_INDICATOR",
+            "by",
+            "$0.22",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "EBITDA",
+            "EBITDA",
+            "ECON_INDICATOR",
+            "by",
+            "$2.20 Million",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Adjusted EBITDA",
+            "Adjusted EBITDA",
+            "ECON_INDICATOR",
+            "by",
+            "$2.20 Million",
+            "MONEY"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Control",
+            "Industrial Materials Segment",
+            "SECTOR"
+        ],
+        [
+            "Industrial Materials Segment",
+            "SECTOR",
+            "Grow",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Industrial Materials Segment",
+            "SECTOR",
+            "Participates_In",
+            "Global Automotive Market",
+            "SECTOR"
+        ],
+        [
+            "Industrial Materials Segment",
+            "SECTOR",
+            "Produce",
+            "HumiSeal\u00ae and Resin Designs\u00ae branded products",
+            "PRODUCT"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Control",
+            "Construction Materials Segment",
+            "SECTOR"
+        ],
+        [
+            "Construction Materials Segment",
+            "SECTOR",
+            "Decrease",
+            "Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Construction Materials Segment",
+            "SECTOR",
+            "Operate_In",
+            "New York metro area",
+            "GPE"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Control",
+            "Rosphalt50 \u00ae product",
+            "PRODUCT"
+        ],
+        [
+            "Rosphalt50 \u00ae product",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Bridge and Highway Products",
+            "SECTOR"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Control",
+            "Zappa Stewart",
+            "COMP"
+        ],
+        [
+            "Zappa Stewart",
+            "COMP",
+            "Relate_To",
+            "Mergers, Acquisitions and Divestitures Program",
+            "SECTOR"
+        ],
+        [
+            "Zappa Stewart",
+            "COMP",
+            "Positive_Impact_On",
+            "Core Specialty Chemicals Expertise",
+            "SECTOR"
+        ],
+        [
+            "Zappa Stewart",
+            "COMP",
+            "Focus",
+            "Protective Materials for High-Reliability Applications",
+            "SECTOR"
+        ],
+        [
+            "Chase Corporation",
+            "ORG",
+            "Has",
+            "Balance Sheet",
+            "PRODUCT"
+        ],
+        [
+            "Balance Sheet",
+            "PRODUCT",
+            "Remain",
+            "Strong",
+            "CONCEPT"
+        ],
+        [
+            "Balance Sheet",
+            "PRODUCT",
+            "Has",
+            "$54.26 Million",
+            "MONEY",
+            "Cash on Hand",
+            "PRODUCT"
+        ],
+        [
+            "Balance Sheet",
+            "PRODUCT",
+            "Has",
+            "$150 Million",
+            "MONEY",
+            "Revolving Credit Facility",
+            "PRODUCT"
+        ],
+        [
+            "Balance Sheet",
+            "PRODUCT",
+            "Utilize",
+            "Portion",
+            "QUANTITY",
+            "Revolving Credit Facility",
+            "PRODUCT",
+            "to",
+            "Fund",
+            "VERB",
+            "Zappa Stewart Acquisition",
+            "PRODUCT"
+        ]
+    ]
+}

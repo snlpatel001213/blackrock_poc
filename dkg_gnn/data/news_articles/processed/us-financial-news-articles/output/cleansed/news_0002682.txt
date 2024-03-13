@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Airbus A380",
+            "PRODUCT",
+            "Force",
+            "Winter Storm Grayson",
+            "EVENT"
+        ],
+        [
+            "Airbus A380",
+            "PRODUCT",
+            "Divert",
+            "Stewart International",
+            "GPE"
+        ],
+        [
+            "Airbus A380",
+            "PRODUCT",
+            "Has",
+            "262-foot wingspan",
+            "CONCEPT"
+        ],
+        [
+            "Stewart International",
+            "GPE",
+            "Handle",
+            "137,000 passengers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John F. Kennedy International Airport",
+            "GPE",
+            "Receive",
+            "29 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FlightAware",
+            "ORG",
+            "Announce",
+            "96 diversions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FlightAware",
+            "ORG",
+            "Announce",
+            "More than 3,600 flights canceled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Singapore Airlines",
+            "COMP",
+            "Plan",
+            "Arrange for ground transportation",
+            "SERVICE"
+        ],
+        [
+            "Singapore Airlines",
+            "COMP",
+            "Plan",
+            "Fly",
+            "PRODUCT"
+        ],
+        [
+            "Singapore Airlines",
+            "COMP",
+            "Operate_In",
+            "International routes",
+            "SECTOR"
+        ],
+        [
+            "Singapore Airlines",
+            "COMP",
+            "Fly",
+            "Frankfurt",
+            "GPE"
+        ]
+    ]
+}

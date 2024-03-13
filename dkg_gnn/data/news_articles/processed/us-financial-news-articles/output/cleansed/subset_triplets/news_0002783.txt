@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Patients",
+            "PERSON",
+            "Negative_Impact_On",
+            "Timely_Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Growing_Bureaucracy",
+            "CONCEPT",
+            "Impact",
+            "Communication",
+            "CONCEPT"
+        ],
+        [
+            "Electronic_Health_Record",
+            "PRODUCT",
+            "Impact",
+            "Communication",
+            "CONCEPT"
+        ],
+        [
+            "Email",
+            "PRODUCT",
+            "Impact",
+            "Communication",
+            "CONCEPT"
+        ]
+    ]
+}

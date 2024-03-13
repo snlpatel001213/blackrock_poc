@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Everton",
+            "COMP",
+            "Sign",
+            "Cenk Tosun",
+            "PERSON"
+        ],
+        [
+            "Cenk Tosun",
+            "PERSON",
+            "Operate_In",
+            "Besiktas",
+            "COMP"
+        ],
+        [
+            "Cenk Tosun",
+            "PERSON",
+            "Pledge",
+            "Goals",
+            "CONCEPT"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Struggle",
+            "Score",
+            "CONCEPT"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Pay",
+            "27 million pounds",
+            "ECON_INDICATOR",
+            "For",
+            "Cenk Tosun",
+            "PERSON"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Have",
+            "Big_Names",
+            "CONCEPT"
+        ],
+        [
+            "Cenk Tosun",
+            "PERSON",
+            "Learn",
+            "From",
+            "Wayne Rooney",
+            "PERSON"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Praised",
+            "Cenk Tosun",
+            "PERSON"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Struggle",
+            "Attack",
+            "CONCEPT"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Scored",
+            "25 goals",
+            "ECON_INDICATOR",
+            "In",
+            "22 league games",
+            "EVENT"
+        ]
+    ]
+}

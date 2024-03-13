@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Belong_To",
+            "Barcelona",
+            "ORG"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Positive_Impact_On",
+            "Barcelona",
+            "ORG"
+        ],
+        [
+            "Ernesto Valverde",
+            "PERSON",
+            "Say",
+            "Philippe Coutinho_be_great_asset",
+            "CONCEPT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Play",
+            "Fluid Side",
+            "SECTOR"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Operate_In",
+            "Liga and Champions League",
+            "SECTOR"
+        ],
+        [
+            "Lionel Messi",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Paulinho",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Put_on",
+            "Club Tracksuit",
+            "PRODUCT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Cost",
+            "142_million_pound",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Cost",
+            "126.35_million_euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Cost",
+            "Most_Expensive_Transfer",
+            "CONCEPT"
+        ],
+        [
+            "Ivan Rakitic",
+            "PERSON",
+            "Welcome",
+            "Philippe Coutinho",
+            "PERSON"
+        ],
+        [
+            "Ivan Rakitic",
+            "PERSON",
+            "Look_forward",
+            "See_Philippe_Coutinho_play",
+            "CONCEPT"
+        ],
+        [
+            "Luis Suarez",
+            "PERSON",
+            "Welcome",
+            "Philippe Coutinho",
+            "PERSON"
+        ],
+        [
+            "Luis Suarez",
+            "PERSON",
+            "Help",
+            "Philippe_Coutinho_adapt",
+            "CONCEPT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Thigh_Injury",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Philippe Coutinho",
+            "PERSON",
+            "Cannot_Play",
+            "Champions League",
+            "SECTOR"
+        ]
+    ]
+}

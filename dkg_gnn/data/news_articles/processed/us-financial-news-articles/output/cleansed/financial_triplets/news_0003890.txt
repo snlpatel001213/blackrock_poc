@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "U.S.-South Korea Relations",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "U.S.-South Korea Relations",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Control",
+            "Joint Military Exercises",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Control",
+            "Joint Military Exercises",
+            "EVENT"
+        ],
+        [
+            "Olympics",
+            "EVENT",
+            "Relate_To",
+            "Period of Calm and Peace",
+            "CONCEPT"
+        ]
+    ]
+}

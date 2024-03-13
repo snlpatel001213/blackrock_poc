@@ -1,0 +1,96 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Raise",
+            "Top Income Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conservatives",
+            "ORG/POL",
+            "Want",
+            "Raise",
+            "Top Income Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Social Democrats",
+            "ORG/POL",
+            "Want",
+            "Raise",
+            "Top Income Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Top Income Tax Rate",
+            "ECON_INDICATOR",
+            "Apply",
+            "High Earners",
+            "PERSON"
+        ],
+        [
+            "High Earners",
+            "PERSON",
+            "Have",
+            "Annual Income",
+            "60000 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Top Income Tax Rate",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "53700 euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conservatives",
+            "ORG/POL",
+            "Made",
+            "Election Promise",
+            "Raise",
+            "Top Income Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SPD",
+            "ORG/POL",
+            "Wanted",
+            "Raise",
+            "Taxes",
+            "ECON_INDICATOR",
+            "for",
+            "High Earners",
+            "PERSON"
+        ],
+        [
+            "SPD",
+            "ORG/POL",
+            "Wanted",
+            "Expand",
+            "Welfare Payments",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Top Tax Rate",
+            "ECON_INDICATOR",
+            "Signal",
+            "Compromise",
+            "by",
+            "SPD",
+            "ORG/POL"
+        ],
+        [
+            "Top Income Tax Rate",
+            "ECON_INDICATOR",
+            "Provide",
+            "Tax Relief",
+            "ECON_INDICATOR",
+            "for",
+            "High Earners",
+            "PERSON"
+        ]
+    ]
+}

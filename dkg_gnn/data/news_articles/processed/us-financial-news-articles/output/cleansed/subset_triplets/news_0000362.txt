@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Operate_In",
+            "New Jersey, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Provident Financial Services, Inc.",
+            "ORG",
+            "Has",
+            "Provident Bank",
+            "COMP"
+        ],
+        [
+            "Provident Bank",
+            "COMP",
+            "Operate_In",
+            "New Jersey, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dial-in",
+            "PRODUCT",
+            "Control",
+            "Domestic, International, Canada",
+            "GPE"
+        ]
+    ]
+}

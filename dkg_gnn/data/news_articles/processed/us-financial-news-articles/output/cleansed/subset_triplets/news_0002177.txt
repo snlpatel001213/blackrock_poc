@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Participates_In",
+            "Slow Sales Recovery",
+            "CONCEPT"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Participates_In",
+            "Slow Sales Recovery",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Relate_To",
+            "Diplomatic Tensions",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Relate_To",
+            "Diplomatic Tensions",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Combined Sales Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Has",
+            "Combined Sales Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "Global Economy",
+            "CONCEPT"
+        ],
+        [
+            "Major Countries",
+            "CONCEPT",
+            "Relate_To",
+            "Trade Protectionism",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Line-Up",
+            "PRODUCT"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Operate_In",
+            "Southeast Asia",
+            "GPE"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor Group chairman Chung Mong-koo",
+            "PERSON",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Hyundai Motor",
+            "COMP",
+            "Has",
+            "Chairman",
+            "PERSON"
+        ],
+        [
+            "Kia Motors",
+            "COMP",
+            "Has",
+            "Chairman",
+            "PERSON"
+        ]
+    ]
+}

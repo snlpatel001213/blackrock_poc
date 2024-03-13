@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Has",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Founders Fund",
+            "ORG",
+            "Has",
+            "Bitcoin",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Control",
+            "Founders Fund",
+            "ORG"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Economists",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Bubble",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Positive_Impact_On",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Speak_At",
+            "Investment Conference",
+            "EVENT"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Compare_To",
+            "Gold",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Peter Thiel",
+            "PERSON",
+            "Skeptical_Of",
+            "Other Cryptocurrencies",
+            "CONCEPT"
+        ]
+    ]
+}

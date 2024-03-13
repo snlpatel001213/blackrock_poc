@@ -1,0 +1,57 @@
+{
+    "output": [
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Outflank",
+            "Chrome",
+            "PRODUCT",
+            "In",
+            "India",
+            "GPE",
+            "Indonesia",
+            "GPE",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Owned_By",
+            "Alibaba Group Holding Ltd.",
+            "ORG"
+        ],
+        [
+            "Alibaba Group Holding Ltd.",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Alibaba Group Holding Ltd.",
+            "ORG",
+            "Compete_With",
+            "Technology Giants",
+            "CONCEPT"
+        ],
+        [
+            "Users",
+            "CONCEPT",
+            "Pick",
+            "UC Browser",
+            "PRODUCT",
+            "Over",
+            "Ones Made By",
+            "COMP"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Work_Better",
+            "In",
+            "Countries",
+            "GPE"
+        ]
+    ]
+}

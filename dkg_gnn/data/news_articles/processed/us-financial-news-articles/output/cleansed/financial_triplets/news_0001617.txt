@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "conservatives",
+            "ORG/GOV",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Social Democrats",
+            "ORG/GOV",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "conservatives",
+            "ORG/GOV",
+            "Participates_In",
+            "preliminary talks",
+            "EVENT"
+        ],
+        [
+            "conservatives",
+            "ORG/GOV",
+            "Participates_In",
+            "exploratory talks",
+            "EVENT"
+        ],
+        [
+            "SPD",
+            "ORG/GOV",
+            "Participates_In",
+            "exploratory talks",
+            "EVENT"
+        ]
+    ]
+}

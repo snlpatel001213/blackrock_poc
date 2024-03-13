@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Knock Knock",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Knock Knock",
+            "COMP",
+            "Operate_In",
+            "Gift Industry",
+            "SECTOR"
+        ],
+        [
+            "Knock Knock",
+            "COMP",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ],
+        [
+            "Emily McDowell Studio",
+            "COMP",
+            "Acquired_By",
+            "Knock Knock",
+            "COMP"
+        ],
+        [
+            "Emily McDowell Studio",
+            "COMP",
+            "Operate_In",
+            "Greeting Card Industry",
+            "SECTOR"
+        ],
+        [
+            "Emily McDowell Studio",
+            "COMP",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ],
+        [
+            "Sisters of Los Angeles",
+            "COMP",
+            "Acquired_By",
+            "Knock Knock",
+            "COMP"
+        ],
+        [
+            "Sisters of Los Angeles",
+            "COMP",
+            "Operate_In",
+            "Gift Industry",
+            "SECTOR"
+        ],
+        [
+            "Sisters of Los Angeles",
+            "COMP",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ],
+        [
+            "Who\u2019s There Group",
+            "ORG",
+            "Operate_In",
+            "Gift Industry",
+            "SECTOR"
+        ],
+        [
+            "Who\u2019s There Group",
+            "ORG",
+            "Participates_In",
+            "AmericasMart Atlanta Gift Tradeshow",
+            "EVENT"
+        ],
+        [
+            "Who\u2019s There Group",
+            "ORG",
+            "Participates_In",
+            "NYNow",
+            "EVENT"
+        ],
+        [
+            "Who\u2019s There Group",
+            "ORG",
+            "Impact",
+            "Planned Parenthood",
+            "ORG/REG"
+        ],
+        [
+            "Who\u2019s There Group",
+            "ORG",
+            "Impact",
+            "Los Angeles Women\u2019s March",
+            "EVENT"
+        ],
+        [
+            "Jen Bilik",
+            "PERSON",
+            "Is_Member_Of",
+            "Knock Knock",
+            "COMP"
+        ],
+        [
+            "Jen Bilik",
+            "PERSON",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ],
+        [
+            "Emily McDowell",
+            "PERSON",
+            "Is_Member_Of",
+            "Emily McDowell Studio",
+            "COMP"
+        ],
+        [
+            "Emily McDowell",
+            "PERSON",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ],
+        [
+            "Sara Stein",
+            "PERSON",
+            "Is_Member_Of",
+            "Sisters of Los Angeles",
+            "COMP"
+        ],
+        [
+            "Sara Stein",
+            "PERSON",
+            "Is_Member_Of",
+            "Who\u2019s There Group",
+            "ORG"
+        ]
+    ]
+}

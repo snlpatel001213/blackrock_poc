@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "DIY diabetics",
+            "PERSON",
+            "Develop",
+            "artificial pancreas system",
+            "PRODUCT"
+        ],
+        [
+            "artificial pancreas system",
+            "PRODUCT",
+            "Share",
+            "other diabetics",
+            "PERSON"
+        ],
+        [
+            "artificial pancreas system",
+            "PRODUCT",
+            "Aim",
+            "revolutionize",
+            "CONCEPT"
+        ],
+        [
+            "DIY diabetics",
+            "PERSON",
+            "Locate",
+            "Seattle",
+            "GPE"
+        ]
+    ]
+}

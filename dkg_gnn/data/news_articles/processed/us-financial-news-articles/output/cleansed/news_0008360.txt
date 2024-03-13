@@ -1,0 +1,210 @@
+{
+    "output": [
+        [
+            "The Handmaid\u2019s Tale",
+            "EVENT",
+            "Operate_In",
+            "Hulu",
+            "ORG"
+        ],
+        [
+            "The Handmaid\u2019s Tale",
+            "EVENT",
+            "Win",
+            "Best TV Drama",
+            "EVENT"
+        ],
+        [
+            "Elisabeth Moss",
+            "PERSON",
+            "Win",
+            "Best Actress",
+            "EVENT"
+        ],
+        [
+            "Elisabeth Moss",
+            "PERSON",
+            "Dedicate",
+            "Win",
+            "EVENT",
+            "To",
+            "Margaret Atwood",
+            "PERSON"
+        ],
+        [
+            "Margaret Atwood",
+            "PERSON",
+            "Relate_To",
+            "The Handmaid\u2019s Tale",
+            "EVENT"
+        ],
+        [
+            "Time\u2019s Up movement",
+            "EVENT",
+            "Dominate",
+            "Golden Globes awards",
+            "EVENT"
+        ],
+        [
+            "Time Warner Inc",
+            "ORG",
+            "Own",
+            "HBO",
+            "ORG"
+        ],
+        [
+            "Big Little Lies",
+            "EVENT",
+            "Win",
+            "Best Limited Series/TV Movie",
+            "EVENT"
+        ],
+        [
+            "Nicole Kidman",
+            "PERSON",
+            "Win",
+            "Best Actress",
+            "EVENT"
+        ],
+        [
+            "Alexander Skarsgard",
+            "PERSON",
+            "Win",
+            "Best Supporting Actor",
+            "EVENT"
+        ],
+        [
+            "Laura Dern",
+            "PERSON",
+            "Win",
+            "Best Supporting Actress",
+            "EVENT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Star",
+            "Big Little Lies",
+            "EVENT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Co-producer",
+            "Big Little Lies",
+            "EVENT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Spearhead",
+            "Time\u2019s Up campaign",
+            "EVENT"
+        ],
+        [
+            "Laura Dern",
+            "PERSON",
+            "Spearhead",
+            "Time\u2019s Up campaign",
+            "EVENT"
+        ],
+        [
+            "Big Little Lies",
+            "EVENT",
+            "Relate_To",
+            "Time\u2019s Up campaign",
+            "EVENT"
+        ],
+        [
+            "Big Little Lies",
+            "EVENT",
+            "About",
+            "Life of women",
+            "CONCEPT"
+        ],
+        [
+            "Big Little Lies",
+            "EVENT",
+            "Impact",
+            "Abuse and harassment conversation",
+            "CONCEPT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "See",
+            "People feeling silenced",
+            "CONCEPT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Hear",
+            "People feeling silenced",
+            "CONCEPT"
+        ],
+        [
+            "Reese Witherspoon",
+            "PERSON",
+            "Tell",
+            "Stories of people feeling silenced",
+            "CONCEPT"
+        ],
+        [
+            "Nicole Kidman",
+            "PERSON",
+            "Play",
+            "Domestic violence victim",
+            "CONCEPT"
+        ],
+        [
+            "Nicole Kidman",
+            "PERSON",
+            "Help",
+            "Spearhead Time\u2019s Up campaign",
+            "EVENT"
+        ],
+        [
+            "Laura Dern",
+            "PERSON",
+            "Help",
+            "Spearhead Time\u2019s Up campaign",
+            "EVENT"
+        ],
+        [
+            "The Marvelous Mrs. Maisel",
+            "EVENT",
+            "Win",
+            "Best TV Comedy",
+            "EVENT"
+        ],
+        [
+            "Rachel Brosnahan",
+            "PERSON",
+            "Win",
+            "Best TV Comedy Actress",
+            "EVENT"
+        ],
+        [
+            "Rachel Brosnahan",
+            "PERSON",
+            "Newcomer",
+            "The Marvelous Mrs. Maisel",
+            "EVENT"
+        ],
+        [
+            "Rachel Brosnahan",
+            "PERSON",
+            "Champion",
+            "Women\u2019s stories",
+            "CONCEPT"
+        ],
+        [
+            "Amazon Studios",
+            "ORG",
+            "Produce",
+            "The Marvelous Mrs. Maisel",
+            "EVENT"
+        ]
+    ]
+}

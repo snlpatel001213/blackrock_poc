@@ -1,0 +1,51 @@
+{
+    "output": [
+        [
+            "Forward Air Corporation",
+            "COMP",
+            "Announce",
+            "Election",
+            "EVENT"
+        ],
+        [
+            "Valerie A. Bonebrake",
+            "PERSON",
+            "Elected",
+            "New Independent Director",
+            "EVENT",
+            "For",
+            "Forward Air Corporation",
+            "COMP"
+        ],
+        [
+            "Forward Air",
+            "COMP",
+            "Is_Member_Of",
+            "Nine Members",
+            "CONCEPT"
+        ],
+        [
+            "Forward Air",
+            "COMP",
+            "Following",
+            "Election of Valerie A. Bonebrake",
+            "EVENT",
+            "Board will consist of",
+            "Nine Members",
+            "CONCEPT"
+        ],
+        [
+            "Nine Members",
+            "CONCEPT",
+            "Of which",
+            "Eight",
+            "NUMBER",
+            "Are",
+            "Non-Management Directors",
+            "CONCEPT",
+            "For",
+            "Forward Air",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Nordson ASYMTEK",
+            "COMP",
+            "Acquire",
+            "Progressive Cavity Pump",
+            "PRODUCT"
+        ],
+        [
+            "Nordson ASYMTEK",
+            "COMP",
+            "Operate_In",
+            "Electronics Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Infiniti Dosing",
+            "COMP",
+            "Has",
+            "Progressive Cavity Pump",
+            "PRODUCT"
+        ],
+        [
+            "Infiniti Dosing",
+            "COMP",
+            "Is_Member_Of",
+            "Electronics Manufacturing",
+            "SECTOR"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Relate_To",
+            "Highly Viscous Fluids",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Relate_To",
+            "Abrasive Fluids",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Relate_To",
+            "Mini and Micro Levels",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Silicones",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "MS Polymers",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Solder Pastes",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "MMAs",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Epoxy Resins",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Potting Compounds",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Sealants",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "2-Component Adhesives",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Thermally Conductive Adhesives",
+            "CONCEPT"
+        ],
+        [
+            "Progressive Cavity Pump",
+            "PRODUCT",
+            "Produce",
+            "Electrically Conductive Adhesives",
+            "CONCEPT"
+        ],
+        [
+            "Jean-Claude Tytgat",
+            "PERSON",
+            "Participates_In",
+            "Infiniti Dosing",
+            "COMP"
+        ],
+        [
+            "Jean-Claude Tytgat",
+            "PERSON",
+            "Participates_In",
+            "Nordson ASYMTEK",
+            "COMP"
+        ],
+        [
+            "Jean-Claude Tytgat",
+            "PERSON",
+            "Control",
+            "Product Development",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,277 @@
+{
+    "output": [
+        [
+            "Macmillan",
+            "ORG",
+            "Has",
+            "Fire and Fury",
+            "PRODUCT"
+        ],
+        [
+            "Fire and Fury",
+            "PRODUCT",
+            "Available",
+            "Bookstores",
+            "GPE"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Owns",
+            "Henry Holt and Co.",
+            "ORG"
+        ],
+        [
+            "Henry Holt and Co.",
+            "ORG",
+            "Publish",
+            "Fire and Fury",
+            "PRODUCT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Attempt",
+            "Stop",
+            "VERB"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Demand",
+            "Cease",
+            "VERB"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Demand",
+            "Desist",
+            "VERB"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Intimidate",
+            "Publisher",
+            "ORG"
+        ],
+        [
+            "Publisher",
+            "ORG",
+            "Name",
+            "Macmillan",
+            "ORG"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Blast",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Say",
+            "Demand",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Say",
+            "Clear Example",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Say",
+            "Prior Restraint",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Say",
+            "Flagrantly Unconstitutional",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Cite",
+            "Several Court Cases",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Make",
+            "Case",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Make",
+            "Case",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Make",
+            "Case",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Cite",
+            "Trio of Supreme Court Cases",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Cite",
+            "Press Freedom",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Trump\u2019s Actions",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Appalling",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Person",
+            "PERSON"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Sworn",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Protect",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Insistent",
+            "Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "Strongly",
+            "ADV"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "Michael Wolff",
+            "PERSON"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "All Authors",
+            "PERSON"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "All Books",
+            "PRODUCT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Respond",
+            "Future",
+            "TENSE"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Demand",
+            "President Trump",
+            "PERSON"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Demand",
+            "Understand",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Demand",
+            "Abide",
+            "VERB"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Demand",
+            "First Amendment",
+            "CONCEPT"
+        ],
+        [
+            "Fire and Fury",
+            "PRODUCT",
+            "Sell Out",
+            "First Day",
+            "PERIOD"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Rush",
+            "Second Print",
+            "PRODUCT"
+        ],
+        [
+            "Macmillan",
+            "ORG",
+            "Reported",
+            "Now",
+            "TENSE"
+        ]
+    ]
+}

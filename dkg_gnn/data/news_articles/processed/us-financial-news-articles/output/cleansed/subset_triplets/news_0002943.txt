@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Announce",
+            "Full-year and Fourth-quarter 2017 Earnings",
+            "EVENT"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Operate_In",
+            "Professional Markets",
+            "SECTOR"
+        ],
+        [
+            "Jim Smith",
+            "PERSON",
+            "Is_Member_Of",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Stephane Bello",
+            "PERSON",
+            "Is_Member_Of",
+            "Thomson Reuters",
+            "ORG"
+        ],
+        [
+            "Thomson Reuters",
+            "ORG",
+            "Produce",
+            "Webcast",
+            "EVENT"
+        ]
+    ]
+}

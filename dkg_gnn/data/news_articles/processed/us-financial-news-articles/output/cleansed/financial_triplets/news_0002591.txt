@@ -1,0 +1,77 @@
+{
+    "output": [
+        [
+            "DJ Khaled",
+            "PERSON",
+            "Announce",
+            "Weight Watchers\u2019 Freestyle program",
+            "PRODUCT"
+        ],
+        [
+            "Weight Watchers",
+            "COMP",
+            "Has",
+            "Freestyle program",
+            "PRODUCT"
+        ],
+        [
+            "Weight Watchers",
+            "COMP",
+            "Control",
+            "Program-sanctioned foods",
+            "PRODUCT"
+        ],
+        [
+            "DJ Khaled",
+            "PERSON",
+            "Participates_In",
+            "Weight Watchers\u2019, Freestyle program",
+            "PRODUCT"
+        ],
+        [
+            "Weight Watchers",
+            "COMP",
+            "Raise",
+            "9%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Invests_In",
+            "Weight Watchers",
+            "COMP"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Has",
+            "10% stake",
+            "ECON_INDICATOR",
+            "in",
+            "Weight Watchers",
+            "COMP"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Has",
+            "stake worth $309 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Has",
+            "stake worth $293 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Has",
+            "stake worth $433 million",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

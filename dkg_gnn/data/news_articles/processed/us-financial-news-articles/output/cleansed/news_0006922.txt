@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Ottawa Court",
+            "GPE",
+            "Adjourn",
+            "Bail Hearing",
+            "EVENT"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Assault",
+            "null",
+            "null"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Sexual Assault",
+            "null",
+            "null"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Forcible Confinement",
+            "null",
+            "null"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Appear",
+            "Next Appearance",
+            "EVENT"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Wearing",
+            "Orange Prison Jumpsuit",
+            "PRODUCT"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Impose",
+            "Publication Ban",
+            "EVENT"
+        ],
+        [
+            "Media",
+            "ORG",
+            "Prohibit",
+            "Reporting",
+            "EVENT"
+        ],
+        [
+            "Media",
+            "ORG",
+            "Report",
+            "Information",
+            "EVENT"
+        ],
+        [
+            "Media",
+            "ORG",
+            "Identify",
+            "Victims or Witnesses",
+            "PERSON"
+        ],
+        [
+            "Caitlan Coleman",
+            "PERSON",
+            "Backpacking",
+            "Afghanistan",
+            "GPE"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Return",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Three Children",
+            "null",
+            "null"
+        ],
+        [
+            "Joshua Boyle",
+            "PERSON",
+            "Captivity",
+            "Haqqani Network",
+            "ORG"
+        ],
+        [
+            "Taliban",
+            "ORG",
+            "Deny",
+            "Rape and Murder",
+            "CONCEPT"
+        ],
+        [
+            "Haqqani Network",
+            "ORG",
+            "Allied",
+            "Taliban",
+            "ORG"
+        ]
+    ]
+}

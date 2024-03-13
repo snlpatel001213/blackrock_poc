@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "McCall, Idaho",
+            "GPE",
+            "Has",
+            "glacial lake",
+            "CONCEPT"
+        ],
+        [
+            "McCall, Idaho",
+            "GPE",
+            "Has",
+            "powdery ski slopes",
+            "CONCEPT"
+        ],
+        [
+            "Sun Valley",
+            "GPE",
+            "Participates_In",
+            "Allen & Co. Summer Conference",
+            "EVENT"
+        ],
+        [
+            "Ketchum, Idaho",
+            "GPE",
+            "Participates_In",
+            "Allen & Co. Summer Conference",
+            "EVENT"
+        ]
+    ]
+}

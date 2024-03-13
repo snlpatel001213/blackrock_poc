@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Urge",
+            "Iranian Security Forces",
+            "ORG"
+        ],
+        [
+            "Iranian Security Forces",
+            "ORG",
+            "Restraint",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Call",
+            "Tehran",
+            "GPE"
+        ],
+        [
+            "Tehran",
+            "GPE",
+            "Restore",
+            "Access",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Restore",
+            "Social Media Sites",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Restrict",
+            "Social Media Sites",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Restrict",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Restrict",
+            "News Sites",
+            "ORG"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Support",
+            "Iranian People",
+            "PERSON"
+        ],
+        [
+            "Iranian People",
+            "PERSON",
+            "Voices",
+            "Heard",
+            "CONCEPT"
+        ],
+        [
+            "Tehran",
+            "GPE",
+            "Restore",
+            "Social Media",
+            "ORG"
+        ],
+        [
+            "Restoring",
+            "CONCEPT",
+            "Important",
+            "Thing",
+            "CONCEPT"
+        ],
+        [
+            "Tehran",
+            "GPE",
+            "Restore",
+            "Access",
+            "ORG"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Restrict",
+            "Access",
+            "ORG"
+        ]
+    ]
+}

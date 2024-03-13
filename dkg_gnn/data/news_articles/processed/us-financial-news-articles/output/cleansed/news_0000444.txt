@@ -1,0 +1,278 @@
+{
+    "output": [
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Operate_In",
+            "Emerging Markets",
+            "GPE"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Has",
+            "Tiny App Size",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Relate_To",
+            "Portal-like Approach",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Show",
+            "News",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Show",
+            "Sports Scores",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Alibaba",
+            "ORG"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Control",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Own",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Located_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Use",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Say",
+            "UC Browser Faster",
+            "CONCEPT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Say",
+            "UC Browser Take Less Memory",
+            "CONCEPT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Say",
+            "UC Browser Look Better",
+            "CONCEPT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Compare",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Rizky Ari Prasetya",
+            "PERSON",
+            "Compare",
+            "Chrome",
+            "PRODUCT"
+        ],
+        [
+            "Hundreds of millions",
+            "QUANTITY",
+            "Use",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Hundreds of millions",
+            "QUANTITY",
+            "In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Hundreds of millions",
+            "QUANTITY",
+            "In",
+            "Indonesia",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Has",
+            "1.3 Billion People",
+            "QUANTITY"
+        ],
+        [
+            "India",
+            "GPE",
+            "Has",
+            "30 Percent Online",
+            "QUANTITY"
+        ],
+        [
+            "Indonesia",
+            "GPE",
+            "Has",
+            "260 Million People",
+            "QUANTITY"
+        ],
+        [
+            "Indonesia",
+            "GPE",
+            "Has",
+            "25 Percent Online",
+            "QUANTITY"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Has",
+            "More Than 430 Million Users",
+            "QUANTITY"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Accounted",
+            "51 Percent",
+            "QUANTITY"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Accounted",
+            "430 Million Users",
+            "QUANTITY",
+            "World-wide"
+        ],
+        [
+            "Chrome",
+            "PRODUCT",
+            "Accounted",
+            "30 Percent",
+            "QUANTITY"
+        ],
+        [
+            "Chrome",
+            "PRODUCT",
+            "Accounted",
+            "1 Billion Users",
+            "QUANTITY",
+            "World-wide"
+        ],
+        [
+            "Chrome",
+            "PRODUCT",
+            "Has",
+            "47 Percent",
+            "QUANTITY",
+            "Global Market Share"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Has",
+            "16 Percent",
+            "QUANTITY",
+            "Global Market Share"
+        ],
+        [
+            "Chrome",
+            "PRODUCT",
+            "Has",
+            "39 Percent",
+            "QUANTITY",
+            "Market Share",
+            "US"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Has",
+            "Less Than 1 Percent",
+            "QUANTITY",
+            "Market Share",
+            "US"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Make",
+            "Chrome",
+            "PRODUCT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "ORG",
+            "Make",
+            "Safari Browser",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "International Telecommunication Union",
+            "ORG",
+            "Has",
+            "United Nations Body",
+            "ORG"
+        ],
+        [
+            "International Telecommunication Union",
+            "ORG",
+            "Has",
+            "Statistic",
+            "CONCEPT"
+        ]
+    ]
+}

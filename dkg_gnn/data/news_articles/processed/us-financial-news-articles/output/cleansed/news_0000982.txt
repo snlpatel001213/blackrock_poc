@@ -1,0 +1,193 @@
+{
+    "output": [
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Participates_In",
+            "Libor-related conduct",
+            "CONCEPT"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Challenge",
+            "FCA ban",
+            "ORG/REG"
+        ],
+        [
+            "UBS",
+            "COMP",
+            "Employ",
+            "Arif Hussein",
+            "PERSON"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Plan",
+            "Ban",
+            "Arif Hussein",
+            "PERSON"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Deny",
+            "Dishonesty and reckless behavior",
+            "CONCEPT"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Allege",
+            "Communications with colleagues about Libor rates were routine and consistent with good practice",
+            "CONCEPT"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Mandated",
+            "Actions by managers",
+            "PERSON"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Senior managers",
+            "PERSON",
+            "Sanctioned",
+            "Actions"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Policy of the bank",
+            "COMP",
+            "Follow"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Not reckless",
+            "Follow senior management instructions",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Decline",
+            "Comment"
+        ],
+        [
+            "UBS",
+            "COMP",
+            "Decline",
+            "Comment"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Open",
+            "Burger restaurant in London",
+            "GPE"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Leave",
+            "UBS",
+            "COMP",
+            "2009"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Case",
+            "Heard by Upper Tribunal",
+            "ORG"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Notice",
+            "Challenged by Arif Hussein",
+            "PERSON"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "April 2016",
+            "Announce",
+            "Proposed ban on Arif Hussein",
+            "PERSON"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Understand",
+            "Libor submissions should not be made for the benefit of trading positions",
+            "CONCEPT"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Close",
+            "Mind to the risk",
+            "Consequence of actions",
+            "CONCEPT"
+        ],
+        [
+            "Arif Hussein",
+            "PERSON",
+            "Act",
+            "Recklessly and lack integrity",
+            "CONCEPT"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Fine",
+            "Financial institutions",
+            "SECTOR",
+            "Amount",
+            "$9.0 billion"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Charge",
+            "About 30 people",
+            "PERSON"
+        ],
+        [
+            "Libor",
+            "CONCEPT",
+            "Determine",
+            "Rates on trillions of loans and financial contracts globally",
+            "CONCEPT"
+        ],
+        [
+            "FCA",
+            "ORG/REG",
+            "Along with U.S. and Swiss counterparts",
+            "Fine",
+            "UBS",
+            "COMP",
+            "Amount",
+            "$1.5 billion"
+        ],
+        [
+            "UBS",
+            "COMP",
+            "Regret",
+            "Inappropriate and unethical behavior",
+            "CONCEPT"
+        ],
+        [
+            "Case",
+            "Arif Hussein vs FCA",
+            "Listed",
+            "Until Jan 9"
+        ]
+    ]
+}

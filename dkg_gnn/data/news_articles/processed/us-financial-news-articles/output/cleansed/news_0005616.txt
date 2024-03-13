@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "American politics",
+            "CONCEPT",
+            "Participates_In",
+            "November Election",
+            "EVENT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Predict",
+            "2018 Favor Democrats",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Has",
+            "Good Chance",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Control",
+            "House",
+            "GPE"
+        ],
+        [
+            "House",
+            "GPE",
+            "Participates_In",
+            "November Election",
+            "EVENT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Within Reach",
+            "Senate Majority",
+            "SECTOR"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Defend",
+            "Three Times as Many Seats",
+            "CONCEPT"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Defend",
+            "Seats",
+            "CONCEPT"
+        ],
+        [
+            "Upper Chamber",
+            "GPE",
+            "Relate_To",
+            "Senate Majority",
+            "SECTOR"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Proclaim",
+            "Majority Permanent",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Impact",
+            "President Trump",
+            "PERSON"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Emerge",
+            "Triumphalist",
+            "CONCEPT"
+        ]
+    ]
+}

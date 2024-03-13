@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "HealthSouth Corporation",
+            "ORG",
+            "Has",
+            "Encompass Health Corporation",
+            "ORG"
+        ],
+        [
+            "Encompass Health Corporation",
+            "ORG",
+            "Operate_In",
+            "Inpatient rehabilitation hospitals",
+            "SECTOR"
+        ],
+        [
+            "Encompass Health Corporation",
+            "ORG",
+            "Operate_In",
+            "Home-based care",
+            "SECTOR"
+        ]
+    ]
+}

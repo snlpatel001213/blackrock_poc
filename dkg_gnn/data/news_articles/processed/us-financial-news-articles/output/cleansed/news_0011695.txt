@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Republicans",
+            "ORG/POL",
+            "Has",
+            "tax reform",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Talk_Over",
+            "good economic news",
+            "CONCEPT"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Announce",
+            "relocate factory",
+            "COMP"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Operate_In",
+            "Warren, Mich.",
+            "GPE"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Control",
+            "2,500 American jobs",
+            "CONCEPT"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Announce",
+            "$2,000 in bonuses",
+            "CONCEPT"
+        ],
+        [
+            "Fiat Chrysler",
+            "COMP",
+            "Relate_To",
+            "new Republican tax bill",
+            "EVENT"
+        ],
+        [
+            "new Republican tax bill",
+            "EVENT",
+            "Control",
+            "Mr. Trump",
+            "PERSON"
+        ]
+    ]
+}

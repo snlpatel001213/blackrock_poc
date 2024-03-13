@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "HNA Group Co.",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "HNA Group Co.",
+            "ORG",
+            "Control",
+            "Employees",
+            "PERSON"
+        ],
+        [
+            "HNA Group Co.",
+            "ORG",
+            "Control",
+            "Individual Investors",
+            "PERSON"
+        ],
+        [
+            "HNA Group Co.",
+            "ORG",
+            "Raise",
+            "Loans",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Employees",
+            "PERSON",
+            "Participates_In",
+            "Internet-lending Platform",
+            "COMP"
+        ],
+        [
+            "Individual Investors",
+            "PERSON",
+            "Participates_In",
+            "Internet-lending Platform",
+            "COMP"
+        ],
+        [
+            "HNA Group Co.",
+            "ORG",
+            "Negative_Impact_On",
+            "Loan Repayment",
+            "CONCEPT"
+        ],
+        [
+            "HNA Unit",
+            "ORG",
+            "Announce",
+            "Payment Delay",
+            "CONCEPT"
+        ]
+    ]
+}

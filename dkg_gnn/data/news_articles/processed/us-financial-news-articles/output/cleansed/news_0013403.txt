@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "U.S. immigration agents",
+            "ORG/GOV",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "7-Eleven",
+            "COMP",
+            "Targeted",
+            "Immigration Operation",
+            "EVENT"
+        ],
+        [
+            "21",
+            "ECON_INDICATOR",
+            "Arrest",
+            "People",
+            "PERSON"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Suspected",
+            "Being",
+            "CONCEPT",
+            "In",
+            "Country",
+            "GPE",
+            "Illegally"
+        ],
+        [
+            "7-Eleven",
+            "COMP",
+            "Give",
+            "Owners",
+            "PERSON",
+            "Tight",
+            "Deadline",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Owners",
+            "PERSON",
+            "Prove",
+            "Employees",
+            "PERSON",
+            "Authorized",
+            "Work",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

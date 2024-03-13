@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "National Instruments",
+            "ORG",
+            "Announce",
+            "Q4 2017 Earnings Call",
+            "EVENT"
+        ],
+        [
+            "National Instruments",
+            "ORG",
+            "Operate_In",
+            "AUSTIN, Texas",
+            "GPE"
+        ],
+        [
+            "National Instruments",
+            "ORG",
+            "Has",
+            "Nasdaq: NATI",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "National Instruments",
+            "ORG",
+            "Participates_In",
+            "20th Annual Needham Growth Conference",
+            "EVENT"
+        ],
+        [
+            "National Instruments",
+            "ORG",
+            "Operate_In",
+            "New York, NY",
+            "GPE"
+        ],
+        [
+            "National Instruments",
+            "ORG",
+            "Has",
+            "ni.com",
+            "PRODUCT"
+        ],
+        [
+            "Q4 2017 Earnings Call",
+            "EVENT",
+            "Relate_To",
+            "National Instruments",
+            "ORG"
+        ],
+        [
+            "20th Annual Needham Growth Conference",
+            "EVENT",
+            "Relate_To",
+            "National Instruments",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Australia",
+            "GPE",
+            "Operate_In",
+            "Ashes test match",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Participates_In",
+            "Ashes test match",
+            "EVENT"
+        ],
+        [
+            "Sydney Cricket Ground",
+            "GPE",
+            "Locate_In",
+            "Ashes test match",
+            "EVENT"
+        ],
+        [
+            "Shaun Marsh",
+            "PERSON",
+            "Score",
+            "156",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mitchell Marsh",
+            "PERSON",
+            "Score",
+            "101",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nathan Lyon",
+            "PERSON",
+            "Bowl",
+            "Alastair Cook",
+            "PERSON"
+        ],
+        [
+            "James Vince",
+            "PERSON",
+            "Score",
+            "18",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dawid Malan",
+            "PERSON",
+            "Score",
+            "5",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Joe Root",
+            "PERSON",
+            "Score",
+            "42",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jonny Bairstow",
+            "PERSON",
+            "Score",
+            "17",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Moeen Ali",
+            "PERSON",
+            "Bowl",
+            "Shaun Marsh",
+            "PERSON"
+        ],
+        [
+            "Mitchell Starc",
+            "PERSON",
+            "Bowl",
+            "Mark Stoneman",
+            "PERSON"
+        ],
+        [
+            "Tom Curran",
+            "PERSON",
+            "Bowl",
+            "Mitchell Marsh",
+            "PERSON"
+        ],
+        [
+            "Usman Khawaja",
+            "PERSON",
+            "Score",
+            "171",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Stoneman",
+            "PERSON",
+            "Direct hit",
+            "Shaun Marsh",
+            "PERSON"
+        ],
+        [
+            "Mark Stoneman",
+            "PERSON",
+            "Score",
+            "0",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alastair Cook",
+            "PERSON",
+            "Score",
+            "10",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cook",
+            "PERSON",
+            "Become",
+            "12000 runs scorer",
+            "CONCEPT"
+        ],
+        [
+            "Mitchell Starc",
+            "PERSON",
+            "Bowl",
+            "Cook",
+            "PERSON"
+        ],
+        [
+            "Pat Cummins",
+            "PERSON",
+            "Bowl",
+            "James Vince",
+            "PERSON"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Catch",
+            "Vince",
+            "PERSON"
+        ],
+        [
+            "Nathan Lyon",
+            "PERSON",
+            "Bowl",
+            "Dawid Malan",
+            "PERSON"
+        ],
+        [
+            "Paul Farbrace",
+            "PERSON",
+            "Talk",
+            "England assistant coach",
+            "POSITION"
+        ],
+        [
+            "England",
+            "GPE",
+            "Keep on fighting and battling",
+            "Ashes test match",
+            "EVENT"
+        ]
+    ]
+}

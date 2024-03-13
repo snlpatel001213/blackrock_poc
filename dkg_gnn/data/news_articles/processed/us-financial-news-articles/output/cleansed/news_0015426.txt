@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Announce",
+            "Humphrey Singer",
+            "PERSON"
+        ],
+        [
+            "Humphrey Singer",
+            "PERSON",
+            "Join",
+            "Marks & Spencer",
+            "COMP"
+        ],
+        [
+            "Humphrey Singer",
+            "PERSON",
+            "FD",
+            "Dixons Carphone",
+            "COMP"
+        ],
+        [
+            "Marks & Spencer",
+            "COMP",
+            "Operate_In",
+            "London",
+            "GPE"
+        ]
+    ]
+}

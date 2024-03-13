@@ -1,0 +1,62 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "Mark Zuckerberg",
+            "PERSON"
+        ],
+        [
+            "Snap",
+            "COMP",
+            "Has",
+            "Evan Spiegel",
+            "PERSON"
+        ],
+        [
+            "Salesforce",
+            "COMP",
+            "Has",
+            "Marc Benioff",
+            "PERSON"
+        ],
+        [
+            "Twitter",
+            "COMP",
+            "Has",
+            "Evan Williams",
+            "PERSON"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Raise",
+            "$8 Million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Maven",
+            "COMP",
+            "Operate_In",
+            "Seattle",
+            "GPE"
+        ],
+        [
+            "HubPages",
+            "COMP",
+            "Has",
+            "32 Employees",
+            "PERSON"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Control",
+            "About_Two_Thirds",
+            "ECON_INDICATOR",
+            "US Digital Ad Market",
+            "SECTOR"
+        ]
+    ]
+}

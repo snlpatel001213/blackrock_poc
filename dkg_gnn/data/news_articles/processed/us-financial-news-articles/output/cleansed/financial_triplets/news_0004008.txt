@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Raise",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Arctic Ice",
+            "CONCEPT"
+        ],
+        [
+            "2016",
+            "ECON_INDICATOR",
+            "Raise",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "2016",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "El Nino",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Raise",
+            "Temperature",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Water Supplies",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Wildfires",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Has",
+            "Insurance Claims",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "ECON_INDICATOR",
+            "Has",
+            "Total Losses",
+            "CONCEPT"
+        ],
+        [
+            "2011",
+            "ECON_INDICATOR",
+            "Has",
+            "Worst Losses",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "output": [
+        [
+            "Japan Retail Fund Investment Corp.",
+            "COMP",
+            "Plan",
+            "take out loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Japan Retail Fund Investment Corp.",
+            "COMP",
+            "Borrow",
+            "2 billion yen",
+            "ECON_INDICATOR",
+            "From",
+            "Mizuho Bank",
+            "COMP"
+        ],
+        [
+            "Mizuho Bank",
+            "COMP",
+            "Lend",
+            "2 billion yen",
+            "ECON_INDICATOR",
+            "To",
+            "Japan Retail Fund Investment Corp.",
+            "COMP"
+        ],
+        [
+            "Mizuho Bank",
+            "COMP",
+            "Charge",
+            "0.64300 percent",
+            "ECON_INDICATOR",
+            "As",
+            "interest rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Japan Retail Fund Investment Corp.",
+            "COMP",
+            "Disclose",
+            "previous news",
+            "EVENT",
+            "On",
+            "Nov. 27, 2017",
+            "DATE"
+        ]
+    ]
+}

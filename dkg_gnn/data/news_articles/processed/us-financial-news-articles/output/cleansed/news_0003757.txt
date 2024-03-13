@@ -1,0 +1,196 @@
+{
+    "output": [
+        [
+            "GroundTruth",
+            "ORG",
+            "Appoint",
+            "Eric Hadley",
+            "PERSON"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Has",
+            "20 years of marketing and sales leadership experience",
+            "CONCEPT"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Operate_In",
+            "Microsoft",
+            "ORG"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Position",
+            "The Weather Channel",
+            "ORG",
+            "For",
+            "Strong Success"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Position",
+            "Pinterest",
+            "ORG",
+            "For",
+            "Strong Success"
+        ],
+        [
+            "Microsoft",
+            "ORG",
+            "Position",
+            "Outbrain",
+            "ORG",
+            "For",
+            "Strong Success"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Serve_As",
+            "President",
+            "ORG",
+            "Of",
+            "Mission"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Receive",
+            "Industry-Wide Recognition",
+            "CONCEPT",
+            "As",
+            "American Advertising Federation Hall of Achievement Winner"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Receive",
+            "Industry-Wide Recognition",
+            "CONCEPT",
+            "As",
+            "Ad Age Media Maven"
+        ],
+        [
+            "GroundTruth",
+            "ORG",
+            "Appoint",
+            "Jeff Hackett",
+            "PERSON"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Drive",
+            "Sales Organization\u2019s Growth",
+            "CONCEPT",
+            "Across",
+            "Key Agencies and Brand Categories"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Track Record",
+            "Growing Media and Mobile Tech Companies",
+            "CONCEPT"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Strengthen",
+            "Company\u2019s Expansion",
+            "CONCEPT",
+            "Into",
+            "New Markets"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Work_With",
+            "Bayer",
+            "ORG"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Work_With",
+            "L\u2019Or\u00e9al",
+            "ORG"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Work_With",
+            "Mercedes-Benz",
+            "ORG"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Work_With",
+            "Reckitt Benckiser Group",
+            "ORG"
+        ],
+        [
+            "Eric Hadley",
+            "PERSON",
+            "Report_To",
+            "Serge Matta",
+            "PERSON"
+        ],
+        [
+            "Jeff Hackett",
+            "PERSON",
+            "Report_To",
+            "Serge Matta",
+            "PERSON"
+        ],
+        [
+            "Serge Matta",
+            "PERSON",
+            "President",
+            "GroundTruth",
+            "ORG"
+        ],
+        [
+            "GroundTruth",
+            "ORG",
+            "Strengthen",
+            "Senior Leadership",
+            "CONCEPT"
+        ],
+        [
+            "Global Demand",
+            "CONCEPT",
+            "Rise",
+            "For",
+            "Location Data and Insights",
+            "CONCEPT",
+            "In",
+            "North America and Abroad"
+        ],
+        [
+            "GroundTruth",
+            "ORG",
+            "Leading",
+            "Global Technology Platform",
+            "CONCEPT",
+            "Driving",
+            "Offline Visits and Sales",
+            "CONCEPT",
+            "By",
+            "Leveraging",
+            "Location",
+            "CONCEPT",
+            "As",
+            "Primary Source",
+            "CONCEPT",
+            "Of",
+            "Intent"
+        ]
+    ]
+}

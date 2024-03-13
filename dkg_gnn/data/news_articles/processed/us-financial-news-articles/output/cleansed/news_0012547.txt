@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Amplyx Pharmaceuticals",
+            "COMP",
+            "Appoint",
+            "Alan Fuhrman",
+            "PERSON"
+        ],
+        [
+            "Alan Fuhrman",
+            "PERSON",
+            "Operate_In",
+            "Amplyx Pharmaceuticals",
+            "COMP"
+        ],
+        [
+            "Ciara Kennedy",
+            "PERSON",
+            "Is_Member_Of",
+            "Amplyx Pharmaceuticals",
+            "COMP"
+        ],
+        [
+            "Ciara Kennedy",
+            "PERSON",
+            "Present",
+            "J.P. Morgan 36th Annual Healthcare Conference",
+            "EVENT"
+        ],
+        [
+            "Amplyx Pharmaceuticals",
+            "COMP",
+            "Develop",
+            "APX001",
+            "PRODUCT"
+        ],
+        [
+            "APX001",
+            "PRODUCT",
+            "Inhibit",
+            "Gwt1",
+            "CONCEPT"
+        ],
+        [
+            "APX001",
+            "PRODUCT",
+            "Compromise",
+            "growth",
+            "CONCEPT"
+        ],
+        [
+            "APX001",
+            "PRODUCT",
+            "Active",
+            "against",
+            "CONCEPT"
+        ],
+        [
+            "APX001",
+            "PRODUCT",
+            "Show",
+            "broad-spectrum activity",
+            "CONCEPT"
+        ],
+        [
+            "APX001",
+            "PRODUCT",
+            "Complete",
+            "Phase 1 clinical studies",
+            "EVENT"
+        ],
+        [
+            "Amplyx Pharmaceuticals",
+            "COMP",
+            "Plan",
+            "initiate Phase 2 clinical trials",
+            "EVENT"
+        ]
+    ]
+}

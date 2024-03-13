@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Announce",
+            "Expected Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Operate_In",
+            "Energy Delivery",
+            "SECTOR"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Own",
+            "Enable Midstream Partners",
+            "ORG"
+        ],
+        [
+            "Enable Midstream Partners",
+            "ORG",
+            "Control",
+            "Natural Gas and Crude Oil Infrastructure Assets",
+            "SECTOR"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Assume",
+            "Limited Partner Ownership Interest in Enable Midstream",
+            "ORG"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Include",
+            "Amortization of CenterPoint Energy\u2019s Basis Difference in Enable Midstream",
+            "ORG"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Anticipate",
+            "Effective Tax Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Serve",
+            "More than Five Million Metered Customers",
+            "GPE"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Headquartered",
+            "Houston, Texas",
+            "GPE"
+        ]
+    ]
+}

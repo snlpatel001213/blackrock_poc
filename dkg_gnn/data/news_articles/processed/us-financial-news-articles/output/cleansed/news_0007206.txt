@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Set_Aside",
+            "Order",
+            "EVENT"
+        ],
+        [
+            "Order",
+            "EVENT",
+            "Relate_To",
+            "Larger Tobacco Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Impact",
+            "Tobacco Industry",
+            "ORG"
+        ],
+        [
+            "Tobacco Industry",
+            "ORG",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Tobacco Packages",
+            "PRODUCT",
+            "Has",
+            "Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Health Warnings",
+            "CONCEPT",
+            "Cover",
+            "Surface",
+            "PRODUCT"
+        ],
+        [
+            "Karnataka Court",
+            "ORG/GOV",
+            "Strike_Down",
+            "Federal Government Rules",
+            "ORG/REG"
+        ],
+        [
+            "Federal Government Rules",
+            "ORG/REG",
+            "Mandate",
+            "Larger Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco-Control Activists",
+            "PERSON",
+            "Petition",
+            "Supreme Court",
+            "ORG/GOV"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Stay",
+            "Karnataka Court Order",
+            "EVENT"
+        ],
+        [
+            "Health Advocates",
+            "PERSON",
+            "Relief",
+            "Supreme Court Decision",
+            "EVENT"
+        ],
+        [
+            "Federal Health Ministry",
+            "ORG/GOV",
+            "Same",
+            "Health Advocates",
+            "PERSON"
+        ],
+        [
+            "Tobacco-Related Illnesses",
+            "CONCEPT",
+            "Die",
+            "900,000 People",
+            "PERSON"
+        ],
+        [
+            "India",
+            "GPE",
+            "Estimate",
+            "Tobacco-Related Illnesses",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco Packaging Rules",
+            "PRODUCT",
+            "Among",
+            "Worlds Most Stringent",
+            "CONCEPT"
+        ],
+        [
+            "Government Survey",
+            "ORG/GOV",
+            "Find",
+            "62 Percent Of Cigarette Smokers",
+            "PERSON"
+        ],
+        [
+            "Cigarette Smokers",
+            "PERSON",
+            "Thought",
+            "Quitting",
+            "VERB"
+        ],
+        [
+            "Health Warning Measures",
+            "CONCEPT",
+            "Protest",
+            "Cigarette Makers",
+            "ORG"
+        ],
+        [
+            "Cigarette Makers",
+            "ORG",
+            "Include",
+            "ITC Ltd",
+            "COMP"
+        ],
+        [
+            "Cigarette Makers",
+            "ORG",
+            "Include",
+            "Philip Morris International Inc",
+            "COMP"
+        ],
+        [
+            "Cigarette Makers",
+            "ORG",
+            "Include",
+            "Godfrey Phillips India Ltd",
+            "COMP"
+        ],
+        [
+            "Industry Executives",
+            "PERSON",
+            "Attend",
+            "Courtroom",
+            "PRODUCT"
+        ],
+        [
+            "Courtroom",
+            "PRODUCT",
+            "Packed",
+            "Courtroom",
+            "PRODUCT"
+        ],
+        [
+            "Health Warning Pictures",
+            "PRODUCT",
+            "Used",
+            "Cigarette Packs",
+            "PRODUCT"
+        ],
+        [
+            "Kapil Sibal",
+            "PERSON",
+            "Argue",
+            "Industry",
+            "ORG"
+        ],
+        [
+            "Kapil Sibal",
+            "PERSON",
+            "Urge",
+            "Court",
+            "ORG/GOV"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Reduce",
+            "Size",
+            "PRODUCT"
+        ],
+        [
+            "Glass Of Whisky",
+            "PRODUCT",
+            "Absence",
+            "Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General Of India",
+            "PERSON",
+            "Defend",
+            "Governments Stringent Rules",
+            "CONCEPT"
+        ],
+        [
+            "Governments Stringent Rules",
+            "CONCEPT",
+            "One",
+            "Most Progressive",
+            "CONCEPT"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Next",
+            "Hear",
+            "EVENT"
+        ],
+        [
+            "Case",
+            "EVENT",
+            "March 12",
+            "Hear",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Simonds International",
+            "COMP",
+            "Announce",
+            "Wood Fiber Holdings",
+            "ORG/REG"
+        ],
+        [
+            "Burton Saw",
+            "COMP",
+            "Announce",
+            "Wood Fiber Holdings",
+            "ORG/REG"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Has",
+            "12 Facilities",
+            "COMP"
+        ],
+        [
+            "Burton Saw",
+            "COMP",
+            "Produce",
+            "Cutting Tools",
+            "PRODUCT"
+        ],
+        [
+            "Burton Saw",
+            "COMP",
+            "Produce",
+            "Related Equipment",
+            "PRODUCT"
+        ],
+        [
+            "Simonds International",
+            "COMP",
+            "Produce",
+            "Cutting Tools",
+            "PRODUCT"
+        ],
+        [
+            "Simonds International",
+            "COMP",
+            "Produce",
+            "Related Equipment",
+            "PRODUCT"
+        ],
+        [
+            "B.G.R. Saws",
+            "COMP",
+            "Produce",
+            "Cutting Tools",
+            "PRODUCT"
+        ],
+        [
+            "B.G.R. Saws",
+            "COMP",
+            "Produce",
+            "Related Equipment",
+            "PRODUCT"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Control",
+            "Burton Saw",
+            "COMP"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Control",
+            "Simonds International",
+            "COMP"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Control",
+            "B.G.R. Saws",
+            "COMP"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Participates_In",
+            "Primary Wood Fiber Industry",
+            "SECTOR"
+        ],
+        [
+            "Wood Fiber Holdings",
+            "ORG/REG",
+            "Impact",
+            "Industry",
+            "SECTOR"
+        ],
+        [
+            "Simonds International",
+            "COMP",
+            "Is_Member_Of",
+            "Wood Fiber Industry",
+            "SECTOR"
+        ],
+        [
+            "Burton Saw",
+            "COMP",
+            "Is_Member_Of",
+            "Wood Fiber Industry",
+            "SECTOR"
+        ],
+        [
+            "B.G.R. Saws",
+            "COMP",
+            "Is_Member_Of",
+            "Wood Fiber Industry",
+            "SECTOR"
+        ],
+        [
+            "Ray Martino",
+            "PERSON",
+            "Invests_In",
+            "Simonds International",
+            "COMP"
+        ],
+        [
+            "Ray Martino",
+            "PERSON",
+            "Is_Member_Of",
+            "Simonds International",
+            "COMP"
+        ],
+        [
+            "Craig Tompkins",
+            "PERSON",
+            "Invests_In",
+            "Burton Saw",
+            "COMP"
+        ],
+        [
+            "Craig Tompkins",
+            "PERSON",
+            "Is_Member_Of",
+            "Burton Saw",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Fast Money",
+            "CONCEPT",
+            "Participates_In",
+            "J.P. Morgan healthcare conference",
+            "EVENT"
+        ],
+        [
+            "Fast Money",
+            "CONCEPT",
+            "Give",
+            "3 ways to trade biotech",
+            "CONCEPT"
+        ],
+        [
+            "Biotech",
+            "SECTOR",
+            "Relate_To",
+            "3 ways to trade biotech",
+            "CONCEPT"
+        ]
+    ]
+}

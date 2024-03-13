@@ -1,0 +1,141 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Trump International Hotel",
+            "COMP"
+        ],
+        [
+            "Trump International Hotel",
+            "COMP",
+            "Operate_In",
+            "Washington, D.C.",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Mar-a-Lago",
+            "COMP"
+        ],
+        [
+            "Mar-a-Lago",
+            "COMP",
+            "Operate_In",
+            "Florida",
+            "GPE"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Utter",
+            "shithole",
+            "CONCEPT"
+        ],
+        [
+            "shithole",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Haiti",
+            "GPE"
+        ],
+        [
+            "shithole",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Yelp",
+            "COMP",
+            "Has",
+            "Reviewers",
+            "PERSON"
+        ],
+        [
+            "Reviewers",
+            "PERSON",
+            "Use",
+            "shithole",
+            "CONCEPT"
+        ],
+        [
+            "Trump International Hotel",
+            "COMP",
+            "Raise",
+            "One-star Reviews",
+            "CONCEPT"
+        ],
+        [
+            "One-star Reviews",
+            "CONCEPT",
+            "Relate_To",
+            "shithole",
+            "CONCEPT"
+        ],
+        [
+            "Airbnb",
+            "COMP",
+            "Spend",
+            "Ads",
+            "PRODUCT"
+        ],
+        [
+            "Ads",
+            "PRODUCT",
+            "Promote",
+            "Countries",
+            "GPE"
+        ],
+        [
+            "Countries",
+            "GPE",
+            "Denigrated",
+            "President",
+            "PERSON"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Denigrate",
+            "Countries",
+            "GPE"
+        ],
+        [
+            "White House",
+            "COMP",
+            "Initially",
+            "Did not Deny",
+            "VERB"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Claim",
+            "Reports",
+            "CONCEPT",
+            "False"
+        ],
+        [
+            "Washington Post",
+            "COMP",
+            "Report",
+            "Unnamed White House Insiders",
+            "PERSON"
+        ],
+        [
+            "Unnamed White House Insiders",
+            "PERSON",
+            "Say",
+            "Trump",
+            "PERSON",
+            "Said",
+            "shithouse",
+            "CONCEPT"
+        ]
+    ]
+}

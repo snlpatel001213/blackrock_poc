@@ -1,0 +1,35 @@
+{
+    "output": [
+        [
+            "Suhail al-Mazrouei",
+            "PERSON",
+            "Speak_About",
+            "Oil Market",
+            "CONCEPT"
+        ],
+        [
+            "UAE",
+            "GPE",
+            "Has",
+            "Energy Minister",
+            "PERSON"
+        ],
+        [
+            "UAE",
+            "GPE",
+            "Has",
+            "Minister of Energy and Industry",
+            "PERSON"
+        ],
+        [
+            "UAE",
+            "GPE",
+            "Expect",
+            "Balanced Oil Market",
+            "CONCEPT",
+            "In",
+            "2018",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

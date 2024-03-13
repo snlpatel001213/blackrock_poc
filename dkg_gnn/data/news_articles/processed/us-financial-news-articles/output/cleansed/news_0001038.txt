@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Arsene Wenger",
+            "PERSON",
+            "Charged",
+            "English Football Association",
+            "ORG/GOV"
+        ],
+        [
+            "Arsene Wenger",
+            "PERSON",
+            "Remonstrates",
+            "Mike Dean",
+            "PERSON"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Has",
+            "Arsene Wenger",
+            "PERSON"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Surpass",
+            "Alex Ferguson",
+            "PERSON"
+        ],
+        [
+            "Arsenal",
+            "COMP",
+            "Sees out",
+            "2017",
+            "GPE"
+        ],
+        [
+            "West Bromwich Albion",
+            "COMP",
+            "Hosts",
+            "Arsenal",
+            "COMP"
+        ],
+        [
+            "West Bromwich Albion",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Calum Chambers",
+            "PERSON",
+            "Adjudged",
+            "Handling",
+            "CONCEPT"
+        ],
+        [
+            "Jay Rodriguez",
+            "PERSON",
+            "Converts",
+            "Penalty",
+            "CONCEPT"
+        ],
+        [
+            "Mike Dean",
+            "PERSON",
+            "Awards",
+            "Penalty",
+            "CONCEPT"
+        ],
+        [
+            "Mike Dean",
+            "PERSON",
+            "Speaks to",
+            "Arsene Wenger",
+            "PERSON"
+        ]
+    ]
+}

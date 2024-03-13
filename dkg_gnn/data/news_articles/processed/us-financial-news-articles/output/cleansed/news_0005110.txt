@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Experts",
+            "PERSON",
+            "Debate",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Go_For",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Go_For",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "2018",
+            "EVENT",
+            "Occur",
+            "Debate",
+            "CONCEPT"
+        ],
+        [
+            "Liz Bell",
+            "PERSON",
+            "Participates_In",
+            "Debate",
+            "CONCEPT"
+        ],
+        [
+            "Jaguar Growth Partners",
+            "ORG",
+            "Employs",
+            "Liz Bell",
+            "PERSON"
+        ],
+        [
+            "Michael Farr",
+            "PERSON",
+            "Participates_In",
+            "Debate",
+            "CONCEPT"
+        ],
+        [
+            "Farr, Miller & Washington",
+            "ORG",
+            "Employs",
+            "Michael Farr",
+            "PERSON"
+        ],
+        [
+            "Debate",
+            "CONCEPT",
+            "Relate_To",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Debate",
+            "CONCEPT",
+            "Relate_To",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Value",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Growth",
+            "CONCEPT",
+            "Impact",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

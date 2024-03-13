@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "King Salman",
+            "PERSON"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Authorize",
+            "Bonuses and Payouts",
+            "CONCEPT"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Authorize",
+            "Monthly Payment",
+            "CONCEPT"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Authorize",
+            "1,000 Riyals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Civil Servants",
+            "PERSON",
+            "Receive",
+            "Monthly Payment",
+            "CONCEPT"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Authorize",
+            "Payout",
+            "CONCEPT"
+        ],
+        [
+            "Military Personnel",
+            "PERSON",
+            "Receive",
+            "Payout",
+            "CONCEPT"
+        ],
+        [
+            "Military Personnel",
+            "PERSON",
+            "Serve",
+            "Front Lines",
+            "CONCEPT"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Authorize",
+            "Allowance",
+            "CONCEPT"
+        ],
+        [
+            "Retirees",
+            "PERSON",
+            "Receive",
+            "Allowance",
+            "CONCEPT"
+        ],
+        [
+            "Social Security Recipients",
+            "PERSON",
+            "Receive",
+            "Allowance",
+            "CONCEPT"
+        ],
+        [
+            "Students",
+            "PERSON",
+            "Receive",
+            "Boosted Stipends",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Bear",
+            "Cost",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Pay",
+            "Salaries",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Issue",
+            "Electricity Bills",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Introduce",
+            "5 Percent VAT",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Raise",
+            "Price of Electricity",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Reduce",
+            "Subsidies on Gasoline",
+            "CONCEPT"
+        ],
+        [
+            "Gasoline",
+            "PRODUCT",
+            "Price",
+            "Doubled",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Twitter",
+            "COMP",
+            "Hashtag",
+            "Garner",
+            "CONCEPT"
+        ],
+        [
+            "Hashtag",
+            "CONCEPT",
+            "Complain",
+            "Salaries",
+            "CONCEPT"
+        ],
+        [
+            "Hashtag",
+            "CONCEPT",
+            "Complain",
+            "Cost of Living",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Institute",
+            "Welfare System",
+            "CONCEPT"
+        ],
+        [
+            "Welfare System",
+            "CONCEPT",
+            "Reach",
+            "3 Million Families",
+            "CONCEPT"
+        ],
+        [
+            "Welfare System",
+            "CONCEPT",
+            "Benefit",
+            "10.6 Million Beneficiaries",
+            "CONCEPT"
+        ],
+        [
+            "Welfare System",
+            "CONCEPT",
+            "Benefit",
+            "Half Saudi Population",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG",
+            "Pay",
+            "Citizen's Account Payments",
+            "CONCEPT"
+        ],
+        [
+            "Citizen's Account Payments",
+            "CONCEPT",
+            "Amount",
+            "32 Billion Riyals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Citizen's Account Payments",
+            "CONCEPT",
+            "Amount",
+            "8.5 Billion Dollars",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

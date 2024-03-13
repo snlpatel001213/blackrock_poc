@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "WISEKEY INTERNATIONAL HOLDING AG",
+            "ORG",
+            "Produce",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "WISEKEY INTERNATIONAL HOLDING AG",
+            "ORG",
+            "Produce",
+            "Software Solutions",
+            "PRODUCT"
+        ],
+        [
+            "Products",
+            "PRODUCT",
+            "Relate_To",
+            "Hardware Bugs",
+            "CONCEPT"
+        ],
+        [
+            "Hardware Bugs",
+            "CONCEPT",
+            "Impact",
+            "WISEKEY INTERNATIONAL HOLDING AG",
+            "ORG"
+        ],
+        [
+            "Hardware Bugs",
+            "CONCEPT",
+            "Include",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Hardware Bugs",
+            "CONCEPT",
+            "Include",
+            "Spectre",
+            "CONCEPT"
+        ]
+    ]
+}

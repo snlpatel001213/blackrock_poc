@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Operate_In",
+            "Oilfield Services Industry",
+            "SECTOR"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Raise",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Decrease",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Weatherford International Plc",
+            "ORG",
+            "Has",
+            "30% Stake",
+            "CONCEPT"
+        ]
+    ]
+}

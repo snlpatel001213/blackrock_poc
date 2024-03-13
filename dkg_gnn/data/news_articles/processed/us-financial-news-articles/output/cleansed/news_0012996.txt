@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Domino\u2019s Pizza Inc",
+            "COMP",
+            "Has",
+            "Patrick Doyle",
+            "PERSON"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Is_Member_Of",
+            "Domino\u2019s Pizza Inc",
+            "COMP"
+        ],
+        [
+            "Domino\u2019s Pizza Inc",
+            "COMP",
+            "Announce",
+            "Patrick Doyle",
+            "PERSON"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Leave",
+            "Domino\u2019s Pizza Inc",
+            "COMP"
+        ],
+        [
+            "Domino\u2019s Pizza Inc",
+            "COMP",
+            "Has",
+            "Richard Allison",
+            "PERSON"
+        ],
+        [
+            "Richard Allison",
+            "PERSON",
+            "Operate_In",
+            "International Business",
+            "SECTOR"
+        ],
+        [
+            "International Business",
+            "SECTOR",
+            "Is_Member_Of",
+            "Domino\u2019s Pizza Inc",
+            "COMP"
+        ],
+        [
+            "Domino\u2019s Pizza Inc",
+            "COMP",
+            "Promote",
+            "Russell Weiner",
+            "PERSON"
+        ],
+        [
+            "Russell Weiner",
+            "PERSON",
+            "Operate_In",
+            "USA President",
+            "SECTOR"
+        ],
+        [
+            "USA President",
+            "SECTOR",
+            "Is_Member_Of",
+            "Domino\u2019s Pizza Inc",
+            "COMP"
+        ]
+    ]
+}

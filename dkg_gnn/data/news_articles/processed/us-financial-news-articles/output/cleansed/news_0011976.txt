@@ -1,0 +1,153 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Face",
+            "New Questions",
+            "ORG/GOV"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Handle",
+            "Battery-Related Performance Issues",
+            "CONCEPT"
+        ],
+        [
+            "iPhone",
+            "PRODUCT",
+            "Be",
+            "Center",
+            "O",
+            "Controversy",
+            "CONCEPT"
+        ],
+        [
+            "Sen. John Thune (R., S.D.)",
+            "PERSON",
+            "Press",
+            "Apple",
+            "COMP",
+            "For",
+            "Answers"
+        ],
+        [
+            "Senate Commerce Committee",
+            "ORG/GOV",
+            "Chairman",
+            "Sen. John Thune (R., S.D.)",
+            "PERSON"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Decide",
+            "Throttle Back",
+            "Verb",
+            "iPhone",
+            "PRODUCT",
+            "Performance"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Offer",
+            "Discounted Rates",
+            "CONCEPT",
+            "Last Month"
+        ],
+        [
+            "Paris Prosecutor\u2019s Office",
+            "ORG/GOV",
+            "Open",
+            "Investigation",
+            "CONCEPT",
+            "Apple"
+        ],
+        [
+            "France",
+            "GPE",
+            "Consumer Group",
+            "Stop Programmed Obsolescence",
+            "ORG",
+            "File",
+            "Complaint"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Pressure",
+            "Customers",
+            "VERB",
+            "Buy",
+            "New Phones"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Implement",
+            "Throttling Feature",
+            "CONCEPT",
+            "Across iPhone 6, 6s, SE and 7 Models"
+        ],
+        [
+            "John Terry",
+            "PERSON",
+            "Arrive",
+            "Apple Store",
+            "ORG",
+            "For",
+            "Battery-Replacement Appointment"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Create",
+            "Website",
+            "CONCEPT",
+            "Advise",
+            "People",
+            "Call",
+            "Apple",
+            "COMP",
+            "Support",
+            "ORG",
+            "Before",
+            "Visiting",
+            "Store",
+            "ORG",
+            "For",
+            "Battery",
+            "Replacement"
+        ],
+        [
+            "Barclay\u2019s",
+            "ORG",
+            "Say",
+            "Battery Issues",
+            "CONCEPT",
+            "Have",
+            "Significant",
+            "ADJ",
+            "Financial",
+            "CONCEPT",
+            "Impact",
+            "CONCEPT",
+            "Apple"
+        ],
+        [
+            "John Terry",
+            "PERSON",
+            "Plan",
+            "Replace",
+            "Battery",
+            "VERB",
+            "Instead",
+            "ADP",
+            "New",
+            "ADJ",
+            "iPhone"
+        ]
+    ]
+}

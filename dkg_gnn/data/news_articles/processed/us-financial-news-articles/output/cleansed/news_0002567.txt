@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Raise",
+            "1000 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Participates_In",
+            "Cryptocurrency Space",
+            "SECTOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Regulatory Scrutiny",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Relate_To",
+            "Competition",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones industrial average",
+            "ECON_INDICATOR",
+            "Climb",
+            "25 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Rise",
+            "nearly 20 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Settle",
+            "above $60 mark",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Rise",
+            "in past year",
+            "TIME"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Relate_To",
+            "Indications",
+            "CONCEPT"
+        ],
+        [
+            "Oil",
+            "CONCEPT",
+            "Relate_To",
+            "Tightening",
+            "CONCEPT"
+        ]
+    ]
+}

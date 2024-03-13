@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Aclaris Therapeutics Inc.",
+            "COMP",
+            "Announce",
+            "Positive Results",
+            "EVENT"
+        ],
+        [
+            "Aclaris Therapeutics Inc.",
+            "COMP",
+            "Produce",
+            "A-101 45% Topical Solution",
+            "PRODUCT"
+        ],
+        [
+            "A-101 45% Topical Solution",
+            "PRODUCT",
+            "Impact",
+            "Common Warts",
+            "GPE"
+        ],
+        [
+            "A-101 45% Topical Solution",
+            "PRODUCT",
+            "Meet",
+            "Primary Endpoints",
+            "CONCEPT"
+        ],
+        [
+            "A-101 45% Topical Solution",
+            "PRODUCT",
+            "Meet",
+            "Secondary Endpoints",
+            "CONCEPT"
+        ]
+    ]
+}

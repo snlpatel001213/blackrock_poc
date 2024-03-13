@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "Salem Media Group",
+            "ORG",
+            "Announce",
+            "Lorenzo Caldara",
+            "PERSON"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Operate_In",
+            "Philadelphia cluster",
+            "GPE"
+        ],
+        [
+            "Philadelphia cluster",
+            "GPE",
+            "Consist_Of",
+            "WFIL-AM",
+            "COMP"
+        ],
+        [
+            "Philadelphia cluster",
+            "GPE",
+            "Consist_Of",
+            "WNTP-AM",
+            "COMP"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Prior_Work",
+            "WKXW",
+            "COMP"
+        ],
+        [
+            "WKXW",
+            "COMP",
+            "Industry",
+            "News/Talk",
+            "SECTOR"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Promotion",
+            "General Sales Manager",
+            "TITLE"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Promotion",
+            "Director of Sales",
+            "TITLE"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Promotion",
+            "General Manager",
+            "TITLE"
+        ],
+        [
+            "Lorenzo Caldara",
+            "PERSON",
+            "Promotion",
+            "Vice President/Corporate Director of Sales",
+            "TITLE"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Employ",
+            "Lorenzo Caldara",
+            "PERSON"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Vice President of Operations",
+            "Jeff Reisman",
+            "PERSON"
+        ],
+        [
+            "Jeff Reisman",
+            "PERSON",
+            "Comment",
+            "Lorenzo Caldara is the right leader for this important market",
+            "COMMENT"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Specialize_In",
+            "Christian and conservative content",
+            "CONTENT"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Media_Properties",
+            "Radio",
+            "MEDIA"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Media_Properties",
+            "Digital Media",
+            "MEDIA"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Media_Properties",
+            "Book and Newsletter Publishing",
+            "MEDIA"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Largest Commercial U.S.",
+            "Radio Broadcasting Company",
+            "COMPANY"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Own and/or Operate",
+            "120 radio stations",
+            "COUNT"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Salem Radio Network",
+            "SRN",
+            "NETWORK"
+        ],
+        [
+            "SRN",
+            "NETWORK",
+            "Nationally Syndicated Programs",
+            "Christian teaching and talk, conservative talk, news, and music",
+            "PROGRAMS"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Digital Media",
+            "Leading Source",
+            "SOURCE"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Book Publishing Business",
+            "Regnery Publishing",
+            "PUBLISHING"
+        ],
+        [
+            "Regnery Publishing",
+            "PUBLISHING",
+            "Publish",
+            "Conservative Books",
+            "BOOKS"
+        ],
+        [
+            "Regnery Publishing",
+            "PUBLISHING",
+            "Publish",
+            "Leading Authors",
+            "AUTHORS"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Eagle Financial Publications",
+            "Eagle Financial",
+            "PUBLICATIONS"
+        ],
+        [
+            "Eagle Financial",
+            "PUBLICATIONS",
+            "Provide",
+            "General Market Analysis",
+            "ANALYSIS"
+        ],
+        [
+            "Eagle Financial",
+            "PUBLICATIONS",
+            "Provide",
+            "Non-individualized Investment Strategies",
+            "STRATEGIES"
+        ],
+        [
+            "Eagle Financial",
+            "PUBLICATIONS",
+            "Provide",
+            "Financial Commentators",
+            "COMMENTATORS"
+        ],
+        [
+            "Eagle Financial",
+            "PUBLICATIONS",
+            "Provide",
+            "Stock Screening Website",
+            "WEBSITE"
+        ],
+        [
+            "Salem Media Group",
+            "ORG",
+            "Eagle Wellness",
+            "Eagle Wellness",
+            "WELLNESS"
+        ],
+        [
+            "Eagle Wellness",
+            "WELLNESS",
+            "Provide",
+            "Insightful Health Advice",
+            "ADVICE"
+        ],
+        [
+            "Eagle Wellness",
+            "WELLNESS",
+            "Provide",
+            "High Quality Nutritional Supplements",
+            "SUPPLEMENTS"
+        ],
+        [
+            "Eagle Wellness",
+            "WELLNESS",
+            "Provide",
+            "Leigh Erin Connealy MD",
+            "DOCTOR"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "ORG",
+            "Introduce",
+            "Alexa",
+            "PRODUCT"
+        ],
+        [
+            "Alexa",
+            "PRODUCT",
+            "Operate_In",
+            "Kitchen Appliance",
+            "SECTOR"
+        ],
+        [
+            "Alexa",
+            "PRODUCT",
+            "Relate_To",
+            "Echo Devices",
+            "PRODUCT"
+        ],
+        [
+            "Kitchen Appliance",
+            "ORG",
+            "Participates_In",
+            "New Tools",
+            "ORG"
+        ],
+        [
+            "Microwaves",
+            "PRODUCT",
+            "Has",
+            "Alexa",
+            "PRODUCT"
+        ],
+        [
+            "Microwaves",
+            "PRODUCT",
+            "Has",
+            "New Tools",
+            "ORG"
+        ],
+        [
+            "Ovens",
+            "PRODUCT",
+            "Has",
+            "Alexa",
+            "PRODUCT"
+        ],
+        [
+            "Ovens",
+            "PRODUCT",
+            "Has",
+            "New Tools",
+            "ORG"
+        ],
+        [
+            "LG",
+            "ORG",
+            "Has",
+            "Alexa",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,75 @@
+{
+    "output": [
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Is_Member_Of",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Commit",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Help",
+            "Eddy Cue",
+            "PERSON"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Help",
+            "Tim Cook",
+            "PERSON"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Stay",
+            "Apple Music",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Take",
+            "Apple Music",
+            "PRODUCT",
+            "All_The_Way"
+        ],
+        [
+            "Beats Electronics",
+            "COMP",
+            "Co_Found",
+            "Jimmy Iovine",
+            "PERSON"
+        ],
+        [
+            "Beats Electronics",
+            "COMP",
+            "Co_Found",
+            "Dr Dre",
+            "PERSON"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Buy",
+            "Beats Electronics",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Vest",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

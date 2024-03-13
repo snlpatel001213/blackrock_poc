@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sarah Huckabee Sanders",
+            "PERSON",
+            "Answer",
+            "Questions",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Feud",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Relate_To",
+            "Feud",
+            "ORG/GOV"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Former",
+            "Chief Strategist",
+            "ORG/GOV"
+        ]
+    ]
+}

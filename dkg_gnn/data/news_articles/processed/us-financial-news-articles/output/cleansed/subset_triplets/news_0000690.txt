@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Relate_To",
+            "Immigration",
+            "CONCEPT"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Relate_To",
+            "Legislative Priorities",
+            "CONCEPT"
+        ]
+    ]
+}

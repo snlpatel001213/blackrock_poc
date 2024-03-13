@@ -1,0 +1,79 @@
+{
+    "output": [
+        [
+            "Paul Manafort",
+            "PERSON",
+            "Sue",
+            "Robert Mueller",
+            "PERSON"
+        ],
+        [
+            "Paul Manafort",
+            "PERSON",
+            "Allege",
+            "Mueller",
+            "PERSON",
+            "Exceed",
+            "Authority"
+        ],
+        [
+            "Mueller",
+            "PERSON",
+            "Appoint",
+            "DOJ",
+            "ORG/GOV"
+        ],
+        [
+            "DOJ",
+            "ORG/GOV",
+            "Appoint",
+            "Mueller",
+            "PERSON",
+            "Special Counsel"
+        ],
+        [
+            "Mueller",
+            "PERSON",
+            "Investigate",
+            "Matters",
+            "CONCEPT",
+            "Arise",
+            "Directly",
+            "From",
+            "Investigation"
+        ],
+        [
+            "Manafort",
+            "PERSON",
+            "Indict",
+            "October 27",
+            "EVENT",
+            "On",
+            "12",
+            "Counts",
+            "RELATE_TO",
+            "Unlawful Financial Dealings"
+        ],
+        [
+            "Manafort",
+            "PERSON",
+            "Plead",
+            "Not Guilty",
+            "CONCEPT",
+            "To",
+            "Charges"
+        ],
+        [
+            "Manafort",
+            "PERSON",
+            "Contest",
+            "Charges"
+        ],
+        [
+            "Special Counsel Office",
+            "ORG",
+            "Decline",
+            "Comment"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Tonix Pharmaceuticals Holding Corp",
+            "COMP",
+            "Appoint",
+            "Jessica Morris",
+            "PERSON"
+        ],
+        [
+            "Jessica Morris",
+            "PERSON",
+            "Is_Member_Of",
+            "Tonix Pharmaceuticals Holding Corp",
+            "COMP"
+        ]
+    ]
+}

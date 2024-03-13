@@ -1,0 +1,50 @@
+{
+    "output": [
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Control",
+            "Nelson Peltz",
+            "PERSON"
+        ],
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Participates_In",
+            "Proxy fight",
+            "EVENT",
+            "with",
+            "Procter & Gamble",
+            "GPE"
+        ],
+        [
+            "Procter & Gamble",
+            "GPE",
+            "Participates_In",
+            "Proxy fight",
+            "EVENT",
+            "with",
+            "Trian Fund Management",
+            "ORG"
+        ],
+        [
+            "Nelson Peltz",
+            "PERSON",
+            "Discuss",
+            "Shareholder activism",
+            "CONCEPT",
+            "in",
+            "2018",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nelson Peltz",
+            "PERSON",
+            "Interview",
+            "Reuters Breakingviews Global Editor",
+            "PERSON",
+            "Rob Cox",
+            "PERSON"
+        ]
+    ]
+}

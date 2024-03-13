@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "10000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Fear",
+            "Regulators",
+            "ORG/REG"
+        ],
+        [
+            "Regulators",
+            "ORG/REG",
+            "Control",
+            "Bitcoin",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Impact",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Value",
+            "CONCEPT",
+            "Skyrocket",
+            "Past Year",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "LONDON Stocks",
+            "GPE",
+            "Raise",
+            "U.S. Markets",
+            "GPE"
+        ],
+        [
+            "U.S. Markets",
+            "GPE",
+            "Raise",
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR",
+            "Raise",
+            "U.S. Markets",
+            "GPE"
+        ],
+        [
+            "U.S. Stocks",
+            "GPE",
+            "Negative_Impact_On",
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "U.S. Stocks",
+            "GPE"
+        ],
+        [
+            "U.S. Stocks",
+            "GPE",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Monetary Policy",
+            "CONCEPT",
+            "Control",
+            "Central Bank",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Government Bonds",
+            "FIN_INSTRUMENT",
+            "Has",
+            "U.S. Government Bond Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Stocks",
+            "GPE",
+            "Has",
+            "Higher Valuation",
+            "CONCEPT"
+        ],
+        [
+            "Higher Valuation",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "U.S. Stocks",
+            "GPE"
+        ]
+    ]
+}

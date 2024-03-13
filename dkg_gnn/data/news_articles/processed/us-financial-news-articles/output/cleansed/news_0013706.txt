@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Charles Schumer",
+            "PERSON",
+            "Appoint",
+            "Valerie Grey",
+            "PERSON"
+        ],
+        [
+            "Charles Schumer",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Senate",
+            "ORG/GOV"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Operate_In",
+            "Healthcare sector",
+            "SECTOR"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Work_For",
+            "New York eHealth Collaborative (NYeC)",
+            "ORG"
+        ],
+        [
+            "New York eHealth Collaborative (NYeC)",
+            "ORG",
+            "Lead",
+            "SHIN-NY",
+            "PRODUCT"
+        ],
+        [
+            "SHIN-NY",
+            "PRODUCT",
+            "Participates_In",
+            "Health information exchange",
+            "CONCEPT"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Work_For",
+            "New York State Department of Health",
+            "ORG/GOV"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Formerly_Work_For",
+            "New York State Governor\u2019s office",
+            "ORG/GOV"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Formerly_Work_For",
+            "Industry association representing health systems",
+            "ORG"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Formerly_Work_For",
+            "Large health plan",
+            "COMP"
+        ],
+        [
+            "Valerie Grey",
+            "PERSON",
+            "Formerly_Work_For",
+            "Various state agencies",
+            "ORG/GOV"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Advise_On",
+            "Healthcare infrastructure",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Advise_On",
+            "Interoperability",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Advise_On",
+            "Technology and data use",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Advise_On",
+            "Adoption of HIT",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Impact_On",
+            "Patients",
+            "PERSON"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Impact_On",
+            "Providers",
+            "PERSON"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Impact_On",
+            "Payers",
+            "PERSON"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Impact_On",
+            "Healthcare professionals",
+            "PERSON"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Relate_To",
+            "Patient care coordination",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Relate_To",
+            "Population health initiatives",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Relate_To",
+            "Telemedicine",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Relate_To",
+            "Data reporting",
+            "CONCEPT"
+        ],
+        [
+            "HIT Advisory Committee",
+            "ORG/REG",
+            "Relate_To",
+            "Security provisions",
+            "CONCEPT"
+        ]
+    ]
+}

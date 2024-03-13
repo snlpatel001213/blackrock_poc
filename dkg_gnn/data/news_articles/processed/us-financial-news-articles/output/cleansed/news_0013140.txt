@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "U.S. stock markets",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Growth",
+            "GPE"
+        ],
+        [
+            "U.S. dollar",
+            "CURRENCY",
+            "Negative_Impact_On",
+            "U.S. stock markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Control",
+            "Interest rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of England",
+            "ORG/GOV",
+            "Control",
+            "Interest rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/GOV",
+            "Control",
+            "Stimulus",
+            "CONCEPT"
+        ],
+        [
+            "CFTC Commitment of Traders Report",
+            "REPORT",
+            "Relate_To",
+            "U.S. dollar positioning",
+            "CURRENCY"
+        ],
+        [
+            "Bond market",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Interest rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FAANGs",
+            "COMP",
+            "Repeat",
+            "50 percent-plus performance",
+            "PERCENTAGE"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Relate_To",
+            "Amazonfication",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Aramco",
+            "COMP",
+            "Secure",
+            "Valuation",
+            "VALUE"
+        ],
+        [
+            "Cryptocurrency",
+            "PRODUCT",
+            "Be",
+            "Fairest of them all",
+            "CONCEPT"
+        ]
+    ]
+}

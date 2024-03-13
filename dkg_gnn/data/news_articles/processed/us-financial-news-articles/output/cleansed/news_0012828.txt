@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Czech Republic",
+            "GPE",
+            "Vote_In",
+            "Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Andrej Babis",
+            "PERSON",
+            "Back",
+            "Milos Zeman",
+            "PERSON"
+        ],
+        [
+            "Milos Zeman",
+            "PERSON",
+            "Participates_In",
+            "Presidential Election",
+            "EVENT"
+        ],
+        [
+            "Czech National Bank",
+            "ORG/REG",
+            "Split",
+            "Foreign Exchange Reserves",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Czech National Bank",
+            "ORG/REG",
+            "Manage",
+            "Portfolio",
+            "CONCEPT"
+        ],
+        [
+            "Central European Countries",
+            "GPE",
+            "Retreat",
+            "Central European Currencies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Central European Countries",
+            "GPE",
+            "Retreat",
+            "Government Bonds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Shift",
+            "Hawkish Rhetoric",
+            "CONCEPT"
+        ]
+    ]
+}

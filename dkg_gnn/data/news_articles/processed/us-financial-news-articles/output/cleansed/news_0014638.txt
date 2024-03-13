@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "LaMarcus Aldridge",
+            "PERSON",
+            "Impact",
+            "San Antonio Spurs",
+            "GPE"
+        ],
+        [
+            "Davis Bertans",
+            "PERSON",
+            "Impact",
+            "San Antonio Spurs",
+            "GPE"
+        ],
+        [
+            "San Antonio Spurs",
+            "GPE",
+            "Raise",
+            "107",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sacramento Kings",
+            "GPE",
+            "Decrease",
+            "100",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Willie Cauley-Stein",
+            "PERSON",
+            "Participates_In",
+            "Sacramento Kings",
+            "GPE"
+        ],
+        [
+            "Garrett Temple",
+            "PERSON",
+            "Participates_In",
+            "Sacramento Kings",
+            "GPE"
+        ],
+        [
+            "Bogdan Bogdanovic",
+            "PERSON",
+            "Participates_In",
+            "Sacramento Kings",
+            "GPE"
+        ],
+        [
+            "Kawhi Leonard",
+            "PERSON",
+            "Control",
+            "San Antonio Spurs",
+            "GPE"
+        ],
+        [
+            "Manu Ginobili",
+            "PERSON",
+            "Control",
+            "San Antonio Spurs",
+            "GPE"
+        ],
+        [
+            "Danny Green",
+            "PERSON",
+            "Control",
+            "San Antonio Spurs",
+            "GPE"
+        ],
+        [
+            "Rudy Gay",
+            "PERSON",
+            "Control",
+            "San Antonio Spurs",
+            "GPE"
+        ]
+    ]
+}

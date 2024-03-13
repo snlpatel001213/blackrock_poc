@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Alex Azar",
+            "PERSON",
+            "Is_Member_Of",
+            "Department of Health and Human Services",
+            "ORG/GOV"
+        ],
+        [
+            "Alex Azar",
+            "PERSON",
+            "Has",
+            "Past Position",
+            "CONCEPT"
+        ],
+        [
+            "Past Position",
+            "CONCEPT",
+            "Be",
+            "President",
+            "COMP"
+        ],
+        [
+            "Eli Lilly & Co.",
+            "COMP",
+            "Relate_To",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Alex Azar",
+            "PERSON",
+            "Negative_Impact_On",
+            "Democrats",
+            "ORG/GOV"
+        ],
+        [
+            "Alex Azar",
+            "PERSON",
+            "Defend",
+            "Himself",
+            "PERSON"
+        ],
+        [
+            "Alex Azar",
+            "PERSON",
+            "Participates_In",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Hearing",
+            "EVENT",
+            "Before",
+            "Senate Finance Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Alex Azar",
+            "PERSON",
+            "Has",
+            "Unique Advantage",
+            "CONCEPT"
+        ],
+        [
+            "Unique Advantage",
+            "CONCEPT",
+            "In",
+            "Tackling",
+            "CONCEPT"
+        ],
+        [
+            "Tackling",
+            "CONCEPT",
+            "Drug Costs",
+            "CONCEPT"
+        ]
+    ]
+}

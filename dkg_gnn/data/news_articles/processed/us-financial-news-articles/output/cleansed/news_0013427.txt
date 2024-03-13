@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Euro zone",
+            "GPE"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Revisit",
+            "Communication Stance",
+            "CONCEPT"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Impact",
+            "Stimulus Scheme",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone",
+            "GPE",
+            "See",
+            "Best Growth",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone",
+            "GPE",
+            "Have",
+            "Record High",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone",
+            "GPE",
+            "Restart",
+            "Convergence",
+            "CONCEPT"
+        ],
+        [
+            "Policymakers",
+            "ORG/REG",
+            "Argue",
+            "Guidance",
+            "CONCEPT"
+        ],
+        [
+            "Policymakers",
+            "ORG/REG",
+            "Warn",
+            "ECB Falling Behind Curve",
+            "CONCEPT"
+        ],
+        [
+            "Policymakers",
+            "ORG/REG",
+            "Discuss",
+            "Life After Quantitative Easing",
+            "CONCEPT"
+        ],
+        [
+            "Bond Buys",
+            "CONCEPT",
+            "Decline",
+            "Importance",
+            "CONCEPT"
+        ],
+        [
+            "Bond Buys",
+            "CONCEPT",
+            "End",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "Asset Purchases",
+            "CONCEPT",
+            "Depress",
+            "Borrowing Costs",
+            "CONCEPT"
+        ],
+        [
+            "Asset Purchases",
+            "CONCEPT",
+            "Stave Off",
+            "Threat Of Deflation",
+            "CONCEPT"
+        ],
+        [
+            "Asset Purchases",
+            "CONCEPT",
+            "Put",
+            "Growth On Best Run",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Say",
+            "Scheme Run Its Course",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Say",
+            "Artificially Low Borrowing Costs",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Say",
+            "Risk More Damage Than Good",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Expect",
+            "Bond Buys To End",
+            "CONCEPT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Expect",
+            "Interest Rates To Rise",
+            "CONCEPT"
+        ]
+    ]
+}

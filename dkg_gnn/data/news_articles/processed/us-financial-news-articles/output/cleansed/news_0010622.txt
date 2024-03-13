@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Walgreens Boots Alliance Inc.",
+            "COMP",
+            "Expects_To_Obtain",
+            "Cash Tax Benefit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Walgreens Boots Alliance Inc.",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Impact",
+            "Walgreens Boots Alliance Inc.",
+            "COMP"
+        ],
+        [
+            "Walgreens Boots Alliance Inc.",
+            "COMP",
+            "Impact",
+            "Adjusted EPS",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US Tax Legislation",
+            "ORG/GOV",
+            "Impact",
+            "Walgreens Boots Alliance Inc.",
+            "COMP"
+        ],
+        [
+            "US Tax Legislation",
+            "ORG/GOV",
+            "Impact",
+            "Adjusted EPS",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "output": [
+        [
+            "BTIG",
+            "ORG",
+            "Has",
+            "Chief Technical Strategist",
+            "PERSON"
+        ],
+        [
+            "Chief Technical Strategist",
+            "PERSON",
+            "Say",
+            "Pullback Likely",
+            "CONCEPT"
+        ],
+        [
+            "Pullback",
+            "CONCEPT",
+            "Represent",
+            "Buying Opportunity",
+            "CONCEPT"
+        ],
+        [
+            "Buying Opportunity",
+            "CONCEPT",
+            "Before",
+            "Stocks Produce Gains",
+            "CONCEPT"
+        ],
+        [
+            "Stocks",
+            "COMP",
+            "Produce",
+            "Gains",
+            "CONCEPT"
+        ],
+        [
+            "Katie Stockton",
+            "PERSON",
+            "Say",
+            "Internal Measures Reached Worrying Levels",
+            "CONCEPT"
+        ],
+        [
+            "Internal Measures",
+            "CONCEPT",
+            "Reached",
+            "Worrying Levels",
+            "CONCEPT"
+        ],
+        [
+            "S&P 500",
+            "COMP",
+            "Run-Up",
+            "2.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Percentage of Stocks Above 50-day Moving Averages",
+            "CONCEPT",
+            "Within S&P 500",
+            "COMP",
+            "Reached",
+            "83 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FAANG Stocks",
+            "COMP",
+            "Drive",
+            "Pullback",
+            "CONCEPT"
+        ],
+        [
+            "FAANG",
+            "COMP",
+            "Refers to",
+            "Facebook, Apple, Amazon, Netflix, Google",
+            "COMP"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Parent",
+            "Alphabet",
+            "COMP"
+        ],
+        [
+            "Stockton",
+            "PERSON",
+            "Write",
+            "Gains for 2018",
+            "CONCEPT"
+        ],
+        [
+            "Gains",
+            "CONCEPT",
+            "More Modest",
+            "CONCEPT"
+        ],
+        [
+            "Stockton",
+            "PERSON",
+            "Expect",
+            "Health-care Sector Improvement",
+            "CONCEPT"
+        ],
+        [
+            "Health-care Sector",
+            "SECTOR",
+            "Improve",
+            "Near-to-Intermediate-term Basis",
+            "CONCEPT"
+        ],
+        [
+            "Health Care Select Sector SPDR",
+            "COMP",
+            "Up",
+            "Nearly 1.5 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "XLV",
+            "COMP",
+            "Was",
+            "Up Nearly 1.5 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

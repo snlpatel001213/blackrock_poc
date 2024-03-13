@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Luxoft Holding Inc.",
+            "ORG",
+            "Collaborate",
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Luxoft Holding Inc.",
+            "ORG",
+            "Co-developed",
+            "Digital Cockpit Computer Reference Platform",
+            "PRODUCT"
+        ],
+        [
+            "Digital Cockpit Computer Reference Platform",
+            "PRODUCT",
+            "Operate_In",
+            "Next-Generation Vehicles",
+            "GPE"
+        ],
+        [
+            "Digital Cockpit Computer Reference Platform",
+            "PRODUCT",
+            "Control",
+            "Digital Cockpit",
+            "COMP"
+        ],
+        [
+            "Next-Generation Vehicles",
+            "GPE",
+            "Impact",
+            "Automotive Industry",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Norway\u2019s Seafood Council",
+            "ORG",
+            "Announce",
+            "Norwegian seafood exports hit record NOK 94.5 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Norway\u2019s Seafood Council",
+            "ORG",
+            "Announce",
+            "Volumes rose 7 pct year-on-year to 2.6 mln tonnes",
+            "GPE"
+        ],
+        [
+            "Norwegian seafood exports",
+            "GPE",
+            "Has",
+            "NOK 94.5 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Volumes",
+            "GPE",
+            "Has",
+            "2.6 mln tonnes",
+            "GPE"
+        ],
+        [
+            "Norway\u2019s Seafood Council",
+            "ORG",
+            "Announce",
+            "December export eased year-on-year to NOK 8.1 billion from NOK 8.4 billion as price of farmed salmon fell",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salmon exports",
+            "GPE",
+            "Operate_In",
+            "Biggest category",
+            "CONCEPT"
+        ],
+        [
+            "Salmon exports",
+            "GPE",
+            "Rise",
+            "1 million tonnes",
+            "GPE"
+        ],
+        [
+            "Salmon exports",
+            "GPE",
+            "Has",
+            "NOK 64.7 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Norway\u2019s Seafood Council",
+            "ORG",
+            "Announce",
+            "Seafood exports to Asia rose by 8 pct to NOK 18.7 billion in 2017, with exported volumes up 12 pct to 539,000 tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seafood exports to Asia",
+            "GPE",
+            "Rise",
+            "NOK 18.7 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Exported volumes",
+            "GPE",
+            "Rise",
+            "539,000 tonnes",
+            "GPE"
+        ],
+        [
+            "Norwegian Seafood Council\u2019s Country Director",
+            "PERSON",
+            "Relate_To",
+            "Potential for China",
+            "GPE"
+        ],
+        [
+            "Potential for China",
+            "GPE",
+            "Impact",
+            "156,000 tonnes",
+            "GPE"
+        ],
+        [
+            "Potential for China",
+            "GPE",
+            "Impact",
+            "12 per cent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Potential for China",
+            "GPE",
+            "Impact",
+            "current salmon production in Norway",
+            "GPE"
+        ]
+    ]
+}

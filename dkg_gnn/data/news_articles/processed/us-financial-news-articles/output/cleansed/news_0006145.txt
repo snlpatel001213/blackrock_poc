@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Raise",
+            "specific journalists and members of Galatasaray University",
+            "PERSON"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Disagree",
+            "human rights",
+            "CONCEPT"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Voiced",
+            "concerns about the fate of students, teachers and journalists detained by Ankara",
+            "PERSON"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Said",
+            "recent developments in Turkey did not allow for progress in Ankara\u2019s decades-long push to join the European Union",
+            "ORG/GOV"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Mentioned",
+            "the possibility of a \u201cpartnership\u201d that would fall short of full membership",
+            "ORG/GOV"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Has",
+            "Tayyip Erdogan",
+            "PERSON"
+        ],
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Defend",
+            "the crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Compare",
+            "some journalists to gardeners nurturing plants",
+            "CONCEPT"
+        ],
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Dominated",
+            "Turkish politics for 15 years",
+            "TIME"
+        ],
+        [
+            "Tayyip Erdogan",
+            "PERSON",
+            "Accused",
+            "the French journalist of speaking like one of them",
+            "PERSON"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Blamed",
+            "Fethullah Gulen",
+            "PERSON"
+        ],
+        [
+            "Fethullah Gulen",
+            "PERSON",
+            "Orchestrating",
+            "the failed coup",
+            "EVENT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Sign",
+            "a tentative accord for Turkish Airlines to buy 25 A350-900 aircraft",
+            "PRODUCT"
+        ],
+        [
+            "Turkish Airlines",
+            "COMP",
+            "Operate_In",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Produce",
+            "A350-900 aircraft",
+            "PRODUCT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Express",
+            "concern over Turkey\u2019s crackdown on suspected supporters of an abortive 2016 coup",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "ORG/GOV",
+            "Have",
+            "some 50,000 people arrested pending trial and 150,000, including teachers, journalists and judges, sacked or suspended from their jobs",
+            "PERSON"
+        ],
+        [
+            "France",
+            "GPE",
+            "Skeptical",
+            "about admitting Turkey into the EU",
+            "ORG/GOV"
+        ],
+        [
+            "France",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

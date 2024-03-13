@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Has",
+            "4.4-trillion balance sheet",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "US economy\u2019,s recovery",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Central bank support",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Next recession",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Produce",
+            "Research",
+            "CONCEPT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Fed\u2019s bond holdings",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Potential future losses",
+            "CONCEPT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Political criticism",
+            "CONCEPT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Taxpayer",
+            "GPE"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "30 percent chance",
+            "PROBABILITY"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "5.0 percent probability",
+            "PROBABILITY"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "1.3 trillion reserve balances",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Central bank economists",
+            "PERSON"
+        ],
+        [
+            "Research",
+            "CONCEPT",
+            "Relate_To",
+            "Independent professor",
+            "PERSON"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "US government debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "World\u2019s largest and most liquid market",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Possess",
+            "Possible motivations",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Control",
+            "Big balance sheet",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Articulate",
+            "Politically-risky future net losses",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Participates_In",
+            "Third round of bond-buying",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Analyze",
+            "Three possibilities",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "Current plan",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "Portfolio stabilization",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "Pre-crisis levels",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Earn",
+            "Profit",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Pay",
+            "Banks interest",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Retain",
+            "Assets",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Impact",
+            "US debt-to-GDP ratio",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US debt-to-GDP ratio",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Policy decisions",
+            "CONCEPT"
+        ],
+        [
+            "US debt-to-GDP ratio",
+            "ECON_INDICATOR",
+            "Stand",
+            "106 percent",
+            "PERCENTAGE"
+        ],
+        [
+            "US debt-to-GDP ratio",
+            "ECON_INDICATOR",
+            "Stand",
+            "62 percent",
+            "PERCENTAGE"
+        ]
+    ]
+}

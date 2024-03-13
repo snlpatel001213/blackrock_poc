@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Leidos",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Full Year 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Operate_In",
+            "Defense, Intelligence, Homeland Security, Civil, and Health Markets",
+            "SECTOR"
+        ],
+        [
+            "February 22, 2018",
+            "GPE",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "8:00 AM ET",
+            "GPE",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Investor Relations Website",
+            "COMP"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Quarterly Earnings Press Release",
+            "PRODUCT"
+        ],
+        [
+            "877-869-3847",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Telephone",
+            "COMP"
+        ],
+        [
+            "+1-201-689-8261",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Telephone",
+            "COMP"
+        ],
+        [
+            "11:00 AM ET",
+            "GPE",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "11:59 PM ET",
+            "GPE",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "877-660-6853",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "201-612-7415",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Archived Version of Webcast",
+            "PRODUCT"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "32000 Employees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Approximately 7.04 Billion Dollars Annual Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 30, 2016",
+            "GPE",
+            "Relate_To",
+            "Fiscal Year Ended",
+            "EVENT"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Media Relations",
+            "COMP"
+        ],
+        [
+            "Leidos",
+            "ORG",
+            "Has",
+            "Investor Relations",
+            "COMP"
+        ]
+    ]
+}

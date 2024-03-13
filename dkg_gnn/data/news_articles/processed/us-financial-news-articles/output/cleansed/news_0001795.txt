@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Diabetes Drug",
+            "PRODUCT",
+            "Relate_To",
+            "Alzheimer\u2019s",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Announce",
+            "new research",
+            "EVENT"
+        ],
+        [
+            "Drug",
+            "PRODUCT",
+            "Help",
+            "Alzheimer\u2019s Patients",
+            "PERSON"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Find",
+            "memory loss reversed",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Given",
+            "triple-receptor drug",
+            "PRODUCT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Go",
+            "maze",
+            "PRODUCT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Show",
+            "reduced plaque buildup",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Improved",
+            "memory",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Improved",
+            "cellular health",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Decrease",
+            "inflammation",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Explore",
+            "connection between Alzheimer\u2019s and diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Alzheimer\u2019s",
+            "CONCEPT",
+            "Expected",
+            "double by 2060",
+            "DATE"
+        ],
+        [
+            "Research",
+            "SECTOR",
+            "Move",
+            "toward finding better treatments",
+            "CONCEPT"
+        ]
+    ]
+}

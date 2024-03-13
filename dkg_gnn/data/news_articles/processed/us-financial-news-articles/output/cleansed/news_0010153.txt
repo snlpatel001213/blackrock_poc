@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Produce",
+            "Cold brew coffee",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Participates_In",
+            "Cold brew coffee",
+            "PRODUCT"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Operate_In",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Operate_In",
+            "Los Angeles",
+            "GPE"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Operate_In",
+            "San Diego",
+            "GPE"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Operate_In",
+            "Boston",
+            "GPE"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Control",
+            "Kegs",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Impact",
+            "Cold brew coffee",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Positive_Impact_On",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Relate_To",
+            "Nitro cold brew",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Operate_In",
+            "1,500 stores",
+            "GPE"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Has",
+            "Cold beverage product line",
+            "PRODUCT"
+        ],
+        [
+            "Joyride Coffee",
+            "COMP",
+            "Has",
+            "Platform",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Expect",
+            "Cold coffee beverages",
+            "PRODUCT"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Expect",
+            "Half of its beverage revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Forecast",
+            "By 2021",
+            "TIME"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Forecast",
+            "50 percent of its beverage mix",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Forecast",
+            "In cold",
+            "STATE"
+        ],
+        [
+            "Starbucks",
+            "COMP",
+            "Forecast",
+            "Up from 35 percent in 2013",
+            "TIME"
+        ]
+    ]
+}

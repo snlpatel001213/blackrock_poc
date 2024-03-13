@@ -1,0 +1,170 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Has",
+            "Jim Cramer",
+            "PERSON"
+        ],
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Realize",
+            "Hurt Investors",
+            "PERSON"
+        ],
+        [
+            "Wall Street",
+            "ORG",
+            "Make",
+            "No Distinction",
+            "CONCEPT"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Upgrade",
+            "Carnival Cruise Line",
+            "COMP"
+        ],
+        [
+            "Carnival Cruise Line",
+            "COMP",
+            "Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Piper Jaffray",
+            "ORG",
+            "Increase",
+            "Price Target",
+            "CONCEPT",
+            "For",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Underestimate",
+            "How Much Shares Of Amazon Would Rise",
+            "CONCEPT"
+        ],
+        [
+            "Tailwinds",
+            "CONCEPT",
+            "Consumer Stocks",
+            "COMP"
+        ],
+        [
+            "Customers",
+            "PERSON",
+            "Navigate",
+            "Aisles",
+            "CONCEPT",
+            "During",
+            "Black Friday",
+            "EVENT"
+        ],
+        [
+            "Consumer",
+            "PERSON",
+            "Better Off",
+            "Many People Think",
+            "CONCEPT"
+        ],
+        [
+            "Children's Place",
+            "COMP",
+            "CEO",
+            "Jane Elfers",
+            "PERSON",
+            "Steer",
+            "Company",
+            "COMP",
+            "Towards",
+            "International Success"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Digital Efforts",
+            "Driven",
+            "By",
+            "Millennials",
+            "PERSON"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Chairman",
+            "Kevin Mansell",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "ORG",
+            "Physical Locations",
+            "CONCEPT",
+            "Important"
+        ],
+        [
+            "Retail Chains",
+            "COMP",
+            "Close Stores",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Success",
+            "Stems",
+            "From",
+            "Physical Locations",
+            "CONCEPT"
+        ],
+        [
+            "Retailers",
+            "COMP",
+            "Serve",
+            "Omni-Channel Consumer",
+            "CONCEPT"
+        ],
+        [
+            "Canada Goose",
+            "COMP",
+            "CEO",
+            "Dani Reiss",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "ORG",
+            "Products",
+            "PRODUCT",
+            "Investment Apparel"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Grow",
+            "Recessions",
+            "CONCEPT"
+        ],
+        [
+            "Duke Energy Corp.",
+            "COMP",
+            "CNBC",
+            "ORG",
+            "Recommend",
+            "Dominion Energy",
+            "COMP",
+            "Better"
+        ],
+        [
+            "Marvell Technology Group Ltd.",
+            "COMP",
+            "Not Done Going Higher",
+            "CONCEPT"
+        ]
+    ]
+}

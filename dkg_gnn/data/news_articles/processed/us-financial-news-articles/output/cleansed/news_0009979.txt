@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "United Community Banks Inc",
+            "ORG",
+            "Plan",
+            "Issue",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United Community Banks Inc",
+            "ORG",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "United Community Banks Inc",
+            "ORG",
+            "Use_Proceeds_For",
+            "Financing of Cash Consideration Payable",
+            "CONCEPT"
+        ],
+        [
+            "Financing of Cash Consideration Payable",
+            "CONCEPT",
+            "Relate_To",
+            "CO -SEC Filing",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Indeed",
+            "ORG",
+            "Operate_In",
+            "SECTOR",
+            "SECTOR"
+        ],
+        [
+            "Workers with high school education or less",
+            "CONCEPT",
+            "Relate_To",
+            "Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "College and bachelor\u2019s degrees",
+            "CONCEPT",
+            "Relate_To",
+            "Unemployment Rate",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

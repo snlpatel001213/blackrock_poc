@@ -1,0 +1,230 @@
+{
+    "output": [
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Propose",
+            "Eliminate",
+            "ORG"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Wary",
+            "Brand",
+            "ORG/REG"
+        ],
+        [
+            "Swiss Government",
+            "ORG/GOV",
+            "Launch",
+            "Consultation",
+            "ORG"
+        ],
+        [
+            "Bearer Shares",
+            "PRODUCT",
+            "Have",
+            "Owners\u2019 Names Attached",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Dismantle",
+            "Banking Secrecy",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Agree",
+            "Send Information",
+            "CONCEPT"
+        ],
+        [
+            "Shell-Companies",
+            "ORG",
+            "Use",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Shell-Companies",
+            "ORG",
+            "Conceal",
+            "Ownership",
+            "CONCEPT"
+        ],
+        [
+            "Shell-Companies",
+            "ORG",
+            "Transfer",
+            "Ownership",
+            "CONCEPT"
+        ],
+        [
+            "OECD Panel",
+            "ORG/REG",
+            "Recommend",
+            "Clamp Down",
+            "CONCEPT"
+        ],
+        [
+            "Swiss Proposal",
+            "PRODUCT",
+            "Apply",
+            "Non Publicly Listed Companies",
+            "ORG"
+        ],
+        [
+            "Swiss Proposal",
+            "PRODUCT",
+            "Not Apply",
+            "Groups",
+            "ORG"
+        ],
+        [
+            "Pharmaceutical Company Roche",
+            "COMP",
+            "Use",
+            "Voting Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Lift-Maker Schindler",
+            "COMP",
+            "Use",
+            "Voting Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Proposed Rules",
+            "PRODUCT",
+            "Carry",
+            "Financial Penalties",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Ban",
+            "Companies",
+            "ORG",
+            "Issue",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Order",
+            "Companies",
+            "ORG",
+            "Convert",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Pass",
+            "Laws",
+            "SECTOR",
+            "Restricting",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Pass",
+            "Laws",
+            "SECTOR",
+            "Restricting",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Pass",
+            "Laws",
+            "SECTOR",
+            "Restricting",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Austria",
+            "GPE",
+            "Pass",
+            "Laws",
+            "SECTOR",
+            "Restricting",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Pass",
+            "Laws",
+            "SECTOR",
+            "Restricting",
+            "Bearer Shares",
+            "PRODUCT"
+        ],
+        [
+            "Earlier Swiss Attempt",
+            "EVENT",
+            "Judge",
+            "Inadequate",
+            "CONCEPT"
+        ],
+        [
+            "OECD\u2019s Global Forum",
+            "ORG/REG",
+            "Label",
+            "Non-Conforming",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Could",
+            "Achieve",
+            "CONCEPT",
+            "Total Rating",
+            "Partial Compliance",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Says",
+            "Bearer Shares",
+            "PRODUCT",
+            "Dwindle",
+            "CONCEPT"
+        ],
+        [
+            "Bearer Shares",
+            "PRODUCT",
+            "Represent",
+            "Percent",
+            "ECON_INDICATOR",
+            "Share Capital",
+            "CONCEPT"
+        ],
+        [
+            "Bearer Shares",
+            "PRODUCT",
+            "Down",
+            "Percent",
+            "ECON_INDICATOR",
+            "Share Capital",
+            "CONCEPT"
+        ]
+    ]
+}

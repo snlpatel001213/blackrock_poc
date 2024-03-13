@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Alaska Air Group, Inc.",
+            "ORG",
+            "Announce",
+            "Fourth Quarter and Full Year 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alaska Air Group, Inc.",
+            "ORG",
+            "Operate_In",
+            "United States, Mexico, Canada, Costa Rica",
+            "GPE"
+        ],
+        [
+            "Alaska Airlines",
+            "COMP",
+            "Participates_In",
+            "Alaska Air Group, Inc.",
+            "ORG"
+        ],
+        [
+            "Virgin America",
+            "COMP",
+            "Participates_In",
+            "Alaska Air Group, Inc.",
+            "ORG"
+        ],
+        [
+            "Horizon Air Industries",
+            "COMP",
+            "Participates_In",
+            "Alaska Air Group, Inc.",
+            "ORG"
+        ],
+        [
+            "Alaska Airlines",
+            "COMP",
+            "Control",
+            "Alaska Global Partners",
+            "ORG"
+        ]
+    ]
+}

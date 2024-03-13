@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Up",
+            "0.46",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Slip",
+            "0.55",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Rally",
+            "Recent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Trade",
+            "$1.2089",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Profit-taking",
+            null,
+            "NONE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Support",
+            null,
+            "NONE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Selling",
+            "Since Christmas",
+            "NONE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Correction",
+            null,
+            "NONE"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Suffer",
+            null,
+            "NONE"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Cooler-than-expected",
+            "Reading",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro Zone",
+            "GPE",
+            "Lackluster",
+            "Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro Zone",
+            "GPE",
+            "Economic Recovery",
+            "Solid",
+            "NONE"
+        ],
+        [
+            "China",
+            "GPE",
+            "Solid",
+            "Economic Growth",
+            "NONE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Solid",
+            "Economic Growth",
+            "NONE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Tightening",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Repatriation",
+            "Flows",
+            "NONE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Strength",
+            "U.S. Economy",
+            "NONE"
+        ],
+        [
+            "Sterling",
+            "FIN_INSTRUMENT",
+            "Climb",
+            "Broadly",
+            "NONE"
+        ],
+        [
+            "Sterling",
+            "FIN_INSTRUMENT",
+            "Against",
+            "Euro",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Cabinet",
+            "Reshuffle",
+            "NONE"
+        ],
+        [
+            "Political Uncertainty",
+            "CONCEPT",
+            "Pressure",
+            "UK Currency",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Canadian Dollar",
+            "FIN_INSTRUMENT",
+            "Slightly",
+            "Weaker",
+            "NONE"
+        ],
+        [
+            "Canadian Companies",
+            "COMP",
+            "Optimistic",
+            "Future Sales",
+            "NONE"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Sink",
+            null,
+            "NONE"
+        ],
+        [
+            "Website",
+            "COMP",
+            "CoinMarketCap",
+            "Remove",
+            "Prices"
+        ],
+        [
+            "South Korean Exchanges",
+            "COMP",
+            "From",
+            "Calculations",
+            "NONE"
+        ],
+        [
+            "Bitcoin",
+            "FIN_INSTRUMENT",
+            "Undermine",
+            "News",
+            "NONE"
+        ],
+        [
+            "South Korean Financial Authorities",
+            "ORG/GOV",
+            "Inspect",
+            "Local Banks",
+            "COMP"
+        ]
+    ]
+}

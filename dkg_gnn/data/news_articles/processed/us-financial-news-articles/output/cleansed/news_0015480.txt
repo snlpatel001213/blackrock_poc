@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Retreat",
+            "$70 Highs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Oil Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Fourth Week of Gains",
+            "TIME_PERIOD"
+        ],
+        [
+            "Brent Crude Futures",
+            "FIN_INSTRUMENT",
+            "Trade",
+            "Lower",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent Crude Futures",
+            "FIN_INSTRUMENT",
+            "Break",
+            "Above",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. West Texas Intermediate (WTI)",
+            "FIN_INSTRUMENT",
+            "At",
+            "$63.66",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. West Texas Intermediate (WTI)",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "To",
+            "$64.77",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hans van Cleef",
+            "PERSON",
+            "Senior Energy Economist",
+            "At",
+            "ABN Amro"
+        ],
+        [
+            "Hans van Cleef",
+            "PERSON",
+            "Said",
+            "Note",
+            "COMMUNICATION"
+        ],
+        [
+            "Market Analysts",
+            "GROUP",
+            "Believe",
+            "Prices",
+            "ECON_INDICATOR",
+            "Rallied",
+            "Too Far"
+        ],
+        [
+            "Consensus Forecasts",
+            "GROUP",
+            "Significantly Lower",
+            "Current Spot Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investors",
+            "GROUP",
+            "Positioned",
+            "Benefit",
+            "From",
+            "Further Price Gains"
+        ],
+        [
+            "Analysts and Traders",
+            "GROUP",
+            "Warn",
+            "Risk",
+            "Of",
+            "Price Correction"
+        ],
+        [
+            "Analysts and Traders",
+            "GROUP",
+            "Say",
+            "Market Conditions",
+            "REMAIN",
+            "Strong"
+        ],
+        [
+            "Output Cuts",
+            "GROUP",
+            "Led",
+            "Organization of the Petroleum Exporting Countries",
+            "ORG",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Fatih Birol",
+            "PERSON",
+            "Head",
+            "International Energy Agency",
+            "ORG"
+        ],
+        [
+            "Fatih Birol",
+            "PERSON",
+            "Said",
+            "Prices",
+            "At",
+            "$65 to $70",
+            "ECON_INDICATOR",
+            "Risk",
+            "Encourage",
+            "More",
+            "Oversupply",
+            "From",
+            "U.S. Shale Drillers",
+            "GROUP"
+        ],
+        [
+            "Gulf OPEC Producers",
+            "GROUP",
+            "Plan",
+            "Keep",
+            "Oil Output",
+            "REMAIN",
+            "Below",
+            "Year-Earlier Level",
+            "TIME_PERIOD"
+        ],
+        [
+            "OPEC and Non-OPEC Production Cuts",
+            "GROUP",
+            "Of",
+            "1.8 Million Barrels Per Day",
+            "QUANTITY",
+            "Due",
+            "Last",
+            "Until",
+            "End of 2018",
+            "TIME_PERIOD"
+        ],
+        [
+            "U.S. Crude Inventory Drops",
+            "EVENT",
+            "Support",
+            "Oil Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Commercial Crude Stocks",
+            "FIN_INSTRUMENT",
+            "Fell",
+            "By",
+            "Almost 5 Million Barrels",
+            "QUANTITY"
+        ],
+        [
+            "China",
+            "GPE",
+            "Crude Imports",
+            "In",
+            "December",
+            "TIME_PERIOD",
+            "Fell",
+            "9 Percent",
+            "QUANTITY",
+            "Month-on-Month",
+            "TIME_PERIOD"
+        ],
+        [
+            "China",
+            "GPE",
+            "Crude Imports",
+            "In",
+            "December",
+            "TIME_PERIOD",
+            "8.97 Million Barrels Per Day",
+            "QUANTITY"
+        ],
+        [
+            "Singapore Refinery Profit Margins",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "To",
+            "Below",
+            "$6 Per Barrel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Singapore Refinery Profit Margins",
+            "FIN_INSTRUMENT",
+            "At",
+            "Lowest Seasonal Level",
+            "QUALITY",
+            "In",
+            "Five Years",
+            "TIME_PERIOD"
+        ],
+        [
+            "Refiners",
+            "GROUP",
+            "Scale",
+            "Down",
+            "Crude Runs",
+            "ACTIVITY"
+        ]
+    ]
+}

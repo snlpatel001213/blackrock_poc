@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "MoneyGram International Inc",
+            "COMP",
+            "Participates_In",
+            "Partnership",
+            "ORG"
+        ],
+        [
+            "MoneyGram International Inc",
+            "COMP",
+            "Impact",
+            "Shares of MoneyGram",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "Create",
+            "Bitcoin Exchange Mt Gox",
+            "COMP"
+        ],
+        [
+            "Ripple",
+            "ORG",
+            "Rise",
+            "31000 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Use",
+            "Move Funds",
+            "SECTOR"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Compare",
+            "Bitcoin Transaction Fee",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "XRP",
+            "PRODUCT",
+            "Relate_To",
+            "Banks and Payment Companies",
+            "SECTOR"
+        ],
+        [
+            "UBS",
+            "COMP",
+            "Use",
+            "Ripple Products",
+            "ORG"
+        ],
+        [
+            "Santander",
+            "COMP",
+            "Use",
+            "Ripple Products",
+            "ORG"
+        ],
+        [
+            "American Express Co",
+            "COMP",
+            "Launch",
+            "Instant Blockchain-based Payment System",
+            "SECTOR"
+        ],
+        [
+            "Ant Financial",
+            "COMP",
+            "Deal",
+            "Buy MoneyGram",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Collapse",
+            "Deal to Buy MoneyGram",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Legg Mason Inc.",
+            "ORG",
+            "Control",
+            "EnTrustPermal Indefinite-Life Fund Contracts",
+            "CONTRACT"
+        ],
+        [
+            "EnTrustPermal Indefinite-Life Fund Contracts",
+            "CONTRACT",
+            "Exceed",
+            "Fair Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legg Mason Inc.",
+            "ORG",
+            "Impair",
+            "EnTrustPermal Indefinite-Life Fund Contracts",
+            "CONTRACT"
+        ],
+        [
+            "Legg Mason Inc.",
+            "ORG",
+            "Positive_Impact_On",
+            "One-time Non-Cash Tax Benefit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Legg Mason Inc.",
+            "ORG",
+            "Operate_In",
+            "Q3 Fiscal Year 2018",
+            "TIME_PERIOD"
+        ]
+    ]
+}

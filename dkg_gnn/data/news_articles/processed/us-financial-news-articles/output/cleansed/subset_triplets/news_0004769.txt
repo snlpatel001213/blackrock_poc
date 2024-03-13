@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Diego Costa",
+            "PERSON",
+            "Impact",
+            "Atletico Madrid",
+            "ORG"
+        ],
+        [
+            "Diego Costa",
+            "PERSON",
+            "Participates_In",
+            "King\u2019s Cup",
+            "EVENT"
+        ],
+        [
+            "Atletico Madrid",
+            "ORG",
+            "Operate_In",
+            "La Liga",
+            "SECTOR"
+        ]
+    ]
+}

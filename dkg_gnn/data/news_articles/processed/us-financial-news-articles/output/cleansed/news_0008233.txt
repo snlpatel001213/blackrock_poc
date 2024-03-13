@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "TG Therapeutics",
+            "COMP",
+            "Announce",
+            "Global License Agreement",
+            "EVENT"
+        ],
+        [
+            "TG Therapeutics",
+            "COMP",
+            "Control",
+            "BTK Inhibitor Program",
+            "PRODUCT"
+        ],
+        [
+            "TG Therapeutics",
+            "COMP",
+            "Participates_In",
+            "Treatment of Hematologic Malignancies",
+            "SECTOR"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Announce",
+            "Global License Agreement",
+            "EVENT"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Control",
+            "BTK Inhibitor Program",
+            "PRODUCT"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Participates_In",
+            "Treatment of Hematologic Malignancies",
+            "SECTOR"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Receive",
+            "Up-front Licensing Fee",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Receive",
+            "Near-term Milestones",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Receive",
+            "Collaboration and Licensing Payments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Relate_To",
+            "Royalties on Future Sales",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "TG Therapeutics",
+            "COMP",
+            "Is_Member_Of",
+            "Hematologic Malignancies Sector",
+            "SECTOR"
+        ],
+        [
+            "Jiangsu Hengrui Medicine",
+            "COMP",
+            "Is_Member_Of",
+            "Hematologic Malignancies Sector",
+            "SECTOR"
+        ]
+    ]
+}

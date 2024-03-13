@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "CoreLogic",
+            "COMP",
+            "Announce",
+            "Pinkston Appointment",
+            "EVENT"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Operate_In",
+            "Irvine, Calif.",
+            "GPE"
+        ],
+        [
+            "Pinkston",
+            "PERSON",
+            "Relate_To",
+            "Frank Martell",
+            "PERSON"
+        ],
+        [
+            "Pinkston",
+            "PERSON",
+            "Relate_To",
+            "CoreLogic",
+            "COMP"
+        ],
+        [
+            "Frank Martell",
+            "PERSON",
+            "Relate_To",
+            "CoreLogic",
+            "COMP"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Control",
+            "Frank Martell",
+            "PERSON"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Control",
+            "Pinkston Appointment",
+            "EVENT"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Control",
+            "Irvine, Calif.",
+            "GPE"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Control",
+            "NYSE: CLGX",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Produce",
+            "Property Information",
+            "CONCEPT"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Produce",
+            "Analytics",
+            "CONCEPT"
+        ],
+        [
+            "CoreLogic",
+            "COMP",
+            "Produce",
+            "Data-Enabled Solutions",
+            "CONCEPT"
+        ]
+    ]
+}

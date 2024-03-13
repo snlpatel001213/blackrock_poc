@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Vice Media",
+            "COMP",
+            "Suspend",
+            "Andrew Creighton",
+            "PERSON"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Suspend",
+            "Mike Germano",
+            "PERSON"
+        ],
+        [
+            "Andrew Creighton",
+            "PERSON",
+            "Relate_To",
+            "Sexual Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Mike Germano",
+            "PERSON",
+            "Relate_To",
+            "Sexual Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Operate_In",
+            "Digital Media",
+            "SECTOR"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Has",
+            "Co-founders",
+            "PERSON"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Produce",
+            "Canadian Magazine",
+            "PRODUCT"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Operate_In",
+            "TV Industry",
+            "SECTOR"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Expand",
+            "Worldwide",
+            "GPE"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Investigate",
+            "Andrew Creighton",
+            "PERSON"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Investigate",
+            "Mike Germano",
+            "PERSON"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Impact",
+            "Company Culture",
+            "CONCEPT"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Commit",
+            "Female Employees",
+            "PERSON"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Commit",
+            "Pay Parity",
+            "CONCEPT"
+        ],
+        [
+            "Vice Media",
+            "COMP",
+            "Participates_In",
+            "Media Industry",
+            "SECTOR"
+        ],
+        [
+            "Media Industry",
+            "SECTOR",
+            "Experience",
+            "Alleged Misconduct",
+            "CONCEPT"
+        ],
+        [
+            "Media Industry",
+            "SECTOR",
+            "Impact",
+            "Industries",
+            "SECTOR"
+        ],
+        [
+            "Media Industry",
+            "SECTOR",
+            "Impact",
+            "Politics",
+            "SECTOR"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Relate_To",
+            "Alleged Rape",
+            "CONCEPT"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Relate_To",
+            "Harassment",
+            "CONCEPT"
+        ]
+    ]
+}

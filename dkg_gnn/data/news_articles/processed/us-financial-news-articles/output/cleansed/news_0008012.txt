@@ -1,0 +1,272 @@
+{
+    "output": [
+        [
+            "PTC",
+            "COMP",
+            "Release",
+            "Fiscal 2018 First Quarter Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "PTC Fiscal Q1\u201918",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Operate_In",
+            "Nasdaq",
+            "ORG"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Has",
+            "Senior Management",
+            "PERSON"
+        ],
+        [
+            "Senior Management",
+            "PERSON",
+            "Host",
+            "Live Webcast",
+            "EVENT"
+        ],
+        [
+            "Live Webcast",
+            "EVENT",
+            "On",
+            "Wednesday, January 17th, 2018",
+            "DATE"
+        ],
+        [
+            "Live Webcast",
+            "EVENT",
+            "At",
+            "5pm Eastern Time",
+            "TIME"
+        ],
+        [
+            "Earnings Press Release",
+            "DOCUMENT",
+            "Accessible Prior",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Earnings Press Release",
+            "DOCUMENT",
+            "Accompanying Prepared Remarks",
+            "Accessible Prior",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Webcast",
+            "PTC.com",
+            "URL"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Archived",
+            "Public Replay",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Until End Of Day",
+            "January 27th, 2018",
+            "DATE"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Dial-in",
+            "1-866-376-2452",
+            "PHONE"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Passcode",
+            "0513"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Accessible Via Webcast",
+            "PTC.com",
+            "URL"
+        ],
+        [
+            "Statements Made",
+            "EVENT",
+            "As Of",
+            "Date Of Conference Call",
+            "EVENT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Does Not Assume",
+            "Update",
+            "ANY"
+        ],
+        [
+            "Matters Discussed",
+            "EVENT",
+            "Include",
+            "Forward-looking Statements",
+            "CONCEPT"
+        ],
+        [
+            "Forward-looking Statements",
+            "CONCEPT",
+            "About",
+            "PTC\u2019s Anticipated Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Forward-looking Statements",
+            "CONCEPT",
+            "About",
+            "Development",
+            "Products",
+            "PRODUCT"
+        ],
+        [
+            "Forward-looking Statements",
+            "CONCEPT",
+            "About",
+            "Markets",
+            "SECTOR"
+        ],
+        [
+            "Actual Results",
+            "EVENT",
+            "May Differ Materially",
+            "Current Expectations",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Described",
+            "Time To Time",
+            "TIME"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "With",
+            "U.S. Securities And Exchange Commission",
+            "ORG/REG"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Most Recent Reports",
+            "Form 10-K And 10-Q",
+            "DOCUMENT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Has",
+            "Most Robust Internet Of Things Technology",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "In 1986",
+            "Revolutionized Digital 3D Design",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "In 1998",
+            "First To Market",
+            "WITH",
+            "Internet-based PLM"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Leading IoT And AR Platform",
+            "Bring Together",
+            "Physical And Digital Worlds",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Capitalize On",
+            "Promise Of The IoT Today",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Drive",
+            "Future Of Innovation",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Global Manufacturers",
+            "And Ecosystem",
+            "COMP",
+            "Partners And Developers"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Can Capitalize",
+            "Promise Of The IoT Today",
+            "CONCEPT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "Reinvent",
+            "Way Create, Operate, And Service Products",
+            "PRODUCT"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "PTC.com",
+            "URL"
+        ],
+        [
+            "PTC",
+            "COMP",
+            "@PTC",
+            "SOCIAL"
+        ],
+        [
+            "Blogs.PTC",
+            "URL",
+            "Source",
+            "PTC",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "New York Penn Station",
+            "GPE",
+            "Operate_In",
+            "Rail Road",
+            "ORG"
+        ],
+        [
+            "NJ Transit",
+            "ORG",
+            "Participates_In",
+            "Commuting",
+            "CONCEPT"
+        ],
+        [
+            "Long Island Rail Road",
+            "ORG",
+            "Participates_In",
+            "Commuting",
+            "CONCEPT"
+        ],
+        [
+            "PATH",
+            "ORG",
+            "Participates_In",
+            "Commuting",
+            "CONCEPT"
+        ],
+        [
+            "Subway Lines",
+            "PRODUCT",
+            "Participates_In",
+            "Commuting",
+            "CONCEPT"
+        ],
+        [
+            "Monday",
+            "EVENT",
+            "Relate_To",
+            "Revised Schedule",
+            "EVENT"
+        ]
+    ]
+}

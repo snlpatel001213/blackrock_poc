@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Manhattan\u2019s office market",
+            "GPE",
+            "Has",
+            "Tenants",
+            "PERSON"
+        ],
+        [
+            "Tenants",
+            "PERSON",
+            "in",
+            "Technology Advertising and Media Companies",
+            "ORG"
+        ],
+        [
+            "Tenants",
+            "PERSON",
+            "in",
+            "FIRE Industries",
+            "ORG/SECTOR"
+        ],
+        [
+            "FIRE Industries",
+            "ORG/SECTOR",
+            "Dominated",
+            "Leasing Scene",
+            "EVENT"
+        ],
+        [
+            "Leasing Scene",
+            "EVENT",
+            "had",
+            "13 Relocation or Expansion Deals",
+            "PRODUCT"
+        ],
+        [
+            "Deals",
+            "PRODUCT",
+            "Over",
+            "100,000 Square Feet",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deals",
+            "PRODUCT",
+            "in",
+            "2017",
+            "DATE"
+        ]
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Join",
+            "MiTek",
+            "ORG"
+        ],
+        [
+            "MiTek",
+            "ORG",
+            "Operate_In",
+            "Construction Sectors",
+            "SECTOR"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Is_Member_Of",
+            "MiTek Leadership Team",
+            "ORG"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Has",
+            "Vice President, Enterprise Operational Excellence",
+            "TITLE"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Participates_In",
+            "Continuous Improvement",
+            "CONCEPT"
+        ],
+        [
+            "MiTek",
+            "ORG",
+            "Raise",
+            "Richard Sullivan",
+            "PERSON"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Collaborate_With",
+            "Senior Leaders",
+            "PERSON"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Previously_Held",
+            "Operational Excellence Executive Management Positions",
+            "TITLE"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Previously_Held",
+            "General Manager Quality and Continuous Improvement",
+            "TITLE"
+        ],
+        [
+            "Carpenter Technology",
+            "COMP",
+            "Previously_Employer_Of",
+            "Richard Sullivan",
+            "PERSON"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Previously_Held",
+            "Vice President of Business Transformation, EH&S, Chief Supply Chain Officer",
+            "TITLE"
+        ],
+        [
+            "Harsco",
+            "COMP",
+            "Previously_Employer_Of",
+            "Richard Sullivan",
+            "PERSON"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Previously_Served",
+            "United States Marine Corps",
+            "ORG/GOV"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Graduate_Of",
+            "University of Maryland",
+            "UNIV"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Hold",
+            "Masters in Science in Management Systems",
+            "DEGREE"
+        ],
+        [
+            "University of Southern California",
+            "UNIV",
+            "Issue_Degree_To",
+            "Richard Sullivan",
+            "PERSON"
+        ],
+        [
+            "MiTek",
+            "ORG",
+            "Thrilled_To_Have",
+            "Richard Sullivan",
+            "PERSON"
+        ],
+        [
+            "MiTek",
+            "ORG",
+            "Collaborate_With",
+            "Global Leadership Teams",
+            "PERSON"
+        ],
+        [
+            "Richard Sullivan",
+            "PERSON",
+            "Structuring_And_Advancing",
+            "OPEX Initiatives",
+            "CONCEPT"
+        ]
+    ]
+}

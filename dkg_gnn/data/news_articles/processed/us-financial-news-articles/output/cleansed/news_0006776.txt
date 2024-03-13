@@ -1,0 +1,147 @@
+{
+    "output": [
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Has",
+            "Reached",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Pay",
+            "$15 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Settle",
+            "Price Collusion Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Help",
+            "Plaintiffs",
+            "PERSON"
+        ],
+        [
+            "Plaintiffs",
+            "PERSON",
+            "Case",
+            "Against",
+            "COMP"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Delta Air Lines",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "United Continental Holdings",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "DOJ",
+            "ORG/GOV",
+            "Probe",
+            "Possible Collusion",
+            "CONCEPT"
+        ],
+        [
+            "Passengers",
+            "PERSON",
+            "Claim",
+            "Collusion",
+            "CONCEPT"
+        ],
+        [
+            "Collusion",
+            "CONCEPT",
+            "Begin",
+            "Early 2009",
+            "TIME"
+        ],
+        [
+            "Collusion",
+            "CONCEPT",
+            "Lead",
+            "Higher Fares",
+            "CONCEPT"
+        ],
+        [
+            "Collusion",
+            "CONCEPT",
+            "Reduce",
+            "Flight Choices",
+            "CONCEPT"
+        ],
+        [
+            "Industry",
+            "SECTOR",
+            "Post",
+            "Record Profits",
+            "CONCEPT"
+        ],
+        [
+            "American",
+            "COMP",
+            "Delta",
+            "Southwest",
+            "COMP",
+            "United",
+            "COMP",
+            "Command",
+            "Roughly 69%",
+            "ECON_INDICATOR",
+            "Share",
+            "SECTOR",
+            "US Domestic Air Travel Market",
+            "GPE"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Settlement",
+            "Sufficiently Fair",
+            "CONCEPT",
+            "Reasonable",
+            "CONCEPT",
+            "Adequate",
+            "CONCEPT",
+            "Justify",
+            "EVENT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Given",
+            "Chance",
+            "EVENT",
+            "Object",
+            "EVENT"
+        ]
+    ]
+}

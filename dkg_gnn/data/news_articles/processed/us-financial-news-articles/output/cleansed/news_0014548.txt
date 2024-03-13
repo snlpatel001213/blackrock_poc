@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Reports",
+            "Crypto World",
+            "EVENT"
+        ],
+        [
+            "Seema Mody",
+            "PERSON",
+            "Relate_To",
+            "Crypto World",
+            "EVENT"
+        ],
+        [
+            "Blockchain Industry",
+            "ORG",
+            "Hunt",
+            "Individuals",
+            "PERSON"
+        ],
+        [
+            "Blockchain Industry",
+            "ORG",
+            "Use",
+            "New Technology",
+            "CONCEPT"
+        ]
+    ]
+}

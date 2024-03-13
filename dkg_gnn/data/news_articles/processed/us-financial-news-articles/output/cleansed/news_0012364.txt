@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Prince Harry",
+            "PERSON",
+            "Participates_In",
+            "Speak",
+            "CONCEPT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Participates_In",
+            "Speak",
+            "CONCEPT"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Relate_To",
+            "American",
+            "CONCEPT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Relate_To",
+            "American",
+            "CONCEPT"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Located_In",
+            "Brixton",
+            "GPE"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Located_In",
+            "Brixton",
+            "GPE"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Located_In",
+            "South London",
+            "GPE"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Located_In",
+            "South London",
+            "GPE"
+        ],
+        [
+            "Reprezent Radio station",
+            "COMP",
+            "Located_In",
+            "Brixton",
+            "GPE"
+        ],
+        [
+            "Reprezent Radio station",
+            "COMP",
+            "Located_In",
+            "South London",
+            "GPE"
+        ]
+    ]
+}

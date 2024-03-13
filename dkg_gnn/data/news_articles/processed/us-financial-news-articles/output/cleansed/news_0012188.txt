@@ -1,0 +1,65 @@
+{
+    "output": [
+        [
+            "Federal Judge",
+            "ORG/GOV",
+            "Push",
+            "Resolution",
+            "EVENT"
+        ],
+        [
+            "Judge Dan Polster",
+            "PERSON",
+            "Operate_In",
+            "Opioid Crisis Litigation",
+            "EVENT"
+        ],
+        [
+            "Cities and Counties",
+            "GPE",
+            "File",
+            "Lawsuits",
+            "EVENT"
+        ],
+        [
+            "Opioid Crisis",
+            "EVENT",
+            "Relate_To",
+            "Opioid Abuse",
+            "CONCEPT"
+        ],
+        [
+            "Opioid Abuse",
+            "CONCEPT",
+            "Cause",
+            "Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Addiction Experts",
+            "PERSON",
+            "Agree",
+            "Medication-assisted Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Inpatient Rehab Facilities",
+            "ORG",
+            "Don't Offer",
+            "Medication-assisted Treatment",
+            "PRODUCT"
+        ],
+        [
+            "Medication-assisted Treatment",
+            "PRODUCT",
+            "Controversial",
+            "null"
+        ],
+        [
+            "Medication-assisted Treatment",
+            "PRODUCT",
+            "Hard_To_Come_By",
+            "null"
+        ]
+    ]
+}

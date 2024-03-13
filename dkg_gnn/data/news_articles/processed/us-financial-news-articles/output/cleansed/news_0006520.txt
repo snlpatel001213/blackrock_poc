@@ -1,0 +1,73 @@
+{
+    "output": [
+        [
+            "Henderson Land Development Co Ltd",
+            "COMP",
+            "Has",
+            "HK$9.95 billion deal",
+            "EVENT"
+        ],
+        [
+            "Henderson Land Development Co Ltd",
+            "COMP",
+            "Sell",
+            "office tower",
+            "PRODUCT"
+        ],
+        [
+            "Fans Group Ltd",
+            "COMP",
+            "Buy",
+            "office tower",
+            "PRODUCT"
+        ],
+        [
+            "Fans Group Ltd",
+            "COMP",
+            "Registered_Under",
+            "China passport holder",
+            "PERSON"
+        ],
+        [
+            "Chinese firms",
+            "ORG",
+            "Expand",
+            "Hong Kong property market",
+            "SECTOR"
+        ],
+        [
+            "Chinese firms",
+            "ORG",
+            "Buy",
+            "residential land",
+            "PRODUCT"
+        ],
+        [
+            "Chinese firms",
+            "ORG",
+            "Buy",
+            "office buildings",
+            "PRODUCT"
+        ],
+        [
+            "CK Asset",
+            "COMP",
+            "Sell",
+            "skyscraper",
+            "PRODUCT"
+        ],
+        [
+            "CK Asset",
+            "COMP",
+            "Late_Last_Year",
+            "HK$9.95 billion deal",
+            "EVENT"
+        ],
+        [
+            "Buyer of skyscraper",
+            "ORG",
+            "China-backed investor",
+            "ORG"
+        ]
+    ]
+}

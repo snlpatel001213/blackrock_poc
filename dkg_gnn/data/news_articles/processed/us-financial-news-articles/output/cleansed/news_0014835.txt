@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Netflix",
+            "COMP",
+            "Introduce",
+            "The Polka King",
+            "EVENT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Operate_In",
+            "Pennsylvania Coal Country",
+            "GPE"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Produce",
+            "Polka Shows",
+            "EVENT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Control",
+            "Jan Lewan Enterprises",
+            "COMP"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Impact",
+            "Elder Fraud and Abuse",
+            "CONCEPT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Relate_To",
+            "Unregulated Securities",
+            "CONCEPT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Relate_To",
+            "Bait and Switch",
+            "CONCEPT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Relate_To",
+            "Guaranteed Returns",
+            "CONCEPT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Has",
+            "Promissory Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Invests_In",
+            "Polka Shows",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Is_Member_Of",
+            "Senior Cohorts",
+            "CONCEPT"
+        ],
+        [
+            "FINRA",
+            "ORG/REG",
+            "Call_Out",
+            "Unregistered Securities",
+            "CONCEPT"
+        ],
+        [
+            "Regulators",
+            "ORG/REG",
+            "Register",
+            "Securities",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Shut Down",
+            "Jan Lewan",
+            "PERSON"
+        ],
+        [
+            "Jan Lewan",
+            "PERSON",
+            "Vow",
+            "Pay Back",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

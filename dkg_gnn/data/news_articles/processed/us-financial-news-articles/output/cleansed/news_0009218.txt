@@ -1,0 +1,305 @@
+{
+    "output": [
+        [
+            "United States",
+            "GPE",
+            "Set_Ultimatum",
+            "Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Set_Ultimatum",
+            "Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Retaliate",
+            "New Sanctions",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Impose",
+            "New Sanctions",
+            "EVENT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Call",
+            "Trump\u2019s Comments",
+            "EVENT"
+        ],
+        [
+            "Europeans",
+            "GPE",
+            "Pressure",
+            "Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Approve",
+            "Waiver",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Announce",
+            "Sanctions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Describing",
+            "Sanctions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Say",
+            "Nuclear Programme",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Stick",
+            "Accord",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Withdraw",
+            "Nuclear Deal",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Shred",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Criticise",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Not_Waive",
+            "Sanctions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Allow",
+            "Inspections",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Exceed",
+            "Limit",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Want",
+            "Modify",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Tie",
+            "Long-range Missile",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Testing",
+            "Subject",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Reimpose",
+            "Sanctions",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Take_Note",
+            "Trump\u2019s Decision",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Assess",
+            "Implications",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Call",
+            "Trump",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Call",
+            "Trump",
+            "EVENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Call",
+            "Trump",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Work",
+            "Follow-on Deal",
+            "EVENT"
+        ],
+        [
+            "Europeans",
+            "GPE",
+            "Address",
+            "Flaws",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Have",
+            "Supreme Leader",
+            "PERSON"
+        ],
+        [
+            "Ayatollah Ali Khamenei",
+            "PERSON",
+            "Close_Ally",
+            "Larijani",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Say",
+            "Hostile Action",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Violate",
+            "International Law",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Retaliate",
+            "Serious Reaction",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Not",
+            "Renegotiate",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Say",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Withhold",
+            "Waiver",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Unlikely",
+            "Join",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Discuss",
+            "Next Steps",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Have",
+            "International Signatories",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "End",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Other Parties",
+            "GPE",
+            "Unlikely",
+            "Reimpose",
+            "EVENT"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Meeting",
+            "Jan_22",
+            "DATE"
+        ],
+        [
+            "European Union",
+            "GPE",
+            "Discuss",
+            "Next Steps",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Evolus Inc",
+            "COMP",
+            "File",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Evolus Inc",
+            "COMP",
+            "Intend",
+            "NASDAQ",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Evolus Inc",
+            "COMP",
+            "Apply",
+            "SEC Filing",
+            "EVENT"
+        ],
+        [
+            "Evolus Inc",
+            "COMP",
+            "List",
+            "Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Evolus Inc",
+            "COMP",
+            "Has",
+            "Underwriters",
+            "ORG"
+        ],
+        [
+            "Cantor",
+            "ORG",
+            "Underwriter",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Mizuho Securities",
+            "ORG",
+            "Underwriter",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Suntrust Robinson Humphrey",
+            "ORG",
+            "Underwriter",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "JMP Securities",
+            "ORG",
+            "Underwriter",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "IPO",
+            "EVENT",
+            "Price",
+            "Estimate",
+            "CONCEPT"
+        ]
+    ]
+}

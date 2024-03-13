@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Oil prices",
+            "ECON_INDICATOR",
+            "Climb",
+            "Fresh Three Year Highs",
+            "CONCEPT"
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "61 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Settle",
+            "$63.57",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. crude futures",
+            "FIN_INSTRUMENT",
+            "Highest Settlement",
+            "Dec 9, 2014",
+            "DATE"
+        ],
+        [
+            "New York Mercantile Exchange",
+            "ORG",
+            "Host",
+            "U.S. crude futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Brent",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "38 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brent",
+            "FIN_INSTRUMENT",
+            "Settle",
+            "$69.20",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ICE Futures Europe",
+            "ORG",
+            "Host",
+            "Brent",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Geopolitical risk",
+            "CONCEPT",
+            "Boost",
+            "Oil prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Declining U.S. crude stockpiles",
+            "CONCEPT",
+            "Boost",
+            "Oil prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

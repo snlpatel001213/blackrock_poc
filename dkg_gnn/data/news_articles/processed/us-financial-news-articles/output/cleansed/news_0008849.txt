@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Calix Inc.",
+            "COMP",
+            "Announce",
+            "Fourth Quarter and Fiscal Year 2017 Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Operate_In",
+            "PETALUMA, Calif.",
+            "GPE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Include",
+            "Forward-Looking Information",
+            "CONCEPT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Available_Via",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Has",
+            "Investor Relations Website",
+            "WEBSITE"
+        ],
+        [
+            "Interested Parties",
+            "PERSON",
+            "Can_Listen_To",
+            "Live Webcast",
+            "EVENT"
+        ],
+        [
+            "Live Webcast",
+            "EVENT",
+            "Available_On",
+            "Calix Investor Relations Website",
+            "WEBSITE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Include",
+            "Conference ID",
+            "CONCEPT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Available_Via",
+            "Teleconference",
+            "EVENT"
+        ],
+        [
+            "Teleconference",
+            "EVENT",
+            "Available_With",
+            "Conference ID",
+            "CONCEPT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Has",
+            "Director of Investor Relations",
+            "PERSON"
+        ],
+        [
+            "Director of Investor Relations",
+            "PERSON",
+            "Name",
+            "Thomas J. Dinges",
+            "PERSON"
+        ],
+        [
+            "Thomas J. Dinges",
+            "PERSON",
+            "Work_At",
+            "Calix Inc.",
+            "COMP"
+        ],
+        [
+            "Thomas J. Dinges",
+            "PERSON",
+            "Contact",
+            "Investor Inquiries",
+            "CONCEPT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Has",
+            "Investor Inquiries",
+            "CONCEPT"
+        ],
+        [
+            "Investor Inquiries",
+            "CONCEPT",
+            "Contact",
+            "Thomas J. Dinges",
+            "PERSON"
+        ],
+        [
+            "Thomas J. Dinges",
+            "PERSON",
+            "Contact",
+            "408-474-0080",
+            "PHONE"
+        ],
+        [
+            "Thomas J. Dinges",
+            "PERSON",
+            "Contact",
+            "Tom.Dinges@Calix.com",
+            "EMAIL"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Has",
+            "Website",
+            "WEBSITE"
+        ],
+        [
+            "Website",
+            "WEBSITE",
+            "Address",
+            "www.calix.com",
+            "WEBSITE"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Pioneered",
+            "Software Defined Access",
+            "CONCEPT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Pioneered",
+            "Cloud Products",
+            "PRODUCT"
+        ],
+        [
+            "Cloud Products",
+            "PRODUCT",
+            "Focused_On",
+            "Access Networks",
+            "CONCEPT"
+        ],
+        [
+            "Cloud Products",
+            "PRODUCT",
+            "Focused_On",
+            "Subscriber",
+            "PERSON"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Portfolio",
+            "Intelligent Access Systems",
+            "PRODUCT"
+        ],
+        [
+            "Intelligent Access Systems",
+            "PRODUCT",
+            "Combine",
+            "AXOS",
+            "CONCEPT"
+        ],
+        [
+            "Intelligent Access Systems",
+            "PRODUCT",
+            "Combine",
+            "EXOS",
+            "CONCEPT"
+        ],
+        [
+            "AXOS",
+            "CONCEPT",
+            "Revolutionary_Platform",
+            "Access",
+            "CONCEPT"
+        ],
+        [
+            "EXOS",
+            "CONCEPT",
+            "Experience_OS",
+            "Subscriber",
+            "PERSON"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Portfolio",
+            "Calix Cloud",
+            "PRODUCT"
+        ],
+        [
+            "Calix Cloud",
+            "PRODUCT",
+            "Innovative_Cloud_Products",
+            "Network Data Analytics",
+            "CONCEPT"
+        ],
+        [
+            "Calix Cloud",
+            "PRODUCT",
+            "Innovative_Cloud_Products",
+            "Subscriber Experience Assurance",
+            "CONCEPT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Enable",
+            "Communications Service Providers",
+            "COMP"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Enable",
+            "Transform",
+            "CONCEPT"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Enable",
+            "Winning_Service_Providers",
+            "COMP"
+        ],
+        [
+            "Calix Inc.",
+            "COMP",
+            "Enable",
+            "Tomorrow",
+            "TEMPORAL"
+        ]
+    ]
+}

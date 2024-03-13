@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "LME",
+            "ORG/REG",
+            "Operate_In",
+            "Zinc Market",
+            "SECTOR"
+        ],
+        [
+            "LME",
+            "ORG/REG",
+            "Impact",
+            "Zinc Supply Deficit",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Import",
+            "Zinc",
+            "PRODUCT"
+        ],
+        [
+            "Shanghai Futures Exchange",
+            "ORG",
+            "Control",
+            "Shanghai Zinc Contract",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Produce",
+            "Zinc",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Zinc Production",
+            "SECTOR"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Looking_For",
+            "Zinc Prices to Peak",
+            "CONCEPT"
+        ]
+    ]
+}

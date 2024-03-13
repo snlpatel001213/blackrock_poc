@@ -1,0 +1,214 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Limit",
+            "Oil Exports",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Limit",
+            "Refined Product Exports",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Limit",
+            "Steel Exports",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Limit",
+            "Other Metals Exports",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Comply_With",
+            "UN Sanctions",
+            "ORG/REG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Operate_In",
+            "UN",
+            "ORG/REG"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Impose",
+            "Sanctions",
+            "ORG/REG"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Access",
+            "CONCEPT"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Refined Petroleum Products Exports",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Crude Oil Supplies",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Limit",
+            "Access",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Limit",
+            "Refined Petroleum Products Imports",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Limit",
+            "Crude Oil Imports",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Missile Programs",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Nuclear Programs",
+            "CONCEPT"
+        ],
+        [
+            "South",
+            "GPE",
+            "Hold",
+            "Official Talks",
+            "EVENT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Hold",
+            "Official Talks",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Continue",
+            "Adhere",
+            "VERB"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "No Oil Products",
+            "COMP"
+        ],
+        [
+            "China",
+            "GPE",
+            "Export",
+            "No Oil Products",
+            "COMP"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Top",
+            "Trading Partners",
+            "SECTOR"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Prohibit",
+            "Nearly 90 %",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Prohibit",
+            "Refined Petroleum Exports",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Cap",
+            "Refined Petroleum Exports",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Crude Oil Supplies",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Cap",
+            "Crude Oil Supplies",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Crude Oil Imports",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Refined Petroleum Products Imports",
+            "COMP"
+        ],
+        [
+            "UN",
+            "ORG/REG",
+            "Limit",
+            "Oil Imports",
+            "COMP"
+        ]
+    ]
+}

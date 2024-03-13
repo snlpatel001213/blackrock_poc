@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Required Minimum Distributions",
+            "CONCEPT",
+            "Relate_To",
+            "Qualified IRAs",
+            "COMP"
+        ],
+        [
+            "Required Minimum Distributions",
+            "CONCEPT",
+            "Operate_In",
+            "Government Policy",
+            "ORG/GOV"
+        ],
+        [
+            "Required Minimum Distributions",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Charitable Giving",
+            "CONCEPT"
+        ],
+        [
+            "Charitable Giving",
+            "CONCEPT",
+            "Impact",
+            "Adjusted Gross Income",
+            "CONCEPT"
+        ],
+        [
+            "Adjusted Gross Income",
+            "CONCEPT",
+            "Operate_In",
+            "Taxation System",
+            "ORG/GOV"
+        ],
+        [
+            "Increased Standard Deduction",
+            "CONCEPT",
+            "Relate_To",
+            "Taxation System",
+            "ORG/GOV"
+        ]
+    ]
+}

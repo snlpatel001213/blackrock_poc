@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "Scientists at University of Texas Medical Branch at Galveston",
+            "ORG",
+            "Develop",
+            "New Weight Loss Drug",
+            "PRODUCT"
+        ],
+        [
+            "New Weight Loss Drug",
+            "PRODUCT",
+            "Take",
+            "Different Approach",
+            "CONCEPT"
+        ],
+        [
+            "New Weight Loss Drug",
+            "PRODUCT",
+            "Burn",
+            "Fat",
+            "CONCEPT"
+        ],
+        [
+            "New Weight Loss Drug",
+            "PRODUCT",
+            "Not Suppress",
+            "Appetite",
+            "CONCEPT"
+        ],
+        [
+            "Study",
+            "EVENT",
+            "Publish",
+            "In",
+            "Biochemical Pharmacology"
+        ],
+        [
+            "Research",
+            "EVENT",
+            "Preliminary",
+            null,
+            null
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Given",
+            "Food",
+            "PRODUCT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Become",
+            "Obese",
+            "CONCEPT"
+        ],
+        [
+            "Mice",
+            "GPE",
+            "Fed",
+            "Drug",
+            "PRODUCT"
+        ],
+        [
+            "Drug",
+            "PRODUCT",
+            "Increase",
+            "Cellular Metabolism",
+            "CONCEPT"
+        ],
+        [
+            "Obesity-Linked White Fat Cells",
+            "CONCEPT",
+            "Increase",
+            "Cellular Metabolism",
+            "CONCEPT"
+        ],
+        [
+            "Size of Fat Cells",
+            "CONCEPT",
+            "Shrink",
+            "30%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mice Given Drug",
+            "GPE",
+            "Compared",
+            "Mice Given Placebo",
+            "GPE"
+        ],
+        [
+            "Blood Cholesterol Levels",
+            "CONCEPT",
+            "Return",
+            "Normal",
+            "CONCEPT"
+        ],
+        [
+            "Senior Study Author Stanley Watowich",
+            "PERSON",
+            "Notes",
+            "Weight Loss and Obesity Drugs",
+            "PRODUCT"
+        ],
+        [
+            "Weight Loss and Obesity Drugs",
+            "PRODUCT",
+            "Help",
+            "Prevent",
+            "CONCEPT"
+        ],
+        [
+            "Conditions",
+            "CONCEPT",
+            "Like",
+            "Heart Disease",
+            "CONCEPT"
+        ],
+        [
+            "Conditions",
+            "CONCEPT",
+            "Like",
+            "Type 2 Diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Most American Children Today",
+            "GPE",
+            "Expected",
+            "Obese",
+            "CONCEPT"
+        ],
+        [
+            "By Time They\u2019re 35",
+            "ECON_INDICATOR",
+            null,
+            null,
+            null
+        ],
+        [
+            "About 40% of U.S. Adults",
+            "GPE",
+            "Currently",
+            "Obese",
+            "CONCEPT"
+        ],
+        [
+            "Fat Cells",
+            "CONCEPT",
+            "Grow",
+            "Larger",
+            "CONCEPT"
+        ],
+        [
+            "Fat Cells",
+            "CONCEPT",
+            "Overexpress",
+            "Protein",
+            "CONCEPT"
+        ],
+        [
+            "Protein",
+            "CONCEPT",
+            "Act",
+            "Metabolic Brake",
+            "CONCEPT"
+        ],
+        [
+            "Fat Cell Metabolism",
+            "CONCEPT",
+            "Slow",
+            "Down",
+            "CONCEPT"
+        ],
+        [
+            "Fat Tissue",
+            "CONCEPT",
+            "Expand",
+            null,
+            null
+        ],
+        [
+            "Fat Tissue",
+            "CONCEPT",
+            "Secret",
+            "Hormones",
+            "CONCEPT"
+        ],
+        [
+            "Fat Tissue",
+            "CONCEPT",
+            "Secret",
+            "Pro-Inflammatory Signals",
+            "CONCEPT"
+        ],
+        [
+            "Chronic Diseases",
+            "CONCEPT",
+            "Include",
+            "Type 2 Diabetes",
+            "CONCEPT"
+        ],
+        [
+            "Chronic Diseases",
+            "CONCEPT",
+            "Include",
+            "Cardiovascular Disease",
+            "CONCEPT"
+        ],
+        [
+            "Common Approaches",
+            "CONCEPT",
+            "Include",
+            "Bariatric Surgery",
+            "PRODUCT"
+        ],
+        [
+            "Common Approaches",
+            "CONCEPT",
+            "Include",
+            "Pills",
+            "PRODUCT"
+        ],
+        [
+            "Common Approaches",
+            "CONCEPT",
+            "Include",
+            "Devices",
+            "PRODUCT"
+        ],
+        [
+            "Devices",
+            "PRODUCT",
+            "Suppress",
+            "Appetite",
+            "CONCEPT"
+        ],
+        [
+            "Accelerated Fat Cell Metabolism",
+            "CONCEPT",
+            "Tackle",
+            "Obesity",
+            "CONCEPT"
+        ],
+        [
+            "Accelerated Fat Cell Metabolism",
+            "CONCEPT",
+            "Facilitate",
+            "Behavioral Changes",
+            "CONCEPT"
+        ]
+    ]
+}

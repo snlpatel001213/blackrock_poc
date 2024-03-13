@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Patterson-UTI Energy",
+            "ORG",
+            "Announce",
+            "Fourth Quarter Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Patterson-UTI Energy",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Patterson-UTI Energy",
+            "ORG",
+            "Control",
+            "Contract Drilling",
+            "SECTOR"
+        ],
+        [
+            "Patterson-UTI Energy",
+            "ORG",
+            "Control",
+            "Pressure Pumping",
+            "SECTOR"
+        ],
+        [
+            "Patterson-UTI Energy",
+            "ORG",
+            "Control",
+            "Directional Drilling Services",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "output": [
+        [
+            "IOC",
+            "ORG",
+            "Welcome",
+            "North Korean Olympic",
+            "EVENT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Keep",
+            "Invitation",
+            "EVENT",
+            "open"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Discuss",
+            "NOC of DPRK",
+            "ORG"
+        ],
+        [
+            "NOC of DPRK",
+            "ORG",
+            "Participate",
+            "Pyeongchang Games",
+            "EVENT"
+        ],
+        [
+            "Pyeongchang Games",
+            "EVENT",
+            "Take place",
+            "80 km",
+            "GPE",
+            "from",
+            "demilitarized zone",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Refer",
+            "Winter Games",
+            "EVENT",
+            "in",
+            "speech"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Showcase",
+            "national pride",
+            "CONCEPT",
+            "in",
+            "Winter Games",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Welcome",
+            "Kim\u2019s offer"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Based",
+            "Washington",
+            "GPE",
+            "pressure",
+            "North Korea",
+            "GPE",
+            "through",
+            "sanctions"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Aimed",
+            "developing",
+            "CONCEPT",
+            "nuclear missiles",
+            "capable",
+            "hitting",
+            "United States",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "High's",
+            "COMP",
+            "Operate_In",
+            "Maryland",
+            "GPE"
+        ],
+        [
+            "High's",
+            "COMP",
+            "Has",
+            "CB4",
+            "ORG"
+        ],
+        [
+            "CB4",
+            "ORG",
+            "Announce",
+            "Partnership",
+            "EVENT"
+        ],
+        [
+            "Partnership",
+            "EVENT",
+            "Participates_In",
+            "Same-store growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CB4",
+            "ORG",
+            "Produce",
+            "Machine learning software",
+            "PRODUCT"
+        ],
+        [
+            "High's",
+            "COMP",
+            "Use",
+            "Machine learning software",
+            "PRODUCT"
+        ],
+        [
+            "Machine learning software",
+            "PRODUCT",
+            "Impact",
+            "Operational inefficiencies",
+            "CONCEPT"
+        ],
+        [
+            "Machine learning software",
+            "PRODUCT",
+            "Impact",
+            "Merchandising opportunities",
+            "CONCEPT"
+        ],
+        [
+            "High's",
+            "COMP",
+            "Originated",
+            "Ice cream stores",
+            "COMP"
+        ],
+        [
+            "High's",
+            "COMP",
+            "Transform",
+            "Convenience stores",
+            "COMP"
+        ],
+        [
+            "Katharine Castro",
+            "PERSON",
+            "Is_Member_Of",
+            "High's",
+            "COMP"
+        ],
+        [
+            "Katharine Castro",
+            "PERSON",
+            "Say",
+            "Excited",
+            "CONCEPT"
+        ],
+        [
+            "CB4 Analytics",
+            "ORG",
+            "Provide",
+            "Software solution",
+            "PRODUCT"
+        ],
+        [
+            "Software solution",
+            "PRODUCT",
+            "Increase",
+            "Same-store growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Software solution",
+            "PRODUCT",
+            "Require",
+            "No hardware installation",
+            "CONCEPT"
+        ],
+        [
+            "Software solution",
+            "PRODUCT",
+            "Require",
+            "Minimal effort",
+            "CONCEPT"
+        ],
+        [
+            "Software solution",
+            "PRODUCT",
+            "Potentially generate",
+            "Excess of 1% same-store sales growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yoni Benshaul",
+            "PERSON",
+            "CEO",
+            "CB4",
+            "ORG"
+        ],
+        [
+            "Yoni Benshaul",
+            "PERSON",
+            "Delighted",
+            "Partner",
+            "ORG"
+        ],
+        [
+            "CB4 Analytics",
+            "ORG",
+            "Proud",
+            "Partner",
+            "ORG"
+        ],
+        [
+            "CB4 Analytics",
+            "ORG",
+            "Have",
+            "Offices",
+            "COMP"
+        ],
+        [
+            "Offices",
+            "COMP",
+            "Locate",
+            "New York",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "COMP",
+            "Locate",
+            "Tel Aviv",
+            "GPE"
+        ],
+        [
+            "CB4 Analytics",
+            "ORG",
+            "Partner",
+            "Sequoia Capital",
+            "ORG"
+        ],
+        [
+            "Sequoia Capital",
+            "ORG",
+            "Proud",
+            "Partner",
+            "ORG"
+        ],
+        [
+            "Matthew McAlister",
+            "PERSON",
+            "Contact",
+            "CB4 Analytics",
+            "ORG"
+        ]
+    ]
+}

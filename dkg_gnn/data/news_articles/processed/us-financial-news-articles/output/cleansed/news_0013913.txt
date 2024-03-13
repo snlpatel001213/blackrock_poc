@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "D\u2018Ieteren",
+            "ORG",
+            "Want",
+            "35-40 percent of its vehicle sales to be electric vehicles by 2025",
+            "ECON_INDICATOR"
+        ],
+        [
+            "D\u2018Ieteren",
+            "ORG",
+            "Sell",
+            "cars and parts of Volkswagen brands including Skoda, Audi and Lamborghini in Belgium",
+            "COMP"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Has",
+            "a more ambitious target than D\u2018Ieteren",
+            "ORG"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Want",
+            "electrified vehicles to be a quarter of deliveries by 2025",
+            "ECON_INDICATOR"
+        ],
+        [
+            "D\u2018Ieteren Auto",
+            "ORG",
+            "Is_Member_Of",
+            "D\u2018Ieteren",
+            "ORG"
+        ],
+        [
+            "D\u2018Ieteren Auto",
+            "ORG",
+            "Tell",
+            "Belgian business daily L\u2018Echo",
+            "COMP"
+        ],
+        [
+            "Belgium",
+            "GPE",
+            "Have",
+            "policies that encouraged electric vehicle use",
+            "CONCEPT"
+        ],
+        [
+            "D\u2018Ieteren",
+            "ORG",
+            "Not_Looking_For",
+            "subsidies",
+            "CONCEPT"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Approve",
+            "34 billion euro spending plan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Efforts",
+            "to become a global leader in electric cars",
+            "CONCEPT"
+        ]
+    ]
+}

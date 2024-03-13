@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Globetouch",
+            "COMP",
+            "Has",
+            "Advisory Board",
+            "ORG"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Appoint",
+            "Greg Ross",
+            "PERSON"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Appoint",
+            "Gabriele Di Piazza",
+            "PERSON"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Lend",
+            "Experience",
+            "CONCEPT"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Guide",
+            "Globetouch",
+            "COMP"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Relate_To",
+            "Automotive OEM",
+            "ORG/SECTOR"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Relate_To",
+            "Connected Car Marketplace",
+            "SECTOR"
+        ],
+        [
+            "Gabriele Di Piazza",
+            "PERSON",
+            "Drive",
+            "Telco Industry Innovation",
+            "CONCEPT"
+        ],
+        [
+            "Gabriele Di Piazza",
+            "PERSON",
+            "Work",
+            "VMware",
+            "COMP"
+        ],
+        [
+            "Gabriele Di Piazza",
+            "PERSON",
+            "Help",
+            "Globetouch",
+            "COMP"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Capitalize",
+            "New Areas",
+            "CONCEPT"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Focus",
+            "Global Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Focus",
+            "Connectivity",
+            "CONCEPT"
+        ],
+        [
+            "Globetouch",
+            "COMP",
+            "Offer",
+            "OEMs",
+            "ORG/SECTOR"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Share",
+            "Insights",
+            "CONCEPT"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Participates_In",
+            "Webinar",
+            "EVENT"
+        ],
+        [
+            "Greg Ross",
+            "PERSON",
+            "Relate_To",
+            "Why & How OEMs Should Consider a Global Solution",
+            "CONCEPT"
+        ]
+    ]
+}

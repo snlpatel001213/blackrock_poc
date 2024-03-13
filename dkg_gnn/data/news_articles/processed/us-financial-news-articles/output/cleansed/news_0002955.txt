@@ -1,0 +1,212 @@
+{
+    "output": [
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Announce",
+            "Release of Fourth Quarter and Full Year 2017 Financial Results",
+            "EVENT"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Operate_In",
+            "N.C.",
+            "GPE"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Has",
+            "Press Release",
+            "PRODUCT"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Issue",
+            "Via PR Newswire",
+            "ORG"
+        ],
+        [
+            "Press Release",
+            "PRODUCT",
+            "Issue",
+            "On Ally Press Room Website",
+            "ORG"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Include",
+            "Review of Company Performance",
+            "CONCEPT"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Include",
+            "Question and Answer Session",
+            "CONCEPT"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Dial",
+            "844-530-6677",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Dial",
+            "+1-508-637-5641",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Enter",
+            "Conference ID Code 2288449",
+            "TEXT"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Webcast",
+            "Live on Ally Investor Relations Website",
+            "ORG"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Post",
+            "Presentation and Financial Supplement",
+            "PRODUCT"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Post",
+            "Presentation and Financial Supplement",
+            "PRODUCT"
+        ],
+        [
+            "Presentation and Financial Supplement",
+            "PRODUCT",
+            "Post",
+            "In Events & Presentations Section",
+            "SECTION"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Make",
+            "Taped Replay",
+            "PRODUCT"
+        ],
+        [
+            "Taped Replay",
+            "PRODUCT",
+            "Available",
+            "From 12:00 p.m. ET on January 30, 2018, Until February 6, 2018",
+            "TIME_PERIOD"
+        ],
+        [
+            "Taped Replay",
+            "PRODUCT",
+            "Dial",
+            "855-859-2056",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Taped Replay",
+            "PRODUCT",
+            "Dial",
+            "+1-404-537-3406",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Taped Replay",
+            "PRODUCT",
+            "Enter",
+            "Conference ID Code 2288449",
+            "TEXT"
+        ],
+        [
+            "Conference Call",
+            "PRODUCT",
+            "Replay",
+            "Webcast",
+            "PRODUCT"
+        ],
+        [
+            "Ally Financial Inc.",
+            "COMP",
+            "Have",
+            "Contacts",
+            "CONCEPT"
+        ],
+        [
+            "Contacts",
+            "CONCEPT",
+            "Sari Jensen",
+            "PERSON"
+        ],
+        [
+            "Sari Jensen",
+            "PERSON",
+            "Ally Communications",
+            "ORG"
+        ],
+        [
+            "Sari Jensen",
+            "PERSON",
+            "Media",
+            "SECTOR"
+        ],
+        [
+            "Sari Jensen",
+            "PERSON",
+            "646-781-2539",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Sari Jensen",
+            "PERSON",
+            "sari.jensen@ally.com",
+            "EMAIL"
+        ],
+        [
+            "Contacts",
+            "CONCEPT",
+            "Michael T. Brown",
+            "PERSON"
+        ],
+        [
+            "Michael T. Brown",
+            "PERSON",
+            "Ally Investor Relations",
+            "ORG"
+        ],
+        [
+            "Michael T. Brown",
+            "PERSON",
+            "704-444-5225",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Michael T. Brown",
+            "PERSON",
+            "michael.t.brown@ally.com",
+            "EMAIL"
+        ]
+    ]
+}

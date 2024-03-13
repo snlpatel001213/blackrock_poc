@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Catalonia",
+            "GPE",
+            "Form_Government",
+            "Catalonias Parliament",
+            "ORG/GOV"
+        ],
+        [
+            "Carles Puigdemont",
+            "PERSON",
+            "Question",
+            "Return as President",
+            "ORG/GOV"
+        ],
+        [
+            "Carles Puigdemont",
+            "PERSON",
+            "Push",
+            "Independence from Spain",
+            "GPE"
+        ],
+        [
+            "Catalonias Parliament",
+            "ORG/GOV",
+            "Dominated_By",
+            "Question",
+            "CONCEPT"
+        ]
+    ]
+}

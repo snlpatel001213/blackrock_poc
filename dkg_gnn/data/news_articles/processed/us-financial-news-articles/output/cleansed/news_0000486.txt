@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "commercial real-estate investors",
+            "PERSON",
+            "Invests_In",
+            "commercial real-estate",
+            "PRODUCT"
+        ],
+        [
+            "commercial real-estate",
+            "PRODUCT",
+            "Near_Peak_Levels",
+            "many markets",
+            "GPE"
+        ],
+        [
+            "anything they bought in the past eight years",
+            "PRODUCT",
+            "Put_In_Black",
+            "most",
+            "QUANTITY"
+        ],
+        [
+            "commercial real-estate",
+            "PRODUCT",
+            "Near_Peak_Levels",
+            "many markets",
+            "GPE"
+        ],
+        [
+            "buying property this year",
+            "PRODUCT",
+            "Particularly_Tricky",
+            "Values",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

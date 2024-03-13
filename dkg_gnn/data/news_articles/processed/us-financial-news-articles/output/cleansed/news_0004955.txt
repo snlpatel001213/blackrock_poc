@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Airbnb",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Google",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Is_Member_Of",
+            "Facebook",
+            "ORG"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Announce",
+            "Join Legal Action",
+            "EVENT"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Relate_To",
+            "Net Neutrality Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Federal Communications Commission",
+            "ORG/REG",
+            "Release",
+            "Restoring Internet Freedom Order",
+            "EVENT"
+        ],
+        [
+            "Restoring Internet Freedom Order",
+            "EVENT",
+            "Approve",
+            "Net Neutrality Repeal",
+            "EVENT"
+        ],
+        [
+            "Restoring Internet Freedom Order",
+            "EVENT",
+            "Negative_Impact_On",
+            "Net Neutrality Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Internet Service Providers",
+            "ORG",
+            "Can",
+            "Throttle, Block, or Charge More",
+            "VERB"
+        ],
+        [
+            "Major Internet Retailers",
+            "ORG",
+            "Fear",
+            "Charging for Faster Connections",
+            "VERB"
+        ],
+        [
+            "Smaller Startups",
+            "ORG",
+            "Present",
+            "Roadblock",
+            "VERB"
+        ],
+        [
+            "Supporters of Rollback",
+            "ORG",
+            "Say",
+            "Encourage Investment in Internet Infrastructure",
+            "VERB"
+        ],
+        [
+            "Supporters of Rollback",
+            "ORG",
+            "Say",
+            "Align with Free-Market Ideology",
+            "VERB"
+        ],
+        [
+            "Internet Association",
+            "ORG",
+            "Act as",
+            "Intervener",
+            "ROLE"
+        ],
+        [
+            "Intervener",
+            "ROLE",
+            "Granted Rights",
+            "Comment or Act in Case",
+            "VERB"
+        ],
+        [
+            "Opponents of Decision",
+            "ORG",
+            "Prepare",
+            "Fight in Courts",
+            "VERB"
+        ],
+        [
+            "New York Attorney General Eric Schneiderman",
+            "PERSON",
+            "Sue",
+            "Block Decision",
+            "VERB"
+        ],
+        [
+            "Legal Challenges",
+            "EVENT",
+            "Argue",
+            "Overstep FCC Procedural Authority",
+            "VERB"
+        ],
+        [
+            "Etsy",
+            "ORG",
+            "Take",
+            "Direct Legal Action",
+            "VERB"
+        ]
+    ]
+}

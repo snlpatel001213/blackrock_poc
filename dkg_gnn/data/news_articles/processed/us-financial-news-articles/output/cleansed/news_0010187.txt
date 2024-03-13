@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Kazakhstan",
+            "GPE",
+            "Increase",
+            "Oil Output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kazakhstan",
+            "GPE",
+            "Operate_In",
+            "Energy Ministry",
+            "ORG/GOV"
+        ],
+        [
+            "Kazakhstan",
+            "GPE",
+            "Produce",
+            "Gas Concentrate",
+            "PRODUCT"
+        ],
+        [
+            "Kazakhstan",
+            "GPE",
+            "Impact",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Kazakhstan",
+            "GPE",
+            "Impact",
+            "87 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kashagan Oil Field",
+            "COMP",
+            "Control",
+            "Oil Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kashagan Oil Field",
+            "COMP",
+            "Impact",
+            "33 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kashagan Oil Field",
+            "COMP",
+            "Produce",
+            "11 Million Tonnes",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

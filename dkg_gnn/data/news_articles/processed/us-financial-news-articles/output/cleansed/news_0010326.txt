@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Control",
+            "Ocean Infinity",
+            "ORG"
+        ],
+        [
+            "Ocean Infinity",
+            "ORG",
+            "Operate_In",
+            "Houston",
+            "GPE"
+        ],
+        [
+            "Ocean Infinity",
+            "ORG",
+            "Participates_In",
+            "Search for MH370",
+            "EVENT"
+        ],
+        [
+            "Malaysia",
+            "GPE",
+            "Sign",
+            "Deal",
+            "CONCEPT"
+        ],
+        [
+            "Deal",
+            "CONCEPT",
+            "Relate_To",
+            "Payment of up to $70 million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deal",
+            "CONCEPT",
+            "Relate_To",
+            "Finding MH370 within 90 days",
+            "TIME"
+        ],
+        [
+            "Malaysian Airlines",
+            "COMP",
+            "Lose",
+            "Flight MH370",
+            "EVENT"
+        ],
+        [
+            "Flight MH370",
+            "EVENT",
+            "Go_Down",
+            "Indian Ocean",
+            "GPE"
+        ],
+        [
+            "Flight MH370",
+            "EVENT",
+            "Disappear",
+            "With all 239 people on board",
+            "PERSON"
+        ]
+    ]
+}

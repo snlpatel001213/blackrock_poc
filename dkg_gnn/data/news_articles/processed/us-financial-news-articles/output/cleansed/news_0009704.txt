@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "420.83",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Has",
+            "33.75",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nasdaq Composite",
+            "FIN_INSTRUMENT",
+            "Has",
+            "103.56",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States Government",
+            "ORG/GOV",
+            "Control",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Interest Rates",
+            "CONCEPT"
+        ],
+        [
+            "Interest Rates",
+            "CONCEPT",
+            "Relate_To",
+            "Bond Yields",
+            "CONCEPT"
+        ],
+        [
+            "Bond Yields",
+            "CONCEPT",
+            "Impact",
+            "Stock Prices",
+            "CONCEPT"
+        ],
+        [
+            "Stock Prices",
+            "CONCEPT",
+            "Relate_To",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Global Markets",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Investors",
+            "PERSON"
+        ]
+    ]
+}

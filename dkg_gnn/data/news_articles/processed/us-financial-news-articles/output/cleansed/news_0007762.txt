@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Jordan",
+            "GPE",
+            "Foil",
+            "Islamic State",
+            "ORG/REG"
+        ],
+        [
+            "Islamic State",
+            "ORG/REG",
+            "Plan",
+            "Attacks",
+            "EVENT"
+        ],
+        [
+            "Jordan",
+            "GPE",
+            "Arrest",
+            "17",
+            "PERSON"
+        ],
+        [
+            "Cell",
+            "CONCEPT",
+            "Confiscate",
+            "Weapons",
+            "COMP"
+        ],
+        [
+            "Cell",
+            "CONCEPT",
+            "Confiscate",
+            "Explosives",
+            "COMP"
+        ],
+        [
+            "Cell",
+            "CONCEPT",
+            "Plan",
+            "Bank Robberies",
+            "EVENT"
+        ],
+        [
+            "Cell",
+            "CONCEPT",
+            "Plan",
+            "Car Thefts",
+            "EVENT"
+        ],
+        [
+            "Cell",
+            "CONCEPT",
+            "Manufacture",
+            "Explosives",
+            "COMP"
+        ],
+        [
+            "Al Qaeda",
+            "ORG/REG",
+            "Target",
+            "Jordan",
+            "GPE"
+        ],
+        [
+            "King Abdullah",
+            "PERSON",
+            "Warn",
+            "Threats",
+            "CONCEPT"
+        ],
+        [
+            "Jordan",
+            "GPE",
+            "Play",
+            "Role",
+            "SECTOR"
+        ],
+        [
+            "Jordan",
+            "GPE",
+            "Provide",
+            "Support",
+            "SECTOR"
+        ],
+        [
+            "Islamic State",
+            "ORG/REG",
+            "Claim",
+            "Responsibility",
+            "EVENT"
+        ],
+        [
+            "Militants",
+            "CONCEPT",
+            "Kill",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Militants",
+            "CONCEPT",
+            "Kill",
+            "Tourist",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Canadian M&A",
+            "ECON_INDICATOR",
+            "Decrease",
+            "2017",
+            "GPE"
+        ],
+        [
+            "Canadian M&A",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Rising equity markets",
+            "CONCEPT",
+            "Impact",
+            "Canadian M&A",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Clarity on U.S. tax reform",
+            "CONCEPT",
+            "Impact",
+            "Canadian M&A",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. tax system",
+            "CONCEPT",
+            "Relate_To",
+            "U.S. tax reform",
+            "CONCEPT"
+        ],
+        [
+            "U.S. corporate income tax rate",
+            "ECON_INDICATOR",
+            "Decrease",
+            "2018",
+            "TIME"
+        ],
+        [
+            "U.S. corporate income tax rate",
+            "ECON_INDICATOR",
+            "Control",
+            "U.S. tax system",
+            "CONCEPT"
+        ],
+        [
+            "Canadian firms and funds",
+            "ORG",
+            "Invest_In",
+            "U.S. companies",
+            "ORG"
+        ],
+        [
+            "Canadian and U.S. stocks",
+            "FIN_INSTRUMENT",
+            "At_Record_Highs",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Healthy economies",
+            "CONCEPT",
+            "Has",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Healthy economies",
+            "CONCEPT",
+            "Has",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Corporate liquidity",
+            "CONCEPT",
+            "Very_Robust",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Banking system",
+            "ORG",
+            "Wants_To_Lend",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Financing markets",
+            "CONCEPT",
+            "Attractive",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Lack of visibility",
+            "CONCEPT",
+            "Hold_Back",
+            "Some potential buyers",
+            "ORG"
+        ],
+        [
+            "Negotiations over renewal",
+            "CONCEPT",
+            "Relate_To",
+            "NAFTA",
+            "CONCEPT"
+        ],
+        [
+            "NAFTA situation",
+            "CONCEPT",
+            "Resolve",
+            "First half",
+            "TIME"
+        ],
+        [
+            "Desire to do deals",
+            "CONCEPT",
+            "Exist",
+            "Some experts",
+            "ORG"
+        ],
+        [
+            "NAFTA negotiations",
+            "CONCEPT",
+            "Add",
+            "Certain level of uncertainty",
+            "CONCEPT"
+        ],
+        [
+            "NAFTA agreement",
+            "CONCEPT",
+            "Necessitate",
+            "Companies",
+            "ORG"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Undertake",
+            "M&A",
+            "CONCEPT"
+        ],
+        [
+            "Position themselves",
+            "CONCEPT",
+            "In",
+            "Post-NAFTA world",
+            "CONCEPT"
+        ],
+        [
+            "Canadian companies",
+            "ORG",
+            "Expect",
+            "Acquire",
+            "VERB"
+        ],
+        [
+            "U.S. targets",
+            "ORG",
+            "In",
+            "Automotive, paper and telecommunication equipment sectors",
+            "SECTOR"
+        ],
+        [
+            "Pension funds",
+            "ORG",
+            "Fuel",
+            "Deal activity",
+            "CONCEPT"
+        ],
+        [
+            "World\u2019s most active dealmakers",
+            "ORG",
+            "Among",
+            "Pension funds",
+            "ORG"
+        ],
+        [
+            "Massive capital pools",
+            "CONCEPT",
+            "Look",
+            "Pension funds",
+            "ORG",
+            "To_Invest"
+        ],
+        [
+            "Outbound deals",
+            "ECON_INDICATOR",
+            "Decline",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Outbound deals",
+            "ECON_INDICATOR",
+            "Expect",
+            "Increased levels",
+            "CONCEPT",
+            "Going_Into",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Market sentiment for M&A",
+            "CONCEPT",
+            "Pick_Up",
+            "Over_Course",
+            "TIME",
+            "Of",
+            "2017",
+            "TIME"
+        ]
+    ]
+}

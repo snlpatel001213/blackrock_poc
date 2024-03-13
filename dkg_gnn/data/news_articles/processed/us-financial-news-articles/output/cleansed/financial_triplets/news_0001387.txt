@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Domestic Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Impact",
+            "Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Cornerstone of Its Foreign Policy",
+            "CONCEPT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Use",
+            "CONCEPT"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "New Leadership",
+            "PERSON"
+        ]
+    ]
+}

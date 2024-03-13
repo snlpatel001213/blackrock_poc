@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Impact",
+            "Yuan",
+            "CURRENCY"
+        ],
+        [
+            "Tony Boyadjian",
+            "PERSON",
+            "Announce",
+            "Yuan",
+            "CURRENCY"
+        ],
+        [
+            "Tony Boyadjian",
+            "PERSON",
+            "Participates_In",
+            "Compass Global Markets",
+            "ORG"
+        ],
+        [
+            "Compass Global Markets",
+            "ORG",
+            "Control",
+            "Global Markets",
+            "SECTOR"
+        ],
+        [
+            "Yuan",
+            "CURRENCY",
+            "Relate_To",
+            "Economic Growth",
+            "CONCEPT"
+        ]
+    ]
+}

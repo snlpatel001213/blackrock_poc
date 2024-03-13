@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Guidewire Software",
+            "COMP",
+            "Announce",
+            "CFO Transition",
+            "EVENT"
+        ],
+        [
+            "Guidewire Software",
+            "COMP",
+            "Has",
+            "Richard Hart",
+            "PERSON"
+        ],
+        [
+            "Richard Hart",
+            "PERSON",
+            "Relate_To",
+            "CFO Transition",
+            "EVENT"
+        ],
+        [
+            "Richard Hart",
+            "PERSON",
+            "Will_Transition_To",
+            "Chief Strategy Officer",
+            "POSITION"
+        ],
+        [
+            "Guidewire Software",
+            "COMP",
+            "Has",
+            "Curtis Smith",
+            "PERSON"
+        ],
+        [
+            "Curtis Smith",
+            "PERSON",
+            "Will_Become",
+            "CFO",
+            "POSITION"
+        ],
+        [
+            "Guidewire Software",
+            "COMP",
+            "Announce",
+            "CFO",
+            "POSITION"
+        ],
+        [
+            "Guidewire Software",
+            "COMP",
+            "Operate_In",
+            "Company Coverage",
+            "SECTOR"
+        ]
+    ]
+}

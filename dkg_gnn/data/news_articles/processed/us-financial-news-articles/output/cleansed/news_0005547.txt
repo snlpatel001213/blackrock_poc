@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Fire and Fury",
+            "EVENT",
+            "Relate_To",
+            "Mental State",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Says",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Says",
+            "Michael Wolff",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Is_Member_Of",
+            "Fire and Fury",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Says",
+            "Work of Fiction",
+            "CONCEPT"
+        ]
+    ]
+}

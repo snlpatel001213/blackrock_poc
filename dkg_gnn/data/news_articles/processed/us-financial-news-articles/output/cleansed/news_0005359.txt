@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "SEC",
+            "ORG/REG",
+            "Investigate",
+            "Kushner Cos",
+            "COMP"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Use",
+            "EB-5",
+            "PROGRAM"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Request",
+            "Information",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Receive",
+            "Request",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Cooperate",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Own",
+            "Stake",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Develop",
+            "One Journal Square",
+            "PRODUCT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Seek",
+            "Funding",
+            "null"
+        ],
+        [
+            "EB-5",
+            "PROGRAM",
+            "Considered",
+            "Securities Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Lead",
+            "null",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Appointed",
+            "Trump\u2019,s Senior White House Adviser",
+            "PERSON"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Son-in-law",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Senior Adviser",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Real Estate",
+            "null",
+            "SECTOR"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Finance",
+            "Developments",
+            "null"
+        ],
+        [
+            "Qiaowai",
+            "COMP",
+            "Organizer",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Immigration Agency",
+            "COMP",
+            "Qiaowai",
+            "null",
+            "null"
+        ],
+        [
+            "KABR Group",
+            "COMP",
+            "Jointly Develop",
+            "One Journal Square",
+            "PRODUCT"
+        ],
+        [
+            "Nicole Kushner",
+            "PERSON",
+            "Speak",
+            "Shanghai",
+            "GPE"
+        ],
+        [
+            "Nicole Kushner",
+            "PERSON",
+            "Apologise",
+            "Mention",
+            "null"
+        ],
+        [
+            "Jared Kushner",
+            "PERSON",
+            "Mention",
+            "null",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Raise",
+            "Cash",
+            "null"
+        ],
+        [
+            "Kushner Cos",
+            "COMP",
+            "Finance",
+            "Project",
+            "null"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Resign",
+            "Lead",
+            "null"
+        ],
+        [
+            "Kushner",
+            "PERSON",
+            "Still Own",
+            "Stake",
+            "null"
+        ]
+    ]
+}

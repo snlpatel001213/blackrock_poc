@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mihajlovic",
+            "PERSON",
+            "Operate_In",
+            "Serie A",
+            "SECTOR"
+        ],
+        [
+            "Torino",
+            "COMP",
+            "Participates_In",
+            "Coppa Italia",
+            "EVENT"
+        ],
+        [
+            "Torino",
+            "COMP",
+            "Is_Member_Of",
+            "Serie A",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "resTORbio",
+            "ORG",
+            "Announce",
+            "Lynne Sullivan",
+            "PERSON"
+        ],
+        [
+            "Lynne Sullivan",
+            "PERSON",
+            "Is_Member_Of",
+            "resTORbio Board of Directors",
+            "ORG"
+        ],
+        [
+            "Biogen",
+            "ORG",
+            "Has",
+            "Lynne Sullivan",
+            "PERSON"
+        ]
+    ]
+}

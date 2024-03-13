@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Dunkin\u2019 Brands Group Inc",
+            "COMP",
+            "Promote",
+            "Scott Murphy",
+            "PERSON"
+        ],
+        [
+            "Dunkin\u2019 Brands",
+            "COMP",
+            "Operate_In",
+            "Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Scott Murphy",
+            "PERSON",
+            "Is_Member_Of",
+            "Dunkin\u2019 U.S.",
+            "ORG"
+        ],
+        [
+            "Dunkin\u2019 Brands",
+            "COMP",
+            "Hire",
+            "Rick Col\u00f3n",
+            "PERSON"
+        ],
+        [
+            "Rick Col\u00f3n",
+            "PERSON",
+            "Relate_To",
+            "Restaurant Veteran",
+            "CONCEPT"
+        ],
+        [
+            "Rick Col\u00f3n",
+            "PERSON",
+            "Participates_In",
+            "Operations & Development",
+            "SECTOR"
+        ],
+        [
+            "Dunkin\u2019 Brands",
+            "COMP",
+            "Previous_Work",
+            "McDonald\u2018s Corp",
+            "COMP"
+        ]
+    ]
+}

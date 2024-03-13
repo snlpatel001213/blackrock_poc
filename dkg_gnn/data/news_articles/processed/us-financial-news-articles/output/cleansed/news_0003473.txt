@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Control",
+            "Sanctuary State",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Impact",
+            "Undocumented Immigrants",
+            "PERSON"
+        ],
+        [
+            "State Houses",
+            "ORG/GOV",
+            "Introduce",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Operate_In",
+            "State Houses",
+            "ORG/GOV"
+        ],
+        [
+            "Gun Owners",
+            "PERSON",
+            "Affected_By",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Barbers",
+            "PERSON",
+            "Benefit_From",
+            "New Law",
+            "CONCEPT"
+        ],
+        [
+            "Tennessee",
+            "GPE",
+            "Has",
+            "New Law",
+            "CONCEPT"
+        ],
+        [
+            "Tennessee",
+            "GPE",
+            "Allow",
+            "Barber House Calls",
+            "CONCEPT"
+        ],
+        [
+            "New Jersey",
+            "GPE",
+            "Legalize_And_Regulate",
+            "Daily Fantasy Sports Contests",
+            "CONCEPT"
+        ],
+        [
+            "College Students",
+            "PERSON",
+            "Affected_By",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Working Parents",
+            "PERSON",
+            "Affected_By",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Babies",
+            "PERSON",
+            "Relate_To",
+            "Working Parents",
+            "PERSON"
+        ]
+    ]
+}

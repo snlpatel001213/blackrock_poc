@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ],
+        [
+            "CEO",
+            "PERSON",
+            "Is_Member_Of",
+            "Kohl's",
+            "COMP"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Participates_In",
+            "Partnership",
+            "CONCEPT"
+        ],
+        [
+            "Partnership",
+            "CONCEPT",
+            "Relate_To",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Outlook",
+            "CONCEPT"
+        ],
+        [
+            "Outlook",
+            "CONCEPT",
+            "Relate_To",
+            "Retail",
+            "SECTOR"
+        ]
+    ]
+}

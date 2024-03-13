@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Operate_In",
+            "Revenue Management Solutions",
+            "SECTOR"
+        ],
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Support",
+            "Life Sciences Companies",
+            "SECTOR"
+        ],
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Support",
+            "Technology Companies",
+            "SECTOR"
+        ],
+        [
+            "Model N, Inc.",
+            "ORG",
+            "Support",
+            "Manufacturing Companies",
+            "SECTOR"
+        ],
+        [
+            "Investor Relations",
+            "ORG",
+            "Contact",
+            "Staci Mortenson",
+            "PERSON"
+        ],
+        [
+            "Media Contact",
+            "ORG",
+            "Contact",
+            "pr@modeln.com",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Move",
+            "Interstate Sale of Health Insurance Policies",
+            "PRODUCT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Introduce",
+            "Association Health Plans",
+            "PRODUCT"
+        ],
+        [
+            "Association Health Plans",
+            "PRODUCT",
+            "Operate_In",
+            "Health Insurance Market",
+            "SECTOR"
+        ],
+        [
+            "Association Health Plans",
+            "PRODUCT",
+            "Not_Meet",
+            "Consumer Protection Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Association Health Plans",
+            "PRODUCT",
+            "Meet",
+            "Some Consumer Protection and Benefit Requirements",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Pursue",
+            "Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Unable",
+            "Repeal",
+            "Affordable Care Act",
+            "PRODUCT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Predict",
+            "Big Changes",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Refers_To",
+            "Current Obstacles",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Refers_To",
+            "Insurer in One State",
+            "GPE"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Refers_To",
+            "Customers in Another State",
+            "GPE"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Refers_To",
+            "State Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Refers_To",
+            "Benefits that Insurers Must Cover",
+            "CONCEPT"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Gain",
+            "Enhanced Status",
+            "CONCEPT"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Exempt",
+            "State Regulation",
+            "CONCEPT"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Open",
+            "Small Employers and Sole Proprietors",
+            "COMP"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Open",
+            "Their Families",
+            "COMP"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Market",
+            "Anywhere in the Country",
+            "GPE"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Not_Able",
+            "Charge Higher Premiums",
+            "CONCEPT"
+        ],
+        [
+            "Administration Proposal",
+            "PRODUCT",
+            "Not_Able",
+            "Turn Down Applicants",
+            "CONCEPT"
+        ],
+        [
+            "Affordable Care Act",
+            "PRODUCT",
+            "End",
+            "Discrimination",
+            "CONCEPT"
+        ],
+        [
+            "Affordable Care Act",
+            "PRODUCT",
+            "Has",
+            "Pre-existing Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Regulations",
+            "PRODUCT",
+            "Allow",
+            "Higher Premiums",
+            "CONCEPT"
+        ],
+        [
+            "Regulations",
+            "PRODUCT",
+            "Based_On",
+            "Age",
+            "CONCEPT"
+        ],
+        [
+            "Regulations",
+            "PRODUCT",
+            "Based_On",
+            "Gender",
+            "CONCEPT"
+        ],
+        [
+            "Regulations",
+            "PRODUCT",
+            "Based_On",
+            "Other Factors",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Industry Groups",
+            "COMP",
+            "Worry",
+            "Siphon Healthy People",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Industry Groups",
+            "COMP",
+            "Worry",
+            "Create Spiral of Rising Premiums",
+            "CONCEPT"
+        ],
+        [
+            "Insurance Industry Groups",
+            "COMP",
+            "Worry",
+            "Comprehensive Benefits",
+            "CONCEPT"
+        ],
+        [
+            "Pennsylvania",
+            "GPE",
+            "Have",
+            "Acting Insurance Commissioner",
+            "PERSON"
+        ],
+        [
+            "Acting Insurance Commissioner",
+            "PERSON",
+            "Have",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "State Regulators",
+            "COMP",
+            "Say",
+            "Do It Better",
+            "CONCEPT"
+        ]
+    ]
+}

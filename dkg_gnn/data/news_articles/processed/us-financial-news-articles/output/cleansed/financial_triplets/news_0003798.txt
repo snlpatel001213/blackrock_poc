@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Operate_In",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Announce",
+            "Five-year leasing plan",
+            "EVENT"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Impact",
+            "Offshore oil and gas drilling",
+            "CONCEPT"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Relate_To",
+            "Atlantic and Pacific oceans",
+            "GPE"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Control",
+            "National Outer Continental Shelf Oil and Gas Leasing Program",
+            "EVENT"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Negative_Impact_On",
+            "Environmentalists",
+            "PERSON"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Negative_Impact_On",
+            "State officials",
+            "PERSON"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Negative_Impact_On",
+            "Some business groups",
+            "ORG"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Participates_In",
+            "Expand domestic energy production",
+            "CONCEPT"
+        ]
+    ]
+}

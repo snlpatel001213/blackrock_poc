@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Lottery officials",
+            "ORG",
+            "Announce",
+            "Mega Millions",
+            "PRODUCT"
+        ],
+        [
+            "Florida",
+            "GPE",
+            "Is_Member_Of",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Mega Millions",
+            "PRODUCT",
+            "Control",
+            "$450 Mega Millions prize",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mega Millions",
+            "PRODUCT",
+            "Relate_To",
+            "Jackpot prize",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mega Millions",
+            "PRODUCT",
+            "Rank",
+            "Fourth largest",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

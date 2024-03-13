@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Versace",
+            "ORG",
+            "Issue",
+            "Statement",
+            "EVENT"
+        ],
+        [
+            "Statement",
+            "EVENT",
+            "Relate_To",
+            "Assassination of Gianni Versace",
+            "EVENT"
+        ],
+        [
+            "Assassination of Gianni Versace",
+            "EVENT",
+            "Call",
+            "Fiction",
+            "CONCEPT"
+        ]
+    ]
+}

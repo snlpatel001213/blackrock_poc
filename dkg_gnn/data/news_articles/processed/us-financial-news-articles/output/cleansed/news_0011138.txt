@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Sell",
+            "$56 bln supply",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "German debt",
+            "PRODUCT",
+            "Help",
+            "U.S. bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Indicate",
+            "doubt about three rate hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Raphael Bostic",
+            "PERSON",
+            "Say",
+            "Fed may only need to raise rates two or fewer times",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta Fed",
+            "ORG/REG",
+            "Is",
+            "Raphael Bostic",
+            "PERSON"
+        ],
+        [
+            "U.S. central bank",
+            "ORG/REG",
+            "Expect",
+            "to continue hiking interest rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Three-year notes",
+            "PRODUCT",
+            "Auction",
+            "Treasury Department",
+            "ORG/GOV"
+        ],
+        [
+            "Three-year notes",
+            "PRODUCT",
+            "Demand",
+            "mixed",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "10-year notes",
+            "PRODUCT",
+            "Sales",
+            "expected to go well",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "30-year bonds",
+            "PRODUCT",
+            "Lots of demand",
+            "longer-dated paper",
+            "PRODUCT"
+        ],
+        [
+            "U.S. 10-year note",
+            "PRODUCT",
+            "Yield",
+            "2.4782",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Three-year note",
+            "PRODUCT",
+            "Yield",
+            "2.057",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Two-year note",
+            "PRODUCT",
+            "Yield",
+            "1.96",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Six-month bills",
+            "PRODUCT",
+            "Yield",
+            "1.5784",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Three-month bills",
+            "PRODUCT",
+            "Yield",
+            "1.414",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

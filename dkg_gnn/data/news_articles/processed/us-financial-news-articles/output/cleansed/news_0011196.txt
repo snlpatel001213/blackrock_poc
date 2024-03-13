@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Timken Company",
+            "ORG",
+            "Announce",
+            "2017 fourth-quarter and full-year financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Operate_In",
+            "Mechanical power transmission products",
+            "PRODUCT"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Timken \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Fafnir \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Philadelphia Gear \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Drives \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Lovejoy \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Control",
+            "Groeneveld \u00ae",
+            "BRAND"
+        ],
+        [
+            "Timken Company",
+            "ORG",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Timken Company",
+            "ORG"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth-quarter and full-year financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "2018",
+            "DATE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "New York Stock Exchange",
+            "ORG/EXCH"
+        ]
+    ]
+}

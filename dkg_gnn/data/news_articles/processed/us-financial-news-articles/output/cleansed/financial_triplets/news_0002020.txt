@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Announce",
+            "Investigation",
+            "CONCEPT"
+        ],
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Participates_In",
+            "Securities Fraud Litigation",
+            "CONCEPT"
+        ],
+        [
+            "Rigrodsky & Long, P.A.",
+            "ORG",
+            "Participates_In",
+            "Shareholder Derivative Litigation",
+            "CONCEPT"
+        ],
+        [
+            "1st Constitution Bancorp",
+            "COMP",
+            "Control",
+            "NJCB",
+            "COMP"
+        ],
+        [
+            "NJCB",
+            "COMP",
+            "Has",
+            "Agreement",
+            "CONCEPT"
+        ],
+        [
+            "NJCB",
+            "COMP",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ]
+    ]
+}

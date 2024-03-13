@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Provide",
+            "Corporate Update",
+            "CONCEPT"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Expects",
+            "Sign First Commercial License",
+            "CONCEPT"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Participates_In",
+            "Partnership",
+            "ORG"
+        ],
+        [
+            "Partnership",
+            "ORG",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Expects",
+            "Sign First Commercial License",
+            "CONCEPT",
+            "In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Does_Not",
+            "Plan_On",
+            "Replace",
+            "Chief Financial Officer",
+            "PERSON"
+        ],
+        [
+            "Mike Willis",
+            "PERSON",
+            "Is_Member_Of",
+            "CO\u2018S",
+            "CONCEPT"
+        ],
+        [
+            "Mike Willis",
+            "PERSON",
+            "Enters_Into",
+            "Mutual Separation Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Expects",
+            "Mike Willis",
+            "PERSON",
+            "Leave",
+            "CO"
+        ],
+        [
+            "Patrick Gruber",
+            "PERSON",
+            "Is_Member_Of",
+            "Gevo\u2018s",
+            "CONCEPT",
+            "Chief Executive Officer",
+            "PERSON"
+        ],
+        [
+            "Patrick Gruber",
+            "PERSON",
+            "Agrees",
+            "Salary Reduction",
+            "CONCEPT",
+            "30",
+            "ECON_INDICATOR",
+            "Percent",
+            "ECON_INDICATOR",
+            "In",
+            "2018"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Gevo\u2018s",
+            "Employees",
+            "Will_Forego",
+            "2017",
+            "ECON_INDICATOR",
+            "Annual Cash Bonus",
+            "CONCEPT"
+        ],
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Reduce",
+            "Overall Headcount",
+            "CONCEPT",
+            "In",
+            "Englewood",
+            "GPE",
+            "By",
+            "Approximately",
+            "40",
+            "ECON_INDICATOR",
+            "Percent",
+            "ECON_INDICATOR",
+            "As",
+            "Compare_To",
+            "Peak",
+            "Employee",
+            "Level",
+            "In",
+            "2017"
+        ]
+    ]
+}

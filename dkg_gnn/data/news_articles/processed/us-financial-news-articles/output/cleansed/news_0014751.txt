@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Has",
+            "Budget Deficits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jerry Brown",
+            "PERSON",
+            "Control",
+            "California",
+            "GPE"
+        ],
+        [
+            "Jerry Brown",
+            "PERSON",
+            "Has",
+            "Top Political Priority",
+            "CONCEPT"
+        ],
+        [
+            "Jerry Brown",
+            "PERSON",
+            "Has",
+            "Administration",
+            "ORG"
+        ],
+        [
+            "Jerry Brown",
+            "PERSON",
+            "Administration",
+            "Passed",
+            "Tax Increases"
+        ],
+        [
+            "California",
+            "GPE",
+            "Operate_In",
+            "Next Fiscal Year",
+            "TIME"
+        ],
+        [
+            "California",
+            "GPE",
+            "Project",
+            "$6.1 Billion Surplus",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Next Fiscal Year",
+            "TIME",
+            "Begin",
+            "July 1",
+            "DATE"
+        ]
+    ]
+}

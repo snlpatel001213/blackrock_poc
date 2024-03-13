@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "IDI Logistics",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG/REG",
+            "Has",
+            "$265 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG/REG",
+            "Is_Member_Of",
+            "World largest real estate investors",
+            "CONCEPT"
+        ]
+    ]
+}

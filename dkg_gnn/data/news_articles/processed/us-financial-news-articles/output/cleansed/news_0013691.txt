@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Syrian foreign ministry",
+            "ORG",
+            "Blasts",
+            "new U.S.-backed border force",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Builds",
+            "new border force",
+            "ORG"
+        ],
+        [
+            "new border force",
+            "ORG",
+            "Relate_To",
+            "Syrian government",
+            "ORG"
+        ],
+        [
+            "Syrian government",
+            "ORG",
+            "Denounce",
+            "new U.S.-backed border force",
+            "ORG"
+        ],
+        [
+            "new U.S.-backed border force",
+            "ORG",
+            "Impact_On",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "American administration",
+            "ORG",
+            "Has",
+            "destructive policy",
+            "CONCEPT"
+        ],
+        [
+            "destructive policy",
+            "CONCEPT",
+            "Impact_On",
+            "region",
+            "GPE"
+        ],
+        [
+            "region",
+            "GPE",
+            "Relate_To",
+            "countries fragmentation",
+            "CONCEPT"
+        ],
+        [
+            "countries fragmentation",
+            "CONCEPT",
+            "Impede",
+            "solutions to crises",
+            "CONCEPT"
+        ]
+    ]
+}

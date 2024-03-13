@@ -1,0 +1,85 @@
+{
+    "output": [
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Withdrawn_From",
+            "England ODI Squad",
+            "ORG"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Replaced_By",
+            "Dawid Malan",
+            "PERSON"
+        ],
+        [
+            "England and Wales Cricket Board",
+            "ORG",
+            "Announce",
+            "Stokes Withdrawal",
+            "EVENT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Involved_In",
+            "Altercation",
+            "EVENT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Awaiting",
+            "CPS Decision",
+            "ORG"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Not_Travel",
+            "Australia",
+            "GPE"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Availability",
+            "Depends",
+            "CPS Advice",
+            "ORG"
+        ],
+        [
+            "ECB Board",
+            "ORG",
+            "Convene",
+            "Decision",
+            "EVENT"
+        ],
+        [
+            "Ben Stokes",
+            "PERSON",
+            "Cleared",
+            "IPL Player Draft",
+            "EVENT"
+        ],
+        [
+            "First ODI",
+            "EVENT",
+            "Between",
+            "Australia",
+            "GPE",
+            "And",
+            "England",
+            "GPE"
+        ],
+        [
+            "First ODI",
+            "EVENT",
+            "Played_At",
+            "Melbourne Cricket Ground",
+            "ORG"
+        ]
+    ]
+}

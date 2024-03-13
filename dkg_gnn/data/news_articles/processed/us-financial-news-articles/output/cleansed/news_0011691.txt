@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "U.S. military authorities",
+            "ORG/GOV",
+            "Investigate",
+            "video",
+            "EVENT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Relate_To",
+            "U.S. service member",
+            "PERSON"
+        ],
+        [
+            "U.S. service member",
+            "PERSON",
+            "Fire",
+            "shot",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "shot",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "civilian truck",
+            "COMP"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Cause",
+            "serious concern",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Operate_In",
+            "Afghanistan",
+            "GPE"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Conduct",
+            "investigation",
+            "EVENT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Filmed",
+            "moving vehicle",
+            "COMP"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Show",
+            "civilian truck",
+            "COMP"
+        ],
+        [
+            "civilian truck",
+            "COMP",
+            "Overtaken",
+            "moving vehicle",
+            "COMP"
+        ],
+        [
+            "shot",
+            "FIN_INSTRUMENT",
+            "Appear",
+            "fire",
+            "VERB"
+        ],
+        [
+            "shot",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "window",
+            "PRODUCT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Cause",
+            "tensions",
+            "CONCEPT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Cause",
+            "negative impact",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Mindful",
+            "civilian casualties",
+            "CONCEPT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Convey",
+            "unprofessional message",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Reject",
+            "unprofessional message",
+            "CONCEPT"
+        ]
+    ]
+}

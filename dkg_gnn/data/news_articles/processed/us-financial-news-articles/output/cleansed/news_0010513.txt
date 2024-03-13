@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "BVT SA",
+            "COMP",
+            "Acquire",
+            "Receivables",
+            "CONCEPT"
+        ],
+        [
+            "Receivables",
+            "CONCEPT",
+            "Relate_To",
+            "Rail Transport Sector",
+            "SECTOR"
+        ],
+        [
+            "Rail Transport Sector",
+            "SECTOR",
+            "Has",
+            "Nominal Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nominal Value",
+            "ECON_INDICATOR",
+            "Greater_Than",
+            "PLN 8.6 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

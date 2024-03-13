@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Announce",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Operate_In",
+            "Oregon",
+            "GPE"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Control",
+            "Umpqua Bank",
+            "COMP"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Control",
+            "Umpqua Investments",
+            "COMP"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Control",
+            "Pivotus Ventures",
+            "COMP"
+        ],
+        [
+            "Umpqua Bank",
+            "COMP",
+            "Participates_In",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Umpqua Investments",
+            "COMP",
+            "Participates_In",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth Quarter 2017",
+            "EVENT"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Full-Year 2017",
+            "EVENT"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Release",
+            "Financial Results",
+            "EVENT"
+        ],
+        [
+            "Financial Results",
+            "EVENT",
+            "Relate_To",
+            "Fourth Quarter 2017",
+            "EVENT"
+        ],
+        [
+            "Financial Results",
+            "EVENT",
+            "Relate_To",
+            "Full-Year 2017",
+            "EVENT"
+        ],
+        [
+            "Umpqua Holdings Corporation",
+            "ORG",
+            "Has",
+            "Investor Relations Page",
+            "PRODUCT"
+        ],
+        [
+            "Investor Relations Page",
+            "PRODUCT",
+            "Relate_To",
+            "Company\u2019s",
+            "CONCEPT"
+        ],
+        [
+            "Investor Relations Page",
+            "PRODUCT",
+            "Relate_To",
+            "Umpqua Holdings Corporation",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Australia Cricket Team",
+            "PERSON",
+            "Celebrate",
+            "4-0 Ashes Victory",
+            "EVENT"
+        ],
+        [
+            "Steve Smith",
+            "PERSON",
+            "Control",
+            "Australia Cricket Team",
+            "PERSON"
+        ],
+        [
+            "4-0 Ashes Victory",
+            "EVENT",
+            "Relate_To",
+            "Australia Cricket Team",
+            "PERSON"
+        ]
+    ]
+}

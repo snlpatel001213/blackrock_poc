@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Moody\u2019s A2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Standard & Poor\u2019s A+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Has",
+            "Fitch Ratings A+",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ireland",
+            "GPE",
+            "Introduce",
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Euro RegS benchmark transaction",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Euro",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

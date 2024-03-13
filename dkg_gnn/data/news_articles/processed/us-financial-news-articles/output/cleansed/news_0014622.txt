@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jiangsu General Science Technology Co Ltd.",
+            "COMP",
+            "Establish",
+            "General Rubber North America Co",
+            "COMP"
+        ],
+        [
+            "Jiangsu General Science Technology Co Ltd.",
+            "COMP",
+            "Control",
+            "General Rubber North America Co",
+            "COMP"
+        ],
+        [
+            "General Rubber North America Co",
+            "COMP",
+            "Has",
+            "Registered Capital",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Rubber North America Co",
+            "COMP",
+            "Has",
+            "2.5 Million Dollar",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

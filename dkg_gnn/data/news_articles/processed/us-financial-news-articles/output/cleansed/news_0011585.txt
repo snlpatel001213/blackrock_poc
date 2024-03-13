@@ -1,0 +1,207 @@
+{
+    "output": [
+        [
+            "Robert Murray",
+            "PERSON",
+            "Blasts",
+            "U.S. Regulators",
+            "ORG/REG"
+        ],
+        [
+            "U.S. Regulators",
+            "ORG/REG",
+            "Reject",
+            "Subsidies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Propose",
+            "Subsidies",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Coal Mining Companies",
+            "ORG",
+            "Criticize",
+            "U.S. Regulators",
+            "ORG/REG"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Struggle",
+            "Deliver",
+            "PRODUCT"
+        ],
+        [
+            "Coal Industry",
+            "ORG",
+            "Frustration",
+            "U.S. Regulators",
+            "ORG/REG"
+        ],
+        [
+            "Robert Murray",
+            "PERSON",
+            "CEO",
+            "Murray Energy",
+            "ORG"
+        ],
+        [
+            "Murray Energy",
+            "ORG",
+            "Privately-held",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Robert Murray",
+            "PERSON",
+            "Warn",
+            "Power Prices Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy Secretary Rick Perry",
+            "PERSON",
+            "Propose",
+            "Idea",
+            "CONCEPT"
+        ],
+        [
+            "Coal and Nuclear Power Plants",
+            "ORG",
+            "Recoup",
+            "Operating Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "FERC",
+            "ORG/REG",
+            "Reject",
+            "Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Nominees",
+            "FERC",
+            "ORG/REG"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Pro-coal Agenda",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Natural Gas Drillers",
+            "ORG",
+            "Compete",
+            "Coal",
+            "ORG"
+        ],
+        [
+            "Environmentalists",
+            "ORG",
+            "Oppose",
+            "Coal Emissions",
+            "CONCEPT"
+        ],
+        [
+            "Renewable Energy Advocates",
+            "ORG",
+            "Oppose",
+            "Coal",
+            "ORG"
+        ],
+        [
+            "Robert Murray",
+            "PERSON",
+            "Lobby",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Robert Murray",
+            "PERSON",
+            "Hand",
+            "Three-page List",
+            "CONCEPT"
+        ],
+        [
+            "Coal Industry",
+            "ORG",
+            "Need",
+            "Keep Coal and Nuclear Plants Functioning",
+            "CONCEPT"
+        ],
+        [
+            "FERC Commissioner Richard Glick",
+            "PERSON",
+            "Say",
+            "Coal and Nuclear Plants Unreliable",
+            "CONCEPT"
+        ],
+        [
+            "Coal and Nuclear Plants",
+            "ORG",
+            "Fail",
+            "Function",
+            "CONCEPT"
+        ],
+        [
+            "Coal and Nuclear Plants",
+            "ORG",
+            "Fuel Supplies",
+            "Freeze",
+            "CONCEPT"
+        ],
+        [
+            "Coal and Nuclear Plants",
+            "ORG",
+            "Fuel Supplies",
+            "Flood",
+            "CONCEPT"
+        ],
+        [
+            "Coal and Nuclear Plants",
+            "ORG",
+            "Fuel Supplies",
+            "Unavailable",
+            "CONCEPT"
+        ],
+        [
+            "Corey Lewandowski",
+            "PERSON",
+            "Trump Ally",
+            "NULL",
+            "NULL"
+        ],
+        [
+            "Corey Lewandowski",
+            "PERSON",
+            "Blast",
+            "FERC Decision",
+            "CONCEPT"
+        ],
+        [
+            "FERC Commissioners",
+            "ORG",
+            "Fail",
+            "Carry Out",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Agenda",
+            "NULL",
+            "NULL"
+        ]
+    ]
+}

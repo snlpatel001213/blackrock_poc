@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Prince Harry",
+            "PERSON",
+            "Participates_In",
+            "Radio Station Visit",
+            "EVENT"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Get",
+            "Wedding Music Tips",
+            "EVENT"
+        ],
+        [
+            "Prince Harry",
+            "PERSON",
+            "Is_Member_Of",
+            "UK Royal Family",
+            "ORG"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Participates_In",
+            "Radio Station Visit",
+            "EVENT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Get",
+            "Wedding Music Tips",
+            "EVENT"
+        ],
+        [
+            "Meghan Markle",
+            "PERSON",
+            "Is_Member_Of",
+            "UK Royal Family",
+            "ORG"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Operate_In",
+            "Brixton",
+            "GPE"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Has",
+            "Training Programs",
+            "CONCEPT"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Support",
+            "Youngsters",
+            "PERSON"
+        ],
+        [
+            "Reprezent Radio",
+            "COMP",
+            "Has",
+            "Presenters",
+            "PERSON"
+        ],
+        [
+            "Gloria Beyi",
+            "PERSON",
+            "Work_At",
+            "Reprezent Radio",
+            "COMP"
+        ],
+        [
+            "Gloria Beyi",
+            "PERSON",
+            "Discuss",
+            "Music",
+            "CONCEPT"
+        ],
+        [
+            "Harry",
+            "PERSON",
+            "Interested_In",
+            "Hip-Hop",
+            "CONCEPT"
+        ],
+        [
+            "Harry",
+            "PERSON",
+            "Interested_In",
+            "House",
+            "CONCEPT"
+        ],
+        [
+            "Windsor Castle",
+            "GPE",
+            "Located_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Windsor Castle",
+            "GPE",
+            "Host",
+            "Wedding",
+            "EVENT"
+        ],
+        [
+            "St George\u2019s Chapel",
+            "COMP",
+            "Host",
+            "Wedding",
+            "EVENT"
+        ]
+    ]
+}

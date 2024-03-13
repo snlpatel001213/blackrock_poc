@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ginette Petitpas Taylor",
+            "PERSON",
+            "Announce",
+            "new regime for legal marijuana",
+            "CONCEPT"
+        ],
+        [
+            "Ginette Petitpas Taylor",
+            "PERSON",
+            "Is_Member_Of",
+            "federal Health Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Bill Blair",
+            "PERSON",
+            "Participates_In",
+            "new regime for legal marijuana",
+            "CONCEPT"
+        ],
+        [
+            "Bill Blair",
+            "PERSON",
+            "Is_Member_Of",
+            "parliamentary secretary",
+            "ORG/GOV"
+        ],
+        [
+            "new regime for legal marijuana",
+            "CONCEPT",
+            "Relate_To",
+            "different rules for distribution and retail",
+            "CONCEPT"
+        ]
+    ]
+}

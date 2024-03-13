@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Pharnext SA",
+            "ORG",
+            "Announce",
+            "Dr. Philippe Chambon",
+            "PERSON"
+        ],
+        [
+            "Pharnext SA",
+            "ORG",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Pharnext SA",
+            "ORG",
+            "Operate_In",
+            "Biopharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "Dr. Philippe Chambon",
+            "PERSON",
+            "Has",
+            "22 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dr. Philippe Chambon",
+            "PERSON",
+            "Participates_In",
+            "Auxilium Pharmaceuticals",
+            "ORG"
+        ],
+        [
+            "Dr. Philippe Chambon",
+            "PERSON",
+            "Participates_In",
+            "ePocrates Inc.",
+            "ORG"
+        ],
+        [
+            "Dr. Philippe Chambon",
+            "PERSON",
+            "Participates_In",
+            "Truveris",
+            "ORG"
+        ],
+        [
+            "Dr. Philippe Chambon",
+            "PERSON",
+            "Participates_In",
+            "NxStage Medical",
+            "ORG"
+        ],
+        [
+            "Pharnext SA",
+            "ORG",
+            "Has",
+            "Two lead products",
+            "PRODUCT"
+        ]
+    ]
+}

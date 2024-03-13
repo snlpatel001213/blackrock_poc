@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Narendra Modi",
+            "PERSON",
+            "Is_Member_Of",
+            "India",
+            "GPE"
+        ],
+        [
+            "Narendra Modi",
+            "PERSON",
+            "Participates_In",
+            "Election",
+            "EVENT"
+        ],
+        [
+            "Narendra Modi",
+            "PERSON",
+            "Operate_In",
+            "Gujarat",
+            "GPE"
+        ],
+        [
+            "Narendra Modi",
+            "PERSON",
+            "Control",
+            "Reformer",
+            "CONCEPT"
+        ]
+    ]
+}

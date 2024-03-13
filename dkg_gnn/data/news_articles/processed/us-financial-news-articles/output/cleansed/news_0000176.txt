@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Kirby Corporation",
+            "ORG",
+            "Announce",
+            "2017 fourth quarter and full year results",
+            "EVENT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Operate_In",
+            "Houston, Texas",
+            "GPE"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Produce",
+            "tank barge",
+            "PRODUCT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Participates_In",
+            "transportation of dry-bulk commodities",
+            "ACTIVITY"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Control",
+            "distribution and services segment",
+            "SECTOR"
+        ],
+        [
+            "distribution and services segment",
+            "SECTOR",
+            "Provide",
+            "after-market service and parts",
+            "SERVICE"
+        ],
+        [
+            "distribution and services segment",
+            "SECTOR",
+            "Rent",
+            "equipment",
+            "PRODUCT"
+        ],
+        [
+            "distribution and services segment",
+            "SECTOR",
+            "Manufacture",
+            "oilfield service equipment",
+            "PRODUCT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "Jones Act",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "U.S. maritime policy and practice",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "fuel costs",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "interest rates",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "weather conditions",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "number of acquisitions",
+            "CONCEPT"
+        ],
+        [
+            "Kirby",
+            "ORG",
+            "Relate_To",
+            "risk factors",
+            "CONCEPT"
+        ]
+    ]
+}

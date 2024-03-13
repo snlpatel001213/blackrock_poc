@@ -1,0 +1,260 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Considering",
+            "Slowing or Halting Purchases",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Reviewing",
+            "Vast Foreign Exchange Holdings",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Recommending",
+            "Slowing or Halting Purchases of U.S. Treasury Bonds",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Foreign Exchange Regulator",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Treasury Bonds",
+            "PRODUCT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Treasury Yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Dollar",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SAFE",
+            "ORG",
+            "Publish",
+            "Statement",
+            "PRODUCT"
+        ],
+        [
+            "SAFE",
+            "ORG",
+            "State",
+            "Administration of Foreign Exchange",
+            "ORG"
+        ],
+        [
+            "SAFE",
+            "ORG",
+            "Say",
+            "News Could Quote Wrong Source",
+            "EVENT"
+        ],
+        [
+            "SAFE",
+            "ORG",
+            "Say",
+            "News May Be Fake News",
+            "EVENT"
+        ],
+        [
+            "U.S. 10-year Treasury Yield",
+            "ECON_INDICATOR",
+            "Edge Down",
+            "To 2.5366 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "0.3 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Diversifying",
+            "Foreign Currency Reserves Investments",
+            "SECTOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Help",
+            "Safeguard Overall Safety of Foreign Exchange Assets",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Help",
+            "Preserve and Increase Value",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Reserves Management Agencies",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Exact Composition of China's Reserves",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Subject",
+            "Intense Scrutiny by Global Investors",
+            "PERSON"
+        ],
+        [
+            "China",
+            "GPE",
+            "Biggest Foreign Holder",
+            "U.S. Government Debt",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "$1.19 Trillion",
+            "ECON_INDICATOR",
+            "in Treasuries",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Foreign Exchange Reserves",
+            "PRODUCT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "World's Largest",
+            "CONCEPT",
+            "Reserves"
+        ],
+        [
+            "China",
+            "GPE",
+            "Rise",
+            "$20.2 Billion",
+            "ECON_INDICATOR",
+            "in December",
+            "TIME"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "$3.14 Trillion",
+            "ECON_INDICATOR",
+            "as of December",
+            "TIME"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Tight Regulations",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Strong Yuan",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Continued",
+            "Discourage Capital Outflows",
+            "EVENT"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "From",
+            "Treasury Department",
+            "ORG"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "As of",
+            "October 2017",
+            "TIME"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Is",
+            "Biggest Foreign Holder",
+            "EVENT",
+            "of U.S. Government Debt",
+            "PRODUCT"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Has",
+            "$1.19 Trillion",
+            "ECON_INDICATOR",
+            "in Treasuries",
+            "PRODUCT"
+        ],
+        [
+            "China's Foreign Exchange Reserves",
+            "PRODUCT",
+            "Rise",
+            "$20.2 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China's Foreign Exchange Reserves",
+            "PRODUCT",
+            "Has",
+            "$3.14 Trillion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China's Central Bank",
+            "ORG",
+            "Show",
+            "Data",
+            "CONCEPT"
+        ]
+    ]
+}

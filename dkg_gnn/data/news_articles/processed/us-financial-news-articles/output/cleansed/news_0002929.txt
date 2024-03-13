@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Euro zone",
+            "GPE",
+            "Stay",
+            "High Yields",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Make",
+            "Hawkish Comments",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Control",
+            "Monetary Policy",
+            "CONCEPT"
+        ],
+        [
+            "Monetary Policy",
+            "CONCEPT",
+            "Get",
+            "Hawkish New Edge",
+            "CONCEPT"
+        ],
+        [
+            "Euro area",
+            "GPE",
+            "Have",
+            "Borrowing Costs",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

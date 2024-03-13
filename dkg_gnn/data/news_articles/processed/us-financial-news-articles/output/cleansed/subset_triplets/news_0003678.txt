@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Amazon",
+            "COMP",
+            "Decrease",
+            "Speaker Prices",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Decrease",
+            "Speaker Prices",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Relate_To",
+            "Different Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Operate_In",
+            "HomePod Speaker",
+            "PRODUCT"
+        ]
+    ]
+}

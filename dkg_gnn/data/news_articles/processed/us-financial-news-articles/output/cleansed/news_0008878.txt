@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Expand",
+            "Bitmain Switzerland",
+            "ORG"
+        ],
+        [
+            "Bitmain Switzerland",
+            "ORG",
+            "Register",
+            "Zug, Switzerland",
+            "GPE"
+        ],
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Operate_In",
+            "Crypto Valley",
+            "GPE"
+        ],
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Produce",
+            "Bitcoin Miner",
+            "PRODUCT"
+        ],
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Control",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Control",
+            "Computer Hardware",
+            "PRODUCT"
+        ],
+        [
+            "Bitmain Switzerland",
+            "ORG",
+            "Is_Member_Of",
+            "Bitmain Technologies",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Control",
+            "Bitcoin Mining",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Negative_Impact_On",
+            "Bitcoin Mining",
+            "CONCEPT"
+        ],
+        [
+            "Bitmain Technologies",
+            "ORG",
+            "Has",
+            "Offices",
+            "SECTOR"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Amsterdam",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Hong Kong",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Tel Aviv",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Qingdao",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Chengdu",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Shanghai",
+            "GPE"
+        ],
+        [
+            "Offices",
+            "SECTOR",
+            "Locate_In",
+            "Shenzhen",
+            "GPE"
+        ]
+    ]
+}

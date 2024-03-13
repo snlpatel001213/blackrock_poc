@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Steve Mnuchin",
+            "PERSON",
+            "Participates_In",
+            "White House Press Briefing",
+            "EVENT"
+        ],
+        [
+            "Steve Mnuchin",
+            "PERSON",
+            "Discuss",
+            "Tax Plan",
+            "CONCEPT"
+        ],
+        [
+            "Steve Mnuchin",
+            "PERSON",
+            "Relate_To",
+            "Budget",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Canada",
+            "GPE",
+            "Decrease",
+            "Unemployment Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/REG",
+            "Control",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Canada",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Participates_In",
+            "Labor Market",
+            "SECTOR"
+        ],
+        [
+            "Statistics Canada",
+            "ORG",
+            "Announce",
+            "Employment Gain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Operate_In",
+            "Labor Market",
+            "SECTOR"
+        ]
+    ]
+}

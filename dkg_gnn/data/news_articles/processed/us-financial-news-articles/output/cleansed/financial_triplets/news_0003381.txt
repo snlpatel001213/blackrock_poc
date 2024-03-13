@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "New Mexico",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "Permian Basin",
+            "GPE",
+            "Produce",
+            "Oil",
+            "PRODUCT"
+        ],
+        [
+            "New Mexico",
+            "GPE",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "Exploration and Production Companies",
+            "ORG",
+            "Operate_In",
+            "Southeastern New Mexico",
+            "GPE"
+        ],
+        [
+            "Midstream Companies",
+            "ORG",
+            "Operate_In",
+            "Southeastern New Mexico",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Iranian Demonstrators",
+            "PERSON",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iranian Government",
+            "ORG/GOV"
+        ]
+    ]
+}

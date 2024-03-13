@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Takata Corp.",
+            "ORG",
+            "Recall",
+            "Air Bags",
+            "PRODUCT"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Operate_Under",
+            "U.S. Order",
+            "ORG/GOV"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Produce",
+            "Inflators",
+            "PRODUCT"
+        ],
+        [
+            "Inflators",
+            "PRODUCT",
+            "Impact",
+            "Vehicle Occupants",
+            "PERSON"
+        ],
+        [
+            "Inflators",
+            "PRODUCT",
+            "Relate_To",
+            "Metal Shards",
+            "PRODUCT"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Link_To",
+            "13 Deaths",
+            "CONCEPT"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Link_To",
+            "Hundreds of Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Plan_To_Be_Acquired_By",
+            "Key Safety Systems Inc.",
+            "ORG"
+        ],
+        [
+            "Key Safety Systems Inc.",
+            "ORG",
+            "Owned_By",
+            "China\u2019s Ningbo Joyson Electronic Corp.",
+            "ORG"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Unrepaired",
+            "31.5 Million U.S. Vehicles",
+            "GPE"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Plan_To_Replace",
+            "65 Million Inflators",
+            "PRODUCT"
+        ],
+        [
+            "Inflators",
+            "PRODUCT",
+            "Scheduled_For_Repair",
+            "First",
+            "TIME"
+        ],
+        [
+            "Takata Corp.",
+            "ORG",
+            "Independent_Monitor",
+            "November Report",
+            "EVENT"
+        ],
+        [
+            "November Report",
+            "EVENT",
+            "Released_By",
+            "Independent Monitor",
+            "ORG"
+        ]
+    ]
+}

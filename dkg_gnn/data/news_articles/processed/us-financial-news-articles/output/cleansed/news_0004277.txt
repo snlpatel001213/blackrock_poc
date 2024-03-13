@@ -1,0 +1,118 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Say",
+            "United States",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "ORG/GOV",
+            "Give",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Give",
+            "Safe Haven",
+            "CONCEPT"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Deceive",
+            "United States",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "ORG/GOV",
+            "Not Plan",
+            "Send",
+            "Aid"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Write",
+            "Tweet",
+            "PRODUCT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Complain",
+            "Pakistan",
+            "GPE",
+            "Not Do",
+            "Enough",
+            "CONCEPT",
+            "Tackle",
+            "Islamist",
+            "Militants"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Launch",
+            "Military",
+            "SECTOR",
+            "Operations"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Die",
+            "Fighting",
+            "Militants",
+            "CONCEPT",
+            "Bombings",
+            "CONCEPT",
+            "Attacks",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Relations",
+            "CONCEPT",
+            "Improving"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Put",
+            "Pakistan",
+            "GPE",
+            "Notice"
+        ],
+        [
+            "Afghanistan",
+            "GPE",
+            "Suffer",
+            "Hand",
+            "Terrorists",
+            "CONCEPT",
+            "Based",
+            "Pakistan",
+            "GPE"
+        ],
+        [
+            "Rand Paul",
+            "PERSON",
+            "Lead",
+            "Charge",
+            "Senate",
+            "ORG",
+            "End",
+            "Aid",
+            "Pakistan",
+            "GPE"
+        ]
+    ]
+}

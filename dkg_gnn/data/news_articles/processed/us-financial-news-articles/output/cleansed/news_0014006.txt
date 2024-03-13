@@ -1,0 +1,58 @@
+{
+    "output": [
+        [
+            "Dutch gas company NAM",
+            "ORG",
+            "Calls_For",
+            "Lower Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Operate_In",
+            "Groningen Gas Field",
+            "GPE"
+        ],
+        [
+            "Groningen Gas Field",
+            "GPE",
+            "Experiences",
+            "Earthquake",
+            "EVENT"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Propose",
+            "Halt Production",
+            "ECON_INDICATOR",
+            "At",
+            "Six Points",
+            "GPE"
+        ],
+        [
+            "NAM",
+            "ORG",
+            "Lower",
+            "Overall Production",
+            "ECON_INDICATOR",
+            "At",
+            "Groningen Gas Field",
+            "GPE"
+        ],
+        [
+            "Country\u2019s energy minister",
+            "ORG/GOV",
+            "Take",
+            "Final Decisions",
+            "ORG",
+            "On",
+            "Production",
+            "ECON_INDICATOR",
+            "At",
+            "Groningen Gas Field",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Monsanto",
+            "ORG",
+            "Produce",
+            "PCBs",
+            "PRODUCT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Protected Salmon and Orcas",
+            "GPE"
+        ],
+        [
+            "Monsanto",
+            "ORG",
+            "Operate_In",
+            "St. Louis",
+            "GPE"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Immune System",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Nervous System",
+            "CONCEPT"
+        ],
+        [
+            "PCBs",
+            "PRODUCT",
+            "Impact",
+            "Reproductive Systems",
+            "CONCEPT"
+        ]
+    ]
+}

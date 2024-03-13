@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Announce",
+            "Distribution",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Operate_In",
+            "Houston, Texas",
+            "GPE"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Produce",
+            "Offshore pipeline transportation",
+            "SECTOR"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Produce",
+            "Sodium minerals and sulfur services",
+            "SECTOR"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Produce",
+            "Marine transportation",
+            "SECTOR"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Produce",
+            "Onshore facilities and transportation",
+            "SECTOR"
+        ],
+        [
+            "Genesis Energy, L.P.",
+            "COMP",
+            "Control",
+            "PIK units",
+            "PRODUCT"
+        ],
+        [
+            "PIK units",
+            "PRODUCT",
+            "Relate_To",
+            "Distribution",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PIK units",
+            "PRODUCT",
+            "Control",
+            "Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bob Deere",
+            "PERSON",
+            "Is_Member_Of",
+            "Genesis Energy, L.P.",
+            "COMP"
+        ],
+        [
+            "Bob Deere",
+            "PERSON",
+            "Raise",
+            "Distribution",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

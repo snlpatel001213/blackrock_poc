@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "At least 25 dead after bus careens off cliff in Peru",
+            "EVENT"
+        ],
+        [
+            "Accident",
+            "EVENT",
+            "Relate_To",
+            "Dangerous curve zone",
+            "CONCEPT"
+        ]
+    ]
+}

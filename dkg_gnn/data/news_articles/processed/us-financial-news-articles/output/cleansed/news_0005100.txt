@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "Amgen Inc",
+            "COMP",
+            "Produce",
+            "Xgeva",
+            "PRODUCT"
+        ],
+        [
+            "Xgeva",
+            "PRODUCT",
+            "Expand_Use",
+            "FDA",
+            "ORG/GOV"
+        ],
+        [
+            "FDA",
+            "ORG/GOV",
+            "Approve",
+            "Xgeva",
+            "PRODUCT"
+        ],
+        [
+            "Amgen Inc",
+            "COMP",
+            "Reacquire",
+            "Sales_Rights",
+            "FIN_INSTRUMENT",
+            "From",
+            "GlaxoSmithKline",
+            "COMP"
+        ],
+        [
+            "Amgen Inc",
+            "COMP",
+            "Operate_In",
+            "48_Countries",
+            "GPE"
+        ],
+        [
+            "Xgeva",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Amgen Inc",
+            "COMP"
+        ],
+        [
+            "Xgeva",
+            "PRODUCT",
+            "Generate",
+            "1.53_Billion_Dollars",
+            "ECON_INDICATOR",
+            "In",
+            "2016",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Chelsea",
+            "COMP",
+            "Complete",
+            "Signing",
+            "EVENT"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Has",
+            "Ross Barkley",
+            "PERSON"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Participates_In",
+            "Everton",
+            "COMP"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Control",
+            "Ross Barkley",
+            "PERSON"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Move",
+            "Chelsea",
+            "COMP"
+        ],
+        [
+            "Chelsea",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Play",
+            "Everton",
+            "COMP"
+        ],
+        [
+            "Everton",
+            "COMP",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Injury",
+            "Hamstring Injury",
+            "CONCEPT"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "No",
+            "Fee",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ross Barkley",
+            "PERSON",
+            "Appear",
+            "150 Premier League Appearances",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

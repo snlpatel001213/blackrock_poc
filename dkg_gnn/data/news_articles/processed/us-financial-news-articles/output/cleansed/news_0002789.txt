@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "James Anderson",
+            "PERSON",
+            "Describe",
+            "Ball tampering claims",
+            "CONCEPT"
+        ],
+        [
+            "James Anderson",
+            "PERSON",
+            "Negative_Impact_On",
+            "Accusations",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Operate_In",
+            "Ashes test",
+            "EVENT"
+        ],
+        [
+            "James Anderson",
+            "PERSON",
+            "Show",
+            "Television",
+            "PRODUCT"
+        ],
+        [
+            "Local commentators",
+            "PERSON",
+            "Seize",
+            "Footage",
+            "PRODUCT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Labelled",
+            "Pommie bashing",
+            "CONCEPT"
+        ],
+        [
+            "Trevor Bayliss",
+            "PERSON",
+            "Labelled",
+            "Pommie bashing",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Warned",
+            "Umpires",
+            "PERSON"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Warned",
+            "Umpires",
+            "PERSON"
+        ],
+        [
+            "Australia",
+            "GPE",
+            "Regain",
+            "Ashes",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Dominated",
+            "Much of the match",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Thwarted",
+            "Rain",
+            "CONCEPT"
+        ],
+        [
+            "James Anderson",
+            "PERSON",
+            "Looking ahead",
+            "Fifth test",
+            "EVENT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Try to grab",
+            "Face-saving victory",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Starts",
+            "Sydney",
+            "GPE"
+        ],
+        [
+            "England",
+            "GPE",
+            "Have played well",
+            "Times in all four tests",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Carry on",
+            "One last push at Sydney",
+            "CONCEPT"
+        ],
+        [
+            "England",
+            "GPE",
+            "Try to get",
+            "Win",
+            "CONCEPT"
+        ]
+    ]
+}

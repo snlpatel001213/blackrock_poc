@@ -1,0 +1,239 @@
+{
+    "output": [
+        [
+            "McLaren",
+            "ORG",
+            "Has",
+            "Zak Brown",
+            "PERSON"
+        ],
+        [
+            "Zak Brown",
+            "PERSON",
+            "Is_Member_Of",
+            "McLaren",
+            "ORG"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Switch",
+            "Renault",
+            "ORG"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Ditch",
+            "Honda",
+            "ORG"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Prepare",
+            "Formula One Season",
+            "EVENT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Endure",
+            "Three-year Nightmare",
+            "EVENT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Morale",
+            "Soar",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Sponsors",
+            "Show Interest",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Sign",
+            "Sponsors",
+            "ORG"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "End",
+            "2017",
+            "GPE",
+            "Ninth of 10 Teams",
+            "SECTOR"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Relationship",
+            "Honda",
+            "ORG",
+            "Pushed Beyond Breaking Point",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Frustrate",
+            "Fernando Alonso",
+            "PERSON",
+            "Belgian Stoffel Vandoorne",
+            "PERSON"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Partner",
+            "Toro Rosso",
+            "ORG",
+            "New Chapter",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Hope",
+            "End Win Drought",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Aim",
+            "Possibility",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Top Three Teams",
+            "Mercedes",
+            "ORG",
+            "Ferrari",
+            "ORG",
+            "Red Bull",
+            "ORG",
+            "Took All but One Podium",
+            "CONCEPT"
+        ],
+        [
+            "Honda",
+            "ORG",
+            "Move",
+            "Toro Rosso",
+            "ORG"
+        ],
+        [
+            "Honda",
+            "ORG",
+            "Partner",
+            "Toro Rosso",
+            "ORG"
+        ],
+        [
+            "Honda",
+            "ORG",
+            "New Chapter",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Lose",
+            "Sponsors",
+            "ORG",
+            "Mercedes",
+            "ORG",
+            "Red Bull",
+            "ORG",
+            "Performance Related",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Keep",
+            "Sponsors",
+            "ORG",
+            "Longer",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Secure",
+            "Significant New Sponsorship",
+            "CONCEPT"
+        ],
+        [
+            "McLaren",
+            "ORG",
+            "Struggle",
+            "Secure Sponsorship",
+            "CONCEPT",
+            "Recent Seasons",
+            "EVENT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Doing Great Job",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Become Successful",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Another Form",
+            "CONCEPT",
+            "Motorsport",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Different Racing Fan",
+            "CONCEPT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Doing Batteries",
+            "CONCEPT",
+            "Season Five",
+            "EVENT"
+        ],
+        [
+            "Formula E",
+            "ORG",
+            "Not Detriment",
+            "CONCEPT",
+            "Formula One",
+            "ORG"
+        ],
+        [
+            "Formula One",
+            "ORG",
+            "Struggle",
+            "Secure Sponsorship",
+            "CONCEPT",
+            "Recent Seasons",
+            "EVENT"
+        ]
+    ]
+}

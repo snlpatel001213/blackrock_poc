@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Iran protests",
+            "EVENT",
+            "Relate_To",
+            "Unrest",
+            "CONCEPT"
+        ],
+        [
+            "Iran protests",
+            "EVENT",
+            "Relate_To",
+            "2009 Protests",
+            "EVENT"
+        ],
+        [
+            "Demonstrations",
+            "EVENT",
+            "Relate_To",
+            "Unrest",
+            "CONCEPT"
+        ],
+        [
+            "Demonstrations",
+            "EVENT",
+            "Relate_To",
+            "Iran protests",
+            "EVENT"
+        ]
+    ]
+}

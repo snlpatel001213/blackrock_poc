@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Operate_In",
+            "Entertainment World",
+            "SECTOR"
+        ],
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Operate_In",
+            "Media World",
+            "SECTOR"
+        ],
+        [
+            "Harvey Weinstein",
+            "PERSON",
+            "Relate_To",
+            "Sexual Harassment Scandal",
+            "CONCEPT"
+        ],
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Control",
+            "Bad Hersfeld Theater Festival",
+            "ORG"
+        ],
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Has",
+            "Lawyers",
+            "ORG"
+        ],
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Negative_Impact_On",
+            "Actors and Actresses",
+            "PERSON"
+        ],
+        [
+            "Dieter Wedel",
+            "PERSON",
+            "Has",
+            "Young Man",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Order",
+            "Monthly Payment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "King Salman",
+            "PERSON"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Order",
+            "Payment to State Employees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payment to State Employees",
+            "ECON_INDICATOR",
+            "Value",
+            "1000 Riyals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "1000 Riyals",
+            "ECON_INDICATOR",
+            "Equal",
+            "267 Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payment to State Employees",
+            "ECON_INDICATOR",
+            "Duration",
+            "Next Year",
+            "TIME"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Hike",
+            "Gas Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Introduce",
+            "Value-Added Tax",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Saudi Arabia",
+            "GPE",
+            "Has",
+            "King Salman",
+            "PERSON"
+        ],
+        [
+            "King Salman",
+            "PERSON",
+            "Order",
+            "Payment to Military Personnel",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payment to Military Personnel",
+            "ECON_INDICATOR",
+            "Value",
+            "5000 Riyals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "5000 Riyals",
+            "ECON_INDICATOR",
+            "Equal",
+            "1335 Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payment to Military Personnel",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Yemen Frontlines",
+            "GPE"
+        ]
+    ]
+}

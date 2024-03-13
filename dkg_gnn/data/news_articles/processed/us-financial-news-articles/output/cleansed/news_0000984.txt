@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "BNY Mellon Investment Management",
+            "ORG",
+            "Announce",
+            "Sale of CenterSquare",
+            "ORG"
+        ],
+        [
+            "BNY Mellon Investment Management",
+            "ORG",
+            "Sell",
+            "CenterSquare",
+            "ORG"
+        ],
+        [
+            "CenterSquare Investment Management",
+            "ORG",
+            "Become_Member_Of",
+            "Lovell Minnick Partners",
+            "ORG/REG"
+        ],
+        [
+            "CenterSquare Investment Management",
+            "ORG",
+            "Operate_In",
+            "Real Estate and Infrastructure",
+            "SECTOR"
+        ],
+        [
+            "Lovell Minnick Partners",
+            "ORG/REG",
+            "Invest_In",
+            "CenterSquare",
+            "ORG"
+        ],
+        [
+            "BNY Mellon Investment Management",
+            "ORG",
+            "Collaborate_With",
+            "CenterSquare",
+            "ORG"
+        ],
+        [
+            "CenterSquare Investment Management",
+            "ORG",
+            "Manage",
+            "Real Estate and Infrastructure Securities",
+            "SECTOR"
+        ],
+        [
+            "CenterSquare Investment Management",
+            "ORG",
+            "Manage",
+            "Private Equity Real Estate Investments",
+            "SECTOR"
+        ]
+    ]
+}

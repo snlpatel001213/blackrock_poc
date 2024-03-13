@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Riverside Resources Inc",
+            "COMP",
+            "Participates_In",
+            "Go-Public Transaction",
+            "EVENT"
+        ],
+        [
+            "Croesus Gold",
+            "COMP",
+            "Participates_In",
+            "Go-Public Transaction",
+            "EVENT"
+        ],
+        [
+            "Go-Public Transaction",
+            "EVENT",
+            "Relate_To",
+            "2018",
+            "GPE"
+        ]
+    ]
+}

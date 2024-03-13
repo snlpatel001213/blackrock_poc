@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Sony",
+            "ORG",
+            "Introduce",
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT"
+        ],
+        [
+            "Universal",
+            "ORG",
+            "Introduce",
+            "Insidious: The Last Key",
+            "PRODUCT"
+        ],
+        [
+            "Disney-Lucasfilm",
+            "ORG",
+            "Operate_In",
+            "Star Wars: The Last Jedi",
+            "PRODUCT"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Has",
+            "Four high schoolers",
+            "PERSON"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Operate_In",
+            "North American locations",
+            "GPE"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Star",
+            "Lin Shaye",
+            "PERSON"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Produce",
+            "Blumhouse Productions",
+            "ORG"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Produce",
+            "Sony Pictures",
+            "ORG"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Distribute",
+            "Universal",
+            "ORG"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Domestic grosses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Worldwide grosses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Relate_To",
+            "2017 titles",
+            "SECTOR"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Relate_To",
+            "Detention",
+            "CONCEPT"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Relate_To",
+            "Video game characters",
+            "CONCEPT"
+        ],
+        [
+            "Jumanji: Welcome to the Jungle",
+            "PRODUCT",
+            "Relate_To",
+            "Challenges",
+            "CONCEPT"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Exceed",
+            "Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "Horror titles",
+            "SECTOR"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "Low-cost horror hits",
+            "CONCEPT"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "Universal",
+            "ORG"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "Blumhouse Productions",
+            "ORG"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "2010",
+            "DATE"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "2013",
+            "DATE"
+        ],
+        [
+            "Insidious: The Last Key",
+            "PRODUCT",
+            "Relate_To",
+            "2015",
+            "DATE"
+        ]
+    ]
+}

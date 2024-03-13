@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Berkshire Hathaway",
+            "COMP",
+            "Add",
+            "Gregory E. Abel",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway",
+            "COMP",
+            "Add",
+            "Ajit Jain",
+            "PERSON"
+        ],
+        [
+            "Gregory E. Abel",
+            "PERSON",
+            "Operate_In",
+            "Non-Insurance Business",
+            "SECTOR"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Operate_In",
+            "Insurance Operations",
+            "SECTOR"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Control",
+            "Berkshire Hathaway",
+            "COMP"
+        ],
+        [
+            "Charles T. Munger",
+            "PERSON",
+            "Control",
+            "Berkshire Hathaway",
+            "COMP"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "COMP"
+        ],
+        [
+            "Charles T. Munger",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "COMP"
+        ],
+        [
+            "Gregory E. Abel",
+            "PERSON",
+            "Fit",
+            "Berkshire Hathaway Culture",
+            "CONCEPT"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Fit",
+            "Berkshire Hathaway Culture",
+            "CONCEPT"
+        ],
+        [
+            "Gregory E. Abel",
+            "PERSON",
+            "Produce",
+            "Billions of Premium Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Produce",
+            "Billions of Premium Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Impact",
+            "Shareholder Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gregory E. Abel",
+            "PERSON",
+            "Expand",
+            "Berkshire Hathaway Energy",
+            "COMP"
+        ],
+        [
+            "Berkshire Hathaway Energy",
+            "COMP",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ]
+    ]
+}

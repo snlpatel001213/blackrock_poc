@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Announce",
+            "Eptinezumab",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Relate_To",
+            "Promise 2 Phase 3 Clinical Trial",
+            "EVENT"
+        ],
+        [
+            "Eptinezumab",
+            "CONCEPT",
+            "Significantly Reduces",
+            "Migraine Risk",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Meets",
+            "Primary Endpoint",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Meets",
+            "All Key Secondary Endpoints",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Operate_In",
+            "Chronic Migraine Prevention",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "15% Of Patients",
+            "ECON_INDICATOR"
+        ],
+        [
+            "15% Of Patients",
+            "ECON_INDICATOR",
+            "Has",
+            "No Migraines",
+            "CONCEPT"
+        ],
+        [
+            "No Migraines",
+            "CONCEPT",
+            "For",
+            "A Full Three Months",
+            "TIME"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "Very High Statistical Significance",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Has",
+            "Safety And Tolerability",
+            "CONCEPT"
+        ],
+        [
+            "Safety And Tolerability",
+            "CONCEPT",
+            "Similar To",
+            "Previously Reported Eptinezumab Studies",
+            "CONCEPT"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Plans To Submit",
+            "Bla",
+            "CONCEPT"
+        ],
+        [
+            "Bla",
+            "CONCEPT",
+            "To",
+            "U.S. FDA",
+            "ORG/GOV"
+        ],
+        [
+            "Alder Biopharmaceuticals Inc",
+            "ORG",
+            "Plans To Submit",
+            "Bla",
+            "CONCEPT"
+        ],
+        [
+            "Bla",
+            "CONCEPT",
+            "In",
+            "H2 Of 2018",
+            "TIME"
+        ]
+    ]
+}

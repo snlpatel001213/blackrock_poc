@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Sarah Huckabee Sanders",
+            "PERSON",
+            "Relate_To",
+            "U.S. White House Press Secretary",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. White House Press Secretary",
+            "ORG/GOV",
+            "Participates_In",
+            "Press Conference",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Relate_To",
+            "Steve Bannon",
+            "PERSON"
+        ]
+    ]
+}

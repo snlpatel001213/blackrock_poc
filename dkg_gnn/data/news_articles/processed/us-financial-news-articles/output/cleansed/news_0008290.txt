@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Syngenta AG",
+            "ORG",
+            "Announce",
+            "Delist",
+            "EVENT"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Operate_In",
+            "Agriculture Company",
+            "SECTOR"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Control",
+            "ADSs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "New York Stock Exchange",
+            "ORG/EXCH",
+            "Suspend_Trading",
+            "ADSs",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CNAC Saturn (NL) B.V.",
+            "ORG",
+            "Complete",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Intend",
+            "Deregister",
+            "EVENT"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Suspend",
+            "Reporting_Obligations",
+            "EVENT"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Not_Arrange",
+            "Listing",
+            "EVENT"
+        ],
+        [
+            "Syngenta AG",
+            "ORG",
+            "Not_Arrange",
+            "Quotation",
+            "EVENT"
+        ]
+    ]
+}

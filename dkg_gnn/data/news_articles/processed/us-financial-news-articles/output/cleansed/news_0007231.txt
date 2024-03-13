@@ -1,0 +1,179 @@
+{
+    "output": [
+        [
+            "Senate Intelligence Committee",
+            "ORG/GOV",
+            "Probe",
+            "Russian meddling",
+            "EVENT"
+        ],
+        [
+            "Senate Intelligence Committee",
+            "ORG/GOV",
+            "Not_Close_To",
+            "Ending",
+            "EVENT"
+        ],
+        [
+            "Mark Warner",
+            "PERSON",
+            "Indicate",
+            "Senate Intelligence Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Top aides to then-Republican candidate Donald Trump",
+            "PERSON",
+            "Meeting",
+            "Russian lawyer",
+            "PERSON"
+        ],
+        [
+            "President Trump\u2019s son Donald Jr.",
+            "PERSON",
+            "Expect",
+            "Derogatory information",
+            "CONCEPT"
+        ],
+        [
+            "Hillary Clinton",
+            "PERSON",
+            "Denigrate",
+            "Russian",
+            "PERSON"
+        ],
+        [
+            "Senate investigation",
+            "ORG/GOV",
+            "Re-validate",
+            "Jan. 6, 2017, U.S. intelligence assessment",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Department of Homeland Security",
+            "ORG/GOV",
+            "Warn",
+            "21 U.S. states",
+            "GPE"
+        ],
+        [
+            "Moscow",
+            "GPE",
+            "Tampering attempts",
+            "Election systems",
+            "CONCEPT"
+        ],
+        [
+            "DHS",
+            "ORG/GOV",
+            "Upped_its_game",
+            "State election officials",
+            "GPE"
+        ],
+        [
+            "Senate panel\u2019s Republican chairman",
+            "PERSON",
+            "Bipartisanship",
+            "Senator Mark Warner",
+            "PERSON"
+        ],
+        [
+            "House Intelligence Committee",
+            "ORG/GOV",
+            "Inter-party feuds",
+            "Parallel investigation",
+            "EVENT"
+        ],
+        [
+            "Senator Mark Warner",
+            "PERSON",
+            "Repeat",
+            "Warning",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Aimed at",
+            "Firing Special Counsel Robert Mueller",
+            "PERSON"
+        ],
+        [
+            "Robert Mueller",
+            "PERSON",
+            "Conduct",
+            "Criminal probe",
+            "EVENT"
+        ],
+        [
+            "Trump campaign",
+            "ORG",
+            "Collude",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Deny",
+            "Collusion",
+            "CONCEPT"
+        ],
+        [
+            "Michael Flynn",
+            "PERSON",
+            "Plead guilty",
+            "Lying to the FBI",
+            "ORG"
+        ],
+        [
+            "George Papadopoulos",
+            "PERSON",
+            "Plead guilty",
+            "Lying to the FBI",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Order",
+            "White House counsel Donald McGahn",
+            "PERSON"
+        ],
+        [
+            "White House counsel Donald McGahn",
+            "PERSON",
+            "Convince",
+            "Attorney General Jeff Sessions",
+            "PERSON"
+        ],
+        [
+            "Attorney General Jeff Sessions",
+            "PERSON",
+            "Not recuse",
+            "Justice Department\u2019s Russia probe",
+            "EVENT"
+        ],
+        [
+            "Sessions",
+            "PERSON",
+            "Recuse",
+            "Russia probe",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Actions",
+            "Variety of topics",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Take step",
+            "Dismiss Mueller",
+            "PERSON"
+        ]
+    ]
+}

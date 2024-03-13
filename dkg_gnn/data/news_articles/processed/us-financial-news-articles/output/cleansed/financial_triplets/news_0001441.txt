@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Atletico",
+            "GPE",
+            "Participates_In",
+            "Costa's Return",
+            "EVENT"
+        ],
+        [
+            "Costa",
+            "PERSON",
+            "Relate_To",
+            "Atletico",
+            "GPE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Operate_In",
+            "Thomson Reuters",
+            "ORG"
+        ]
+    ]
+}

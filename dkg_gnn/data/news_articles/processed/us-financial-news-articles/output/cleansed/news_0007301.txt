@@ -1,0 +1,176 @@
+{
+    "output": [
+        [
+            "Sudanese Police",
+            "ORG/GOV",
+            "Fire",
+            "Teargas",
+            "CONCEPT"
+        ],
+        [
+            "Demonstrators",
+            "PERSON",
+            "March",
+            "Sennar",
+            "GPE"
+        ],
+        [
+            "Demonstrators",
+            "PERSON",
+            "Protest",
+            "Hike",
+            "CONCEPT"
+        ],
+        [
+            "Bread Prices",
+            "ECON_INDICATOR",
+            "Hike",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Eliminate",
+            "Subsidies",
+            "CONCEPT"
+        ],
+        [
+            "Bakeries Union",
+            "ORG",
+            "Say",
+            "Price of Loaf",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Price of Loaf",
+            "ECON_INDICATOR",
+            "Rise",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "Protestor",
+            "PERSON",
+            "Protest",
+            "Rise",
+            "CONCEPT"
+        ],
+        [
+            "Protestor",
+            "PERSON",
+            "Call",
+            "Scrap",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Could not be Reached",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Opposition Parties",
+            "ORG",
+            "Call",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Crowds",
+            "PERSON",
+            "Gather",
+            "Bakeries",
+            "ORG"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Begin",
+            "Economic Reforms",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Follow",
+            "IMF Recommendations",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Ailing",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "South",
+            "GPE",
+            "Secede",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "South",
+            "GPE",
+            "Take",
+            "Three-quarters",
+            "PERCENT",
+            "Oil Output",
+            "SECTOR"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Struggle",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Lose",
+            "Main Source",
+            "SECTOR",
+            "Foreign Currency",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Pound",
+            "Weaken",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Lift",
+            "Trade Embargo",
+            "CONCEPT"
+        ],
+        [
+            "Businesses",
+            "ORG",
+            "Increase",
+            "Import Volumes",
+            "CONCEPT"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Devalue",
+            "Currency",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Peg",
+            "Currency",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Facebook",
+            "COMP",
+            "Announce",
+            "Facebook fourth quarter and full year 2017 financial results",
+            "EVENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Operate_In",
+            "NASDAQ",
+            "ORG"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "NASDAQ: FB",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Relate_To",
+            "Regulation FD",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "investor.fb.com",
+            "WEBSITE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "newsroom.fb.com",
+            "WEBSITE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "Mark Zuckerberg Facebook Page",
+            "PROFILE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Founded",
+            "2004",
+            "DATE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Mission",
+            "give people the power to build community and bring the world closer together",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Trademark_Of",
+            "Facebook Inc.",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Airbus",
+            "ORG",
+            "Operate_In",
+            "Aviation Sector",
+            "SECTOR"
+        ],
+        [
+            "Turkish Airlines",
+            "ORG",
+            "Operate_In",
+            "Aviation Sector",
+            "SECTOR"
+        ],
+        [
+            "Boeing",
+            "ORG",
+            "Produce",
+            "Boeing 787-9",
+            "PRODUCT"
+        ],
+        [
+            "Boeing",
+            "ORG",
+            "Operate_In",
+            "Aviation Sector",
+            "SECTOR"
+        ],
+        [
+            "Airbus",
+            "ORG",
+            "Relate_To",
+            "China",
+            "GPE"
+        ]
+    ]
+}

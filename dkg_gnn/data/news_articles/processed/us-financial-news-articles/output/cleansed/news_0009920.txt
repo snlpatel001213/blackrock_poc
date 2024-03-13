@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Northrop Grumman Corporation",
+            "ORG",
+            "Announce",
+            "Release",
+            "EVENT"
+        ],
+        [
+            "Northrop Grumman Corporation",
+            "ORG",
+            "Operate_In",
+            "Defense Industry",
+            "SECTOR"
+        ],
+        [
+            "Northrop Grumman Corporation",
+            "ORG",
+            "Control",
+            "NYSE:NOC",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Thursday, Jan. 25, 2018",
+            "DATE",
+            "Relate_To",
+            "Release",
+            "EVENT"
+        ],
+        [
+            "Noon Eastern time, 9 a.m. Pacific time",
+            "TIME",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "1-877-600-7013",
+            "PHONE_NUMBER",
+            "Relate_To",
+            "Call-in Number",
+            "INFORMATION"
+        ],
+        [
+            "1-414-238-0944",
+            "PHONE_NUMBER",
+            "Relate_To",
+            "Call-in Number",
+            "INFORMATION"
+        ],
+        [
+            "1-855-859-2056",
+            "PHONE_NUMBER",
+            "Relate_To",
+            "Recorded Call",
+            "EVENT"
+        ],
+        [
+            "1-404-537-3406",
+            "PHONE_NUMBER",
+            "Relate_To",
+            "Recorded Call",
+            "EVENT"
+        ],
+        [
+            "Conference ID 5387879",
+            "CONFERENCE_ID",
+            "Relate_To",
+            "Recorded Call",
+            "EVENT"
+        ],
+        [
+            "Steve Movius",
+            "PERSON",
+            "Is_Member_Of",
+            "Northrop Grumman Corporation",
+            "ORG"
+        ],
+        [
+            "Denny McSweeny",
+            "PERSON",
+            "Is_Member_Of",
+            "Northrop Grumman Corporation",
+            "ORG"
+        ]
+    ]
+}

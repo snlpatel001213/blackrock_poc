@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Michel Combes",
+            "PERSON",
+            "Is_Member_Of",
+            "Sprint Corp",
+            "COMP"
+        ],
+        [
+            "Sprint Corp",
+            "COMP",
+            "Announce",
+            "Michel Combes",
+            "PERSON"
+        ],
+        [
+            "Sprint Corp",
+            "COMP",
+            "Operate_In",
+            "Telecom and Cable Industry",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,2 @@
+. filter=lfs diff=lfs merge=lfs -text
+dkg_gnn/result/FinDKG filter=lfs diff=lfs merge=lfs -text

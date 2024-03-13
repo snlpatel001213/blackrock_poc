@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Geopolitical Futures",
+            "ORG",
+            "Has",
+            "George Friedman",
+            "PERSON"
+        ],
+        [
+            "George Friedman",
+            "PERSON",
+            "Is_Member_Of",
+            "Geopolitical Futures",
+            "ORG"
+        ],
+        [
+            "George Friedman",
+            "PERSON",
+            "Is_Member_Of",
+            "Stratfor",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Geopolitical Strategy",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "Current Events",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Negative_Impact_On",
+            "North Korea",
+            "GPE"
+        ]
+    ]
+}

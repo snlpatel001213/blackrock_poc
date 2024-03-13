@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Main Street Capital Corporation",
+            "COMP",
+            "Announce",
+            "CEO Succession Plan",
+            "EVENT"
+        ],
+        [
+            "Vincent D. Foster",
+            "PERSON",
+            "Has",
+            "Main Street",
+            "ORG"
+        ],
+        [
+            "Vincent D. Foster",
+            "PERSON",
+            "Relate_To",
+            "Chairman and CEO",
+            "TITLE"
+        ],
+        [
+            "Dwayne L. Hyzak",
+            "PERSON",
+            "Will_Join",
+            "Main Street Board of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "Dwayne L. Hyzak",
+            "PERSON",
+            "Relate_To",
+            "CEO",
+            "TITLE"
+        ],
+        [
+            "Dwayne L. Hyzak",
+            "PERSON",
+            "Operate_In",
+            "Lower Middle Market Investment Division",
+            "SECTOR"
+        ],
+        [
+            "Dwayne L. Hyzak",
+            "PERSON",
+            "Positive_Impact_On",
+            "Main Street",
+            "COMP"
+        ],
+        [
+            "Main Street",
+            "COMP",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG/EXC"
+        ],
+        [
+            "Main Street",
+            "COMP",
+            "Produce",
+            "6.125% Notes due 2023",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Main Street",
+            "COMP",
+            "Operate_In",
+            "Lower Middle Market",
+            "SECTOR"
+        ],
+        [
+            "Main Street",
+            "COMP",
+            "Operate_In",
+            "Middle Market",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Announce",
+            "Appointment",
+            "PERSON"
+        ],
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Operate_In",
+            "South San Francisco",
+            "GPE"
+        ],
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Has",
+            "Lead_Compound",
+            "PRODUCT"
+        ],
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Has",
+            "Pipeline",
+            "PRODUCT"
+        ],
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Has",
+            "Small_Molecule_Drug_Discovery_Platform",
+            "CONCEPT"
+        ],
+        [
+            "FLX Bio, Inc.",
+            "ORG",
+            "Has",
+            "Scientific_Advisory_Board",
+            "ORG"
+        ]
+    ]
+}

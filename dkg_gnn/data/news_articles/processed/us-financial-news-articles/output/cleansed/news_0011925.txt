@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Nickel Prices",
+            "ECON_INDICATOR",
+            "Climb",
+            "ShFE Nickel",
+            "PRODUCT"
+        ],
+        [
+            "ShFE Nickel",
+            "PRODUCT",
+            "Track",
+            "LME Nickel",
+            "PRODUCT"
+        ],
+        [
+            "Ambatovy Nickel Mine",
+            "COMP",
+            "Halt Output",
+            "Madagascar",
+            "GPE"
+        ],
+        [
+            "Copper",
+            "ECON_INDICATOR",
+            "Up",
+            "Three-month copper on the LME",
+            "PRODUCT"
+        ],
+        [
+            "Tongling Nonferrous Metals Group",
+            "COMP",
+            "Suspend Production",
+            "Jinguan Copper unit",
+            "COMP"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Evaluate",
+            "$2.4 Billion Railway Project",
+            "EVENT"
+        ],
+        [
+            "Liberty House",
+            "COMP",
+            "Make Binding Offer",
+            "Rio Tinto\u2019s aluminium smelter",
+            "COMP"
+        ],
+        [
+            "Alcoa Corp",
+            "COMP",
+            "Unionized Workers Reject Contract Offer",
+            "Aluminium Smelter",
+            "COMP"
+        ],
+        [
+            "Democratic Republic of Congo",
+            "GPE",
+            "Consider More than Doubling Royalties",
+            "Cobalt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ShFE Nickel",
+            "PRODUCT",
+            "Operate_In",
+            "SHFE",
+            "ORG"
+        ],
+        [
+            "LME Nickel",
+            "PRODUCT",
+            "Operate_In",
+            "LME",
+            "ORG"
+        ],
+        [
+            "Ambatovy Nickel Mine",
+            "COMP",
+            "Control",
+            "Nickel Production",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tongling Nonferrous Metals Group",
+            "COMP",
+            "Participates_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Participates_In",
+            "Copper-rich Andean Region",
+            "GPE"
+        ],
+        [
+            "Liberty House",
+            "COMP",
+            "Invests_In",
+            "Aluminium Smelter",
+            "COMP"
+        ],
+        [
+            "Alcoa Corp",
+            "COMP",
+            "Raise",
+            "Contract Offer",
+            "PRODUCT"
+        ],
+        [
+            "Democratic Republic of Congo",
+            "GPE",
+            "Impact",
+            "Cobalt Mining Industry",
+            "SECTOR"
+        ],
+        [
+            "SHFE",
+            "ORG",
+            "Relate_To",
+            "Base Metals Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LME",
+            "ORG",
+            "Relate_To",
+            "Base Metals Prices",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

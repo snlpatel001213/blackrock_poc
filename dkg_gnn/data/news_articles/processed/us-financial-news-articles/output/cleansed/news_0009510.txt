@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Consolidated Edison Inc.",
+            "ORG",
+            "Announce",
+            "Extension Agreement",
+            "EVENT"
+        ],
+        [
+            "Consolidated Edison Inc.",
+            "ORG",
+            "Control",
+            "$2.25 Billion Credit Agreement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "$2.25 Billion Credit Agreement",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Extension Agreement",
+            "EVENT"
+        ],
+        [
+            "Extension Agreement",
+            "EVENT",
+            "Impact",
+            "Termination Date",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Termination Date",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Credit Agreement",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Termination Date",
+            "ECON_INDICATOR",
+            "Extend",
+            "December 7, 2022",
+            "DATE"
+        ]
+    ]
+}

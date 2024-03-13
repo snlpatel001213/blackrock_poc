@@ -1,0 +1,49 @@
+{
+    "output": [
+        [
+            "NYT",
+            "ORG",
+            "Publish",
+            "Farhad Manjoo",
+            "PERSON"
+        ],
+        [
+            "Farhad Manjoo",
+            "PERSON",
+            "Express",
+            "Optimism",
+            "CONCEPT"
+        ],
+        [
+            "Spotify",
+            "COMP",
+            "File",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Spotify",
+            "COMP",
+            "Relate_To",
+            "Music Streaming",
+            "CONCEPT"
+        ],
+        [
+            "Aspen Institute",
+            "ORG",
+            "Has",
+            "Walter Isaacson",
+            "PERSON",
+            "as",
+            "CEO",
+            "POSITION"
+        ],
+        [
+            "Walter Isaacson",
+            "PERSON",
+            "Discuss",
+            "News",
+            "CONCEPT"
+        ]
+    ]
+}

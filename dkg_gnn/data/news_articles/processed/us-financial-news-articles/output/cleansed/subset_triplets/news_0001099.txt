@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Monetary Policymaking Arm",
+            "ORG/REG"
+        ],
+        [
+            "Republican Tax Overhaul",
+            "CONCEPT",
+            "Relate_To",
+            "Proposed Cuts in Personal Taxes",
+            "CONCEPT"
+        ],
+        [
+            "Republican Tax Overhaul",
+            "CONCEPT",
+            "Relate_To",
+            "Boost to Consumer Spending",
+            "CONCEPT"
+        ]
+    ]
+}

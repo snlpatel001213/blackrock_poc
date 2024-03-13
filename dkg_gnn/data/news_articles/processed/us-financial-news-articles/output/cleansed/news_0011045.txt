@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Rescue crews",
+            "ORG",
+            "Search",
+            "Missing People",
+            "PERSON"
+        ],
+        [
+            "Santa Barbara",
+            "GPE",
+            "Has",
+            "Missing People",
+            "PERSON"
+        ],
+        [
+            "Mudslides",
+            "EVENT",
+            "Damage",
+            "Historic Hotels",
+            "ORG"
+        ],
+        [
+            "Oprah Winfrey",
+            "PERSON",
+            "Own",
+            "Home",
+            "COMP"
+        ],
+        [
+            "Wooded Hillsides",
+            "CONCEPT",
+            "Denuded",
+            "Last Year\u2019s Wildfires",
+            "EVENT"
+        ],
+        [
+            "Missing People",
+            "PERSON",
+            "Believed",
+            "In The Area",
+            "GPE"
+        ],
+        [
+            "Law Enforcement Officers",
+            "ORG",
+            "Combine",
+            "Mud-Covered Neighborhoods",
+            "GPE"
+        ],
+        [
+            "Rescuers",
+            "ORG",
+            "Better Go",
+            "Their Work",
+            "CONCEPT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Ordered",
+            "Stay In Their Homes",
+            "COMP"
+        ],
+        [
+            "300 People",
+            "PERSON",
+            "Stranded",
+            "Canyon",
+            "GPE"
+        ],
+        [
+            "County",
+            "ORG/GOV",
+            "Initially Order",
+            "Residents",
+            "PERSON"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Comply",
+            "Mandatory Orders",
+            "COMP"
+        ],
+        [
+            "Slides",
+            "EVENT",
+            "Close",
+            "Several Historic Hotels",
+            "ORG"
+        ],
+        [
+            "Undamaged Businesses",
+            "COMP",
+            "Close",
+            "Lack Supplies",
+            "CONCEPT"
+        ],
+        [
+            "Mudslides",
+            "EVENT",
+            "Follow",
+            "Rainstorm",
+            "EVENT"
+        ],
+        [
+            "Rainstorm",
+            "EVENT",
+            "Drop",
+            "Precipitation",
+            "CONCEPT"
+        ],
+        [
+            "Precipitation",
+            "CONCEPT",
+            "Soak",
+            "Ground",
+            "CONCEPT"
+        ],
+        [
+            "Ground",
+            "CONCEPT",
+            "Vulnerable",
+            "Last Month\u2019s Wildfires",
+            "EVENT"
+        ],
+        [
+            "Winfrey",
+            "PERSON",
+            "Post",
+            "Video",
+            "PRODUCT"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Show",
+            "Her Wading",
+            "CONCEPT"
+        ],
+        [
+            "Teenager",
+            "PERSON",
+            "Found",
+            "Alive",
+            "STATE"
+        ],
+        [
+            "Teenager",
+            "PERSON",
+            "Covered",
+            "Mud",
+            "CONCEPT"
+        ],
+        [
+            "Last Month\u2019s Wildfires",
+            "EVENT",
+            "Leave",
+            "Area Vulnerable",
+            "CONCEPT"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Burn",
+            "Grass",
+            "CONCEPT"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Bake",
+            "Waxy Layer",
+            "CONCEPT"
+        ],
+        [
+            "Waxy Layer",
+            "CONCEPT",
+            "Prevent",
+            "Water",
+            "CONCEPT"
+        ],
+        [
+            "Water",
+            "CONCEPT",
+            "Sink",
+            "Deeply",
+            "ADV"
+        ],
+        [
+            "Wildfires",
+            "EVENT",
+            "Become",
+            "Largest In California History",
+            "CONCEPT"
+        ]
+    ]
+}

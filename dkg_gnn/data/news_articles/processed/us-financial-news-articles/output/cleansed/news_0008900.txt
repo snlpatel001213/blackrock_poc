@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Announce",
+            "December 2017 Rig Counts",
+            "EVENT"
+        ],
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Control",
+            "Average US Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Control",
+            "Average Canadian Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Control",
+            "Worldwide Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Control",
+            "Baker Hughes International Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Baker Hughes A Ge Co",
+            "COMP",
+            "Control",
+            "International Offshore Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017 Rig Counts",
+            "EVENT",
+            "Relate_To",
+            "Average US Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017 Rig Counts",
+            "EVENT",
+            "Relate_To",
+            "Average Canadian Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017 Rig Counts",
+            "EVENT",
+            "Relate_To",
+            "Worldwide Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017 Rig Counts",
+            "EVENT",
+            "Relate_To",
+            "Baker Hughes International Rig Count",
+            "ECON_INDICATOR"
+        ],
+        [
+            "December 2017 Rig Counts",
+            "EVENT",
+            "Relate_To",
+            "International Offshore Rig Count",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

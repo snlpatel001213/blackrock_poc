@@ -1,0 +1,170 @@
+{
+    "output": [
+        [
+            "Stanford University",
+            "ORG",
+            "Evaluate",
+            "Randomized Controlled Trial Reports",
+            "CONCEPT"
+        ],
+        [
+            "Randomized Controlled Trial Reports",
+            "CONCEPT",
+            "Publish",
+            "Surgeons",
+            "PERSON"
+        ],
+        [
+            "Top Medical and Surgical Journals",
+            "CONCEPT",
+            "Include",
+            "The New England Journal of Medicine, Annals of Surgery, Journal of the American College of Surgeons",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Lag",
+            "Canada, UK, Western European Countries",
+            "GPE",
+            "Randomized Controlled Trials",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Publish",
+            "0.03 Papers",
+            "CONCEPT",
+            "Randomized Controlled Trials",
+            "CONCEPT",
+            "Per 100,000 Citizens"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Publish",
+            "0.05 Papers",
+            "CONCEPT",
+            "Randomized Controlled Trials",
+            "CONCEPT",
+            "Per 100,000 Citizens"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Publish",
+            "0.07 Papers",
+            "CONCEPT",
+            "Randomized Controlled Trials",
+            "CONCEPT",
+            "Per 100,000 Citizens"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Publish",
+            "0.10 Papers",
+            "CONCEPT",
+            "Randomized Controlled Trials",
+            "CONCEPT",
+            "Per 100,000 Citizens"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Publish",
+            "0.20 Papers",
+            "CONCEPT",
+            "Randomized Controlled Trials",
+            "CONCEPT",
+            "Per 100,000 Citizens"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Publish",
+            "0.07 Randomized Controlled Trials",
+            "CONCEPT",
+            "Per Billion U.S. Dollars",
+            "ECON_INDICATOR",
+            "Spent by Governments on Research and Development"
+        ],
+        [
+            "Canada",
+            "GPE",
+            "Publish",
+            "2.4 Randomized Controlled Trials",
+            "CONCEPT",
+            "Per Billion U.S. Dollars",
+            "ECON_INDICATOR",
+            "Spent by Governments on Research and Development"
+        ],
+        [
+            "Netherlands",
+            "GPE",
+            "Publish",
+            "6.5 Randomized Controlled Trials",
+            "CONCEPT",
+            "Per Billion U.S. Dollars",
+            "ECON_INDICATOR",
+            "Spent by Governments on Research and Development"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Publish",
+            "7.4 Randomized Controlled Trials",
+            "CONCEPT",
+            "Per Billion U.S. Dollars",
+            "ECON_INDICATOR",
+            "Spent by Governments on Research and Development"
+        ],
+        [
+            "Denmark",
+            "GPE",
+            "Publish",
+            "14.4 Randomized Controlled Trials",
+            "CONCEPT",
+            "Per Billion U.S. Dollars",
+            "ECON_INDICATOR",
+            "Spent by Governments on Research and Development"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Have",
+            "Massive Problems",
+            "CONCEPT",
+            "Surgical Clinical Trials",
+            "CONCEPT"
+        ],
+        [
+            "Governing Bodies",
+            "ORG/REG",
+            "Enact",
+            "Impossible Regulations",
+            "CONCEPT",
+            "Overcome",
+            "VERB",
+            "To Get Funded",
+            "CONCEPT"
+        ],
+        [
+            "Surgical Clinical Trials",
+            "CONCEPT",
+            "Require",
+            "Dedicated Surgical Research Funds",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Establish",
+            "Preeminent Leaders",
+            "CONCEPT",
+            "Biomedical Research",
+            "CONCEPT"
+        ]
+    ]
+}

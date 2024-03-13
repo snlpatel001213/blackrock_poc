@@ -1,0 +1,157 @@
+{
+    "output": [
+        [
+            "NBC News",
+            "ORG",
+            "Announce",
+            "Hoda Kotb",
+            "PERSON"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Replace",
+            "Matt Lauer",
+            "PERSON"
+        ],
+        [
+            "Matt Lauer",
+            "PERSON",
+            "Get_Fired",
+            "NBC News",
+            "ORG"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Operate_In",
+            "Today Show",
+            "ORG"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Join",
+            "Savannah Guthrie",
+            "PERSON"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Continue_As",
+            "Co-host",
+            "ORG"
+        ],
+        [
+            "Kathie Lee Gifford",
+            "PERSON",
+            "Co-host",
+            "10 a.m. hour",
+            "ORG"
+        ],
+        [
+            "Savannah Guthrie",
+            "PERSON",
+            "Announce",
+            "Hoda Kotb",
+            "PERSON"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Fill_In",
+            "Co-host",
+            "ORG"
+        ],
+        [
+            "Matt Lauer",
+            "PERSON",
+            "Receive",
+            "Complaint",
+            "ORG"
+        ],
+        [
+            "Matt Lauer",
+            "PERSON",
+            "Pattern_Of",
+            "Inappropriate Sexual Behavior",
+            "CONCEPT"
+        ],
+        [
+            "Matt Lauer",
+            "PERSON",
+            "Fired",
+            "NBC News",
+            "ORG"
+        ],
+        [
+            "NBC News",
+            "ORG",
+            "Investigate",
+            "Complaint",
+            "ORG"
+        ],
+        [
+            "Matt Lauer",
+            "PERSON",
+            "Apologize",
+            "null",
+            "NONE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Not_Independently_Verify",
+            "Accusations",
+            "CONCEPT"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Join",
+            "NBC News",
+            "ORG"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Co-host",
+            "Fourth Hour",
+            "ORG"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Host",
+            "Program",
+            "ORG"
+        ],
+        [
+            "NBC News Chairman",
+            "PERSON",
+            "Send",
+            "Email",
+            "ORG"
+        ],
+        [
+            "Hoda Kotb",
+            "PERSON",
+            "Hit_Ground_Running",
+            "ORG"
+        ],
+        [
+            "Fans",
+            "PERSON",
+            "Congratulate",
+            "Hoda Kotb",
+            "PERSON"
+        ],
+        [
+            "NBC News Colleagues",
+            "PERSON",
+            "Congratulate",
+            "Hoda Kotb",
+            "PERSON"
+        ]
+    ]
+}

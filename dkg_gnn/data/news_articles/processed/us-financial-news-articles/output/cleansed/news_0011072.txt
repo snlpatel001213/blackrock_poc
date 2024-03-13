@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "PG&E Corporation",
+            "ORG",
+            "Has",
+            "Fourth Quarter 2017 Earnings Call",
+            "EVENT"
+        ],
+        [
+            "PG&E Corporation",
+            "ORG",
+            "Operate_In",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "PG&E Corporation",
+            "ORG",
+            "Operate_In",
+            "Northern and Central California",
+            "GPE"
+        ],
+        [
+            "PG&E Corporation",
+            "ORG",
+            "Is_Member_Of",
+            "Fortune 200",
+            "CONCEPT"
+        ],
+        [
+            "PG&E Corporation",
+            "ORG",
+            "Parent_Of",
+            "Pacific Gas and Electric Company",
+            "COMP"
+        ],
+        [
+            "Pacific Gas and Electric Company",
+            "COMP",
+            "Subsidiary_Of",
+            "PG&E Corporation",
+            "ORG"
+        ],
+        [
+            "Fourth Quarter 2017 Earnings Call",
+            "EVENT",
+            "Relate_To",
+            "PG&E Corporation",
+            "ORG"
+        ],
+        [
+            "Event",
+            "EVENT",
+            "Relate_To",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Operate_In",
+            "http://www.pgecorp.com",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Operate_In",
+            "http://investor.pgecorp.com",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Webcast",
+            "PRODUCT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Accessible_Via",
+            "Webcast",
+            "PRODUCT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Accessible_Via",
+            "Toll-free replay",
+            "PRODUCT"
+        ],
+        [
+            "Toll-free replay",
+            "PRODUCT",
+            "Available_Through",
+            "February 23, 2018",
+            "DATE"
+        ],
+        [
+            "Toll-free replay",
+            "PRODUCT",
+            "Available_Through",
+            "International callers",
+            "PERSON"
+        ],
+        [
+            "Toll-free replay",
+            "PRODUCT",
+            "Requires",
+            "Confirmation code 3265#",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Investor Relations",
+            "COMP",
+            "Provide",
+            "Contact Information",
+            "PRODUCT"
+        ],
+        [
+            "Contact Information",
+            "PRODUCT",
+            "Relate_To",
+            "Questions",
+            "CONCEPT"
+        ]
+    ]
+}

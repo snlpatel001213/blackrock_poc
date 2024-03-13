@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Lamborghini",
+            "COMP",
+            "Relate_To",
+            "VW Group",
+            "ORG/COMP"
+        ],
+        [
+            "Lamborghini",
+            "COMP",
+            "Has",
+            "Global CEO",
+            "PERSON"
+        ],
+        [
+            "Global CEO",
+            "PERSON",
+            "Predict",
+            "Bright Future",
+            "CONCEPT"
+        ]
+    ]
+}

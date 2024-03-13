@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "USA Technologies Inc.",
+            "COMP",
+            "Announce",
+            "Expanded Agreement",
+            "ORG"
+        ],
+        [
+            "USA Technologies",
+            "COMP",
+            "Relate_To",
+            "Jackson Brothers Of The South",
+            "ORG"
+        ],
+        [
+            "Jackson Brothers Of The South",
+            "ORG",
+            "Operate_In",
+            "100 Select Machines",
+            "COMP"
+        ]
+    ]
+}

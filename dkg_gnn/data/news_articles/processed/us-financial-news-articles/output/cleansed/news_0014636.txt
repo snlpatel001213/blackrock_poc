@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Invests_In",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Invests_In",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Urge",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Consider",
+            "Develop",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Study",
+            "Impact",
+            "CONCEPT"
+        ],
+        [
+            "Children",
+            "PERSON",
+            "Use",
+            "iPhone",
+            "PRODUCT"
+        ],
+        [
+            "Parents",
+            "PERSON",
+            "Control",
+            "Children",
+            "PERSON"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Think",
+            "Deeply",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Commit",
+            "Meet",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Commit",
+            "Exceed",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Protect",
+            "Kids",
+            "PERSON"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Works",
+            "New Features",
+            "CONCEPT"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Known",
+            "Push",
+            "CONCEPT"
+        ],
+        [
+            "Jana Partners",
+            "ORG",
+            "Invest",
+            "Financial Changes",
+            "CONCEPT"
+        ],
+        [
+            "Phone Addiction",
+            "CONCEPT",
+            "Growing Concern",
+            "United States",
+            "GPE"
+        ],
+        [
+            "CalSTRS",
+            "ORG",
+            "Worry",
+            "Hurt",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Reputation",
+            "Hurt",
+            "CONCEPT"
+        ],
+        [
+            "Half Teenagers",
+            "PERSON",
+            "Feel",
+            "Addicted",
+            "CONCEPT"
+        ],
+        [
+            "Teenagers",
+            "PERSON",
+            "Report",
+            "Pressure",
+            "CONCEPT"
+        ],
+        [
+            "Children",
+            "PERSON",
+            "Parents",
+            "Report",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Cancel",
+            "Tour",
+            "EVENT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Go",
+            "Therapy",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Link",
+            "Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Addiction",
+            "Social Media",
+            "CONCEPT"
+        ],
+        [
+            "Selena Gomez",
+            "PERSON",
+            "Addiction",
+            "Instagram",
+            "PRODUCT"
+        ]
+    ]
+}

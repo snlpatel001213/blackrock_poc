@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Win",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Operate_In",
+            "Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Andrey Rublev",
+            "PERSON",
+            "Participates_In",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Citi Open",
+            "EVENT",
+            "Relate_To",
+            "Gael Monfils",
+            "PERSON"
+        ],
+        [
+            "Dominic Thiem",
+            "PERSON",
+            "Withdraw",
+            "Qatar Open",
+            "EVENT"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Attention_Turn_To",
+            "Gael Monfils",
+            "PERSON"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Start_On",
+            "Jan. 15",
+            "DATE"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Impact",
+            "Fourth Round",
+            "CONCEPT"
+        ],
+        [
+            "Gael Monfils",
+            "PERSON",
+            "Negative_Impact_On",
+            "Past Fourth Round",
+            "CONCEPT"
+        ]
+    ]
+}

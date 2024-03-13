@@ -1,0 +1,209 @@
+{
+    "output": [
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Cannot_Buy",
+            "bitcoin-related investments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Operate_In",
+            "Financial sector",
+            "SECTOR"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Prevent",
+            "Financial giants advisors",
+            "ORG"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Execute",
+            "Client requests",
+            "ORG"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Cite",
+            "Newspaper",
+            "ORG"
+        ],
+        [
+            "The Wall Street Journal",
+            "ORG",
+            "Report",
+            "Wednesday",
+            "GPE"
+        ],
+        [
+            "Grayscale",
+            "ORG",
+            "Produce",
+            "bitcoin investment trust",
+            "PRODUCT"
+        ],
+        [
+            "Grayscale",
+            "ORG",
+            "Trade",
+            "GBTC",
+            "PRODUCT"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Relate_To",
+            "Suitability and eligibility standards",
+            "CONCEPT"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Driven_By",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Confirm",
+            "Report",
+            "ORG"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Spokeperson",
+            "Confirm",
+            "ORG"
+        ],
+        [
+            "Grayscale",
+            "ORG",
+            "Director",
+            "Michael Sonnenshein",
+            "PERSON"
+        ],
+        [
+            "Grayscale",
+            "ORG",
+            "Statement",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Top_Holding",
+            "Ark Invest",
+            "ORG"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Top_Performing",
+            "ETFs",
+            "PRODUCT"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Traded_Over",
+            "Counter",
+            "GPE"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Not",
+            "Formal_Venue",
+            "GPE"
+        ],
+        [
+            "GBTC",
+            "PRODUCT",
+            "Holdings",
+            "Ark Invest ETFs",
+            "PRODUCT"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Ban",
+            "Access",
+            "ORG"
+        ],
+        [
+            "Merrill Lynch",
+            "ORG",
+            "Ban",
+            "bitcoin futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CME",
+            "ORG",
+            "Launch",
+            "bitcoin futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Cboe",
+            "ORG",
+            "Competitor",
+            "CME",
+            "ORG"
+        ],
+        [
+            "Cboe",
+            "ORG",
+            "Launch",
+            "bitcoin futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Soared",
+            "More_Than",
+            "1,300 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Draw",
+            "Strong_Criticism",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Digital_Currency",
+            "In",
+            "Highly_Speculative_Bubble",
+            "CONCEPT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Report",
+            "Merrill Lynch",
+            "ORG"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Statement",
+            "Grayscale",
+            "ORG"
+        ]
+    ]
+}

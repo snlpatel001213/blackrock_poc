@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Peru",
+            "GPE",
+            "Has",
+            "48 Deaths",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Collide",
+            "Truck",
+            "PRODUCT"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Careen_Off",
+            "Cliff",
+            "PRODUCT"
+        ],
+        [
+            "Panamericana Norte highway",
+            "SECTOR",
+            "Locate_Near",
+            "Pasamayo",
+            "GPE"
+        ],
+        [
+            "Lewis Mejia Prada",
+            "PERSON",
+            "Update",
+            "Death Toll",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Local Fire-Fighting Company",
+            "ORG",
+            "Represented_By",
+            "Lewis Mejia Prada",
+            "PERSON"
+        ],
+        [
+            "Six People",
+            "PERSON",
+            "Survive",
+            "Crash",
+            "EVENT"
+        ],
+        [
+            "People",
+            "PERSON",
+            "Treated",
+            "Injuries",
+            "PRODUCT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Rush",
+            "Emergency Medical Services",
+            "PRODUCT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Have",
+            "Unsafe Highways",
+            "SECTOR"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Investigate",
+            "Tuesday\u2019s Accident",
+            "EVENT"
+        ]
+    ]
+}

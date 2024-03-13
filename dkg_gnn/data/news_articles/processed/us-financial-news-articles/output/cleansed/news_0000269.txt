@@ -1,0 +1,161 @@
+{
+    "output": [
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "COMP"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Fund",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "1,432",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Founded",
+            "1992",
+            "DATE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Mission",
+            "Enhance",
+            "CONCEPT"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "10.5",
+            "MILLION",
+            "Members",
+            "MEMBER"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "49",
+            "STATES",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Puerto Rico",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Has",
+            "Dominican Republic",
+            "GPE"
+        ],
+        [
+            "Franchisee John Mahoney",
+            "PERSON",
+            "Retire",
+            null,
+            null
+        ],
+        [
+            "Franchisee John Mahoney",
+            "PERSON",
+            "Oversee",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Franchisee John Mahoney",
+            "PERSON",
+            "Participates_In",
+            "Planet Fitness",
+            "ORG"
+        ],
+        [
+            "Franchise Group",
+            "COMP",
+            "Represent",
+            "6",
+            "ECON_INDICATOR",
+            "Franchise",
+            "COMP"
+        ],
+        [
+            "Franchise Group",
+            "COMP",
+            "Operate_In",
+            "Suffolk County",
+            "GPE"
+        ],
+        [
+            "Franchise Group",
+            "COMP",
+            "Acquire",
+            "Planet Fitness",
+            "ORG"
+        ],
+        [
+            "Company Owned Stores",
+            "COMP",
+            "Operate_In",
+            "Western Half",
+            "GPE"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Commit",
+            "Asset-light Business Model",
+            "CONCEPT"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Explore",
+            "Options",
+            "CONCEPT"
+        ],
+        [
+            "Planet Fitness, Inc.",
+            "ORG",
+            "Return",
+            "Portion",
+            "CONCEPT",
+            "Cash",
+            "FIN_INSTRUMENT",
+            "to",
+            "Shareholders",
+            "PERSON"
+        ]
+    ]
+}

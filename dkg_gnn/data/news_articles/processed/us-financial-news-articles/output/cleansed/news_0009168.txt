@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Has",
+            "Patrick Doyle",
+            "PERSON"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Is_Member_Of",
+            "Domino's Pizza Inc.",
+            "COMP"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Announce",
+            "Richard Allison",
+            "PERSON"
+        ],
+        [
+            "Richard Allison",
+            "PERSON",
+            "Participates_In",
+            "Domino's Pizza Inc.",
+            "COMP"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Decrease",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Control",
+            "Turnaround",
+            "CONCEPT"
+        ],
+        [
+            "Turnaround",
+            "CONCEPT",
+            "Relate_To",
+            "Taste",
+            "CONCEPT"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Produce",
+            "Pizza",
+            "PRODUCT"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Operate_In",
+            "June",
+            "DATE"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Dub",
+            "Product",
+            "PRODUCT"
+        ],
+        [
+            "Product",
+            "PRODUCT",
+            "Relate_To",
+            "Worst Excuse For Pizza",
+            "CONCEPT"
+        ],
+        [
+            "Domino's Pizza Inc.",
+            "COMP",
+            "Raise",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Patrick Doyle",
+            "PERSON",
+            "Seen",
+            "Candidate",
+            "PERSON"
+        ],
+        [
+            "Candidate",
+            "PERSON",
+            "Potential",
+            "CEO Job",
+            "CONCEPT"
+        ],
+        [
+            "CEO Job",
+            "CONCEPT",
+            "Participates_In",
+            "Chipotle Mexican Grill Inc.",
+            "COMP"
+        ],
+        [
+            "Chipotle Mexican Grill Inc.",
+            "COMP",
+            "Lag",
+            "Digital Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Chipotle Mexican Grill Inc.",
+            "COMP",
+            "Lag",
+            "Delivery",
+            "CONCEPT"
+        ],
+        [
+            "Chipotle Mexican Grill Inc.",
+            "COMP",
+            "Control",
+            "Food Safety Lapses",
+            "CONCEPT"
+        ],
+        [
+            "Food Safety Lapses",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Chipotle Mexican Grill Inc.",
+            "COMP"
+        ],
+        [
+            "Chipotle Mexican Grill Inc.",
+            "COMP",
+            "Has",
+            "Spokeperson",
+            "PERSON"
+        ],
+        [
+            "Spokeperson",
+            "PERSON",
+            "Decline",
+            "Comment",
+            "CONCEPT"
+        ]
+    ]
+}

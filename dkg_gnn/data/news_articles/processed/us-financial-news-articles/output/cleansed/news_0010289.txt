@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Vienna Insurance Group",
+            "ORG",
+            "Operate_In",
+            "Baltic States",
+            "GPE"
+        ],
+        [
+            "Vienna Insurance Group",
+            "ORG",
+            "Merge",
+            "Interrisk",
+            "ORG"
+        ],
+        [
+            "Interrisk",
+            "ORG",
+            "Merge",
+            "BTA Baltic",
+            "ORG"
+        ]
+    ]
+}

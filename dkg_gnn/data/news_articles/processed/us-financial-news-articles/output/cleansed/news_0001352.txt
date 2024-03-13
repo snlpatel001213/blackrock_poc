@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Valeant Pharmaceuticals International Inc",
+            "COMP",
+            "Settle",
+            "Insider Trading Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Valeant Pharmaceuticals International Inc",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Pershing Square",
+            "ORG",
+            "Participates_In",
+            "Settlement",
+            "EVENT"
+        ],
+        [
+            "Pershing Square",
+            "ORG",
+            "Relate_To",
+            "Valeant Pharmaceuticals International Inc",
+            "COMP"
+        ],
+        [
+            "Pershing Square",
+            "ORG",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Involved_In",
+            "Insider Trading Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Allergan Plc",
+            "COMP",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Involved_In",
+            "Insider Trading Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Has",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Has",
+            "Substantial Questions",
+            "CONCEPT"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Relate_To",
+            "Settlement Amount",
+            "CONCEPT"
+        ],
+        [
+            "Court",
+            "ORG/GOV",
+            "Operate_In",
+            "GPE",
+            "GPE"
+        ]
+    ]
+}

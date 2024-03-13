@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "U.S. Senate",
+            "ORG/GOV",
+            "Discuss",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Senate",
+            "ORG/GOV",
+            "Hold",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Source",
+            "PERSON",
+            "Say",
+            "Senate Banking Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Senate Banking Committee",
+            "ORG/GOV",
+            "Take",
+            "Testimony",
+            "EVENT"
+        ],
+        [
+            "Christopher Giancarlo",
+            "PERSON",
+            "Is_Member_Of",
+            "Commodity Futures Trading Commission",
+            "ORG/REG"
+        ],
+        [
+            "Commodity Futures Trading Commission",
+            "ORG/REG",
+            "Control",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Jay Clayton",
+            "PERSON",
+            "Is_Member_Of",
+            "Securities and Exchange Commission",
+            "ORG/REG"
+        ],
+        [
+            "Securities and Exchange Commission",
+            "ORG/REG",
+            "Control",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Relate_To",
+            "Cryptocurrencies",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Impact",
+            "Bitcoin Market",
+            "SECTOR"
+        ],
+        [
+            "Bitcoin Market",
+            "SECTOR",
+            "Experience",
+            "Bubble",
+            "CONCEPT"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Experience",
+            "Slump",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Announce",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Operate_In",
+            "Lafayette",
+            "GPE"
+        ],
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Issue",
+            "Depositary Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Depositary Shares",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Series B Preferred Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Series B Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Liquidation Preference",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Payable",
+            "Cash Dividend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Control",
+            "Series B Preferred Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Series B Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Trade_On",
+            "NASDAQ Global Select Market",
+            "COMP"
+        ],
+        [
+            "IBERIABANK Corporation",
+            "COMP",
+            "Serve",
+            "Clients",
+            "PERSON"
+        ]
+    ]
+}

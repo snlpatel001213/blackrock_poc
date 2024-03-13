@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Police",
+            "ORG",
+            "Impact",
+            "Bus Accident",
+            "EVENT"
+        ],
+        [
+            "Bus",
+            "PRODUCT",
+            "Relate_To",
+            "Accident",
+            "EVENT"
+        ]
+    ]
+}

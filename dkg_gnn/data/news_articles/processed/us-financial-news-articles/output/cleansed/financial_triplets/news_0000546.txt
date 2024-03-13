@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Has",
+            "Laura B. Miller",
+            "PERSON"
+        ],
+        [
+            "Laura B. Miller",
+            "PERSON",
+            "Operate_In",
+            "Human Resources",
+            "SECTOR"
+        ],
+        [
+            "Laura B. Miller",
+            "PERSON",
+            "Raise",
+            "25 Years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Laura B. Miller",
+            "PERSON",
+            "Participates_In",
+            "ADT Corporation",
+            "COMP"
+        ],
+        [
+            "Laura B. Miller",
+            "PERSON",
+            "Participates_In",
+            "Coca-Cola",
+            "COMP"
+        ],
+        [
+            "Laura B. Miller",
+            "PERSON",
+            "Participates_In",
+            "Raytheon Company",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Operate_In",
+            "Global Cruise Vacation",
+            "SECTOR"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "Royal Caribbean International",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "Celebrity Cruises",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "Azamara Club Cruises",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "TUI Cruises",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "Pullmantur",
+            "COMP"
+        ],
+        [
+            "Royal Caribbean Cruises Ltd.",
+            "COMP",
+            "Control",
+            "SkySea Cruises",
+            "COMP"
+        ]
+    ]
+}

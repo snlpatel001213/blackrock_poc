@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Cipher Pharmaceuticals Inc",
+            "COMP",
+            "Announce",
+            "Exclusive Distribution Agreement",
+            "EVENT"
+        ],
+        [
+            "Cipher Pharmaceuticals Inc",
+            "COMP",
+            "Operate_In",
+            "Pharmaceuticals Sector",
+            "SECTOR"
+        ],
+        [
+            "Cipher Pharmaceuticals Inc",
+            "COMP",
+            "Enter Into",
+            "Distribution and Supply Agreement",
+            "EVENT"
+        ],
+        [
+            "Cipher Pharmaceuticals Inc",
+            "COMP",
+            "Grant",
+            "Italmex Pharma",
+            "ORG"
+        ],
+        [
+            "Italmex Pharma",
+            "ORG",
+            "Market",
+            "Isotretinoin Product",
+            "PRODUCT"
+        ],
+        [
+            "Italmex Pharma",
+            "ORG",
+            "Sell",
+            "Isotretinoin Product",
+            "PRODUCT"
+        ],
+        [
+            "Italmex Pharma",
+            "ORG",
+            "Distribute",
+            "Isotretinoin Product",
+            "PRODUCT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Relate_To",
+            "Distribution Agreement",
+            "EVENT"
+        ]
+    ]
+}

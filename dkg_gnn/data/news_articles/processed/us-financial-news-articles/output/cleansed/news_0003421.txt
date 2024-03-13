@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Tesla Inc",
+            "COMP",
+            "Deliver",
+            "Model 3",
+            "PRODUCT"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Miss",
+            "Wall Street Expectations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Operate_In",
+            "Electric-Car Maker",
+            "ORG"
+        ],
+        [
+            "Tesla Inc",
+            "COMP",
+            "Push Back",
+            "Production Target",
+            "SECTOR"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Critical",
+            "Teslas Long-Term Success",
+            "CONCEPT"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Affordable",
+            "null",
+            "ORG"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Capable",
+            "Transform",
+            "VERB"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Extrapolates",
+            "Over 1,000 Model 3s per week",
+            "QUANTITY"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Starts",
+            "$35,000",
+            "PRICE"
+        ],
+        [
+            "Model 3",
+            "PRODUCT",
+            "Over 500,000 Customers",
+            "Deposit",
+            "EVENT"
+        ],
+        [
+            "Model S",
+            "PRODUCT",
+            "Deliver",
+            "null",
+            "ORG"
+        ],
+        [
+            "Model X",
+            "PRODUCT",
+            "Deliver",
+            "null",
+            "ORG"
+        ],
+        [
+            "Wall Street Expectations",
+            "ECON_INDICATOR",
+            "Expect",
+            "Tesla Inc",
+            "COMP"
+        ],
+        [
+            "Electric Vehicle Market",
+            "SECTOR",
+            "Enter",
+            "null",
+            "ORG"
+        ]
+    ]
+}

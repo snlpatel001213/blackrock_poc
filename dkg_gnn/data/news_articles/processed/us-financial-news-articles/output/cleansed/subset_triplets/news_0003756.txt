@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sydney International",
+            "EVENT",
+            "Operate_In",
+            "Sydney Olympic Park",
+            "GPE"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Has",
+            "World number two ranking",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Garbine Muguruza",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ]
+    ]
+}

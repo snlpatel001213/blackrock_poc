@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Warns",
+            "Carillion's Collapse",
+            "EVENT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Avoid",
+            "Complacency",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Need",
+            "Avoid Complacency",
+            "CONCEPT"
+        ],
+        [
+            "Carillion",
+            "COMP",
+            "Fallout",
+            "null",
+            "NULL"
+        ],
+        [
+            "Public Services",
+            "CONCEPT",
+            "Continue",
+            "null",
+            "NULL"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Monitor",
+            "Emerging Issues",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Provide",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "Employees",
+            "PERSON",
+            "Companies",
+            "Private Sector Carillion Contracts",
+            "COMP"
+        ],
+        [
+            "William James",
+            "PERSON",
+            "Reporting",
+            "null",
+            "NULL"
+        ],
+        [
+            "Andrew MacAskill",
+            "PERSON",
+            "Writing",
+            "null",
+            "NULL"
+        ],
+        [
+            "Elizabeth Piper",
+            "PERSON",
+            "Editing",
+            "null",
+            "NULL"
+        ]
+    ]
+}

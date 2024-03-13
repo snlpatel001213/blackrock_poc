@@ -1,0 +1,182 @@
+{
+    "output": [
+        [
+            "Sangamo Therapeutics",
+            "ORG",
+            "Work_Together",
+            "Pfizer",
+            "ORG"
+        ],
+        [
+            "Sangamo Therapeutics",
+            "ORG",
+            "Develop",
+            "Gene Therapy",
+            "CONCEPT"
+        ],
+        [
+            "Gene Therapy",
+            "CONCEPT",
+            "Treat",
+            "ALS",
+            "CONCEPT"
+        ],
+        [
+            "ALS",
+            "CONCEPT",
+            "Affect",
+            "Nerve Cells",
+            "CONCEPT",
+            "Brain",
+            "GPE",
+            "Spinal Cord",
+            "GPE"
+        ],
+        [
+            "Gene Therapy",
+            "CONCEPT",
+            "Treat",
+            "Patients",
+            "COMP",
+            "Brain Disorder",
+            "CONCEPT"
+        ],
+        [
+            "Brain Disorder",
+            "CONCEPT",
+            "Caused_By",
+            "Mutations",
+            "CONCEPT",
+            "Gene",
+            "CONCEPT",
+            "Linked_To",
+            "Hereditary ALS Cases",
+            "CONCEPT",
+            "Third",
+            "CONCEPT"
+        ],
+        [
+            "Partnership",
+            "CONCEPT",
+            "Come_At",
+            "Time",
+            "CONCEPT",
+            "Gene Therapy",
+            "CONCEPT",
+            "Gaining_Momentum",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Food and Drug Administration",
+            "ORG/REG",
+            "Update",
+            "Guidance",
+            "CONCEPT",
+            "Speed_Up",
+            "CONCEPT",
+            "Development",
+            "CONCEPT",
+            "Gene Therapy",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Food and Drug Administration",
+            "ORG/REG",
+            "Approve",
+            "Treatment",
+            "CONCEPT",
+            "Rare Form",
+            "CONCEPT",
+            "Blindness",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics",
+            "ORG",
+            "First_Approval",
+            "Gene Therapy",
+            "CONCEPT",
+            "Inherited Disease",
+            "CONCEPT"
+        ],
+        [
+            "Spark Therapeutics",
+            "ORG",
+            "Announce",
+            "Treatment",
+            "CONCEPT",
+            "Cost",
+            "$850,000",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sangamo Therapeutics",
+            "ORG",
+            "Receive",
+            "$12 Million",
+            "FIN_INSTRUMENT",
+            "Upfront Payment",
+            "CONCEPT",
+            "Pfizer",
+            "ORG"
+        ],
+        [
+            "Sangamo Therapeutics",
+            "ORG",
+            "Receive",
+            "$150 Million",
+            "FIN_INSTRUMENT",
+            "Milestone Payments",
+            "CONCEPT",
+            "Pfizer",
+            "ORG"
+        ],
+        [
+            "ALS",
+            "CONCEPT",
+            "Attract",
+            "International Attention",
+            "CONCEPT",
+            "Ice Bucket Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Ice Bucket Challenge",
+            "CONCEPT",
+            "Encourage",
+            "Donations",
+            "CONCEPT",
+            "Research",
+            "CONCEPT"
+        ],
+        [
+            "Shares",
+            "CONCEPT",
+            "Sangamo Therapeutics",
+            "ORG",
+            "Up",
+            "4.3 Percent",
+            "ECON_INDICATOR",
+            "At",
+            "$18.30",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shares",
+            "CONCEPT",
+            "Pfizer",
+            "ORG",
+            "Unchanged",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ALS",
+            "CONCEPT",
+            "Sufferers",
+            "PERSON",
+            "Include",
+            "Stephen Hawking",
+            "PERSON"
+        ]
+    ]
+}

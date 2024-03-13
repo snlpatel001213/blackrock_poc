@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "New research",
+            "CONCEPT",
+            "Introduce",
+            "alcohol damages stem cell DNA",
+            "CONCEPT"
+        ],
+        [
+            "alcohol damages stem cell DNA",
+            "CONCEPT",
+            "Impact",
+            "cancer risk",
+            "CONCEPT"
+        ],
+        [
+            "stem cells",
+            "CONCEPT",
+            "Relate_To",
+            "cancer risk",
+            "CONCEPT"
+        ],
+        [
+            "Stuart McDill",
+            "PERSON",
+            "Announce",
+            "new research",
+            "CONCEPT"
+        ],
+        [
+            "new research",
+            "CONCEPT",
+            "Operate_In",
+            "Wednesday, January 03, 2018",
+            "DATE"
+        ],
+        [
+            "new research",
+            "CONCEPT",
+            "Operate_In",
+            "01:46",
+            "TIME"
+        ],
+        [
+            "new research",
+            "CONCEPT",
+            "Publish",
+            "reut.rs/2Ajbtkg",
+            "URL"
+        ]
+    ]
+}

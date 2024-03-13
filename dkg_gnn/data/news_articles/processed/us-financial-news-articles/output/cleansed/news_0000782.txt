@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Liverpool",
+            "GPE",
+            "Participates_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Adam Lallana",
+            "PERSON",
+            "Play_For",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Adam Lallana",
+            "PERSON",
+            "Injure",
+            "Thigh",
+            "CONCEPT"
+        ],
+        [
+            "Burnley",
+            "GPE",
+            "Versus",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Adam Lallana",
+            "PERSON",
+            "Substitute",
+            "REUTERS/Phil Noble",
+            "PERSON"
+        ],
+        [
+            "Adam Lallana",
+            "PERSON",
+            "Learn",
+            "Strength",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "On_Unbeaten_Run",
+            "16",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Adam Lallana",
+            "PERSON",
+            "Relish",
+            "Prospect",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "In_Top_Four",
+            "League",
+            "SECTOR"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "In_Last_16",
+            "Champions League",
+            "SECTOR"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Play",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Versus",
+            "Everton",
+            "GPE"
+        ]
+    ]
+}

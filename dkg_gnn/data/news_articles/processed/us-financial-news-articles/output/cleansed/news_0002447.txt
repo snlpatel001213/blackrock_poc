@@ -1,0 +1,31 @@
+{
+    "output": [
+        [
+            "California Public Employees Retirement System",
+            "ORG",
+            "Debate",
+            "Sell",
+            "COMP"
+        ],
+        [
+            "California Public Employees Retirement System",
+            "ORG",
+            "Decide",
+            "Hold",
+            "COMP"
+        ],
+        [
+            "California Public Employees Retirement System",
+            "ORG",
+            "Operate_In",
+            "GPE"
+        ],
+        [
+            "Global Markets",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "null"
+        ]
+    ]
+}

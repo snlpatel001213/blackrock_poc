@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "George North",
+            "PERSON",
+            "Participates_In",
+            "Northampton Saints",
+            "COMP"
+        ],
+        [
+            "Northampton Saints",
+            "COMP",
+            "Operate_In",
+            "Premiership",
+            "SECTOR"
+        ],
+        [
+            "Alan Gaffney",
+            "PERSON",
+            "Is_Member_Of",
+            "Northampton Saints",
+            "COMP"
+        ],
+        [
+            "George North",
+            "PERSON",
+            "Has",
+            "69_Caps",
+            "ECON_INDICATOR"
+        ],
+        [
+            "George North",
+            "PERSON",
+            "Participates_In",
+            "Wales",
+            "ORG"
+        ],
+        [
+            "Wales",
+            "ORG",
+            "Has",
+            "Lengthy_Injury_List",
+            "CONCEPT"
+        ],
+        [
+            "Scotland",
+            "GPE",
+            "Participates_In",
+            "Six_Nations_Fixture",
+            "EVENT"
+        ]
+    ]
+}

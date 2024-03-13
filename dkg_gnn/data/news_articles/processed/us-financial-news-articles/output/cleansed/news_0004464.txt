@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Has",
+            "Design Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Acknowledge",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Work_On",
+            "Solution",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Processor Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Work_With",
+            "Advanced Micro Devices Inc",
+            "COMP"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Work_With",
+            "ARM Holdings",
+            "COMP"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Deny",
+            "Patches_Bog_Down",
+            "COMP"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Provide",
+            "Software_and_Firmware_Updates",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Impact",
+            "Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Mitigate",
+            "Exploits",
+            "CONCEPT"
+        ],
+        [
+            "Advanced Micro Devices Inc",
+            "COMP",
+            "Work_With",
+            "Intel Corp",
+            "COMP"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Work_With",
+            "Intel Corp",
+            "COMP"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Confirm",
+            "Security_Hole",
+            "CONCEPT"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Share",
+            "Patches",
+            "PRODUCT"
+        ],
+        [
+            "ARM Holdings",
+            "COMP",
+            "Participates_In",
+            "Smartphone Manufacturers",
+            "ORG"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Report",
+            "Flaw",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Write",
+            "Update_Required",
+            "CONCEPT"
+        ],
+        [
+            "The Register",
+            "ORG",
+            "Write",
+            "Fix_Causes_Slowness",
+            "CONCEPT"
+        ],
+        [
+            "Linux",
+            "PRODUCT",
+            "Overhaul",
+            "Affected_Memory_Areas",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Expected",
+            "Issue_Patch",
+            "PRODUCT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Decline",
+            "Comment",
+            "VERB"
+        ],
+        [
+            "Average Computer User",
+            "PERSON",
+            "Notice",
+            "Significant_Impact",
+            "CONCEPT"
+        ],
+        [
+            "Kernel Memory",
+            "CONCEPT",
+            "Affect",
+            "Intel x86 Processor Chips",
+            "PRODUCT"
+        ],
+        [
+            "Programmers",
+            "PERSON",
+            "Work_On",
+            "Linux Open-Source Operating System",
+            "PRODUCT"
+        ],
+        [
+            "Cloud Computing Platforms",
+            "SECTOR",
+            "Affect",
+            "Major",
+            "CONCEPT"
+        ],
+        [
+            "Amazon.com Inc",
+            "COMP",
+            "Due",
+            "Maintenance_Reboot",
+            "PRODUCT"
+        ],
+        [
+            "Alphabet Inc",
+            "COMP",
+            "Advise",
+            "Security_Update",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Have",
+            "64-bit macOS Operating System",
+            "PRODUCT"
+        ],
+        [
+            "Graz University of Technology",
+            "ORG",
+            "Researchers",
+            "Come_Up",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Based",
+            "Linux Patches",
+            "PRODUCT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Eliminate",
+            "Security_Vulnerability",
+            "CONCEPT"
+        ]
+    ]
+}

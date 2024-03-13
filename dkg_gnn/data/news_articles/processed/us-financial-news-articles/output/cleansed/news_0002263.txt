@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Eye",
+            "Trans Pacific Partnership",
+            "ORG"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Operate_In",
+            "Post-Brexit",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Hold",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Woo",
+            "Business",
+            "SECTOR"
+        ],
+        [
+            "Britain Trade Minister",
+            "PERSON",
+            "Hold",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Trans Pacific Partnership",
+            "ORG",
+            "Relate_To",
+            "Bloc Based Deal",
+            "CONCEPT"
+        ]
+    ]
+}

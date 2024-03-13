@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Long Branch police",
+            "ORG",
+            "Respond",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Monmouth County Sheriff\u2019s Office",
+            "ORG",
+            "Respond",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Monmouth County Prosecutor\u2019s Office",
+            "ORG",
+            "Announce",
+            "Statement",
+            "ORG"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Arrested",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Suspected",
+            "Killing",
+            "EVENT"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "Discovered",
+            "Home",
+            "GPE"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "Identified",
+            "null",
+            "null"
+        ],
+        [
+            "Suspect",
+            "PERSON",
+            "Use",
+            "Century Arms semi-automatic rifle",
+            "PRODUCT"
+        ],
+        [
+            "Monmouth County Prosecutor Christopher Gramiccioni",
+            "PERSON",
+            "Tell",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Shooter",
+            "PERSON",
+            "Apparent",
+            "Using",
+            "VERB"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Include",
+            "Father",
+            "PERSON"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Include",
+            "Mother",
+            "PERSON"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Include",
+            "Sister",
+            "PERSON"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Include",
+            "Family friend",
+            "PERSON"
+        ]
+    ]
+}

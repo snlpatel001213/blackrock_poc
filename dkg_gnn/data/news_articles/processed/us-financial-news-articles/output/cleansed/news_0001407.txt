@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "World leaders",
+            "GPE",
+            "Participates_In",
+            "Twitter",
+            "PRODUCT"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Participates_In",
+            "Twitter",
+            "PRODUCT"
+        ],
+        [
+            "Walter Isaacson",
+            "PERSON",
+            "Debate",
+            "Farhad Manjoo",
+            "PERSON"
+        ],
+        [
+            "Aspen Institute",
+            "ORG",
+            "Is_Member_Of",
+            "Walter Isaacson",
+            "PERSON"
+        ],
+        [
+            "The New York Times",
+            "ORG",
+            "Employs",
+            "Farhad Manjoo",
+            "PERSON"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Relate_To",
+            "President Trump",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Economy",
+            "GPE"
+        ],
+        [
+            "Robert Kaplan",
+            "PERSON",
+            "Warn",
+            "Risk of Overheating",
+            "CONCEPT"
+        ],
+        [
+            "Tax Cuts",
+            "EVENT",
+            "Raise",
+            "Debt Levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Debt Levels",
+            "ECON_INDICATOR",
+            "Unsustainable",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Tax Cuts",
+            "EVENT",
+            "Boost",
+            "Business Investment",
+            "SECTOR"
+        ],
+        [
+            "Robert Kaplan",
+            "PERSON",
+            "Speak",
+            "At",
+            "N/A"
+        ],
+        [
+            "Robert Kaplan",
+            "PERSON",
+            "Speak",
+            "Business Event",
+            "N/A"
+        ],
+        [
+            "Lisa Maria Garza",
+            "PERSON",
+            "Report",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Jonathan Spicer",
+            "PERSON",
+            "Write",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Chizu Nomiyama",
+            "PERSON",
+            "Edit",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Thomson Reuters Trust Principles",
+            "CONCEPT",
+            "Our Standards",
+            "N/A",
+            "N/A"
+        ]
+    ]
+}

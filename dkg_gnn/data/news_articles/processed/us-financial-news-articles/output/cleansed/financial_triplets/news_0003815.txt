@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "first week of new year",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Participates_In",
+            "feud",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Former campaign CEO Steve Bannon",
+            "PERSON",
+            "Produce",
+            "book excerpt",
+            "PRODUCT"
+        ]
+    ]
+}

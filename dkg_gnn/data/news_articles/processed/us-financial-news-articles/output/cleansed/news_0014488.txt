@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Vladimir Putin",
+            "PERSON",
+            "Chairs",
+            "State Council",
+            "ORG/GOV"
+        ],
+        [
+            "Vladimir Putin",
+            "PERSON",
+            "Say",
+            "North Korea is shrewd and mature",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Have",
+            "Powerful missiles",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Want",
+            "Calm things down",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Participates_In",
+            "Standoff",
+            "EVENT"
+        ],
+        [
+            "Standoff",
+            "EVENT",
+            "Relate_To",
+            "Nuclear and missile programme",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Have",
+            "Nuclear and missile programme",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Participates_In",
+            "Standoff",
+            "EVENT"
+        ],
+        [
+            "Standoff",
+            "EVENT",
+            "Positive_Impact_On",
+            "Talks",
+            "EVENT"
+        ],
+        [
+            "Talks",
+            "EVENT",
+            "Have",
+            "Tension",
+            "CONCEPT"
+        ],
+        [
+            "Tension",
+            "CONCEPT",
+            "On",
+            "Korean peninsula",
+            "GPE"
+        ],
+        [
+            "Putin",
+            "PERSON",
+            "Say",
+            "Only talks can resolve the standoff",
+            "CONCEPT"
+        ]
+    ]
+}

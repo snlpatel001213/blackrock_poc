@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Issue",
+            "Travel Advisory",
+            "EVENT"
+        ],
+        [
+            "U.S. State Department",
+            "ORG/GOV",
+            "Warn",
+            "Tourists",
+            "PERSON"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Prompt",
+            "Travel Advisory",
+            "EVENT"
+        ],
+        [
+            "Five Mexican states",
+            "GPE",
+            "Placed",
+            "Same Warning Level",
+            "EVENT"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Same Warning Level",
+            "Five Mexican states",
+            "GPE"
+        ],
+        [
+            "Afghanistan",
+            "GPE",
+            "Same Warning Level",
+            "Five Mexican states",
+            "GPE"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Same Warning Level",
+            "Five Mexican states",
+            "GPE"
+        ],
+        [
+            "Colima",
+            "GPE",
+            "Placed",
+            "Highest Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Michoacan",
+            "GPE",
+            "Placed",
+            "Highest Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Sinaloa",
+            "GPE",
+            "Placed",
+            "Highest Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Tamaulipas",
+            "GPE",
+            "Placed",
+            "Highest Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Guerrero",
+            "GPE",
+            "Placed",
+            "Highest Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Acapulco",
+            "GPE",
+            "Having",
+            "One of Highest Murder Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Acapulco",
+            "GPE",
+            "Fall from Grace",
+            "null",
+            "null"
+        ],
+        [
+            "Acapulco",
+            "GPE",
+            "Victim",
+            "Gang Warfare",
+            "CONCEPT"
+        ],
+        [
+            "Guerrero state",
+            "GPE",
+            "Operate Independently",
+            "Armed Groups",
+            "ORG"
+        ],
+        [
+            "Guerrero state",
+            "GPE",
+            "Maintain",
+            "Roadblocks",
+            "PRODUCT"
+        ],
+        [
+            "Guerrero state",
+            "GPE",
+            "Use",
+            "Violence toward Travelers",
+            "PERSON"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Placed",
+            "Second Stage Travel Advisory Level",
+            "EVENT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Exercise Increased Caution",
+            "null",
+            "null"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Widespread",
+            "Crime",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Violent Crime",
+            "Homicide",
+            "CONCEPT"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Kidnapping",
+            "null",
+            "null"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Carjacking",
+            "null",
+            "null"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Robbery",
+            "null",
+            "null"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Limitations",
+            "Providing Emergency Services",
+            "SERVICE"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Prohibited",
+            "Traveling to Those Areas",
+            "GPE"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Record Number",
+            "Murders",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Dealing",
+            "Fresh Blow",
+            "CONCEPT"
+        ],
+        [
+            "President Enrique Pena Nieto",
+            "PERSON",
+            "Pledge",
+            "Bring Gang Violence Under Control",
+            "CONCEPT"
+        ],
+        [
+            "July 2018",
+            "DATE",
+            "Due",
+            "Presidential Elections",
+            "EVENT"
+        ],
+        [
+            "Drug Gangs",
+            "ORG",
+            "Clashes",
+            "null",
+            "null"
+        ],
+        [
+            "Drug Gangs",
+            "ORG",
+            "Control",
+            "Drug Trafficking Routes",
+            "PRODUCT"
+        ],
+        [
+            "About a Dozen Politicians",
+            "PERSON",
+            "Killed",
+            "null",
+            "null"
+        ],
+        [
+            "States",
+            "GPE",
+            "Struggles",
+            "Criminal Groups",
+            "ORG"
+        ],
+        [
+            "Thomson Reuters Trust Principles",
+            "CONCEPT",
+            "Standards",
+            "null",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Call_On",
+            "America\u2019,s fellow members",
+            "ORG/GOV"
+        ],
+        [
+            "America\u2019,s fellow members",
+            "ORG/GOV",
+            "Shoulder",
+            "Has",
+            "Defense Burden",
+            "SECTOR"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Portray",
+            "Other countries",
+            "GPE"
+        ],
+        [
+            "Other countries",
+            "GPE",
+            "Freeloaders",
+            null,
+            null
+        ],
+        [
+            "America\u2019,s costly protection",
+            null,
+            "Enjoying",
+            null,
+            null
+        ],
+        [
+            "This description",
+            null,
+            "Incomplete",
+            null,
+            null
+        ],
+        [
+            "This description",
+            null,
+            "Damaging",
+            null,
+            null
+        ],
+        [
+            "This description",
+            null,
+            "Counterproductive",
+            null,
+            null
+        ],
+        [
+            "Every NATO country",
+            "ORG/GOV",
+            "Committed",
+            "Spend",
+            "ECON_INDICATOR",
+            "2%",
+            "OF",
+            "Gross Domestic",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Well before Mr. Trump",
+            "PERSON",
+            "Entered",
+            "Oval Office",
+            "COMP"
+        ],
+        [
+            "NATO country",
+            "ORG/GOV",
+            "Committed",
+            "Spend",
+            "ECON_INDICATOR",
+            "2%",
+            "OF",
+            "Gross Domestic",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

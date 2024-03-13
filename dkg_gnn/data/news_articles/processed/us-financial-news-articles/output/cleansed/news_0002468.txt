@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Announce",
+            "fourth quarter and full year 2017 results",
+            "EVENT"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Hold",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "fourth quarter and full year 2017 results",
+            "EVENT"
+        ],
+        [
+            "Interested parties",
+            "CONCEPT",
+            "Participates_In",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Operate_In",
+            "10:00 a.m. Eastern Time",
+            "TIME"
+        ],
+        [
+            "Interested parties",
+            "CONCEPT",
+            "Dial",
+            "1-844-868-8844",
+            "PHONE"
+        ],
+        [
+            "1-844-868-8844",
+            "PHONE",
+            "Has",
+            "passcode 10115514",
+            "CONCEPT"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Operate_In",
+            "ir.mercbank.com",
+            "WEBSITE"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Operate_In",
+            "audio archive",
+            "PRODUCT"
+        ],
+        [
+            "audio archive",
+            "PRODUCT",
+            "Available_On",
+            "Mercantile website",
+            "ORG/WEBSITE"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Is_Member_Of",
+            "Grand Rapids, Michigan",
+            "GPE"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Is_Member_Of",
+            "Mercantile Bank of Michigan",
+            "COMP"
+        ],
+        [
+            "Mercantile Bank of Michigan",
+            "COMP",
+            "Provide",
+            "banking services",
+            "SERVICE"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Has",
+            "assets of approximately $3.2 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Operate_In",
+            "49 banking offices",
+            "FACILITY"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Listed_On",
+            "NASDAQ Global Select Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Mercantile Bank Corporation",
+            "ORG",
+            "Listed_Under",
+            "MBWM",
+            "SYMBOL"
+        ]
+    ]
+}

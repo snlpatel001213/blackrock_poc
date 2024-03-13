@@ -1,0 +1,94 @@
+{
+    "output": [
+        [
+            "TOKYO",
+            "GPE",
+            "Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Attack Helicopter",
+            "Military Aircraft",
+            "COMP"
+        ],
+        [
+            "Hotel",
+            "ORG",
+            "Emergency Landing",
+            "U.S. Attack Helicopter",
+            "COMP"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Public Broadcaster",
+            "NHK",
+            "ORG"
+        ],
+        [
+            "Okinawa Island",
+            "GPE",
+            "Emergency Landing",
+            "U.S. Attack Helicopter",
+            "COMP"
+        ],
+        [
+            "U.S. Marine Corps",
+            "ORG/GOV",
+            "Representatives",
+            "U.S. Military",
+            "COMP"
+        ],
+        [
+            "Okinawa",
+            "GPE",
+            "Residents",
+            "Public",
+            "PERSON"
+        ],
+        [
+            "U.S. Military",
+            "COMP",
+            "Presence",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "U.S. Military",
+            "COMP",
+            "Bases",
+            "Okinawa",
+            "GPE"
+        ],
+        [
+            "U.S. Occupation",
+            "EVENT",
+            "Until",
+            "1972",
+            "DATE"
+        ],
+        [
+            "East China Sea",
+            "GPE",
+            "Strategically Located",
+            "Okinawa",
+            "GPE"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Tim Kelly",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "Robert Birsel",
+            "PERSON"
+        ]
+    ]
+}

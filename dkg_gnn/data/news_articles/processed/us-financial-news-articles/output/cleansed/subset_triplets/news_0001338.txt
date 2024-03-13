@@ -1,0 +1,19 @@
+{
+    "output": [
+        [
+            "Selecta Biosciences",
+            "ORG",
+            "Announce",
+            "Werner Cautreels",
+            "PERSON",
+            "Retire"
+        ],
+        [
+            "Werner Cautreels",
+            "PERSON",
+            "Is_Member_Of",
+            "Selecta Biosciences",
+            "ORG"
+        ]
+    ]
+}

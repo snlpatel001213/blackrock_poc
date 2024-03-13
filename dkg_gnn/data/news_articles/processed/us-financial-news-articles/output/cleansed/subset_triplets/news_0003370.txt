@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Has",
+            "Lawyers",
+            "ORG"
+        ],
+        [
+            "White_House",
+            "ORG/GOV",
+            "Has",
+            "Spokeswoman",
+            "PERSON"
+        ],
+        [
+            "First_Lady",
+            "PERSON",
+            "Has",
+            "Spokeswoman",
+            "PERSON"
+        ]
+    ]
+}

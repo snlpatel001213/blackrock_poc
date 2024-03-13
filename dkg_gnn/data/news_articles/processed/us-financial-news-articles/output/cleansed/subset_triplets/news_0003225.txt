@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Pierre-Emerick Aubameyang",
+            "PERSON",
+            "Operate_In",
+            "Borussia Dortmund",
+            "COMP"
+        ],
+        [
+            "Sadio Mane",
+            "PERSON",
+            "Operate_In",
+            "Liverpool",
+            "COMP"
+        ],
+        [
+            "Mohamed Salah",
+            "PERSON",
+            "Operate_In",
+            "Liverpool",
+            "COMP"
+        ],
+        [
+            "African Footballer of the Year",
+            "EVENT",
+            "Announce",
+            "winner",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Michael Fredericks",
+            "PERSON",
+            "Relate_To",
+            "BlackRock",
+            "ORG"
+        ],
+        [
+            "BlackRock",
+            "ORG",
+            "Control",
+            "finding quality yields",
+            "CONCEPT"
+        ],
+        [
+            "finding quality yields",
+            "CONCEPT",
+            "Impact",
+            "Returns",
+            "CONCEPT"
+        ],
+        [
+            "Current bull markets",
+            "EVENT",
+            "Relate_To",
+            "Returns",
+            "CONCEPT"
+        ]
+    ]
+}

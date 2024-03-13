@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Operate_In",
+            "Norway",
+            "GPE"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Participates_In",
+            "coalition",
+            "ORG"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Impact",
+            "jobs creation",
+            "CONCEPT"
+        ],
+        [
+            "Erna Solberg",
+            "PERSON",
+            "Impact",
+            "energy policy",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Raise",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Control",
+            "Safety Regulators",
+            "ORG"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Relate_To",
+            "Oil and Gas Production",
+            "CONCEPT"
+        ],
+        [
+            "Rules",
+            "CONCEPT",
+            "Operate_In",
+            "Years after Deepwater Horizon Disaster",
+            "EVENT"
+        ]
+    ]
+}

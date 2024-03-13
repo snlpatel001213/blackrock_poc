@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Research Solutions, Inc.",
+            "ORG",
+            "Appoint",
+            "Roy W. Olivier",
+            "PERSON"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Replace",
+            "Jan Peterson",
+            "PERSON"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Serve_As",
+            "President and CEO",
+            "POSITION"
+        ],
+        [
+            "ARI Network Services",
+            "COMP",
+            "Provide",
+            "SaaS tools and marketing services",
+            "SERVICE"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Transform",
+            "ARI Network Services",
+            "COMP"
+        ],
+        [
+            "ARI Network Services",
+            "COMP",
+            "Grow",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ARI Network Services",
+            "COMP",
+            "Deliver",
+            "Return to shareholders",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ARI Network Services",
+            "COMP",
+            "Sale",
+            "Approximately $140 million",
+            "VALUE"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Consult",
+            "Start-up and small- and medium-sized businesses",
+            "COMP"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Serve_As",
+            "VP of sales and marketing",
+            "POSITION"
+        ],
+        [
+            "ProQuest Media Solutions",
+            "COMP",
+            "Business",
+            "Roy W. Olivier founded",
+            "EVENT"
+        ],
+        [
+            "ProQuest Media Solutions",
+            "COMP",
+            "Sold",
+            "Roy W. Olivier",
+            "PERSON"
+        ],
+        [
+            "Roy W. Olivier",
+            "PERSON",
+            "Hold",
+            "Various executive and managerial positions",
+            "POSITION"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Further_Transform",
+            "Powerful research intelligence SaaS solution",
+            "PRODUCT"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Execute",
+            "Vision to build a more profitable, fast-growing Platforms business",
+            "EVENT"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Relate_To",
+            "R&D-driven organizations",
+            "SECTOR"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Provide",
+            "On-demand access to STM documents",
+            "SERVICE"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Help",
+            "Customers to accelerate acquisition at the point of discovery",
+            "EVENT"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Save",
+            "Time and money",
+            "VALUE"
+        ],
+        [
+            "Research Solutions",
+            "ORG",
+            "Remain",
+            "Copyright-compliant",
+            "STATUS"
+        ]
+    ]
+}

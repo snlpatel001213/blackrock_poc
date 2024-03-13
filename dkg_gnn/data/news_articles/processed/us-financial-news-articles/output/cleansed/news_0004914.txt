@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Decrease",
+            "Thursday",
+            "DATE"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Chip Security Worries",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Negative_Impact_On",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shares",
+            "FIN_INSTRUMENT",
+            "Plunged",
+            "Thursday",
+            "DATE"
+        ]
+    ]
+}

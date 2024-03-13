@@ -1,0 +1,228 @@
+{
+    "output": [
+        [
+            "Sterling",
+            "FIN_INSTRUMENT",
+            "Slip",
+            "One-week low",
+            "GPE"
+        ],
+        [
+            "Sterling",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "Euro",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Change",
+            "Message",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Prepare",
+            "Markets",
+            "SECTOR"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "End",
+            "Stimulus scheme",
+            "CONCEPT"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Jump",
+            "Cent",
+            "GPE"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Surge",
+            "0.7 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Strongest",
+            "Pence",
+            "GPE"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Against",
+            "Pound",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Take note",
+            "Eurozone recovery",
+            "CONCEPT"
+        ],
+        [
+            "Ranko Berich",
+            "PERSON",
+            "Say",
+            "Clearest indication",
+            "CONCEPT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Governing council members",
+            "Beginning",
+            "CONCEPT"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Given support",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Climb",
+            "Dollar",
+            "GPE"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Towards",
+            "1.40",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Warming",
+            "Second ballot",
+            "CONCEPT"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "Two-week low",
+            "GPE"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Weakest",
+            "Fundamentals",
+            "CONCEPT"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Widening",
+            "Trade balance",
+            "CONCEPT"
+        ],
+        [
+            "Sterling",
+            "FIN_INSTRUMENT",
+            "Net long bets",
+            "Near highest levels",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Societe Generale",
+            "COMP",
+            "Currency analyst",
+            "Paris",
+            "GPE"
+        ],
+        [
+            "Pound",
+            "FIN_INSTRUMENT",
+            "Climb",
+            "1.40",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Possibility",
+            "CONCEPT",
+            "Price",
+            "FX market",
+            "SECTOR"
+        ],
+        [
+            "John Marley",
+            "PERSON",
+            "Head",
+            "FX strategy",
+            "COMP"
+        ],
+        [
+            "Currency risk-management firm",
+            "COMP",
+            "Infinity International",
+            "Sterling",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Economic data",
+            "CONCEPT",
+            "Weigh",
+            "Week",
+            "TIME"
+        ],
+        [
+            "British trade balance",
+            "CONCEPT",
+            "Widening",
+            "Five months",
+            "TIME"
+        ],
+        [
+            "Net long bets",
+            "CONCEPT",
+            "Near highest levels",
+            "More than three years",
+            "TIME"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "Released",
+            "U.S. Commodity Futures Trading Commission",
+            "ORG/REG"
+        ],
+        [
+            "Friday",
+            "TIME"
+        ],
+        [
+            "Reporting",
+            "CONCEPT",
+            "Saikat Chatterjee",
+            "Jemima",
+            "PERSON"
+        ],
+        [
+            "Editing",
+            "CONCEPT",
+            "David Goodman",
+            "PERSON"
+        ],
+        [
+            "Thomson Reuters Trust Principles",
+            "CONCEPT"
+        ]
+    ]
+}

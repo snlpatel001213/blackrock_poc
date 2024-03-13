@@ -1,0 +1,44 @@
+{
+    "output": [
+        [
+            "Steinhoff",
+            "COMP",
+            "Announce",
+            "Accounting Scandal",
+            "CONCEPT"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Conforama",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Mattress Firm",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Control",
+            "Poundland",
+            "GPE"
+        ],
+        [
+            "Steinhoff",
+            "COMP",
+            "Raise",
+            "$400 Million",
+            "FIN_INSTRUMENT",
+            "From_Sale",
+            "Portion",
+            "Stake",
+            "PSG Group",
+            "COMP"
+        ]
+    ]
+}

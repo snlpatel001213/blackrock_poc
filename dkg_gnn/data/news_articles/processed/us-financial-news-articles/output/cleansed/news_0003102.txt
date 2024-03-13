@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "ETF Manager Group",
+            "ORG",
+            "Has",
+            "Sam Masucci",
+            "PERSON"
+        ],
+        [
+            "Sam Masucci",
+            "PERSON",
+            "Is_Member_Of",
+            "ETF Manager Group",
+            "ORG"
+        ],
+        [
+            "ETF Manager Group",
+            "ORG",
+            "Announce",
+            "Cannabis ETF",
+            "PRODUCT"
+        ],
+        [
+            "Cannabis ETF",
+            "PRODUCT",
+            "Participates_In",
+            "Global Expansion",
+            "CONCEPT"
+        ],
+        [
+            "Justice Department",
+            "ORG/GOV",
+            "Relate_To",
+            "U.S. Marijuana Policies",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General",
+            "PERSON/GOV",
+            "Announce",
+            "U.S. Marijuana Policies",
+            "CONCEPT"
+        ]
+    ]
+}

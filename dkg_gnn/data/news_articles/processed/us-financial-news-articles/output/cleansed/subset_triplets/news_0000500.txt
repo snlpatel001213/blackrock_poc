@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Jack Ma",
+            "PERSON",
+            "Control",
+            "Alibaba",
+            "COMP"
+        ],
+        [
+            "Acquisitions",
+            "ORG",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Acquisition",
+            "ORG",
+            "Negative_Impact_On",
+            "Nationalistic Tone",
+            "CONCEPT"
+        ]
+    ]
+}

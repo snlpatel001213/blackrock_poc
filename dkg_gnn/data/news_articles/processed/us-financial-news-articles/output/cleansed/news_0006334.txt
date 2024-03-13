@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Irk",
+            "Mercer",
+            "PERSON"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Alabama Senate Special Election",
+            "EVENT"
+        ],
+        [
+            "The Washington Post",
+            "ORG",
+            "Announce",
+            "Steve Bannon Gets Cut Off By Financial Backer",
+            "EVENT"
+        ],
+        [
+            "The Washington Post",
+            "ORG",
+            "Announce",
+            "Bannon Irked Mercer",
+            "CONCEPT"
+        ]
+    ]
+}

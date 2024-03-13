@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "WSJ Pro",
+            "ORG",
+            "Report",
+            "U.S. government bond prices",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. government bond prices",
+            "FIN_INSTRUMENT",
+            "Swing",
+            "null",
+            "null"
+        ],
+        [
+            "10-year Treasury note",
+            "FIN_INSTRUMENT",
+            "Near",
+            "52-week closing high",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year Treasury note",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Yield",
+            "ECON_INDICATOR"
+        ],
+        [
+            "10-year Treasury note",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Bond Market",
+            "SECTOR"
+        ],
+        [
+            "Yield",
+            "ECON_INDICATOR",
+            "Rise",
+            "5-day",
+            "TIME"
+        ],
+        [
+            "Yield",
+            "ECON_INDICATOR",
+            "From",
+            "2.542%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yield",
+            "ECON_INDICATOR",
+            "To",
+            "2.551%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yields",
+            "ECON_INDICATOR",
+            "Climb",
+            "Recent Days",
+            "TIME"
+        ]
+    ]
+}

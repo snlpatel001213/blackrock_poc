@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CNBC",
+            "ORG",
+            "Reports_On",
+            "Disney's Star Wars",
+            "PRODUCT"
+        ],
+        [
+            "CNBC",
+            "ORG",
+            "Reports_On",
+            "David Letterman's new Netflix show",
+            "EVENT"
+        ],
+        [
+            "Disney",
+            "ORG",
+            "Produce",
+            "Star Wars",
+            "PRODUCT"
+        ],
+        [
+            "David Letterman",
+            "PERSON",
+            "Introduce",
+            "Netflix show",
+            "EVENT"
+        ]
+    ]
+}

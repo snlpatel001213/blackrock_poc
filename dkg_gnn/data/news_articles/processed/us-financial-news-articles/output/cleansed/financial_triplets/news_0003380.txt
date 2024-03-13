@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Brookfield Asset Management Inc",
+            "ORG",
+            "Has",
+            "Brookfield Business Partners LP",
+            "ORG"
+        ],
+        [
+            "Brookfield Business Partners LP",
+            "ORG",
+            "Introduce",
+            "Westinghouse Electric Co LLC",
+            "ORG"
+        ],
+        [
+            "Brookfield Business Partners LP",
+            "ORG",
+            "Operate_In",
+            "Nuclear Power",
+            "SECTOR"
+        ],
+        [
+            "Brookfield Business Partners LP",
+            "ORG",
+            "Control",
+            "Westinghouse\u2019s underfunded pension plan",
+            "CONCEPT"
+        ],
+        [
+            "Brookfield Business Partners",
+            "ORG",
+            "Raise",
+            "1 billion dollar",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brookfield Business Partners",
+            "ORG",
+            "Control",
+            "3 billion dollar debt financing",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brookfield Business Partners",
+            "ORG",
+            "Impact",
+            "New York-listed shares of Brookfield Business Partners",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Brookfield Business Partners",
+            "ORG",
+            "Participates_In",
+            "Bankruptcy Court",
+            "ORG/REG"
+        ],
+        [
+            "Westinghouse Electric Co LLC",
+            "ORG",
+            "Relate_To",
+            "Toshiba Corp",
+            "ORG"
+        ],
+        [
+            "Toshiba Corp",
+            "ORG",
+            "Control",
+            "Westinghouse Electric Co LLC",
+            "ORG"
+        ],
+        [
+            "Brookfield group of companies",
+            "ORG",
+            "Is_Member_Of",
+            "World\u2019s largest investors",
+            "CONCEPT"
+        ],
+        [
+            "Brookfield group of companies",
+            "ORG",
+            "Invests_In",
+            "Stable, long-lived assets",
+            "CONCEPT"
+        ],
+        [
+            "Brookfield Business Partners",
+            "ORG",
+            "Control",
+            "Texas power producer",
+            "COMP"
+        ]
+    ]
+}

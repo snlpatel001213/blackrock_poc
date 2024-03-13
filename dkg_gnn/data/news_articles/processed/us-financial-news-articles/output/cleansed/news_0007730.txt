@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Manishi Raychaudhuri",
+            "PERSON",
+            "Announce",
+            "Strength in financials and technology stocks",
+            "CONCEPT"
+        ],
+        [
+            "Manishi Raychaudhuri",
+            "PERSON",
+            "Announce",
+            "Strength in financials and technology stocks",
+            "CONCEPT"
+        ],
+        [
+            "Strength in financials and technology stocks",
+            "CONCEPT",
+            "Impact",
+            "Asian equities",
+            "SECTOR"
+        ],
+        [
+            "Asian equities",
+            "SECTOR",
+            "Operate_In",
+            "2018",
+            "GPE"
+        ],
+        [
+            "Financials",
+            "SECTOR",
+            "Participates_In",
+            "Strength",
+            "CONCEPT"
+        ],
+        [
+            "Technology stocks",
+            "SECTOR",
+            "Participates_In",
+            "Strength",
+            "CONCEPT"
+        ],
+        [
+            "Strength in financials and technology stocks",
+            "CONCEPT",
+            "Contribute",
+            "Rally",
+            "CONCEPT"
+        ],
+        [
+            "Rally",
+            "CONCEPT",
+            "Occur",
+            "2017",
+            "GPE"
+        ]
+    ]
+}

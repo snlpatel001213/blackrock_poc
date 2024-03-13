@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Hungary",
+            "GPE",
+            "Want",
+            "Strong Say",
+            "CONCEPT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Want",
+            "Strong Say",
+            "CONCEPT"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Reject",
+            "EU Migrant Quotas",
+            "EVENT"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Has",
+            "Vision",
+            "CONCEPT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Has",
+            "Vision",
+            "CONCEPT"
+        ],
+        [
+            "Hungary",
+            "GPE",
+            "Block",
+            "Action",
+            "CONCEPT"
+        ],
+        [
+            "Poland",
+            "GPE",
+            "Relate_To",
+            "Suspension",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "ORG/GOV",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

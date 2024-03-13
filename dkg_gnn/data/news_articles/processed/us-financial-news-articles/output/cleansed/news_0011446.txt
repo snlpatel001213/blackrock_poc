@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Ardagh Group SA",
+            "ORG",
+            "Propose",
+            "Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Offering",
+            "FIN_INSTRUMENT",
+            "Has",
+            "$350 Mln",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Offering",
+            "FIN_INSTRUMENT",
+            "Is",
+            "Senior Secured PIK Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Senior Secured PIK Notes",
+            "FIN_INSTRUMENT",
+            "Due",
+            "2023",
+            "DATE"
+        ],
+        [
+            "Ardagh Group SA",
+            "ORG",
+            "Has",
+            "ARD Holdings S.A.",
+            "ORG"
+        ],
+        [
+            "ARD Holdings S.A.",
+            "ORG",
+            "Unaffected",
+            "Leverage",
+            "CONCEPT"
+        ]
+    ]
+}

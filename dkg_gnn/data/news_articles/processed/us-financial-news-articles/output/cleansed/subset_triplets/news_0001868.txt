@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "S&P Global Ratings",
+            "ORG",
+            "Announce",
+            "default",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Negative_Impact_On",
+            "investor fears",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Control",
+            "state-owned oil company",
+            "ORG"
+        ]
+    ]
+}

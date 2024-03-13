@@ -1,0 +1,185 @@
+{
+    "output": [
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Is_Member_Of",
+            "Brexit Campaigner",
+            "ORG"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Introduce",
+            "17.4 million Britons",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Meet",
+            "Michel Barnier",
+            "PERSON"
+        ],
+        [
+            "Michel Barnier",
+            "PERSON",
+            "Negative_Impact_On",
+            "17.4 million Britons",
+            "GPE"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Relate_To",
+            "UK",
+            "GPE"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Relate_To",
+            "EU",
+            "GPE"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "UK",
+            "GPE",
+            "Leave",
+            "EU",
+            "GPE"
+        ],
+        [
+            "David Cameron",
+            "PERSON",
+            "Convince",
+            "Theresa May",
+            "PERSON"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Scold",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Weak",
+            "EU Divorce Talks",
+            "ORG/GOV"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Appeal",
+            "People",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Put",
+            "Questions",
+            "PRODUCT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Meet",
+            "Michel Barnier",
+            "PERSON"
+        ],
+        [
+            "17.4 million people",
+            "GPE",
+            "Vote",
+            "Leave",
+            "EVENT"
+        ],
+        [
+            "16.1 million people",
+            "GPE",
+            "Vote",
+            "Stay",
+            "EVENT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Say",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Leave",
+            "EU",
+            "GPE"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Discuss",
+            "Terms",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Divorce",
+            "Terms",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Cast",
+            "EU",
+            "GPE"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Dismiss",
+            "Speculation",
+            "CONCEPT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Revolution",
+            "2016",
+            "EVENT"
+        ],
+        [
+            "Nigel Farage",
+            "PERSON",
+            "Deep",
+            "Trouble",
+            "CONCEPT"
+        ],
+        [
+            "EU Project",
+            "CONCEPT",
+            "End",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Is_Member_Of",
+            "America",
+            "GPE"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Has",
+            "Military Thinker",
+            "CONCEPT"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Has",
+            "Practitioner",
+            "CONCEPT"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Relate_To",
+            "Max Boot",
+            "PERSON"
+        ],
+        [
+            "Max Boot",
+            "PERSON",
+            "Has",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Called",
+            "Road Not Taken",
+            "PRODUCT"
+        ],
+        [
+            "Road Not Taken",
+            "PRODUCT",
+            "Relate_To",
+            "Edward Lansdale",
+            "PERSON"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Relate_To",
+            "T.E. Lawrence",
+            "PERSON"
+        ],
+        [
+            "T.E. Lawrence",
+            "PERSON",
+            "Has",
+            "Eccentric",
+            "CONCEPT"
+        ],
+        [
+            "T.E. Lawrence",
+            "PERSON",
+            "Has",
+            "Rebellious",
+            "CONCEPT"
+        ],
+        [
+            "T.E. Lawrence",
+            "PERSON",
+            "Has",
+            "Charismatic",
+            "CONCEPT"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Has",
+            "Uncanny Way",
+            "CONCEPT"
+        ],
+        [
+            "Uncanny Way",
+            "CONCEPT",
+            "Relate_To",
+            "Support of the uncommitted",
+            "CONCEPT"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Changed",
+            "Course of history",
+            "CONCEPT"
+        ],
+        [
+            "Course of history",
+            "CONCEPT",
+            "Relate_To",
+            "Philippines",
+            "GPE"
+        ],
+        [
+            "Edward Lansdale",
+            "PERSON",
+            "Fought",
+            "Marxist Guerrillas",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Rebosis Property Fund Ltd",
+            "COMP",
+            "Has",
+            "Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rebosis Property Fund Ltd",
+            "COMP",
+            "Participates_In",
+            "Further Company Coverage",
+            "EVENT"
+        ],
+        [
+            "Nedbank",
+            "BANK",
+            "Invests_In",
+            "Rebosis Property Fund Ltd",
+            "COMP"
+        ],
+        [
+            "Abacus",
+            "ORG",
+            "Invests_In",
+            "Rebosis Property Fund Ltd",
+            "COMP"
+        ]
+    ]
+}

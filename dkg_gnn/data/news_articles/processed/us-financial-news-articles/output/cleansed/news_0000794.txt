@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Delancey Street Associates",
+            "ORG",
+            "Secure",
+            "Construction Financing",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Delancey Street Associates",
+            "ORG",
+            "Move_Forward_With",
+            "Site\u2019s Largest Building",
+            "GPE"
+        ],
+        [
+            "Delancey Street Associates",
+            "ORG",
+            "Proceed_With",
+            "26-story tower",
+            "GPE"
+        ],
+        [
+            "Delancey Street Associates",
+            "ORG",
+            "Part_Of",
+            "Essex Crossing",
+            "GPE"
+        ],
+        [
+            "Essex Crossing",
+            "GPE",
+            "Decades_In_The_Making",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Wells Fargo & Co.",
+            "ORG",
+            "Control",
+            "Construction Loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "M&T Bank",
+            "ORG",
+            "Control",
+            "Construction Loan",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

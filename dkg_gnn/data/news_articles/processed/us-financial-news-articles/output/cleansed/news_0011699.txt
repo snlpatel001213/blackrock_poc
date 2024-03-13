@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Fitch",
+            "ORG/REG",
+            "Upgrade",
+            "Croatia",
+            "GPE"
+        ],
+        [
+            "Croatia",
+            "GPE",
+            "Expects",
+            "Deficit",
+            "ECON_INDICATOR",
+            "2018"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Relate_To",
+            "Financial Problems",
+            "CONCEPT",
+            "Agrokor"
+        ],
+        [
+            "Financial Problems",
+            "CONCEPT",
+            "Not_Have_Significant_Impact_On",
+            "Macroeconomic",
+            "CONCEPT",
+            "Croatia",
+            "GPE"
+        ],
+        [
+            "Banking Sector",
+            "SECTOR",
+            "Weather",
+            "Financial Problems",
+            "CONCEPT",
+            "Agrokor"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Strengthen",
+            "Tourism",
+            "SECTOR",
+            "Revenues",
+            "Croatia",
+            "GPE"
+        ],
+        [
+            "Croatia",
+            "GPE",
+            "Sustain",
+            "Improvement",
+            "CONCEPT",
+            "External Position",
+            "SECTOR"
+        ],
+        [
+            "Croatia",
+            "GPE",
+            "Expects",
+            "No",
+            "CONCEPT",
+            "Overheating",
+            "CONCEPT"
+        ],
+        [
+            "Croatia",
+            "GPE",
+            "Expects",
+            "Low",
+            "CONCEPT",
+            "Inflation",
+            "CONCEPT"
+        ]
+    ]
+}

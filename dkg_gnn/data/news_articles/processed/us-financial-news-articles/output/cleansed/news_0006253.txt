@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Singapore",
+            "GPE",
+            "Fine",
+            "Five Electronics Firms",
+            "ORG"
+        ],
+        [
+            "Competition Commission of Singapore (CCS)",
+            "ORG/REG",
+            "Fine",
+            "Five Electronics Firms",
+            "ORG"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Price-Fixing",
+            "null",
+            "CONCEPT"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Collude",
+            "Sales Prices",
+            "null"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Exchange",
+            "Confidential Information",
+            "null"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Accounted",
+            "More than Two-Thirds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Hold",
+            "Regular Meetings",
+            "null"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Held",
+            "Monthly Basis",
+            "null"
+        ],
+        [
+            "Five Electronics Firms",
+            "ORG",
+            "Except Nichicon",
+            "Apply for Leniency",
+            "null"
+        ],
+        [
+            "Panasonic Industrial Devices Singapore",
+            "ORG",
+            "Receive",
+            "Total Immunity",
+            "null"
+        ],
+        [
+            "Panasonic Industrial Devices Singapore",
+            "ORG",
+            "Initiate",
+            "Probe",
+            "null"
+        ],
+        [
+            "Nichicon",
+            "ORG",
+            "Pleaded Guilty",
+            "Price-Fixing",
+            "CONCEPT"
+        ],
+        [
+            "Nichicon",
+            "ORG",
+            "Pay",
+            "$42-million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Rubycon",
+            "ORG",
+            "Under Investigation",
+            "Price-Fixing",
+            "CONCEPT"
+        ],
+        [
+            "ELNA",
+            "ORG",
+            "Under Investigation",
+            "Price-Fixing",
+            "CONCEPT"
+        ],
+        [
+            "AECs",
+            "PRODUCT",
+            "Used in",
+            "Range of Products",
+            "null"
+        ],
+        [
+            "AECs",
+            "PRODUCT",
+            "Ongoing",
+            "Similar Investigations",
+            "null"
+        ]
+    ]
+}

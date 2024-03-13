@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "U.S. Central Bank",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/REG",
+            "Participates_In",
+            "Policy Meeting",
+            "EVENT"
+        ],
+        [
+            "Trump Administration",
+            "ORG",
+            "Introduce",
+            "$1.5 Trillion Tax Overhaul",
+            "EVENT"
+        ]
+    ]
+}

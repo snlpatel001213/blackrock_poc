@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "People with heart disease",
+            "PERSON",
+            "Has",
+            "Better long-term survival odds",
+            "CONCEPT"
+        ],
+        [
+            "Married patients",
+            "PERSON",
+            "Relate_To",
+            "Heart disease",
+            "CONCEPT"
+        ],
+        [
+            "Unmarried patients",
+            "PERSON",
+            "Negative_Impact_On",
+            "Heart risk factors",
+            "CONCEPT"
+        ],
+        [
+            "Unmarried patients",
+            "PERSON",
+            "Is_Member_Of",
+            "Divorced, widowed and never-married peers",
+            "PERSON"
+        ],
+        [
+            "Married patients",
+            "PERSON",
+            "Operate_In",
+            "Follow-up",
+            "EVENT"
+        ],
+        [
+            "Unmarried patients",
+            "PERSON",
+            "Raise",
+            "Cardiovascular death",
+            "CONCEPT"
+        ],
+        [
+            "Unmarried patients",
+            "PERSON",
+            "Raise",
+            "Heart attack",
+            "CONCEPT"
+        ],
+        [
+            "Unmarried patients",
+            "PERSON",
+            "Raise",
+            "Death from any cause",
+            "CONCEPT"
+        ],
+        [
+            "Widows",
+            "PERSON",
+            "Negative_Impact_On",
+            "Heart attack or cardiovascular death",
+            "CONCEPT"
+        ],
+        [
+            "Divorced, separated and never-married patients",
+            "PERSON",
+            "Negative_Impact_On",
+            "Heart attack or cardiovascular death",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Better health and survival overall",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Impetus to look after one\u2019s health",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Increased likelihood to seek and obtain healthcare",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Keeping away from smoking",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Greater purpose in life",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Compliance",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Lack of social support",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Acute stresses",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Reduced interaction",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Emotional and financial stress",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Adverse outcomes",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Remarriage",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Psychological and behavioral events",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Bereavement",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Social support",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Relationships and friendships",
+            "CONCEPT"
+        ],
+        [
+            "Marital status",
+            "CONCEPT",
+            "Relate_To",
+            "Sense of purpose",
+            "CONCEPT"
+        ],
+        [
+            "Emory University School of Medicine",
+            "ORG",
+            "Participates_In",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Reuters Health",
+            "ORG",
+            "Announce",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Emory Healthcare hospitals",
+            "ORG",
+            "Operate_In",
+            "Study",
+            "EVENT"
+        ],
+        [
+            "Journal of the American Heart Association",
+            "ORG",
+            "Publish",
+            "Study",
+            "EVENT"
+        ]
+    ]
+}

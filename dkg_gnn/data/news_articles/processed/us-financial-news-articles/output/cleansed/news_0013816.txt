@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Areva",
+            "ORG",
+            "Operate_In",
+            "Nuclear sector",
+            "SECTOR"
+        ],
+        [
+            "Areva",
+            "ORG",
+            "Introduce",
+            "Nuclear waste reprocessing plant",
+            "PRODUCT"
+        ],
+        [
+            "Areva",
+            "ORG",
+            "Relate_To",
+            "La Hague",
+            "GPE"
+        ],
+        [
+            "China National Nuclear Corp",
+            "ORG",
+            "Operate_In",
+            "Nuclear sector",
+            "SECTOR"
+        ],
+        [
+            "China National Nuclear Corp",
+            "ORG",
+            "Participates_In",
+            "Nuclear waste reprocessing plant",
+            "PRODUCT"
+        ],
+        [
+            "President Emmanuel Macron",
+            "PERSON",
+            "Visit",
+            "Beijing",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Assurance",
+            "Contract",
+            "ORG"
+        ],
+        [
+            "Paris",
+            "GPE",
+            "Has",
+            "France",
+            "GPE"
+        ],
+        [
+            "Areva",
+            "ORG",
+            "Control",
+            "Spent fuel reprocessing",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Consider",
+            "Alternative solutions",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Not in",
+            "Business of saving Areva",
+            "ORG"
+        ],
+        [
+            "New Areva",
+            "ORG",
+            "Benefit",
+            "Uranium mining and nuclear fuel group",
+            "COMP"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Give up",
+            "Reprocessing",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Phase out",
+            "Nuclear fuel recycling",
+            "CONCEPT"
+        ],
+        [
+            "Rokkasho reprocessing plant",
+            "PRODUCT",
+            "Struggle",
+            "Start up",
+            "EVENT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Reprocesses",
+            "Fuel",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Only country",
+            "Reprocesses fuel",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "CONCEPT",
+            "Say",
+            "Reprocessing creates proliferation and security risks",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Give up",
+            "Reprocessing",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Phase out",
+            "Nuclear fuel recycling",
+            "CONCEPT"
+        ],
+        [
+            "Rokkasho reprocessing plant",
+            "PRODUCT",
+            "Struggle",
+            "Start up",
+            "EVENT"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Reprocesses",
+            "Fuel",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Only country",
+            "Reprocesses fuel",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "CONCEPT",
+            "Say",
+            "Reprocessing creates proliferation and security risks",
+            "CONCEPT"
+        ]
+    ]
+}

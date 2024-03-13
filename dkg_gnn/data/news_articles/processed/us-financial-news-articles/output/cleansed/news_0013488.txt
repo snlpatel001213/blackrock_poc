@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Has",
+            "Amazon.com",
+            "COMP"
+        ],
+        [
+            "Amazon.com",
+            "COMP",
+            "Operate_In",
+            "Online Retail",
+            "SECTOR"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Worth",
+            "$105 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average American household",
+            "GPE",
+            "Income",
+            "$73,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Worth",
+            "More than Bill Gates",
+            "PERSON"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Worth",
+            "More than Microsoft",
+            "COMP"
+        ],
+        [
+            "Bezos",
+            "PERSON",
+            "Net worth",
+            "Continuously grow",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon.com",
+            "COMP",
+            "Stock",
+            "Jumped 56 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon.com",
+            "COMP",
+            "Dominate",
+            "Online spending",
+            "SECTOR"
+        ],
+        [
+            "Jeff Bezos",
+            "PERSON",
+            "Give away",
+            "A lot of his fortune",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Give away",
+            "Stock and cash",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bill Gates",
+            "PERSON",
+            "Net worth",
+            "Would be $150 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Worth",
+            "$77.5 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Gain",
+            "$4.7 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Larry Page",
+            "PERSON",
+            "Worth",
+            "$54.9 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Larry Page",
+            "PERSON",
+            "Gain",
+            "$2.6 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sergey Brin",
+            "PERSON",
+            "Worth",
+            "$53.5 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sergey Brin",
+            "PERSON",
+            "Gain",
+            "$2.4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Worth",
+            "$87.2 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Gain",
+            "$1.8 billion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

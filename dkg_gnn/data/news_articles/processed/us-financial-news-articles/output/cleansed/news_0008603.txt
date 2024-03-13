@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Victory Group Ltd",
+            "COMP",
+            "Has",
+            "Loan Agreement",
+            "EVENT"
+        ],
+        [
+            "Victory Group Ltd",
+            "COMP",
+            "Control",
+            "Customer A",
+            "PERSON"
+        ],
+        [
+            "Customer A",
+            "PERSON",
+            "Receive",
+            "Loan",
+            "EVENT"
+        ],
+        [
+            "Loan",
+            "EVENT",
+            "Amount",
+            "HK$2.5 Million",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "White House advisers",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Fitness for presidency",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Raise",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Questions",
+            "CONCEPT",
+            "Relate_To",
+            "Mental stability",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Accused",
+            "Democrats",
+            "ORG"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Attack",
+            "His presidency",
+            "ORG/GOV"
+        ]
+    ]
+}

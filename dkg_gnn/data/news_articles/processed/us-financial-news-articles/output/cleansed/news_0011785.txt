@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Most Chinese consumers",
+            "GPE",
+            "Buy",
+            "electronic gadgets",
+            "PRODUCT"
+        ],
+        [
+            "Most Chinese consumers",
+            "GPE",
+            "Buy",
+            "other items",
+            "PRODUCT"
+        ],
+        [
+            "JD.com",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "JD.com",
+            "COMP",
+            "Deliver",
+            "400 million pounds of carp heads",
+            "PRODUCT"
+        ],
+        [
+            "Restaurant operator Zhang Zong",
+            "PERSON",
+            "Use",
+            "JD.com",
+            "COMP"
+        ],
+        [
+            "Zhang Zong",
+            "PERSON",
+            "Outsource",
+            "delivery",
+            "CONCEPT",
+            "Of",
+            "the fish heads",
+            "PRODUCT",
+            "And",
+            "other kitchen essentials",
+            "PRODUCT",
+            "To",
+            "JD.com",
+            "COMP"
+        ],
+        [
+            "Zhang Zong",
+            "PERSON",
+            "No longer",
+            "Rely",
+            "CONCEPT",
+            "On",
+            "200 different suppliers",
+            "ORG",
+            "For",
+            "the 33-outlet restaurant chain",
+            "COMP",
+            "She",
+            "PERSON",
+            "Runs"
+        ],
+        [
+            "Zhang Zong",
+            "PERSON",
+            "Save",
+            "CONCEPT",
+            "On",
+            "delivery expenses",
+            "PRODUCT"
+        ]
+    ]
+}

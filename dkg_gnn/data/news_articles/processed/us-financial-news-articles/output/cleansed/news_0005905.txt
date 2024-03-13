@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "European spot power prices",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Thursday",
+            "TIME"
+        ],
+        [
+            "Wind power supply",
+            "PRODUCT",
+            "Reduce",
+            "Thursday",
+            "TIME"
+        ],
+        [
+            "Traders",
+            "PERSON",
+            "Cite",
+            "Export demand from Germany",
+            "GPE"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Control",
+            "Main producer",
+            "SECTOR"
+        ],
+        [
+            "Price levels",
+            "ECON_INDICATOR",
+            "Return",
+            "Seasonally typical",
+            "CONCEPT"
+        ],
+        [
+            "Friday delivery baseload",
+            "FIN_INSTRUMENT",
+            "Up",
+            "25.5%",
+            "PERCENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Has",
+            "Friday delivery baseload",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Equivalent contract",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Equivalent French contract",
+            "FIN_INSTRUMENT",
+            "Up",
+            "21%",
+            "PERCENT"
+        ],
+        [
+            "Wind power output",
+            "PRODUCT",
+            "Fall",
+            "20.2 GW",
+            "NUMERICAL"
+        ],
+        [
+            "Wind power output",
+            "PRODUCT",
+            "Fall",
+            "Monday",
+            "TIME"
+        ],
+        [
+            "Wind power output",
+            "PRODUCT",
+            "Fall",
+            "Thursday",
+            "TIME"
+        ],
+        [
+            "Wind power output",
+            "PRODUCT",
+            "Fall",
+            "14.7 GW",
+            "NUMERICAL"
+        ]
+    ]
+}

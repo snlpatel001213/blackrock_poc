@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Tesco",
+            "COMP",
+            "Top",
+            "Christmas Trading Snapshots",
+            "EVENT"
+        ],
+        [
+            "Tesco",
+            "COMP",
+            "Miss",
+            "Forecasts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Lewis",
+            "COMP",
+            "Warn",
+            "Volatile Conditions Ahead",
+            "EVENT"
+        ],
+        [
+            "John Lewis",
+            "COMP",
+            "Participates_In",
+            "UK High Street",
+            "GPE"
+        ],
+        [
+            "UK Retailers",
+            "SECTOR",
+            "Suffer",
+            null,
+            null
+        ]
+    ]
+}

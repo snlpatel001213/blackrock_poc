@@ -1,0 +1,140 @@
+{
+    "output": [
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Acquire",
+            "DST Systems Inc",
+            "COMP"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Operate_In",
+            "Financial Technology Software",
+            "SECTOR"
+        ],
+        [
+            "DST Systems Inc",
+            "COMP",
+            "Operate_In",
+            "Financial Technology Software",
+            "SECTOR"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Has",
+            "Healthcare Information Technology",
+            "SECTOR"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Fund",
+            "Acquisition",
+            "EVENT",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Fund",
+            "Acquisition",
+            "EVENT",
+            "Equity",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Expects",
+            "Add",
+            "Impact",
+            "Adjusted Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Expects",
+            "Add",
+            "Impact",
+            "Closing",
+            "EVENT",
+            "Third Quarter",
+            "TIME"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Has",
+            "Underperforming Businesses",
+            "CONCEPT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Reduce",
+            "Cost",
+            "CONCEPT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Increase",
+            "Efficiency",
+            "CONCEPT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Bring",
+            "Performance",
+            "Impact",
+            "Closely",
+            "Advent Software",
+            "COMP",
+            "Average Margins",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Has",
+            "Long Track Record",
+            "CONCEPT",
+            "Acquiring Businesses",
+            "CONCEPT"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Gets",
+            "Revenue",
+            "Impact",
+            "United States",
+            "GPE"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Benefit",
+            "Recently Enacted Tax Reforms",
+            "EVENT",
+            "JP Morgan",
+            "ORG/REG"
+        ],
+        [
+            "SS&C Technologies Holdings Inc",
+            "COMP",
+            "Raise",
+            "Rating",
+            "Impact",
+            "Overweight",
+            "JP Morgan",
+            "ORG/REG"
+        ]
+    ]
+}

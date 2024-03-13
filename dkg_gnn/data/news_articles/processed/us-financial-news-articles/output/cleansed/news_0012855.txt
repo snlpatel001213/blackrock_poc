@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Appoints",
+            "Brandon Lewis",
+            "PERSON"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Operate_In",
+            "Conservative Party",
+            "ORG"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Leader_Of",
+            "Conservative Party",
+            "ORG"
+        ],
+        [
+            "Brandon Lewis",
+            "PERSON",
+            "Becomes",
+            "Chairman",
+            "TITLE"
+        ],
+        [
+            "Conservative Party",
+            "ORG",
+            "Participates_In",
+            "UK Politics",
+            "CONCEPT"
+        ]
+    ]
+}

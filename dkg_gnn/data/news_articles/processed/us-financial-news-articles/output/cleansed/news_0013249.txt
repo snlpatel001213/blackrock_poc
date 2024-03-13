@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "James Pethokoukis",
+            "PERSON",
+            "Discusses",
+            "Panic over smartphones",
+            "EVENT"
+        ],
+        [
+            "James Pethokoukis",
+            "PERSON",
+            "Affiliate_With",
+            "American Enterprise Institute",
+            "ORG"
+        ],
+        [
+            "Panic over smartphones",
+            "EVENT",
+            "Relate_To",
+            "Worries",
+            "CONCEPT"
+        ],
+        [
+            "Worries",
+            "CONCEPT",
+            "Impact_On",
+            "Children",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "Friday",
+            "GPE"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Dip",
+            "Brief",
+            "GPE"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Reckon",
+            "Weaker-than-expected",
+            "EVENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Increase",
+            "148000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Forecast",
+            "190000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Slip",
+            "Briefly",
+            "GPE"
+        ],
+        [
+            "Market",
+            "PERSON",
+            "Not care",
+            "null",
+            "null"
+        ],
+        [
+            "Paul Nolte",
+            "PERSON",
+            "Refer",
+            "Number",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Paul Nolte",
+            "PERSON",
+            "Concern",
+            "Prints below 100000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Fed funds futures",
+            "FIN_INSTRUMENT",
+            "Price in",
+            "Chance",
+            "CONCEPT"
+        ],
+        [
+            "U.S. central bank",
+            "ORG/GOV",
+            "Hike",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CME",
+            "COMP",
+            "Fedwatch",
+            "null",
+            "null"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "See",
+            "Further Strength",
+            "CONCEPT"
+        ],
+        [
+            "Analyst",
+            "PERSON",
+            "Say",
+            "2018",
+            "GPE"
+        ],
+        [
+            "U.S. December employment report",
+            "EVENT",
+            "Show",
+            "Rise",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average hourly earnings",
+            "ECON_INDICATOR",
+            "Rise",
+            "9 cents",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average hourly earnings",
+            "ECON_INDICATOR",
+            "Gain",
+            "0.3 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Karl Schamotta",
+            "PERSON",
+            "Say",
+            "Wage gains",
+            "CONCEPT"
+        ],
+        [
+            "Karl Schamotta",
+            "PERSON",
+            "Support",
+            "Interest Rate Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "0.37 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "Against",
+            "Yen",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Euro",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "0.18 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar index",
+            "FIN_INSTRUMENT",
+            "Up",
+            "0.2 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar index",
+            "FIN_INSTRUMENT",
+            "Measure",
+            "Greenback Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Dollar index",
+            "FIN_INSTRUMENT",
+            "Against",
+            "Six Major Currencies",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

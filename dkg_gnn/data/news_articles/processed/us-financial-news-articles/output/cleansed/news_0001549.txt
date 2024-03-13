@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Take_Credit",
+            "U.S. Aviation System Safety",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Aviation System",
+            "CONCEPT",
+            "Operate_In",
+            "Previous Administration",
+            "ORG/GOV"
+        ],
+        [
+            "U.S. Aviation System",
+            "CONCEPT",
+            "Avoid",
+            "Commercial Passenger Fatalities",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Aviation System",
+            "CONCEPT",
+            "Has",
+            "Commercial Aviation",
+            "CONCEPT"
+        ],
+        [
+            "Commercial Aviation",
+            "CONCEPT",
+            "Refer",
+            "Scheduled Passenger Airline Flights",
+            "CONCEPT"
+        ],
+        [
+            "Commercial Aviation",
+            "CONCEPT",
+            "Stretch_Back",
+            "July, 2013",
+            "TIME"
+        ],
+        [
+            "Asiana Airlines",
+            "COMP",
+            "Involved_In",
+            "Plane Crash",
+            "EVENT"
+        ],
+        [
+            "Plane Crash",
+            "EVENT",
+            "Occur",
+            "San Francisco",
+            "GPE"
+        ],
+        [
+            "Plane Crash",
+            "EVENT",
+            "Result",
+            "Three Deaths",
+            "QUANTITY"
+        ],
+        [
+            "Last Year",
+            "TIME",
+            "Report",
+            "13 Deaths",
+            "QUANTITY"
+        ],
+        [
+            "Last Year",
+            "TIME",
+            "Involve",
+            "Seven Crashes",
+            "QUANTITY"
+        ],
+        [
+            "Seven Crashes",
+            "QUANTITY",
+            "Involve",
+            "Commercial Charter Flights",
+            "CONCEPT"
+        ],
+        [
+            "Last Year",
+            "TIME",
+            "No",
+            "Fatalities",
+            "QUANTITY"
+        ],
+        [
+            "Scheduled Passenger Jet Airliners",
+            "CONCEPT",
+            "Involve",
+            "Zero Fatalities",
+            "QUANTITY"
+        ],
+        [
+            "Aviation Safety Network",
+            "ORG",
+            "Record",
+            "10 Airliner Accidents",
+            "QUANTITY"
+        ],
+        [
+            "10 Airliner Accidents",
+            "QUANTITY",
+            "Result",
+            "44 Occupant Fatalities",
+            "QUANTITY"
+        ],
+        [
+            "35 Deaths",
+            "QUANTITY",
+            "Occur",
+            "Ground",
+            "CONCEPT"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Safer_Year",
+            "Flying",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Regulators",
+            "ORG",
+            "Bring",
+            "New Safety Technologies",
+            "CONCEPT"
+        ],
+        [
+            "Airlines",
+            "ORG",
+            "Bring",
+            "Better Monitoring of Potential Hazards",
+            "CONCEPT"
+        ],
+        [
+            "Safety Investigators",
+            "ORG",
+            "Bring",
+            "Improved Training",
+            "CONCEPT"
+        ],
+        [
+            "Michael Huerta",
+            "PERSON",
+            "Appointed",
+            "Head of FAA",
+            "ORG"
+        ],
+        [
+            "Michael Huerta",
+            "PERSON",
+            "Appointed",
+            "By",
+            "PERSON"
+        ],
+        [
+            "Former President Barack Obama",
+            "PERSON",
+            "Appoint",
+            "Michael Huerta",
+            "PERSON"
+        ],
+        [
+            "Michael Huerta",
+            "PERSON",
+            "Five_Year_Term",
+            "Expire",
+            "VERB"
+        ],
+        [
+            "FAA",
+            "ORG",
+            "Refer",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Say",
+            "Trump_Raise_Bar",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Cite",
+            "Anti-Terrorism Efforts",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "ORG/GOV",
+            "Cite",
+            "Plan_to_Privatize_Air-Traffic_Control",
+            "CONCEPT"
+        ],
+        [
+            "Plan_to_Privatize_Air-Traffic_Control",
+            "CONCEPT",
+            "Languish",
+            "Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Hope",
+            "Consistency",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Harsh_Words",
+            "FAA\u2019s Air-Traffic Control System",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Cite",
+            "Technology Modernization Program",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Previous Efforts",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "Total Waste of Money",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Danny L. Cunningham",
+            "PERSON",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Danny L. Cunningham",
+            "PERSON",
+            "Participates_In",
+            "Audit and Oversight Committee",
+            "ORG/GOV"
+        ],
+        [
+            "Danny L. Cunningham",
+            "PERSON",
+            "Raise",
+            "Accounting Expertise",
+            "CONCEPT"
+        ],
+        [
+            "Danny L. Cunningham",
+            "PERSON",
+            "Raise",
+            "Broad Knowledge",
+            "CONCEPT"
+        ],
+        [
+            "Danny L. Cunningham",
+            "PERSON",
+            "Raise",
+            "Enterprise Risk Management",
+            "CONCEPT"
+        ],
+        [
+            "Deloitte & Touche LLP",
+            "ORG",
+            "Operate_In",
+            "Broad Array of Industries",
+            "CONCEPT"
+        ],
+        [
+            "Deloitte & Touche LLP",
+            "ORG",
+            "Employ",
+            "Danny L. Cunningham",
+            "PERSON"
+        ],
+        [
+            "Deloitte & Touche LLP",
+            "ORG",
+            "Employ",
+            "Danny L. Cunningham",
+            "PERSON"
+        ],
+        [
+            "Arthur Andersen",
+            "ORG",
+            "Employ",
+            "Danny L. Cunningham",
+            "PERSON"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Operate_In",
+            "Wisconsin, Illinois, Michigan and Minnesota",
+            "GPE"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Has",
+            "Principal Utilities",
+            "CONCEPT"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Has",
+            "Other Major Subsidiary",
+            "CONCEPT"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Has",
+            "Approximately 55,000 Stockholders",
+            "CONCEPT"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Has",
+            "8,500 Employees",
+            "CONCEPT"
+        ],
+        [
+            "WEC Energy Group",
+            "ORG/GOV",
+            "Has",
+            "More than $30 Billion in Assets",
+            "CONCEPT"
+        ],
+        [
+            "WE Energies",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Wisconsin Public Service",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Peoples Gas",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "North Shore Gas",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Michigan Gas Utilities",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Minnesota Energy Resources",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "Upper Michigan Energy Resources",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ],
+        [
+            "We Power",
+            "COMP",
+            "Is_Member_Of",
+            "WEC Energy Group",
+            "ORG/GOV"
+        ]
+    ]
+}

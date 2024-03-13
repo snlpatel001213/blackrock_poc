@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Union Bankshares Corporation",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Operate_In",
+            "Virginia, Maryland and North Carolina",
+            "GPE"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Has",
+            "John C. Asbury",
+            "PERSON"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Has",
+            "Patrick E. Corbin",
+            "PERSON"
+        ],
+        [
+            "Patrick E. Corbin",
+            "PERSON",
+            "Is_Member_Of",
+            "Corbin & Company, P.C.",
+            "ORG"
+        ],
+        [
+            "Patrick E. Corbin",
+            "PERSON",
+            "Is_Member_Of",
+            "Union Bankshares Corporation Board of Directors",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Has",
+            "Thomas G. Snead",
+            "PERSON"
+        ],
+        [
+            "Thomas G. Snead",
+            "PERSON",
+            "Is_Member_Of",
+            "Union Bankshares Corporation Board of Directors",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Operate_In",
+            "Xenith Bank, a division of Union Bank & Trust of Richmond, Virginia",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Produce",
+            "Total Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Produce",
+            "Deposits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Produce",
+            "Loans",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Relate_To",
+            "Shore Premier Finance",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Relate_To",
+            "Union Mortgage Group, Inc.",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Relate_To",
+            "Old Dominion Capital Management, Inc.",
+            "ORG"
+        ],
+        [
+            "Union",
+            "ORG",
+            "Relate_To",
+            "Union Insurance Group, LLC",
+            "ORG"
+        ]
+    ]
+}

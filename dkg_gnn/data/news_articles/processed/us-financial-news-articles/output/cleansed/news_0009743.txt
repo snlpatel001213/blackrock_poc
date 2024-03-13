@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Kateeva",
+            "ORG",
+            "Announce",
+            "May Su",
+            "PERSON"
+        ],
+        [
+            "May Su",
+            "PERSON",
+            "Operate_In",
+            "Semiconductor Industry",
+            "SECTOR"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Has",
+            "YIELDjet FLEX system",
+            "PRODUCT"
+        ],
+        [
+            "YIELDjet FLEX system",
+            "PRODUCT",
+            "Produce",
+            "Organic Thin Film Encapsulation (TFE) layer",
+            "PRODUCT"
+        ],
+        [
+            "Organic Thin Film Encapsulation (TFE) layer",
+            "PRODUCT",
+            "Used_In",
+            "OLED displays",
+            "PRODUCT"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Operate_In",
+            "Korea",
+            "GPE"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Operate_In",
+            "Taiwan",
+            "GPE"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Kateeva",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

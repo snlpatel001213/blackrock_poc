@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Sahara Desert",
+            "GPE",
+            "Covered_In",
+            "Blanket of Snow",
+            "EVENT"
+        ],
+        [
+            "Ain Sefra",
+            "GPE",
+            "Located_In",
+            "Northern Algeria",
+            "GPE"
+        ],
+        [
+            "Sahara Desert",
+            "GPE",
+            "Is_Member_Of",
+            "Hottest Desert in the World",
+            "CONCEPT"
+        ]
+    ]
+}

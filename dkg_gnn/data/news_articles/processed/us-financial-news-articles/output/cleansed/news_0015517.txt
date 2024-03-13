@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Bring",
+            "Ovo",
+            "EVENT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Portray",
+            "Insects",
+            "CONCEPT"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Premiere",
+            "Montreal",
+            "GPE"
+        ],
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Operate_In",
+            "Global Circus",
+            "COMP"
+        ],
+        [
+            "Cirque du Soleil",
+            "ORG",
+            "Start_As",
+            "Canadian Street Performer Troupe",
+            "ORG"
+        ],
+        [
+            "Royal Albert Hall",
+            "GPE",
+            "Located_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Run",
+            "Eight Weeks",
+            "TIME"
+        ],
+        [
+            "Ovo",
+            "EVENT",
+            "Carry",
+            "Message",
+            "CONCEPT"
+        ],
+        [
+            "Message",
+            "CONCEPT",
+            "About",
+            "Social Inclusion",
+            "CONCEPT"
+        ]
+    ]
+}

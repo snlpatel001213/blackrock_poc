@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "President Barack Obama",
+            "PERSON",
+            "Has",
+            "Obama Administration",
+            "ORG"
+        ],
+        [
+            "Obama Administration",
+            "ORG",
+            "Produce",
+            "Obama-era Policies",
+            "CONCEPT"
+        ],
+        [
+            "Obama Administration Alumni",
+            "PERSON",
+            "Participates_In",
+            "Democratic Party Effort",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Create Restaurants Holdings Inc.",
+            "COMP",
+            "Announce",
+            "new unit",
+            "COMP"
+        ],
+        [
+            "IKSPIARI Co Ltd",
+            "COMP",
+            "Transfer",
+            "direct management restaurants business",
+            "COMP",
+            "to",
+            "new unit",
+            "COMP"
+        ],
+        [
+            "Create Restaurants Holdings Inc.",
+            "COMP",
+            "Acquire",
+            "100 percent stake",
+            "ECON_INDICATOR",
+            "in",
+            "target company",
+            "COMP"
+        ],
+        [
+            "IKSPIARI Co Ltd",
+            "COMP",
+            "Sells",
+            "100 percent stake",
+            "ECON_INDICATOR",
+            "to",
+            "Create Restaurants Holdings Inc.",
+            "COMP"
+        ]
+    ]
+}

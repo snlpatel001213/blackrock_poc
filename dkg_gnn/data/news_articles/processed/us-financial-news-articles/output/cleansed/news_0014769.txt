@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Lithuania",
+            "GPE",
+            "Introduce",
+            "Liquor Advertising Ban",
+            "EVENT"
+        ],
+        [
+            "Print Distributors",
+            "ORG",
+            "Operate_In",
+            "Lithuania",
+            "GPE"
+        ],
+        [
+            "Print Distributors",
+            "ORG",
+            "Rip_Out",
+            "Pictures of Alcohol",
+            "PRODUCT"
+        ],
+        [
+            "Pictures of Alcohol",
+            "PRODUCT",
+            "Illegal_Under",
+            "Liquor Advertising Ban",
+            "EVENT"
+        ]
+    ]
+}

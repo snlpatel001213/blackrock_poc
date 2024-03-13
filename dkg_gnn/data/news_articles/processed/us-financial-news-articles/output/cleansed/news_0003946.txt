@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Mercer International Inc.",
+            "COMP",
+            "Announce",
+            "Adolf Koppensteiner",
+            "PERSON"
+        ],
+        [
+            "Adolf Koppensteiner",
+            "PERSON",
+            "Is_Member_Of",
+            "Company",
+            "ORG"
+        ],
+        [
+            "Adolf Koppensteiner",
+            "PERSON",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Adolf Koppensteiner",
+            "PERSON",
+            "Control",
+            "Stendal mill",
+            "ORG"
+        ],
+        [
+            "Adolf Koppensteiner",
+            "PERSON",
+            "Control",
+            "Rosenthal Mill",
+            "ORG"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Produce",
+            "Forest products",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Has",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Participates_In",
+            "Global markets",
+            "SECTOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Impact",
+            "Future results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Relate_To",
+            "Risk factors",
+            "CONCEPT"
+        ]
+    ]
+}

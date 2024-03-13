@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "Apple",
+            "ORG/COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Vest",
+            "Apple Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Co-found",
+            "Beats",
+            "COMP"
+        ],
+        [
+            "Beats",
+            "COMP",
+            "Produce",
+            "High-end Headphones",
+            "PRODUCT"
+        ],
+        [
+            "Beats",
+            "COMP",
+            "Develop",
+            "Music-streaming Service",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "ORG/COMP",
+            "Acquire",
+            "Beats",
+            "COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Stay",
+            "Apple",
+            "ORG/COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Help",
+            "Apple",
+            "ORG/COMP"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Launch",
+            "Apple Music",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Central_Figure_In",
+            "Apple Music Development",
+            "CONCEPT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Speak",
+            "Apple Press Events",
+            "EVENT"
+        ],
+        [
+            "Apple Music",
+            "PRODUCT",
+            "Count",
+            "30 Million Subscribers",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Apple",
+            "ORG/COMP",
+            "Not_Immediately_Respond",
+            "Fortune Request",
+            "EVENT"
+        ]
+    ]
+}

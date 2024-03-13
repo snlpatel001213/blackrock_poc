@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "five entities",
+            "ORG",
+            "Operate_In",
+            "Iran missiles programme",
+            "EVENT"
+        ],
+        [
+            "U.S. Treasury Secretary",
+            "PERSON",
+            "Announce",
+            "sanctions",
+            "ORG"
+        ],
+        [
+            "Shahid Bakeri Industrial Group",
+            "ORG",
+            "Control",
+            "five entities",
+            "ORG"
+        ]
+    ]
+}

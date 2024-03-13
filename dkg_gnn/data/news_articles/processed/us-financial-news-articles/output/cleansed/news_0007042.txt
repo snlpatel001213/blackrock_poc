@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Several plaintiffs\u2019 lawyers",
+            "PERSON",
+            "Participates_In",
+            "multibillion dollar settlements",
+            "EVENT"
+        ],
+        [
+            "plaintiffs\u2019 lawyers",
+            "PERSON",
+            "Relate_To",
+            "tobacco industry",
+            "ORG"
+        ],
+        [
+            "plaintiffs\u2019 lawyers",
+            "PERSON",
+            "Named",
+            "to leadership positions",
+            "EVENT"
+        ],
+        [
+            "U.S. District Judge Dan Polster",
+            "PERSON",
+            "Approve",
+            "three plaintiffs\u2019 lawyers",
+            "PERSON"
+        ],
+        [
+            "three plaintiffs\u2019 lawyers",
+            "PERSON",
+            "Serve",
+            "as co-lead counsel",
+            "POSITION"
+        ],
+        [
+            "U.S. District Judge Dan Polster",
+            "PERSON",
+            "Approve",
+            "16-member executive committee",
+            "GROUP"
+        ],
+        [
+            "16-member executive committee",
+            "GROUP",
+            "Is_Member_Of",
+            "multidistrict litigation",
+            "EVENT"
+        ]
+    ]
+}

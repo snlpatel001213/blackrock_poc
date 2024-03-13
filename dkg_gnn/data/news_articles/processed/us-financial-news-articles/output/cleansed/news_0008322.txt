@@ -1,0 +1,57 @@
+{
+    "output": [
+        [
+            "Morgan Stanley",
+            "ORG/FIN",
+            "Estimates",
+            "Net Income",
+            "ECON_INDICATOR",
+            "For",
+            "Q4",
+            "2017"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG/FIN",
+            "Include",
+            "Aggregate Net Discrete Tax Provision",
+            "ECON_INDICATOR",
+            "Of",
+            "About",
+            "$1.25 Billion"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG/FIN",
+            "Says",
+            "Tax Provision",
+            "ECON_INDICATOR",
+            "Of",
+            "$1.25 Billion",
+            "For",
+            "Quarter-Ending",
+            "DEC 31",
+            "Partially Offset",
+            "By",
+            "About",
+            "$160 Million",
+            "Net Discrete Tax Benefit"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG/FIN",
+            "Net Discrete Tax Provision",
+            "ECON_INDICATOR",
+            "Of",
+            "$1.25 Billion",
+            "For",
+            "Quarter Ending DEC 31",
+            "Include",
+            "About",
+            "$1.4 Billion",
+            "Net Discrete Tax Provision",
+            "Due To",
+            "Tax Act Enaction"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Greece",
+            "GPE",
+            "Sell",
+            "3-month treasury bills",
+            "PRODUCT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Refinance",
+            "maturing issue",
+            "EVENT"
+        ],
+        [
+            "PDMA",
+            "ORG",
+            "Sell",
+            "3-month treasury bills",
+            "PRODUCT"
+        ],
+        [
+            "PDMA",
+            "ORG",
+            "Operate_In",
+            "Greece",
+            "GPE"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Have_Yield",
+            "0.99%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Have_Yield",
+            "1.60%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Have_Amount",
+            "813 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Include",
+            "187.5 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Relate_To",
+            "non-competitive bids",
+            "CONCEPT"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Have_Bid_To_Cover_Ratio",
+            "3.44",
+            "ECON_INDICATOR"
+        ],
+        [
+            "3-month treasury bills",
+            "PRODUCT",
+            "Have_Settlement_Date",
+            "Jan. 12",
+            "DATE"
+        ],
+        [
+            "maturing issue",
+            "EVENT",
+            "Renew",
+            "T-bill holders",
+            "PERSON"
+        ],
+        [
+            "T-bill holders",
+            "PERSON",
+            "Participates_In",
+            "rollover",
+            "CONCEPT"
+        ]
+    ]
+}

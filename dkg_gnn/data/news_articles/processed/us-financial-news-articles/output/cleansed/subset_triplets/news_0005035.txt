@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Beijing",
+            "GPE",
+            "Announce",
+            "Severe Winter Weather",
+            "CONCEPT"
+        ],
+        [
+            "Henan, Shanxi, Shandong, Anhui and Jiangsu provinces",
+            "GPE",
+            "Participates_In",
+            "Severe Winter Weather",
+            "CONCEPT"
+        ],
+        [
+            "Vegetables",
+            "PRODUCT",
+            "Relate_To",
+            "Greenhouses",
+            "COMP"
+        ],
+        [
+            "Fruit Trees, Tea Farms and Greenhouses",
+            "COMP",
+            "Impact",
+            "Freezing Rains and Snow",
+            "CONCEPT"
+        ],
+        [
+            "Wheat Planting",
+            "COMP",
+            "Relate_To",
+            "Cold Weather",
+            "CONCEPT"
+        ],
+        [
+            "City of Hefei",
+            "GPE",
+            "Has",
+            "Pricing Regulator",
+            "ORG"
+        ]
+    ]
+}

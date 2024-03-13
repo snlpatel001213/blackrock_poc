@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Sofiproteol",
+            "ORG",
+            "Secure",
+            "100 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Secure",
+            "120 million dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Capital_Increase_With",
+            "Partners",
+            "ORG"
+        ],
+        [
+            "Partners",
+            "ORG",
+            "Capital_Increase_With",
+            "Sofiproteol",
+            "ORG"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Boost",
+            "Projects",
+            "CONCEPT"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Invest",
+            "75 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Invest",
+            "50 million euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arkea",
+            "ORG",
+            "Participate_In",
+            "Capital_Increase",
+            "EVENT"
+        ],
+        [
+            "Groupama",
+            "ORG",
+            "Participate_In",
+            "Capital_Increase",
+            "EVENT"
+        ],
+        [
+            "Credit Agricole",
+            "ORG",
+            "Participate_In",
+            "Capital_Increase",
+            "EVENT"
+        ],
+        [
+            "Natixis",
+            "ORG",
+            "Participate_In",
+            "Capital_Increase",
+            "EVENT"
+        ],
+        [
+            "Associations",
+            "ORG",
+            "Participate_In",
+            "Capital_Increase",
+            "EVENT"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Invest_In",
+            "Sectors",
+            "SECTOR"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Grant",
+            "Medium-term loans",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Grant",
+            "Convertible bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Aid",
+            "Research and development",
+            "CONCEPT"
+        ],
+        [
+            "Sofiproteol",
+            "ORG",
+            "Grant",
+            "Venture capital operations",
+            "CONCEPT"
+        ]
+    ]
+}

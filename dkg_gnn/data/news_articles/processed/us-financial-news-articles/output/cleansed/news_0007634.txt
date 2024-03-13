@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Iranian oil tanker Sanchi",
+            "COMP",
+            "Located_In",
+            "East China Sea",
+            "GPE"
+        ],
+        [
+            "Iranian oil tanker Sanchi",
+            "COMP",
+            "Involved_In",
+            "Collision",
+            "EVENT"
+        ],
+        [
+            "Cargo ship",
+            "COMP",
+            "Involved_In",
+            "Collision",
+            "EVENT"
+        ],
+        [
+            "Chinese government",
+            "ORG/GOV",
+            "Announce",
+            "Difficult Weather",
+            "CONCEPT"
+        ],
+        [
+            "Difficult Weather",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Search",
+            "EVENT"
+        ],
+        [
+            "Chinese government",
+            "ORG/GOV",
+            "Participates_In",
+            "Search",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Shenzhen Stock Exchange",
+            "ORG",
+            "Has",
+            "FILING",
+            "EVENT"
+        ],
+        [
+            "GIANT NETWORK",
+            "COMP",
+            "Involve",
+            "6.7 MILLION SHARES",
+            "QUANTITY"
+        ],
+        [
+            "GIANT NETWORK",
+            "COMP",
+            "Involve",
+            "219.9 MILLION YUAN",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "219.9 MILLION YUAN",
+            "FIN_INSTRUMENT",
+            "Equal",
+            "$33.86 million",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "GIANT NETWORK",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

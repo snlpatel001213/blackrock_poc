@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "My two younger children",
+            "PERSON",
+            "Attend",
+            "Kindergarten",
+            "ORG"
+        ],
+        [
+            "Kindergarten",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "German kindergartens",
+            "ORG",
+            "Relate_To",
+            "Hands-off approach",
+            "CONCEPT"
+        ],
+        [
+            "German kindergartens",
+            "ORG",
+            "Teach",
+            "Accountability",
+            "CONCEPT"
+        ],
+        [
+            "German kindergartens",
+            "ORG",
+            "Teach",
+            "Responsibility",
+            "CONCEPT"
+        ],
+        [
+            "German elementary schools",
+            "ORG",
+            "Teach",
+            "Accountability",
+            "CONCEPT"
+        ],
+        [
+            "German elementary schools",
+            "ORG",
+            "Teach",
+            "Responsibility",
+            "CONCEPT"
+        ],
+        [
+            "My older children",
+            "PERSON",
+            "Attend",
+            "Grundschule",
+            "ORG"
+        ],
+        [
+            "Grundschule",
+            "ORG",
+            "Expect",
+            "Kids to toe the line",
+            "CONCEPT"
+        ],
+        [
+            "Teachers",
+            "PERSON",
+            "Single out",
+            "Children",
+            "PERSON"
+        ],
+        [
+            "Children",
+            "PERSON",
+            "Misbehave",
+            "null",
+            "null"
+        ],
+        [
+            "Teachers",
+            "PERSON",
+            "Display",
+            "Names on the board",
+            "null"
+        ],
+        [
+            "Teachers",
+            "PERSON",
+            "Display",
+            "Colored behavior chart",
+            "null"
+        ],
+        [
+            "Teachers",
+            "PERSON",
+            "Display",
+            "Behavior for everyone",
+            "null"
+        ]
+    ]
+}

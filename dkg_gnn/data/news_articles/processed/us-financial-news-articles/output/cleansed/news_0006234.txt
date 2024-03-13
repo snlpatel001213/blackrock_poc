@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "offshore drilling plan",
+            "EVENT"
+        ],
+        [
+            "Democratic",
+            "ORG/POL",
+            "Positive_Impact_On",
+            "Base",
+            "GPE"
+        ],
+        [
+            "Peter Trubowitz",
+            "PERSON",
+            "Relate_To",
+            "U.S. offshore drilling",
+            "EVENT"
+        ],
+        [
+            "LSE",
+            "ORG/UNI",
+            "Is_Member_Of",
+            "United States Centre",
+            "ORG/REG"
+        ]
+    ]
+}

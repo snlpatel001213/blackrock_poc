@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Announce",
+            "Expansion",
+            "EVENT"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Acquire",
+            "All Paws Pet Center",
+            "COMP"
+        ],
+        [
+            "All Paws Pet Center",
+            "COMP",
+            "Operate_In",
+            "Wichita",
+            "GPE"
+        ],
+        [
+            "All Paws Pet Center",
+            "COMP",
+            "Founded_By",
+            "Paul and Tammy Baumann",
+            "PERSON"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Operate_In",
+            "Minnesota",
+            "GPE"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Operate_In",
+            "Colorado",
+            "GPE"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Operate_In",
+            "Wisconsin",
+            "GPE"
+        ],
+        [
+            "All Paws Pet Center",
+            "COMP",
+            "Has",
+            "Three Locations",
+            "COMP"
+        ],
+        [
+            "All Paws Pet Center - West",
+            "COMP",
+            "Located_In",
+            "Wichita",
+            "GPE"
+        ],
+        [
+            "All Paws Pet Center - East",
+            "COMP",
+            "Located_In",
+            "Wichita",
+            "GPE"
+        ],
+        [
+            "All Paws Pet Center - Derby",
+            "COMP",
+            "Located_In",
+            "Derby",
+            "GPE"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Employs",
+            "Employees of All Paws Pet Center",
+            "COMP"
+        ],
+        [
+            "Paul Baumann",
+            "PERSON",
+            "Become",
+            "Board Member for Chuck & Don\u2019s",
+            "COMP"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Strategy",
+            "Geographic Expansion",
+            "EVENT"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Founded_To",
+            "Meet the Need for High Quality Pet Products",
+            "CONCEPT"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Cares_About",
+            "Communities they Serve",
+            "CONCEPT"
+        ],
+        [
+            "All Paws Pet Center",
+            "COMP",
+            "Values and Mission",
+            "Offering Quality Pet Foods",
+            "CONCEPT"
+        ],
+        [
+            "All Paws Pet Center",
+            "COMP",
+            "Founded",
+            "2006",
+            "DATE"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "CEO and President",
+            "Bob Hartzell",
+            "PERSON"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Co-Founder",
+            "Charles \u201cChuck\u201d Anderson",
+            "PERSON"
+        ],
+        [
+            "Chuck & Don\u2019s",
+            "COMP",
+            "Co-Founder",
+            "Don Tauer",
+            "PERSON"
+        ]
+    ]
+}

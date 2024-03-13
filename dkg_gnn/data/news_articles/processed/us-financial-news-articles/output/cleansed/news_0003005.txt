@@ -1,0 +1,141 @@
+{
+    "output": [
+        [
+            "Arsenal",
+            "GPE",
+            "Earns",
+            "2-2 Draw",
+            "EVENT"
+        ],
+        [
+            "Arsenal",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Operate_In",
+            "Premier League",
+            "SECTOR"
+        ],
+        [
+            "Hector Bellerin",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Eden Hazard",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Marcos Alonso",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Arsenal",
+            "GPE",
+            "Has",
+            "14",
+            "ECON_INDICATOR",
+            "Goal Attempts"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Has",
+            "19",
+            "ECON_INDICATOR",
+            "Goal Attempts"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Stayed",
+            "Third",
+            "POSITION",
+            "PLACE"
+        ],
+        [
+            "Arsenal",
+            "GPE",
+            "Stayed",
+            "Sixth",
+            "POSITION",
+            "PLACE"
+        ],
+        [
+            "Arsene Wenger",
+            "PERSON",
+            "Manager",
+            "Arsenal",
+            "ORG"
+        ],
+        [
+            "Alvaro Morata",
+            "PERSON",
+            "Missed",
+            "Chance",
+            "EVENT"
+        ],
+        [
+            "Petr Cech",
+            "PERSON",
+            "Save",
+            "Shot",
+            "EVENT"
+        ],
+        [
+            "Thibaut Courtois",
+            "PERSON",
+            "Save",
+            "Shot",
+            "EVENT"
+        ],
+        [
+            "Tiemoue Bakayoko",
+            "PERSON",
+            "Missed",
+            "Chance",
+            "EVENT"
+        ],
+        [
+            "Cesc Fabregas",
+            "PERSON",
+            "Missed",
+            "Chance",
+            "EVENT"
+        ],
+        [
+            "Mesut Ozil",
+            "PERSON",
+            "Shot",
+            "Save",
+            "EVENT"
+        ],
+        [
+            "Antonio Conte",
+            "PERSON",
+            "Manager",
+            "Chelsea",
+            "ORG"
+        ],
+        [
+            "Davide Zappacosta",
+            "PERSON",
+            "Hit",
+            "Crossbar",
+            "PRODUCT"
+        ]
+    ]
+}

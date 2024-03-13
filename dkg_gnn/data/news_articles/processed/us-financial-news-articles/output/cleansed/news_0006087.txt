@@ -1,0 +1,209 @@
+{
+    "output": [
+        [
+            "John Williams",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/GOV"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Has",
+            "Economy",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_At",
+            "Full Capacity",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Predict",
+            "Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Unemployment",
+            "ECON_INDICATOR",
+            "Decrease",
+            "To",
+            "3.7",
+            "PERCENT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Not_Worried",
+            "About",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Inflation",
+            "CONCEPT",
+            "Relate_To",
+            "2",
+            "PERCENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Confident",
+            "In",
+            "Approach",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Has",
+            "Leadership Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Vote",
+            "On",
+            "Policy",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Not_Worried",
+            "About",
+            "Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Hike",
+            "Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Gradual_Tightening",
+            "Despite",
+            "Sagging_Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Median_Forecasts",
+            "See",
+            "Three_More_Hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Argue",
+            "Tax_Cuts",
+            "Boost",
+            "Economy"
+        ],
+        [
+            "Individual_Income_Tax_Cuts",
+            "ECON_INDICATOR",
+            "Skewed",
+            "Toward",
+            "Higher_Income_Households",
+            "CONCEPT"
+        ],
+        [
+            "Economists",
+            "CONCEPT",
+            "Say",
+            "Households",
+            "Consume_More",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "CONCEPT",
+            "Use_Windfall",
+            "On",
+            "Stock_Buybacks",
+            "PRODUCT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "Modest_Boost",
+            "To",
+            "Labor_Force",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "Modest_Boost",
+            "To",
+            "Productivity",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "2.5",
+            "PERCENT",
+            "GDP_Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "2",
+            "PERCENT",
+            "Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "4",
+            "PERCENT",
+            "Unemployment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Expect",
+            "Economy",
+            "In",
+            "Positive_Place",
+            "CONCEPT"
+        ]
+    ]
+}

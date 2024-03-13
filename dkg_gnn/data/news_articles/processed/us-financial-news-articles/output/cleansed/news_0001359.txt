@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Oil",
+            "ECON_INDICATOR",
+            "Trade_Near",
+            "Mid-2015 Levels",
+            "TIME"
+        ],
+        [
+            "Retailers",
+            "SECTOR",
+            "Up",
+            null,
+            null
+        ],
+        [
+            "Indexes",
+            "SECTOR",
+            "Up",
+            null,
+            null
+        ],
+        [
+            "Dow",
+            "COMP",
+            "Rise",
+            "0.4 pct",
+            "PERCENT"
+        ],
+        [
+            "S&P",
+            "COMP",
+            "Rise",
+            "0.8 pct",
+            "PERCENT"
+        ],
+        [
+            "Nasdaq",
+            "COMP",
+            "Rise",
+            "1.5 pct",
+            "PERCENT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Pull",
+            null,
+            null
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Pull",
+            null,
+            null
+        ],
+        [
+            "Alphabet",
+            "COMP",
+            "Pull",
+            null,
+            null
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Pull",
+            null,
+            null
+        ],
+        [
+            "Technology",
+            "SECTOR",
+            "Drive",
+            null,
+            null
+        ],
+        [
+            "Consumer Discretionary",
+            "SECTOR",
+            "Up",
+            "1.5 pct",
+            "PERCENT"
+        ],
+        [
+            "Amazon.com",
+            "COMP",
+            "Up",
+            "1.7 pct",
+            "PERCENT"
+        ],
+        [
+            "J.C. Penney",
+            "COMP",
+            "Climb",
+            null,
+            null
+        ],
+        [
+            "Nordstrom",
+            "COMP",
+            "Climb",
+            null,
+            null
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Climb",
+            null,
+            null
+        ],
+        [
+            "Energy",
+            "SECTOR",
+            "Up",
+            "1.8 pct",
+            "PERCENT"
+        ],
+        [
+            "Wynn Resorts",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "Melco Resorts & Entertainment",
+            "COMP",
+            "Down",
+            null,
+            null
+        ],
+        [
+            "Abbott Labs",
+            "COMP",
+            "Jump",
+            "3 pct",
+            "PERCENT"
+        ],
+        [
+            "Allstate",
+            "COMP",
+            "Down",
+            "2.7 pct",
+            "PERCENT"
+        ]
+    ]
+}

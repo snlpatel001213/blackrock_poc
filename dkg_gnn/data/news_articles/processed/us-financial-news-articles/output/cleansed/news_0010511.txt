@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "SANOCHEMIA PHARMAZEUTIKA AG",
+            "COMP",
+            "Receive",
+            "Liability Notice",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tax Authority",
+            "ORG/GOV",
+            "Control",
+            "Liability Notice",
+            "ECON_INDICATOR"
+        ],
+        [
+            "SANOCHEMIA PHARMAZEUTIKA AG",
+            "COMP",
+            "Oppose",
+            "First-Instance Decision",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "ORG",
+            "Participates_In",
+            "First-Instance Decision",
+            "CONCEPT"
+        ]
+    ]
+}

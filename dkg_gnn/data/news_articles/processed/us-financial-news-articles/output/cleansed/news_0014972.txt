@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Kim Dong-yeon",
+            "PERSON",
+            "Is_Member_Of",
+            "South Korea\u2019s Finance Ministry",
+            "ORG/GOV"
+        ],
+        [
+            "South Korea\u2019s Finance Ministry",
+            "ORG/GOV",
+            "Control",
+            "authorities",
+            "ORG/GOV"
+        ],
+        [
+            "authorities",
+            "ORG/GOV",
+            "Leave",
+            "foreign exchange rates",
+            "CONCEPT"
+        ],
+        [
+            "authorities",
+            "ORG/GOV",
+            "Take",
+            "action if needed",
+            "CONCEPT"
+        ],
+        [
+            "won",
+            "CURRENCY",
+            "Trade",
+            "1,065.8 per dollar",
+            "CURRENCY"
+        ],
+        [
+            "won",
+            "CURRENCY",
+            "Recent",
+            "steady gain against the greenback",
+            "CURRENCY"
+        ],
+        [
+            "currency dealers",
+            "ORG",
+            "Suspect",
+            "foreign exchange authorities of engaging in intervention",
+            "ORG/GOV"
+        ],
+        [
+            "Hyundai Motor Co.",
+            "COMP",
+            "Plan",
+            "invest 23 trillion won ($21.58 billion) over the next five years",
+            "CONCEPT"
+        ],
+        [
+            "$1",
+            "CURRENCY",
+            "Equal",
+            "1,066.0000 won",
+            "CURRENCY"
+        ]
+    ]
+}

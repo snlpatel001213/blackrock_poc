@@ -1,0 +1,100 @@
+{
+    "output": [
+        [
+            "New Relic, Inc.",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New Relic, Inc.",
+            "COMP",
+            "Operate_In",
+            "Software Sector",
+            "SECTOR"
+        ],
+        [
+            "New Relic, Inc.",
+            "COMP",
+            "Control",
+            "Cloud Platform",
+            "COMP"
+        ],
+        [
+            "Financial Results",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "New Relic, Inc.",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Participates_In",
+            "Financial Results Discussion",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Accessible_By",
+            "Dial-in Numbers",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Accessible_By",
+            "Webcast",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Have",
+            "Conference ID",
+            "COMP"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Have",
+            "Live Webcast and Replay",
+            "COMP"
+        ],
+        [
+            "Investor Relations Page",
+            "COMP",
+            "Have",
+            "Conference Call Details",
+            "COMP"
+        ],
+        [
+            "Investor Relations Page",
+            "COMP",
+            "Have",
+            "Supplemental Presentation Deck",
+            "COMP"
+        ],
+        [
+            "Telephone Replay",
+            "EVENT",
+            "Accessible_By",
+            "Dial-in Numbers",
+            "COMP"
+        ],
+        [
+            "Telephone Replay",
+            "EVENT",
+            "Have",
+            "Conference ID",
+            "COMP"
+        ],
+        "New Relic",
+        "COMP",
+        "Is_Member_Of",
+        "Fortune 100",
+        "GPE"
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "International Organization for Migration",
+            "ORG",
+            "Announce",
+            "171,635",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IOM",
+            "ORG",
+            "Impact",
+            "Migrant Arrivals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Control",
+            "Main Eastern Mediterranean Route",
+            "CONCEPT"
+        ],
+        [
+            "EU",
+            "GPE",
+            "Participates_In",
+            "Deal with Ankara",
+            "CONCEPT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Operate_In",
+            "Central Mediterranean Route",
+            "CONCEPT"
+        ],
+        [
+            "Italy",
+            "GPE",
+            "Decrease",
+            "Arrivals by Boat",
+            "ECON_INDICATOR"
+        ],
+        [
+            "IOM",
+            "ORG",
+            "Raise",
+            "Number of Repatriations",
+            "ECON_INDICATOR"
+        ],
+        [
+            "African Union",
+            "GPE",
+            "Relate_To",
+            "Agreement with EU",
+            "CONCEPT"
+        ]
+    ]
+}

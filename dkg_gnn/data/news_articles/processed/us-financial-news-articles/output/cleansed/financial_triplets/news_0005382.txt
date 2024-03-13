@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "General Catalyst Partners",
+            "ORG",
+            "Raise",
+            "$1B Fund",
+            "ECON_INDICATOR"
+        ],
+        [
+            "General Catalyst Partners",
+            "ORG",
+            "Operate_In",
+            "Venture Capital Sector",
+            "SECTOR"
+        ],
+        [
+            "$1B Fund",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "General Catalyst Partners",
+            "ORG"
+        ],
+        [
+            "General Catalyst Partners",
+            "ORG",
+            "Introduce",
+            "Ninth Fund",
+            "PRODUCT"
+        ],
+        [
+            "Ninth Fund",
+            "PRODUCT",
+            "Control",
+            "Several Strategies",
+            "CONCEPT"
+        ],
+        [
+            "Several Strategies",
+            "CONCEPT",
+            "Relate_To",
+            "Startups",
+            "COMP"
+        ]
+    ]
+}

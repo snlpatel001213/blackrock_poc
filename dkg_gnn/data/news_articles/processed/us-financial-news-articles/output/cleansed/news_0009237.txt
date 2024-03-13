@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "U.S. military authorities",
+            "ORG/GOV",
+            "Investigate",
+            "video",
+            "EVENT"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Relate_To",
+            "U.S. service member",
+            "PERSON"
+        ],
+        [
+            "U.S. service member",
+            "PERSON",
+            "Operate_In",
+            "U.S. Central Command",
+            "ORG/GOV"
+        ],
+        [
+            "video",
+            "EVENT",
+            "Impact",
+            "serious concern",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Control",
+            "operations",
+            "SECTOR"
+        ],
+        [
+            "operations",
+            "SECTOR",
+            "Relate_To",
+            "Taliban insurgents",
+            "PERSON"
+        ],
+        [
+            "operations",
+            "SECTOR",
+            "Relate_To",
+            "radical fighters",
+            "PERSON"
+        ],
+        [
+            "radical fighters",
+            "PERSON",
+            "Relate_To",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "operations",
+            "SECTOR",
+            "Negative_Impact_On",
+            "civilian casualties",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Control",
+            "commanders",
+            "PERSON"
+        ],
+        [
+            "commanders",
+            "PERSON",
+            "Sensitive_To",
+            "reports",
+            "EVENT"
+        ],
+        [
+            "reports",
+            "EVENT",
+            "Relate_To",
+            "civilian casualties",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Central Command",
+            "ORG/GOV",
+            "Control",
+            "Gen. Joseph Votel",
+            "PERSON"
+        ],
+        [
+            "Gen. Joseph Votel",
+            "PERSON",
+            "Reject",
+            "unprofessional message",
+            "CONCEPT"
+        ]
+    ]
+}

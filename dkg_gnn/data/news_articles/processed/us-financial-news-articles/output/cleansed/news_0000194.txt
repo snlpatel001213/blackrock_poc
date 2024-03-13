@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Brookline Bancorp, Inc.",
+            "ORG",
+            "Announce",
+            "fourth quarter 2017 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brookline Bancorp, Inc.",
+            "ORG",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "Brookline Bancorp, Inc.",
+            "ORG",
+            "Operate_In",
+            "eastern Massachusetts and Rhode Island",
+            "GPE"
+        ],
+        [
+            "Brookline Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "Bank Rhode Island",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "First Ipswich Bank",
+            "COMP",
+            "Is_Member_Of",
+            "Brookline Bancorp, Inc.",
+            "ORG"
+        ],
+        [
+            "Interested parties",
+            "PERSON",
+            "Dial",
+            "877-504-4120",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Internationally",
+            "GPE",
+            "Dial",
+            "412-902-6650",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Company\u2019s website",
+            "PRODUCT",
+            "Provide",
+            "live or in a recorded version",
+            "EVENT"
+        ]
+    ]
+}

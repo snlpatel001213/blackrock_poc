@@ -1,0 +1,221 @@
+{
+    "output": [
+        [
+            "Don Reisinger",
+            "PERSON",
+            "Write",
+            "Text",
+            "GPE"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Has",
+            "Explanation",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Has",
+            "Fix",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Operate_In",
+            "Online Game",
+            "PRODUCT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact_On",
+            "Intel-based Chips",
+            "ORG/REG"
+        ],
+        [
+            "Intel",
+            "ORG/REG",
+            "Produce",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "ORG/REG",
+            "Control",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Announce",
+            "Problem",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Decrease",
+            "Service Stability",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Impact",
+            "Gamers",
+            "PERSON"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Impact",
+            "Login Issues",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Work_On",
+            "Fix",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Participates_In",
+            "Fortnite Twitter Page",
+            "PRODUCT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Raise",
+            "Stutters",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Raise",
+            "Crashing",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Promise",
+            "Improved Performance",
+            "CONCEPT"
+        ],
+        [
+            "Fortnite",
+            "PRODUCT",
+            "Experience",
+            "Stutters",
+            "CONCEPT"
+        ],
+        [
+            "Fortnite",
+            "PRODUCT",
+            "Experience",
+            "Crashing",
+            "CONCEPT"
+        ],
+        [
+            "Tech World",
+            "SECTOR",
+            "Shocked",
+            "Reports",
+            "CONCEPT"
+        ],
+        [
+            "Tech Giants",
+            "ORG",
+            "Detail",
+            "Security Holes",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "PERSON",
+            "Detail",
+            "Security Holes",
+            "CONCEPT"
+        ],
+        [
+            "ARM Holdings",
+            "ORG",
+            "Design",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Affect",
+            "Intel-based Chips",
+            "ORG/REG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Affect",
+            "Intel-based Chips",
+            "ORG/REG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Affect",
+            "AMD-based Chips",
+            "ORG/REG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Affect",
+            "ARM-based Chips",
+            "ORG/REG"
+        ],
+        [
+            "Hackers",
+            "PERSON",
+            "Exploit",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Hackers",
+            "PERSON",
+            "Steal",
+            "Sensitive Information",
+            "CONCEPT"
+        ],
+        [
+            "Companies",
+            "ORG",
+            "Scramble",
+            "Fix",
+            "CONCEPT"
+        ],
+        [
+            "Epic Games",
+            "COMP",
+            "Estimate",
+            "Fix Time",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Has",
+            "New drug approvals",
+            "CONCEPT"
+        ],
+        [
+            "U.S. FDA",
+            "ORG/GOV",
+            "Increase",
+            "Drug Approvals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "U.S. FDA",
+            "ORG/GOV"
+        ],
+        [
+            "2017",
+            "TIME",
+            "Relate_To",
+            "Drug Approvals",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2016",
+            "TIME",
+            "Relate_To",
+            "Previous Year",
+            "TIME"
+        ]
+    ]
+}

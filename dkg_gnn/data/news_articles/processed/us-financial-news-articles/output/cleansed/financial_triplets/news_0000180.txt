@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Bone-chilling cold",
+            "CONCEPT",
+            "Impact",
+            "U.S. farm belt",
+            "GPE"
+        ],
+        [
+            "U.S. farm belt",
+            "GPE",
+            "Has",
+            "Bone-chilling cold",
+            "CONCEPT"
+        ],
+        [
+            "Agriculture markets",
+            "CONCEPT",
+            "Raise",
+            "Bone-chilling cold",
+            "CONCEPT"
+        ]
+    ]
+}

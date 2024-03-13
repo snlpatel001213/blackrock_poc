@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Ruder Finn",
+            "ORG",
+            "Introduce",
+            "Laura Ryan",
+            "PERSON"
+        ],
+        [
+            "Laura Ryan",
+            "PERSON",
+            "Has",
+            "20 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Laura Ryan",
+            "PERSON",
+            "Operate_In",
+            "Global Agencies",
+            "ORG"
+        ],
+        [
+            "Laura Ryan",
+            "PERSON",
+            "Participates_In",
+            "Industries",
+            "SECTOR"
+        ],
+        [
+            "Kathy Bloomgarden",
+            "PERSON",
+            "Control",
+            "Ruder Finn",
+            "ORG"
+        ],
+        [
+            "Ruder Finn",
+            "ORG",
+            "Positive_Impact_On",
+            "Corporate Communications",
+            "SECTOR"
+        ],
+        [
+            "Laura Ryan",
+            "PERSON",
+            "Raise",
+            "Award-winning work",
+            "CONCEPT"
+        ],
+        [
+            "Laura Ryan",
+            "PERSON",
+            "Participates_In",
+            "Financial and Crisis Communications",
+            "SECTOR"
+        ]
+    ]
+}

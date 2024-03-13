@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "Global Stock Market",
+            "SECTOR"
+        ],
+        [
+            "Global Economy",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Global Economy",
+            "CONCEPT",
+            "Relate_To",
+            "Stock Buying",
+            "CONCEPT"
+        ]
+    ]
+}

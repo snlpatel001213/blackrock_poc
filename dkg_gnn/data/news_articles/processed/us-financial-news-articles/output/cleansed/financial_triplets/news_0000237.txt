@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Relation Insurance Services",
+            "COMP",
+            "Has",
+            "Ascension Insurance",
+            "COMP"
+        ],
+        [
+            "Relation Insurance Services",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Relation Insurance Services",
+            "COMP",
+            "Has",
+            "nearly 500 employees",
+            "CONCEPT"
+        ],
+        [
+            "Relation Insurance Services",
+            "COMP",
+            "Has",
+            "more than 30 locations",
+            "CONCEPT"
+        ],
+        [
+            "Ascension Insurance",
+            "COMP",
+            "Has",
+            "private-equity partners",
+            "COMP"
+        ]
+    ]
+}

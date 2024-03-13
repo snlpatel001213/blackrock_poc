@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "CenterPoint Energy, Inc.",
+            "ORG",
+            "Has",
+            "2.0 percent Zero-Premium Exchangeable Subordinated Notes due 2029",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CenterPoint Energy, Inc.",
+            "ORG",
+            "Operate_In",
+            "Energy sector",
+            "SECTOR"
+        ],
+        [
+            "CenterPoint Energy",
+            "ORG",
+            "Control",
+            "Enable Midstream Partners",
+            "ORG"
+        ],
+        [
+            "OGE Energy Corp.",
+            "ORG",
+            "Control",
+            "Enable Midstream Partners",
+            "ORG"
+        ]
+    ]
+}

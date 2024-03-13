@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Control",
+            "Tim Cook",
+            "PERSON"
+        ],
+        [
+            "Tim Cook",
+            "PERSON",
+            "Is_Member_Of",
+            "Apple Inc.",
+            "COMP"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Produce",
+            "AirPods",
+            "PRODUCT"
+        ],
+        [
+            "AirPods",
+            "PRODUCT",
+            "Relate_To",
+            "Holiday Season",
+            "EVENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Negative_Impact_On",
+            "Holiday Season",
+            "EVENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Has",
+            "Competitive Edge",
+            "CONCEPT"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Participates_In",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Announce",
+            "New Gadgets",
+            "PRODUCT"
+        ]
+    ]
+}

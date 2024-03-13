@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Cardinal Analytx Solutions",
+            "ORG",
+            "Announce",
+            "several leading healthcare executives, medical professionals and academics",
+            "PERSON"
+        ],
+        [
+            "Cardinal Analytx Solutions",
+            "ORG",
+            "Introduce",
+            "founding advisory board",
+            "ORG"
+        ],
+        [
+            "Thomas McKinley",
+            "PERSON",
+            "Operate_In",
+            "Cardinal Analytx Solutions",
+            "ORG"
+        ],
+        [
+            "Cardinal Analytx Solutions",
+            "ORG",
+            "Participates_In",
+            "pilot of predictive analytics solution",
+            "PRODUCT"
+        ],
+        [
+            "Cardinal Analytx Solutions",
+            "ORG",
+            "Impact",
+            "multiple Blue Cross plans across the country",
+            "GPE"
+        ],
+        [
+            "Dr. Susan Athey",
+            "PERSON",
+            "Relate_To",
+            "Economics of Technology professor",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Susan Athey",
+            "PERSON",
+            "Relate_To",
+            "Stanford Graduate School of Business",
+            "ORG"
+        ],
+        [
+            "Dr. Jeffrey Bailet",
+            "PERSON",
+            "Operate_In",
+            "Blue Shield of California",
+            "ORG"
+        ],
+        [
+            "Blue Shield of California",
+            "ORG",
+            "Control",
+            "Network Management, Health Care Services and Wellvolution \u00ae teams",
+            "ORG"
+        ],
+        [
+            "Spruce Health",
+            "ORG",
+            "Produce",
+            "software",
+            "PRODUCT"
+        ],
+        [
+            "Dr. John Espinola",
+            "PERSON",
+            "Operate_In",
+            "Premera Blue Cross",
+            "ORG"
+        ],
+        [
+            "Premera Blue Cross",
+            "ORG",
+            "Invests_In",
+            "Cardinal Analytx Solutions",
+            "ORG"
+        ],
+        [
+            "Dr. Alan Glaseroff",
+            "PERSON",
+            "Relate_To",
+            "faculty at Stanford\u2019s Clinical Excellence Research Center",
+            "ORG"
+        ],
+        [
+            "Dr. Alan Glaseroff",
+            "PERSON",
+            "Relate_To",
+            "national leader in preventing costly health crises",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Trevor Hastie",
+            "PERSON",
+            "Relate_To",
+            "John A. Overdeck Professor of Mathematical Sciences",
+            "CONCEPT"
+        ],
+        [
+            "Dr. Trevor Hastie",
+            "PERSON",
+            "Relate_To",
+            "Stanford University",
+            "ORG"
+        ],
+        [
+            "Ken Paulus",
+            "PERSON",
+            "Operate_In",
+            "Allina Health",
+            "ORG"
+        ],
+        [
+            "Allina Health",
+            "ORG",
+            "Impact",
+            "Davies Award for Information Systems Innovation",
+            "EVENT"
+        ],
+        [
+            "Dr. Lee Sacks",
+            "PERSON",
+            "Operate_In",
+            "Advocate Health Care",
+            "ORG"
+        ],
+        [
+            "Advocate Health Care",
+            "ORG",
+            "Control",
+            "clinically integrated network",
+            "ORG"
+        ],
+        [
+            "Dr. Kevin A. Schulman",
+            "PERSON",
+            "Relate_To",
+            "professor of medicine at Duke University",
+            "ORG"
+        ],
+        [
+            "Dr. Kevin A. Schulman",
+            "PERSON",
+            "Relate_To",
+            "faculty associate director of the Duke Clinical Research Institute",
+            "ORG"
+        ],
+        [
+            "Dr. Kevin A. Schulman",
+            "PERSON",
+            "Relate_To",
+            "country\u2019s largest health sector management program",
+            "CONCEPT"
+        ]
+    ]
+}

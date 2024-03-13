@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Medical Device Tax",
+            "ORG/REG"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Relate_To",
+            "Affordable Care Act",
+            "ORG/GOV"
+        ],
+        [
+            "Medical Device Tax",
+            "ORG/REG",
+            "Raise",
+            "30 billion",
+            "ECON_INDICATOR",
+            "over",
+            "10 years",
+            "TIME"
+        ]
+    ]
+}

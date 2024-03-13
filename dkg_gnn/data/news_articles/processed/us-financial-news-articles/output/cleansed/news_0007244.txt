@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Blast",
+            "EVENT"
+        ],
+        [
+            "Two people",
+            "PERSON",
+            "Injured_In",
+            "Explosion",
+            "EVENT"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Said",
+            "Explosion",
+            "EVENT"
+        ],
+        [
+            "Object",
+            "PRODUCT",
+            "Exploded",
+            "null",
+            "null"
+        ],
+        [
+            "Police spokesman",
+            "PERSON",
+            "Said",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Event",
+            "EVENT",
+            "Not_Relate_To",
+            "Terrorism",
+            "CONCEPT"
+        ],
+        [
+            "Underground station",
+            "PRODUCT",
+            "Closed",
+            "null",
+            "null"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Carry_Out",
+            "Checks",
+            "null"
+        ],
+        [
+            "Helena Soderpalm",
+            "PERSON",
+            "Editing",
+            "Reporting",
+            "ORG"
+        ],
+        [
+            "John Stonestreet",
+            "PERSON",
+            "Editing",
+            "Reporting",
+            "ORG"
+        ]
+    ]
+}

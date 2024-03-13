@@ -1,0 +1,110 @@
+{
+    "output": [
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Leader_Of",
+            "Sinn Fein",
+            "ORG"
+        ],
+        [
+            "Sinn Fein",
+            "ORG",
+            "Operate_In",
+            "Ireland",
+            "GPE"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Attempt",
+            "Escape",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Argue",
+            "Illegal_Detention",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Due_To_Step_Down",
+            "President",
+            "ORG"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Not_Dispute",
+            "Escape_Attempts",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Lawyers",
+            "Argue",
+            "Unlawful_Detention",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Sentenced",
+            "Attempt_To_Escape",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Has",
+            "Commitments",
+            "CONCEPT"
+        ],
+        [
+            "British Government",
+            "ORG/GOV",
+            "Introduce",
+            "Internment_Without_Trial",
+            "CONCEPT"
+        ],
+        [
+            "British Government",
+            "ORG/GOV",
+            "Bid_To_Thwart",
+            "IRA_Armed_Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Deny",
+            "IRA_Membership",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Head",
+            "Sinn Fein",
+            "ORG"
+        ],
+        [
+            "Sinn Fein",
+            "ORG",
+            "Political_Wing",
+            "IRA",
+            "CONCEPT"
+        ],
+        [
+            "Gerry Adams",
+            "PERSON",
+            "Voice",
+            "Irish_Republican_Movement",
+            "CONCEPT"
+        ]
+    ]
+}

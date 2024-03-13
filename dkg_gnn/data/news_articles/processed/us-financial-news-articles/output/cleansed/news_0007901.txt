@@ -1,0 +1,108 @@
+{
+    "output": [
+        [
+            "Three investors",
+            "PERSON",
+            "Place_Bids_For",
+            "Germany's HSH Nordbank",
+            "ORG/GOV"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG/GOV",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG/GOV",
+            "Require",
+            "State_Rescue",
+            "ORG/GOV"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG/GOV",
+            "Majority_Owned_By",
+            "States_of_Schleswig-Holstein_and_Hamburg",
+            "GPE"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG/GOV",
+            "Must_be_Privatised_By",
+            "End_of_February",
+            "TIME"
+        ],
+        [
+            "HSH Nordbank",
+            "ORG/GOV",
+            "Can_Relate_To",
+            "Wind_Down",
+            "EVENT"
+        ],
+        [
+            "Buyout_Groups_Apollo",
+            "ORG",
+            "Place_Takeover_Bids_For",
+            "HSH_Nordbank",
+            "ORG/GOV"
+        ],
+        [
+            "Socrates",
+            "ORG",
+            "Place_Takeover_Bids_For",
+            "HSH_Nordbank",
+            "ORG/GOV"
+        ],
+        [
+            "Consortium_of_Cerberus_and_JC_Flowers",
+            "ORG",
+            "Place_Takeover_Bids_For",
+            "HSH_Nordbank",
+            "ORG/GOV"
+        ],
+        [
+            "Consortium_of_Cerberus_and_JC_Flowers",
+            "ORG",
+            "Own",
+            "About_5_Percent",
+            "PERCENT",
+            "of",
+            "HSH_Nordbank",
+            "ORG/GOV"
+        ],
+        [
+            "HSH_Nordbank",
+            "ORG/GOV",
+            "Became",
+            "World\u2019s_Largest_Lender_to_Shipping_Industry",
+            "CONCEPT"
+        ],
+        [
+            "Shipping_Industry",
+            "CONCEPT",
+            "Experience",
+            "Slump",
+            "EVENT"
+        ],
+        [
+            "Monika_Heinold",
+            "PERSON",
+            "Said",
+            "Sale_Can_Succeed",
+            "EVENT"
+        ],
+        [
+            "HSH_Chairman_Thomas_Mirow",
+            "PERSON",
+            "Express",
+            "View",
+            "EVENT",
+            "that",
+            "Sale_Can_Succeed",
+            "EVENT"
+        ]
+    ]
+}

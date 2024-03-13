@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Publisher",
+            "ORG",
+            "Rush",
+            "book",
+            "PRODUCT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Relate_To",
+            "book",
+            "PRODUCT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Control",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Threaten",
+            "Legal Action",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Cite",
+            "Unprecedented Demand",
+            "CONCEPT"
+        ]
+    ]
+}

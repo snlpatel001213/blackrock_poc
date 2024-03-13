@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Peter Borish",
+            "PERSON",
+            "Discuss",
+            "Quad Capital",
+            "ORG"
+        ],
+        [
+            "Peter Borish",
+            "PERSON",
+            "Discuss",
+            "Brian Jacobsen",
+            "PERSON"
+        ],
+        [
+            "Brian Jacobsen",
+            "PERSON",
+            "Discuss",
+            "Wells Fargo Asset Management",
+            "ORG"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Pay_Attention_To",
+            "Rally",
+            "EVENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Look_For",
+            "Long-term Plays",
+            "CONCEPT"
+        ]
+    ]
+}

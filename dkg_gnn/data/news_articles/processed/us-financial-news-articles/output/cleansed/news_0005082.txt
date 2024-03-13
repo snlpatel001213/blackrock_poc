@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "Open",
+            "ORG/GOV"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "U.S. Offshore",
+            "GPE"
+        ],
+        [
+            "U.S. Offshore",
+            "GPE",
+            "Control",
+            "Oil and Gas Drilling",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Aim",
+            "Boost",
+            "CONCEPT"
+        ],
+        [
+            "Domestic Energy Production",
+            "CONCEPT",
+            "Relate_To",
+            "U.S. Offshore",
+            "GPE"
+        ],
+        [
+            "Coastal States",
+            "GPE",
+            "Protest",
+            "Open",
+            "ORG/GOV"
+        ],
+        [
+            "Environmentalists",
+            "PERSON",
+            "Protest",
+            "Open",
+            "ORG/GOV"
+        ],
+        [
+            "Tourism Industry",
+            "SECTOR",
+            "Protest",
+            "Open",
+            "ORG/GOV"
+        ]
+    ]
+}

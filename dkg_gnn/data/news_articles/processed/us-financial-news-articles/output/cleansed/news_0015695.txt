@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Praise",
+            "China\u2019,s Moves",
+            "ORG"
+        ],
+        [
+            "Donald J. Trump Administration",
+            "ORG/GOV",
+            "Please",
+            "China is Sharply Reducing its Trade with North Korea",
+            "ORG"
+        ],
+        [
+            "China",
+            "GPE",
+            "Reduce",
+            "Trade with North Korea",
+            "GPE"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Lead",
+            "Apply Maximum Pressure on Pyongyang",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "End",
+            "Illicit Programs",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Change",
+            "Behavior",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Move toward",
+            "Denuclearization of the Korean Peninsula",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "BP PLC",
+            "COMP",
+            "Announce",
+            "Accounting Charge",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP PLC",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Enact",
+            "Tax Overhaul",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Sign",
+            "Tax Overhaul",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP PLC",
+            "COMP",
+            "Negative_Impact_On",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BP PLC",
+            "COMP",
+            "Positive_Impact_On",
+            "Corporate Tax Cut",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

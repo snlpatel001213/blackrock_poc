@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Announce",
+            "First Quarter 2018 Common Stock Dividends",
+            "EVENT"
+        ],
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Operate_In",
+            "Real Estate Investment Trust",
+            "SECTOR"
+        ],
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Has",
+            "Subsidiaries",
+            "ORG"
+        ],
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Invest",
+            "Mortgage and other real estate-related assets",
+            "PRODUCT"
+        ],
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Externally_Managed_And_Advised_By",
+            "Oak Circle Capital Partners LLC",
+            "ORG"
+        ],
+        [
+            "Five Oaks Investment Corp.",
+            "ORG",
+            "Issue",
+            "8.75% Cumulative Redeemable Preferred Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "First Quarter 2018 Common Stock Dividends",
+            "EVENT",
+            "Has",
+            "Dividend_Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "First Quarter 2018 Common Stock Dividends",
+            "EVENT",
+            "Has",
+            "Record_Date",
+            "DATE"
+        ],
+        [
+            "First Quarter 2018 Common Stock Dividends",
+            "EVENT",
+            "Has",
+            "Payment_Date",
+            "DATE"
+        ],
+        [
+            "8.75% Cumulative Redeemable Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Dividend_Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "8.75% Cumulative Redeemable Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Record_Date",
+            "DATE"
+        ],
+        [
+            "8.75% Cumulative Redeemable Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Payment_Date",
+            "DATE"
+        ]
+    ]
+}

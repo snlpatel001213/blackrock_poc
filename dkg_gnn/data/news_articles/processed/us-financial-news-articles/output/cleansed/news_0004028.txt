@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Thomas S. Monson",
+            "PERSON",
+            "Has",
+            "President of the Mormon Church",
+            "ORG"
+        ],
+        [
+            "Thomas S. Monson",
+            "PERSON",
+            "Die",
+            "90",
+            "AGE"
+        ],
+        [
+            "Mormon Church",
+            "ORG",
+            "Oversee",
+            "Thomas S. Monson",
+            "PERSON"
+        ],
+        [
+            "Thomas S. Monson",
+            "PERSON",
+            "Serve",
+            "Top church leadership councils",
+            "ORG"
+        ]
+    ]
+}

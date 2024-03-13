@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Nohla Therapeutics Inc.",
+            "COMP",
+            "Appoint",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "James Johnson",
+            "PERSON",
+            "Operate_In",
+            "Nohla Therapeutics Inc.",
+            "COMP"
+        ],
+        [
+            "Nohla Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Lead clinical programs",
+            "CONCEPT"
+        ],
+        [
+            "NanoString Technologies",
+            "COMP",
+            "Past_Job",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "Relypsa Inc.",
+            "COMP",
+            "Past_Job",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "ZymoGenetics Inc.",
+            "COMP",
+            "Past_Job",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "AmpliPhi",
+            "COMP",
+            "Past_Job",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "Immunex Corporation",
+            "COMP",
+            "Past_Job",
+            "James Johnson",
+            "PERSON"
+        ],
+        [
+            "Nohla Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Strong financial backing",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Innovative technology platform",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics Inc.",
+            "COMP",
+            "Has",
+            "Experienced and committed management team",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Produce",
+            "Cell therapy products",
+            "PRODUCT"
+        ],
+        [
+            "Cell therapy products",
+            "PRODUCT",
+            "Address",
+            "Significant unmet medical need",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Has",
+            "Leading investors",
+            "COMP"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Has",
+            "Nohla101",
+            "PRODUCT"
+        ],
+        [
+            "Nohla101",
+            "PRODUCT",
+            "Provides",
+            "Functional support of bone marrow",
+            "CONCEPT"
+        ],
+        [
+            "Nohla101",
+            "PRODUCT",
+            "Overcome",
+            "Broad safety and logistical risks",
+            "CONCEPT"
+        ],
+        [
+            "Nohla101",
+            "PRODUCT",
+            "Demonstrate",
+            "Potential for robust efficacy",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Has",
+            "Website",
+            "COMP"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Has",
+            "Twitter account",
+            "COMP"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Has",
+            "Senior Director, Corporate Development & Investor Relations",
+            "CONCEPT"
+        ],
+        [
+            "Senior Director, Corporate Development & Investor Relations",
+            "CONCEPT",
+            "Has",
+            "Phone number",
+            "CONCEPT"
+        ],
+        [
+            "Senior Director, Corporate Development & Investor Relations",
+            "CONCEPT",
+            "Has",
+            "Email address",
+            "CONCEPT"
+        ],
+        [
+            "Nohla Therapeutics",
+            "COMP",
+            "Source",
+            "Press release",
+            "CONCEPT"
+        ]
+    ]
+}

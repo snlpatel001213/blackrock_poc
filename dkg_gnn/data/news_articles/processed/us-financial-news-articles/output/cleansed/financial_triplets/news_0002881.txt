@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Economic Forecasters",
+            "PERSON",
+            "Impact",
+            "Eurozone Economy",
+            "GPE"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Operate_In",
+            "Eurozone",
+            "GPE"
+        ],
+        [
+            "Beno\u00eet",
+            "PERSON",
+            "Is_Member_Of",
+            "ECB",
+            "ORG/REG"
+        ]
+    ]
+}

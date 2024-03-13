@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Morphotek",
+            "ORG",
+            "Announce",
+            "FDA Acceptance",
+            "EVENT"
+        ],
+        [
+            "Eisai Co Ltd",
+            "ORG",
+            "Control",
+            "Morphotek",
+            "ORG"
+        ],
+        [
+            "Morab-202",
+            "PRODUCT",
+            "Relate_To",
+            "FDA Acceptance",
+            "EVENT"
+        ],
+        [
+            "Morab-202",
+            "PRODUCT",
+            "Relate_To",
+            "Next-Generation Farletuzumab Antibody-Drug Conjugate",
+            "PRODUCT"
+        ],
+        [
+            "Next-Generation Farletuzumab Antibody-Drug Conjugate",
+            "PRODUCT",
+            "Relate_To",
+            "Cancer Treatment",
+            "CONCEPT"
+        ]
+    ]
+}

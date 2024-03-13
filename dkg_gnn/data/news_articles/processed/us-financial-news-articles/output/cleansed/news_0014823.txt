@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "BTIG",
+            "ORG",
+            "Announce",
+            "Top Picks",
+            "EVENT"
+        ],
+        [
+            "BTIG",
+            "ORG",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "Julian Emanuel",
+            "PERSON",
+            "Is_Member_Of",
+            "BTIG",
+            "ORG"
+        ],
+        [
+            "Energy Sector",
+            "SECTOR",
+            "Control",
+            "BTIG",
+            "ORG"
+        ],
+        [
+            "Financial Sector",
+            "SECTOR",
+            "Control",
+            "BTIG",
+            "ORG"
+        ],
+        [
+            "Health Care Sector",
+            "SECTOR",
+            "Control",
+            "BTIG",
+            "ORG"
+        ],
+        [
+            "Top Picks",
+            "EVENT",
+            "Relate_To",
+            "Highest Conviction Buy-rated Investment Ideas",
+            "CONCEPT"
+        ],
+        [
+            "BTIG",
+            "ORG",
+            "Positive_Impact_On",
+            "Stock Picks",
+            "EVENT"
+        ],
+        [
+            "BTIG",
+            "ORG",
+            "Participates_In",
+            "Research Platform",
+            "CONCEPT"
+        ]
+    ]
+}

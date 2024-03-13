@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Fined",
+            "400,000 pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Owned_By",
+            "Dixons Carphone",
+            "ORG"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Impact",
+            "3 million customers",
+            "GPE"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Relate_To",
+            "Cyber attack",
+            "EVENT"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Has",
+            "out-of-date Wordpress",
+            "PRODUCT"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Compromised",
+            "personal data",
+            "CONCEPT"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Compromised",
+            "payment card details",
+            "PRODUCT"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "Compromised",
+            "employee records",
+            "CONCEPT"
+        ],
+        [
+            "Carphone Warehouse",
+            "COMP",
+            "No_Evidence_Of",
+            "identity theft",
+            "CONCEPT"
+        ]
+    ]
+}

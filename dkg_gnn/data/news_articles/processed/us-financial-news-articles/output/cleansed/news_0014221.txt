@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Force",
+            "Facebook",
+            "ORG"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Force",
+            "Twitter",
+            "ORG"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Force",
+            "YouTube",
+            "ORG"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Announce",
+            "Alabama",
+            "GPE"
+        ],
+        [
+            "Toyota Motor Corp",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Mazda Motor Corp",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Shelve",
+            "Incentive Package",
+            "CONCEPT"
+        ],
+        [
+            "New York City",
+            "GPE",
+            "Reassess",
+            "Aetna Inc",
+            "COMP"
+        ],
+        [
+            "US Employers",
+            "SECTOR",
+            "Pay",
+            "Settlements",
+            "CONCEPT"
+        ],
+        [
+            "US Employers",
+            "SECTOR",
+            "Resolve",
+            "Legal Fights",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Have",
+            "10 Biggest Class-action Suits",
+            "CONCEPT"
+        ],
+        [
+            "Seyfarth Shaw LLP",
+            "ORG",
+            "Report",
+            "Record Settlements",
+            "CONCEPT"
+        ]
+    ]
+}

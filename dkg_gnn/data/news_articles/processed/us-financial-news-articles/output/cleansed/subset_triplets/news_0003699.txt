@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "suicide bomber",
+            "CONCEPT",
+            "Has",
+            "Blast hits police in Afghan capital Kabul, dozens of casualties",
+            "EVENT"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Announce",
+            "responsible for the blast",
+            "EVENT"
+        ],
+        [
+            "suicide bomber",
+            "CONCEPT",
+            "Impact",
+            "group of security personnel",
+            "PERSON"
+        ],
+        [
+            "security personnel",
+            "PERSON",
+            "Participates_In",
+            "operation against illegal drugs and alcohol dealing",
+            "EVENT"
+        ],
+        [
+            "Islamic State",
+            "ORG",
+            "Control",
+            "Kabul",
+            "GPE"
+        ],
+        [
+            "suicide bomber",
+            "CONCEPT",
+            "Has",
+            "explosive vest",
+            "PRODUCT"
+        ],
+        [
+            "Wahid Majroh",
+            "PERSON",
+            "Announce",
+            "11 dead and 25 wounded",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ministry of public health",
+            "ORG",
+            "Is_Member_Of",
+            "Wahid Majroh",
+            "PERSON"
+        ],
+        [
+            "Kabul police spokesman",
+            "PERSON",
+            "Announce",
+            "suicide bomber detonated his suicide vest",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Minimum Wage",
+            "ECON_INDICATOR",
+            "Rise",
+            "18 States",
+            "GPE"
+        ],
+        [
+            "David Cooper",
+            "PERSON",
+            "Relate_To",
+            "Economic Policy Institute",
+            "ORG"
+        ],
+        [
+            "Employee",
+            "PERSON",
+            "Is_Member_Of",
+            "Workforce",
+            "CONCEPT"
+        ],
+        [
+            "Business Owner",
+            "PERSON",
+            "Is_Member_Of",
+            "Business Community",
+            "CONCEPT"
+        ],
+        [
+            "Personal Effort",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Performance",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Additional Skills",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Education",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Productivity",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Additional Responsibilities",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seeking",
+            "CONCEPT",
+            "Impact",
+            "Wages",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

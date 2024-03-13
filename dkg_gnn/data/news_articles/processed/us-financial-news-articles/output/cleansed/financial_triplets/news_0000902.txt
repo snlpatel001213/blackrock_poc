@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Enedis",
+            "ORG",
+            "Control",
+            "EDF",
+            "ORG/GOV"
+        ],
+        [
+            "Enedis",
+            "ORG",
+            "Has",
+            "Staff",
+            "PERSON"
+        ],
+        [
+            "Enedis",
+            "ORG",
+            "Impact",
+            "Power Lines",
+            "COMP"
+        ],
+        [
+            "Power Lines",
+            "COMP",
+            "Negative_Impact_On",
+            "Households",
+            "GPE"
+        ],
+        [
+            "Households",
+            "GPE",
+            "Participates_In",
+            "Western France",
+            "GPE"
+        ],
+        [
+            "Storm Carmen",
+            "EVENT",
+            "Relate_To",
+            "Power Cuts",
+            "COMP"
+        ],
+        [
+            "Storm Carmen",
+            "EVENT",
+            "Relate_To",
+            "Households",
+            "GPE"
+        ],
+        [
+            "Storm Carmen",
+            "EVENT",
+            "Relate_To",
+            "Power Lines",
+            "COMP"
+        ],
+        [
+            "Poitou-Charente",
+            "GPE",
+            "Relate_To",
+            "Storm Carmen",
+            "EVENT"
+        ],
+        [
+            "Pays de Loire",
+            "GPE",
+            "Relate_To",
+            "Storm Carmen",
+            "EVENT"
+        ],
+        [
+            "Aquitaine",
+            "GPE",
+            "Relate_To",
+            "Storm Carmen",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Produce",
+            "Power",
+            "COMP"
+        ],
+        [
+            "France",
+            "GPE",
+            "Produce",
+            "Power",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

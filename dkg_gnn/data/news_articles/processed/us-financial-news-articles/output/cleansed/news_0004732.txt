@@ -1,0 +1,198 @@
+{
+    "output": [
+        [
+            "Barca",
+            "GPE",
+            "Has",
+            "King\u2019s Cup holders",
+            "CONCEPT"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Participates_In",
+            "Cup tie",
+            "EVENT"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Draw",
+            "1-1",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Remain",
+            "Cup competition",
+            "CONCEPT"
+        ],
+        [
+            "Jose Arnaiz",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Jose Arnaiz",
+            "PERSON",
+            "Play",
+            "Reserve side",
+            "ORG"
+        ],
+        [
+            "Andre Gomes",
+            "PERSON",
+            "Assist",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Celta Vigo",
+            "GPE",
+            "Host",
+            "Barca",
+            "GPE"
+        ],
+        [
+            "Celta Vigo",
+            "GPE",
+            "Level",
+            "Score",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Pione Sisto",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Iago Aspas",
+            "PERSON",
+            "Assist",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Ousmane Dembele",
+            "PERSON",
+            "Come on",
+            "Second half",
+            "TIME"
+        ],
+        [
+            "Ousmane Dembele",
+            "PERSON",
+            "Make",
+            "First appearance",
+            "EVENT"
+        ],
+        [
+            "Ousmane Dembele",
+            "PERSON",
+            "Shoot",
+            "Low shot",
+            "PRODUCT"
+        ],
+        [
+            "Sergio Alvarez",
+            "PERSON",
+            "Save",
+            "Shot",
+            "PRODUCT"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Hit",
+            "Woodwork",
+            "CONCEPT"
+        ],
+        [
+            "Sergio Busquets",
+            "PERSON",
+            "Crash",
+            "Shot",
+            "PRODUCT"
+        ],
+        [
+            "Sergio Roberto",
+            "PERSON",
+            "Strike",
+            "Post",
+            "CONCEPT"
+        ],
+        [
+            "Emre Mor",
+            "PERSON",
+            "Go close",
+            "Score",
+            "PRODUCT"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Fail",
+            "Win",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Barca",
+            "GPE",
+            "Lose",
+            "Last trips",
+            "TIME"
+        ],
+        [
+            "Ernesto Valverde",
+            "PERSON",
+            "Make",
+            "Seven changes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Celta",
+            "GPE",
+            "Coached by",
+            "Juan Carlos Unzue",
+            "PERSON"
+        ],
+        [
+            "Juan Carlos Unzue",
+            "PERSON",
+            "Former",
+            "Barca assistant",
+            "ORG"
+        ],
+        [
+            "Second leg",
+            "EVENT",
+            "Take place",
+            "Jan. 11",
+            "DATE"
+        ],
+        [
+            "Real Madrid",
+            "GPE",
+            "Visit",
+            "Numancia",
+            "GPE"
+        ],
+        [
+            "Real Madrid",
+            "GPE",
+            "Champions",
+            "CONCEPT"
+        ],
+        [
+            "Numancia",
+            "GPE",
+            "Second division",
+            "SECTOR"
+        ]
+    ]
+}

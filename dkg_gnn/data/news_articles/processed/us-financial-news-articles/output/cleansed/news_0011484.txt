@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Greenhill & Co Inc",
+            "COMP",
+            "Has",
+            "SCOTT BOK",
+            "PERSON"
+        ],
+        [
+            "SCOTT BOK",
+            "PERSON",
+            "Raise",
+            "5 PERCENT",
+            "ECON_INDICATOR",
+            "In",
+            "GREENHILL & CO INC",
+            "COMP"
+        ],
+        [
+            "GREENHILL & CO INC",
+            "COMP",
+            "File",
+            "SEC FILING",
+            "ORG/REG"
+        ]
+    ]
+}

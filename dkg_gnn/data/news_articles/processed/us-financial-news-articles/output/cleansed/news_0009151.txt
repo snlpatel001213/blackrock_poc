@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Control",
+            "Fruitfly",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Impact_Negatively_On",
+            "Thousands of Computers",
+            "COMP"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Bank Records",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Photographs",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Peoples\u2019 Internet Searches",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Keystrokes",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Collect",
+            "Potentially Embarrassing Communications",
+            "CONCEPT"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Detect",
+            "Words Associated with Pornography",
+            "CONCEPT"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Watch",
+            "Listen",
+            "VERB"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Watch",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Phillip Durachinsky",
+            "PERSON",
+            "Listen",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Belong_To",
+            "Individuals",
+            "PERSON"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Belong_To",
+            "Companies",
+            "COMP"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Belong_To",
+            "Schools",
+            "ORG"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Belong_To",
+            "Police Department",
+            "ORG/GOV"
+        ],
+        [
+            "Fruitfly",
+            "CONCEPT",
+            "Belong_To",
+            "U.S. Department of Energy",
+            "ORG/GOV"
+        ]
+    ]
+}

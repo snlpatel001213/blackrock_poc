@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "celebrity sellers",
+            "PERSON",
+            "Participates_In",
+            "real estate deals",
+            "EVENT"
+        ],
+        [
+            "real estate deals",
+            "EVENT",
+            "Relate_To",
+            "video tour",
+            "PRODUCT"
+        ]
+    ]
+}

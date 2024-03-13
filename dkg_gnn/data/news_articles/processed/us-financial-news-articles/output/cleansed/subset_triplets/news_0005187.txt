@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Broadway",
+            "GPE",
+            "Produce",
+            "The Play That Goes Wrong",
+            "PRODUCT"
+        ],
+        [
+            "The Play That Goes Wrong",
+            "PRODUCT",
+            "Has",
+            "British import",
+            "ORG"
+        ],
+        [
+            "$300,000",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Potential gross",
+            "ECON_INDICATOR"
+        ],
+        [
+            "The Play That Goes Wrong",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "45%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "One honor",
+            "CONCEPT",
+            "Relate_To",
+            "Tony Awards",
+            "EVENT"
+        ]
+    ]
+}

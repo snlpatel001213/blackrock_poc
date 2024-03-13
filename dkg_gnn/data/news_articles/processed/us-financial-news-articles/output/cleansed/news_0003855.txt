@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Krystal Company",
+            "ORG",
+            "Announce",
+            "Berry L. Epley",
+            "PERSON"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Operate_In",
+            "Food & Beverage Industry",
+            "SECTOR"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Has",
+            "New Chief Financial Officer",
+            "ORG_POSITION"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Participates_In",
+            "CFO Functions",
+            "ORG_POSITION"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Has",
+            "Omar Janjua",
+            "PERSON"
+        ],
+        [
+            "Omar Janjua",
+            "PERSON",
+            "Has",
+            "Chief Executive Officer",
+            "ORG_POSITION"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Impact",
+            "Quality and Value",
+            "CONCEPT"
+        ],
+        [
+            "Krystal Company",
+            "ORG",
+            "Impact",
+            "Guest Expectations",
+            "CONCEPT"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Positive_Impact_On",
+            "Krystal Company",
+            "ORG"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Strengthen",
+            "Market Presence",
+            "CONCEPT"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Create",
+            "Strong Franchise Relationships",
+            "CONCEPT"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Drive",
+            "Bottom-line Performance",
+            "CONCEPT"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Prior_Experience",
+            "Krispy Kreme Doughnuts",
+            "ORG"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Prior_Experience",
+            "The Pantry, Inc.",
+            "ORG"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Early_Career",
+            "PricewaterhouseCoopers",
+            "ORG"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Graduated",
+            "Appalachian State University",
+            "UNI"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Graduated",
+            "Campbell University",
+            "UNI"
+        ],
+        [
+            "Berry L. Epley",
+            "PERSON",
+            "Certified",
+            "Public Accountant",
+            "ORG_POSITION"
+        ]
+    ]
+}

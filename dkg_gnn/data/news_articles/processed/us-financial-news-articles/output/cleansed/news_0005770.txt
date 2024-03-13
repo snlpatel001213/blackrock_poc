@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Bread Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Impact",
+            "Sudan",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Lead_To",
+            "Student Death",
+            "EVENT"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Lead_To",
+            "Opposition Leader Arrest",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Announce",
+            "Subsidy Elimination",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Take_Place_In",
+            "Sennar",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Take_Place_In",
+            "Al-Damazin",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Take_Place_In",
+            "Khartoum",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Take_Place_In",
+            "Nyala",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Take_Place_In",
+            "Geneina",
+            "GPE"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Implement",
+            "Austerity Measures",
+            "CONCEPT"
+        ],
+        [
+            "Austerity Measures",
+            "CONCEPT",
+            "Lead_To",
+            "Public Protests",
+            "EVENT"
+        ],
+        [
+            "Amnesty International",
+            "ORG",
+            "State",
+            "Up To 185 Deaths",
+            "EVENT"
+        ],
+        [
+            "Opposition Groups",
+            "ORG",
+            "Organize",
+            "Peaceful Demonstrations",
+            "EVENT"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Arrest",
+            "Omar Al-Dageir",
+            "PERSON"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Block",
+            "Newspaper Sale",
+            "EVENT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Implement",
+            "Economic Reforms",
+            "CONCEPT"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Devalue",
+            "Pound Currency",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Black Market",
+            "CONCEPT",
+            "Reach",
+            "29 Pounds to Dollar",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Vicki Berquist",
+            "PERSON",
+            "Contract",
+            "Vibrio",
+            "CONCEPT"
+        ],
+        [
+            "Vicki Berquist",
+            "PERSON",
+            "Consume",
+            "Raw Oysters",
+            "PRODUCT"
+        ],
+        [
+            "Jeanette LeBlanc",
+            "PERSON",
+            "Consume",
+            "Raw Oysters",
+            "PRODUCT"
+        ],
+        [
+            "Jeanette LeBlanc",
+            "PERSON",
+            "Contract",
+            "Vibrio",
+            "CONCEPT"
+        ],
+        [
+            "Vibrio",
+            "CONCEPT",
+            "Impact",
+            "Jeanette LeBlanc",
+            "PERSON"
+        ],
+        [
+            "Vibrio",
+            "CONCEPT",
+            "Relate_To",
+            "Raw Oysters",
+            "PRODUCT"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Raise",
+            "Awareness",
+            "CONCEPT"
+        ]
+    ]
+}

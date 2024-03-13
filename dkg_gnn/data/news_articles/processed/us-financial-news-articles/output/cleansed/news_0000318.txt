@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "People with COPD",
+            "GPE",
+            "Use",
+            "long-acting inhaled bronchodilators",
+            "PRODUCT"
+        ],
+        [
+            "long-acting inhaled bronchodilators",
+            "PRODUCT",
+            "Introduce",
+            "cardiovascular problems",
+            "CONCEPT"
+        ],
+        [
+            "COPD patients",
+            "GPE",
+            "More likely",
+            "cardiovascular problems",
+            "CONCEPT"
+        ],
+        [
+            "patients who used long-acting bronchodilators",
+            "GPE",
+            "50 percent",
+            "cardiovascular problems",
+            "CONCEPT"
+        ],
+        [
+            "patients who didn\u2019t use long-acting bronchodilators",
+            "GPE",
+            "cardiovascular problems",
+            "CONCEPT"
+        ],
+        [
+            "patients",
+            "GPE",
+            "Operate_In",
+            "first 30 days",
+            "TIME"
+        ],
+        [
+            "patients",
+            "GPE",
+            "cardiovascular problems",
+            "after initiation of bronchodilators",
+            "PRODUCT"
+        ],
+        [
+            "patients",
+            "GPE",
+            "cardiovascular problems",
+            "essential treatment",
+            "CONCEPT"
+        ],
+        [
+            "patients",
+            "GPE",
+            "seek medical attention",
+            "symptoms that might indicate a heart problem",
+            "CONCEPT"
+        ],
+        [
+            "patients",
+            "GPE",
+            "Have",
+            "follow-up exam",
+            "PRODUCT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "Designed to widen the airways",
+            "CONCEPT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "accelerate the heart rate",
+            "CONCEPT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "constrict blood vessels",
+            "CONCEPT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "increase blood pressure",
+            "CONCEPT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "increase inflammation",
+            "CONCEPT"
+        ],
+        [
+            "long-acting bronchodilators",
+            "PRODUCT",
+            "blockage of the blood vessels",
+            "CONCEPT"
+        ],
+        [
+            "heart problems",
+            "CONCEPT",
+            "misdiagnosed",
+            "CONCEPT"
+        ],
+        [
+            "patients",
+            "GPE",
+            "Have",
+            "follow-up exam",
+            "PRODUCT"
+        ],
+        [
+            "physician",
+            "PERSON",
+            "Prescribe",
+            "long-acting bronchodilators",
+            "PRODUCT"
+        ],
+        [
+            "physician",
+            "PERSON",
+            "Prescribe",
+            "effective at improving lung function",
+            "CONCEPT"
+        ],
+        [
+            "physician",
+            "PERSON",
+            "Prescribe",
+            "reducing exacerbations in COPD",
+            "CONCEPT"
+        ],
+        [
+            "initiation of these drugs",
+            "PRODUCT",
+            "marker for worsening symptoms of COPD or cardiovascular disease",
+            "CONCEPT"
+        ]
+    ]
+}

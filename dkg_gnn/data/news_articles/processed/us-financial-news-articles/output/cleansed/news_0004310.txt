@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Virginia House of Delegates",
+            "ORG/GOV",
+            "Decide",
+            "Winner",
+            "PERSON"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Participates_In",
+            "GOP",
+            "ORG"
+        ],
+        [
+            "GOP",
+            "ORG",
+            "Retain",
+            "Majority",
+            "SECTOR"
+        ],
+        [
+            "Majority",
+            "SECTOR",
+            "Has",
+            "51-49",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Claim",
+            "94th district seat",
+            "SECTOR"
+        ],
+        [
+            "Winner",
+            "PERSON",
+            "Operate_In",
+            "Newport News",
+            "GPE"
+        ],
+        [
+            "Democratic challenger",
+            "PERSON",
+            "Lose",
+            "null",
+            "null"
+        ],
+        [
+            "Democratic challenger",
+            "PERSON",
+            "Press",
+            "Recount",
+            "null"
+        ],
+        [
+            "Democratic challenger",
+            "PERSON",
+            "Go",
+            "Court",
+            "null"
+        ],
+        [
+            "Election night",
+            "EVENT",
+            "Show",
+            "Yancey win",
+            "null"
+        ],
+        [
+            "Recount",
+            "EVENT",
+            "Put",
+            "Simonds on top",
+            "null"
+        ],
+        [
+            "Three-judge panel",
+            "ORG",
+            "Rule",
+            "Race a tie",
+            "null"
+        ],
+        [
+            "Ballot",
+            "PRODUCT",
+            "Marked",
+            "Circles next to both Simonds' and Yancey's names",
+            "null"
+        ],
+        [
+            "Judges",
+            "ORG",
+            "Determine",
+            "Ballot should be counted",
+            "null"
+        ],
+        [
+            "Judges",
+            "ORG",
+            "Reject",
+            "Request from Simonds to reconsider",
+            "null"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Raise",
+            "Challenge",
+            "null"
+        ],
+        [
+            "Court",
+            "ORG",
+            "Set",
+            "Hearing on that race",
+            "null"
+        ],
+        [
+            "Associated Press",
+            "ORG",
+            "Contribute",
+            "Article",
+            "null"
+        ]
+    ]
+}

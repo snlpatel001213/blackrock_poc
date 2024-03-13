@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "American energy development",
+            "SECTOR",
+            "Has",
+            "Tax Reform",
+            "EVENT"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Announce",
+            "Tax Reform",
+            "EVENT"
+        ],
+        [
+            "Tax Reform",
+            "EVENT",
+            "Contain",
+            "Provision",
+            "CONCEPT"
+        ],
+        [
+            "Provision",
+            "CONCEPT",
+            "Allow",
+            "Oil Exploration",
+            "CONCEPT"
+        ],
+        [
+            "Oil Exploration",
+            "CONCEPT",
+            "Operate_In",
+            "Arctic National Wildlife Refuge",
+            "GPE"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Propose",
+            "Opening Up",
+            "CONCEPT"
+        ],
+        [
+            "Opening Up",
+            "CONCEPT",
+            "Relate_To",
+            "Wide Swaths Of Territory",
+            "GPE"
+        ],
+        [
+            "Wide Swaths Of Territory",
+            "GPE",
+            "Operate_In",
+            "Offshore",
+            "GPE"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Impact",
+            "Environment",
+            "CONCEPT"
+        ],
+        [
+            "Environment",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Hazardous Drilling",
+            "CONCEPT"
+        ],
+        [
+            "Hazardous Drilling",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Environment",
+            "CONCEPT"
+        ],
+        [
+            "Green Lobby",
+            "ORG",
+            "Howl",
+            "Truth",
+            "CONCEPT"
+        ]
+    ]
+}

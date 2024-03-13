@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Pot stocks",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Investors",
+            "PERSON"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Buy",
+            "Marijuana stocks",
+            "PRODUCT"
+        ],
+        [
+            "Marijuana stocks",
+            "PRODUCT",
+            "Relate_To",
+            "Pot stocks",
+            "PRODUCT"
+        ]
+    ]
+}

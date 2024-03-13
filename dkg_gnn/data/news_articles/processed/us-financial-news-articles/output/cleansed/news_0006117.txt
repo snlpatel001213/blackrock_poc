@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "federal appeals court",
+            "ORG/GOV",
+            "Reject",
+            "Huntington Ingalls Inc\u2019,s claims",
+            "COMP"
+        ],
+        [
+            "Huntington Ingalls Inc",
+            "COMP",
+            "Relate_To",
+            "a former shipyard worker",
+            "PERSON"
+        ],
+        [
+            "a former shipyard worker",
+            "PERSON",
+            "Injure",
+            "his shoulder",
+            "BODY_PART"
+        ],
+        [
+            "his shoulder",
+            "BODY_PART",
+            "Impact",
+            "disability benefits",
+            "CONCEPT"
+        ],
+        [
+            "disability benefits",
+            "CONCEPT",
+            "Relate_To",
+            "once he retired a few weeks later",
+            "TIME_PERIOD"
+        ],
+        [
+            "a retired person",
+            "PERSON",
+            "Has",
+            "the capacity to earn wages in another job",
+            "CONCEPT"
+        ],
+        [
+            "they",
+            "PERSON",
+            "Must",
+            "be compensated for any work-related injury that temporarily prevents them from doing so",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Onemain",
+            "COMP",
+            "Announce",
+            "Share Purchase Agreement",
+            "ORG"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Has",
+            "Nine Directors",
+            "PERSON"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Raise",
+            "1.43 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Relate_To",
+            "Springleaf Financial Holdings",
+            "ORG"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Relate_To",
+            "OMH Holdings",
+            "ORG"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Participates_In",
+            "Standstill Period",
+            "CONCEPT"
+        ],
+        [
+            "Onemain",
+            "COMP",
+            "Control",
+            "54.9 Million Shares",
+            "PRODUCT"
+        ],
+        [
+            "Apollo Global Management",
+            "ORG",
+            "Control",
+            "Onemain",
+            "COMP"
+        ]
+    ]
+}

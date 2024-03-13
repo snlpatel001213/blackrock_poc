@@ -1,0 +1,61 @@
+{
+    "output": [
+        [
+            "Churches",
+            "ORG",
+            "Eligible_To_Receive",
+            "Federal Disaster Relief Funding",
+            "ORG/GOV"
+        ],
+        [
+            "Houses of Worship",
+            "ORG",
+            "Eligible_To_Receive",
+            "Federal Disaster Relief Funding",
+            "ORG/GOV"
+        ],
+        [
+            "Federal Emergency Management Agency",
+            "ORG/GOV",
+            "Overturn",
+            "Rule",
+            "CONCEPT"
+        ],
+        [
+            "Houses of Worship",
+            "ORG",
+            "Damaged",
+            "Disaster",
+            "CONCEPT"
+        ],
+        [
+            "Houses of Worship",
+            "ORG",
+            "Receive",
+            "Money",
+            "ORG/GOV"
+        ],
+        [
+            "Houses of Worship",
+            "ORG",
+            "Help",
+            "Rebuild",
+            "CONCEPT"
+        ],
+        [
+            "Federal Emergency Management Agency",
+            "ORG/GOV",
+            "Operate_In",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "Hurricane Harvey",
+            "EVENT",
+            "Slam",
+            "Into",
+            "Texas",
+            "GPE"
+        ]
+    ]
+}

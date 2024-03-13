@@ -1,0 +1,178 @@
+{
+    "output": [
+        [
+            "Kentucky",
+            "GPE",
+            "Operate_In",
+            "Medicaid Program",
+            "ORG/GOV"
+        ],
+        [
+            "Medicaid Program",
+            "ORG/GOV",
+            "Control",
+            "Medicaid Recipients",
+            "PERSON"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Participates_In",
+            "Employment Activities",
+            "CONCEPT"
+        ],
+        [
+            "Kentucky",
+            "GPE",
+            "Impose",
+            "Premium",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Negative_Impact_On",
+            "Lock Out",
+            "CONCEPT"
+        ],
+        [
+            "Kentucky",
+            "GPE",
+            "Lead",
+            "Issue",
+            "CONCEPT"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Desire",
+            "Dignity",
+            "CONCEPT"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Blast",
+            "Federal Policy",
+            "CONCEPT"
+        ],
+        [
+            "Health Advocacy Groups",
+            "ORG",
+            "Blast",
+            "Federal Policy",
+            "CONCEPT"
+        ],
+        [
+            "Southern Poverty Law Center",
+            "ORG",
+            "Plan",
+            "Legal Challenge",
+            "CONCEPT"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Age",
+            "19 to 64 Years Old",
+            "TIME"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Exempt",
+            "Certain Groups",
+            "PERSON"
+        ],
+        [
+            "Kentucky",
+            "GPE",
+            "Expand",
+            "Medicaid",
+            "ORG/GOV"
+        ],
+        [
+            "Medicaid",
+            "ORG/GOV",
+            "Under",
+            "Affordable Care Act",
+            "ORG/GOV"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Gain",
+            "Health Insurance",
+            "PRODUCT"
+        ],
+        [
+            "Adult Medicaid Recipients",
+            "PERSON",
+            "Have Jobs",
+            "CONCEPT"
+        ],
+        [
+            "Adult Medicaid Recipients",
+            "PERSON",
+            "Report",
+            "Major Impediments",
+            "CONCEPT"
+        ],
+        [
+            "Bevin",
+            "PERSON",
+            "Say",
+            "Program",
+            "ORG/GOV"
+        ],
+        [
+            "Bevin",
+            "PERSON",
+            "Say",
+            "Program",
+            "ORG/GOV"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Reduce",
+            "Number",
+            "QUANTITY"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Save",
+            "Money",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nine States",
+            "GPE",
+            "Propose",
+            "Similar Changes",
+            "CONCEPT"
+        ],
+        [
+            "States",
+            "GPE",
+            "Make",
+            "Reasonable Modifications",
+            "CONCEPT"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Battling",
+            "Opioid Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Medicaid Recipients",
+            "PERSON",
+            "Battling",
+            "Substance-Use Disorders",
+            "CONCEPT"
+        ]
+    ]
+}

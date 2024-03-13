@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Has",
+            "Trebek",
+            "PERSON"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Undergo",
+            "Surgery",
+            "EVENT"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Treated",
+            "Clots",
+            "CONCEPT"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Recover",
+            "Health",
+            "CONCEPT"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Expect",
+            "Return",
+            "EVENT"
+        ],
+        [
+            "Trebek",
+            "PERSON",
+            "Relate_To",
+            "Sony Pictures Entertainment",
+            "ORG"
+        ],
+        [
+            "Sony Pictures Entertainment",
+            "ORG",
+            "Produce",
+            "Jeopardy!",
+            "EVENT"
+        ],
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Postpone",
+            "College Championship",
+            "EVENT"
+        ],
+        [
+            "College Championship",
+            "EVENT",
+            "Air",
+            "April",
+            "GPE"
+        ],
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Tape",
+            "Studio",
+            "COMP"
+        ],
+        [
+            "Jeopardy!",
+            "EVENT",
+            "Operate_In",
+            "Television Industry",
+            "SECTOR"
+        ]
+    ]
+}

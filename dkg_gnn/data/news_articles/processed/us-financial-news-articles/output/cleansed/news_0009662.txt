@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Flew",
+            "10.7 Bln Revenue Passenger Miles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Operate_In",
+            "December 2017",
+            "EVENT"
+        ],
+        [
+            "10.4 Bln RPMS",
+            "ECON_INDICATOR",
+            "Impact_On",
+            "Southwest Airlines Co",
+            "COMP"
+        ],
+        [
+            "83.3 PERCENT",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "December Load Factor",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Estimate",
+            "Q4 2017 Operating Revenue PER ASM",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Q4 2017 Operating Revenue PER ASM",
+            "ECON_INDICATOR",
+            "Increase",
+            "One to Two PERCENT",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Available Seat Miles",
+            "12.9 Bln ASMS",
+            "ECON_INDICATOR"
+        ],
+        [
+            "12.6 Bln ASMS",
+            "ECON_INDICATOR",
+            "Impact_On",
+            "12.9 Bln ASMS",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Southwest Airlines Co",
+            "COMP",
+            "Report",
+            "December Traffic",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Idle Time",
+            "CONCEPT",
+            "Relate_To",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "Customer-oriented service facility",
+            "COMP",
+            "Has",
+            "Uncertainty in customer arrival times or service times",
+            "CONCEPT"
+        ],
+        [
+            "Queue of customers",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "800 numbers for technical support",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "Hospital emergency rooms",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "Emergency number 911",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "Retail stores",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "Fast food restaurants",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ],
+        [
+            "U.S. post offices",
+            "COMP",
+            "Is_Member_Of",
+            "Customer-oriented service facility",
+            "COMP"
+        ]
+    ]
+}

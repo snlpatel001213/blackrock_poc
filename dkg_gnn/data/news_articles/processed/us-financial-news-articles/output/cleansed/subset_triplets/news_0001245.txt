@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Introduce",
+            "Skinnygirl",
+            "PRODUCT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Operate_In",
+            "Housewives spin-off shows",
+            "EVENT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Participates_In",
+            "Bethenny & Fredrik",
+            "EVENT"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Control",
+            "Budding real estate career",
+            "SECTOR"
+        ],
+        [
+            "Bethenny Frankel",
+            "PERSON",
+            "Has",
+            "Good idea",
+            "CONCEPT"
+        ],
+        [
+            "Housewives spin-off shows",
+            "EVENT",
+            "Operate_In",
+            "Bravo",
+            "ORG"
+        ],
+        [
+            "Bethenny & Fredrik",
+            "EVENT",
+            "Participates_In",
+            "Bethenny Frankel",
+            "PERSON"
+        ],
+        [
+            "Bethenny & Fredrik",
+            "EVENT",
+            "Participates_In",
+            "Fredrik Eklund",
+            "PERSON"
+        ]
+    ]
+}

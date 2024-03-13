@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Under Armour",
+            "COMP",
+            "Downgrade",
+            "Negative",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Under Armour",
+            "COMP",
+            "Relate_To",
+            "Athletics Apparel",
+            "PRODUCT"
+        ],
+        [
+            "Susquehanna",
+            "ORG",
+            "Analysts",
+            "Under Armour",
+            "COMP"
+        ],
+        [
+            "Under Armour",
+            "COMP",
+            "Negative_Impact_On",
+            "Brand",
+            "CONCEPT"
+        ],
+        [
+            "Reebok",
+            "COMP",
+            "Relate_To",
+            "Under Armour",
+            "COMP"
+        ],
+        [
+            "Nike",
+            "COMP",
+            "Relate_To",
+            "Under Armour",
+            "COMP"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Raise",
+            "Full-Year Outlook",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Report",
+            "Stronger-than-Expected Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Target",
+            "COMP",
+            "Operate_In",
+            "Retailer",
+            "SECTOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Hike",
+            "Price Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Operate_In",
+            "E-Commerce",
+            "SECTOR"
+        ],
+        [
+            "Piper Jaffray",
+            "ORG",
+            "Analysts",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Penetration",
+            "Holiday Retail Spend",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Issue",
+            "Weaker-than-Expected Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Attribution",
+            "Loss of Exclusivity Revenue Headwinds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Allergan",
+            "COMP",
+            "Operate_In",
+            "Pharmaceutical",
+            "SECTOR"
+        ],
+        [
+            "Brent Saunders",
+            "PERSON",
+            "CEO",
+            "Allergan",
+            "COMP"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "Drop",
+            "Stock Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Urban Outfitters",
+            "COMP",
+            "Disappointment",
+            "Holiday Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seagate Technology",
+            "COMP",
+            "Issue",
+            "Gross Margin Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seagate Technology",
+            "COMP",
+            "Issue",
+            "Revenue Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seagate Technology",
+            "COMP",
+            "Issue",
+            "Shipment Guidance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seagate Technology",
+            "COMP",
+            "Invest",
+            "Ripple",
+            "COMP"
+        ],
+        [
+            "Ripple",
+            "COMP",
+            "Own",
+            "Cryptocurrency XRP",
+            "PRODUCT"
+        ],
+        [
+            "Berkshire Hathaway",
+            "COMP",
+            "Take",
+            "Windfall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Berkshire Hathaway",
+            "COMP",
+            "Lower",
+            "Tax Liability",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Conglomerate",
+            "Berkshire Hathaway",
+            "COMP"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Unveil",
+            "Autonomous Car",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Operate_In",
+            "Hardware Technology",
+            "SECTOR"
+        ],
+        [
+            "CES Expo",
+            "EVENT",
+            "Location",
+            "Las Vegas",
+            "GPE"
+        ],
+        [
+            "PayPal",
+            "COMP",
+            "Upgrade",
+            "Outperform",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PayPal",
+            "COMP",
+            "Operate_In",
+            "Payments Platform",
+            "SECTOR"
+        ],
+        [
+            "Cowen",
+            "ORG",
+            "Analysts",
+            "PayPal",
+            "COMP"
+        ],
+        [
+            "PayPal",
+            "COMP",
+            "Growth Trajectory",
+            "Compelling",
+            "CONCEPT"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Consider",
+            "Listing Shares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Operate_In",
+            "Hong Kong Stock Market",
+            "GPE"
+        ],
+        [
+            "Jack Ma",
+            "PERSON",
+            "Founder",
+            "Alibaba",
+            "COMP"
+        ]
+    ]
+}

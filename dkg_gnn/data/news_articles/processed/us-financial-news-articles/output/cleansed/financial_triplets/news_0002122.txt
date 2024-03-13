@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Arkema",
+            "ORG",
+            "Control",
+            "Bostik",
+            "ORG"
+        ],
+        [
+            "Arkema",
+            "ORG",
+            "Operate_In",
+            "France",
+            "GPE"
+        ],
+        [
+            "Arkema",
+            "ORG",
+            "Has",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Arkema",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Arkema",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Arkema",
+            "ORG",
+            "Has",
+            "Research Centers",
+            "CONCEPT"
+        ]
+    ]
+}

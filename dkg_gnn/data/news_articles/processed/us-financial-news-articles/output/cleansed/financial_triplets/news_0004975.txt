@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Rohingya Insurgents",
+            "PERSON",
+            "Has",
+            "ARSA",
+            "ORG"
+        ],
+        [
+            "ARSA",
+            "ORG",
+            "Announce",
+            "Fight",
+            "EVENT"
+        ],
+        [
+            "ARSA",
+            "ORG",
+            "Relate_To",
+            "Myanmar",
+            "GPE"
+        ],
+        [
+            "ARSA",
+            "ORG",
+            "Impact",
+            "Rohingya Community",
+            "PERSON"
+        ]
+    ]
+}

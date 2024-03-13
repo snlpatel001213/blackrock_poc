@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Announce",
+            "withhold payments",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Control",
+            "payments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Receive",
+            "payments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Negative_Impact_On",
+            "peace",
+            "CONCEPT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Participates_In",
+            "peace treaty",
+            "EVENT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Participates_In",
+            "peace treaty",
+            "EVENT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Relate_To",
+            "peace treaty",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Is_Member_Of",
+            "United States Government",
+            "ORG/GOV"
+        ],
+        [
+            "Eric Beech",
+            "PERSON",
+            "Reporting",
+            "Reporting",
+            "CONCEPT"
+        ],
+        [
+            "Sandra Maler",
+            "PERSON",
+            "Editing",
+            "Editing",
+            "CONCEPT"
+        ]
+    ]
+}

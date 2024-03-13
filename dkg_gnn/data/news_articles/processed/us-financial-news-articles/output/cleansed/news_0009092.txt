@@ -1,0 +1,97 @@
+{
+    "output": [
+        [
+            "HONG KKONG",
+            "GPE",
+            "Consider_Listing",
+            "Alibaba",
+            "COMP"
+        ],
+        [
+            "Jack Ma",
+            "PERSON",
+            "Warm_To",
+            "HONG KKONG",
+            "GPE"
+        ],
+        [
+            "Alibaba",
+            "COMP",
+            "Has_Subsidiaries",
+            "Ant Financial",
+            "COMP"
+        ],
+        [
+            "HKEX",
+            "ORG",
+            "Overhaul",
+            "HONG KKONG",
+            "GPE"
+        ],
+        [
+            "HKEX",
+            "ORG",
+            "Loosen",
+            "Restrictions",
+            "CONCEPT"
+        ],
+        [
+            "Alain Lam",
+            "PERSON",
+            "Told",
+            "Breakingviews Predictions",
+            "EVENT"
+        ],
+        [
+            "HKEX",
+            "ORG",
+            "Boost",
+            "Listing Volumes",
+            "CONCEPT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Beset_With",
+            "Scandals",
+            "CONCEPT"
+        ],
+        [
+            "Hong Kong",
+            "GPE",
+            "Has",
+            "Poorly_Run_Companies",
+            "CONCEPT"
+        ],
+        [
+            "Pru Bennett",
+            "PERSON",
+            "Told",
+            "Breakingviews Audience",
+            "EVENT"
+        ],
+        [
+            "New York",
+            "GPE",
+            "Listed_Chinese_Tech_Firms",
+            "Have",
+            "No_Dual_Class_Shares",
+            "CONCEPT"
+        ],
+        [
+            "Cayman Islands",
+            "GPE",
+            "Incorporated_Chinese_Tech_Firms",
+            "Have",
+            "No_Corporate_Governance_Standards",
+            "CONCEPT"
+        ],
+        [
+            "HKEX",
+            "ORG",
+            "Promise",
+            "Robust_Regulatory_Regime",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "output": [
+        [
+            "Ken Duane",
+            "PERSON",
+            "Is_Member_Of",
+            "PVH Heritage Brands",
+            "ORG"
+        ],
+        [
+            "Laura James",
+            "PERSON",
+            "Participates_In",
+            "Playworks NY/NJ",
+            "ORG",
+            "Ring",
+            "Opening Bell",
+            "EVENT"
+        ],
+        [
+            "Playworks NY/NJ",
+            "ORG",
+            "Participates_In",
+            "Opening Bell",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Control",
+            "Stocks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Say",
+            "We're basically buyers over time",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Share",
+            "His long-term investment strategy",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Mention",
+            "IBM",
+            "COMP"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Express",
+            "Thoughts on tax reform",
+            "CONCEPT"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Express",
+            "Thoughts on U.S. economy",
+            "CONCEPT"
+        ]
+    ]
+}

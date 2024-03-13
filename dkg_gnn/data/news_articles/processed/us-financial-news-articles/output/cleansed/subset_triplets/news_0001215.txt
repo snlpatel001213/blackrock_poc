@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Pakistan",
+            "GPE",
+            "Participates_In",
+            "Take_Down",
+            "ORG/REG"
+        ],
+        [
+            "Pakistan",
+            "GPE",
+            "Control",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Hafiz Saeed",
+            "PERSON",
+            "Is_Member_Of",
+            "Charities",
+            "ORG"
+        ],
+        [
+            "Charities",
+            "ORG",
+            "Relate_To",
+            "Terrorist_Front",
+            "CONCEPT"
+        ],
+        [
+            "Terrorist_Front",
+            "CONCEPT",
+            "Impact",
+            "Mumbai_Attacks",
+            "EVENT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Announce",
+            "Terrorist_Front",
+            "CONCEPT"
+        ]
+    ]
+}

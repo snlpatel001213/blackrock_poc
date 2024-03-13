@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Announce",
+            "Earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Operate_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Produce",
+            "Banking Services",
+            "SECTOR"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Control",
+            "MB Financial Bank",
+            "COMP"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Press Release",
+            "EVENT"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Investor Relations Website",
+            "PRODUCT"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Form 8-K",
+            "PRODUCT"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Earnings Release",
+            "PRODUCT"
+        ],
+        [
+            "MB Financial Inc.",
+            "ORG",
+            "Has",
+            "Archived Replay",
+            "PRODUCT"
+        ],
+        [
+            "MB Financial Bank",
+            "COMP",
+            "Operate_In",
+            "Chicago",
+            "GPE"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Earnings Release",
+            "PRODUCT"
+        ],
+        [
+            "Press Release",
+            "EVENT",
+            "Relate_To",
+            "Earnings Release",
+            "PRODUCT"
+        ],
+        [
+            "Investor Relations Website",
+            "PRODUCT",
+            "Relate_To",
+            "MB Financial Inc.",
+            "ORG"
+        ],
+        [
+            "Form 8-K",
+            "PRODUCT",
+            "Relate_To",
+            "MB Financial Inc.",
+            "ORG"
+        ],
+        [
+            "Earnings Release",
+            "PRODUCT",
+            "Relate_To",
+            "MB Financial Inc.",
+            "ORG"
+        ],
+        [
+            "Archived Replay",
+            "PRODUCT",
+            "Relate_To",
+            "MB Financial Inc.",
+            "ORG"
+        ]
+    ]
+}

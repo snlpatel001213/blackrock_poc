@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Powerball",
+            "EVENT",
+            "Participates_In",
+            "Lottery",
+            "ORG"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Participates_In",
+            "Lottery",
+            "ORG"
+        ],
+        [
+            "Powerball",
+            "EVENT",
+            "Relate_To",
+            "Lottery players",
+            "PERSON"
+        ],
+        [
+            "Mega Millions",
+            "EVENT",
+            "Relate_To",
+            "Lottery players",
+            "PERSON"
+        ]
+    ]
+}

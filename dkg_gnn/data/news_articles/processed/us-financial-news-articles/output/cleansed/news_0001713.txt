@@ -1,0 +1,104 @@
+{
+    "output": [
+        [
+            "Ricky",
+            "PERSON",
+            "Loves",
+            "Boxes",
+            "GPE"
+        ],
+        [
+            "Rocky",
+            "PERSON",
+            "Loves",
+            "Boxes",
+            "GPE"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Bought",
+            "Pet House",
+            "PRODUCT"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Owns",
+            "Ricky",
+            "PERSON"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Owns",
+            "Rocky",
+            "PERSON"
+        ],
+        [
+            "Amazon.com Inc.",
+            "COMP",
+            "Holiday Orders",
+            "Stacked Up",
+            "CONCEPT"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Home",
+            "Orlando",
+            "GPE"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Used",
+            "Box",
+            "PRODUCT"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Crafted",
+            "Cat Castle",
+            "PRODUCT"
+        ],
+        [
+            "Cat Castle",
+            "PRODUCT",
+            "Has",
+            "Turquoise Fabric",
+            "CONCEPT"
+        ],
+        [
+            "Cat Castle",
+            "PRODUCT",
+            "Has",
+            "White Fabric",
+            "CONCEPT"
+        ],
+        [
+            "Cat Castle",
+            "PRODUCT",
+            "Has",
+            "Blanketed Roof Deck",
+            "CONCEPT"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Cat Castle",
+            "For",
+            "Ricky",
+            "PERSON"
+        ],
+        [
+            "Andres Acosta",
+            "PERSON",
+            "Cat Castle",
+            "For",
+            "Rocky",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Lincoln Financial",
+            "ORG",
+            "Participates_In",
+            "SPDR Financial ETF (XLF)",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "DowDuPont",
+            "COMP",
+            "Participates_In",
+            "SPDR Financial ETF (XLF)",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "SPDR Financial ETF (XLF)",
+            "FIN_INSTRUMENT",
+            "Control",
+            "Financial and market instruments",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

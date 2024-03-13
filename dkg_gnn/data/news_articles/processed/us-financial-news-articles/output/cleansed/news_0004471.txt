@@ -1,0 +1,166 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Deny",
+            "Report",
+            "CONCEPT"
+        ],
+        [
+            "TASS",
+            "ORG",
+            "Quote",
+            "Defence Ministry",
+            "ORG/GOV"
+        ],
+        [
+            "Defence Ministry",
+            "ORG/GOV",
+            "Deny",
+            "Report",
+            "CONCEPT"
+        ],
+        [
+            "Kommersant",
+            "ORG",
+            "Report",
+            "Seven Russian Planes Destroyed",
+            "CONCEPT"
+        ],
+        [
+            "Hmeymim Air Base",
+            "GPE",
+            "Located in",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Rebel",
+            "ORG",
+            "Shelling",
+            "Hmeymim Air Base",
+            "GPE"
+        ],
+        [
+            "Kommersant",
+            "ORG",
+            "Cite",
+            "Two Military-Diplomatic Sources",
+            "CONCEPT"
+        ],
+        [
+            "Su-24 Bombers",
+            "PRODUCT",
+            "Destroyed by",
+            "Shelling",
+            "CONCEPT"
+        ],
+        [
+            "Su-35S Fighters",
+            "PRODUCT",
+            "Destroyed by",
+            "Shelling",
+            "CONCEPT"
+        ],
+        [
+            "An-72 Transport Plane",
+            "PRODUCT",
+            "Destroyed by",
+            "Shelling",
+            "CONCEPT"
+        ],
+        [
+            "Ammunition Depot",
+            "PRODUCT",
+            "Destroyed by",
+            "Shelling",
+            "CONCEPT"
+        ],
+        [
+            "Radical Islamists",
+            "ORG",
+            "Perform",
+            "Attack",
+            "CONCEPT"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "Say",
+            "Russian Air Group in Syria",
+            "ORG/GOV",
+            "Combat-Ready"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "Say",
+            "Two Russian Service Personnel",
+            "PERSON",
+            "Killed in",
+            "Mortar Attack",
+            "CONCEPT"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "Earlier Say",
+            "Mi-24 Helicopter",
+            "PRODUCT",
+            "Crash-Land",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Ministry",
+            "ORG/GOV",
+            "Earlier Say",
+            "Two Pilots",
+            "PERSON",
+            "Die",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Establish",
+            "Permanent Presence",
+            "CONCEPT",
+            "At",
+            "Hmeymim",
+            "GPE"
+        ],
+        [
+            "Russia",
+            "GPE",
+            "Establish",
+            "Permanent Presence",
+            "CONCEPT",
+            "At",
+            "Tartous",
+            "GPE"
+        ],
+        [
+            "President Vladimir Putin",
+            "PERSON",
+            "Order",
+            "Significant Withdrawal",
+            "CONCEPT",
+            "Of",
+            "Military",
+            "ORG",
+            "From",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Putin",
+            "PERSON",
+            "Declare",
+            "Work of Military Largely Done",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,1 @@
+{'output': [['U.S. Bancorp', 'COMP', 'Name', 'Andy Cecere', 'PERSON'], ['Andy Cecere', 'PERSON', 'Is_Member_Of', 'Board of Directors', 'ORG'], ['Board of Directors', 'ORG', 'Control', 'U.S. Bancorp', 'COMP'], ['U.S. Bancorp', 'COMP', 'Operate_In', 'United States', 'GPE'], ['David O’Maley', 'PERSON', 'Continue_In', 'Board’s Lead Independent Director', 'ORG']]}

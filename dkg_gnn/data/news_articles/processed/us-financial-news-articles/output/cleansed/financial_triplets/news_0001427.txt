@@ -1,0 +1,34 @@
+{
+    "output": [
+        [
+            "Gevo Inc.",
+            "ORG",
+            "Participates_In",
+            "Partnership",
+            "ORG"
+        ],
+        [
+            "Partnership",
+            "ORG",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Mike Willis",
+            "PERSON",
+            "Is_Member_Of",
+            "CO\u2018S",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Gruber",
+            "PERSON",
+            "Is_Member_Of",
+            "Gevo\u2018s",
+            "CONCEPT",
+            "Chief Executive Officer",
+            "PERSON"
+        ]
+    ]
+}

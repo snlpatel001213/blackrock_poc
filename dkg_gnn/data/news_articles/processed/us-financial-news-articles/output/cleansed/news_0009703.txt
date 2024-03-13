@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Yasuhiro Suzuki",
+            "PERSON",
+            "Admit",
+            "spiking",
+            "VERB"
+        ],
+        [
+            "Yasuhiro Suzuki",
+            "PERSON",
+            "Has",
+            "eight-year suspension",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yasuhiro Suzuki",
+            "PERSON",
+            "Faces",
+            "life ban",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yasuhiro Suzuki",
+            "PERSON",
+            "Impact",
+            "Seiji Komatsu",
+            "PERSON"
+        ],
+        [
+            "Seiji Komatsu",
+            "PERSON",
+            "Fail",
+            "drugs test",
+            "EVENT"
+        ],
+        [
+            "Seiji Komatsu",
+            "PERSON",
+            "Provisionally suspended",
+            "null",
+            "null"
+        ],
+        [
+            "Seiji Komatsu",
+            "PERSON",
+            "Resume",
+            "bid to qualify",
+            "VERB"
+        ],
+        [
+            "Seiji Komatsu",
+            "PERSON",
+            "Reveal",
+            "bad mental state",
+            "CONCEPT"
+        ],
+        [
+            "Japan Canoe Federation",
+            "ORG",
+            "Handled",
+            "incident",
+            "EVENT"
+        ],
+        [
+            "Japan Canoe Federation",
+            "ORG",
+            "Impose",
+            "life ban",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Has",
+            "anti-doping agency",
+            "ORG/REG"
+        ],
+        [
+            "Ishikawa prefecture police",
+            "ORG",
+            "Probe",
+            "incident",
+            "EVENT"
+        ],
+        [
+            "Komatsu",
+            "PERSON",
+            "Make",
+            "complaint",
+            "VERB"
+        ]
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Decide",
+            "waive U.S. penalties on Iran",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Relate_To",
+            "2015 Iran nuclear deal",
+            "EVENT"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Has",
+            "Secretary of State Rex Tillerson",
+            "PERSON"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Has",
+            "Defense Secretary Jim Mattis",
+            "PERSON"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Operate_In",
+            "White House",
+            "COMP"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Meet_With",
+            "Secretary of State Rex Tillerson",
+            "PERSON"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Meet_With",
+            "Defense Secretary Jim Mattis",
+            "PERSON"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Has",
+            "Steve Goldstein",
+            "PERSON"
+        ],
+        [
+            "Steve Goldstein",
+            "PERSON",
+            "Corrects",
+            "Goldstein\u2019s first name to Steve from David",
+            "CONCEPT"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Expect",
+            "a decision on Friday",
+            "TIME"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Has",
+            "ongoing discussions",
+            "CONCEPT"
+        ],
+        [
+            "State Department",
+            "ORG/GOV",
+            "Relate_To",
+            "this version of the story",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Reporting",
+            "Arshad Mohammed",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Writing",
+            "David Alexander",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Editing",
+            "Mohammad Zargham",
+            "PERSON"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Editing",
+            "James Dalgleish",
+            "PERSON"
+        ]
+    ]
+}

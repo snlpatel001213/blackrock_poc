@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Wall Street",
+            "GPE",
+            "Raise",
+            "S&P 500",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "Financial Markets",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Tech Stock Rally",
+            "CONCEPT",
+            "Relate_To",
+            "S&P 500",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tech Stock Rally",
+            "CONCEPT",
+            "Participates_In",
+            "Financial Markets",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

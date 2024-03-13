@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Theresa May",
+            "PERSON",
+            "Participates_In",
+            "Meeting with Financial Services Firms",
+            "EVENT"
+        ],
+        [
+            "Theresa May",
+            "PERSON",
+            "Relate_To",
+            "Brexit Talks",
+            "EVENT"
+        ],
+        [
+            "Financial Services Firms",
+            "ORG",
+            "Participates_In",
+            "Meeting with Theresa May",
+            "EVENT"
+        ],
+        [
+            "Financial Services Firms",
+            "ORG",
+            "Relate_To",
+            "Brexit",
+            "EVENT"
+        ],
+        [
+            "British Prime Minister",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Theresa May",
+            "PERSON"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Impact",
+            "Financial Services Firms",
+            "ORG"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Impact",
+            "Theresa May",
+            "PERSON"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Operate_In",
+            "March 2019",
+            "DATE"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Complain",
+            "Lack of Clarity in Brexit Preparations",
+            "CONCEPT"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Participates_In",
+            "Meeting with Theresa May",
+            "EVENT"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Relate_To",
+            "Brexit",
+            "EVENT"
+        ]
+    ]
+}

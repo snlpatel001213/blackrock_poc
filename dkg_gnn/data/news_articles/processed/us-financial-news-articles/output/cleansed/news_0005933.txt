@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Akebia Therapeutics",
+            "ORG",
+            "Has",
+            "vadadustat",
+            "PRODUCT"
+        ],
+        [
+            "Akebia Therapeutics",
+            "ORG",
+            "Operate_In",
+            "Chronic Kidney Disease",
+            "SECTOR"
+        ],
+        [
+            "Akebia Therapeutics",
+            "ORG",
+            "Participates_In",
+            "Phase 2 Study",
+            "EVENT"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Impact",
+            "Anemia",
+            "CONCEPT"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Operate_In",
+            "Dialysis-dependent chronic kidney disease",
+            "SECTOR"
+        ],
+        [
+            "Vadadustat",
+            "PRODUCT",
+            "Operate_In",
+            "Non-dialysis dependent chronic kidney disease",
+            "SECTOR"
+        ],
+        [
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG",
+            "Has",
+            "Phase 3 Study",
+            "EVENT"
+        ],
+        [
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG",
+            "Operate_In",
+            "Japan",
+            "GPE"
+        ],
+        [
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG",
+            "Participates_In",
+            "Phase 3 Studies",
+            "EVENT"
+        ],
+        [
+            "Collaboration Agreement",
+            "EVENT",
+            "Relate_To",
+            "Akebia Therapeutics",
+            "ORG"
+        ],
+        [
+            "Collaboration Agreement",
+            "EVENT",
+            "Relate_To",
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG"
+        ],
+        [
+            "Phase 3 Studies",
+            "EVENT",
+            "Impact",
+            "Akebia Therapeutics",
+            "ORG"
+        ],
+        [
+            "Phase 3 Studies",
+            "EVENT",
+            "Impact",
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG"
+        ],
+        [
+            "Milestone Payments",
+            "EVENT",
+            "Relate_To",
+            "Akebia Therapeutics",
+            "ORG"
+        ],
+        [
+            "Milestone Payments",
+            "EVENT",
+            "Relate_To",
+            "Mitsubishi Tanabe Pharma Corporation",
+            "ORG"
+        ]
+    ]
+}

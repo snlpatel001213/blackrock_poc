@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Air Lease Corp",
+            "COMP",
+            "Expects",
+            "40% Reduction",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air Lease Corp",
+            "COMP",
+            "Relate_To",
+            "Tax Cuts And Jobs Act",
+            "CONCEPT"
+        ],
+        [
+            "Air Lease Corp",
+            "COMP",
+            "Has",
+            "Deferred Tax Liability",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air Lease Corp",
+            "COMP",
+            "Revaluation",
+            "SEC Filing",
+            "ORG/REG"
+        ],
+        [
+            "Tax Cuts And Jobs Act",
+            "CONCEPT",
+            "Relate_To",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

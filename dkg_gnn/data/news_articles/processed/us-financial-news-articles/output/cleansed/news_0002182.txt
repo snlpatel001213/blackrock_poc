@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "U.K.",
+            "GPE",
+            "Ring_In",
+            "New Year",
+            "EVENT"
+        ],
+        [
+            "London",
+            "GPE",
+            "Operate_In",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "Edinburgh",
+            "GPE",
+            "Operate_In",
+            "U.K.",
+            "GPE"
+        ],
+        [
+            "Crowds",
+            "CONCEPT",
+            "Gathered",
+            "Fireworks",
+            "PRODUCT"
+        ],
+        [
+            "Fireworks",
+            "PRODUCT",
+            "Delighted",
+            "Crowds",
+            "CONCEPT"
+        ],
+        [
+            "2018",
+            "DATE",
+            "Ring_In",
+            "New Year",
+            "EVENT"
+        ]
+    ]
+}

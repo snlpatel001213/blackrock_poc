@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Turkey",
+            "GPE",
+            "Control",
+            "Euphrates Shield",
+            "OPERATION"
+        ],
+        [
+            "Euphrates Shield",
+            "OPERATION",
+            "Operate_In",
+            "Afrin",
+            "GPE"
+        ],
+        [
+            "Euphrates Shield",
+            "OPERATION",
+            "Operate_In",
+            "Manbij",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Announce",
+            "Euphrates Shield",
+            "OPERATION"
+        ],
+        [
+            "Euphrates Shield",
+            "OPERATION",
+            "Relate_To",
+            "Islamic State",
+            "CONCEPT"
+        ],
+        [
+            "Euphrates Shield",
+            "OPERATION",
+            "Relate_To",
+            "Syrian Kurdish fighters",
+            "PERSON"
+        ],
+        [
+            "Euphrates Shield",
+            "OPERATION",
+            "Negative_Impact_On",
+            "Terrorist corridor",
+            "CONCEPT"
+        ],
+        [
+            "Recep Tayyip Erdogan",
+            "PERSON",
+            "Speech",
+            "Euphrates Shield",
+            "OPERATION"
+        ],
+        [
+            "AK Party",
+            "ORG",
+            "Participates_In",
+            "Euphrates Shield",
+            "OPERATION"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Impact",
+            "Victims of Deadly Mudslides",
+            "EVENT"
+        ],
+        [
+            "Search",
+            "CONCEPT",
+            "Relate_To",
+            "Victims of Deadly Mudslides",
+            "EVENT"
+        ],
+        [
+            "Hopes",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Survivors",
+            "PERSON"
+        ],
+        [
+            "Diane Hodges",
+            "PERSON",
+            "Announce",
+            "Search for Victims of Deadly Mudslides",
+            "EVENT"
+        ]
+    ]
+}

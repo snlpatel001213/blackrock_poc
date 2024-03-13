@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Control",
+            "U.S. military",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Decrease",
+            "Transgender ban",
+            "CONCEPT"
+        ],
+        [
+            "Transgender people",
+            "PERSON",
+            "Operate_In",
+            "U.S. military",
+            "ORG/GOV"
+        ]
+    ]
+}

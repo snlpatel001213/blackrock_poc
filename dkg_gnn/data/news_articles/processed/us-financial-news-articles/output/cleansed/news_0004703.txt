@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Diageo",
+            "ORG",
+            "Remove",
+            "Advertising",
+            "PRODUCT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Looks_Into",
+            "Avoid",
+            "PRODUCT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Participates_In",
+            "Advertising Standards Authority",
+            "ORG/REG"
+        ],
+        [
+            "Captain Morgan",
+            "PRODUCT",
+            "Banned",
+            "Advertising",
+            "PRODUCT"
+        ],
+        [
+            "Captain Morgan",
+            "PRODUCT",
+            "Relate_To",
+            "Under_18s",
+            "CONCEPT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Has",
+            "Image-sharing App",
+            "PRODUCT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Relate_To",
+            "Unverified Age Information",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Use",
+            "Data",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Verify",
+            "Users Ages",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Disagree",
+            "AR Elements",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Expect",
+            "AR Applications",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "In_Hot_Competition",
+            "Instagram",
+            "COMP"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Announce",
+            "Redesign",
+            "PRODUCT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Spend",
+            "2.438 Billion Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Stopped",
+            "Advertising",
+            "PRODUCT"
+        ],
+        [
+            "Diageo",
+            "ORG",
+            "Assess",
+            "Age Verification Safeguards",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Investor",
+            "NBCUniversal",
+            "ORG"
+        ],
+        [
+            "Snapchat",
+            "COMP",
+            "Parent",
+            "Snap",
+            "COMP"
+        ]
+    ]
+}

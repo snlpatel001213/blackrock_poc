@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Plan_Sale",
+            "29% of stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Travis Kalanick",
+            "PERSON",
+            "Is_Member_Of",
+            "Uber",
+            "COMP"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Control",
+            "Stake",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

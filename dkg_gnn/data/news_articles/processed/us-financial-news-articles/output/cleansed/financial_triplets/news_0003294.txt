@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Announce",
+            "Merger",
+            "ORG"
+        ],
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Operate_In",
+            "Nashville-Davidson-Murfreesboro-Franklin, TN Metropolitan Statistical Area",
+            "GPE"
+        ],
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Has",
+            "Total Assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Has",
+            "Total Deposits",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Has",
+            "Gross Loans",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reliant Bank",
+            "ORG",
+            "Operate_In",
+            "Middle Tennessee and Chattanooga",
+            "GPE"
+        ],
+        [
+            "Reliant Bank",
+            "ORG",
+            "Operate_In",
+            "15 Branches",
+            "COMP"
+        ],
+        [
+            "Reliant Bank",
+            "ORG",
+            "Operate_In",
+            "2 Loan and Deposit Production Offices",
+            "COMP"
+        ],
+        [
+            "Reliant Bank",
+            "ORG",
+            "Operate_In",
+            "2 Mortgage Services Locations",
+            "COMP"
+        ],
+        [
+            "Reliant Bancorp",
+            "ORG",
+            "Has",
+            "Wholly-Owned Subsidiary",
+            "ORG"
+        ],
+        [
+            "Reliant Bank",
+            "ORG",
+            "Has",
+            "Wholly-Owned Bank Subsidiary",
+            "ORG"
+        ]
+    ]
+}

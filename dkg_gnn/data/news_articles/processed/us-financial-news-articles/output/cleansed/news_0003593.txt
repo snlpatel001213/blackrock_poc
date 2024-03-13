@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Russian military",
+            "ORG",
+            "Crash",
+            "MI-24 helicopter",
+            "PRODUCT"
+        ],
+        [
+            "MI-24 helicopter",
+            "PRODUCT",
+            "Operate_In",
+            "Russian military",
+            "ORG"
+        ],
+        [
+            "Russian Ministry of Defence",
+            "ORG",
+            "Announce",
+            "helicopter crash",
+            "EVENT"
+        ],
+        [
+            "Helicopter crash",
+            "EVENT",
+            "Relate_To",
+            "Dec. 31",
+            "DATE"
+        ],
+        [
+            "Helicopter crash",
+            "EVENT",
+            "Located_In",
+            "Syria",
+            "GPE"
+        ],
+        [
+            "Helicopter crash",
+            "EVENT",
+            "Negative_Impact_On",
+            "Russian military",
+            "ORG"
+        ],
+        [
+            "Helicopter crash",
+            "EVENT",
+            "Involve",
+            "two pilots",
+            "PERSON"
+        ],
+        [
+            "Helicopter crash",
+            "EVENT",
+            "Kill",
+            "two pilots",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Announce",
+            "Bond Breakdown",
+            "CONCEPT"
+        ],
+        [
+            "Louise Yamada",
+            "PERSON",
+            "Operate_In",
+            "Louise Yamada Technical Research Advisors",
+            "ORG"
+        ],
+        [
+            "US Interest Rates",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Longer-Term Trend",
+            "CONCEPT"
+        ]
+    ]
+}

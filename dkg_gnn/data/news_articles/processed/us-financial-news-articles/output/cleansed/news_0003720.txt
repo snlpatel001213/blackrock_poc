@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "ALLO Communications",
+            "ORG",
+            "Announce",
+            "Purchase",
+            "EVENT"
+        ],
+        [
+            "ALLO Communications",
+            "ORG",
+            "Operate_In",
+            "Hastings, Nebraska",
+            "GPE"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Has",
+            "Fiber Network",
+            "PRODUCT"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Has",
+            "Customer Contracts",
+            "PRODUCT"
+        ],
+        [
+            "Glenwood Telecommunications",
+            "ORG",
+            "Participates_In",
+            "Hastings, Nebraska Operations",
+            "EVENT"
+        ]
+    ]
+}

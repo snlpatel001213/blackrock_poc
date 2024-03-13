@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Nationwide",
+            "ORG",
+            "Announce",
+            "House prices in London fell",
+            "EVENT"
+        ],
+        [
+            "Nationwide",
+            "ORG",
+            "Announce",
+            "Prices in the U.K. capital decreased by 0.5 percent in 2017",
+            "EVENT"
+        ],
+        [
+            "London",
+            "GPE",
+            "Is_Member_Of",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Nationwide",
+            "ORG",
+            "Announce",
+            "House prices rose by 2.6 percent in the 12 months to December",
+            "EVENT"
+        ],
+        [
+            "Nationwide",
+            "ORG",
+            "Announce",
+            "Slowdown from the 4.5 percent growth recorded in 2016",
+            "EVENT"
+        ],
+        [
+            "Brexit",
+            "EVENT",
+            "Negative_Impact_On",
+            "Confidence in the British housing market",
+            "SECTOR"
+        ]
+    ]
+}

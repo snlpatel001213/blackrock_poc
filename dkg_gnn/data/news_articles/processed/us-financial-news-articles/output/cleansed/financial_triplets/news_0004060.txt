@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Produce",
+            "736,000 Barrels of Oil Equivalent Per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Operate_In",
+            "Upstream Production",
+            "SECTOR"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Produce",
+            "447,000 Barrels Per Day",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Announce",
+            "Resolved Commercial Dispute",
+            "CONCEPT"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Control",
+            "53.06%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Control",
+            "20.89%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Invests_In",
+            "Increased Share of Fort Hills Project Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Teck",
+            "ORG",
+            "Invests_In",
+            "Increased Share of Fort Hills Project Capital",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Suncor Energy Inc",
+            "ORG",
+            "Relate_To",
+            "Fort Hills Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Teck",
+            "ORG",
+            "Relate_To",
+            "Fort Hills Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Total E&P Canada",
+            "ORG",
+            "Participates_In",
+            "Commercial Dispute",
+            "CONCEPT"
+        ]
+    ]
+}

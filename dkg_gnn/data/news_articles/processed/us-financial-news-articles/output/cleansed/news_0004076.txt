@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Mark Zuckerberg",
+            "PERSON",
+            "Set",
+            "2018 goal",
+            "CONCEPT"
+        ],
+        [
+            "Facebook Inc",
+            "COMP",
+            "Has",
+            "CEO Zuckerberg",
+            "PERSON"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Fix",
+            "Facebook",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Operate_In",
+            "Social Media",
+            "SECTOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Has",
+            "Hate Speech",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Used_By",
+            "Russia",
+            "GPE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Used_By",
+            "Countries",
+            "GPE"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Criticized_For",
+            "Addictive Waste of Time",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Requires",
+            "Social Networks",
+            "SECTOR"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Require",
+            "Facebook",
+            "COMP"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Require",
+            "Twitter",
+            "COMP"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Criticize",
+            "Facebook",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Fail",
+            "Prevent",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Meddle",
+            "U.S. Elections",
+            "EVENT"
+        ],
+        [
+            "Ex-Facebook Executives",
+            "PERSON",
+            "Question",
+            "Using Facebook",
+            "COMP"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Learn",
+            "Issues",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Make",
+            "Mistakes",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Misuse",
+            "Tools",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Impact_On",
+            "Bottom Line",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Report",
+            "$16 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Report",
+            "$36 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Trade",
+            "$184.94",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Increase",
+            "0.1 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

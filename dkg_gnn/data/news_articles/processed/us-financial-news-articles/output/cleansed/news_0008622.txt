@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Announce",
+            "patches",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Negative_Impact_On",
+            "performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "personal computers",
+            "COMP"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "servers",
+            "COMP"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Negative_Impact_On",
+            "performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Control",
+            "chipsets",
+            "COMP"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Participates_In",
+            "customer complaints",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Microsoft",
+            "ORG/REG",
+            "Has",
+            "blog post",
+            "CONCEPT"
+        ],
+        [
+            "Security researchers",
+            "PERSON",
+            "Disclose",
+            "flaws",
+            "EVENT"
+        ],
+        [
+            "Nearly every modern computing device",
+            "GPE",
+            "Affected_By",
+            "flaws",
+            "EVENT"
+        ],
+        [
+            "Chips",
+            "COMP",
+            "Affected_By",
+            "flaws",
+            "EVENT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "microchips",
+            "COMP"
+        ],
+        [
+            "Rival AMD",
+            "COMP",
+            "Play_Down",
+            "threat",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Control",
+            "products",
+            "COMP"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "At_Risk_From",
+            "Meltdown",
+            "EVENT"
+        ],
+        [
+            "AMD",
+            "COMP",
+            "Affected_By",
+            "Spectre",
+            "EVENT"
+        ],
+        [
+            "Microsoft",
+            "ORG/REG",
+            "Work_With",
+            "AMD",
+            "COMP"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Produce",
+            "operating system software",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Fix",
+            "security flaw",
+            "EVENT"
+        ]
+    ]
+}

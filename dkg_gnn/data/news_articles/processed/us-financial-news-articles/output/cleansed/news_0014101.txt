@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "16 others",
+            "GPE"
+        ],
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Gain",
+            "Euro",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "U.S. Dollar",
+            "FIN_INSTRUMENT",
+            "Decline",
+            "Yen",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Central Banks",
+            "ORG/REG",
+            "Pull_Away_From",
+            "Stimulative_Policies",
+            "CONCEPT"
+        ],
+        [
+            "Bond Yields",
+            "ECON_INDICATOR",
+            "Lift",
+            null,
+            null
+        ]
+    ]
+}

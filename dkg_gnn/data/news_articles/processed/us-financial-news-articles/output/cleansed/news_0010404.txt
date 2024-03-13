@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Jpmorgan Chase & Co",
+            "COMP",
+            "Announce",
+            "Tax Savings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Jpmorgan Chase & Co",
+            "COMP",
+            "Operate_In",
+            "Financial Sector",
+            "SECTOR"
+        ],
+        [
+            "Jpmorgan CFO",
+            "PERSON",
+            "Say",
+            "Capital Markets' Reaction",
+            "EVENT"
+        ],
+        [
+            "Jpmorgan CFO",
+            "PERSON",
+            "Say",
+            "Loan Growth's Reaction",
+            "EVENT"
+        ],
+        [
+            "Jpmorgan CFO",
+            "PERSON",
+            "Say",
+            "Tax Law Stimulus' Impact",
+            "CONCEPT"
+        ]
+    ]
+}

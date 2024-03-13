@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Investment Company Institute (ICI)",
+            "ORG",
+            "Announce",
+            "Investors favor bonds and world stocks",
+            "CONCEPT"
+        ],
+        [
+            "Bonds",
+            "FIN_INSTRUMENT",
+            "Participates_In",
+            "Investors favor bonds and world stocks",
+            "CONCEPT"
+        ],
+        [
+            "World stocks",
+            "SECTOR",
+            "Participates_In",
+            "Investors favor bonds and world stocks",
+            "CONCEPT"
+        ],
+        [
+            "Stock funds",
+            "PRODUCT",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Funds focused on stocks abroad",
+            "PRODUCT",
+            "Operate_In",
+            "World",
+            "GPE"
+        ],
+        [
+            "Bond funds",
+            "PRODUCT",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Taxable-bond and world stock funds",
+            "PRODUCT",
+            "Has",
+            "56th in a row of inflows",
+            "CONCEPT"
+        ],
+        [
+            "Debt and non-domestic stock funds",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "2017",
+            "CONCEPT"
+        ]
+    ]
+}

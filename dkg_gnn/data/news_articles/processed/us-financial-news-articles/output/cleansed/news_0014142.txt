@@ -1,0 +1,114 @@
+{
+    "output": [
+        [
+            "YouTube",
+            "COMP",
+            "Remove",
+            "Logan Paul",
+            "PERSON"
+        ],
+        [
+            "YouTube",
+            "COMP",
+            "Operate_In",
+            "Google Preferred",
+            "ORG"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Participates_In",
+            "Google Preferred",
+            "ORG"
+        ],
+        [
+            "YouTube",
+            "COMP",
+            "Not_Feature",
+            "Logan Paul",
+            "PERSON",
+            "Season_4",
+            "SECTOR"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Has",
+            "Future_Projects",
+            "PRODUCT",
+            "On_Hold",
+            "SECTOR"
+        ],
+        [
+            "Google Preferred",
+            "ORG",
+            "Is_Member_Of",
+            "Alphabet Inc",
+            "ORG"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Apologize",
+            "Last_Week",
+            "TIME"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Post",
+            "Video",
+            "PRODUCT",
+            "Suicide_Forest",
+            "GPE"
+        ],
+        [
+            "YouTube",
+            "COMP",
+            "Upset",
+            "Video",
+            "PRODUCT"
+        ],
+        [
+            "Video",
+            "PRODUCT",
+            "Violate",
+            "YouTube_Guidelines",
+            "CONCEPT"
+        ],
+        [
+            "Logan Paul",
+            "PERSON",
+            "Not_Post",
+            "Videos",
+            "PRODUCT",
+            "Past_Week",
+            "TIME"
+        ],
+        [
+            "Logan Paul Vlogs",
+            "COMP",
+            "Active",
+            "YouTube",
+            "COMP"
+        ],
+        [
+            "Advertisers",
+            "ORG",
+            "Can_Choose",
+            "Advertise",
+            "VERB",
+            "Logan Paul Vlogs",
+            "COMP"
+        ],
+        [
+            "Advertisers",
+            "ORG",
+            "Can_Choose",
+            "Opt_Out",
+            "VERB",
+            "Logan Paul Vlogs",
+            "COMP"
+        ]
+    ]
+}

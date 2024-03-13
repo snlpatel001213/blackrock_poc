@@ -1,0 +1,41 @@
+{
+    "output": [
+        [
+            "Uber",
+            "COMP",
+            "Operate_In",
+            "York",
+            "GPE"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Relate_To",
+            "Data_Breach",
+            "CONCEPT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Relate_To",
+            "Complaints",
+            "CONCEPT"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Uber",
+            "COMP",
+            "Operate_In",
+            "Most_Important",
+            "SECTOR",
+            "European_Market",
+            "GPE"
+        ]
+    ]
+}

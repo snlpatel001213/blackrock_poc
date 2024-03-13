@@ -1,0 +1,85 @@
+{
+    "output": [
+        [
+            "Airbus",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Name",
+            "George Xu",
+            "PERSON",
+            "CEO",
+            "EXEC"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Name",
+            "Eric Chen",
+            "PERSON",
+            "Chairman",
+            "EXEC"
+        ],
+        [
+            "George Xu",
+            "PERSON",
+            "Relate_To",
+            "Airbus China",
+            "ORG"
+        ],
+        [
+            "Eric Chen",
+            "PERSON",
+            "Relate_To",
+            "Airbus China",
+            "ORG"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Impact",
+            "French President Emmanuel Macron\u2019s trip to China",
+            "EVENT"
+        ],
+        [
+            "Airbus",
+            "COMP",
+            "Announce",
+            "Contract",
+            "EVENT",
+            "China",
+            "GPE",
+            "184",
+            "NUM",
+            "A320",
+            "PRODUCT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Ambition",
+            "Sell",
+            "VERB",
+            "A350",
+            "PRODUCT",
+            "China",
+            "GPE"
+        ],
+        [
+            "France",
+            "GPE",
+            "Ambition",
+            "Sell",
+            "VERB",
+            "A380",
+            "PRODUCT",
+            "China",
+            "GPE"
+        ]
+    ]
+}

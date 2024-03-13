@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Testify",
+            "Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Relate_To",
+            "Ex-PM",
+            "PERSON"
+        ],
+        [
+            "Ex-PM",
+            "PERSON",
+            "Identified_As",
+            "Previous Prime Minister",
+            "ORG/GOV"
+        ],
+        [
+            "Ex-PM",
+            "PERSON",
+            "Impact",
+            "Corruption Crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Communist Party General Secretary Nguyen Phu Trong",
+            "PERSON",
+            "Win",
+            "Power Struggle",
+            "CONCEPT"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Accused_Of",
+            "Deliberate Mismanagement",
+            "CONCEPT"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Assign",
+            "PVC",
+            "COMP"
+        ],
+        [
+            "PVC",
+            "COMP",
+            "Not_Have",
+            "Capacity",
+            "CONCEPT"
+        ],
+        [
+            "PVC",
+            "COMP",
+            "Assign_To",
+            "Thai Binh 2 thermal power plant project",
+            "PROJECT"
+        ],
+        [
+            "Decision",
+            "CONCEPT",
+            "Policy_Of",
+            "Politburo",
+            "ORG"
+        ],
+        [
+            "Dinh La Thang",
+            "PERSON",
+            "Impatience",
+            "Violation_Of",
+            "Regulations"
+        ],
+        [
+            "Vietnamese Media",
+            "ORG",
+            "Watch",
+            "Video Feed",
+            "CONCEPT"
+        ],
+        [
+            "Scores of people",
+            "QUANTITY",
+            "Arrested",
+            "Anti-graft Campaign",
+            "CONCEPT"
+        ],
+        [
+            "Government Critics",
+            "ORG",
+            "Note",
+            "Detention_Of_Officials",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "On_Trial",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused_Over",
+            "Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Deny",
+            "Accusations",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Clear",
+            "Wrongdoing",
+            "CONCEPT"
+        ]
+    ]
+}

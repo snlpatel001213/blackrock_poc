@@ -1,0 +1,187 @@
+{
+    "output": [
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Pass",
+            "Another Round Number",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "What Investors Want",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Cross",
+            "25000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Cross",
+            "24000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Individual Investors",
+            "PERSON",
+            "Sit",
+            "It Out",
+            "CONCEPT"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Fewer Companies",
+            "COMP"
+        ],
+        [
+            "Dow Jones Industrial Average",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "Question",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Co.",
+            "COMP",
+            "Behind",
+            "Dow\u2019s Rise",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Co.",
+            "COMP",
+            "Best Performer",
+            "Lately",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Co.",
+            "COMP",
+            "Nearly Doubled",
+            "Over Past Year",
+            "CONCEPT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Count",
+            "About Eight Times",
+            "CONCEPT"
+        ],
+        [
+            "Pfizer Inc.",
+            "COMP",
+            "Worth More",
+            "CONCEPT"
+        ],
+        [
+            "Boeing Co.",
+            "COMP",
+            "Matters",
+            "CONCEPT"
+        ],
+        [
+            "Median Stock",
+            "COMP",
+            "Match",
+            "Index\u2019s Overall Return",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Median Stock",
+            "COMP",
+            "In",
+            "Dow",
+            "ORG"
+        ],
+        [
+            "Median Stock",
+            "COMP",
+            "Return",
+            "20%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Median Stock",
+            "COMP",
+            "In",
+            "S&P 500",
+            "ORG"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "In",
+            "Dow",
+            "ORG"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Bigger",
+            "Most S&P 500 Stocks",
+            "COMP"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Exposed",
+            "Strong Global Economy",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "ORG",
+            "Tilted",
+            "Growth",
+            "CONCEPT"
+        ],
+        [
+            "Growth",
+            "CONCEPT",
+            "In",
+            "Favor",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "ORG",
+            "Exactly",
+            "What Investors Want",
+            "CONCEPT"
+        ],
+        [
+            "Committee",
+            "ORG",
+            "Pick",
+            "Stocks",
+            "COMP",
+            "For",
+            "Dow",
+            "ORG"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Demonstrated",
+            "Sustained Growth",
+            "CONCEPT"
+        ],
+        [
+            "Dow",
+            "ORG",
+            "Function",
+            "Design",
+            "CONCEPT"
+        ]
+    ]
+}

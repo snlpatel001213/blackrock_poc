@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "M&G USA Corp",
+            "ORG",
+            "Bankrupt",
+            "NA",
+            "NA"
+        ],
+        [
+            "M&G USA Corp",
+            "ORG",
+            "Seek",
+            "Court Approval",
+            "ORG/GOV"
+        ],
+        [
+            "M&G USA Corp",
+            "ORG",
+            "Sell",
+            "Shuttered Plant",
+            "COMP"
+        ],
+        [
+            "Shuttered Plant",
+            "COMP",
+            "Locate In",
+            "West Virginia",
+            "GPE"
+        ],
+        [
+            "M&G USA Corp",
+            "ORG",
+            "Sell",
+            "Research Center",
+            "COMP"
+        ],
+        [
+            "Research Center",
+            "COMP",
+            "Locate In",
+            "Ohio",
+            "GPE"
+        ],
+        [
+            "Indorama Ventures Public Co Ltd",
+            "COMP",
+            "Buy",
+            "NA",
+            "NA"
+        ],
+        [
+            "Indorama Ventures Public Co Ltd",
+            "COMP",
+            "Of",
+            "Thailand",
+            "GPE"
+        ],
+        [
+            "Indorama Ventures Public Co Ltd",
+            "COMP",
+            "Serve",
+            "Stalking-Horse",
+            "NA"
+        ],
+        [
+            "Indorama Ventures Public Co Ltd",
+            "COMP",
+            "Set",
+            "Minimum Bid",
+            "NA"
+        ],
+        [
+            "Facilities",
+            "COMP",
+            "Locate In",
+            "Apple Grove",
+            "GPE"
+        ],
+        [
+            "Facilities",
+            "COMP",
+            "Locate In",
+            "Sharon Center",
+            "GPE"
+        ]
+    ]
+}

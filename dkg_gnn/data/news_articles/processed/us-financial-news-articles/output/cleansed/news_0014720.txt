@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Kohl\u2019s Corp",
+            "COMP",
+            "Plan",
+            "Lease Space",
+            "COMP"
+        ],
+        [
+            "Kohl\u2019s Corp",
+            "COMP",
+            "Operate_In",
+            "Retail Industry",
+            "SECTOR"
+        ],
+        [
+            "Kevin Mansell",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Grocery Stores",
+            "COMP",
+            "Be",
+            "Retailers",
+            "COMP"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Has",
+            "Roughly 300",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Operate_In",
+            "Suburbs",
+            "GPE"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Post",
+            "Strong Holiday Sales",
+            "EVENT"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Help",
+            "Online Sales",
+            "CONCEPT"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Help",
+            "Revamp of its Beauty Departments",
+            "CONCEPT"
+        ],
+        [
+            "Kohl\u2019s",
+            "COMP",
+            "Help",
+            "Partnerships with Brands",
+            "COMP"
+        ],
+        [
+            "Kohl\u2019s Shares",
+            "FIN_INSTRUMENT",
+            "Up 9 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kohl\u2019s Shares",
+            "FIN_INSTRUMENT",
+            "Hit",
+            "More Than One-Year High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Vibhuti Sharma",
+            "PERSON",
+            "Reporting",
+            "Bengaluru",
+            "GPE"
+        ],
+        [
+            "Saumyadeb Chakrabarty",
+            "PERSON",
+            "Editing",
+            "ICR Conference",
+            "EVENT"
+        ]
+    ]
+}

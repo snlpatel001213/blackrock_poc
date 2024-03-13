@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Operate_In",
+            "Economy",
+            "SECTOR"
+        ],
+        [
+            "Savings Accounts",
+            "PRODUCT",
+            "Operate_In",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "Online Banks",
+            "COMP",
+            "Operate_In",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "CDs",
+            "PRODUCT",
+            "Operate_In",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "Federal Deposit Insurance Corporation",
+            "ORG/GOV",
+            "Protects",
+            "Savings Accounts",
+            "PRODUCT"
+        ],
+        [
+            "Savings Accounts",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Growth of Savings",
+            "CONCEPT"
+        ],
+        [
+            "CDs",
+            "PRODUCT",
+            "Relate_To",
+            "Savings Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Banks",
+            "COMP",
+            "Has",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Banks",
+            "COMP",
+            "Has",
+            "Penalties",
+            "CONCEPT"
+        ],
+        [
+            "Savers",
+            "PERSON",
+            "Participates_In",
+            "CDs",
+            "PRODUCT"
+        ],
+        [
+            "Savers",
+            "PERSON",
+            "Participates_In",
+            "Savings Accounts",
+            "PRODUCT"
+        ],
+        [
+            "Savers",
+            "PERSON",
+            "Ladder",
+            "CDs",
+            "PRODUCT"
+        ]
+    ]
+}

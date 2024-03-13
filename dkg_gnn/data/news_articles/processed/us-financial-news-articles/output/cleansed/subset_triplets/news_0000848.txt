@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Announce",
+            "Retirement",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Operate_In",
+            "NFL",
+            "ORG/GOV"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Participates_In",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Cardinals",
+            "ORG",
+            "Operate_In",
+            "NFL",
+            "ORG/GOV"
+        ],
+        [
+            "Bruce Arians",
+            "PERSON",
+            "Announce",
+            "Retirement",
+            "CONCEPT"
+        ]
+    ]
+}

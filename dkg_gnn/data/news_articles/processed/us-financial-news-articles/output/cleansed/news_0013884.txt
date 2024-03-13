@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Intel",
+            "COMP",
+            "Announce",
+            "Updates",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Control",
+            "Processors",
+            "PRODUCT"
+        ],
+        [
+            "Security Researchers",
+            "PERSON",
+            "Disclose",
+            "Vulnerabilities",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Operate_In",
+            "Computer Industry",
+            "SECTOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Produce",
+            "Chips",
+            "PRODUCT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Impact",
+            "Performance",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Positive_Impact_On",
+            "Average User",
+            "PERSON"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Invests_In",
+            "Security Group",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "COMP",
+            "Decrease",
+            "Vulnerabilities",
+            "CONCEPT"
+        ],
+        [
+            "Epic",
+            "COMP",
+            "Produce",
+            "Chart",
+            "PRODUCT"
+        ],
+        [
+            "Amazon Web Services",
+            "COMP",
+            "Participates_In",
+            "Online Forums",
+            "PRODUCT"
+        ],
+        [
+            "Gaming Company",
+            "COMP",
+            "Experience",
+            "Issues",
+            "CONCEPT"
+        ],
+        [
+            "Cloud Provider",
+            "COMP",
+            "Experience",
+            "Issues",
+            "CONCEPT"
+        ]
+    ]
+}

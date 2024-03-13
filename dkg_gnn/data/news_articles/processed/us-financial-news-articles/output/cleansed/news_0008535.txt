@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Brick Brewing Co. Ltd",
+            "COMP",
+            "Announce",
+            "Resignation of CFO",
+            "PERSON"
+        ],
+        [
+            "Brick Brewing Co. Ltd",
+            "COMP",
+            "Announce",
+            "Appointment of New CFO",
+            "PERSON"
+        ],
+        [
+            "Brick Brewing Co. Ltd",
+            "COMP",
+            "Has",
+            "CFO",
+            "PERSON"
+        ],
+        [
+            "Byrne",
+            "PERSON",
+            "Resign",
+            "as",
+            "CFO"
+        ],
+        [
+            "Brick Brewing Co. Ltd",
+            "COMP",
+            "Is_Member_Of",
+            "Company Sector",
+            "SECTOR"
+        ],
+        [
+            "David Birch",
+            "PERSON",
+            "Appoint",
+            "as",
+            "CFO"
+        ],
+        [
+            "David Birch",
+            "PERSON",
+            "Participates_In",
+            "Company Sector",
+            "SECTOR"
+        ]
+    ]
+}

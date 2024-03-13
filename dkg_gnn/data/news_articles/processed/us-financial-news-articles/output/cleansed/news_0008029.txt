@@ -1,0 +1,65 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Monetary Policy",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Financial System",
+            "COMP"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "Financial Instabilities",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Relate_To",
+            "Employment and Inflation Mandate",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Prefer",
+            "Macroprudential Tools",
+            "CONCEPT"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Speak",
+            "Prepared Remarks",
+            "CONCEPT"
+        ],
+        [
+            "Loretta Mester",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Jonathan Spicer",
+            "PERSON",
+            "Report",
+            "Reuters"
+        ],
+        [
+            "Lisa Von Ahn",
+            "PERSON",
+            "Edit",
+            "Reuters"
+        ]
+    ]
+}

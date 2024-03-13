@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Lime Juice",
+            "PRODUCT",
+            "Has",
+            "3",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brunch",
+            "CONCEPT",
+            "Participates_In",
+            "Cooking Process",
+            "CONCEPT"
+        ],
+        [
+            "Yogurt",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Cooking Process",
+            "CONCEPT"
+        ],
+        [
+            "Friends",
+            "PERSON",
+            "Positive_Impact_On",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Creativity",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Grocery List",
+            "CONCEPT",
+            "Relate_To",
+            "Grocery Budget",
+            "CONCEPT"
+        ],
+        [
+            "Impulse Buys",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Grocery Budget",
+            "CONCEPT"
+        ],
+        [
+            "Homemade Yogurt",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Grocery Budget",
+            "CONCEPT"
+        ],
+        [
+            "Milk",
+            "PRODUCT",
+            "Produce",
+            "Homemade Yogurt",
+            "PRODUCT"
+        ],
+        [
+            "Yogurt With Active Bacteria",
+            "PRODUCT",
+            "Produce",
+            "Homemade Yogurt",
+            "PRODUCT"
+        ],
+        [
+            "Simplicity",
+            "CONCEPT",
+            "Positive_Impact_On",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Complex Meals",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Grocery Budget",
+            "CONCEPT"
+        ],
+        [
+            "Sauces",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Grocery Budget",
+            "CONCEPT"
+        ],
+        [
+            "Chilaquiles",
+            "PRODUCT",
+            "Relate_To",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "French Toast",
+            "PRODUCT",
+            "Relate_To",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Pancakes",
+            "PRODUCT",
+            "Relate_To",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Egg Casserole",
+            "PRODUCT",
+            "Relate_To",
+            "Brunch",
+            "CONCEPT"
+        ],
+        [
+            "Cooking",
+            "CONCEPT",
+            "Impact",
+            "Savings",
+            "CONCEPT"
+        ],
+        [
+            "Dining Out",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Savings",
+            "CONCEPT"
+        ],
+        [
+            "Boozy Brunch",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Savings",
+            "CONCEPT"
+        ],
+        [
+            "Homemade Meals",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Savings",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Greek subway workers",
+            "PERSON",
+            "Participates_In",
+            "Strike",
+            "EVENT"
+        ],
+        [
+            "Dockers",
+            "PERSON",
+            "Participates_In",
+            "Strike",
+            "EVENT"
+        ],
+        [
+            "State-employed doctors",
+            "PERSON",
+            "Participates_In",
+            "Strike",
+            "EVENT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Has",
+            "New Law",
+            "CONCEPT"
+        ],
+        [
+            "New Law",
+            "CONCEPT",
+            "Control",
+            "Strike Frequency",
+            "CONCEPT"
+        ],
+        [
+            "Credititors",
+            "ORG",
+            "Control",
+            "Greece",
+            "GPE"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Operate_In",
+            "EU",
+            "GPE"
+        ],
+        [
+            "OECD",
+            "ORG",
+            "Relate_To",
+            "Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Lag_Behind",
+            "EU Average",
+            "CONCEPT"
+        ],
+        [
+            "Strikes",
+            "EVENT",
+            "Negative_Impact_On",
+            "Productivity",
+            "CONCEPT"
+        ],
+        [
+            "GSEE",
+            "ORG",
+            "Is_Member_Of",
+            "Private-Sector Union",
+            "ORG"
+        ],
+        [
+            "GSEE",
+            "ORG",
+            "Back",
+            "Strike",
+            "EVENT"
+        ],
+        [
+            "Syriza Movement",
+            "ORG",
+            "Dominate",
+            "Government",
+            "ORG/GOV"
+        ],
+        [
+            "Greece",
+            "GPE",
+            "Exit",
+            "Bailout Program",
+            "CONCEPT"
+        ],
+        [
+            "Union Leader",
+            "PERSON",
+            "Say",
+            "Workers Continue to Strike",
+            "EVENT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Be",
+            "Trojan Horse",
+            "CONCEPT"
+        ],
+        [
+            "Neo-Liberalism",
+            "CONCEPT",
+            "Impact_On",
+            "Labor Rights",
+            "CONCEPT"
+        ]
+    ]
+}

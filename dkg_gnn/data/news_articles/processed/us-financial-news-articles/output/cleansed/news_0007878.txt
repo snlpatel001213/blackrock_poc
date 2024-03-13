@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Set_Aside",
+            "Order",
+            "EVENT"
+        ],
+        [
+            "Order",
+            "EVENT",
+            "Relate_To",
+            "Tobacco Packages Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco Packages Health Warnings",
+            "CONCEPT",
+            "Impact_On",
+            "Tobacco Industry",
+            "ORG"
+        ],
+        [
+            "Tobacco Industry",
+            "ORG",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Karnataka State High Court",
+            "ORG/GOV",
+            "Quash",
+            "Federal Rules",
+            "ORG"
+        ],
+        [
+            "Federal Rules",
+            "ORG",
+            "Mandate",
+            "Larger Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Health Warnings",
+            "CONCEPT",
+            "Cover",
+            "85 Percent",
+            "ECON_INDICATOR",
+            "of",
+            "Tobacco Pack Surface",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco-Control Activists",
+            "ORG",
+            "Petition",
+            "Supreme Court",
+            "ORG/GOV"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Stay",
+            "Karnataka Court Order",
+            "EVENT"
+        ],
+        [
+            "Health Advocates",
+            "ORG",
+            "Relieved",
+            "Supreme Court Decision",
+            "EVENT"
+        ],
+        [
+            "Federal Health Ministry",
+            "ORG/GOV",
+            "Support",
+            "Larger Health Warnings",
+            "CONCEPT"
+        ],
+        [
+            "Tobacco-Related Illnesses",
+            "CONCEPT",
+            "Kill",
+            "900000 People",
+            "ECON_INDICATOR",
+            "Annually",
+            "in",
+            "India",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Have",
+            "Stringent Tobacco Packaging Rules",
+            "CONCEPT"
+        ],
+        [
+            "Government Survey",
+            "ORG",
+            "Find",
+            "62 Percent",
+            "ECON_INDICATOR",
+            "of",
+            "Cigarette Smokers",
+            "PERSON",
+            "Thought",
+            "of",
+            "Quitting",
+            "VERB",
+            "Because",
+            "of",
+            "Warning Labels",
+            "CONCEPT"
+        ],
+        [
+            "Cigarette Makers",
+            "ORG",
+            "Protest",
+            "Health Warning Measures",
+            "CONCEPT"
+        ],
+        [
+            "Industry Executives",
+            "ORG",
+            "Attend",
+            "Supreme Court Proceedings",
+            "EVENT"
+        ],
+        [
+            "Supreme Court",
+            "ORG/GOV",
+            "Next Hear",
+            "Case",
+            "EVENT",
+            "on",
+            "March 12",
+            "DATE"
+        ]
+    ]
+}

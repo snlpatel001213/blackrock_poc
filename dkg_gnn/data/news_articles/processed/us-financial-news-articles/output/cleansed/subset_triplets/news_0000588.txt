@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Announce",
+            "One U.S. service member",
+            "PERSON"
+        ],
+        [
+            "U.S. Military",
+            "ORG/GOV",
+            "Participates_In",
+            "Combat engagement",
+            "CONCEPT"
+        ],
+        [
+            "Nangarhar",
+            "GPE",
+            "Has",
+            "Islamic State",
+            "ORG"
+        ],
+        [
+            "Taliban",
+            "ORG",
+            "Relate_To",
+            "Islamic State",
+            "ORG"
+        ]
+    ]
+}

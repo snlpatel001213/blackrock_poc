@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Has",
+            "Wave of Megamergers",
+            "EVENT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Has",
+            "Conditions Right for Sequel",
+            "EVENT"
+        ],
+        [
+            "Pfizer",
+            "COMP",
+            "Announce",
+            "Acquisition of Wyeth",
+            "ORG"
+        ],
+        [
+            "Merck & Co.",
+            "COMP",
+            "Announce",
+            "Acquisition of Schering-Plough",
+            "ORG"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Raise",
+            "Concerns about Growth",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Raise",
+            "Tougher Regulations",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Companies",
+            "SECTOR",
+            "Boost",
+            "List Prices",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Companies",
+            "SECTOR",
+            "Pay",
+            "Rebates to PBMs",
+            "ORG"
+        ],
+        [
+            "Biopharma Companies",
+            "SECTOR",
+            "Reduced Ability to Increase",
+            "Net Realized Price",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Relate_To",
+            "Consolidation in Health Care",
+            "SECTOR"
+        ],
+        [
+            "Pfizer",
+            "COMP",
+            "Participates_In",
+            "Acquisition of Medivation",
+            "ORG"
+        ],
+        [
+            "Gilead Sciences",
+            "COMP",
+            "Participates_In",
+            "Acquisition of Kite Pharma",
+            "ORG"
+        ],
+        [
+            "Pfizer",
+            "COMP",
+            "Control",
+            "Medivation",
+            "ORG"
+        ],
+        [
+            "Gilead Sciences",
+            "COMP",
+            "Control",
+            "Kite Pharma",
+            "ORG"
+        ],
+        [
+            "Pfizer",
+            "COMP",
+            "Impact",
+            "Relative Scarcity of Targets",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ],
+        [
+            "Pharmaceutical Companies",
+            "SECTOR",
+            "Invests_In",
+            "Branded Drug Companies",
+            "SECTOR"
+        ],
+        [
+            "Pharmaceutical Companies",
+            "SECTOR",
+            "Participates_In",
+            "Opportunities for Partnering",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Face",
+            "Regulatory Approval",
+            "CONCEPT"
+        ],
+        [
+            "Pharmaceutical Industry",
+            "SECTOR",
+            "Face",
+            "Integration Concerns",
+            "CONCEPT"
+        ]
+    ]
+}

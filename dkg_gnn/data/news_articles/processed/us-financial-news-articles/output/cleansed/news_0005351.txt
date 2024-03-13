@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Justin Timberlake",
+            "PERSON",
+            "Release",
+            "Filthy",
+            "PRODUCT"
+        ],
+        [
+            "Justin Timberlake",
+            "PERSON",
+            "Operate_In",
+            "Music Industry",
+            "SECTOR"
+        ],
+        [
+            "Filthy",
+            "PRODUCT",
+            "Introduce",
+            "Man Of The Woods",
+            "ALBUM"
+        ],
+        [
+            "Man Of The Woods",
+            "ALBUM",
+            "Is_Member_Of",
+            "Fourth Studio Album",
+            "CONCEPT"
+        ]
+    ]
+}

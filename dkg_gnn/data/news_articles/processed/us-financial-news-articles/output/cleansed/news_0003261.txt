@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "The Wall Street Journal",
+            "ORG",
+            "Produce",
+            "News",
+            "PRODUCT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Experience",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Government",
+            "ORG"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Threaten",
+            "Sanctions",
+            "ORG/GOV"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Participates_In",
+            "Government",
+            "ORG"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Relate_To",
+            "Moderates",
+            "SECTOR"
+        ],
+        [
+            "Population",
+            "CONCEPT",
+            "Experience",
+            "Change",
+            "CONCEPT"
+        ],
+        [
+            "September",
+            "EVENT",
+            "Relate_To",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Impact",
+            "Iran",
+            "GPE"
+        ]
+    ]
+}

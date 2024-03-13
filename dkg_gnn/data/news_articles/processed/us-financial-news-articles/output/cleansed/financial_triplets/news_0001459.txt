@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "yuan midpoint",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "yuan midpoint",
+            "ECON_INDICATOR",
+            "Impact",
+            "dollar",
+            "GPE"
+        ],
+        [
+            "dollar",
+            "GPE",
+            "Impact",
+            "yuan midpoint",
+            "ECON_INDICATOR"
+        ],
+        [
+            "dollar",
+            "GPE",
+            "Impact",
+            "yuan midpoint",
+            "ECON_INDICATOR"
+        ],
+        [
+            "dollar",
+            "GPE",
+            "Impact",
+            "basket of major currencies",
+            "GPE"
+        ]
+    ]
+}

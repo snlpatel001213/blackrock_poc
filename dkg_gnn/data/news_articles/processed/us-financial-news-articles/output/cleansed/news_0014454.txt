@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Czech election",
+            "EVENT",
+            "Relate_To",
+            "President",
+            "PERSON"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Has",
+            "anti-immigrant stance",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Has",
+            "eurosceptic stance",
+            "CONCEPT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Divide",
+            "Czech Republic",
+            "GPE"
+        ],
+        [
+            "Czech Republic",
+            "GPE",
+            "Head_To",
+            "vote",
+            "EVENT"
+        ],
+        [
+            "President",
+            "PERSON",
+            "Expected_To",
+            "be chosen again",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Manchester United",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Manchester United",
+            "GPE",
+            "Participates_In",
+            "League",
+            "SECTOR"
+        ],
+        [
+            "Jesse Lingard",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Jesse Lingard",
+            "PERSON",
+            "Relate_To",
+            "Purple Patch",
+            "CONCEPT"
+        ],
+        [
+            "Ander Herrera",
+            "PERSON",
+            "Advise",
+            "Jesse Lingard",
+            "PERSON"
+        ],
+        [
+            "Ander Herrera",
+            "PERSON",
+            "Operate_In",
+            "Manchester United",
+            "GPE"
+        ],
+        [
+            "Anthony Martial",
+            "PERSON",
+            "Perform",
+            "Fantastic",
+            "CONCEPT"
+        ],
+        [
+            "Anthony Martial",
+            "PERSON",
+            "Play",
+            "Striker",
+            "SECTOR"
+        ],
+        [
+            "Jose Mourinho",
+            "PERSON",
+            "Manage",
+            "Manchester United",
+            "GPE"
+        ],
+        [
+            "Chelsea",
+            "GPE",
+            "Compete",
+            "League",
+            "SECTOR"
+        ],
+        [
+            "Arsenal",
+            "GPE",
+            "Compete",
+            "League",
+            "SECTOR"
+        ],
+        [
+            "Derby County",
+            "GPE",
+            "Compete",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Stoke City",
+            "GPE",
+            "Compete",
+            "League",
+            "SECTOR"
+        ]
+    ]
+}

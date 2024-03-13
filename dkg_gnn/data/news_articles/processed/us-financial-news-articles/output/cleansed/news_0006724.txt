@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Announce",
+            "Close Asset Purchase Agreement",
+            "EVENT"
+        ],
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Acquire",
+            "Certain Assets of Ngen TechnologiesUSA, Corp.",
+            "ORG"
+        ],
+        [
+            "Certain Assets of Ngen TechnologiesUSA, Corp.",
+            "ORG",
+            "Center_Around",
+            "Ngen\u2019s automotive technologies business",
+            "CONCEPT"
+        ],
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Issue",
+            "1,000 Shares of Series E Preferred Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "1,000 Shares of Series E Preferred Stock",
+            "FIN_INSTRUMENT",
+            "Convertible",
+            "85% of the Issued and Outstanding Common Stock of the Company",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Divest",
+            "Carmela\u2019s Pizzeria Co, Inc.",
+            "ORG"
+        ],
+        [
+            "Carmela\u2019s Pizzeria Co, Inc.",
+            "ORG",
+            "Include",
+            "All of Carmela\u2019s Liabilities",
+            "CONCEPT"
+        ],
+        [
+            "Carmela\u2019s Pizzeria Co, Inc.",
+            "ORG",
+            "Include",
+            "Approximately $193,000 of Convertible Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Restructure",
+            "Company",
+            "CONCEPT"
+        ],
+        [
+            "Greenfield Farms Farms Food, Inc.",
+            "COMP",
+            "Produce and Deliver",
+            "State of the Art Automotive Technology Products",
+            "PRODUCT"
+        ],
+        [
+            "Greenfield Farms Food, Inc.",
+            "COMP",
+            "Operate_In",
+            "Automotive Technology Business",
+            "CONCEPT"
+        ]
+    ]
+}

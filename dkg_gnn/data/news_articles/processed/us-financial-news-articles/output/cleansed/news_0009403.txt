@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Says",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Says",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Willing_To_Hold_Talks_With",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Willing_To_Hold_Talks_With",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Willing_To_Hold_Talks_With",
+            "Tough Stance",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tough_Stance",
+            "North Korea",
+            "GPE"
+        ]
+    ]
+}

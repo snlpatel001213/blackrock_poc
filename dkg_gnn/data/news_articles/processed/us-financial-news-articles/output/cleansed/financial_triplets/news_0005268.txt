@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Raise",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Operate_In",
+            "Strong Economy",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Tax Cuts",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Control",
+            "Three Rate Hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Tightening",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Operate_In",
+            "Unprecedented Leadership Overhaul",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Full Capacity",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Low Risk",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Gradual Tightening",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Data Change",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Response",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Modest, Positive Effect",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Consumer Spending",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Business Investment",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "Recovery From Recession",
+            "CONCEPT"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "2 Percent Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Economy",
+            "CONCEPT",
+            "Operate_In",
+            "4 Percent Unemployment",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

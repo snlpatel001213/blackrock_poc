@@ -1,0 +1,227 @@
+{
+    "output": [
+        [
+            "Roger Federer",
+            "PERSON",
+            "Has",
+            "19",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Defend",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Take_No_Part",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Andy Murray",
+            "PERSON",
+            "Carry",
+            "Hip Injury",
+            "CONCEPT"
+        ],
+        [
+            "Murray\u2019s hip injury",
+            "CONCEPT",
+            "Cast",
+            "Huge Cloud",
+            "CONCEPT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Miss",
+            "Brisbane warm-up event",
+            "EVENT"
+        ],
+        [
+            "Rafael Nadal",
+            "PERSON",
+            "Carry",
+            "Knee Injury",
+            "CONCEPT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Not_Play",
+            "Competitive Match",
+            "CONCEPT"
+        ],
+        [
+            "Novak Djokovic",
+            "PERSON",
+            "Have",
+            "Elbow Problem",
+            "CONCEPT"
+        ],
+        [
+            "Stan Wawrinka",
+            "PERSON",
+            "Still_Getting_Up_To_Speed",
+            "Injury Break",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Just_Back",
+            "Six-Month Layoff",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Claim",
+            "Title",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Beat",
+            "Nadal",
+            "PERSON"
+        ],
+        [
+            "Nadal",
+            "PERSON",
+            "Fight_Off",
+            "Injury Demons",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Deliver",
+            "Major",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Display",
+            "Freedom",
+            "CONCEPT"
+        ],
+        [
+            "Wawrinka",
+            "PERSON",
+            "End",
+            "Last Season",
+            "CONCEPT"
+        ],
+        [
+            "Wawrinka",
+            "PERSON",
+            "Come_Back",
+            "Major",
+            "CONCEPT"
+        ],
+        [
+            "Wawrinka",
+            "PERSON",
+            "Deliver",
+            "Major",
+            "CONCEPT"
+        ],
+        [
+            "Wawrinka",
+            "PERSON",
+            "Dangerous",
+            "All_Other_Guys",
+            "CONCEPT"
+        ],
+        [
+            "Men\u2019s Game",
+            "SECTOR",
+            "Raise",
+            "Questions",
+            "CONCEPT"
+        ],
+        [
+            "Men\u2019s Game",
+            "SECTOR",
+            "Have",
+            "Demands",
+            "CONCEPT"
+        ],
+        [
+            "Top_Guys",
+            "CONCEPT",
+            "Stay",
+            "Top_Longer",
+            "CONCEPT"
+        ],
+        [
+            "Top_Guys",
+            "CONCEPT",
+            "Look_After",
+            "Themselves",
+            "CONCEPT"
+        ],
+        [
+            "Top_Guys",
+            "CONCEPT",
+            "More_Miles_On_The_Clock",
+            "CONCEPT"
+        ],
+        [
+            "Top_Guys",
+            "CONCEPT",
+            "Result_In",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Novak",
+            "PERSON",
+            "Elbow",
+            "CONCEPT"
+        ],
+        [
+            "Rafa",
+            "PERSON",
+            "Knee",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Knee",
+            "CONCEPT"
+        ],
+        [
+            "Murray",
+            "PERSON",
+            "Hip",
+            "CONCEPT"
+        ],
+        [
+            "Younger_Guys",
+            "CONCEPT",
+            "Not_Take_Places",
+            "CONCEPT"
+        ],
+        [
+            "Federer",
+            "PERSON",
+            "Intimidating",
+            "CONCEPT"
+        ],
+        [
+            "Nadal",
+            "PERSON",
+            "Intimidating",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Mark Mobius",
+            "PERSON",
+            "Is_Member_Of",
+            "Franklin Templeton Investments",
+            "ORG"
+        ],
+        [
+            "Franklin Templeton Investments",
+            "ORG",
+            "Raise",
+            "Mark Mobius Retirement",
+            "EVENT"
+        ]
+    ]
+}

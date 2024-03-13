@@ -1,0 +1,82 @@
+{
+    "output": [
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Announce",
+            "Strategic Licensing Agreement",
+            "EVENT"
+        ],
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Control",
+            "Apabetalone",
+            "PRODUCT"
+        ],
+        [
+            "Medison Pharma Ltd",
+            "COMP",
+            "Participates_In",
+            "Strategic Licensing Agreement",
+            "EVENT"
+        ],
+        [
+            "Medison Pharma",
+            "COMP",
+            "Has",
+            "Exclusive Rights",
+            "NONE",
+            "To",
+            "Distribute_And_Market",
+            "NONE",
+            "Apabetalone",
+            "PRODUCT",
+            "In",
+            "NONE",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Relate_To",
+            "Ascending Double Digit Royalties",
+            "NONE",
+            "Based_On",
+            "Future Net Sales",
+            "NONE",
+            "Of",
+            "NONE",
+            "Product",
+            "NONE",
+            "In",
+            "NONE",
+            "Region",
+            "GPE"
+        ],
+        [
+            "Resverlogix Corp",
+            "COMP",
+            "Enter",
+            "Licensing Agreement",
+            "EVENT",
+            "With",
+            "Medison Pharma",
+            "COMP",
+            "For",
+            "NONE",
+            "Lead Therapeutic Candidate",
+            "NONE",
+            "Apabetalone",
+            "PRODUCT",
+            "In",
+            "NONE",
+            "Israel",
+            "GPE",
+            "And",
+            "Palestine Authority",
+            "GPE"
+        ]
+    ]
+}

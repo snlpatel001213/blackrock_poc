@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Consider",
+            "New Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Jerome Powell",
+            "PERSON",
+            "Operate_In",
+            "Federal Reserve",
+            "ORG/REG"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Has",
+            "Simple Inflation Target",
+            "CONCEPT"
+        ],
+        [
+            "Federal Reserve",
+            "ORG/REG",
+            "Impact",
+            "U.S. Inflation",
+            "CONCEPT"
+        ],
+        [
+            "Regional Fed Bank Presidents",
+            "ORG/REG",
+            "Urge",
+            "Further Study",
+            "CONCEPT"
+        ],
+        [
+            "Regional Fed Bank Presidents",
+            "ORG/REG",
+            "Participates_In",
+            "Majority",
+            "CONCEPT"
+        ],
+        [
+            "Charles Evans",
+            "PERSON",
+            "Urge",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "John Williams",
+            "PERSON",
+            "Urge",
+            "Changes",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Operate_In",
+            "Congressional Mandate",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Has",
+            "Two Mandates",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Raise",
+            "Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Proponents",
+            "PERSON",
+            "Say",
+            "Healthy Economy Warrants",
+            "CONCEPT"
+        ],
+        [
+            "Opponents",
+            "PERSON",
+            "Warn",
+            "Needless Rate Increase",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Discuss",
+            "Different Regimes",
+            "CONCEPT"
+        ],
+        [
+            "Fed",
+            "ORG/REG",
+            "Put",
+            "Numbers",
+            "CONCEPT"
+        ],
+        [
+            "Jonathan Spicer",
+            "PERSON",
+            "Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Howard Schneider",
+            "PERSON",
+            "Additional Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Ann Saphir",
+            "PERSON",
+            "Additional Reporting",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "Chizu Nomiyama",
+            "PERSON",
+            "Editing",
+            "Reuters",
+            "ORG"
+        ]
+    ]
+}

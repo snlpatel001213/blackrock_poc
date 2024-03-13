@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "House Intelligence Committee",
+            "ORG/GOV",
+            "Expect",
+            "activities of the research firm",
+            "ORG"
+        ],
+        [
+            "House Intelligence Committee",
+            "ORG/GOV",
+            "Access",
+            "banking records",
+            "ECON_INDICATOR"
+        ],
+        [
+            "House Intelligence Committee",
+            "ORG/GOV",
+            "Access",
+            "federal law-enforcement material",
+            "ORG/REG"
+        ],
+        [
+            "Fusion GPS",
+            "ORG",
+            "Hired",
+            "during the 2016 campaign",
+            "EVENT"
+        ],
+        [
+            "Fusion GPS",
+            "ORG",
+            "Conduct",
+            "research on Mr. Trump\u2019s ties to Russia",
+            "GPE"
+        ],
+        [
+            "Republican-run committee",
+            "ORG/GOV",
+            "Win",
+            "access to",
+            "ORG"
+        ],
+        [
+            "U.S. investigators",
+            "ORG/GOV",
+            "Looking into",
+            "contacts",
+            "CONCEPT"
+        ],
+        [
+            "contacts",
+            "CONCEPT",
+            "Between",
+            "several current and former associates of Donald Trump",
+            "PERSON"
+        ],
+        [
+            "contacts",
+            "CONCEPT",
+            "And",
+            "Russian individuals",
+            "PERSON"
+        ],
+        [
+            "Russian individuals",
+            "PERSON",
+            "With direct ties to",
+            "Russian government or state-owned entities",
+            "ORG/GOV"
+        ]
+    ]
+}

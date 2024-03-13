@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Break",
+            "25,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Take_Credit",
+            "Dow Breaking 25,000",
+            "EVENT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Hope",
+            "More Gains",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Say",
+            "Our New Number is 30,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Speak",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "US Market",
+            "SECTOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Guess",
+            "30,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Speak",
+            "11th Month",
+            "TIME"
+        ],
+        [
+            "Private Sector",
+            "SECTOR",
+            "Add",
+            "250,000 Jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "ADP",
+            "ORG",
+            "Report",
+            "Strong Jobs Data",
+            "EVENT"
+        ],
+        [
+            "Moody's Analytics",
+            "ORG",
+            "Report",
+            "Strong Jobs Data",
+            "EVENT"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "Expect",
+            "Gain of 190,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Rise Sharply",
+            "Trump Elected",
+            "EVENT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Shoot Up",
+            "36 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "S&P 500",
+            "FIN_INSTRUMENT",
+            "Up",
+            "27 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tout",
+            "Market's Surge",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Speak",
+            "Predecessors",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Stock Market 52 Times",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Dow Just Crashes Through 25,000",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Tweet",
+            "Big Cuts in Unnecessary Regulations Continuing",
+            "EVENT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Mean",
+            "Jobs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Mean",
+            "Success",
+            "ECON_INDICATOR"
+        ],
+        [
+            "401(k)'s",
+            "FIN_INSTRUMENT",
+            "Flourish",
+            "Dow Go Up",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

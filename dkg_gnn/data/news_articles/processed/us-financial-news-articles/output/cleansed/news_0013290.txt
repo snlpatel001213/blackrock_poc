@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Mansell",
+            "PERSON"
+        ],
+        [
+            "Mansell",
+            "PERSON",
+            "Told",
+            "CNBC",
+            "ORG/REG"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Operate_In",
+            "Malls",
+            "GPE"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Operate_In",
+            "Off-mall",
+            "GPE"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Operate_In",
+            "Free-standing",
+            "GPE"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Operate_In",
+            "Easy to get in",
+            "GPE"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Operate_In",
+            "Easy to get out",
+            "GPE"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Three pillars",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Brands",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Value",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Convenience",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Greatness Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "New initiatives",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Amazon partnership",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Impact",
+            "Consumer sentiment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Focused_On",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Has",
+            "Customer engagement",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Shared values",
+            "CONCEPT"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "Amazon pilot",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Decline",
+            "CNBC request",
+            "ORG/REG"
+        ],
+        [
+            "Kohl's",
+            "COMP",
+            "Has",
+            "CEO",
+            "PERSON"
+        ]
+    ]
+}

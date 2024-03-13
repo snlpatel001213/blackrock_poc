@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "El Paso Electric",
+            "COMP",
+            "Release",
+            "fourth quarter 2017 earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "El Paso Electric",
+            "COMP",
+            "Operate_In",
+            "Rio Grande valley",
+            "GPE"
+        ],
+        [
+            "Lisa Budtke",
+            "PERSON",
+            "Host",
+            "conference call",
+            "EVENT"
+        ],
+        [
+            "El Paso Electric",
+            "COMP",
+            "Has",
+            "conference call and presentation",
+            "EVENT"
+        ],
+        [
+            "El Paso Electric",
+            "COMP",
+            "Webcast",
+            "conference call and presentation",
+            "EVENT"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Use",
+            "following information",
+            "CONCEPT"
+        ],
+        [
+            "Date",
+            "CONCEPT",
+            "Set",
+            "February 27, 2018",
+            "DATE"
+        ],
+        [
+            "Time",
+            "CONCEPT",
+            "Set",
+            "9:30 a.m. MST",
+            "TIME"
+        ],
+        [
+            "Dial in #",
+            "CONCEPT",
+            "Set",
+            "888-600-4863",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Conference ID",
+            "CONCEPT",
+            "Set",
+            "9726561",
+            "CONCEPT"
+        ],
+        [
+            "Host Name",
+            "PERSON",
+            "Set",
+            "Lisa Budtke",
+            "PERSON"
+        ],
+        [
+            "Webcast Address",
+            "CONCEPT",
+            "Set",
+            "http://www.epelectric.com",
+            "WEBSITE"
+        ],
+        [
+            "Participants",
+            "PERSON",
+            "Use",
+            "following information to access the conference call by phone",
+            "CONCEPT"
+        ],
+        [
+            "International Toll Number",
+            "CONCEPT",
+            "Set",
+            "719-457-2644",
+            "PHONE_NUMBER"
+        ],
+        [
+            "A replay of the conference call and webcast",
+            "EVENT",
+            "Available",
+            "shortly after the call ends",
+            "TIME"
+        ],
+        [
+            "Replay Toll Free Number",
+            "CONCEPT",
+            "Set",
+            "888-203-1112",
+            "PHONE_NUMBER"
+        ],
+        [
+            "Replay pass code",
+            "CONCEPT",
+            "Set",
+            "9726561",
+            "CONCEPT"
+        ],
+        [
+            "Replay Toll Number",
+            "CONCEPT",
+            "Set",
+            "719-457-0820",
+            "PHONE_NUMBER"
+        ],
+        [
+            "El Paso Electric Company",
+            "COMP",
+            "Provide",
+            "generation, transmission and distribution service",
+            "SERVICE"
+        ],
+        [
+            "Approximately",
+            "CONCEPT",
+            "Provide",
+            "418,000 retail and wholesale customers",
+            "NUMBER"
+        ],
+        [
+            "A 10,000 square mile area",
+            "CONCEPT",
+            "Provide",
+            "service",
+            "SERVICE"
+        ],
+        [
+            "Rio Grande valley",
+            "GPE",
+            "Locate",
+            "west Texas and southern New Mexico",
+            "GPE"
+        ]
+    ]
+}

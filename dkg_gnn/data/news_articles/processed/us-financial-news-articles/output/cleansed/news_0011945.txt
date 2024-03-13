@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "PNC Financial Services Group Inc.",
+            "ORG",
+            "Announce",
+            "Redemption",
+            "EVENT"
+        ],
+        [
+            "PNC Financial Services Group Inc.",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "Redemption",
+            "EVENT",
+            "Relate_To",
+            "1.500 Percent Senior Bank Notes",
+            "PRODUCT"
+        ],
+        [
+            "1.500 Percent Senior Bank Notes",
+            "PRODUCT",
+            "Control",
+            "PNC Bank",
+            "ORG/REG"
+        ],
+        [
+            "PNC Bank",
+            "ORG/REG",
+            "Is_Member_Of",
+            "PNC Financial Services Group Inc.",
+            "ORG"
+        ]
+    ]
+}

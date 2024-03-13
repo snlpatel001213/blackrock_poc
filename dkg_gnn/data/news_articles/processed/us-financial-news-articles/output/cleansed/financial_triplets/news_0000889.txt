@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Pro-government Rallies",
+            "EVENT",
+            "Participates_In",
+            "Iranian Cities",
+            "GPE"
+        ],
+        [
+            "Iranian Cities",
+            "GPE",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Pro-government Rallies",
+            "EVENT",
+            "Relate_To",
+            "Supreme Leader Ayatollah Ali Khamenei",
+            "PERSON"
+        ]
+    ]
+}

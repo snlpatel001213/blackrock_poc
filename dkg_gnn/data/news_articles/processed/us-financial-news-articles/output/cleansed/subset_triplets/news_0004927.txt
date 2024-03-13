@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Announce",
+            "Expand American Energy Production",
+            "CONCEPT"
+        ],
+        [
+            "Trump Administration",
+            "ORG/GOV",
+            "Announce",
+            "American Energy Dominance Agenda",
+            "CONCEPT"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Operate_In",
+            "Trump Administration",
+            "ORG/GOV"
+        ],
+        [
+            "Interior Department",
+            "ORG/GOV",
+            "Introduce",
+            "Draft National Outer Continental Shelf Oil and Gas Leasing Program",
+            "PRODUCT"
+        ]
+    ]
+}

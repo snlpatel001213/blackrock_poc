@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Lamar Advertising Company",
+            "COMP",
+            "Announce",
+            "fourth quarter ended December 31, 2017 earnings report",
+            "ECON_INDICATOR"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "Company operations",
+            "CONCEPT"
+        ],
+        [
+            "Passcode",
+            "CONCEPT",
+            "Is_Member_Of",
+            "Lamar",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Delhi Daredevils",
+            "COMP",
+            "Appoint",
+            "Ricky Ponting",
+            "PERSON"
+        ],
+        [
+            "Delhi Daredevils",
+            "COMP",
+            "Replace",
+            "Paddy Upton",
+            "PERSON"
+        ],
+        [
+            "Delhi Daredevils",
+            "COMP",
+            "Participates_In",
+            "IPL",
+            "EVENT"
+        ],
+        [
+            "Ricky Ponting",
+            "PERSON",
+            "Guide",
+            "Mumbai Indians",
+            "COMP"
+        ],
+        [
+            "Ricky Ponting",
+            "PERSON",
+            "Named",
+            "Assistant Coach",
+            "ORG"
+        ],
+        [
+            "IPL",
+            "EVENT",
+            "Retain",
+            "Steve Smith",
+            "PERSON"
+        ],
+        [
+            "IPL",
+            "EVENT",
+            "Retain",
+            "David Warner",
+            "PERSON"
+        ],
+        [
+            "Royal Challengers Bangalore",
+            "COMP",
+            "Retain",
+            "Virat Kohli",
+            "PERSON"
+        ],
+        [
+            "Mumbai Indians",
+            "COMP",
+            "Win",
+            "IPL Title",
+            "EVENT"
+        ]
+    ]
+}

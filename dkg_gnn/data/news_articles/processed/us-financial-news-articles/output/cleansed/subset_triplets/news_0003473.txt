@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "California",
+            "GPE",
+            "Control",
+            "Sanctuary State",
+            "CONCEPT"
+        ],
+        [
+            "California",
+            "GPE",
+            "Impact",
+            "Undocumented Immigrants",
+            "PERSON"
+        ],
+        [
+            "State Houses",
+            "ORG/GOV",
+            "Introduce",
+            "New Laws",
+            "CONCEPT"
+        ],
+        [
+            "Country",
+            "GPE",
+            "Operate_In",
+            "State Houses",
+            "ORG/GOV"
+        ],
+        [
+            "Tennessee",
+            "GPE",
+            "Has",
+            "New Law",
+            "CONCEPT"
+        ],
+        [
+            "Babies",
+            "PERSON",
+            "Relate_To",
+            "Working Parents",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Is_Member_Of",
+            "Pennsylvania Bar Association",
+            "ORG"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Is_Member_Of",
+            "Dauphin County Bar Association",
+            "ORG"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Bar Association",
+            "ORG"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Is_Member_Of",
+            "Bar Association of the Third Federal Circuit",
+            "ORG"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Invests_In",
+            "Advanced Appellate Advocacy",
+            "CONCEPT"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Has",
+            "25+ years of legal experience",
+            "CONCEPT"
+        ],
+        [
+            "Timothy J. Nieman",
+            "PERSON",
+            "Operate_In",
+            "Mount Gretna, PA",
+            "GPE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Control",
+            "PeoplesBank",
+            "COMP"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Operate_In",
+            "York, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Operate_In",
+            "Cumberland, and Lancaster Counties",
+            "GPE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Operate_In",
+            "Baltimore, Harford, and Carroll Counties and Baltimore City",
+            "GPE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Produce",
+            "Business and Consumer Banking Services",
+            "SERVICE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Produce",
+            "Mortgage Banking",
+            "SERVICE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Produce",
+            "Wealth Management",
+            "SERVICE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Produce",
+            "Real Estate Settlement Services",
+            "SERVICE"
+        ],
+        [
+            "Codorus Valley Bancorp, Inc.",
+            "COMP",
+            "Listed_On",
+            "Nasdaq Capital Market",
+            "EXCHANGE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Operate_In",
+            "York, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Operate_In",
+            "Cumberland, and Lancaster Counties",
+            "GPE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Operate_In",
+            "Baltimore, Harford, and Carroll Counties and Baltimore City",
+            "GPE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Produce",
+            "Business and Consumer Banking Services",
+            "SERVICE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Produce",
+            "Mortgage Banking",
+            "SERVICE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Produce",
+            "Wealth Management",
+            "SERVICE"
+        ],
+        [
+            "PeoplesBank",
+            "COMP",
+            "Produce",
+            "Real Estate Settlement Services",
+            "SERVICE"
+        ]
+    ]
+}

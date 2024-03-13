@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Major Winter Storm",
+            "EVENT",
+            "Impact",
+            "Energy Prices",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Warning",
+            "EVENT",
+            "Relate_To",
+            "Bitterly Cold Temperatures",
+            "CONCEPT"
+        ],
+        [
+            "Warning",
+            "EVENT",
+            "Relate_To",
+            "Dangerous Wind Chills",
+            "CONCEPT"
+        ]
+    ]
+}

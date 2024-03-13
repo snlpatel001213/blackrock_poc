@@ -1,0 +1,134 @@
+{
+    "output": [
+        [
+            "Atlas Genetics",
+            "COMP",
+            "Appoint",
+            "Stanley Lapidus",
+            "PERSON"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Found",
+            "EXACT Sciences Corp.",
+            "COMP"
+        ],
+        [
+            "EXACT Sciences Corp.",
+            "COMP",
+            "Impact",
+            "Diagnostic landscape",
+            "CONCEPT"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Found",
+            "Cytyc Corp.",
+            "COMP"
+        ],
+        [
+            "Cytyc Corp.",
+            "COMP",
+            "Sold to",
+            "Hologic Corporation",
+            "COMP"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Principal inventor",
+            "ThinPrep Pap test",
+            "PRODUCT"
+        ],
+        [
+            "ThinPrep Pap test",
+            "PRODUCT",
+            "Account",
+            "Approximately 80%",
+            "ECON_INDICATOR",
+            "of",
+            "World market",
+            "GPE",
+            "for cervical cancer screening"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Found",
+            "SynapDx",
+            "COMP"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Found",
+            "Helicos Biosciences",
+            "COMP"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Serve",
+            "Director",
+            "ORG/GOV",
+            "to",
+            "Public and private medical device and diagnostics companies",
+            "COMP"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Instructor",
+            "MIT",
+            "ORG/EDU"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Hold",
+            "36 U.S.",
+            "ECON_INDICATOR",
+            "patents",
+            "CONCEPT"
+        ],
+        [
+            "Stanley Lapidus",
+            "PERSON",
+            "Elected",
+            "Fellow",
+            "ORG/PRO",
+            "of",
+            "American Institute of Medical and Biological Engineering",
+            "ORG"
+        ],
+        [
+            "Atlas Genetics",
+            "COMP",
+            "Transition",
+            "Clinical validation of proprietary platform in POC testing to",
+            "CONCEPT",
+            "Commercially disruptive force globally",
+            "CONCEPT"
+        ],
+        [
+            "Atlas Genetics",
+            "COMP",
+            "Capitalize on",
+            "Quickly changing healthcare landscape",
+            "CONCEPT",
+            "where rapid testing and consumer convenience become increasingly paramount",
+            "CONCEPT"
+        ],
+        [
+            "Atlas Genetics",
+            "COMP",
+            "View",
+            "Association with Atlas",
+            "CONCEPT",
+            "as another indication of the opportunity here and the great things to come",
+            "CONCEPT"
+        ]
+    ]
+}

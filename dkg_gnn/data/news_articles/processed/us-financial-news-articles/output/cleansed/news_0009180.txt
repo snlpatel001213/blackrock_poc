@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Andrew Arnott",
+            "PERSON",
+            "Ringing",
+            "NYSE",
+            "ORG"
+        ],
+        [
+            "John Hancock Investments",
+            "COMP",
+            "Has",
+            "Andrew Arnott",
+            "PERSON"
+        ],
+        [
+            "John Hancock Investments",
+            "COMP",
+            "Ringing",
+            "NYSE",
+            "ORG"
+        ],
+        [
+            "Dan Houston",
+            "PERSON",
+            "Ringing",
+            "Nasdaq",
+            "ORG"
+        ],
+        [
+            "Principal Financial Group",
+            "COMP",
+            "Has",
+            "Dan Houston",
+            "PERSON"
+        ],
+        [
+            "Principal Financial Group",
+            "COMP",
+            "Ringing",
+            "Nasdaq",
+            "ORG"
+        ]
+    ]
+}

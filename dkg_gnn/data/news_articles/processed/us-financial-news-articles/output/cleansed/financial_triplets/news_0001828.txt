@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "U.S. bank regulator",
+            "ORG/REG",
+            "Announce",
+            "Fine",
+            "CONCEPT"
+        ],
+        [
+            "Citibank",
+            "COMP",
+            "Relate_To",
+            "Shortcomings",
+            "CONCEPT"
+        ],
+        [
+            "Citibank",
+            "COMP",
+            "Operate_In",
+            "U.S.",
+            "GPE"
+        ]
+    ]
+}

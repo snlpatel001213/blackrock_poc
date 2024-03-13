@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Ethereum",
+            "PRODUCT",
+            "Raise",
+            "1000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ethereum",
+            "PRODUCT",
+            "Is_Member_Of",
+            "Cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "Ethereum",
+            "PRODUCT",
+            "Control",
+            "Third-Largest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ethereum",
+            "PRODUCT",
+            "Dethroned_By",
+            "Ripple's XRP",
+            "PRODUCT"
+        ]
+    ]
+}

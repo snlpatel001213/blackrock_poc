@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "The Klein Law Firm",
+            "ORG",
+            "Announce",
+            "class action complaint",
+            "EVENT"
+        ],
+        [
+            "Joseph Klein, Esq.",
+            "PERSON",
+            "Participates_In",
+            "securities litigations",
+            "EVENT"
+        ]
+    ]
+}

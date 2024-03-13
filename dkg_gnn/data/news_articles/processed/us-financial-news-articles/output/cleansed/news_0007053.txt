@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "New Book",
+            "CONCEPT",
+            "Relate_To",
+            "Dysfunction",
+            "CONCEPT"
+        ],
+        [
+            "Dysfunction",
+            "CONCEPT",
+            "Impact_On",
+            "Trump White House",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Participates_In",
+            "Trump White House",
+            "GPE"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Announce",
+            "Ouster",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Is_Member_Of",
+            "Breitbart News",
+            "ORG"
+        ],
+        [
+            "Breitbart News",
+            "ORG",
+            "Control",
+            "Steve Bannon",
+            "PERSON"
+        ],
+        [
+            "Rupert Murdoch",
+            "PERSON",
+            "Prepare",
+            "Launch",
+            "CONCEPT"
+        ],
+        [
+            "Rupert Murdoch",
+            "PERSON",
+            "Operate_In",
+            "New Fox",
+            "ORG"
+        ],
+        [
+            "Rupert Murdoch",
+            "PERSON",
+            "Positive_Impact_On",
+            "New Fox",
+            "ORG"
+        ]
+    ]
+}

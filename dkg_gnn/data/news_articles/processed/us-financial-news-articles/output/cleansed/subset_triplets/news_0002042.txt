@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Aurora",
+            "ORG",
+            "Announce",
+            "Partnerships",
+            "ORG"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Participates_In",
+            "Self-driving System Development",
+            "CONCEPT"
+        ],
+        [
+            "Aurora",
+            "ORG",
+            "Operate_In",
+            "Silicon Valley",
+            "GPE"
+        ],
+        [
+            "Volkswagen AG",
+            "ORG",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Operate_In",
+            "Electric Vehicles",
+            "PRODUCT"
+        ],
+        [
+            "Volkswagen",
+            "ORG",
+            "Operate_In",
+            "Different Product Categories",
+            "CONCEPT"
+        ],
+        [
+            "Hyundai",
+            "ORG",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "Hyundai",
+            "ORG",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

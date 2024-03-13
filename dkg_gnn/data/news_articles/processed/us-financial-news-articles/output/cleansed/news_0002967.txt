@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Jay Leno",
+            "PERSON",
+            "Teach",
+            "Gilbert Gottfried",
+            "PERSON"
+        ],
+        [
+            "Gilbert Gottfried",
+            "PERSON",
+            "Learn",
+            "Drive",
+            "CONCEPT"
+        ],
+        [
+            "Ferrari",
+            "PRODUCT",
+            "Involved_In",
+            "Teaching",
+            "CONCEPT"
+        ],
+        [
+            "Ferrari",
+            "PRODUCT",
+            "Has",
+            "0 to 60 mph in 3 seconds",
+            "CONCEPT"
+        ]
+    ]
+}

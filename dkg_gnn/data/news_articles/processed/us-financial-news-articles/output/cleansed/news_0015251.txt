@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Novartis",
+            "ORG",
+            "Has",
+            "Elizabeth Barrett",
+            "PERSON"
+        ],
+        [
+            "Elizabeth Barrett",
+            "PERSON",
+            "Is_Member_Of",
+            "Novartis Oncology",
+            "ORG"
+        ],
+        [
+            "Novartis Oncology",
+            "ORG",
+            "Control",
+            "Bruno Strigini",
+            "PERSON"
+        ],
+        [
+            "Bruno Strigini",
+            "PERSON",
+            "Decide",
+            "Retire",
+            "CONCEPT"
+        ],
+        [
+            "Novartis",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ]
+    ]
+}

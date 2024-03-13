@@ -1,0 +1,249 @@
+{
+    "output": [
+        [
+            "South Korea",
+            "GPE",
+            "Inspect",
+            "six banks",
+            "ORG"
+        ],
+        [
+            "six banks",
+            "ORG",
+            "Operate_In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "six banks",
+            "ORG",
+            "Inspect",
+            "anti-money laundering rules",
+            "CONCEPT"
+        ],
+        [
+            "six banks",
+            "ORG",
+            "Use",
+            "real names for accounts",
+            "CONCEPT"
+        ],
+        [
+            "FSC",
+            "ORG",
+            "Name",
+            "six banks",
+            "ORG"
+        ],
+        [
+            "NH Bank",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "Industrial Bank of Korea",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "Shinhan Bank",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "Kookmin Bank",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "Woori Bank",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "Korea Development Bank",
+            "ORG",
+            "Provide",
+            "virtual currency accounts",
+            "CONCEPT"
+        ],
+        [
+            "FSC",
+            "ORG",
+            "Provide",
+            "guidance",
+            "CONCEPT"
+        ],
+        [
+            "virtual currency",
+            "CONCEPT",
+            "Unable to function",
+            "means of payment",
+            "CONCEPT"
+        ],
+        [
+            "virtual currency",
+            "CONCEPT",
+            "Used for",
+            "illegal purposes",
+            "CONCEPT"
+        ],
+        [
+            "virtual currency",
+            "CONCEPT",
+            "Lead to",
+            "surge in crime",
+            "CONCEPT"
+        ],
+        [
+            "authorities",
+            "ORG",
+            "Look at",
+            "ways to reduce risks",
+            "CONCEPT"
+        ],
+        [
+            "authorities",
+            "ORG",
+            "Shut down",
+            "institutions",
+            "ORG"
+        ],
+        [
+            "government",
+            "ORG",
+            "Impose",
+            "additional measures",
+            "CONCEPT"
+        ],
+        [
+            "government",
+            "ORG",
+            "Ban",
+            "anonymous cryptocurrency accounts",
+            "CONCEPT"
+        ],
+        [
+            "regulators",
+            "ORG",
+            "Close",
+            "virtual coin exchanges",
+            "ORG"
+        ],
+        [
+            "bitcoin",
+            "CONCEPT",
+            "Trade at",
+            "higher rates",
+            "CONCEPT"
+        ],
+        [
+            "local exchanges",
+            "ORG",
+            "Trade at",
+            "lower rates",
+            "CONCEPT"
+        ],
+        [
+            "bitcoin",
+            "CONCEPT",
+            "Extremely popular",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "housewives and students",
+            "PERSON",
+            "Invest",
+            "cryptocurrency trading",
+            "CONCEPT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Express concern",
+            "frenzied speculation",
+            "CONCEPT"
+        ],
+        [
+            "Youbit",
+            "ORG",
+            "Shut down",
+            "bankruptcy",
+            "CONCEPT"
+        ],
+        [
+            "Youbit",
+            "ORG",
+            "Hacked",
+            "twice",
+            "CONCEPT"
+        ],
+        [
+            "bitcoin prices",
+            "CONCEPT",
+            "Higher",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "bitcoin prices",
+            "CONCEPT",
+            "Lower",
+            "global price average",
+            "CONCEPT"
+        ],
+        [
+            "buyers",
+            "PERSON",
+            "Outnumber",
+            "those willing to sell",
+            "PERSON"
+        ],
+        [
+            "active virtual currency exchanges",
+            "ORG",
+            "In",
+            "South Korea",
+            "GPE"
+        ],
+        [
+            "authorities",
+            "ORG",
+            "Crack down",
+            "virtual currency crime",
+            "CONCEPT"
+        ],
+        [
+            "authorities",
+            "ORG",
+            "Dole out",
+            "heavy punishments",
+            "CONCEPT"
+        ],
+        [
+            "institutions",
+            "ORG",
+            "Handle",
+            "cryptocurrency",
+            "CONCEPT"
+        ],
+        [
+            "no direct regulation system",
+            "CONCEPT",
+            "In place",
+            "regarding these institutions",
+            "ORG"
+        ]
+    ]
+}

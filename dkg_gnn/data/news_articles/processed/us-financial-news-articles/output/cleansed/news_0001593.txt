@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Schools",
+            "ORG",
+            "Close",
+            "Boston",
+            "GPE"
+        ],
+        [
+            "Flights",
+            "PRODUCT",
+            "Cancel",
+            "Boston",
+            "GPE"
+        ],
+        [
+            "Blizzard",
+            "CONCEPT",
+            "Impact",
+            "East Coast",
+            "GPE"
+        ]
+    ]
+}

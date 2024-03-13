@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Bhuvaneshwari Adimulam",
+            "PERSON",
+            "Die",
+            "null",
+            "null"
+        ],
+        [
+            "Bhuvaneshwari Adimulam",
+            "PERSON",
+            "Work",
+            "Knitwear Factory",
+            "ORG"
+        ],
+        [
+            "Knitwear Factory",
+            "ORG",
+            "Operate_In",
+            "Tirupur",
+            "GPE"
+        ],
+        [
+            "Tirupur",
+            "GPE",
+            "Locate_In",
+            "Textile Valley",
+            "SECTOR"
+        ],
+        [
+            "Textile Valley",
+            "SECTOR",
+            "Part_Of",
+            "Tamil Nadu",
+            "GPE"
+        ],
+        [
+            "Bhuvaneshwari Adimulam",
+            "PERSON",
+            "Employment",
+            "Factory",
+            "ORG"
+        ],
+        [
+            "Factory",
+            "ORG",
+            "Produce",
+            "Global Brands",
+            "ORG"
+        ],
+        [
+            "Factory",
+            "ORG",
+            "Case_Filed_Against",
+            "Owner",
+            "PERSON"
+        ],
+        [
+            "Labor Campaigners",
+            "ORG",
+            "Say",
+            "Injuries",
+            "null"
+        ],
+        [
+            "Approximately 400,000 Employees",
+            "null",
+            "Work",
+            "More Than 1,500 Factories",
+            "ORG"
+        ],
+        [
+            "Tamil Nadu",
+            "GPE",
+            "Biggest_Hub",
+            "Textile Manufacturers",
+            "ORG"
+        ],
+        [
+            "Aloysius Arokiam",
+            "PERSON",
+            "Of",
+            "Social Awareness and Voluntary Education",
+            "ORG"
+        ],
+        [
+            "Social Awareness and Voluntary Education",
+            "ORG",
+            "Document",
+            "13 Accidents",
+            "null"
+        ],
+        [
+            "13 Accidents",
+            "null",
+            "Occur",
+            "Factories",
+            "ORG"
+        ],
+        [
+            "2016",
+            "DATE",
+            "In",
+            "null",
+            "null"
+        ],
+        [
+            "N. Vivekanandan",
+            "PERSON",
+            "Head",
+            "South India Imported Machine Knitters Association",
+            "ORG"
+        ],
+        [
+            "South India Imported Machine Knitters Association",
+            "ORG",
+            "Represent",
+            "300 Manufacturers",
+            "ORG"
+        ],
+        [
+            "New Workers",
+            "null",
+            "Trained",
+            "8 Weeks",
+            "TIME"
+        ],
+        [
+            "Automated Machines",
+            "null",
+            "Stop",
+            "Thread Break",
+            "null"
+        ],
+        [
+            "N. Vivekanandan",
+            "PERSON",
+            "Said",
+            "Circumstances",
+            "null"
+        ],
+        [
+            "Circumstances",
+            "null",
+            "Unclear",
+            "null",
+            "null"
+        ]
+    ]
+}

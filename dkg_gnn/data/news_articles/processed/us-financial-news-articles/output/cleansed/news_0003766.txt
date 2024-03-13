@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Discuss",
+            "Market",
+            "CONCEPT"
+        ],
+        [
+            "Patrick Shaffer",
+            "PERSON",
+            "Is_Member_Of",
+            "J.P. Morgan",
+            "ORG"
+        ],
+        [
+            "Patrick Shaffer",
+            "PERSON",
+            "Job_Title",
+            "Global Investment Specialist",
+            "ORG"
+        ],
+        [
+            "Patrick Shaffer",
+            "PERSON",
+            "Job_Title",
+            "Executive Director",
+            "ORG"
+        ],
+        [
+            "Brian Sullivan",
+            "PERSON",
+            "Participates_In",
+            "Discussion",
+            "CONCEPT"
+        ]
+    ]
+}

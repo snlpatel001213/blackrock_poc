@@ -1,0 +1,136 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Suffer",
+            "Series of Attacks",
+            "EVENT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Impose",
+            "New Taxes",
+            "ORG"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Tech Giants",
+            "ORG"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Tech Giants",
+            "ORG"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Do More",
+            "Combat Online Extremism",
+            "CONCEPT"
+        ],
+        [
+            "Tech Firms",
+            "ORG",
+            "Sell",
+            "People\u2019s Data",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Not",
+            "Give",
+            "CONCEPT"
+        ],
+        [
+            "Tech Firms",
+            "ORG",
+            "Be Less Than Co-operative",
+            "CONCEPT"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "Look At",
+            "Things Like Tax",
+            "CONCEPT"
+        ],
+        [
+            "Tech Firms",
+            "ORG",
+            "Put",
+            "Private Profit Before Public Safety",
+            "CONCEPT"
+        ],
+        [
+            "Tech Companies",
+            "ORG",
+            "Refuse",
+            "Take Down Extremist Material",
+            "CONCEPT"
+        ],
+        [
+            "Tech Companies",
+            "ORG",
+            "Refuse",
+            "Bomb-Making Guides",
+            "CONCEPT"
+        ],
+        [
+            "Encrypted Messaging Services",
+            "PRODUCT",
+            "Like WhatsApp",
+            "PRODUCT",
+            "Major Problem",
+            "CONCEPT"
+        ],
+        [
+            "Wallace",
+            "PERSON",
+            "Say",
+            "Reliance on Internet",
+            "CONCEPT",
+            "Makes Britain Vulnerable",
+            "CONCEPT"
+        ],
+        [
+            "Wallace",
+            "PERSON",
+            "Say",
+            "Britain More Vulnerable",
+            "CONCEPT",
+            "Last 100 Years",
+            "TIME"
+        ],
+        [
+            "Wallace",
+            "PERSON",
+            "Say",
+            "Content Not Taken Down",
+            "CONCEPT",
+            "Quickly",
+            "TIME"
+        ],
+        [
+            "Wallace",
+            "PERSON",
+            "Say",
+            "Have to De-Radicalise People",
+            "CONCEPT"
+        ],
+        [
+            "Wallace",
+            "PERSON",
+            "Say",
+            "Look At All Options",
+            "CONCEPT",
+            "Including Tax",
+            "CONCEPT"
+        ]
+    ]
+}

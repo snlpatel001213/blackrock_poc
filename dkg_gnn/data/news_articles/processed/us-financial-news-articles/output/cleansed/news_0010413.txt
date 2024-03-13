@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Atlantic Power Corp",
+            "COMP",
+            "Announce",
+            "Amended Schedule 13D Filing",
+            "EVENT"
+        ],
+        [
+            "Atlantic Power Corp",
+            "COMP",
+            "Relate_To",
+            "Mangrove Partners",
+            "ORG"
+        ],
+        [
+            "Mangrove Partners",
+            "ORG",
+            "Control",
+            "Amended Schedule 13D Filing",
+            "EVENT"
+        ],
+        [
+            "Atlantic Power Corp",
+            "COMP",
+            "Negative_Impact_On",
+            "Cryptocurrency Miners",
+            "ORG/SECTOR"
+        ],
+        [
+            "Atlantic Power Corp",
+            "COMP",
+            "Negative_Impact_On",
+            "Cryptocurrency Sector",
+            "SECTOR"
+        ]
+    ]
+}

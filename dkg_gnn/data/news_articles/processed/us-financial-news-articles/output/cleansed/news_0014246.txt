@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Carillion Plc",
+            "COMP",
+            "Control",
+            "DEUTSCHE BANK AG",
+            "ORG/REG"
+        ],
+        [
+            "DEUTSCHE BANK AG",
+            "ORG/REG",
+            "Decrease",
+            "Stake in Carillion Plc",
+            "COMP"
+        ],
+        [
+            "Carillion Plc",
+            "COMP",
+            "Has",
+            "5.89 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "5.89 Percent",
+            "ECON_INDICATOR",
+            "Raise",
+            "Stake in Carillion Plc",
+            "COMP"
+        ],
+        [
+            "5.89 Percent",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "DEUTSCHE BANK AG",
+            "ORG/REG"
+        ],
+        [
+            "6.93 Percent",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "DEUTSCHE BANK AG",
+            "ORG/REG"
+        ],
+        [
+            "6.93 Percent",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Stake in Carillion Plc",
+            "COMP"
+        ]
+    ]
+}

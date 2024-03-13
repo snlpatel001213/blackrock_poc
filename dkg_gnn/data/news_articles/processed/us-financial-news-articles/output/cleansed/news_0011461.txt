@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Jacob Zuma",
+            "PERSON",
+            "Announce",
+            "Commission of Inquiry",
+            "ORG"
+        ],
+        [
+            "Jacob Zuma",
+            "PERSON",
+            "Operate_In",
+            "South Africa",
+            "GPE"
+        ],
+        [
+            "Gupta Family",
+            "PERSON",
+            "Relate_To",
+            "Undue Sway",
+            "CONCEPT"
+        ],
+        [
+            "Gupta Family",
+            "PERSON",
+            "Participates_In",
+            "Corruption Scandal",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Largest Economy",
+            "CONCEPT"
+        ],
+        [
+            "South African President",
+            "ORG/GOV",
+            "Is_Member_Of",
+            "Africa",
+            "GPE"
+        ],
+        [
+            "Commission of Inquiry",
+            "ORG",
+            "Impact",
+            "Zuma\u2019s Grip",
+            "CONCEPT"
+        ],
+        [
+            "Political Scandal",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Zuma\u2019s Grip",
+            "CONCEPT"
+        ]
+    ]
+}

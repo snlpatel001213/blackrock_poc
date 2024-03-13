@@ -1,0 +1,122 @@
+{
+    "output": [
+        [
+            "Opponents of TransCanada Corp",
+            "ORG",
+            "Appeal",
+            "Nebraska regulators",
+            "ORG/GOV"
+        ],
+        [
+            "TransCanada Corp",
+            "ORG",
+            "Propose",
+            "Keystone XL pipeline",
+            "PRODUCT"
+        ],
+        [
+            "Nebraska regulators",
+            "ORG/GOV",
+            "Approve",
+            "Path",
+            "GPE"
+        ],
+        [
+            "Keystone XL pipeline",
+            "PRODUCT",
+            "Link",
+            "Oil fields of Canada",
+            "GPE",
+            "Alberta province",
+            "GPE",
+            "to U.S. refineries",
+            "GPE"
+        ],
+        [
+            "TransCanada",
+            "ORG",
+            "Operate_In",
+            "Alternative route",
+            "GPE"
+        ],
+        [
+            "Lawyers for opponents",
+            "ORG",
+            "Argue",
+            "Commission",
+            "ORG/GOV",
+            "not permitted",
+            "CONCEPT"
+        ],
+        [
+            "Attorney David Domina",
+            "PERSON",
+            "Tell",
+            "Reuters",
+            "ORG"
+        ],
+        [
+            "TransCanada",
+            "ORG",
+            "Decline",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Pipeline",
+            "PRODUCT",
+            "Controversy",
+            "Concept",
+            "CONCEPT"
+        ],
+        [
+            "Environmentalists",
+            "ORG",
+            "Worry",
+            "Spills",
+            "CONCEPT",
+            "Global warming",
+            "CONCEPT"
+        ],
+        [
+            "Business advocates",
+            "ORG",
+            "Say",
+            "Project",
+            "PRODUCT",
+            "Lower fuel prices",
+            "CONCEPT",
+            "Shore up national security",
+            "CONCEPT",
+            "Bring jobs",
+            "CONCEPT"
+        ],
+        [
+            "Trump administration",
+            "ORG/GOV",
+            "Grant",
+            "TransCanada",
+            "ORG",
+            "Federal permit",
+            "FIN_INSTRUMENT",
+            "Pipeline",
+            "PRODUCT"
+        ],
+        [
+            "TransCanada",
+            "ORG",
+            "Expect",
+            "Commercial support",
+            "CONCEPT",
+            "Make project viable",
+            "CONCEPT"
+        ],
+        [
+            "TransCanada",
+            "ORG",
+            "Not make",
+            "Final investment decision",
+            "CONCEPT"
+        ]
+    ]
+}

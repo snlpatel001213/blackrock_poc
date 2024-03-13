@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Two shells",
+            "GPE",
+            "Impact",
+            "Turkey",
+            "GPE"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Has",
+            "forces loyal to",
+            "PERSON"
+        ],
+        [
+            "forces loyal to",
+            "ORG/GOV",
+            "Control",
+            "area of Syria",
+            "GPE"
+        ],
+        [
+            "area of Syria",
+            "GPE",
+            "Impact",
+            "Hatay",
+            "GPE"
+        ],
+        [
+            "Hatay",
+            "GPE",
+            "Operate_In",
+            "southeastern province of",
+            "GPE"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Invests_In",
+            "border troops",
+            "ORG/GOV"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Raise",
+            "no immediate reports of damage or casualties",
+            "CONCEPT"
+        ]
+    ]
+}

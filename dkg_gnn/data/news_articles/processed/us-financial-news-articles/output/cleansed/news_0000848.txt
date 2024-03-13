@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Announce",
+            "Retirement",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Operate_In",
+            "NFL",
+            "ORG/GOV"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Participates_In",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Cardinals",
+            "ORG",
+            "Operate_In",
+            "NFL",
+            "ORG/GOV"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Drafted_By",
+            "Bengals",
+            "ORG"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Played_For",
+            "Raiders",
+            "ORG"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Joined",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Led",
+            "Bengals",
+            "ORG",
+            "To",
+            "Division_Title",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Suffered",
+            "Torn_ACL",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Rejuvenated_Career_In",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Hampered_By",
+            "Injuries",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Ends_Career",
+            "12th",
+            "ECON_INDICATOR",
+            "On_All_Time_Rankings",
+            "CONCEPT",
+            "With",
+            "294",
+            "ECON_INDICATOR",
+            "Touchdown_Passes",
+            "CONCEPT"
+        ],
+        [
+            "Carson Palmer",
+            "PERSON",
+            "Holds",
+            "Cardinals_Franchise_Records",
+            "CONCEPT",
+            "For",
+            "Passing_Yards",
+            "CONCEPT",
+            "And",
+            "Passing_Touchdowns",
+            "CONCEPT",
+            "In_A_Season",
+            "CONCEPT"
+        ],
+        [
+            "Bruce Arians",
+            "PERSON",
+            "Announce",
+            "Retirement",
+            "CONCEPT"
+        ],
+        [
+            "Bruce Arians",
+            "PERSON",
+            "Head_Coach",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Larry Fitzgerald",
+            "PERSON",
+            "Future_Hall_Of_Fame_Receiver",
+            "CONCEPT"
+        ],
+        [
+            "Larry Fitzgerald",
+            "PERSON",
+            "Played_For",
+            "Cardinals",
+            "ORG"
+        ],
+        [
+            "Larry Fitzgerald",
+            "PERSON",
+            "Said",
+            "Does_Not_Know",
+            "CONCEPT",
+            "If_Return_For_NFL_2018_Season",
+            "CONCEPT"
+        ]
+    ]
+}

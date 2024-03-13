@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Costa Rican Government",
+            "ORG/GOV",
+            "Announce",
+            "Aircraft Crash",
+            "EVENT"
+        ],
+        [
+            "Cessna 208B Grand Caravan",
+            "COMP",
+            "Operate_In",
+            "Nature Air",
+            "ORG"
+        ],
+        [
+            "Flight",
+            "EVENT",
+            "Participates_In",
+            "Special Charter Service",
+            "EVENT"
+        ]
+    ]
+}

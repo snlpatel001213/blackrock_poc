@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "AC OCEAN WALK",
+            "ORG",
+            "Announce",
+            "Ocean Resort Casino",
+            "PRODUCT"
+        ],
+        [
+            "Ocean Resort Casino",
+            "PRODUCT",
+            "Operate_In",
+            "Atlantic City",
+            "GPE"
+        ],
+        [
+            "Bruce Deifik",
+            "PERSON",
+            "Is_Member_Of",
+            "AC OCEAN WALK",
+            "ORG"
+        ]
+    ]
+}

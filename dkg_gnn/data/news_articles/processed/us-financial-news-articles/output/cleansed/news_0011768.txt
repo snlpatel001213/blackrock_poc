@@ -1,0 +1,213 @@
+{
+    "output": [
+        [
+            "Mike Pence",
+            "PERSON",
+            "Visit",
+            "Egypt",
+            "GPE"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Visit",
+            "Jordan",
+            "GPE"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Visit",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Hold_Talks",
+            "Abdel Fattah al-Sisi",
+            "PERSON"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Hold_Talks",
+            "Abdullah",
+            "PERSON"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Hold_Talks",
+            "Benjamin Netanyahu",
+            "PERSON"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Visit",
+            "Western Wall",
+            "TOURIST_ATTRACTION"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Speech",
+            "Israeli parliament",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Direction",
+            "Mike Pence",
+            "PERSON"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Travel",
+            "Middle East",
+            "GPE"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Discuss",
+            "Three leaders",
+            "PERSON"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Work",
+            "U.S. allies",
+            "GPE"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Fight",
+            "Terrorism",
+            "CONCEPT"
+        ],
+        [
+            "Mike Pence",
+            "PERSON",
+            "Improve",
+            "National security",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Decision",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Announce",
+            "Start process",
+            "ACTION"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Process",
+            "Moving embassy",
+            "ACTION"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Embassy",
+            "Tel Aviv",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Lead",
+            "Uproar",
+            "EMOTION"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Lead",
+            "Protest",
+            "ACTION"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Capital",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Consider",
+            "Jerusalem",
+            "GPE"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Eternal capital",
+            "CONCEPT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Want",
+            "Capital",
+            "CONCEPT"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Furious",
+            "Trump move",
+            "ACTION"
+        ],
+        [
+            "Palestinians",
+            "PERSON",
+            "Decline",
+            "Meet",
+            "ACTION"
+        ],
+        [
+            "Pence",
+            "PERSON",
+            "Postpone",
+            "Planned visit",
+            "ACTION"
+        ],
+        [
+            "Pence",
+            "PERSON",
+            "Stay",
+            "Washington",
+            "GPE"
+        ],
+        [
+            "Pence",
+            "PERSON",
+            "Vote",
+            "Trump tax overhaul plan",
+            "ACTION"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Ulmer & Berne LLP",
+            "ORG",
+            "Announce",
+            "Amanda Martinsek",
+            "PERSON"
+        ],
+        [
+            "Amanda Martinsek",
+            "PERSON",
+            "Has",
+            "over 25 years of experience",
+            "CONCEPT"
+        ],
+        [
+            "Ulmer & Berne LLP",
+            "ORG",
+            "Operate_In",
+            "Cleveland office",
+            "GPE"
+        ],
+        [
+            "Ulmer & Berne LLP",
+            "ORG",
+            "Has",
+            "award winning litigation team",
+            "CONCEPT"
+        ],
+        [
+            "Amanda Martinsek",
+            "PERSON",
+            "Is_Member_Of",
+            "Ohio Women\u2019s Bar Association",
+            "ORG"
+        ]
+    ]
+}

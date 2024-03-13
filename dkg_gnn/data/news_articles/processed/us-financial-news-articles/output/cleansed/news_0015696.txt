@@ -1,0 +1,48 @@
+{
+    "output": [
+        [
+            "Germany",
+            "GPE",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Impact",
+            "Euro",
+            "ECON_INDICATOR",
+            "Positive"
+        ],
+        [
+            "Angela Merkel",
+            "PERSON",
+            "Participates_In",
+            "Coalition Talks",
+            "EVENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Hawkish",
+            "Minutes",
+            "EVENT"
+        ],
+        [
+            "ECB",
+            "ORG/REG",
+            "Lift",
+            "Euro",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Euro",
+            "ECON_INDICATOR",
+            "Climb",
+            "To",
+            "Three-Year High",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

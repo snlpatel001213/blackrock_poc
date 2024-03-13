@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Magnitude 5.4 Earthquake",
+            "EVENT",
+            "Has",
+            "Depth of 10 km",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Magnitude 5.4 Earthquake",
+            "EVENT",
+            "Relate_To",
+            "Bonin Islands",
+            "GPE"
+        ],
+        [
+            "Bonin Islands",
+            "GPE",
+            "Is_Member_Of",
+            "Japan",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Operate_In",
+            "Emerging Markets",
+            "GPE"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Has",
+            "Tiny App Size",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Relate_To",
+            "Portal-like Approach",
+            "CONCEPT"
+        ],
+        [
+            "UC Browser",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Alibaba",
+            "ORG"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Control",
+            "UC Browser",
+            "PRODUCT"
+        ],
+        [
+            "Alibaba",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "ORG",
+            "Participates_In",
+            "Technology Race",
+            "CONCEPT"
+        ],
+        [
+            "International Telecommunication Union",
+            "ORG",
+            "Has",
+            "United Nations Body",
+            "ORG"
+        ],
+        [
+            "International Telecommunication Union",
+            "ORG",
+            "Has",
+            "Statistic",
+            "CONCEPT"
+        ]
+    ]
+}

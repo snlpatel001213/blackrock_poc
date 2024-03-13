@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Purchase",
+            "2.495 billion euros worth of public sector debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Operate_In",
+            "Frankfurt",
+            "GPE"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Purchase",
+            "309 million euros worth of corporate sector bonds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Reduce",
+            "Monthly pace of its asset buys",
+            "ECON_INDICATOR"
+        ],
+        [
+            "European Central Bank",
+            "ORG/REG",
+            "Plan",
+            "Continue the purchases at least until the end of September",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Philippines",
+            "GPE",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Philippine shares",
+            "SECTOR",
+            "Operate_In",
+            "Manila",
+            "GPE"
+        ],
+        [
+            "Singapore shares",
+            "SECTOR",
+            "Operate_In",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Thai shares",
+            "SECTOR",
+            "Operate_In",
+            "Bangkok",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Dominion Energy",
+            "ORG",
+            "Host",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Host",
+            "Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Control",
+            "Dominion Energy Midstream Partners",
+            "ORG"
+        ],
+        [
+            "Earnings Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Fourth-quarter financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Invests_In",
+            "Natural Gas Transmission",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Invests_In",
+            "Natural Gas Transmission",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Invests_In",
+            "Electric Transmission Lines",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Invests_In",
+            "Electric Transmission Lines",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Invests_In",
+            "Natural Gas Storage",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Invests_In",
+            "Natural Gas Storage",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "ORG",
+            "Serve",
+            "Utility and Retail Energy Customers",
+            "CONCEPT"
+        ],
+        [
+            "Dominion Energy Midstream Partners",
+            "ORG",
+            "Serve",
+            "Utility and Retail Energy Customers",
+            "CONCEPT"
+        ]
+    ]
+}

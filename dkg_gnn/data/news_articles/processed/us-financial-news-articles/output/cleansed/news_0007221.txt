@@ -1,0 +1,139 @@
+{
+    "output": [
+        [
+            "Newport County",
+            "GPE",
+            "Stun",
+            "Leeds United",
+            "GPE"
+        ],
+        [
+            "Leeds United",
+            "GPE",
+            "Operate_In",
+            "Championship",
+            "SECTOR"
+        ],
+        [
+            "Newport County",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Leeds United",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Newport County",
+            "GPE",
+            "Win",
+            "Leeds United",
+            "GPE"
+        ],
+        [
+            "Shawn McCoulsky",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Leeds",
+            "GPE",
+            "Have",
+            "Samuel Saiz",
+            "PERSON",
+            "Sent_Off",
+            "EVENT"
+        ],
+        [
+            "Michael Flynn",
+            "PERSON",
+            "Manager",
+            "Newport County",
+            "GPE"
+        ],
+        [
+            "Leeds",
+            "GPE",
+            "Make",
+            "Changes",
+            "CONCEPT",
+            "to",
+            "Lineup"
+        ],
+        [
+            "Gaetano Berardi",
+            "PERSON",
+            "Score",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Pierre-Michel Lasogga",
+            "PERSON",
+            "Involved_In",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Newport County",
+            "GPE",
+            "Equalize",
+            "Leeds United",
+            "GPE"
+        ],
+        [
+            "Frank Nouble",
+            "PERSON",
+            "Push",
+            "For",
+            "CONCEPT",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Padraig Amond",
+            "PERSON",
+            "Involved_In",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Conor Shaughnessy",
+            "PERSON",
+            "Own_Goal",
+            "Goal",
+            "PRODUCT"
+        ],
+        [
+            "Shawn McCoulsky",
+            "PERSON",
+            "Score",
+            "Late_Header",
+            "PRODUCT"
+        ],
+        [
+            "Shawn McCoulsky",
+            "PERSON",
+            "Affect",
+            "Game",
+            "CONCEPT"
+        ],
+        [
+            "Leeds",
+            "GPE",
+            "Suffer",
+            "Humiliating_Exit",
+            "CONCEPT",
+            "in",
+            "Cup",
+            "EVENT"
+        ]
+    ]
+}

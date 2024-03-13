@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "AMD",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "ARM Holdings",
+            "ORG",
+            "Has",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "ARM",
+            "ORG",
+            "Produce",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Intel Chips",
+            "ORG"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Chips",
+            "ORG"
+        ],
+        [
+            "Alphabet Inc",
+            "ORG",
+            "Has",
+            "Google Project Zero",
+            "ORG"
+        ],
+        [
+            "Apple Inc",
+            "ORG",
+            "Has",
+            "Patches",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "ORG",
+            "Has",
+            "Patches",
+            "CONCEPT"
+        ],
+        [
+            "Meltdown",
+            "CONCEPT",
+            "Impact",
+            "Computers",
+            "GPE"
+        ],
+        [
+            "Spectre",
+            "CONCEPT",
+            "Impact",
+            "Computing Devices",
+            "GPE"
+        ]
+    ]
+}

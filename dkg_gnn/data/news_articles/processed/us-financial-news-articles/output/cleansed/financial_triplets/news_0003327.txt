@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Chain migration",
+            "CONCEPT",
+            "Decrease",
+            "Number of Immigrants",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chain migration",
+            "CONCEPT",
+            "Relate_To",
+            "Family-based Visas",
+            "PRODUCT"
+        ],
+        [
+            "Chain migration",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Chain migration",
+            "CONCEPT",
+            "Operate_In",
+            "USCIS",
+            "ORG/GOV"
+        ],
+        [
+            "Chain migration",
+            "CONCEPT",
+            "Operate_In",
+            "Department of Homeland Security",
+            "ORG/GOV"
+        ]
+    ]
+}

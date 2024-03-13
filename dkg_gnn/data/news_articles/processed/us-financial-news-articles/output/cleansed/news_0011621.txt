@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "White House",
+            "ORG/GOV",
+            "Has",
+            "Sarah Sanders",
+            "PERSON"
+        ],
+        [
+            "Sarah Sanders",
+            "PERSON",
+            "Say",
+            "not yet reached deal",
+            "CONCEPT"
+        ],
+        [
+            "not yet reached deal",
+            "CONCEPT",
+            "Relate_To",
+            "DACA recipients",
+            "CONCEPT"
+        ],
+        [
+            "Sen. Jeff Flake",
+            "PERSON",
+            "Say",
+            "hammered out bipartisan deal",
+            "CONCEPT"
+        ],
+        [
+            "hammered out bipartisan deal",
+            "CONCEPT",
+            "Relate_To",
+            "DACA",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "Bonds Update",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Commerce Minister Suresh Prabhu",
+            "PERSON",
+            "Participates_In",
+            "Event",
+            "EVENT"
+        ],
+        [
+            "Parliament",
+            "GPE",
+            "Operate_In",
+            "New Delhi",
+            "GPE"
+        ],
+        [
+            "Dhara Ranasinghe",
+            "PERSON",
+            "Relate_To",
+            "Bonds Update",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Israel",
+            "GPE",
+            "Has",
+            "Rafael",
+            "ORG"
+        ],
+        [
+            "Rafael",
+            "ORG",
+            "Produce",
+            "Spike",
+            "PRODUCT"
+        ],
+        [
+            "Mumbai",
+            "GPE",
+            "Operate_In",
+            "India",
+            "GPE"
+        ],
+        [
+            "Kim",
+            "PERSON",
+            "Relate_To",
+            "Mental Fitness",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "Mental Fitness",
+            "CONCEPT"
+        ],
+        [
+            "Revolutionary Guards",
+            "ORG",
+            "Control",
+            "Forces",
+            "ORG"
+        ],
+        [
+            "Three Provinces",
+            "GPE",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Anti-government Unrest",
+            "EVENT",
+            "Negative_Impact_On",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Has",
+            "Manufacturing PMI",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

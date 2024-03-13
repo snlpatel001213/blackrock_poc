@@ -1,0 +1,91 @@
+{
+    "output": [
+        [
+            "Barclays",
+            "ORG/REG",
+            "Name",
+            "Kunal Gandhi",
+            "PERSON"
+        ],
+        [
+            "Barclays",
+            "ORG/REG",
+            "Appoint",
+            "Kunal Gandhi",
+            "PERSON",
+            "Head",
+            "ORG",
+            "Corporate Broking",
+            "SECTOR"
+        ],
+        [
+            "Kunal Gandhi",
+            "PERSON",
+            "Help Build",
+            "Barclays",
+            "ORG/REG",
+            "Corporate Broking",
+            "SECTOR",
+            "Business"
+        ],
+        [
+            "Kunal Gandhi",
+            "PERSON",
+            "Advise",
+            "Clients",
+            "ORG",
+            "Including",
+            "Legal",
+            "GPE",
+            "General",
+            "ORG",
+            "London",
+            "GPE",
+            "Stock",
+            "ORG",
+            "Exchange",
+            "ORG"
+        ],
+        [
+            "Barclays",
+            "ORG/REG",
+            "Has",
+            "Rob Mayhew",
+            "PERSON",
+            "Deputy",
+            "ORG",
+            "Head",
+            "ORG",
+            "Corporate Broking",
+            "SECTOR"
+        ],
+        [
+            "Corporate Broking",
+            "SECTOR",
+            "Is",
+            "Banking",
+            "SECTOR",
+            "Business",
+            "ORG",
+            "Common",
+            "ADJ",
+            "In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Corporate Broking",
+            "SECTOR",
+            "Little Seen",
+            "Elsewhere"
+        ],
+        [
+            "Barclays",
+            "ORG/REG",
+            "Confirm",
+            "Contents",
+            "ORG",
+            "Memo"
+        ]
+    ]
+}

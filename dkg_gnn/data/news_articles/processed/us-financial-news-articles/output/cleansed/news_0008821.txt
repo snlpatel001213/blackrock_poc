@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Has",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Has",
+            "Charlie Munger",
+            "PERSON"
+        ],
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Is_Member_Of",
+            "Berkshire Hathaway",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Weigh_In_On",
+            "Markets",
+            "CONCEPT"
+        ],
+        [
+            "Berkshire Hathaway",
+            "ORG",
+            "Weigh_In_On",
+            "Interest Rates",
+            "CONCEPT"
+        ]
+    ]
+}

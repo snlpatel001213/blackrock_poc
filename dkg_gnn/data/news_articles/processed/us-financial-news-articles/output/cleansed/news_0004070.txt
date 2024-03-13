@@ -1,0 +1,73 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Announce",
+            "U.S. utilities along the East Coast",
+            "ORG"
+        ],
+        [
+            "U.S. utilities along the East Coast",
+            "ORG",
+            "Has",
+            "80,000 homes and businesses",
+            "GPE"
+        ],
+        [
+            "80,000 homes and businesses",
+            "GPE",
+            "Without",
+            "power",
+            "CONCEPT"
+        ],
+        [
+            "Massive snow and ice storm",
+            "EVENT",
+            "Batter",
+            "Mid-Atlantic and Northeast states",
+            "GPE"
+        ],
+        [
+            "108,000 outages",
+            "ECON_INDICATOR",
+            "Caused",
+            "Storm",
+            "EVENT"
+        ],
+        [
+            "Utilities in the Southeast",
+            "ORG",
+            "Restore",
+            "Some service",
+            "SECTOR"
+        ],
+        [
+            "Current outages",
+            "ECON_INDICATOR",
+            "Most",
+            "Virginia, North Carolina, Massachusetts, Georgia and New York",
+            "GPE"
+        ],
+        [
+            "Giant storm",
+            "EVENT",
+            "Located",
+            "Coastal parts of New England, New York, New Jersey, Pennsylvania, Maryland, Delaware and Virginia",
+            "GPE"
+        ],
+        [
+            "Utilities in those states",
+            "ORG",
+            "Warn",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "Expect",
+            "CONCEPT",
+            "Outages",
+            "CONCEPT"
+        ]
+    ]
+}

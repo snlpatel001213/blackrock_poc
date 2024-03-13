@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Lisa Zaslow",
+            "PERSON",
+            "Operate_In",
+            "Home Office",
+            "ORG"
+        ],
+        [
+            "Home Office",
+            "ORG",
+            "Negative_Impact_On",
+            "Work Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Mason Donovan",
+            "PERSON",
+            "Relate_To",
+            "Workplace Expert",
+            "SECTOR"
+        ],
+        [
+            "Professional Outfit",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Phone",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Work Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Snapchat",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Work Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Work Productivity",
+            "CONCEPT"
+        ],
+        [
+            "Chair",
+            "PRODUCT",
+            "Has",
+            "Comfortable Cushion",
+            "CONCEPT"
+        ],
+        [
+            "Chair",
+            "PRODUCT",
+            "Has",
+            "Armrests",
+            "CONCEPT"
+        ],
+        [
+            "Chair",
+            "PRODUCT",
+            "Has",
+            "Adjustable Backrest",
+            "CONCEPT"
+        ],
+        [
+            "Chair",
+            "PRODUCT",
+            "Has",
+            "Lumbar Support",
+            "CONCEPT"
+        ],
+        [
+            "Chair",
+            "PRODUCT",
+            "Has",
+            "Wheels",
+            "CONCEPT"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Has",
+            "Chair",
+            "PRODUCT"
+        ],
+        [
+            "Laptop Stand",
+            "PRODUCT",
+            "Has",
+            "Good Posture",
+            "CONCEPT"
+        ],
+        [
+            "Headsets",
+            "PRODUCT",
+            "Has",
+            "Good Communication",
+            "CONCEPT"
+        ],
+        [
+            "Noise Machines",
+            "PRODUCT",
+            "Has",
+            "Avoid Distractions",
+            "CONCEPT"
+        ],
+        [
+            "Slack",
+            "COMP",
+            "Has",
+            "Messaging Tool",
+            "CONCEPT"
+        ],
+        [
+            "Zoom",
+            "COMP",
+            "Has",
+            "Online Meeting Tool",
+            "CONCEPT"
+        ],
+        [
+            "Google Drive",
+            "COMP",
+            "Has",
+            "Document Sharing Service",
+            "CONCEPT"
+        ]
+    ]
+}

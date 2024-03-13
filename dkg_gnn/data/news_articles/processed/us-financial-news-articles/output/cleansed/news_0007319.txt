@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Dubai",
+            "GPE",
+            "Reporting",
+            "Earthquake",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Has",
+            "Earthquake",
+            "EVENT"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Injure",
+            "Eight People",
+            "PERSON"
+        ],
+        [
+            "Two People",
+            "PERSON",
+            "Take",
+            "Hospital",
+            "ORG/HEALTH"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Kill",
+            "More Than 600 People",
+            "PERSON"
+        ],
+        [
+            "Iran",
+            "GPE",
+            "Relate_To",
+            "Numerous Aftershocks",
+            "EVENT"
+        ]
+    ]
+}

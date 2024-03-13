@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Control",
+            "Payday Lending Business",
+            "ORG"
+        ],
+        [
+            "Payday Lending Business",
+            "ORG",
+            "Has",
+            "Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payday Lending Business",
+            "ORG",
+            "Negative_Impact_On",
+            "Consumers",
+            "GPE"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Participates_In",
+            "Sham Relationships",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Relate_To",
+            "Native American Tribes",
+            "GPE"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Operate_In",
+            "Racing Circuits",
+            "SECTOR"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Charged_With",
+            "False Tax Return",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Convicted_Of",
+            "False Statement",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Convicted_Of",
+            "Financial Services Fraud",
+            "CONCEPT"
+        ],
+        [
+            "Timothy Muir",
+            "PERSON",
+            "Control",
+            "Payday Lending Business",
+            "ORG"
+        ],
+        [
+            "Timothy Muir",
+            "PERSON",
+            "Convicted_Of",
+            "Same Charges",
+            "CONCEPT"
+        ]
+    ]
+}

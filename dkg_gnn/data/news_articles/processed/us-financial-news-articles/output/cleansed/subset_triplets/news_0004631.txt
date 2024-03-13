@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Phase 1 Study",
+            "EVENT",
+            "Relate_To",
+            "Glioblastoma Arm",
+            "EVENT"
+        ],
+        [
+            "Glioblastoma Arm",
+            "EVENT",
+            "Operate_In",
+            "Oral Study",
+            "EVENT"
+        ]
+    ]
+}

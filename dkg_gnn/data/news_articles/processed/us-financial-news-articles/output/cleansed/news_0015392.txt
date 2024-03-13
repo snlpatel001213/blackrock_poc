@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Rep. Martha McSally",
+            "PERSON",
+            "Enter",
+            "Arizona Senate Seat",
+            "ORG/GOV"
+        ],
+        [
+            "Joe Arpaio",
+            "PERSON",
+            "Join",
+            "Arizona GOP Senate Nomination",
+            "ORG/GOV"
+        ],
+        [
+            "Arizona",
+            "GPE",
+            "Relate_To",
+            "Arizona Senate Seat",
+            "ORG/GOV"
+        ],
+        [
+            "Arizona",
+            "GPE",
+            "Relate_To",
+            "Arizona GOP Senate Nomination",
+            "ORG/GOV"
+        ],
+        [
+            "Arizona",
+            "GPE",
+            "Relate_To",
+            "Policy Differences",
+            "CONCEPT"
+        ],
+        [
+            "Arizona",
+            "GPE",
+            "Relate_To",
+            "Democrats",
+            "POLITICAL_PARTY"
+        ]
+    ]
+}

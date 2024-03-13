@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Calls_For",
+            "Unity",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Operate_In",
+            "Right_Wing_Political_Base",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Invited_To",
+            "Share_Dreams",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Impact_On",
+            "Nation",
+            "GPE"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Relate_To",
+            "Violence_And_Crime",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Positive_Impact_On",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Positive_Impact_On",
+            "Violence_Elimination",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Relate_To",
+            "Special_Interests",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Relate_To",
+            "Opportunism",
+            "CONCEPT"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Support",
+            "Alberto Fujimori",
+            "PERSON"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Pardoned",
+            "Alberto Fujimori",
+            "PERSON"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Govern",
+            "Center_Right_Government",
+            "CONCEPT"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Has",
+            "Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Has",
+            "Political_Establishment",
+            "CONCEPT"
+        ],
+        [
+            "Pedro Pablo Kuczynski",
+            "PERSON",
+            "Impact_On",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Slammed",
+            "Pardon",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Slammed",
+            "Impunity_Blow",
+            "CONCEPT"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Slammed",
+            "Efforts_To_Heal_Wounds",
+            "CONCEPT"
+        ],
+        [
+            "Many_In_Peru",
+            "PERSON",
+            "Admire",
+            "Alberto Fujimori",
+            "PERSON"
+        ],
+        [
+            "Many_In_Peru",
+            "PERSON",
+            "Say",
+            "Unfairly_Punished",
+            "CONCEPT"
+        ],
+        [
+            "Alberto Fujimori",
+            "PERSON",
+            "Relate_To",
+            "Proponent_For_The_Poor",
+            "CONCEPT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Enjoyed",
+            "Nearly_Two_Decades_Of_Peace",
+            "CONCEPT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Experienced",
+            "Commodities_Fueled_Growth",
+            "CONCEPT"
+        ],
+        [
+            "Peru",
+            "GPE",
+            "Has",
+            "Street_Crime",
+            "CONCEPT"
+        ],
+        [
+            "Kuczynski",
+            "PERSON",
+            "Promised",
+            "Announcement",
+            "CONCEPT"
+        ],
+        [
+            "Kuczynski",
+            "PERSON",
+            "Denied",
+            "Political_Pact",
+            "CONCEPT"
+        ],
+        [
+            "Kuczynski",
+            "PERSON",
+            "Defended",
+            "Pardon",
+            "CONCEPT"
+        ],
+        [
+            "Kuczynski",
+            "PERSON",
+            "Defended",
+            "Medical_And_Humanitarian_Grounds",
+            "CONCEPT"
+        ]
+    ]
+}

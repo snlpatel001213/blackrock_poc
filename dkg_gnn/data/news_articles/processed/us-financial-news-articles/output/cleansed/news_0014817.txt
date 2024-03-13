@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Danny Glover",
+            "PERSON",
+            "Is_Member_Of",
+            "NAACP awards",
+            "EVENT"
+        ],
+        [
+            "Ava DuVernay",
+            "PERSON",
+            "Is_Member_Of",
+            "NAACP awards",
+            "EVENT"
+        ],
+        [
+            "Daniel Kaluuya",
+            "PERSON",
+            "Is_Member_Of",
+            "NAACP awards",
+            "EVENT"
+        ],
+        [
+            "NAACP awards",
+            "EVENT",
+            "Relate_To",
+            "Martin Luther King Jr. day",
+            "EVENT"
+        ]
+    ]
+}

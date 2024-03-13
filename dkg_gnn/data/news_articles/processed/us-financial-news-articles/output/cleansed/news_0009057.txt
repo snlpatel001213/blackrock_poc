@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Commerce Minister Suresh Prabhu",
+            "PERSON",
+            "Participates_In",
+            "Meeting of council for Trade Development and Promotion",
+            "EVENT"
+        ],
+        [
+            "Commerce Secretary Rita Teaotia",
+            "PERSON",
+            "Participates_In",
+            "Meeting of council for Trade Development and Promotion",
+            "EVENT"
+        ],
+        [
+            "Ramesh Abhishek",
+            "PERSON",
+            "Participates_In",
+            "Meeting of council for Trade Development and Promotion",
+            "EVENT"
+        ],
+        [
+            "John Noonan",
+            "PERSON",
+            "Analyses",
+            "Cues and Views for Market Moves",
+            "EVENT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Lower",
+            "Economic Growth Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reliance Communications",
+            "COMP",
+            "Involved_In",
+            "Dispute over Classification of Solar Modules",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Backs_Off",
+            "Derogatory Comments",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Involved_In",
+            "Derogatory Comments",
+            "CONCEPT"
+        ],
+        [
+            "Shinzo Abe",
+            "PERSON",
+            "Calls_On",
+            "Central Bank Governor Haruhiko Kuroda",
+            "PERSON"
+        ],
+        [
+            "Haruhiko Kuroda",
+            "PERSON",
+            "Urged",
+            "To Keep Up Efforts To Reflate Economy",
+            "CONCEPT"
+        ],
+        [
+            "Iranian Oil Tanker",
+            "COMP",
+            "Ablaze",
+            "Collision with Chinese Freight Ship",
+            "COMP"
+        ],
+        [
+            "SGX Nifty Futures",
+            "COMP",
+            "Trading_Up",
+            "0.4 pct from its previous close",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Indian Rupee",
+            "COMP",
+            "Likely_To_Trade_Higher",
+            "Against the Dollar",
+            "COMP"
+        ],
+        [
+            "Indian Sovereign Bonds",
+            "COMP",
+            "Likely_To_Gain",
+            "Hopes of Interest Rate Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Asian Shares",
+            "COMP",
+            "Crept_Toward",
+            "All-time Peaks",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "COMP",
+            "Held_Steady",
+            "Above a Recent 3-1/2 month low",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Treasury Yields",
+            "COMP",
+            "Rose",
+            "Expectations of More U.S. Interest Rate Hikes",
+            "CONCEPT"
+        ],
+        [
+            "Oil Prices",
+            "COMP",
+            "Firmed",
+            "Slight Decline in Number of U.S. Rigs Drilling for New Production",
+            "CONCEPT"
+        ],
+        [
+            "Gold Prices",
+            "COMP",
+            "Held_Steady",
+            "Below 3-1/2-month Highs",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

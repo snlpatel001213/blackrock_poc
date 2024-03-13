@@ -1,0 +1,150 @@
+{
+    "output": [
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Security Issues",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Say",
+            "Performance Impact",
+            "CONCEPT",
+            "Not Significant"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Rebuff",
+            "Concerns",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Operate_In",
+            "Microchips",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Confirm",
+            "Security Issues",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Researchers",
+            "PERSON"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Security Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Meltdown",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Relate_To",
+            "Spectre",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Ask",
+            "Users",
+            "PERSON",
+            "Download",
+            "Patch",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "May_Be",
+            "On_The_Hook",
+            "CONCEPT",
+            "Costs",
+            "ECON_INDICATOR",
+            "Stemming",
+            "From",
+            "Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Likely",
+            "Seek",
+            "Compensation",
+            "CONCEPT",
+            "Big",
+            "PERSON",
+            "Customers"
+        ],
+        [
+            "Apple Inc",
+            "COMP",
+            "Report",
+            "Little",
+            "ECON_INDICATOR",
+            "Performance Impact",
+            "CONCEPT",
+            "From",
+            "Security Updates",
+            "CONCEPT"
+        ],
+        [
+            "Amazon.com Inc",
+            "COMP",
+            "Report",
+            "Little",
+            "ECON_INDICATOR",
+            "Performance Impact",
+            "CONCEPT",
+            "From",
+            "Security Updates",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Report",
+            "Little",
+            "ECON_INDICATOR",
+            "Performance Impact",
+            "CONCEPT",
+            "From",
+            "Security Updates",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Report",
+            "Little",
+            "ECON_INDICATOR",
+            "Performance Impact",
+            "CONCEPT",
+            "From",
+            "Security Updates",
+            "CONCEPT"
+        ]
+    ]
+}

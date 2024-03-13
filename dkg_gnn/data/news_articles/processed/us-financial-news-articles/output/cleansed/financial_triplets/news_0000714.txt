@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nomura Holdings",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Nomura Holdings",
+            "ORG",
+            "Operate_In",
+            "Asia Excluding Japan",
+            "GPE"
+        ],
+        [
+            "Infrastructure and Utilities Sectors",
+            "SECTOR",
+            "Is_Member_Of",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Infrastructure and Utilities Sectors",
+            "SECTOR",
+            "Is_Member_Of",
+            "Asia Excluding Japan",
+            "GPE"
+        ]
+    ]
+}

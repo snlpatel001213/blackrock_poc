@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Sharecare",
+            "ORG",
+            "Announce",
+            "Ami Patel",
+            "PERSON"
+        ],
+        [
+            "Ami Patel",
+            "PERSON",
+            "Is_Member_Of",
+            "Sharecare",
+            "ORG"
+        ],
+        [
+            "Ami Patel",
+            "PERSON",
+            "Operate_In",
+            "Atlanta",
+            "GPE"
+        ],
+        [
+            "Sharecare",
+            "ORG",
+            "Participates_In",
+            "Health Plans",
+            "ORG"
+        ],
+        [
+            "Sharecare",
+            "ORG",
+            "Participates_In",
+            "Employers",
+            "ORG"
+        ],
+        [
+            "Sharecare",
+            "ORG",
+            "Participates_In",
+            "Providers",
+            "ORG"
+        ],
+        [
+            "Sharecare",
+            "ORG",
+            "Participates_In",
+            "Users",
+            "ORG"
+        ]
+    ]
+}

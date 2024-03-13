@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "U.S. Shale Gas Production",
+            "SECTOR",
+            "Decrease",
+            "Natural Gas",
+            "PRODUCT"
+        ],
+        [
+            "Bakken Region",
+            "GPE",
+            "Has",
+            "Natural Gas Production",
+            "SECTOR"
+        ],
+        [
+            "Bakken Region",
+            "GPE",
+            "Impact",
+            "Heating Demand",
+            "CONCEPT"
+        ],
+        [
+            "North Dakota",
+            "GPE",
+            "Produce",
+            "Natural Gas",
+            "PRODUCT"
+        ],
+        [
+            "North Dakota",
+            "GPE",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Interstate Pipelines",
+            "ORG",
+            "Operate_In",
+            "North Dakota",
+            "GPE"
+        ],
+        [
+            "Texas",
+            "GPE",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Oklahoma",
+            "GPE",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Pennsylvania",
+            "GPE",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ]
+    ]
+}

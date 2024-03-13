@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Declines",
+            "Kim Jung Un",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Relate_To",
+            "WSJ",
+            "ORG"
+        ],
+        [
+            "WSJ",
+            "ORG",
+            "Announce",
+            "1 Hour Ago",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Announce",
+            "Appointment of Miguel Alban",
+            "PERSON"
+        ],
+        [
+            "Miguel Alban",
+            "PERSON",
+            "Is_Member_Of",
+            "Multicultural Banking Initiative",
+            "CONCEPT"
+        ],
+        [
+            "Bryn Mawr Trust",
+            "COMP",
+            "Operate_In",
+            "Delaware Valley",
+            "GPE"
+        ],
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Has",
+            "$3.5 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bryn Mawr Bank Corporation",
+            "ORG",
+            "Has",
+            "$12.4 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Montgomery",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Chester",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Delaware",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Philadelphia",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Berks",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "New Castle",
+            "GPE"
+        ],
+        [
+            "BMT",
+            "COMP",
+            "Operate_In",
+            "Camden",
+            "GPE"
+        ]
+    ]
+}

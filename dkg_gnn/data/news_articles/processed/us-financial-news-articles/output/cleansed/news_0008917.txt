@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Brookfield Renewable Partners",
+            "COMP",
+            "Operate_In",
+            "Renewable Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Brookfield Renewable Partners",
+            "COMP",
+            "Listed_On",
+            "New York Stock Exchange",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Brookfield Renewable Partners",
+            "COMP",
+            "Listed_On",
+            "Toronto Stock Exchange",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Brookfield Renewable Partners",
+            "COMP",
+            "Part_Of",
+            "Brookfield Asset Management",
+            "ORG"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG",
+            "Manage",
+            "US$265 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Claire Holland",
+            "PERSON",
+            "Work_At",
+            "Brookfield Renewable Partners",
+            "COMP"
+        ],
+        [
+            "Divya Biyani",
+            "PERSON",
+            "Work_At",
+            "Brookfield Renewable Partners",
+            "COMP"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Announce",
+            "new sanctions",
+            "CONCEPT"
+        ],
+        [
+            "Treasury",
+            "ORG/GOV",
+            "Impact",
+            "five Iranian entities",
+            "ORG"
+        ],
+        [
+            "five Iranian entities",
+            "ORG",
+            "Relate_To",
+            "Iranian ballistic missile program",
+            "CONCEPT"
+        ],
+        [
+            "five Iranian entities",
+            "ORG",
+            "Is_Member_Of",
+            "Shahid Bakeri Industrial Group",
+            "ORG"
+        ],
+        [
+            "five Iranian entities",
+            "ORG",
+            "Control",
+            "new restrictions",
+            "CONCEPT"
+        ],
+        [
+            "new restrictions",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "five Iranian entities",
+            "ORG"
+        ]
+    ]
+}

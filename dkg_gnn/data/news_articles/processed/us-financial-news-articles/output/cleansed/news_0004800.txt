@@ -1,0 +1,259 @@
+{
+    "output": [
+        [
+            "Iran",
+            "GPE",
+            "Control",
+            "Iranian Army",
+            "ORG/GOV"
+        ],
+        [
+            "Iranian Army",
+            "ORG/GOV",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Major General Abdolrahim Mousavi",
+            "PERSON",
+            "Quote",
+            "Iranian Army",
+            "ORG/GOV"
+        ],
+        [
+            "Pro-government rallies",
+            "EVENT",
+            "Participates_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Protest_Against",
+            "Government of Iran",
+            "ORG/GOV"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Protest_Against",
+            "Clerical leadership",
+            "ORG/GOV"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Protest_Against",
+            "President Hassan Rouhani",
+            "PERSON"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Include",
+            "Working class",
+            "PERSON"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Include",
+            "Educated Iranians",
+            "PERSON"
+        ],
+        [
+            "Elite Revolutionary Guards Corps",
+            "ORG",
+            "Deploy",
+            "Forces",
+            "ORG"
+        ],
+        [
+            "Elite Revolutionary Guards Corps",
+            "ORG",
+            "Operate_In",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Elite Revolutionary Guards Corps",
+            "ORG",
+            "Suppressed",
+            "Uprising",
+            "EVENT"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Call_For",
+            "Downfall",
+            "Supreme Leader Ayatollah Ali Khamenei",
+            "PERSON"
+        ],
+        [
+            "Protester Reza",
+            "PERSON",
+            "Express",
+            "Anger",
+            "EVENT"
+        ],
+        [
+            "Protester Reza",
+            "PERSON",
+            "Express",
+            "Feeling_of_Suffocation",
+            "EVENT"
+        ],
+        [
+            "Protester Reza",
+            "PERSON",
+            "Has",
+            "Children",
+            "PERSON"
+        ],
+        [
+            "Iranian Nobel Peace laureate Shirin Ebadi",
+            "PERSON",
+            "Urge",
+            "People",
+            "PERSON"
+        ],
+        [
+            "Iranian Nobel Peace laureate Shirin Ebadi",
+            "PERSON",
+            "Urge",
+            "Civil disobedience",
+            "EVENT"
+        ],
+        [
+            "Iranian Nobel Peace laureate Shirin Ebadi",
+            "PERSON",
+            "Urge",
+            "Press_On",
+            "WITH",
+            "Grievances"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Respond",
+            "Nationwide anger",
+            "EVENT"
+        ],
+        [
+            "Authorities",
+            "ORG/GOV",
+            "Stage",
+            "Pro-government rallies",
+            "EVENT"
+        ],
+        [
+            "State television",
+            "ORG",
+            "Show",
+            "Thousands of marchers",
+            "PERSON"
+        ],
+        [
+            "State television",
+            "ORG",
+            "Show",
+            "Posters of Khamenei",
+            "PERSON"
+        ],
+        [
+            "State television",
+            "ORG",
+            "Show",
+            "Banners that read",
+            "TEXT"
+        ],
+        [
+            "Europeans",
+            "PERSON",
+            "Express",
+            "Unease",
+            "EVENT"
+        ],
+        [
+            "U.S. leaders",
+            "PERSON",
+            "React",
+            "Delighted",
+            "EVENT"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Call_Upon",
+            "Stop_Paying",
+            "WITH",
+            "Bills"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Call_Upon",
+            "Withdraw",
+            "Money",
+            "FROM",
+            "State banks"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Call_Upon",
+            "Exert",
+            "Economic pressure",
+            "EVENT"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Call_Upon",
+            "Force",
+            "Government",
+            "TO",
+            "Stop_Resorting_To_Violence"
+        ],
+        [
+            "Iranians",
+            "PERSON",
+            "Call_Upon",
+            "Force",
+            "Government",
+            "TO",
+            "Meet_Demands"
+        ],
+        [
+            "London-based Asharq Al-Awsat",
+            "ORG",
+            "Quote",
+            "Iranian Nobel Peace laureate Shirin Ebadi",
+            "PERSON"
+        ],
+        [
+            "Unrest",
+            "EVENT",
+            "Draw",
+            "Sharply varied responses",
+            "EVENT"
+        ],
+        [
+            "Europeans",
+            "PERSON",
+            "Express",
+            "Unease",
+            "EVENT"
+        ],
+        [
+            "U.S. and Israeli leaders",
+            "PERSON",
+            "React",
+            "Delighted",
+            "EVENT"
+        ]
+    ]
+}

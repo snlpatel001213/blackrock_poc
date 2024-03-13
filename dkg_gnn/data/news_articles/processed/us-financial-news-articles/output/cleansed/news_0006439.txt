@@ -1,0 +1,124 @@
+{
+    "output": [
+        [
+            "Manchester United",
+            "GPE",
+            "Face",
+            "Yeovil Town",
+            "GPE"
+        ],
+        [
+            "Yeovil Town",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Manchester United",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Yeovil Town",
+            "GPE",
+            "In",
+            "League Two",
+            "SECTOR"
+        ],
+        [
+            "Yeovil Town",
+            "GPE",
+            "Currently",
+            "In",
+            "21st Place",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Face",
+            "Newport County",
+            "GPE"
+        ],
+        [
+            "Newport County",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Tottenham Hotspur",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Face",
+            "West Bromwich Albion",
+            "GPE"
+        ],
+        [
+            "West Bromwich Albion",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Manchester City",
+            "GPE",
+            "Face",
+            "Cardiff City or Mansfield Town",
+            "GPE"
+        ],
+        [
+            "Cardiff City",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Mansfield Town",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Manchester City",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Jose Mourinho",
+            "PERSON",
+            "Manages",
+            "Manchester United",
+            "GPE"
+        ],
+        [
+            "Darren Way",
+            "PERSON",
+            "Manages",
+            "Yeovil Town",
+            "GPE"
+        ]
+    ]
+}

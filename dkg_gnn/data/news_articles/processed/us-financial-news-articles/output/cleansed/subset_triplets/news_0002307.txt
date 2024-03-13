@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "British Economy",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Tourism",
+            "SECTOR"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Hotels",
+            "SECTOR"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Travel",
+            "SECTOR"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Parties",
+            "SECTOR"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Commemorative Items",
+            "PRODUCT"
+        ],
+        [
+            "Wedding",
+            "EVENT",
+            "Positive_Impact_On",
+            "Free Advertising",
+            "SECTOR"
+        ]
+    ]
+}

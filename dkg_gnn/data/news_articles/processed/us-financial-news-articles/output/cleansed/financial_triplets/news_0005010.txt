@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "SMTC Corporation",
+            "COMP",
+            "Announce",
+            "Bob Miller",
+            "PERSON"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Operate_In",
+            "Electronics Manufacturing Services",
+            "SECTOR"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Participates_In",
+            "Customer Acquisition",
+            "ORG"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Control",
+            "Profitable Growth",
+            "CONCEPT"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Raise",
+            "Global Footprint",
+            "SECTOR"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Relate_To",
+            "SMTC Leadership Team",
+            "ORG"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Has",
+            "28 Years Experience",
+            "CONCEPT"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Participates_In",
+            "Aerospace and Defense Industry",
+            "SECTOR"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Participates_In",
+            "Industrial Market Segment",
+            "SECTOR"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Participates_In",
+            "Medical Market Segment",
+            "SECTOR"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Invests_In",
+            "Strategy",
+            "CONCEPT"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Invests_In",
+            "Sales and Marketing",
+            "CONCEPT"
+        ],
+        [
+            "Bob Miller",
+            "PERSON",
+            "Impact",
+            "Significant Profitable Growth",
+            "CONCEPT"
+        ],
+        [
+            "SMTC Corporation",
+            "COMP",
+            "Positive_Impact_On",
+            "Customers",
+            "ORG"
+        ],
+        [
+            "SMTC Corporation",
+            "COMP",
+            "Operate_In",
+            "Industrial, Computing and Communication Market Segments",
+            "SECTOR"
+        ]
+    ]
+}

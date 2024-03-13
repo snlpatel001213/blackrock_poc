@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Control",
+            "Tucker\u2019s Kansas-based business",
+            "COMP"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Produce",
+            "Payday Loans",
+            "PRODUCT"
+        ],
+        [
+            "Payday Loans",
+            "PRODUCT",
+            "Negative_Impact_On",
+            "Cash-strapped Consumers",
+            "GPE"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Operate_In",
+            "Online Lending Business",
+            "PRODUCT"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Make",
+            "3.5 Billion Dollars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Found_Guilty",
+            "Violating Federal Truth in Lending and Racketeering Laws",
+            "CONCEPT"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Routinely_Charge",
+            "Interest Rates as high as 700 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Exploit",
+            "More than 4 Million People",
+            "GPE"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Enter_Into",
+            "Sham Relationships",
+            "CONCEPT"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Claim",
+            "Owned by Tribes",
+            "GPE"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Shield",
+            "From Lawsuits",
+            "CONCEPT"
+        ],
+        [
+            "Tucker\u2019s Kansas-based business",
+            "COMP",
+            "Use",
+            "Tribal Sovereign Immunity",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Convicted",
+            "Making a False Statement to Obtain a Bank Loan",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Convicted",
+            "Running a Fraudulent Financial Services Business",
+            "CONCEPT"
+        ],
+        [
+            "Scott Tucker",
+            "PERSON",
+            "Charged",
+            "Filing a False Tax Return",
+            "CONCEPT"
+        ],
+        [
+            "Timothy Muir",
+            "PERSON",
+            "Control",
+            "Legal Work for Tucker\u2019s Business",
+            "COMP"
+        ],
+        [
+            "Timothy Muir",
+            "PERSON",
+            "Convicted",
+            "Same Charges as Tucker",
+            "CONCEPT"
+        ],
+        [
+            "Timothy Muir",
+            "PERSON",
+            "Sentenced",
+            "Seven Years in Prison",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Federal Government",
+            "ORG/GOV",
+            "Crack_Down",
+            "On Abuses by Payday Lending Companies",
+            "SECTOR"
+        ],
+        [
+            "Payday Lending Companies",
+            "SECTOR",
+            "Say",
+            "Help Consumers",
+            "CONCEPT"
+        ],
+        [
+            "Payday Lending Companies",
+            "SECTOR",
+            "Critics Say",
+            "Exploit Borrowers",
+            "CONCEPT"
+        ],
+        [
+            "Payday Lending Companies",
+            "SECTOR",
+            "Charge",
+            "High Interest Rates and Fees",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Trading Nation",
+            "EVENT",
+            "Discuss",
+            "Nasdaq",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gina Sanchez",
+            "PERSON",
+            "Participates_In",
+            "Trading Nation",
+            "EVENT"
+        ],
+        [
+            "Chantico Global",
+            "ORG",
+            "Affiliated_With",
+            "Gina Sanchez",
+            "PERSON"
+        ],
+        [
+            "Chad Morganlander",
+            "PERSON",
+            "Participates_In",
+            "Trading Nation",
+            "EVENT"
+        ],
+        [
+            "Washington Crossing Advisors",
+            "ORG",
+            "Employs",
+            "Chad Morganlander",
+            "PERSON"
+        ],
+        [
+            "Brian Sullivan",
+            "PERSON",
+            "Hosts",
+            "Trading Nation",
+            "EVENT"
+        ],
+        [
+            "Nasdaq",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Incredible Run",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "IOC",
+            "ORG",
+            "Extend",
+            "Deadline for Registration",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Plan",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Operate_In",
+            "Pyeongchang Winter Olympics",
+            "EVENT"
+        ],
+        [
+            "International Olympic Committee",
+            "ORG",
+            "Has",
+            "Spokesman",
+            "PERSON"
+        ],
+        [
+            "Spokesman",
+            "PERSON",
+            "Say",
+            "Deadline extended until",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Secure",
+            "Spot in Games",
+            "EVENT"
+        ],
+        [
+            "Figure skating pair",
+            "PRODUCT",
+            "From",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "Several other athletes",
+            "PRODUCT",
+            "Could",
+            "Qualify",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Welcome",
+            "Discussion",
+            "CONCEPT"
+        ],
+        [
+            "Discussion",
+            "CONCEPT",
+            "Take place",
+            "Wednesday",
+            "CONCEPT"
+        ],
+        [
+            "Republic of Korea",
+            "GPE",
+            "Offer",
+            "Talks",
+            "CONCEPT"
+        ],
+        [
+            "Talks",
+            "CONCEPT",
+            "With",
+            "North Korea",
+            "GPE"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Say",
+            "Open to dialogue",
+            "CONCEPT"
+        ],
+        [
+            "Kim Jong Un",
+            "PERSON",
+            "And",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Exchange",
+            "VERB",
+            "Fiery barbs",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "President",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Discuss",
+            "With",
+            "Both sides",
+            "GPE"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Respect",
+            "United Nations sanctions",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Keep",
+            "Door open",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Offer",
+            "Support",
+            "CONCEPT"
+        ],
+        [
+            "North Korean athletes",
+            "PRODUCT",
+            "In",
+            "Qualification process",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Ensure",
+            "Participation of all qualified athletes",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Need",
+            "Political commitment",
+            "CONCEPT"
+        ],
+        [
+            "IOC",
+            "ORG",
+            "Take",
+            "Final decision",
+            "CONCEPT"
+        ]
+    ]
+}

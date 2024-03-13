@@ -1,0 +1,139 @@
+{
+    "output": [
+        [
+            "Fitch",
+            "ORG/REG",
+            "Announce",
+            "Global Rating Outlooks",
+            "CONCEPT"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "State",
+            "Most Positive",
+            "CONCEPT"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Credit Quality",
+            "May Start",
+            "Relate_To",
+            "Weaken"
+        ],
+        [
+            "Ultra-Supportive Monetary Policy",
+            "CONCEPT",
+            "Phase_Out",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Rising Interest Rates",
+            "CONCEPT",
+            "Affect",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Funding Costs",
+            "CONCEPT",
+            "Affect",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Asset Quality",
+            "CONCEPT",
+            "Affect",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Average Net Outlook Balance",
+            "Turn",
+            "Positive",
+            "Across",
+            "All Sectors",
+            "SECTOR"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "State",
+            "First Time",
+            "CONCEPT",
+            "Since",
+            "Financial Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Says",
+            "Two Main Macro Risks",
+            "CONCEPT",
+            "To",
+            "Ratings",
+            "CONCEPT"
+        ],
+        [
+            "Unwinding of Quantitative Easing",
+            "CONCEPT",
+            "Pressure",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Policy and Political Uncertainty",
+            "CONCEPT",
+            "Risk",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Says",
+            "QE Unwind",
+            "CONCEPT",
+            "Put",
+            "Pressure",
+            "N/A",
+            "On",
+            "Sovereigns",
+            "GPE"
+        ],
+        [
+            "Government Debt",
+            "CONCEPT",
+            "High",
+            "N/A",
+            "N/A",
+            "In",
+            "Many Countries",
+            "GPE"
+        ],
+        [
+            "Fitch",
+            "ORG/REG",
+            "Says",
+            "Eurozone",
+            "GPE",
+            "Banks",
+            "COMP",
+            "Rely",
+            "More",
+            "On",
+            "Market Funding",
+            "CONCEPT",
+            "Rather",
+            "Than",
+            "ECB",
+            "ORG/REG"
+        ]
+    ]
+}

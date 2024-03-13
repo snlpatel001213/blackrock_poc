@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "U.S.",
+            "GPE",
+            "Decrease",
+            "Producer Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "December",
+            "GPE"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Has",
+            "Labor Department",
+            "ORG"
+        ],
+        [
+            "Labor Department",
+            "ORG",
+            "Announce",
+            "Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Producer Prices",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "December",
+            "GPE"
+        ],
+        [
+            "Prices",
+            "ECON_INDICATOR",
+            "Operate_In",
+            "August 2016",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Greene",
+            "PERSON",
+            "Announce",
+            "Formula",
+            "CONCEPT"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Has",
+            "Gross Pay",
+            "ECON_INDICATOR"
+        ],
+        [
+            "25%",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "401(k) Withholdings",
+            "CONCEPT"
+        ],
+        [
+            "25%",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Matching Funds",
+            "CONCEPT"
+        ],
+        [
+            "25%",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Cash Savings",
+            "CONCEPT"
+        ],
+        [
+            "25%",
+            "ECON_INDICATOR",
+            "Is_Member_Of",
+            "Debt Repayment",
+            "CONCEPT"
+        ],
+        [
+            "You",
+            "PERSON",
+            "Participates_In",
+            "Lifestyle Expenses",
+            "CONCEPT"
+        ],
+        [
+            "75%",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Lifestyle Expenses",
+            "CONCEPT"
+        ]
+    ]
+}

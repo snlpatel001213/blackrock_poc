@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "AROUNDTOWN SA",
+            "COMP",
+            "Raise",
+            "EUR 400 MILLION",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "AROUNDTOWN SA",
+            "COMP",
+            "Issue",
+            "Perpetual Subordinated Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Perpetual Subordinated Notes",
+            "FIN_INSTRUMENT",
+            "Has",
+            "EUR 400 MILLION",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Perpetual Subordinated Notes",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Issue Price of 98.174% of Principal Amount of Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Perpetual Subordinated Notes",
+            "FIN_INSTRUMENT",
+            "Has",
+            "Coupon of 2.125%",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Perpetual Subordinated Notes",
+            "FIN_INSTRUMENT",
+            "Has",
+            "First Call Date in 2024",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

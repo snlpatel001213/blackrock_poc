@@ -1,0 +1,172 @@
+{
+    "output": [
+        [
+            "Shanghai Composite index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "3,403.46",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CSI300 index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "financial sector sub-index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "consumer staples sector",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "real estate index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "healthcare sub-index",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Chinese H-shares",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "12,194.77",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Hang Seng Index",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "30,801.06",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Shenzhen index",
+            "FIN_INSTRUMENT",
+            "Unchanged",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "ChiNext Composite index",
+            "FIN_INSTRUMENT",
+            "Fall",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "MSCI\u2019s Asia ex-Japan stock index",
+            "FIN_INSTRUMENT",
+            "Rise",
+            "null",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "yuan",
+            "FIN_INSTRUMENT",
+            "Firm",
+            "6.4873",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Zhejiang XinAn Chemical Industrial Group Co Ltd",
+            "COMP",
+            "Rise",
+            "10.04",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Anhui Leimingkehua Co Ltd",
+            "COMP",
+            "Rise",
+            "9.98",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Easysight Supply Chain Management Co Ltd",
+            "COMP",
+            "Rise",
+            "9.94",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cultural Investment Holdings Co Ltd",
+            "COMP",
+            "Fall",
+            "10.01",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Guangzhou Baiyunshan Pharmaceutical Holdings Co Ltd",
+            "COMP",
+            "Fall",
+            "6.94",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wenyi Suntech Co Ltd",
+            "COMP",
+            "Fall",
+            "5.17",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Air China Ltd",
+            "COMP",
+            "Rise",
+            "9",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Huatai Securities Co Ltd",
+            "COMP",
+            "Rise",
+            "5.47",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China Shenhua Energy Co Ltd",
+            "COMP",
+            "Rise",
+            "4.65",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Zhuzhou CRRC Times Electric Co Ltd",
+            "COMP",
+            "Fall",
+            "2.54",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New China Life Insurance Co Ltd",
+            "COMP",
+            "Fall",
+            "2.2",
+            "ECON_INDICATOR"
+        ],
+        [
+            "CRRC Corp Ltd",
+            "COMP",
+            "Fall",
+            "2.2",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

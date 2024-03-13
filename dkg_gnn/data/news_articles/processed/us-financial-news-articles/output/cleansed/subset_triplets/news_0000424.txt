@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Americans",
+            "PERSON",
+            "Raise",
+            "Holiday-induced Debt",
+            "ECON_INDICATOR"
+        ],
+        [
+            "MagnifyMoney",
+            "ORG",
+            "Announce",
+            "Holiday Debt Survey",
+            "EVENT"
+        ],
+        [
+            "Shoppers",
+            "PERSON",
+            "Participates_In",
+            "Holiday Spending",
+            "EVENT"
+        ]
+    ]
+}

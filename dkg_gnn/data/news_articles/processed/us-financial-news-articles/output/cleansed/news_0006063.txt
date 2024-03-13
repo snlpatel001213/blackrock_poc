@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Powerful snowstorm",
+            "EVENT",
+            "Impact",
+            "US Northeast",
+            "GPE"
+        ],
+        [
+            "US Northeast",
+            "GPE",
+            "Negative_Impact_On",
+            "Several US states",
+            "GPE"
+        ],
+        [
+            "Several US states",
+            "GPE",
+            "Has",
+            "Powerful snowstorm",
+            "EVENT"
+        ],
+        [
+            "Powerful snowstorm",
+            "EVENT",
+            "Relate_To",
+            "Deadly snowstorm",
+            "EVENT"
+        ],
+        [
+            "Deadly snowstorm",
+            "EVENT",
+            "Negative_Impact_On",
+            "At least a dozen people",
+            "PERSON"
+        ],
+        [
+            "At least a dozen people",
+            "PERSON",
+            "Is_Member_Of",
+            "US states",
+            "GPE"
+        ]
+    ]
+}

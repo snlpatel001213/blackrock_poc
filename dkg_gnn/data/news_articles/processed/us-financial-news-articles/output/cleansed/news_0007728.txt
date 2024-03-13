@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Exceed",
+            "25,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Strong economic data",
+            "ECON_INDICATOR",
+            "Extend",
+            "new year\u2019s equities rally",
+            "EVENT"
+        ],
+        [
+            "Dow",
+            "FIN_INSTRUMENT",
+            "Operate_In",
+            "new year\u2019s equities rally",
+            "EVENT"
+        ]
+    ]
+}

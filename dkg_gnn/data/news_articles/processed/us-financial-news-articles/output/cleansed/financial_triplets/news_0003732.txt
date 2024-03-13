@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Start",
+            "EVENT",
+            "Operate_In",
+            "Fifth Ashes Test",
+            "EVENT"
+        ],
+        [
+            "Fifth Ashes Test",
+            "EVENT",
+            "Participates_In",
+            "Ashes Series",
+            "EVENT"
+        ],
+        [
+            "Ashes Series",
+            "EVENT",
+            "Relate_To",
+            "Cricket",
+            "CONCEPT"
+        ]
+    ]
+}

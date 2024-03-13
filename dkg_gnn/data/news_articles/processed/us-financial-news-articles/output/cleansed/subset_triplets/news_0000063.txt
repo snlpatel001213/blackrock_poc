@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Polaris Industries Inc.",
+            "COMP",
+            "Announce",
+            "Fourth Quarter and Full-Year 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Polaris Industries Inc.",
+            "COMP",
+            "Operate_In",
+            "Global Powersports Leader Sector",
+            "SECTOR"
+        ],
+        [
+            "Scott Wine",
+            "PERSON",
+            "Is_Member_Of",
+            "Polaris Industries Inc.",
+            "COMP"
+        ],
+        [
+            "Mike Speetzen",
+            "PERSON",
+            "Is_Member_Of",
+            "Polaris Industries Inc.",
+            "COMP"
+        ]
+    ]
+}

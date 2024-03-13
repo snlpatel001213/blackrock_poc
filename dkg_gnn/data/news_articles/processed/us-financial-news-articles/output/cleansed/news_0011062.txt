@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Julius Baer",
+            "COMP",
+            "Buy",
+            "Kairos Investment Management SpA",
+            "COMP"
+        ],
+        [
+            "Julius Baer",
+            "COMP",
+            "Operate_In",
+            "Swiss private bank",
+            "ORG/GOV"
+        ],
+        [
+            "Kairos Investment Management SpA",
+            "COMP",
+            "Control",
+            "11 billion euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kairos Investment Management SpA",
+            "COMP",
+            "Relate_To",
+            "Italian wealth management firm",
+            "ORG"
+        ],
+        [
+            "Kairos Investment Management SpA",
+            "COMP",
+            "Has",
+            "Paolo Basilico",
+            "PERSON"
+        ],
+        [
+            "Paolo Basilico",
+            "PERSON",
+            "Participates_In",
+            "Kairos Investment Management SpA",
+            "COMP"
+        ],
+        [
+            "Paolo Basilico",
+            "PERSON",
+            "Is_Member_Of",
+            "executive management",
+            "CONCEPT"
+        ],
+        [
+            "Paolo Basilico",
+            "PERSON",
+            "Assume_Role",
+            "chairman",
+            "TITLE"
+        ]
+    ]
+}

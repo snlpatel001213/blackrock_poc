@@ -1,0 +1,163 @@
+{
+    "output": [
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Address",
+            "China's Armed Forces",
+            "ORG/GOV"
+        ],
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Urge",
+            "Troops",
+            "ORG/GOV"
+        ],
+        [
+            "Troops",
+            "ORG/GOV",
+            "Show",
+            "Fighting Spirit",
+            "CONCEPT"
+        ],
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Occupy",
+            "Multiple Roles",
+            "ORG/GOV"
+        ],
+        [
+            "Xi Jinping",
+            "PERSON",
+            "Considered",
+            "Powerful Leader",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Flex",
+            "Military Muscles",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "GPE",
+            "Amid",
+            "Security Crisis",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Nuclear Threat",
+            "NONE"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Military Spending",
+            "INCREASE"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Defense Budget",
+            "5.19 trillion yen",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Strike",
+            "Defiant Tone",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Tweet",
+            "About North Korea",
+            "GPE"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Criticized",
+            "For Tweet",
+            "CONCEPT"
+        ],
+        [
+            "Control Risks",
+            "ORG",
+            "State",
+            "Tweet",
+            "CONCEPT"
+        ],
+        [
+            "Charles Hecker",
+            "PERSON",
+            "Senior Partner",
+            "Control Risks",
+            "ORG"
+        ],
+        [
+            "Hecker",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Hecker",
+            "PERSON",
+            "Say",
+            "Rhetoric Doesn't Move Dial",
+            "CONCEPT"
+        ],
+        [
+            "North Korea",
+            "GPE",
+            "Supreme Leader",
+            "Kim Jong Un",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Commit",
+            "Total Might",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Address",
+            "North Korea Nuclear Issue",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Misconstructed",
+            "Role in Nuclear Crisis",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Not",
+            "Place to Look for Answer",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Not Want",
+            "Disruption on Borders",
+            "CONCEPT"
+        ]
+    ]
+}

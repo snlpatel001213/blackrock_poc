@@ -1,0 +1,106 @@
+{
+    "output": [
+        [
+            "Japan",
+            "GPE",
+            "Raise",
+            "Detention of Reuters Reporters",
+            "EVENT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Impact",
+            "Freedom of Expression",
+            "CONCEPT"
+        ],
+        [
+            "Japan",
+            "GPE",
+            "Impact",
+            "Basic Human Rights",
+            "CONCEPT"
+        ],
+        [
+            "Japanese Government",
+            "ORG/GOV",
+            "Convey",
+            "Concern",
+            "CONCEPT"
+        ],
+        [
+            "Japanese Government",
+            "ORG/GOV",
+            "Discuss",
+            "Detention of Reuters Reporters",
+            "EVENT"
+        ],
+        [
+            "Japanese Government",
+            "ORG/GOV",
+            "Appeal",
+            "Detention of Reuters Reporters",
+            "EVENT"
+        ],
+        [
+            "Myanmar Government",
+            "ORG/GOV",
+            "Detain",
+            "Reuters Reporters",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Prosecute",
+            "Reuters Reporters",
+            "PERSON"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Under",
+            "Official Secrets Act",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Taro Kono",
+            "PERSON",
+            "Visit",
+            "Myanmar",
+            "GPE"
+        ],
+        [
+            "Tokyo",
+            "GPE",
+            "Reuters",
+            "null"
+        ],
+        [
+            "Yangon",
+            "GPE",
+            "Court",
+            "null"
+        ],
+        [
+            "Wa Lone",
+            "PERSON",
+            "Attend",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Kyaw Soe Oo",
+            "PERSON",
+            "Attend",
+            "Hearing",
+            "EVENT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Journalists",
+            "null"
+        ]
+    ]
+}

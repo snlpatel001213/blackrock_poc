@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Eddie Redmayne",
+            "PERSON",
+            "Calls_For",
+            "Hollywood Change",
+            "EVENT"
+        ],
+        [
+            "Hollywood",
+            "GPE",
+            "Need",
+            "Huge Amount of Change",
+            "CONCEPT"
+        ],
+        [
+            "Eddie Redmayne",
+            "PERSON",
+            "Speak",
+            "Red Carpet",
+            "GPE"
+        ],
+        [
+            "Eddie Redmayne",
+            "PERSON",
+            "Play",
+            "New Animated Film",
+            "PRODUCT"
+        ],
+        [
+            "Maisie Williams",
+            "PERSON",
+            "Play",
+            "New Animated Film",
+            "PRODUCT"
+        ],
+        [
+            "Maisie Williams",
+            "PERSON",
+            "Tell",
+            "Fans",
+            "GROUP"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Have",
+            "Final Season",
+            "EVENT"
+        ],
+        [
+            "Maisie Williams",
+            "PERSON",
+            "Read",
+            "Scripts",
+            "PRODUCT"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Come Out",
+            "Another Year",
+            "TIME"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Make",
+            "Incredible Episodes",
+            "PRODUCT"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Do",
+            "Something Like This",
+            "CONCEPT"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Take",
+            "Long",
+            "TIME"
+        ],
+        [
+            "Game of Thrones",
+            "PRODUCT",
+            "Worth",
+            "Wait",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Animal protection services",
+            "ORG",
+            "Rescue",
+            "Zsazsa",
+            "PERSON"
+        ],
+        [
+            "Zsazsa",
+            "PERSON",
+            "Relate_To",
+            "Owner",
+            "PERSON"
+        ],
+        [
+            "Zsazsa",
+            "PERSON",
+            "Has",
+            "Dry feed",
+            "PRODUCT"
+        ],
+        [
+            "Zsazsa",
+            "PERSON",
+            "Negative_Impact_On",
+            "Dehydrated state",
+            "CONCEPT"
+        ],
+        [
+            "Zsazsa",
+            "PERSON",
+            "Positive_Impact_On",
+            "Recovering",
+            "CONCEPT"
+        ],
+        [
+            "Owner",
+            "PERSON",
+            "Appear",
+            "Die of natural causes",
+            "CONCEPT"
+        ],
+        [
+            "Neighbors",
+            "ORG",
+            "Report",
+            "Owner not seen",
+            "CONCEPT"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Open",
+            "Flat",
+            "COMP"
+        ],
+        [
+            "Zsazsa",
+            "PERSON",
+            "Lie_Next_To",
+            "Dead body",
+            "PERSON"
+        ]
+    ]
+}

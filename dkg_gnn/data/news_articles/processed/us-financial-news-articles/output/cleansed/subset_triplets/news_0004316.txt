@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Orasure Technologies",
+            "ORG",
+            "Announce",
+            "Management Succession Plan",
+            "CONCEPT"
+        ],
+        [
+            "Orasure Technologies",
+            "ORG",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG"
+        ],
+        [
+            "Stephen S. Tang",
+            "PERSON",
+            "Control",
+            "Orasure Technologies",
+            "ORG"
+        ],
+        [
+            "Douglas A. Michels",
+            "PERSON",
+            "Participates_In",
+            "Retire",
+            "CONCEPT"
+        ],
+        [
+            "Ronald H. Spair",
+            "PERSON",
+            "Participates_In",
+            "Retire",
+            "CONCEPT"
+        ]
+    ]
+}

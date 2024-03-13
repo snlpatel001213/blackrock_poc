@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Settle",
+            "Price Collusion Lawsuit",
+            "EVENT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Agree",
+            "Help",
+            "PLAINTIFFS",
+            "PERSON"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Deny",
+            "Wrongdoing",
+            "CONCEPT"
+        ],
+        [
+            "Southwest Airlines",
+            "COMP",
+            "Is_Member_Of",
+            "Four Largest US Carriers",
+            "ORG"
+        ],
+        [
+            "American Airlines Group",
+            "COMP",
+            "Is_Member_Of",
+            "Four Largest US Carriers",
+            "ORG"
+        ],
+        [
+            "Delta Air Lines",
+            "COMP",
+            "Is_Member_Of",
+            "Four Largest US Carriers",
+            "ORG"
+        ],
+        [
+            "United Continental Holdings",
+            "COMP",
+            "Is_Member_Of",
+            "Four Largest US Carriers",
+            "ORG"
+        ],
+        [
+            "US Department of Justice",
+            "ORG/REG",
+            "Begin",
+            "Probe",
+            "Price Collusion",
+            "EVENT"
+        ],
+        [
+            "Passengers",
+            "PERSON",
+            "Claim",
+            "Higher Fares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Passengers",
+            "PERSON",
+            "Claim",
+            "Reduced Flight Choices",
+            "CONCEPT"
+        ],
+        [
+            "Passengers",
+            "PERSON",
+            "Claim",
+            "Collusion",
+            "EVENT"
+        ],
+        [
+            "American",
+            "COMP",
+            "Say",
+            "Continue",
+            "Defend",
+            "AGAINST",
+            "Claims",
+            "CONCEPT"
+        ],
+        [
+            "Delta",
+            "COMP",
+            "Say",
+            "Not Engage",
+            "Illegal Behavior",
+            "CONCEPT"
+        ],
+        [
+            "Kollar-Kotelly",
+            "PERSON",
+            "Call",
+            "Settlement",
+            "Sufficiently Fair",
+            "CONCEPT"
+        ],
+        [
+            "Kollar-Kotelly",
+            "PERSON",
+            "Grant",
+            "Preliminary Approval",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "output": [
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Meet",
+            "Mao Asada",
+            "PERSON"
+        ],
+        [
+            "Mao Asada",
+            "PERSON",
+            "Impact",
+            "Shoma Uno",
+            "PERSON"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Start",
+            "Figure skating",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Become",
+            "Phenomenal jumper",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Land",
+            "Quadruple flip",
+            "PRODUCT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Compete",
+            "World junior championships",
+            "EVENT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Win",
+            "Silver",
+            "ECON_INDICATOR",
+            "at",
+            "World senior championships",
+            "EVENT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Lose",
+            "Narrowly",
+            "to",
+            "Yuzuru Hanyu",
+            "PERSON",
+            "at",
+            "World championships",
+            "EVENT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Motto",
+            "Attack",
+            "CONCEPT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Charge",
+            "Olympic season",
+            "EVENT"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Prefer",
+            "Remain",
+            "in",
+            "Yuzuru Hanyu",
+            "PERSON",
+            "shadow",
+            "RELATE_TO"
+        ],
+        [
+            "Shoma Uno",
+            "PERSON",
+            "Want",
+            "Beat",
+            "Yuzuru Hanyu",
+            "PERSON"
+        ]
+    ]
+}

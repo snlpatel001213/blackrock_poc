@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "GOP",
+            "PERSON",
+            "Participates_In",
+            "U.S. Budget Battle",
+            "EVENT"
+        ],
+        [
+            "GOP",
+            "PERSON",
+            "Flips",
+            "Fiscal Script",
+            "CONCEPT"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Operate_In",
+            "Federal Budget",
+            "EVENT"
+        ]
+    ]
+}

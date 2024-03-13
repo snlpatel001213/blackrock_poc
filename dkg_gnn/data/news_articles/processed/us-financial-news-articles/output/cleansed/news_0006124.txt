@@ -1,0 +1,163 @@
+{
+    "output": [
+        [
+            "Investors",
+            "PERSON",
+            "Pull",
+            "US stock returns",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Funnel",
+            "Taxable bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "US fund investors",
+            "PERSON",
+            "Respond",
+            "Defensively",
+            "CONCEPT"
+        ],
+        [
+            "US fund investors",
+            "PERSON",
+            "Respond",
+            "Strong year of market gains",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Fund investors",
+            "PERSON",
+            "Pull",
+            "US domestic stock funds",
+            "COMP"
+        ],
+        [
+            "US",
+            "GPE",
+            "Fund investors",
+            "PERSON",
+            "Put",
+            "Money elsewhere",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Fund investors",
+            "PERSON",
+            "Raid",
+            "Strong-performing domestic stock funds",
+            "COMP"
+        ],
+        [
+            "Domestic equity funds",
+            "COMP",
+            "Post",
+            "Outflows",
+            "CONCEPT",
+            "27.3 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Domestic equity funds",
+            "COMP",
+            "Post",
+            "Outflows",
+            "CONCEPT",
+            "For third year",
+            "TIME"
+        ],
+        [
+            "Non-domestic equity funds",
+            "COMP",
+            "Inflows",
+            "171.4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Treasury fund",
+            "COMP",
+            "Inflows",
+            "34 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Emerging market",
+            "GPE",
+            "Inflows",
+            "Biggest since 2010",
+            "TIME"
+        ],
+        [
+            "Cash from US investors",
+            "PERSON",
+            "Keep",
+            "Bond yields and borrowing costs",
+            "FIN_INSTRUMENT",
+            "Low worldwide",
+            "LOCATION"
+        ],
+        [
+            "Exchange-traded funds",
+            "COMP",
+            "ETFs",
+            "Has",
+            "Another record year of inflows",
+            "CONCEPT"
+        ],
+        [
+            "Technology-focused equity funds",
+            "COMP",
+            "Pull in",
+            "About 13 billion",
+            "ECON_INDICATOR",
+            "For the year",
+            "TIME"
+        ],
+        [
+            "High-yield bonds",
+            "COMP",
+            "Post",
+            "Outflows",
+            "CONCEPT",
+            "21 billion",
+            "ECON_INDICATOR",
+            "For the year",
+            "TIME"
+        ],
+        [
+            "All Equity Funds",
+            "COMP",
+            "Outflows",
+            "-8.397",
+            "ECON_INDICATOR"
+        ],
+        [
+            "All Taxable Bond Funds",
+            "COMP",
+            "Inflows",
+            "3.279",
+            "ECON_INDICATOR"
+        ],
+        [
+            "All Money Market Funds",
+            "COMP",
+            "Outflows",
+            "-7.094",
+            "ECON_INDICATOR"
+        ],
+        [
+            "All Municipal Bond Funds",
+            "COMP",
+            "Outflows",
+            "-0.048",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

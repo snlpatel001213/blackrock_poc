@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Petroshale Inc.",
+            "COMP",
+            "Announce",
+            "Financing Transaction",
+            "CONCEPT"
+        ],
+        [
+            "Petroshale Inc.",
+            "COMP",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Petroshale (US), Inc.",
+            "COMP",
+            "Is_Member_Of",
+            "Petroshale Inc.",
+            "COMP"
+        ]
+    ]
+}

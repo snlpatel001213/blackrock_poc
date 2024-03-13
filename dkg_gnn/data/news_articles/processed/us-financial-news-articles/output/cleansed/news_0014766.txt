@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Bankers",
+            "PERSON",
+            "Participates_In",
+            "Meeting",
+            "EVENT"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Relate_To",
+            "Brexit",
+            "CONCEPT"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Demand",
+            "Clarity",
+            "CONCEPT"
+        ],
+        [
+            "Clarity",
+            "CONCEPT",
+            "Relate_To",
+            "Future Regulatory Relationship",
+            "CONCEPT"
+        ],
+        [
+            "Future Regulatory Relationship",
+            "CONCEPT",
+            "Relate_To",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Britain",
+            "GPE",
+            "And",
+            "European Union",
+            "GPE"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Reassured",
+            "Last Month\u2019s Preliminary Brexit Divorce Settlement",
+            "EVENT"
+        ],
+        [
+            "Last Month\u2019s Preliminary Brexit Divorce Settlement",
+            "EVENT",
+            "Relate_To",
+            "Brexit",
+            "CONCEPT"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Emphasise",
+            "Need",
+            "CONCEPT"
+        ],
+        [
+            "Need",
+            "CONCEPT",
+            "Relate_To",
+            "Certainty",
+            "CONCEPT"
+        ],
+        [
+            "Certainty",
+            "CONCEPT",
+            "Relate_To",
+            "Possible",
+            "CONCEPT"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Occur",
+            "Thursday",
+            "DATE"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Occur",
+            "Downing Street",
+            "GPE"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Attend",
+            "Executives",
+            "PERSON"
+        ],
+        [
+            "Executives",
+            "PERSON",
+            "Attend",
+            "Financial Firms",
+            "COMP"
+        ],
+        [
+            "Bankers",
+            "PERSON",
+            "Reporting",
+            "Andrew MacAskill",
+            "PERSON"
+        ],
+        [
+            "Meeting",
+            "EVENT",
+            "Edit",
+            "William Schomberg",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "Gold prices",
+            "ECON_INDICATOR",
+            "Decrease",
+            "Dollar Index",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gold prices",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "U.S. Interest Rate Hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dollar Index",
+            "FIN_INSTRUMENT",
+            "Steady",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Interest Rate Hikes",
+            "ECON_INDICATOR",
+            "Expectations",
+            "null",
+            "null"
+        ],
+        [
+            "U.S. Interest Rate Hikes",
+            "ECON_INDICATOR",
+            "More",
+            "This Year",
+            "TIME"
+        ],
+        [
+            "Spot Gold",
+            "ECON_INDICATOR",
+            "Slip",
+            "$1,317.06",
+            "PRICE"
+        ],
+        [
+            "Spot Gold",
+            "ECON_INDICATOR",
+            "Touch",
+            "$1,325.86",
+            "PRICE"
+        ],
+        [
+            "U.S. Gold Futures",
+            "ECON_INDICATOR",
+            "Down",
+            "$1,318.10",
+            "PRICE"
+        ],
+        [
+            "Dollar Index",
+            "FIN_INSTRUMENT",
+            "Tracks",
+            "Greenback",
+            "CURRENCY"
+        ],
+        [
+            "Dollar Index",
+            "FIN_INSTRUMENT",
+            "Tracks",
+            "Basket of Six Major Rival Currencies",
+            "CURRENCY"
+        ],
+        [
+            "Investors",
+            "PERSON",
+            "Bet",
+            "Further U.S. Interest Rate Hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "U.S. Federal Reserve",
+            "ORG/GOV",
+            "Outlook",
+            "Monetary Policy Tightening",
+            "CONCEPT"
+        ],
+        [
+            "Job Growth",
+            "ECON_INDICATOR",
+            "Slow",
+            "More than Expected",
+            "QUANTITY"
+        ],
+        [
+            "Monthly Wages",
+            "ECON_INDICATOR",
+            "Pickup",
+            "null",
+            "null"
+        ],
+        [
+            "Labour Market",
+            "CONCEPT",
+            "Strength",
+            "null",
+            "null"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Raphael Bostic",
+            "Two Hikes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Atlanta Fed President",
+            "PERSON",
+            "Raphael Bostic",
+            "Voting Member",
+            "null"
+        ],
+        [
+            "Central Bank Policy Board",
+            "ORG/GOV",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "Weak Price Pressures",
+            "CONCEPT",
+            "Underpinning",
+            "Dollar",
+            "CURRENCY"
+        ],
+        [
+            "Gold",
+            "ECON_INDICATOR",
+            "Highly Sensitive",
+            "Rising U.S. Interest Rates",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Gold",
+            "ECON_INDICATOR",
+            "Non-yielding Bullion",
+            "null",
+            "null"
+        ],
+        [
+            "CME",
+            "ORG",
+            "Lower",
+            "COMEX 100 Gold Futures Margins",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "CME",
+            "ORG",
+            "Lower",
+            "COMEX 5000 Silver Futures",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Colombia",
+            "GPE",
+            "Raise",
+            "Gold Holdings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Colombia",
+            "GPE",
+            "Raise",
+            "2.240 Tonnes",
+            "QUANTITY"
+        ],
+        [
+            "Colombia",
+            "GPE",
+            "Gold Holdings",
+            "8.933 Tonnes",
+            "QUANTITY"
+        ],
+        [
+            "Nov, 2017",
+            "TIME",
+            "null",
+            "null",
+            "null"
+        ],
+        [
+            "BofA Merrill",
+            "ORG",
+            "Keep",
+            "Third Quarter 2018 Average Gold Price Forecast",
+            "PRICE"
+        ],
+        [
+            "BofA Merrill",
+            "ORG",
+            "Keep",
+            "$1,350",
+            "PRICE"
+        ],
+        [
+            "Asian Shares",
+            "ECON_INDICATOR",
+            "Edge",
+            "Higher",
+            "DIRECTION"
+        ],
+        [
+            "Asian Shares",
+            "ECON_INDICATOR",
+            "Approach",
+            "Record Highs",
+            "PRICE"
+        ],
+        [
+            "S&P 500",
+            "ECON_INDICATOR",
+            "Extend",
+            "Winning Streak",
+            "CONCEPT"
+        ],
+        [
+            "Reporting",
+            "PERSON",
+            "Nallur Sethuraman",
+            "In",
+            "Bengaluru"
+        ],
+        [
+            "Editing",
+            "PERSON",
+            "Joseph Radford",
+            "null",
+            "null"
+        ]
+    ]
+}

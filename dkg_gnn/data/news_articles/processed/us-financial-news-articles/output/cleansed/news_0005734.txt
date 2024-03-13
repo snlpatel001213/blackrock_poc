@@ -1,0 +1,70 @@
+{
+    "output": [
+        [
+            "Department",
+            "ORG/GOV",
+            "Scale",
+            "Student Loan Relief",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Borrowers",
+            "PERSON",
+            "Receive",
+            "100% Debt Relief",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Programs",
+            "ORG",
+            "Enroll",
+            "Grads",
+            "PERSON"
+        ],
+        [
+            "Grads",
+            "PERSON",
+            "Earn",
+            "Less",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average",
+            "ECON_INDICATOR",
+            "Peer Institutions",
+            "ORG"
+        ],
+        [
+            "College",
+            "ORG",
+            "Employment Data",
+            "CONCEPT"
+        ],
+        [
+            "Staff",
+            "PERSON",
+            "Process",
+            "Claims",
+            "CONCEPT"
+        ],
+        [
+            "Taxpayer",
+            "PERSON",
+            "Money",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Applicant",
+            "PERSON",
+            "Assessed",
+            "CONCEPT"
+        ],
+        [
+            "Student",
+            "PERSON",
+            "Prepared",
+            "Advanced",
+            "CONCEPT"
+        ]
+    ]
+}

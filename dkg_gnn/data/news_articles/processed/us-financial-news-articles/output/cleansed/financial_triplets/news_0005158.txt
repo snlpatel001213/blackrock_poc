@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Federal Reserve",
+            "ORG/GOV",
+            "Raise",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "December",
+            "EVENT",
+            "Relate_To",
+            "Employers added fewer jobs than expected",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TD Securities",
+            "ORG",
+            "Has",
+            "Mark McCormick",
+            "PERSON"
+        ],
+        [
+            "Fed policymakers",
+            "PERSON",
+            "Raise",
+            "Interest Rates",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "March",
+            "EVENT",
+            "Relate_To",
+            "Chances of a March hike",
+            "CONCEPT"
+        ],
+        [
+            "June",
+            "EVENT",
+            "Relate_To",
+            "Second rate hike",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Later in the year",
+            "EVENT",
+            "Relate_To",
+            "Second rate hike",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

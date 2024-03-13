@@ -1,0 +1,156 @@
+{
+    "output": [
+        [
+            "Ethiopian authorities",
+            "ORG/GOV",
+            "Drop_Charges",
+            "Senior opposition leader",
+            "PERSON"
+        ],
+        [
+            "Ethiopian authorities",
+            "ORG/GOV",
+            "Release",
+            "Hundreds of others",
+            "PERSON"
+        ],
+        [
+            "Hundreds of others",
+            "PERSON",
+            "Involved_In",
+            "Unrest",
+            "EVENT"
+        ],
+        [
+            "Unrest",
+            "EVENT",
+            "Gripped",
+            "Ethiopia",
+            "GPE"
+        ],
+        [
+            "Protests",
+            "EVENT",
+            "Erupted",
+            "Oromiya province",
+            "GPE"
+        ],
+        [
+            "Several dissident politicians",
+            "PERSON",
+            "Jailed",
+            "N/A"
+        ],
+        [
+            "Jailed politicians",
+            "PERSON",
+            "Released",
+            "N/A"
+        ],
+        [
+            "Prime Minister Hailemariam Desalegn",
+            "PERSON",
+            "Announce",
+            "Foster_Reconciliation",
+            "CONCEPT"
+        ],
+        [
+            "Attorney General Getachew Ambaye",
+            "PERSON",
+            "Tell",
+            "Journalists",
+            "PERSON"
+        ],
+        [
+            "Getachew Ambaye",
+            "PERSON",
+            "Select",
+            "528 people",
+            "PERSON"
+        ],
+        [
+            "528 people",
+            "PERSON",
+            "Released",
+            "N/A"
+        ],
+        [
+            "Merera Gudina",
+            "PERSON",
+            "Leader",
+            "Oromo Federalist Congress",
+            "ORG"
+        ],
+        [
+            "Merera Gudina",
+            "PERSON",
+            "Arrested",
+            "N/A"
+        ],
+        [
+            "Merera Gudina",
+            "PERSON",
+            "Formally_Charged",
+            "Attempting_to_dismantle_or_disrupt",
+            "CONCEPT"
+        ],
+        [
+            "Merera Gudina",
+            "PERSON",
+            "Accused",
+            "Backing_a_secessionist_group",
+            "ORG"
+        ],
+        [
+            "Merera Gudina",
+            "PERSON",
+            "Accused",
+            "Flouting_guidelines",
+            "CONCEPT"
+        ],
+        [
+            "Nearly 700 people",
+            "PERSON",
+            "Died",
+            "N/A"
+        ],
+        [
+            "Rallies",
+            "EVENT",
+            "Over_land_rights",
+            "N/A"
+        ],
+        [
+            "Demonstrations",
+            "EVENT",
+            "Over_political_restrictions",
+            "N/A"
+        ],
+        [
+            "Ethnic_clashes",
+            "EVENT",
+            "Took_place",
+            "N/A"
+        ],
+        [
+            "Dozens_of_people",
+            "PERSON",
+            "Died",
+            "N/A"
+        ],
+        [
+            "EPRDF_coalition",
+            "ORG",
+            "Concluded",
+            "Weeks-long_meeting",
+            "CONCEPT"
+        ],
+        [
+            "Getachew Ambaye",
+            "PERSON",
+            "Announce",
+            "More_pardons_and_releases",
+            "CONCEPT"
+        ]
+    ]
+}

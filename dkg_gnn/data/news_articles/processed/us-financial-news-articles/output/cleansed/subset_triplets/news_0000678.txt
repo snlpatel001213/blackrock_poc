@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Intel",
+            "ORG",
+            "Operate_In",
+            "Calif.",
+            "GPE"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Announce",
+            "Slowdowns",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Negative_Impact_On",
+            "Data_Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Negative_Impact_On",
+            "Data_Modification",
+            "CONCEPT"
+        ],
+        [
+            "Intel",
+            "ORG",
+            "Negative_Impact_On",
+            "Data_Deletion",
+            "CONCEPT"
+        ]
+    ]
+}

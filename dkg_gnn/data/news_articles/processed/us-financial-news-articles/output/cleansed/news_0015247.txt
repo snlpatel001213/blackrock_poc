@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Has",
+            "Wheelchair-bound Athlete",
+            "CONCEPT"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Climb_Up",
+            "Mountain",
+            "GPE"
+        ],
+        [
+            "Mountain",
+            "GPE",
+            "Height",
+            "Empire State Building",
+            "GPE"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Nominated_For",
+            "Laureus World\u2019s Best Sporting Moment",
+            "CONCEPT"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Successfully_Scaled",
+            "Lion Rock",
+            "GPE"
+        ],
+        [
+            "Lion Rock",
+            "GPE",
+            "Symbolizes",
+            "Hong Kong Spirit",
+            "CONCEPT"
+        ],
+        [
+            "Laureus World Sports Award",
+            "CONCEPT",
+            "Honors",
+            "Best Sportsmen and Sportswomen",
+            "PERSON"
+        ],
+        [
+            "Laureus World Sports Award",
+            "CONCEPT",
+            "Founded_By",
+            "Richemont",
+            "ORG"
+        ],
+        [
+            "Laureus World Sports Award",
+            "CONCEPT",
+            "Founded_By",
+            "Daimler",
+            "ORG"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Lost",
+            "December Award",
+            "CONCEPT"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Hope",
+            "Inspire",
+            "VERB"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Climbed_Up",
+            "Lion Rock",
+            "GPE"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Four_Time_Champion",
+            "Asian Rock Climbing Championships",
+            "CONCEPT"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "First_Chinese_Winner",
+            "X-Game\u2019s Extreme Sports",
+            "CONCEPT"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Climb_Up",
+            "Lion Rock",
+            "GPE"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Upon",
+            "5th_Anniversary",
+            "TIME"
+        ],
+        [
+            "Lai Chi-wai",
+            "PERSON",
+            "Car_Accident",
+            "null",
+            "null"
+        ]
+    ]
+}

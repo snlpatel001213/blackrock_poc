@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Operate_In",
+            "Biopharmaceutical Company",
+            "ORG"
+        ],
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Appoint",
+            "Kevin Hanley",
+            "PERSON"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Has",
+            "Over 30 years of experience",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Operate_In",
+            "Biotechnology and Pharmaceutical Operations",
+            "SECTOR"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Relate_To",
+            "Technology Transfer and Process Scale-Up",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Relate_To",
+            "CMC Manufacturing Sections for Regulatory Submissions",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Produce",
+            "Numerous Clinical Proteins",
+            "CONCEPT"
+        ],
+        [
+            "Kevin Hanley",
+            "PERSON",
+            "Control",
+            "Seven Protein Biopharmaceuticals Commercialization",
+            "CONCEPT"
+        ],
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Appoint",
+            "Naymisha Patel",
+            "PERSON"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Has",
+            "Over 20 years of experience",
+            "CONCEPT"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Operate_In",
+            "Quality Management",
+            "SECTOR"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Relate_To",
+            "Process Improvement",
+            "CONCEPT"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Relate_To",
+            "Regulatory Submissions and Compliance",
+            "CONCEPT"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Control",
+            "Global Quality at Prothena Corporation",
+            "COMP"
+        ],
+        [
+            "Naymisha Patel",
+            "PERSON",
+            "Control",
+            "Regulatory and Quality of StemCells",
+            "COMP"
+        ],
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Develop",
+            "DEXTENZA\u2122",
+            "PRODUCT"
+        ],
+        [
+            "DEXTENZA\u2122",
+            "PRODUCT",
+            "Relate_To",
+            "Leading Development-Focused Biopharmaceutical Company",
+            "CONCEPT"
+        ],
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Manufacture",
+            "DEXTENZA\u2122",
+            "PRODUCT"
+        ],
+        [
+            "Ocular Therapeutix",
+            "ORG",
+            "Commercialize",
+            "ReSure\u00ae Sealant",
+            "PRODUCT"
+        ]
+    ]
+}

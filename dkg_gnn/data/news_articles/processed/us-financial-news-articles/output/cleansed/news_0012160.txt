@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Shanghai Beite Technology Co Ltd",
+            "COMP",
+            "Get",
+            "Securities Regulator's Approval",
+            "ORG/REG"
+        ],
+        [
+            "Shanghai Beite Technology Co Ltd",
+            "COMP",
+            "Relate_To",
+            "Asset Restructuring",
+            "CONCEPT"
+        ],
+        [
+            "Shanghai Beite Technology Co Ltd",
+            "COMP",
+            "Resume",
+            "Share Trade",
+            "PRODUCT"
+        ],
+        [
+            "Share Trade",
+            "PRODUCT",
+            "On",
+            "Jan 11",
+            "DATE"
+        ],
+        [
+            "Shanghai Beite Technology Co Ltd",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ]
+    ]
+}

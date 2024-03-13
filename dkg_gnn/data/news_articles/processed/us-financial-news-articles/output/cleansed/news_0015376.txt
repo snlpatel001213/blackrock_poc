@@ -1,0 +1,255 @@
+{
+    "output": [
+        [
+            "Californian authorities",
+            "ORG/GOV",
+            "Call_For",
+            "Public help",
+            "PERSON"
+        ],
+        [
+            "Californian authorities",
+            "ORG/GOV",
+            "Locate",
+            "Seven people",
+            "PERSON"
+        ],
+        [
+            "Mudslides",
+            "EVENT",
+            "Kill",
+            "At least 18",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Crews",
+            "ORG",
+            "Search",
+            "For survivors",
+            "PERSON"
+        ],
+        [
+            "Santa Barbara County Sheriff\u2019s Office",
+            "ORG/GOV",
+            "Make",
+            "Plea for information",
+            "PERSON"
+        ],
+        [
+            "Missing persons",
+            "PERSON",
+            "Reported",
+            "By family and friends",
+            "PERSON"
+        ],
+        [
+            "Missing residents",
+            "PERSON",
+            "Reside",
+            "In areas",
+            "GPE"
+        ],
+        [
+            "Areas",
+            "GPE",
+            "Heavily damaged",
+            "During storm",
+            "EVENT"
+        ],
+        [
+            "Sodden hillsides",
+            "GPE",
+            "Give way",
+            "Unleash torrent",
+            "EVENT"
+        ],
+        [
+            "Torrent",
+            "EVENT",
+            "Cause",
+            "Traumatic injuries",
+            "EVENT"
+        ],
+        [
+            "Victims",
+            "PERSON",
+            "Range",
+            "In age",
+            "CONCEPT"
+        ],
+        [
+            "Disaster",
+            "EVENT",
+            "Strike",
+            "Tuesday",
+            "DATE"
+        ],
+        [
+            "Heavy rains",
+            "EVENT",
+            "Soak",
+            "Area",
+            "GPE"
+        ],
+        [
+            "Vegetation",
+            "GPE",
+            "Denduded",
+            "By wildfire",
+            "EVENT"
+        ],
+        [
+            "Largest wildfire",
+            "EVENT",
+            "In California\u2019s history",
+            "CONCEPT"
+        ],
+        [
+            "Sodden hillsides",
+            "GPE",
+            "Give way",
+            "Unleash mud",
+            "EVENT"
+        ],
+        [
+            "Mud",
+            "EVENT",
+            "Water",
+            "Uprooted trees",
+            "EVENT"
+        ],
+        [
+            "Boulders",
+            "EVENT",
+            "Onto valley",
+            "Below",
+            "GPE"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Describe",
+            "Injuries",
+            "EVENT"
+        ],
+        [
+            "Destruction",
+            "EVENT",
+            "Cover",
+            "30 square miles",
+            "ECON_INDICATOR"
+        ],
+        [
+            "More than 2,100 personnel",
+            "PERSON",
+            "Involved",
+            "In search, recovery and relief efforts",
+            "EVENT"
+        ],
+        [
+            "Local, state and federal agencies",
+            "ORG",
+            "Involved",
+            "In efforts",
+            "EVENT"
+        ],
+        [
+            "U.S. Coast Guard",
+            "ORG",
+            "Involved",
+            "In efforts",
+            "EVENT"
+        ],
+        [
+            "U.S. Navy",
+            "ORG",
+            "Involved",
+            "In efforts",
+            "EVENT"
+        ],
+        [
+            "American Red Cross",
+            "ORG",
+            "Involved",
+            "In efforts",
+            "EVENT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Ordered",
+            "To leave homes",
+            "PERSON"
+        ],
+        [
+            "Southeastern corner of Montecito",
+            "GPE",
+            "Most of",
+            "Ordered to leave",
+            "PERSON"
+        ],
+        [
+            "Coastal Highway 101",
+            "PRODUCT",
+            "Partially closed",
+            "Mud",
+            "EVENT"
+        ],
+        [
+            "Mud",
+            "EVENT",
+            "Two feet deep",
+            "In places",
+            "GPE"
+        ],
+        [
+            "In Montecito",
+            "GPE",
+            "Mud",
+            "Reach roof lines",
+            "PRODUCT"
+        ],
+        [
+            "Residents",
+            "PERSON",
+            "Survey",
+            "Damaged homes",
+            "PERSON"
+        ],
+        [
+            "Garrett Speirs",
+            "PERSON",
+            "Artist",
+            "Living in Montecito",
+            "GPE"
+        ],
+        [
+            "Garrett Speirs",
+            "PERSON",
+            "Living in Montecito",
+            "For 20 years",
+            "TIME"
+        ],
+        [
+            "Newer homes",
+            "PRODUCT",
+            "Gone",
+            "Across from Speirs",
+            "PERSON"
+        ],
+        [
+            "Everybody down below",
+            "PERSON",
+            "Gone",
+            "Two girls",
+            "PERSON"
+        ],
+        [
+            "Two sixth-graders",
+            "PERSON",
+            "In school",
+            "Our kids went to",
+            "PRODUCT"
+        ]
+    ]
+}

@@ -1,0 +1,263 @@
+{
+    "output": [
+        [
+            "Alliqua BioMedical",
+            "ORG",
+            "Announce",
+            "definitive agreement",
+            "ORG"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Sell",
+            "advanced biologic wound care business",
+            "ORG"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Buy",
+            "advanced biologic wound care business",
+            "ORG"
+        ],
+        [
+            "advanced biologic wound care business",
+            "ORG",
+            "Include",
+            "Biovance",
+            "PRODUCT"
+        ],
+        [
+            "advanced biologic wound care business",
+            "ORG",
+            "Include",
+            "Interfyl",
+            "PRODUCT"
+        ],
+        [
+            "advanced biologic wound care business",
+            "ORG",
+            "Include",
+            "UltraMist Therapy System",
+            "PRODUCT"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Operate_In",
+            "Regenerative medicine sector",
+            "SECTOR"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Has",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Pay_Off",
+            "Debt",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Evaluate",
+            "Capital allocation options",
+            "CONCEPT"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Goal",
+            "Bring back under one entity",
+            "CONCEPT"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Goal",
+            "World leader in cell therapy",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Subject_To",
+            "Customary closing conditions",
+            "CONCEPT"
+        ],
+        [
+            "Cowen",
+            "ORG",
+            "Financial_Advisor",
+            "Alliqua",
+            "ORG"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "File",
+            "Form 8-K",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Proxy_Statement",
+            "Stockholders",
+            "PERSON"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Stockholder_Approval",
+            "Proposed asset purchase transaction",
+            "CONCEPT"
+        ],
+        [
+            "SEC",
+            "ORG/REG",
+            "Website",
+            "http://www.sec.gov",
+            "PRODUCT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Market",
+            "Human biologic regenerative technologies",
+            "PRODUCT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Market",
+            "UltraMist Therapy System",
+            "PRODUCT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Custom_Manufacturing_Solution",
+            "Medical device and cosmetics industry",
+            "SECTOR"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Headquartered",
+            "Warren, New Jersey",
+            "GPE"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Website",
+            "www.celularity.com",
+            "PRODUCT"
+        ],
+        [
+            "Celularity",
+            "ORG",
+            "Social_Media",
+            "@Celularity",
+            "PRODUCT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Risk",
+            "Not being timely completed",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Risk",
+            "Business disruptions",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Risk",
+            "Difficulty maintaining relationships",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Risk",
+            "Unable to implement integration strategies",
+            "CONCEPT"
+        ],
+        [
+            "Transaction",
+            "ORG",
+            "Risk",
+            "Not realizing anticipated benefits",
+            "CONCEPT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Filing",
+            "Annual Report on Form 10-K",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Filing",
+            "Form 10-Q",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Discuss",
+            "Factors that could cause actual results to differ materially",
+            "CONCEPT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Urge",
+            "Read free of charge",
+            "CONCEPT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Website",
+            "http://ir.stockpr.com/alliqua/email-alerts",
+            "PRODUCT"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Location",
+            "Yardley, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Location",
+            "Langhorne, Pennsylvania",
+            "GPE"
+        ],
+        [
+            "Alliqua",
+            "ORG",
+            "Location",
+            "Eden Prairie, Minnesota",
+            "GPE"
+        ]
+    ]
+}

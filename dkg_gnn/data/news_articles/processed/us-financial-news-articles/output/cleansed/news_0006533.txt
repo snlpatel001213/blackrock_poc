@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Has",
+            "Four Hills title",
+            "EVENT"
+        ],
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Operate_In",
+            "Ski Jumping",
+            "CONCEPT"
+        ],
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Equal",
+            "Sven Hannawald\u2019s record",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Lead",
+            "Overall World Cup standings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Relate_To",
+            "Double gold medallist at Sochi Olympics",
+            "EVENT"
+        ],
+        [
+            "Anders Fannemel",
+            "PERSON",
+            "Finish",
+            "Second",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Anders Fannemel",
+            "PERSON",
+            "Operate_In",
+            "Ski Jumping",
+            "CONCEPT"
+        ],
+        [
+            "Andreas Wellinger",
+            "PERSON",
+            "Finish",
+            "Third",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andreas Wellinger",
+            "PERSON",
+            "Operate_In",
+            "Ski Jumping",
+            "CONCEPT"
+        ],
+        [
+            "Andreas Wellinger",
+            "PERSON",
+            "Relate_To",
+            "Podium",
+            "CONCEPT"
+        ],
+        [
+            "Anders Fannemel",
+            "PERSON",
+            "Relate_To",
+            "Second place",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andreas Wellinger",
+            "PERSON",
+            "Relate_To",
+            "Third place",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Richard Freitag",
+            "PERSON",
+            "Absent",
+            "Final stage",
+            "EVENT"
+        ],
+        [
+            "Richard Freitag",
+            "PERSON",
+            "Injury",
+            "Bad landing",
+            "EVENT"
+        ],
+        [
+            "Kamil Stoch",
+            "PERSON",
+            "Lead",
+            "World Cup standings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Richard Freitag",
+            "PERSON",
+            "Followed",
+            "World Cup standings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Andreas Wellinger",
+            "PERSON",
+            "Adrift",
+            "World Cup standings",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

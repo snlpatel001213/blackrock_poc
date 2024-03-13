@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Douglas Emmett, Inc.",
+            "ORG",
+            "Announce",
+            "2017 Fourth quarter earnings results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Douglas Emmett, Inc.",
+            "ORG",
+            "Operate_In",
+            "Los Angeles and Honolulu",
+            "GPE"
+        ],
+        [
+            "Douglas Emmett, Inc.",
+            "ORG",
+            "Participates_In",
+            "Live conference call",
+            "EVENT"
+        ],
+        [
+            "Jordan Kaplan",
+            "PERSON",
+            "Host",
+            "Live conference call",
+            "EVENT"
+        ],
+        [
+            "Mona Gisler",
+            "PERSON",
+            "Participates_In",
+            "Live conference call",
+            "EVENT"
+        ],
+        [
+            "Kevin Crummy",
+            "PERSON",
+            "Participates_In",
+            "Live conference call",
+            "EVENT"
+        ],
+        [
+            "Stuart McElhinney",
+            "PERSON",
+            "Participates_In",
+            "Live conference call",
+            "EVENT"
+        ],
+        [
+            "Stuart McElhinney",
+            "PERSON",
+            "Is_Member_Of",
+            "Douglas Emmett, Inc.",
+            "ORG"
+        ]
+    ]
+}

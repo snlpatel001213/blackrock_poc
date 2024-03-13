@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Ford Motor Co",
+            "COMP",
+            "Urge",
+            "2,900 pickup owners",
+            "PERSON"
+        ],
+        [
+            "Ford Motor Co",
+            "COMP",
+            "Confirm",
+            "second death",
+            "EVENT"
+        ],
+        [
+            "2006 Ford Ranger",
+            "COMP",
+            "Involve",
+            "defective Takata airbag inflator",
+            "PRODUCT"
+        ],
+        [
+            "Takata",
+            "ORG",
+            "Produce",
+            "defective Takata airbag inflator",
+            "PRODUCT"
+        ],
+        [
+            "Ford Motor Co",
+            "COMP",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Ford Motor Co",
+            "COMP",
+            "Relate_To",
+            "largest automotive recall in history",
+            "CONCEPT"
+        ],
+        [
+            "Honda Motor Co",
+            "COMP",
+            "Involve",
+            "other deaths",
+            "EVENT"
+        ]
+    ]
+}

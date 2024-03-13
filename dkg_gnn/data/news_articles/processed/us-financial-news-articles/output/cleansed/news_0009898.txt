@@ -1,0 +1,149 @@
+{
+    "output": [
+        [
+            "NBC",
+            "COMP",
+            "Broadcaster_Of",
+            "Super Bowl",
+            "EVENT"
+        ],
+        [
+            "NBC",
+            "COMP",
+            "Show",
+            "Players_Who_Kneel",
+            "PERSON"
+        ],
+        [
+            "Players_Who_Kneel",
+            "PERSON",
+            "Protest",
+            "Racial_Inequality",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Rebuke",
+            "Players_Who_Kneel",
+            "PERSON"
+        ],
+        [
+            "Players_Who_Kneel",
+            "PERSON",
+            "Draw_Rebukes",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "Game Broadcasters",
+            "COMP",
+            "Show",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Game Broadcasters",
+            "COMP",
+            "Reduce_Coverage_Of",
+            "Protests",
+            "CONCEPT"
+        ],
+        [
+            "Pop Singer Pink",
+            "PERSON",
+            "Perform",
+            "National Anthem",
+            "CONCEPT"
+        ],
+        [
+            "Players",
+            "PERSON",
+            "Choose_To_Kneel",
+            "At_Super Bowl",
+            "EVENT"
+        ],
+        [
+            "NBC",
+            "COMP",
+            "Cover",
+            "Players_Who_Kneel",
+            "PERSON"
+        ],
+        [
+            "Announcers",
+            "PERSON",
+            "Identify",
+            "Players_Who_Kneel",
+            "PERSON"
+        ],
+        [
+            "Announcers",
+            "PERSON",
+            "Explain",
+            "Reasons_Behind_Actions",
+            "CONCEPT"
+        ],
+        [
+            "Announcers",
+            "PERSON",
+            "Get_On_With_The_Game",
+            "EVENT"
+        ],
+        [
+            "Cleveland Browns",
+            "COMP",
+            "Team",
+            "Kneel",
+            "VERB"
+        ],
+        [
+            "Others",
+            "PERSON",
+            "Stand",
+            "During_National_Anthem",
+            "CONCEPT"
+        ],
+        [
+            "Players_Who_Kneel",
+            "PERSON",
+            "Protest",
+            "Killing_By_Police",
+            "CONCEPT"
+        ],
+        [
+            "Players_Who_Kneel",
+            "PERSON",
+            "Protest",
+            "Racial_Disparities",
+            "CONCEPT"
+        ],
+        [
+            "NFL Players",
+            "PERSON",
+            "Half",
+            "Black",
+            "CONCEPT"
+        ],
+        [
+            "Super Bowl",
+            "EVENT",
+            "Most_Watched_US_Television_Broadcast",
+            "EVENT"
+        ],
+        [
+            "Super Bowl",
+            "EVENT",
+            "Attract_Audience",
+            "More_Than_100_Million_People",
+            "NUM"
+        ],
+        [
+            "NBC",
+            "COMP",
+            "Unit_Of",
+            "Comcast Corp",
+            "COMP"
+        ]
+    ]
+}

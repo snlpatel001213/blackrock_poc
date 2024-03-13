@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Democrats",
+            "PERSON",
+            "Argue",
+            "fake news",
+            "CONCEPT"
+        ],
+        [
+            "fake news",
+            "CONCEPT",
+            "Not_Elect",
+            "Donald Trump",
+            "PERSON"
+        ],
+        [
+            "fake news",
+            "CONCEPT",
+            "Real_Problem",
+            "null",
+            "null"
+        ],
+        [
+            "researchers",
+            "PERSON",
+            "Collect",
+            "tracking data",
+            "null"
+        ],
+        [
+            "tracking data",
+            "null",
+            "From",
+            "computers",
+            "null"
+        ],
+        [
+            "computers",
+            "null",
+            "Of",
+            "2,525",
+            "null"
+        ]
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "output": [
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Has",
+            "Revenues",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Decrease",
+            "Revenues",
+            "ECON_INDICATOR",
+            "Fiscal Year Ended September 30, 2017",
+            "GPE"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Has",
+            "Net Loss",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Decrease",
+            "Net Loss",
+            "ECON_INDICATOR",
+            "Fiscal Year Ended September 30, 2017",
+            "GPE"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Control",
+            "R&D Expense",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Control",
+            "Selling, General and Administrative Expense",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TRIMEDYNE, INC.",
+            "COMP",
+            "Has",
+            "Cash and Cash Equivalents",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

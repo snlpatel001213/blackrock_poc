@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "President Trump",
+            "PERSON",
+            "Participates_In",
+            "Compromise",
+            "EVENT"
+        ],
+        [
+            "America",
+            "GPE",
+            "Has",
+            "Divisive Political Issues",
+            "CONCEPT"
+        ],
+        [
+            "Republicans",
+            "ORG/POL",
+            "Vote",
+            "Legalize Status",
+            "CONCEPT"
+        ],
+        [
+            "Dreamers",
+            "PERSON",
+            "Relate_To",
+            "Young Adults",
+            "CONCEPT"
+        ],
+        [
+            "Young Adults",
+            "PERSON",
+            "Help",
+            "Country",
+            "GPE"
+        ]
+    ]
+}

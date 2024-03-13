@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "State of Israel",
+            "GPE",
+            "Issue",
+            "3.250% Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "State of Israel",
+            "GPE",
+            "Issue",
+            "4.125% Bonds",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "3.250% Bonds",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "99.291%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "4.125% Bonds",
+            "FIN_INSTRUMENT",
+            "Impact",
+            "99.098%",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

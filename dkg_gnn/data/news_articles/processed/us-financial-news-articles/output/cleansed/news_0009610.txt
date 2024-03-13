@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trader",
+            "PERSON",
+            "See",
+            "Rally",
+            "EVENT"
+        ],
+        [
+            "Rally",
+            "EVENT",
+            "Relate_To",
+            "One Bank",
+            "ORG/BANK"
+        ],
+        [
+            "One Bank",
+            "ORG/BANK",
+            "Heading_Into",
+            "Earnings",
+            "EVENT"
+        ]
+    ]
+}

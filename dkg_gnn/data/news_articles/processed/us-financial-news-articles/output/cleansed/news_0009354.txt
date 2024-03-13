@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Jaguar Land Rover",
+            "COMP",
+            "Operate_In",
+            "Britain",
+            "GPE"
+        ],
+        [
+            "Jaguar Land Rover",
+            "COMP",
+            "Decide",
+            null,
+            null
+        ],
+        [
+            "Jaguar Land Rover",
+            "COMP",
+            "Has",
+            "I-PACE",
+            "PRODUCT"
+        ],
+        [
+            "I-PACE",
+            "PRODUCT",
+            "Produce",
+            null,
+            null
+        ],
+        [
+            "I-PACE",
+            "PRODUCT",
+            "Operate_In",
+            "Austria",
+            "GPE"
+        ],
+        [
+            "Andy Goss",
+            "PERSON",
+            "Is_Member_Of",
+            "Jaguar Land Rover",
+            "COMP"
+        ],
+        [
+            "Andy Goss",
+            "PERSON",
+            "Announce",
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            "Relate_To",
+            "Next 12 months",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Russia",
+            "GPE",
+            "Spend",
+            "Reserve Fund",
+            "ORG/REG"
+        ],
+        [
+            "Reserve Fund",
+            "ORG/REG",
+            "Convert",
+            "Foreign Currency",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Reserve Fund",
+            "ORG/REG",
+            "Channel",
+            "More Than 1 Trillion Rubles",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Reserve Fund",
+            "ORG/REG",
+            "Cover",
+            "Budget Deficit",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Reserve Fund",
+            "ORG/REG",
+            "Part of",
+            "Gold and Forex Reserves",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Gold and Forex Reserves",
+            "FIN_INSTRUMENT",
+            "Stand",
+            "432 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Reserve Fund",
+            "ORG/REG",
+            "Terminate",
+            "Feb 1",
+            "DATE"
+        ],
+        [
+            "National Wealth Fund",
+            "ORG/REG",
+            "Fall",
+            "65.15 Billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "National Wealth Fund",
+            "ORG/REG",
+            "Designed",
+            "Help Balance Pension System",
+            "SECTOR"
+        ]
+    ]
+}

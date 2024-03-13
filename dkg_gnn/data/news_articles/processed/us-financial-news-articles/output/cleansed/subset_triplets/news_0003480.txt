@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "France",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Emmanuel Macron",
+            "PERSON",
+            "Is_Member_Of",
+            "Macron\u2019s party",
+            "ORG"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Good_Prospects",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Better_Outlook",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Has",
+            "Signs",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Positive_Impact_On",
+            "Growth",
+            "ECON_INDICATOR"
+        ],
+        [
+            "France",
+            "GPE",
+            "Positive_Impact_On",
+            "Jobs",
+            "CONCEPT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Operate_In",
+            "State_of_emergency",
+            "CONCEPT"
+        ]
+    ]
+}

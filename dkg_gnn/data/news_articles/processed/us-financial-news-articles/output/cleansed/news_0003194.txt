@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "European markets",
+            "GPE",
+            "Start",
+            "First trading day of the year",
+            "EVENT"
+        ],
+        [
+            "European markets",
+            "GPE",
+            "Negative_Impact_On",
+            "Nervous",
+            "CONCEPT"
+        ],
+        [
+            "Euro zone",
+            "GPE",
+            "Has",
+            "Record manufacturing surveys",
+            "EVENT"
+        ],
+        [
+            "Asian shares",
+            "GPE",
+            "Scale",
+            "Decade peak",
+            "CONCEPT"
+        ],
+        [
+            "Asian shares",
+            "GPE",
+            "Positive_Impact_On",
+            "Chinese manufacturing survey",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Has",
+            "Surprisingly upbeat survey of manufacturing",
+            "EVENT"
+        ],
+        [
+            "Korea",
+            "GPE",
+            "Has",
+            "Signs of a thaw in relations",
+            "EVENT"
+        ]
+    ]
+}

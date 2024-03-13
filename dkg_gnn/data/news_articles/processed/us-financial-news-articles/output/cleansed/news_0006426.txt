@@ -1,0 +1,171 @@
+{
+    "output": [
+        [
+            "TAP London",
+            "ORG",
+            "Introduce",
+            "contactless payment box",
+            "PRODUCT"
+        ],
+        [
+            "TAP London",
+            "ORG",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "contactless payment box",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "homeless people",
+            "PERSON"
+        ],
+        [
+            "homeless people",
+            "PERSON",
+            "Participates_In",
+            "TAP London",
+            "ORG"
+        ],
+        [
+            "homeless people",
+            "PERSON",
+            "Raise",
+            "wages",
+            "CONCEPT"
+        ],
+        [
+            "homeless people",
+            "PERSON",
+            "Donate",
+            "to charities",
+            "ORG"
+        ],
+        [
+            "homeless people",
+            "PERSON",
+            "Get",
+            "art card",
+            "PRODUCT"
+        ],
+        [
+            "TAP London",
+            "ORG",
+            "Relate_To",
+            "contactless payments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "contactless payments",
+            "FIN_INSTRUMENT",
+            "Increase",
+            "usage",
+            "CONCEPT"
+        ],
+        [
+            "TAP London",
+            "ORG",
+            "Impact",
+            "homelessness",
+            "CONCEPT"
+        ],
+        [
+            "homelessness",
+            "CONCEPT",
+            "Increase",
+            "in England",
+            "GPE"
+        ],
+        [
+            "homeless people",
+            "PERSON",
+            "Sleep_In",
+            "night shelter",
+            "PRODUCT"
+        ],
+        [
+            "TAP London",
+            "ORG",
+            "Work_With",
+            "St Mungo\u2019s",
+            "ORG"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Advertise",
+            "on Craigslist",
+            "ORG"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Paid",
+            "living wage",
+            "CONCEPT"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Stay_In",
+            "night shelter",
+            "PRODUCT"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Working",
+            "requirement",
+            "CONCEPT"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Have",
+            "contracts",
+            "CONCEPT"
+        ],
+        [
+            "TAP vendor",
+            "PERSON",
+            "Pay_Taxes",
+            "CONCEPT"
+        ],
+        [
+            "Potential donors",
+            "PERSON",
+            "Drawn_In_By",
+            "box",
+            "PRODUCT"
+        ],
+        [
+            "Potential donors",
+            "PERSON",
+            "Stop",
+            "to tap",
+            "VERB"
+        ],
+        [
+            "Samantha Maclean",
+            "PERSON",
+            "Stop",
+            "for Liam",
+            "PERSON"
+        ],
+        [
+            "Samantha Maclean",
+            "PERSON",
+            "Tap",
+            "for three pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Three pounds",
+            "ECON_INDICATOR",
+            "Less_Than",
+            "coffee from Starbucks",
+            "PRODUCT"
+        ]
+    ]
+}

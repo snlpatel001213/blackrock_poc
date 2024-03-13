@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Operate_In",
+            "Nova Scotia",
+            "GPE"
+        ],
+        [
+            "New Brunswick",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Nova Scotia",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Prince Edward Island",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Eastern United States",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Relate_To",
+            "Precipitation and strong winds",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Relate_To",
+            "Bombogenesis",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Relate_To",
+            "Bomb cyclone",
+            "CONCEPT"
+        ]
+    ]
+}

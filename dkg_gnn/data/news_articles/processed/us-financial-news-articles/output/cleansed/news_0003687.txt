@@ -1,0 +1,35 @@
+{
+    "output": [
+        [
+            "Penumbra Inc",
+            "ORG",
+            "Announce",
+            "Formation of Joint Venture",
+            "ORG",
+            "MVI Health"
+        ],
+        [
+            "Penumbra Inc",
+            "ORG",
+            "Participates_In",
+            "Joint Venture",
+            "ORG",
+            "MVI Health"
+        ],
+        [
+            "MVI Health",
+            "ORG",
+            "Has",
+            "Sixense Enterprises",
+            "ORG",
+            "as Member"
+        ],
+        [
+            "MVI Health",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ]
+    ]
+}

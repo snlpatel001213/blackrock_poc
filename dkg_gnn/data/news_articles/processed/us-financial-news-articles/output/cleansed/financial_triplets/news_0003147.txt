@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "W.E. Donoghue",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "ORG"
+        ],
+        [
+            "Minella Capital Management",
+            "ORG",
+            "Invests_In",
+            "W.E. Donoghue",
+            "ORG"
+        ],
+        [
+            "John Forlines III",
+            "PERSON",
+            "Participates_In",
+            "JFG",
+            "ORG"
+        ],
+        [
+            "Robert Shea",
+            "PERSON",
+            "Participates_In",
+            "JFG",
+            "ORG"
+        ],
+        [
+            "John Forlines III",
+            "PERSON",
+            "Is_Member_Of",
+            "Investment Committee",
+            "ORG"
+        ],
+        [
+            "Robert Shea",
+            "PERSON",
+            "Is_Member_Of",
+            "Investment Committee",
+            "ORG"
+        ],
+        [
+            "Jeffrey Thompson",
+            "PERSON",
+            "Is_Member_Of",
+            "Investment Committee",
+            "ORG"
+        ],
+        [
+            "JFG",
+            "ORG",
+            "Relate_To",
+            "Global Tactical Portfolios",
+            "PRODUCT"
+        ],
+        [
+            "JFG",
+            "ORG",
+            "Relate_To",
+            "Low-Cost ETFs",
+            "PRODUCT"
+        ],
+        [
+            "JFG",
+            "ORG",
+            "Relate_To",
+            "Tactical Global Solutions",
+            "CONCEPT"
+        ],
+        [
+            "JFG",
+            "ORG",
+            "Relate_To",
+            "Top-Down Macro View",
+            "CONCEPT"
+        ],
+        [
+            "JFG",
+            "ORG",
+            "Relate_To",
+            "Risk-Managed Global Strategies",
+            "CONCEPT"
+        ],
+        [
+            "Silver Lane Advisors LLC",
+            "ORG",
+            "Introduce",
+            "JFG",
+            "ORG"
+        ]
+    ]
+}

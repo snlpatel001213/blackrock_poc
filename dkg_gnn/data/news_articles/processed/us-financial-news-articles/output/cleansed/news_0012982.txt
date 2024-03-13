@@ -1,0 +1,144 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Treat",
+            "Rome\u2019s poor, homeless and migrants",
+            "GPE"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Has",
+            "office of the pope\u2019s almoner",
+            "ORG"
+        ],
+        [
+            "office of the pope\u2019s almoner",
+            "ORG",
+            "Manage",
+            "his local charity disbursements and activities",
+            "ORG"
+        ],
+        [
+            "office of the pope\u2019s almoner",
+            "ORG",
+            "Arrange",
+            "2,100 people to take in a show",
+            "EVENT"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Host",
+            "2,100 people",
+            "QUANTITY"
+        ],
+        [
+            "Vatican",
+            "ORG/Gov",
+            "Arrange",
+            "tickets for the Thursday afternoon performance",
+            "EVENT"
+        ],
+        [
+            "tickets",
+            "PRODUCT",
+            "For",
+            "poor, homeless, a group of prisoners, children of needy families, volunteers and care givers",
+            "GPE"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Undergo",
+            "accusations by animal rights advocates",
+            "ORG"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Deny",
+            "accusations by animal rights advocates",
+            "ORG"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "In",
+            "appeals process",
+            "EVENT"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Under",
+            "different administrator",
+            "PERSON"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Treat",
+            "animals very well",
+            "CONCEPT"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Get",
+            "permission to hold shows in each city",
+            "GPE"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Inspected",
+            "by veterinarians before permission is given",
+            "ORG"
+        ],
+        [
+            "Medrano Circus",
+            "COMP",
+            "Animals",
+            "super-controlled",
+            "CONCEPT"
+        ],
+        [
+            "Vatican",
+            "ORG/Gov",
+            "Provide",
+            "mobile medical clinic",
+            "COMP"
+        ],
+        [
+            "mobile medical clinic",
+            "COMP",
+            "Treat",
+            "visitors\u2019 routine health problems",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Set up",
+            "places for the homeless to get showers",
+            "COMP"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Offer",
+            "homeless a private tour of the Sistine Chapel",
+            "COMP"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Host",
+            "about 7,000 of them to a gourmet meal at the Vatican",
+            "COMP"
+        ]
+    ]
+}

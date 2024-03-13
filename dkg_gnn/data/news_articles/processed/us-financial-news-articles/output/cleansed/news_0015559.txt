@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Trump",
+            "PERSON",
+            "Expects",
+            "Medical Examination",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Medical Examination",
+            "EVENT",
+            "Happen_On",
+            "Friday",
+            "DATE"
+        ],
+        [
+            "Medical Examination",
+            "EVENT",
+            "Relate_To",
+            "Stock Market",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Say",
+            "It Better Go Well",
+            "CONCEPT"
+        ],
+        [
+            "Stock Market",
+            "FIN_INSTRUMENT",
+            "Impact_On",
+            "Happiness",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Expects",
+            "Medical Examination",
+            "EVENT",
+            "Go Well"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Will Be Surprised",
+            "If Medical Examination Does Not Go Well",
+            "CONCEPT"
+        ],
+        [
+            "Medical Examination",
+            "EVENT",
+            "Take Place",
+            "At Walter Reed Medical Center",
+            "ORG"
+        ],
+        [
+            "Medical Examination",
+            "EVENT",
+            "Announce",
+            "Early Last Month",
+            "TIMEX"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Slurred",
+            "Speech",
+            "EVENT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Recognize",
+            "Jerusalem",
+            "GPE",
+            "As Capital",
+            "CONCEPT",
+            "Of",
+            "Israel",
+            "GPE"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Charge",
+            "Trump Lack Mental Fitness",
+            "CONCEPT",
+            "To Serve",
+            "CONCEPT",
+            "As President",
+            "ORG/GOV"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Draw Fire",
+            "From Trump",
+            "PERSON",
+            "Aides",
+            "ORG",
+            "And Supporters",
+            "ORG"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Physical Exam",
+            "Not Expected",
+            "Include",
+            "Mental Acuity Test",
+            "TEST"
+        ],
+        [
+            "White House",
+            "ORG",
+            "Spokewoman",
+            "Sarah Sanders",
+            "PERSON",
+            "Tell",
+            "REPORT",
+            "Exam Will Be Conducted",
+            "By",
+            "Ronnie Jackson",
+            "PERSON"
+        ],
+        [
+            "Statement",
+            "EVENT",
+            "Release",
+            "On Friday",
+            "TIMEX"
+        ],
+        [
+            "Ronnie Jackson",
+            "PERSON",
+            "Give Details",
+            "On Trump Health",
+            "CONCEPT",
+            "And Take Questions",
+            "EVENT",
+            "At White House",
+            "ORG",
+            "On Tuesday",
+            "TIMEX"
+        ]
+    ]
+}

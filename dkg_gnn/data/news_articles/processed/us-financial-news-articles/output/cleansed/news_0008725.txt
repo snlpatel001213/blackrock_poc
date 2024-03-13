@@ -1,0 +1,91 @@
+{
+    "output": [
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Announce",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Operate_In",
+            "NYSE:LB",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Intends_To_Use",
+            "proceeds from the offering",
+            "FIN_INSTRUMENT",
+            "For",
+            "redemption of its outstanding 8.500% senior notes due 2019",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "BofA Merrill Lynch",
+            "ORG",
+            "Underwrite",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Underwrite",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "HSBC",
+            "ORG",
+            "Underwrite",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Underwrite",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Wells Fargo Securities",
+            "ORG",
+            "Underwrite",
+            "500 million dollar note offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "United States Securities and Exchange Commission",
+            "ORG/REG",
+            "File",
+            "registration statement relating to the offering of the 2028 Notes",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Operate_In",
+            "Victoria\u2019s Secret, PINK, Bath & Body Works, La Senza and Henri Bendel",
+            "COMP"
+        ],
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Operate_In",
+            "3,100 company-owned specialty stores in the United States, Canada, the United Kingdom, Ireland and Greater China",
+            "GPE"
+        ],
+        [
+            "L Brands, Inc.",
+            "ORG",
+            "Operate_In",
+            "800 additional franchised locations worldwide",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "IdentityMine",
+            "ORG",
+            "Has",
+            "Kochi, India",
+            "GPE"
+        ],
+        [
+            "Valorem",
+            "ORG",
+            "Operate_In",
+            "Kansas City, Missouri",
+            "GPE"
+        ],
+        [
+            "Valorem",
+            "ORG",
+            "Participates_In",
+            "SmartCity Global Network",
+            "ORG"
+        ],
+        [
+            "Valorem",
+            "ORG",
+            "Operate_In",
+            "IT Industry",
+            "SECTOR"
+        ],
+        [
+            "Valorem",
+            "ORG",
+            "Impact",
+            "Kochi, India",
+            "GPE"
+        ],
+        [
+            "Valorem",
+            "ORG",
+            "Impact",
+            "Commercial Capital of Kerala",
+            "GPE"
+        ]
+    ]
+}

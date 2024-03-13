@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Announce",
+            "Webcast of Fourth Quarter 2017 Earnings Conference Call",
+            "EVENT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Operate_In",
+            "United States",
+            "GPE"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Operate_In",
+            "Canada",
+            "GPE"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Operate_In",
+            "Italy",
+            "GPE"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Produce",
+            "Private Label Food and Beverage Products",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Shelf Stable, Refrigerated, Frozen and Fresh Products",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Beverages",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Meals",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Baked Goods",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Condiments",
+            "PRODUCT"
+        ],
+        [
+            "TreeHouse Foods, Inc.",
+            "ORG",
+            "Control",
+            "Snacks",
+            "PRODUCT"
+        ],
+        [
+            "Private Label Food and Beverage Products",
+            "PRODUCT",
+            "Relate_To",
+            "Retail Grocery Customers",
+            "COMP"
+        ],
+        [
+            "Private Label Food and Beverage Products",
+            "PRODUCT",
+            "Relate_To",
+            "Food Away from Home Customers",
+            "COMP"
+        ]
+    ]
+}

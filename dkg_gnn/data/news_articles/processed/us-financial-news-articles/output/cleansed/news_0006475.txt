@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "John Young",
+            "PERSON",
+            "Has",
+            "NASA",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Operate_In",
+            "Space",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "Apollo 16",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Lunar Surface Exploration",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Produce",
+            "Rock and Soil Samples",
+            "PRODUCT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Operate_In",
+            "Lunar Rover",
+            "PRODUCT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Relate_To",
+            "Spook Crater",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Is_Member_Of",
+            "U.S. Navy",
+            "ORG"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Retire",
+            "NASA",
+            "ORG/GOV"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Raise",
+            "Two-man U.S. Space Jaunt",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Introduce",
+            "Corned Beef Sandwich",
+            "PRODUCT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Negative_Impact_On",
+            "NASA Brass",
+            "PERSON"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Apollo 10",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Dress Rehearsal",
+            "CONCEPT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Participates_In",
+            "Apollo 11",
+            "EVENT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Control",
+            "Space Shuttle Columbia",
+            "PRODUCT"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Has",
+            "Six Space Missions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Young",
+            "PERSON",
+            "Operate_In",
+            "Georgia Institute of Technology",
+            "EDU"
+        ]
+    ]
+}

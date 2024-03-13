@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Boeing Co",
+            "COMP",
+            "Unveil",
+            "New Unmanned Cargo Air Vehicle Prototype",
+            "PRODUCT"
+        ],
+        [
+            "Boeing Co",
+            "COMP",
+            "Produce",
+            "Prototype",
+            "PRODUCT"
+        ],
+        [
+            "Prototype",
+            "PRODUCT",
+            "Designed_To",
+            "Transport Payload",
+            "CONCEPT"
+        ],
+        [
+            "Payload",
+            "CONCEPT",
+            "Up_To",
+            "500 Pounds",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Payload",
+            "CONCEPT",
+            "For",
+            "Possible Future Cargo & Logistics Applications",
+            "CONCEPT"
+        ]
+    ]
+}

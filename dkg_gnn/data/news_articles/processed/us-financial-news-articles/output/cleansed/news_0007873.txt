@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Rodrigo Duterte",
+            "PERSON",
+            "Control",
+            "Philippines",
+            "GPE"
+        ],
+        [
+            "Rodrigo Duterte",
+            "PERSON",
+            "Introduce",
+            "Federalism",
+            "CONCEPT"
+        ],
+        [
+            "Pantaleon Alvarez",
+            "PERSON",
+            "Control",
+            "House",
+            "ORG"
+        ],
+        [
+            "Pantaleon Alvarez",
+            "PERSON",
+            "Operate_In",
+            "Duterte Ally",
+            "CONCEPT"
+        ],
+        [
+            "House",
+            "ORG",
+            "Plan",
+            "Convene",
+            "VERB"
+        ],
+        [
+            "House",
+            "ORG",
+            "Tackle",
+            "Constitutional Amendments",
+            "CONCEPT"
+        ],
+        [
+            "Leni Robredo",
+            "PERSON",
+            "Come_From",
+            "Opposition Party",
+            "ORG"
+        ],
+        [
+            "Leni Robredo",
+            "PERSON",
+            "Clash_With",
+            "Duterte",
+            "PERSON"
+        ],
+        [
+            "Leni Robredo",
+            "PERSON",
+            "Speak_During",
+            "Radio Programme",
+            "EVENT"
+        ],
+        [
+            "Filipinos",
+            "GPE",
+            "Elect",
+            "Senators",
+            "GPE"
+        ],
+        [
+            "Filipinos",
+            "GPE",
+            "Elect",
+            "Congressmen",
+            "GPE"
+        ],
+        [
+            "Filipinos",
+            "GPE",
+            "Elect",
+            "Local Government Officials",
+            "GPE"
+        ],
+        [
+            "Christian Monsod",
+            "PERSON",
+            "Help_Design",
+            "1987 Constitution",
+            "CONCEPT"
+        ],
+        [
+            "Christian Monsod",
+            "PERSON",
+            "Question",
+            "Motives",
+            "CONCEPT"
+        ],
+        [
+            "Pro-Duterte Camp",
+            "CONCEPT",
+            "Exist_In",
+            "Congress",
+            "ORG"
+        ],
+        [
+            "Pro-Duterte Camp",
+            "CONCEPT",
+            "Amend",
+            "Revise",
+            "VERB"
+        ],
+        [
+            "Pro-Duterte Camp",
+            "CONCEPT",
+            "Suit",
+            "Interests",
+            "CONCEPT"
+        ]
+    ]
+}

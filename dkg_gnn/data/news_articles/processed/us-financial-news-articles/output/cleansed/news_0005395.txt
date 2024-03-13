@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Manchester United",
+            "COMP",
+            "Win",
+            "Derby County",
+            "GPE"
+        ],
+        [
+            "Jesse Lingard",
+            "PERSON",
+            "Score",
+            "Goal",
+            "EVENT"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Score",
+            "Goal",
+            "EVENT"
+        ],
+        [
+            "Jesse Lingard",
+            "PERSON",
+            "Shoot",
+            "Top Corner",
+            "LOC"
+        ],
+        [
+            "Romelu Lukaku",
+            "PERSON",
+            "Score",
+            "16th Goal",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manchester United",
+            "COMP",
+            "Miss",
+            "Chances",
+            "EVENT"
+        ],
+        [
+            "Marcus Rashford",
+            "PERSON",
+            "Hit",
+            "Post",
+            "PRODUCT"
+        ],
+        [
+            "Paul Pogba",
+            "PERSON",
+            "Shoot",
+            "Stinging Long Range Efforts",
+            "EVENT"
+        ],
+        [
+            "Derby County",
+            "GPE",
+            "Launch",
+            "Dangerous Raids",
+            "EVENT"
+        ],
+        [
+            "Marcus Olsson",
+            "PERSON",
+            "Come Close",
+            "Score",
+            "EVENT"
+        ],
+        [
+            "Tom Lawrence",
+            "PERSON",
+            "Come Close",
+            "Score",
+            "EVENT"
+        ],
+        [
+            "Scott Carson",
+            "PERSON",
+            "Keep Out",
+            "Shots",
+            "EVENT"
+        ],
+        [
+            "Manchester United",
+            "COMP",
+            "Struggle",
+            "Find Way Through",
+            "EVENT"
+        ],
+        [
+            "Derby County",
+            "GPE",
+            "Crack",
+            "Closing Stages",
+            "EVENT"
+        ],
+        [
+            "Jose Mourinho",
+            "PERSON",
+            "Praise",
+            "Jesse Lingard",
+            "PERSON"
+        ],
+        [
+            "Jesse Lingard",
+            "PERSON",
+            "Confidence",
+            "High",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Manchester United",
+            "COMP",
+            "Operate_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Derby County",
+            "GPE",
+            "Compete_In",
+            "Championship",
+            "SECTOR"
+        ],
+        [
+            "Manchester United",
+            "COMP",
+            "Face",
+            "Replay",
+            "EVENT"
+        ]
+    ]
+}

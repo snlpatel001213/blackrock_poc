@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Mehmet Hakan Atilla",
+            "PERSON",
+            "Operate_In",
+            "Halkbank",
+            "ORG"
+        ],
+        [
+            "Halkbank",
+            "ORG",
+            "Has",
+            "State",
+            "ORG/GOV"
+        ],
+        [
+            "Case",
+            "CONCEPT",
+            "Relate_To",
+            "Diplomatic Relations",
+            "CONCEPT"
+        ],
+        [
+            "Diplomatic Relations",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Diplomatic Relations",
+            "CONCEPT",
+            "Negative_Impact_On",
+            "Turkey",
+            "GPE"
+        ]
+    ]
+}

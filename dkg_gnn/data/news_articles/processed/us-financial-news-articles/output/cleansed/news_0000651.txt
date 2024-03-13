@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Doug Jones",
+            "PERSON",
+            "Is_Member_Of",
+            "Senate Democrats",
+            "ORG"
+        ],
+        [
+            "Doug Jones",
+            "PERSON",
+            "Participates_In",
+            "Swear_In",
+            "EVENT"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Control",
+            "51 Seats",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Democrats",
+            "ORG",
+            "Control",
+            "49 Seats",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Lose",
+            "1 GOP Vote",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Need",
+            "Democratic Support",
+            "ORG"
+        ],
+        [
+            "Republicans",
+            "ORG",
+            "Pass",
+            "Most Legislation",
+            "CONCEPT"
+        ]
+    ]
+}

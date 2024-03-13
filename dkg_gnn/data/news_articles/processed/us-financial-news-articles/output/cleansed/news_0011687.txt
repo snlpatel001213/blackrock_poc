@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Hennes & Mauritz AB",
+            "ORG",
+            "Trash",
+            "Two outlets",
+            "GPE"
+        ],
+        [
+            "Hennes & Mauritz AB",
+            "ORG",
+            "Relate_To",
+            "an ad for a child\u2019s sweater",
+            "PRODUCT"
+        ],
+        [
+            "Hennes & Mauritz AB",
+            "ORG",
+            "Pull",
+            "the garment in question",
+            "PRODUCT"
+        ],
+        [
+            "Hennes & Mauritz AB",
+            "ORG",
+            "Apologize",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "Economic Freedom Fighters",
+            "ORG/GOV",
+            "Protest",
+            "Hennes & Mauritz AB",
+            "ORG"
+        ],
+        [
+            "Economic Freedom Fighters",
+            "ORG/GOV",
+            "Demonstrate",
+            "N/A",
+            "N/A"
+        ],
+        [
+            "The Weeknd",
+            "PERSON",
+            "End",
+            "collaboration with Hennes & Mauritz AB",
+            "ORG"
+        ],
+        [
+            "Image",
+            "CONCEPT",
+            "Show",
+            "a black child modeling a hoodie",
+            "PRODUCT"
+        ],
+        [
+            "Hoodie",
+            "PRODUCT",
+            "Have",
+            "the text \u201ccoolest monkey in the jungle\u201d",
+            "CONCEPT"
+        ]
+    ]
+}

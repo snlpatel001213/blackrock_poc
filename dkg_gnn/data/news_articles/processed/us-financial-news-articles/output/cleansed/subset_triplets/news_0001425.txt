@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Airborne Wireless Network",
+            "ORG",
+            "Announce",
+            "Kevin L. Spence",
+            "PERSON"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Operate_In",
+            "Airborne Wireless Network",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Is_Member_Of",
+            "Board of Directors",
+            "ORG/GOV"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Financial Fields",
+            "SECTOR"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Participates_In",
+            "Armor Scientific Holdings",
+            "ORG"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Remington Designs",
+            "ORG"
+        ],
+        [
+            "Remington Designs",
+            "ORG",
+            "Impact",
+            "Retail Shelf Space",
+            "SECTOR"
+        ],
+        [
+            "Antarctica Capital Management",
+            "ORG/REG",
+            "Operate_In",
+            "Global Infrastructure",
+            "SECTOR"
+        ],
+        [
+            "Kevin L. Spence",
+            "PERSON",
+            "Control",
+            "Citizens Parking",
+            "ORG"
+        ],
+        [
+            "United States Filter Corporation",
+            "ORG",
+            "Raise",
+            "Over 500 Million Dollars",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

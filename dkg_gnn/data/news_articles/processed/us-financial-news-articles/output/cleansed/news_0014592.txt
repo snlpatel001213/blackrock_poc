@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Nelson Peltz",
+            "PERSON",
+            "Is_Member_Of",
+            "Trian Fund Management",
+            "ORG"
+        ],
+        [
+            "Trian Fund Management",
+            "ORG",
+            "Control",
+            "Financial and market instruments",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nelson Peltz",
+            "PERSON",
+            "Defend",
+            "President Trump",
+            "PERSON"
+        ],
+        [
+            "President Trump",
+            "PERSON",
+            "Has",
+            "Accomplishments",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Norway\u2019s Seafood Council",
+            "ORG",
+            "Announce",
+            "Norwegian seafood exports hit record NOK 94.5 billion ($11.73 billion) in 2017",
+            "EVENT"
+        ],
+        [
+            "Norwegian seafood exports",
+            "GPE",
+            "Increase",
+            "3 pct from 2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Norwegian seafood exports",
+            "GPE",
+            "Operate_In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Volumes",
+            "GPE",
+            "Rise",
+            "7 pct year-on-year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Volumes",
+            "GPE",
+            "Operate_In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "December export",
+            "GPE",
+            "Ease",
+            "year-on-year to NOK 8.1 billion from NOK 8.4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Price of farmed salmon",
+            "GPE",
+            "Decrease",
+            "as price of farmed salmon fell",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salmon exports",
+            "GPE",
+            "Rise",
+            "3 pct to just over 1 million tonnes for the full year",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Salmon exports",
+            "GPE",
+            "Operate_In",
+            "2017",
+            "TIME"
+        ],
+        [
+            "Overall export value of salmon",
+            "GPE",
+            "Equal",
+            "NOK 64.7 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Average export price for fresh whole salmon",
+            "GPE",
+            "Increase",
+            "NOK 0.26 per kilo from 2016",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Seafood exports to Asia",
+            "GPE",
+            "Rise",
+            "8 pct to NOK 18.7 billion in 2017",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Exported volumes to Asia",
+            "GPE",
+            "Rise",
+            "12 pct to 539,000 tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Increased seafood consumption in Asia",
+            "GPE",
+            "Relate_To",
+            "a growing middle class and improved distribution",
+            "CONCEPT"
+        ],
+        [
+            "Increased seafood consumption in Asia",
+            "GPE",
+            "Impact",
+            "Seafood exports to Asia rose by 8 pct to NOK 18.7 billion in 2017",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Potential",
+            "salmon exports may reach 156,000 tonnes in 2025",
+            "ECON_INDICATOR"
+        ],
+        [
+            "China",
+            "GPE",
+            "Equal",
+            "12 per cent of current salmon production in Norway",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

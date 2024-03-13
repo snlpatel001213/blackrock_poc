@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Magnitude 5.1 quake",
+            "EVENT",
+            "Impact",
+            "western Iran",
+            "GPE"
+        ],
+        [
+            "State Television",
+            "ORG",
+            "Report",
+            "magnitude 5.1 quake",
+            "EVENT"
+        ],
+        [
+            "State Television",
+            "ORG",
+            "Report",
+            "damage or casualties",
+            "CONCEPT"
+        ],
+        [
+            "Dubai newsroom",
+            "ORG",
+            "Reporting",
+            "earthquake",
+            "EVENT"
+        ],
+        [
+            "Angus MacSwan",
+            "PERSON",
+            "Edit",
+            "report",
+            "CONCEPT"
+        ]
+    ]
+}

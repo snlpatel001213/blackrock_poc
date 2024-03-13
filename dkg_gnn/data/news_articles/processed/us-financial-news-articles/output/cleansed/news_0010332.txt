@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Golden Globes",
+            "EVENT",
+            "Relate_To",
+            "Female Empowerment",
+            "CONCEPT"
+        ],
+        [
+            "Golden Globes",
+            "EVENT",
+            "Operate_In",
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "Time's Up",
+            "EVENT",
+            "Relate_To",
+            "Sexual Harassment",
+            "CONCEPT"
+        ],
+        [
+            "Time's Up",
+            "EVENT",
+            "Relate_To",
+            "Discrimination",
+            "CONCEPT"
+        ],
+        [
+            "Time's Up",
+            "EVENT",
+            "Operate_In",
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "Time's Up",
+            "EVENT",
+            "Operate_In",
+            "Beyond",
+            "GPE"
+        ]
+    ]
+}

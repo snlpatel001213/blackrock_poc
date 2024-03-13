@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Samsung Electronics Co.",
+            "COMP",
+            "Announce",
+            "4th quarter operating profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Samsung Electronics Co.",
+            "COMP",
+            "Control",
+            "electronics components",
+            "PRODUCT"
+        ],
+        [
+            "4th quarter operating profit",
+            "ECON_INDICATOR",
+            "Has",
+            "15.1 trillion South Korean won",
+            "NUMERICAL"
+        ],
+        [
+            "15.1 trillion South Korean won",
+            "NUMERICAL",
+            "Equal",
+            "14.1 billion dollar",
+            "NUMERICAL"
+        ],
+        [
+            "4th quarter operating profit",
+            "ECON_INDICATOR",
+            "Increase",
+            "64%",
+            "NUMERICAL"
+        ],
+        [
+            "4th quarter operating profit",
+            "ECON_INDICATOR",
+            "Compared_To",
+            "9.22 trillion won",
+            "NUMERICAL"
+        ],
+        [
+            "Samsung Electronics Co.",
+            "COMP",
+            "Expect",
+            "revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "revenue",
+            "ECON_INDICATOR",
+            "Has",
+            "66 trillion won",
+            "NUMERICAL"
+        ],
+        [
+            "66 trillion won",
+            "NUMERICAL",
+            "Compared_To",
+            "53.33 trillion won",
+            "NUMERICAL"
+        ]
+    ]
+}

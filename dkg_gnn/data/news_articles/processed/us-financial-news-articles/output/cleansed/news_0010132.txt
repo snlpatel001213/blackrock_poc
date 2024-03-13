@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Teva Pharmaceutical Industries Ltd.",
+            "ORG",
+            "Announce",
+            "Use of TRISENOX",
+            "PRODUCT"
+        ],
+        [
+            "Teva Pharmaceutical Industries Ltd.",
+            "ORG",
+            "Operate_In",
+            "Pharmaceutical Industry",
+            "SECTOR"
+        ],
+        [
+            "U.S. Food and Drug Administration (FDA)",
+            "ORG/GOV",
+            "Approve",
+            "Use of TRISENOX",
+            "PRODUCT"
+        ],
+        [
+            "TRISENOX",
+            "PRODUCT",
+            "Treat",
+            "Adults with newly-diagnosed low-risk acute promyelocytic leukemia (APL)",
+            "CONCEPT"
+        ],
+        [
+            "TRISENOX",
+            "PRODUCT",
+            "Contain",
+            "Arsenic trioxide",
+            "COMP"
+        ],
+        [
+            "TRISENOX",
+            "PRODUCT",
+            "Combine",
+            "with tretinoin",
+            "PRODUCT"
+        ],
+        [
+            "Teva Pharmaceutical Industries Ltd.",
+            "ORG",
+            "Produce",
+            "TRISENOX",
+            "PRODUCT"
+        ],
+        [
+            "TRISENOX",
+            "PRODUCT",
+            "Impact",
+            "Cancer Care",
+            "CONCEPT"
+        ],
+        [
+            "TRISENOX",
+            "PRODUCT",
+            "Reinforce",
+            "Current practice guidelines",
+            "CONCEPT"
+        ],
+        [
+            "National Comprehensive Cancer Network",
+            "ORG",
+            "Establish",
+            "Current practice guidelines",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Viewray Inc",
+            "COMP",
+            "Announce",
+            "Preliminary Fourth Quarter",
+            "EVENT"
+        ],
+        [
+            "Viewray Inc",
+            "COMP",
+            "Announce",
+            "Fiscal Year 2017 Results",
+            "EVENT"
+        ],
+        [
+            "Viewray Inc",
+            "COMP",
+            "Has",
+            "$200 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Viewray Inc",
+            "COMP",
+            "Relate_To",
+            "Backlog",
+            "CONCEPT"
+        ],
+        [
+            "Viewray Inc",
+            "COMP",
+            "Control",
+            "Dec 31, 2017",
+            "DATE"
+        ],
+        [
+            "Viewray Inc",
+            "COMP",
+            "Control",
+            "Dec 31, 2016",
+            "DATE"
+        ],
+        [
+            "$200 Million",
+            "ECON_INDICATOR",
+            "Impact",
+            "Backlog",
+            "CONCEPT"
+        ],
+        [
+            "$133.2 Million",
+            "ECON_INDICATOR",
+            "Negative_Impact_On",
+            "Backlog",
+            "CONCEPT"
+        ],
+        [
+            "Dec 31, 2017",
+            "DATE",
+            "Participates_In",
+            "Fiscal Year 2017 Results",
+            "EVENT"
+        ],
+        [
+            "Dec 31, 2016",
+            "DATE",
+            "Participates_In",
+            "Fiscal Year 2016 Results",
+            "EVENT"
+        ]
+    ]
+}

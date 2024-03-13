@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Aston Martin",
+            "COMP",
+            "Sales_Rise",
+            "58%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Sell",
+            "5,117",
+            "UNITS"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Operate_In",
+            "London",
+            "GPE"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Pursue",
+            "Turnaround Plan",
+            "CONCEPT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Expect",
+            "Beat",
+            "CONCEPT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Control",
+            "DB11",
+            "PRODUCT"
+        ],
+        [
+            "DB11",
+            "PRODUCT",
+            "Meet",
+            "Targets",
+            "CONCEPT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Hire",
+            "Lazard",
+            "ORG"
+        ],
+        [
+            "Lazard",
+            "ORG",
+            "Prepare",
+            "Stock Market Listing",
+            "CONCEPT"
+        ],
+        [
+            "Lazard",
+            "ORG",
+            "Prepare",
+            "Sale",
+            "CONCEPT"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Famous_For",
+            "James Bond",
+            "PERSON"
+        ],
+        [
+            "Aston Martin",
+            "COMP",
+            "Edit",
+            "Stephen Addison",
+            "PERSON"
+        ]
+    ]
+}

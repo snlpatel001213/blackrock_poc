@@ -1,0 +1,113 @@
+{
+    "output": [
+        [
+            "GasLog Partners LP",
+            "ORG",
+            "Announce",
+            "Public offering",
+            "EVENT"
+        ],
+        [
+            "GasLog Partners LP",
+            "ORG",
+            "Operate_In",
+            "LNG shipping",
+            "SECTOR"
+        ],
+        [
+            "Public offering",
+            "EVENT",
+            "Raise",
+            "97016950",
+            "ECON_INDICATOR"
+        ],
+        [
+            "GasLog Partners LP",
+            "ORG",
+            "Plan_Use",
+            "Net proceeds",
+            "ECON_INDICATOR",
+            "For",
+            "General partnership purposes"
+        ],
+        [
+            "General partnership purposes",
+            "CONCEPT",
+            "Relate_To",
+            "Future acquisitions",
+            "EVENT"
+        ],
+        [
+            "Future acquisitions",
+            "EVENT",
+            "Relate_To",
+            "GasLog Ltd",
+            "ORG"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Act_As",
+            "Joint book-runners",
+            "COMP"
+        ],
+        [
+            "UBS Investment Bank",
+            "ORG",
+            "Act_As",
+            "Joint book-runners",
+            "COMP"
+        ],
+        [
+            "Stifel",
+            "ORG",
+            "Act_As",
+            "Joint book-runners",
+            "COMP"
+        ],
+        [
+            "Citigroup",
+            "ORG",
+            "Act_As",
+            "Joint book-runners",
+            "COMP"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Act_As",
+            "Co-manager",
+            "COMP"
+        ],
+        [
+            "Public offering",
+            "EVENT",
+            "Made_By",
+            "Prospectus",
+            "COMP"
+        ],
+        [
+            "GasLog Partners LP",
+            "ORG",
+            "Has",
+            "12",
+            "ECON_INDICATOR",
+            "LNG carriers"
+        ],
+        [
+            "LNG carriers",
+            "PRODUCT",
+            "Average_Carrying_Capacity",
+            "154000",
+            "ECON_INDICATOR",
+            "cbm"
+        ],
+        [
+            "GasLog Partners LP",
+            "ORG",
+            "Principal_Executive_Offices",
+            "Monaco",
+            "GPE"
+        ]
+    ]
+}

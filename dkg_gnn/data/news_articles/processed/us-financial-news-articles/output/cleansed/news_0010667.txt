@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Bill Clinton",
+            "PERSON",
+            "Call_for",
+            "Release",
+            "ORG/GOV"
+        ],
+        [
+            "Free Press",
+            "CONCEPT",
+            "Critical_To",
+            "Free Society",
+            "CONCEPT"
+        ],
+        [
+            "Reuters",
+            "ORG",
+            "Hold",
+            "Journalists",
+            "PERSON"
+        ],
+        [
+            "Detention",
+            "CONCEPT",
+            "Unacceptable",
+            null,
+            null
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Accuse",
+            "Reuters Journalists",
+            "PERSON"
+        ],
+        [
+            "Reuters Journalists",
+            "PERSON",
+            "Hold",
+            null,
+            null
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Breach",
+            "Official Secrets Act",
+            "CONCEPT"
+        ],
+        [
+            "Reuters Journalists",
+            "PERSON",
+            "Due",
+            "Appear",
+            "VERB"
+        ],
+        [
+            "Court",
+            "ORG",
+            "Yangon",
+            "City",
+            "GPE"
+        ],
+        [
+            "Prosecutor",
+            "PERSON",
+            "Could",
+            "Request",
+            "VERB"
+        ],
+        [
+            "Charges",
+            "CONCEPT",
+            "Against",
+            "Reuters Journalists",
+            "PERSON"
+        ]
+    ]
+}

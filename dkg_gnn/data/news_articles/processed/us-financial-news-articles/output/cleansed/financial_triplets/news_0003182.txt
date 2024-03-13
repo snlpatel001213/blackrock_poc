@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Markets",
+            "SECTOR",
+            "Relate_To",
+            "Muted Returns",
+            "CONCEPT"
+        ],
+        [
+            "Joe Tanious",
+            "PERSON",
+            "Is_Member_Of",
+            "Bessemer Trust",
+            "ORG"
+        ],
+        [
+            "Bessemer Trust",
+            "ORG",
+            "Has",
+            "Joe Tanious",
+            "PERSON"
+        ],
+        [
+            "David Sowerby",
+            "PERSON",
+            "Is_Member_Of",
+            "Ancora Advisors",
+            "ORG"
+        ],
+        [
+            "Ancora Advisors",
+            "ORG",
+            "Has",
+            "David Sowerby",
+            "PERSON"
+        ]
+    ]
+}

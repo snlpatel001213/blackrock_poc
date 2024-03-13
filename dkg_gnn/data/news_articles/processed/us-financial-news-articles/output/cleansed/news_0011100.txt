@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Top US bank CEOs",
+            "PERSON",
+            "Has",
+            "lengthy tenures",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nation's biggest banks",
+            "ORG/GOV",
+            "Operate_In",
+            "C-suite",
+            "SECTOR"
+        ],
+        [
+            "CNBC's Wilfred Frost",
+            "PERSON",
+            "Take",
+            "look",
+            "EVENT"
+        ],
+        [
+            "Nation's biggest banks",
+            "ORG/GOV",
+            "Due_for",
+            "refresh",
+            "EVENT"
+        ]
+    ]
+}

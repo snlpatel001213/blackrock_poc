@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "TransUnion",
+            "ORG",
+            "Publish",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Hold",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Operate_In",
+            "Global Risk Solutions Provider",
+            "SECTOR"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Provide",
+            "Consumer Reports",
+            "PRODUCT"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Provide",
+            "Risk Scores",
+            "PRODUCT"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Provide",
+            "Analytical Services",
+            "PRODUCT"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Provide",
+            "Decisioning Capabilities",
+            "PRODUCT"
+        ],
+        [
+            "TransUnion",
+            "ORG",
+            "Embed",
+            "Solutions",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Use",
+            "TransUnion Solutions",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "View",
+            "Their Credit Profiles",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Access",
+            "Analytical Tools",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Manage",
+            "Their Personal Information",
+            "PRODUCT"
+        ],
+        [
+            "Consumers",
+            "PERSON",
+            "Take",
+            "Precautions Against Identity Theft",
+            "PRODUCT"
+        ]
+    ]
+}

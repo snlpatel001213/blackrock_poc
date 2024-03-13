@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Iraq",
+            "GPE",
+            "Send",
+            "Displaced People",
+            "PERSON"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Operate_In",
+            "Iraq's war against Islamic State",
+            "EVENT"
+        ],
+        [
+            "Displaced People",
+            "PERSON",
+            "Return",
+            "Unsafe Areas",
+            "GPE"
+        ],
+        [
+            "Iraq",
+            "GPE",
+            "Ensure",
+            "Elections",
+            "EVENT"
+        ],
+        [
+            "Elections",
+            "EVENT",
+            "Go Ahead",
+            "May",
+            "TIME"
+        ]
+    ]
+}

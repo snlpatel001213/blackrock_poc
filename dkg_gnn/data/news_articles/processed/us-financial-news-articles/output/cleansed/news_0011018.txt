@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Solace",
+            "COMP",
+            "Announce",
+            "Addition",
+            "ORG"
+        ],
+        [
+            "Randolph Cowen",
+            "PERSON",
+            "Join",
+            "Solace",
+            "COMP"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "Join",
+            "Solace",
+            "COMP"
+        ],
+        [
+            "Randolph Cowen",
+            "PERSON",
+            "Has",
+            "30 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Randolph Cowen",
+            "PERSON",
+            "With",
+            "Goldman Sachs",
+            "ORG"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "Has",
+            "35 years",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "With",
+            "Vodafone",
+            "ORG"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "Member_Of",
+            "GSMA",
+            "ORG/REG"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Operate_In",
+            "Hybrid cloud",
+            "SECTOR"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Operate_In",
+            "Internet of things",
+            "SECTOR"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Participates_In",
+            "Digital transformation",
+            "EVENT"
+        ],
+        [
+            "Randolph Cowen",
+            "PERSON",
+            "Expertise",
+            "Business",
+            "CONCEPT"
+        ],
+        [
+            "Randolph Cowen",
+            "PERSON",
+            "Expertise",
+            "Technology-enabled transformation",
+            "CONCEPT"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "Expertise",
+            "Technology market",
+            "SECTOR"
+        ],
+        [
+            "Steve Pusey",
+            "PERSON",
+            "Expertise",
+            "Telecommunication market",
+            "SECTOR"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Impact",
+            "Organizations",
+            "ORG"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Positive_Impact_On",
+            "Connect systems and people",
+            "CONCEPT"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Positive_Impact_On",
+            "Improve decision making",
+            "CONCEPT"
+        ],
+        [
+            "Solace",
+            "COMP",
+            "Positive_Impact_On",
+            "Offer innovative data-driven services",
+            "CONCEPT"
+        ]
+    ]
+}

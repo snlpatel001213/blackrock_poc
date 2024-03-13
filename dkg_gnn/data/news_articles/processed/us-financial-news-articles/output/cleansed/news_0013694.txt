@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Saeta Yield",
+            "COMP",
+            "Confirm",
+            "Potential Interest",
+            "CONCEPT"
+        ],
+        [
+            "Potential Interest",
+            "CONCEPT",
+            "Relate_To",
+            "Brookfield Asset Management",
+            "ORG/REG"
+        ],
+        [
+            "Brookfield Asset Management",
+            "ORG/REG",
+            "Potential_Impact_On",
+            "Saeta Yield",
+            "COMP"
+        ]
+    ]
+}

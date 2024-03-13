@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Britain",
+            "GPE",
+            "Control",
+            "Carillion",
+            "ORG"
+        ],
+        [
+            "Carillion",
+            "ORG",
+            "Lose",
+            "Faith",
+            "CONCEPT"
+        ],
+        [
+            "Carillion",
+            "ORG",
+            "Collapse",
+            null,
+            null
+        ],
+        [
+            "Carillion",
+            "ORG",
+            "Impact",
+            "Hundreds of Major Projects",
+            "CONCEPT"
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Step_In",
+            null,
+            null
+        ],
+        [
+            "Government",
+            "ORG/GOV",
+            "Guarantee",
+            "Vital Public Services",
+            "CONCEPT"
+        ]
+    ]
+}

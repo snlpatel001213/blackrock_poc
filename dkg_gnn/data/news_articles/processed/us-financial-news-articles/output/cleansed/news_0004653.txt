@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Deutsche Bank",
+            "ORG",
+            "Announce",
+            "Buy Rating",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Deutsche Bank",
+            "ORG",
+            "Participates_In",
+            "Initiating Coverage",
+            "CONCEPT"
+        ],
+        [
+            "Deutsche Bank",
+            "ORG",
+            "Relate_To",
+            "American Express",
+            "COMP"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Operate_In",
+            "Global",
+            "GPE"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Has",
+            "Leading Closed-Loop Network",
+            "CONCEPT"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Has",
+            "Spend-Centric Business Model",
+            "CONCEPT"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Control",
+            "Small Business",
+            "SECTOR"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Control",
+            "Super Prime and Affluent Customers",
+            "CONCEPT"
+        ],
+        [
+            "American Express",
+            "COMP",
+            "Raise",
+            "Stock Value",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ashish Sabadra",
+            "PERSON",
+            "Works_For",
+            "Deutsche Bank",
+            "ORG"
+        ]
+    ]
+}

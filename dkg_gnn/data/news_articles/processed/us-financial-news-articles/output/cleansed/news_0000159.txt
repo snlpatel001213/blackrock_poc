@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Aspen Insurance Holdings Limited",
+            "ORG",
+            "Release",
+            "Fourth Quarter 2017 Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Operate_In",
+            "New York Stock Exchange",
+            "ORG/EXCH"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Conference_Call",
+            "Thursday, February 8, 2018",
+            "DATE"
+        ],
+        [
+            "Participant",
+            "PERSON",
+            "Call",
+            "Aspen",
+            "ORG"
+        ],
+        [
+            "Participant",
+            "PERSON",
+            "Dial",
+            "+1 (844) 378 6481",
+            "TEL"
+        ],
+        [
+            "Participant",
+            "PERSON",
+            "Dial",
+            "+1 (412) 542 4176",
+            "TEL"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Webcast",
+            "Live",
+            "CONCEPT"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Publish",
+            "Earnings Press Release",
+            "DOC"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Publish",
+            "Detailed Financial Supplement",
+            "DOC"
+        ],
+        [
+            "Listener",
+            "PERSON",
+            "Webcast",
+            "Aspen Website",
+            "WEBSITE"
+        ],
+        [
+            "Listener",
+            "PERSON",
+            "Phone",
+            "+1 (877) 344 7529",
+            "TEL"
+        ],
+        [
+            "Listener",
+            "PERSON",
+            "Phone",
+            "+1 (412) 317 0088",
+            "TEL"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Replay_Code",
+            "10114711",
+            "CODE"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Provide",
+            "Live Webcast",
+            "WEBSITE"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Head_Of",
+            "Group Communications",
+            "POSITION"
+        ],
+        [
+            "Aspen",
+            "ORG",
+            "Senior_Vice_President",
+            "Investor Relations",
+            "POSITION"
+        ]
+    ]
+}

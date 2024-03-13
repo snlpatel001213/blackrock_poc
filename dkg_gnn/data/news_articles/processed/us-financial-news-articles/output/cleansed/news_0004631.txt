@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Basilea Pharmaceutica Ag",
+            "COMP",
+            "Initiate",
+            "Phase 1 Study",
+            "EVENT"
+        ],
+        [
+            "Basilea Pharmaceutica Ag",
+            "COMP",
+            "Collaborate_With",
+            "U.S. Adult Brain Tumor Consortium",
+            "ORG"
+        ],
+        [
+            "Phase 1 Study",
+            "EVENT",
+            "Relate_To",
+            "Glioblastoma Arm",
+            "EVENT"
+        ],
+        [
+            "Basilea Pharmaceutica Ag",
+            "COMP",
+            "Expects",
+            "Complete Phase 1 Patient Recruitment",
+            "EVENT"
+        ],
+        [
+            "Glioblastoma Arm",
+            "EVENT",
+            "Operate_In",
+            "Oral Study",
+            "EVENT"
+        ],
+        [
+            "Oral Study",
+            "EVENT",
+            "Occur_In",
+            "First Half of 2018",
+            "TIME"
+        ]
+    ]
+}

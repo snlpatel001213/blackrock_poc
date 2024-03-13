@@ -1,0 +1,124 @@
+{
+    "output": [
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Control",
+            "Hexagon",
+            "ORG"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Introduce",
+            "Greenbridge",
+            "ORG"
+        ],
+        [
+            "Greenbridge",
+            "ORG",
+            "Invests_In",
+            "Next Biometrics",
+            "COMP"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Purchase",
+            "Shares",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Found_Not_Guilty_Of",
+            "Insider_Trading",
+            "CONCEPT"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Operate_In",
+            "Technology_Sector",
+            "SECTOR"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Maintain",
+            "Innocence",
+            "CONCEPT"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Lawyer",
+            "Argue",
+            "During_Trial"
+        ],
+        [
+            "Ola Rollen",
+            "PERSON",
+            "Relieved_By",
+            "Court_Verdict",
+            "CONCEPT"
+        ],
+        [
+            "Norway_White_Collar_Crimes_Unit",
+            "ORG",
+            "Decide",
+            "Whether_To_Appeal",
+            "CONCEPT"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Share_Price",
+            "Fall",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Share_Price",
+            "Up",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Hexagon",
+            "ORG",
+            "Hold_Talks_On",
+            "Possible_Sale",
+            "CONCEPT"
+        ],
+        [
+            "Norway_White_Collar_Crimes_Unit",
+            "ORG",
+            "Two_Weeks",
+            "To_Decide",
+            "CONCEPT"
+        ],
+        [
+            "Prosecutor",
+            "PERSON",
+            "Marianne_Bender",
+            "Tell",
+            "Reuters"
+        ],
+        [
+            "Prosecutor",
+            "PERSON",
+            "Ask",
+            "For",
+            "18_Month_Prison_Term",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Prosecutor",
+            "PERSON",
+            "Maximum_Sentence",
+            "Six_Years_In_Prison",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

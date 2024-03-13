@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Waters Corporation",
+            "COMP",
+            "Announce",
+            "Q4 2017 financial results",
+            "EVENT"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Operate_In",
+            "Life, Materials and Food Sciences",
+            "SECTOR"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Produce",
+            "Chromatography",
+            "PRODUCT"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Produce",
+            "Mass Spectrometry",
+            "PRODUCT"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Produce",
+            "Thermal Analysis",
+            "PRODUCT"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Has",
+            "Approximately 7000 Employees",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Operate_In",
+            "27 Countries",
+            "GPE"
+        ],
+        [
+            "Waters Corporation",
+            "COMP",
+            "Relate_To",
+            "NYSE:WAT",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "John Lynch",
+            "PERSON",
+            "Is_Member_Of",
+            "Waters Corporation",
+            "COMP"
+        ],
+        [
+            "John Lynch",
+            "PERSON",
+            "Invests_In",
+            "Investor Relations",
+            "SECTOR"
+        ]
+    ]
+}

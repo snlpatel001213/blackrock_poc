@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "PolyOne Corporation",
+            "COMP",
+            "Announce",
+            "Acquisition",
+            "EVENT"
+        ],
+        [
+            "PolyOne Corporation",
+            "COMP",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "IQAP Masterbatch Group S.L.",
+            "COMP",
+            "Has",
+            "Customers throughout Europe",
+            "GPE"
+        ],
+        [
+            "IQAP Masterbatch Group S.L.",
+            "COMP",
+            "Produce",
+            "Specialty colorants and additives",
+            "PRODUCT"
+        ],
+        [
+            "PolyOne Corporation",
+            "COMP",
+            "Control",
+            "IQAP Masterbatch Group S.L.",
+            "COMP"
+        ]
+    ]
+}

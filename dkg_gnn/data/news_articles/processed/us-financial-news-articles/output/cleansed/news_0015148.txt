@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Energy Capital Partners III LLC",
+            "ORG",
+            "Has",
+            "9.9 Pct Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Energy Capital Partners III LLC",
+            "ORG",
+            "Control",
+            "Dynegy Inc",
+            "COMP"
+        ],
+        [
+            "Dynegy Inc",
+            "COMP",
+            "Compare To",
+            "Stake Of 14.9 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dynegy Inc",
+            "COMP",
+            "As Of",
+            "April 27",
+            "DATE"
+        ],
+        [
+            "Dynegy Inc",
+            "COMP",
+            "As Of",
+            "January 9",
+            "DATE"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Mike Olson",
+            "PERSON",
+            "Raise",
+            "Amazon",
+            "COMP"
+        ],
+        [
+            "Amazon",
+            "COMP",
+            "Has",
+            "Price Target",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Price Target",
+            "ECON_INDICATOR",
+            "Is",
+            "$1,400",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

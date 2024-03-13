@@ -1,0 +1,130 @@
+{
+    "output": [
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Operate_In",
+            "White House",
+            "ORG/GOV"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Start",
+            "Executive Time",
+            "CONCEPT"
+        ],
+        [
+            "Executive Time",
+            "CONCEPT",
+            "Relate_To",
+            "TV and Twitter time",
+            "CONCEPT"
+        ],
+        [
+            "Executive Time",
+            "CONCEPT",
+            "Occur",
+            "Alone in the residence",
+            "GPE"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Calls with staff",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Calls with Hill members",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Calls with Cabinet members",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Has",
+            "Calls with foreign leaders",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Begin",
+            "Official work day",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Begin",
+            "His official work day",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Begin",
+            "Around 11 a.m.",
+            "TIME"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Begin",
+            "Later now than when he first took office",
+            "TIME"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Impact",
+            "Presidents George W. Bush and Barack Obama schedules",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Impact",
+            "Comparison with Presidents George W. Bush and Barack Obama schedules",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Negative_Impact_On",
+            "Presidents George W. Bush and Barack Obama schedules",
+            "CONCEPT"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Negative_Impact_On",
+            "Comparison with Presidents George W. Bush and Barack Obama schedules",
+            "CONCEPT"
+        ],
+        [
+            "White House press secretary Sarah Huckabee Sanders",
+            "PERSON",
+            "Respond_To",
+            "Axios report",
+            "ORG"
+        ],
+        [
+            "Axios",
+            "ORG",
+            "Report",
+            "President Donald Trump schedule",
+            "CONCEPT"
+        ]
+    ]
+}

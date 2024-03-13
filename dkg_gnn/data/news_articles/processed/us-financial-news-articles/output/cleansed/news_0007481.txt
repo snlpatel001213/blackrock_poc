@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Synthesis Electronic Technology Co Ltd",
+            "COMP",
+            "Has",
+            "shareholder",
+            "PERSON"
+        ],
+        [
+            "shareholder",
+            "PERSON",
+            "Is_Member_Of",
+            "Beijing-based venture capital investment center",
+            "ORG"
+        ],
+        [
+            "Synthesis Electronic Technology Co Ltd",
+            "COMP",
+            "Control",
+            "stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "stake",
+            "ECON_INDICATOR",
+            "Decrease",
+            "6 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "stake",
+            "ECON_INDICATOR",
+            "Increase",
+            "2.45 percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Synthesis Electronic Technology Co Ltd",
+            "COMP",
+            "Relate_To",
+            "Beijing Headline News",
+            "GPE"
+        ]
+    ]
+}

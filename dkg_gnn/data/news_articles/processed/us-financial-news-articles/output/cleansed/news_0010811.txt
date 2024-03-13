@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Ikea",
+            "COMP",
+            "Targets",
+            "Newly Potentially Pregnant Women",
+            "PERSON"
+        ],
+        [
+            "Akestam Holst",
+            "ORG",
+            "Create",
+            "Ad for Ikea",
+            "COMP"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Include",
+            "Modified Pregnancy Test Strip",
+            "PRODUCT"
+        ],
+        [
+            "Respondent",
+            "PERSON",
+            "Member",
+            "Ikea Family Club",
+            "ORG"
+        ],
+        [
+            "Positive Test Result",
+            "EVENT",
+            "Reveal",
+            "Discount on Crib",
+            "PRODUCT"
+        ],
+        [
+            "Ikea Sweden",
+            "ORG",
+            "Tell",
+            "Join Ikea Family Club",
+            "ORG"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Headline",
+            "Peeing on this ad may change your life",
+            "CONCEPT"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Publish",
+            "Amelia Magazine",
+            "COMP"
+        ],
+        [
+            "Ad",
+            "PRODUCT",
+            "Create",
+            "Collaboration with Mercene Labs",
+            "ORG"
+        ],
+        [
+            "Positive Test Result",
+            "EVENT",
+            "Slash",
+            "Price of Ikea Sundvik Crib",
+            "PRODUCT"
+        ],
+        [
+            "Ikea",
+            "COMP",
+            "Want",
+            "Be Right There When They Happen",
+            "CONCEPT"
+        ],
+        [
+            "Ikea",
+            "COMP",
+            "Take",
+            "Idea All the Way",
+            "CONCEPT"
+        ]
+    ]
+}

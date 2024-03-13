@@ -1,0 +1,219 @@
+{
+    "output": [
+        [
+            "Emerald Health Therapeutics, Inc.",
+            "COMP",
+            "Close",
+            "Offering",
+            "ORG/REG"
+        ],
+        [
+            "Emerald Health Therapeutics, Inc.",
+            "COMP",
+            "Issue",
+            "Units",
+            "PRODUCT"
+        ],
+        [
+            "Units",
+            "PRODUCT",
+            "Consist_Of",
+            "Common Share",
+            "COMP"
+        ],
+        [
+            "Units",
+            "PRODUCT",
+            "Consist_Of",
+            "Warrant",
+            "PRODUCT"
+        ],
+        [
+            "Warrant",
+            "PRODUCT",
+            "Entitle",
+            "Warrant Share",
+            "COMP"
+        ],
+        [
+            "Company",
+            "COMP",
+            "May_Accelerate",
+            "Expiry Date",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Intend_To_Use",
+            "Net Proceeds",
+            "PRODUCT",
+            "For",
+            "Growth Plans",
+            "SECTOR",
+            "Working Capital",
+            "PRODUCT",
+            "General Corporate Purposes",
+            "PRODUCT"
+        ],
+        [
+            "Offering",
+            "ORG/REG",
+            "Filed",
+            "Shelf Prospectus Supplement",
+            "PRODUCT",
+            "Pursuant",
+            "National Instrument 44-101",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Secondary Sale",
+            "PRODUCT",
+            "Close",
+            "Separately",
+            "ADV"
+        ],
+        [
+            "Emerald Health Therapeutics, Inc.",
+            "COMP",
+            "Operate_Through",
+            "Emerald Health Botanicals Inc.",
+            "COMP"
+        ],
+        [
+            "Emerald Health Botanicals Inc.",
+            "COMP",
+            "Licensed Producer",
+            "Canada\u2019s Access to Cannabis for Medical Purposes Regulations",
+            "ORG/REG"
+        ],
+        [
+            "Emerald Health Botanicals Inc.",
+            "COMP",
+            "Authorized_To",
+            "Produce_And_Sell",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Currently_Operates",
+            "Indoor Facility",
+            "FAC"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Building",
+            "500,000 s.f._Greenhouse",
+            "FAC"
+        ],
+        [
+            "Company",
+            "COMP",
+            "50%_Owner",
+            "Pure Sunfarms Inc.",
+            "COMP"
+        ],
+        [
+            "Pure Sunfarms Inc.",
+            "COMP",
+            "Convert_Existing",
+            "1.1 million s.f._Greenhouse",
+            "FAC"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Part_Of",
+            "Emerald Health group",
+            "COMP"
+        ],
+        [
+            "Emerald Health group",
+            "COMP",
+            "Broadly_Focused_On",
+            "Pharmaceutical",
+            "PRODUCT",
+            "Botanical",
+            "PRODUCT",
+            "Nutraceutical Products",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Contact",
+            "Robert Hill",
+            "PERSON",
+            "For",
+            "Investor Relations",
+            "PRODUCT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Cautionary_Statements_Regarding",
+            "Forward Looking Information",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Make",
+            "Forward Looking Statements",
+            "CONCEPT"
+        ],
+        [
+            "Forward Looking Statements",
+            "CONCEPT",
+            "Involve",
+            "Known_And_Unknown_Risks",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Do_Not_Intend",
+            "Update",
+            "CONCEPT",
+            "Except",
+            "As",
+            "Required",
+            "BY",
+            "Law",
+            "LAW"
+        ],
+        [
+            "Forward Looking Statements",
+            "CONCEPT",
+            "Relate_To",
+            "Future Funding Transactions",
+            "CONCEPT",
+            "Market Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Company",
+            "COMP",
+            "Other_Filings",
+            "Sedar",
+            "ORG/REG"
+        ],
+        [
+            "TSX Venture Exchange",
+            "ORG/REG",
+            "Accept_Responsibility",
+            "Adequacy_Or_Accuracy",
+            "PRODUCT",
+            "Release",
+            "DOC"
+        ],
+        [
+            "Source",
+            "ADV",
+            "Emerald Health Therapeutics Inc",
+            "COMP"
+        ]
+    ]
+}

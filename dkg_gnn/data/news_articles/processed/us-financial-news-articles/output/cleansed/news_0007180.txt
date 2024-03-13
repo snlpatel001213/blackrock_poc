@@ -1,0 +1,200 @@
+{
+    "output": [
+        [
+            "Barack Obama",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "David Letterman",
+            "PERSON",
+            "Operate_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Announce",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Operate_In",
+            "Streaming Media",
+            "SECTOR"
+        ],
+        [
+            "George Clooney",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Jay-Z",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Tina Fey",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Howard Stern",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Malala Yousafzai",
+            "PERSON",
+            "Participates_In",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Control",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Produce",
+            "My Next Guest Needs No Introduction",
+            "EVENT"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Impact",
+            "Streaming Media",
+            "SECTOR"
+        ],
+        [
+            "Netflix",
+            "COMP",
+            "Positive_Impact_On",
+            "Streaming Media",
+            "SECTOR"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Televised Talk-show Interview",
+            "CONCEPT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Jan 12",
+            "DATE"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "2017",
+            "DATE"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "2015",
+            "DATE"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Two Chairs",
+            "OBJECT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Simple Backdrop",
+            "OBJECT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Hour-long Episode",
+            "TIME"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Six-part Series",
+            "EVENT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "New Episode",
+            "EVENT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Monthly",
+            "FREQUENCY"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "June",
+            "DATE"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Late Show",
+            "EVENT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "CBS",
+            "COMP"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "The Late Show",
+            "EVENT"
+        ],
+        [
+            "My Next Guest Needs No Introduction",
+            "EVENT",
+            "Relate_To",
+            "Two Decades",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Four people",
+            "PERSON",
+            "Decrease",
+            "Dead",
+            "PERSON"
+        ],
+        [
+            "Emergency Services",
+            "ORG",
+            "Announce",
+            "Four Dead",
+            "PERSON"
+        ],
+        [
+            "Emergency Services",
+            "ORG",
+            "Announce",
+            "Approximately 40 Injured",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Paramedic Service",
+            "ORG",
+            "Announce",
+            "Up to 100 Injured",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Netcare911",
+            "ORG",
+            "Has",
+            "Spokesman",
+            "PERSON"
+        ],
+        [
+            "ER24",
+            "ORG",
+            "Has",
+            "Paramedic Service",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Halifax Stanfield airport",
+            "COMP",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Montreal",
+            "GPE",
+            "Relate_To",
+            "Snowstorms",
+            "CONCEPT"
+        ],
+        [
+            "Maritimes",
+            "GPE",
+            "Has",
+            "Cocktail of precipitation and strong winds",
+            "CONCEPT"
+        ]
+    ]
+}

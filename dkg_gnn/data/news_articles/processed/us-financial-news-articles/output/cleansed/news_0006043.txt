@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "US-China",
+            "GPE",
+            "Relate_To",
+            "Trade War",
+            "CONCEPT"
+        ],
+        [
+            "Trade War",
+            "CONCEPT",
+            "Explode",
+            "null",
+            "null"
+        ],
+        [
+            "Jim Cramer",
+            "PERSON",
+            "Make_Case",
+            "null",
+            "null"
+        ],
+        [
+            "President Donald Trump",
+            "PERSON",
+            "Include_In",
+            "Case",
+            "null"
+        ],
+        [
+            "US Department of Commerce",
+            "ORG/GOV",
+            "Include_In",
+            "Case",
+            "null"
+        ],
+        [
+            "Case",
+            "null",
+            "Prohibit",
+            "Chinese Steel Dumping",
+            "null"
+        ]
+    ]
+}

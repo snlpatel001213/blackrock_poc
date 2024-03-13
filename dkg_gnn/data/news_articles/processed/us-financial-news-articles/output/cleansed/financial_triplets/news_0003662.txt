@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Some corporations",
+            "ORG",
+            "Announce",
+            "Stock buybacks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Some corporations",
+            "ORG",
+            "Raise",
+            "Wages",
+            "CONCEPT"
+        ],
+        [
+            "Nationwide Insurance",
+            "ORG",
+            "Announce",
+            "$1,000 bonus",
+            "CONCEPT"
+        ]
+    ]
+}

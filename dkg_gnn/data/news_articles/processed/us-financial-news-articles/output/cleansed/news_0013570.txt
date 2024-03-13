@@ -1,0 +1,42 @@
+{
+    "output": [
+        [
+            "Proreit",
+            "ORG",
+            "Announce",
+            "$25 Mln Public Offering",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Proreit",
+            "ORG",
+            "Operate_In",
+            "Further Company Coverage",
+            "SECTOR"
+        ],
+        [
+            "$25 Mln Public Offering",
+            "FIN_INSTRUMENT",
+            "Raise",
+            "$2.30 Per Unit",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Proreit",
+            "ORG",
+            "Intends_To_Use",
+            "Net Proceeds",
+            "ECON_INDICATOR",
+            "Fund",
+            "Future Acquisitions",
+            "SECTOR"
+        ],
+        [
+            "Proreit",
+            "ORG",
+            "Repay",
+            "Certain Indebtedness",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

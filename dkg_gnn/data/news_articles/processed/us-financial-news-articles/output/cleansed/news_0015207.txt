@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Experience Co Ltd",
+            "COMP",
+            "Seeks",
+            "Trading Halts",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Experience Co Ltd",
+            "COMP",
+            "Relate_To",
+            "Incident",
+            "CONCEPT"
+        ],
+        [
+            "Incident",
+            "CONCEPT",
+            "Happen",
+            "NZONE",
+            "GPE"
+        ],
+        [
+            "NZONE",
+            "GPE",
+            "Operate_In",
+            "New Zealand",
+            "GPE"
+        ]
+    ]
+}

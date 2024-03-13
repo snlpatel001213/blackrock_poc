@@ -1,0 +1,117 @@
+{
+    "output": [
+        [
+            "Apple Inc.",
+            "COMP",
+            "Announce",
+            "Fix",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Operate_In",
+            "Technology Sector",
+            "SECTOR"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Produce",
+            "iPhones",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Produce",
+            "Macs",
+            "PRODUCT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Produce",
+            "Safari",
+            "PRODUCT"
+        ],
+        [
+            "Safari",
+            "PRODUCT",
+            "Relate_To",
+            "Web Browser",
+            "PRODUCT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Meltdown Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Intel Corp",
+            "COMP",
+            "Control",
+            "Spectre Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Disclose",
+            "Meltdown Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Google",
+            "ORG",
+            "Disclose",
+            "Spectre Flaw",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft Corp",
+            "COMP",
+            "Release",
+            "Statement",
+            "EVENT"
+        ],
+        [
+            "Android Phones",
+            "PRODUCT",
+            "Protect",
+            "Users",
+            "PERSON"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Remain",
+            "Silent",
+            "CONCEPT"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Have",
+            "Hundreds of Millions",
+            "ECON_INDICATOR",
+            "Users"
+        ],
+        [
+            "Apple Inc.",
+            "COMP",
+            "Have",
+            "IT and Security People",
+            "PERSON"
+        ],
+        [
+            "Company",
+            "SECTOR",
+            "Adopt",
+            "Apple Hardware",
+            "PRODUCT"
+        ]
+    ]
+}

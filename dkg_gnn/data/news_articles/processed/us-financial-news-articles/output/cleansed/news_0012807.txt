@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Announce",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Operate_In",
+            "Aerospace and Defense Industry",
+            "SECTOR"
+        ],
+        [
+            "Curtis Reusser",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Bob George",
+            "PERSON",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Conference Call",
+            "EVENT",
+            "Relate_To",
+            "Financial Results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "John Hobbs",
+            "PERSON",
+            "Host",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Has",
+            "Investor Relations",
+            "PERSON"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Produce",
+            "Avionics & Controls",
+            "SECTOR"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Produce",
+            "Sensors & Systems",
+            "SECTOR"
+        ],
+        [
+            "Esterline Technologies",
+            "COMP",
+            "Produce",
+            "Advanced Materials",
+            "SECTOR"
+        ],
+        [
+            "Avionics & Controls",
+            "SECTOR",
+            "Is_Member_Of",
+            "Esterline Technologies",
+            "COMP"
+        ],
+        [
+            "Sensors & Systems",
+            "SECTOR",
+            "Is_Member_Of",
+            "Esterline Technologies",
+            "COMP"
+        ],
+        [
+            "Advanced Materials",
+            "SECTOR",
+            "Is_Member_Of",
+            "Esterline Technologies",
+            "COMP"
+        ],
+        [
+            "Avionics & Controls",
+            "SECTOR",
+            "Control",
+            "High-technology electronics products",
+            "PRODUCT"
+        ],
+        [
+            "Avionics & Controls",
+            "SECTOR",
+            "Control",
+            "Secure communications equipment",
+            "PRODUCT"
+        ],
+        [
+            "Avionics & Controls",
+            "SECTOR",
+            "Control",
+            "Specialized medical equipment",
+            "PRODUCT"
+        ],
+        [
+            "Sensors & Systems",
+            "SECTOR",
+            "Control",
+            "High-precision temperature and pressure sensors",
+            "PRODUCT"
+        ],
+        [
+            "Sensors & Systems",
+            "SECTOR",
+            "Control",
+            "Electrical power distribution equipment",
+            "PRODUCT"
+        ],
+        [
+            "Sensors & Systems",
+            "SECTOR",
+            "Control",
+            "Harsh-environment connectors",
+            "PRODUCT"
+        ],
+        [
+            "Advanced Materials",
+            "SECTOR",
+            "Control",
+            "High-temperature resistant materials",
+            "PRODUCT"
+        ],
+        [
+            "Advanced Materials",
+            "SECTOR",
+            "Control",
+            "Combustible ordnance",
+            "PRODUCT"
+        ],
+        [
+            "Advanced Materials",
+            "SECTOR",
+            "Control",
+            "Electronic warfare countermeasure products",
+            "PRODUCT"
+        ]
+    ]
+}

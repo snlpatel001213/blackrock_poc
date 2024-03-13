@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Women",
+            "PERSON",
+            "Participates_In",
+            "Pregnancy",
+            "EVENT"
+        ],
+        [
+            "Data",
+            "CONCEPT",
+            "Relate_To",
+            "Birth Defects",
+            "CONCEPT"
+        ],
+        [
+            "Records",
+            "CONCEPT",
+            "Relate_To",
+            "Air Pollution",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "RiverPoint Capital Management",
+            "ORG",
+            "Invests_In",
+            "Tech Sector",
+            "SECTOR"
+        ],
+        [
+            "Jeff Krumpelman",
+            "PERSON",
+            "Is_Member_Of",
+            "RiverPoint Capital Management",
+            "ORG"
+        ],
+        [
+            "Dan Morgan",
+            "PERSON",
+            "Participates_In",
+            "Synovus Trust Portfolio",
+            "PRODUCT"
+        ],
+        [
+            "Tech Sector",
+            "SECTOR",
+            "Relate_To",
+            "Health",
+            "CONCEPT"
+        ]
+    ]
+}

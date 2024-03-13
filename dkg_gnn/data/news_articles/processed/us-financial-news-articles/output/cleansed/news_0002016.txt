@@ -1,0 +1,84 @@
+{
+    "output": [
+        [
+            "CES",
+            "GPE",
+            "Participates_In",
+            "International Consumer Electronics Trade Show",
+            "EVENT"
+        ],
+        [
+            "Ajit Pai",
+            "PERSON",
+            "Cancel",
+            "CES Appearance",
+            "EVENT"
+        ],
+        [
+            "Ajit Pai",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Communications Commission",
+            "ORG/GOV"
+        ],
+        [
+            "Maureen Ohlhausen",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Trade Commission",
+            "ORG/GOV"
+        ],
+        [
+            "Gary Shapiro",
+            "PERSON",
+            "Is_Member_Of",
+            "Consumer Technology Association",
+            "ORG"
+        ],
+        [
+            "Brendan Carr",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Communications Commission",
+            "ORG/GOV"
+        ],
+        [
+            "Michael ORielly",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Communications Commission",
+            "ORG/GOV"
+        ],
+        [
+            "Mignon Clyburn",
+            "PERSON",
+            "Is_Member_Of",
+            "Federal Communications Commission",
+            "ORG/GOV"
+        ],
+        [
+            "Ajit Pai",
+            "PERSON",
+            "Has",
+            "Policies",
+            "CONCEPT"
+        ],
+        [
+            "Many CES Exhibitors and Attendees",
+            "PERSON",
+            "Feel",
+            "Unpopular",
+            "CONCEPT",
+            "towards",
+            "Ajit Pais Policies",
+            "CONCEPT"
+        ],
+        [
+            "Tom Wheeler",
+            "PERSON",
+            "Attended",
+            "Past Six CES Shows",
+            "EVENT"
+        ]
+    ]
+}

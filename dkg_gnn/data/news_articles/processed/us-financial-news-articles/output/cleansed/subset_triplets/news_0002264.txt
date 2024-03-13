@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Fidelity Investments\u2019, equity division",
+            "ORG",
+            "Has",
+            "Brian Hogan",
+            "PERSON"
+        ],
+        [
+            "Fidelity Investments\u2019 personal investing business",
+            "ORG",
+            "Has",
+            "Brian Hogan",
+            "PERSON"
+        ],
+        [
+            "Fidelity\u2019, Personal Investing Unit",
+            "ORG",
+            "Has",
+            "Brokerage Platform",
+            "PRODUCT"
+        ],
+        [
+            "Brian Hogan",
+            "PERSON",
+            "Operate_In",
+            "Fidelity Investments\u2019, Personal Investing Unit",
+            "ORG"
+        ]
+    ]
+}

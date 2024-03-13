@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Is_Member_Of",
+            "Movement for Democratic Change",
+            "ORG"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Operate_In",
+            "Zimbabwe",
+            "GPE"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Disclose",
+            "Cancer",
+            "CONCEPT"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Treatment",
+            "South African hospital",
+            "ORG"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Pictures",
+            "President Emmerson Mnangagwa",
+            "PERSON"
+        ],
+        [
+            "President Emmerson Mnangagwa",
+            "PERSON",
+            "Succeed",
+            "Robert Mugabe",
+            "PERSON"
+        ],
+        [
+            "Robert Mugabe",
+            "PERSON",
+            "Rule",
+            "Zimbabwe",
+            "GPE"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Reunite",
+            "Former allies",
+            "ORG"
+        ],
+        [
+            "Morgan Tsvangirai",
+            "PERSON",
+            "Have",
+            "Three deputies",
+            "PERSON"
+        ],
+        [
+            "Nelson Chamisa",
+            "PERSON",
+            "Touted",
+            "Future successor",
+            "PERSON"
+        ],
+        [
+            "Movement for Democratic Change",
+            "ORG",
+            "Challenge",
+            "Ruling ZANU-PF party",
+            "ORG"
+        ],
+        [
+            "ZANU-PF party",
+            "ORG",
+            "Participates_In",
+            "Presidential and parliamentary elections",
+            "EVENT"
+        ]
+    ]
+}

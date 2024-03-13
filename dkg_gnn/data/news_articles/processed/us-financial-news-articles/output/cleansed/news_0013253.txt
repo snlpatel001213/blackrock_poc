@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "BlueLine Associates",
+            "ORG",
+            "Announce",
+            "Mr. Steven McCarthy",
+            "PERSON"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Has",
+            "MBA",
+            "CONCEPT"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Is_Member_Of",
+            "US Army",
+            "ORG/GOV"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Operate_In",
+            "North Carolina",
+            "GPE"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Operate_In",
+            "Raleigh",
+            "GPE"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Positive_Impact_On",
+            "BlueLine Associates",
+            "ORG"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Serve",
+            "Rockin' Mini Golf of Nevada",
+            "ORG"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Serve",
+            "H3 \u2013 Veteran Charities",
+            "ORG"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Serve",
+            "The 50 Group",
+            "ORG"
+        ],
+        [
+            "Mr. Steven McCarthy",
+            "PERSON",
+            "Serve",
+            "Greater Raleigh Chamber of Commerce",
+            "ORG"
+        ],
+        [
+            "Fidelity Investments",
+            "ORG",
+            "Relate_To",
+            "Mr. Steven McCarthy",
+            "PERSON"
+        ],
+        [
+            "Staples",
+            "ORG",
+            "Relate_To",
+            "Mr. Steven McCarthy",
+            "PERSON"
+        ],
+        [
+            "UPS",
+            "ORG",
+            "Relate_To",
+            "Mr. Steven McCarthy",
+            "PERSON"
+        ],
+        [
+            "BlueLine Associates",
+            "ORG",
+            "Control",
+            "day-to-day operations",
+            "CONCEPT"
+        ],
+        [
+            "BlueLine Associates",
+            "ORG",
+            "Control",
+            "company goals",
+            "CONCEPT"
+        ],
+        [
+            "BlueLine Associates",
+            "ORG",
+            "Control",
+            "client satisfaction",
+            "CONCEPT"
+        ]
+    ]
+}

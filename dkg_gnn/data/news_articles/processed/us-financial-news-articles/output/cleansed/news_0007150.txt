@@ -1,0 +1,68 @@
+{
+    "output": [
+        [
+            "Jamie Emmer",
+            "PERSON",
+            "Has",
+            "Smartphone",
+            "PRODUCT"
+        ],
+        [
+            "Jamie Emmer",
+            "PERSON",
+            "Operate_In",
+            "Lumber Marketing Services",
+            "ORG"
+        ],
+        [
+            "Lumber Marketing Services",
+            "ORG",
+            "Located_In",
+            "Hope",
+            "GPE"
+        ],
+        [
+            "Jamie Emmer",
+            "PERSON",
+            "Manage",
+            "Lumber Marketing Services",
+            "ORG",
+            "Using",
+            "Smartphone",
+            "PRODUCT"
+        ],
+        [
+            "Jamie Emmer",
+            "PERSON",
+            "Has",
+            "Bike",
+            "PRODUCT"
+        ],
+        [
+            "Bike",
+            "PRODUCT",
+            "Positive_Impact_On",
+            "Jamie Emmers",
+            "PERSON",
+            "Knees",
+            "HEALTH"
+        ],
+        [
+            "Jamie Emmer",
+            "PERSON",
+            "Participates_In",
+            "Skiing",
+            "EVENT",
+            "At",
+            "Schweitzer Mountain Resort",
+            "GPE"
+        ],
+        [
+            "Schweitzer Mountain Resort",
+            "GPE",
+            "Located_In",
+            "Sandpoint",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "output": [
+        [
+            "China",
+            "GPE",
+            "Raise",
+            "Protectionist Sentiment",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Block",
+            "Ant Financial",
+            "ORG",
+            "Purchase",
+            "MoneyGram International Inc",
+            "COMP"
+        ],
+        [
+            "Ant Financial",
+            "ORG",
+            "Owned_By",
+            "Alibaba Group Holding Ltd",
+            "ORG"
+        ],
+        [
+            "Huawei Technologies Co",
+            "ORG",
+            "Planned Deal",
+            "AT&T Inc",
+            "COMP",
+            "Sell",
+            "Smartphones",
+            "PRODUCT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Considers",
+            "Tariff Moves",
+            "CONCEPT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Real Exports",
+            "Decline",
+            "CONCEPT",
+            "Michael Spencer",
+            "PERSON"
+        ],
+        [
+            "China Daily",
+            "ORG",
+            "Blame",
+            "Termination Huawei-AT&T Deal",
+            "EVENT",
+            "Political Pressure",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Criticism",
+            "China",
+            "GPE",
+            "Tightly Controlled Economy",
+            "CONCEPT",
+            "Restrictions",
+            "CONCEPT",
+            "Foreign Investment",
+            "CONCEPT"
+        ],
+        [
+            "United States",
+            "GPE",
+            "Block",
+            "Deals",
+            "CONCEPT",
+            "Chinese Companies",
+            "ORG",
+            "Sectors",
+            "SECTOR",
+            "Advantage",
+            "CONCEPT"
+        ]
+    ]
+}

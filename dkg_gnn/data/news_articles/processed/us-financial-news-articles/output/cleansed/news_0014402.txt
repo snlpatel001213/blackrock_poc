@@ -1,0 +1,186 @@
+{
+    "output": [
+        [
+            "Ukraine",
+            "GPE",
+            "Decrease",
+            "2018 Grain Harvest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Has",
+            "2018 Grain Harvest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Produce",
+            "Grain",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ukraine",
+            "GPE",
+            "Impact",
+            "Grain Harvest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2018 Grain Harvest",
+            "ECON_INDICATOR",
+            "Decrease",
+            "61.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2018 Grain Harvest",
+            "ECON_INDICATOR",
+            "Has",
+            "61.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat",
+            "PRODUCT",
+            "Decrease",
+            "25.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat",
+            "PRODUCT",
+            "Has",
+            "25.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat",
+            "PRODUCT",
+            "Produce",
+            "25.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat",
+            "PRODUCT",
+            "Impact",
+            "2018 Grain Harvest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2017",
+            "DATE",
+            "Has",
+            "26.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "2018",
+            "DATE",
+            "Has",
+            "61.1 Million Tonnes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UkrAgroConsult",
+            "ORG",
+            "Announce",
+            "2018 Grain Harvest Forecast",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UkrAgroConsult",
+            "ORG",
+            "Relate_To",
+            "2018 Grain Harvest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "UkrAgroConsult",
+            "ORG",
+            "Relate_To",
+            "Wheat Output",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winter Wheat Plantings",
+            "CONCEPT",
+            "Lose",
+            "300,000 Hectares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Winter Wheat Plantings",
+            "CONCEPT",
+            "Has",
+            "300,000 Hectares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Losses",
+            "CONCEPT",
+            "Has",
+            "5-6 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Losses",
+            "CONCEPT",
+            "Has",
+            "300,000 Hectares",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Yield",
+            "CONCEPT",
+            "Has",
+            "Three-Year Average",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Area of Wheat Plantings",
+            "CONCEPT",
+            "Rise",
+            "2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Area of Wheat Plantings",
+            "CONCEPT",
+            "Has",
+            "2 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat Sprouted",
+            "CONCEPT",
+            "Has",
+            "99.8 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Wheat Sprouted",
+            "CONCEPT",
+            "Has",
+            "Area",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Area",
+            "CONCEPT",
+            "Has",
+            "99.8 Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Area",
+            "CONCEPT",
+            "Has",
+            "Area of Wheat Plantings",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "output": [
+        [
+            "Virat Kohli",
+            "PERSON",
+            "Is_Member_Of",
+            "India",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Lose",
+            "First Test",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Win",
+            "First Test",
+            "EVENT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Vernon Philander",
+            "PERSON"
+        ],
+        [
+            "Vernon Philander",
+            "PERSON",
+            "Control",
+            "Bowling Attack",
+            "SECTOR"
+        ],
+        [
+            "India",
+            "GPE",
+            "Show",
+            "Positive Mindset",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Fail",
+            "Build Partnerships",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Play",
+            "Unfamiliar Conditions",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Pretoria",
+            "GPE"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Johannesburg",
+            "GPE"
+        ],
+        [
+            "India",
+            "GPE",
+            "Need",
+            "Transfer Pressure",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Need",
+            "Find Way",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Need",
+            "Grab Scoring Opportunities",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Need",
+            "Take Attack",
+            "CONCEPT"
+        ],
+        [
+            "India",
+            "GPE",
+            "Need",
+            "Step Up",
+            "VERB"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Force",
+            "Play Good Cricket",
+            "CONCEPT"
+        ],
+        [
+            "South Africa",
+            "GPE",
+            "Has",
+            "Bowling Attack",
+            "SECTOR"
+        ]
+    ]
+}

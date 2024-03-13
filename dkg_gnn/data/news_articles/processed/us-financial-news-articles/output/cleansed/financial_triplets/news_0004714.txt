@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "NXP Semiconductors",
+            "COMP",
+            "Produce",
+            "NFC Technology",
+            "CONCEPT"
+        ],
+        [
+            "Dropmix Game",
+            "PRODUCT",
+            "Relate_To",
+            "NFC Technology",
+            "CONCEPT"
+        ],
+        [
+            "Hasbro",
+            "ORG",
+            "Operate_In",
+            "Toy Industry",
+            "SECTOR"
+        ],
+        [
+            "NXP Semiconductors",
+            "COMP",
+            "Operate_In",
+            "Semiconductor Industry",
+            "SECTOR"
+        ]
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "output": [
+        [
+            "Nine Energy Service, Inc.",
+            "ORG",
+            "Announce",
+            "Initial Public Offering",
+            "EVENT"
+        ],
+        [
+            "Nine Energy Service, Inc.",
+            "ORG",
+            "Operate_In",
+            "North American onshore completion and production services provider",
+            "SECTOR"
+        ],
+        [
+            "Nine Energy Service, Inc.",
+            "ORG",
+            "Participates_In",
+            "Unconventional oil and gas resource development",
+            "SECTOR"
+        ],
+        [
+            "Nine Energy Service, Inc.",
+            "ORG",
+            "Has",
+            "Common Stock",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Nine Energy Service, Inc.",
+            "ORG",
+            "Intends_To",
+            "Grant",
+            "Relate_To"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Managers",
+            "SECTOR"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Act_As",
+            "Representatives_Of_The_Underwriters",
+            "SECTOR"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Act_As",
+            "Book-Running Managers",
+            "SECTOR"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "SECTOR"
+        ],
+        [
+            "J.P. Morgan",
+            "ORG",
+            "Act_As",
+            "Representative_Of_The_Underwriters",
+            "SECTOR"
+        ],
+        [
+            "Goldman Sachs & Co. LLC",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "SECTOR"
+        ],
+        [
+            "Goldman Sachs & Co. LLC",
+            "ORG",
+            "Act_As",
+            "Representative_Of_The_Underwriters",
+            "SECTOR"
+        ],
+        [
+            "Wells Fargo Securities",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "SECTOR"
+        ],
+        [
+            "BofA Merrill Lynch",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "SECTOR"
+        ],
+        [
+            "Credit Suisse",
+            "ORG",
+            "Act_As",
+            "Joint Book-Running Manager",
+            "SECTOR"
+        ],
+        [
+            "New York Stock Exchange",
+            "ORG",
+            "Has",
+            "Ticker Symbol \u201cNINE\u201d",
+            "SECTOR"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Grant",
+            "30-day option to purchase up to an additional 1,050,000 shares",
+            "SECTOR"
+        ],
+        [
+            "Underwriters",
+            "ORG",
+            "Has",
+            "Option_To_Purchase",
+            "SECTOR"
+        ],
+        [
+            "Prospectus",
+            "PRODUCT",
+            "Obtainable_From",
+            "J.P. Morgan Securities LLC",
+            "ORG"
+        ],
+        [
+            "Prospectus",
+            "PRODUCT",
+            "Obtainable_From",
+            "Goldman Sachs & Co. LLC",
+            "ORG"
+        ],
+        [
+            "Prospectus",
+            "PRODUCT",
+            "Obtainable_From",
+            "Wells Fargo Securities",
+            "ORG"
+        ]
+    ]
+}

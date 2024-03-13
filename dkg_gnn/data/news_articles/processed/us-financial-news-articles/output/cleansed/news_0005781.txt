@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Yoma Strategic Holdings",
+            "ORG",
+            "Control",
+            "Company dedicated to promoting Myanmar tourism",
+            "COMP"
+        ],
+        [
+            "Company dedicated to promoting Myanmar tourism",
+            "COMP",
+            "Lists",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Affects",
+            "its appeal to tourist",
+            "CONCEPT"
+        ],
+        [
+            "Myanmar",
+            "GPE",
+            "Negative_Impact_On",
+            "Tourism Industry",
+            "SECTOR"
+        ],
+        [
+            "Serge Pun",
+            "PERSON",
+            "of",
+            "Yoma Strategic Holdings",
+            "ORG"
+        ]
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Robert W. Merry",
+            "PERSON",
+            "Mention",
+            "FDR Quote",
+            "CONCEPT"
+        ],
+        [
+            "FDR Quote",
+            "CONCEPT",
+            "Relate_To",
+            "Totalitarian System",
+            "CONCEPT"
+        ],
+        [
+            "Totalitarian System",
+            "CONCEPT",
+            "Include",
+            "Hitler",
+            "PERSON"
+        ],
+        [
+            "Totalitarian System",
+            "CONCEPT",
+            "Include",
+            "Mao",
+            "PERSON"
+        ],
+        [
+            "Totalitarian System",
+            "CONCEPT",
+            "Include",
+            "Stalin",
+            "PERSON"
+        ],
+        [
+            "Nazis",
+            "ORG/GOV",
+            "Has",
+            "Silver Coins",
+            "PRODUCT"
+        ],
+        [
+            "Silver Coins",
+            "PRODUCT",
+            "Inscribe",
+            "Common Good Before Individual Good",
+            "CONCEPT"
+        ]
+    ]
+}

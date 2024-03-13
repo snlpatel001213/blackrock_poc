@@ -1,0 +1,99 @@
+{
+    "output": [
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Decrease",
+            "15%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ethereum",
+            "CONCEPT",
+            "Decrease",
+            "21%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Ripple",
+            "CONCEPT",
+            "Decrease",
+            "29%",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Peak",
+            "$19,600",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CONCEPT",
+            "Sedate",
+            "$15,000",
+            "ECON_INDICATOR"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Talk",
+            "Cryptocurrency Crackdown",
+            "EVENT"
+        ],
+        [
+            "South Korea",
+            "GPE",
+            "Start",
+            "Cryptocurrency Crackdown",
+            "EVENT"
+        ],
+        [
+            "China",
+            "GPE",
+            "Step_Up",
+            "Actions",
+            "ORG/GOV"
+        ],
+        [
+            "China",
+            "GPE",
+            "Ban",
+            "Cryptocurrency Exchanges",
+            "ORG"
+        ],
+        [
+            "BlackWallet",
+            "COMP",
+            "Suffer",
+            "Attack",
+            "EVENT"
+        ],
+        [
+            "Attacker",
+            "PERSON",
+            "Make_Off",
+            "Hundreds of Thousands of Lumens",
+            "CONCEPT"
+        ],
+        [
+            "Lumens",
+            "CONCEPT",
+            "Used_By",
+            "Steller",
+            "COMP"
+        ],
+        [
+            "Steller",
+            "COMP",
+            "Have",
+            "Total Value",
+            "ECON_INDICATOR",
+            "of",
+            "More_than",
+            "$400,000",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

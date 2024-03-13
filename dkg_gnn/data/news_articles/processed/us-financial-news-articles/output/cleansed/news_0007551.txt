@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "U.S. Police Forces",
+            "ORG/GOV",
+            "Report",
+            "Reduction in Violence",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Cities",
+            "GPE",
+            "Experience",
+            "Reduction in Violence",
+            "CONCEPT"
+        ],
+        [
+            "U.S. Police Forces",
+            "ORG/GOV",
+            "Use",
+            "Latest Crime-fighting Software",
+            "PRODUCT"
+        ],
+        [
+            "U.S. Police Forces",
+            "ORG/GOV",
+            "Employ",
+            "Friendlier Street-level Policing",
+            "CONCEPT"
+        ],
+        [
+            "Friendlier Street-level Policing",
+            "CONCEPT",
+            "Aim",
+            "Building Trust",
+            "CONCEPT"
+        ],
+        [
+            "Friendlier Street-level Policing",
+            "CONCEPT",
+            "Target",
+            "Skeptical Public",
+            "PERSON"
+        ]
+    ]
+}

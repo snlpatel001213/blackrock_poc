@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Jo-Wilfried Tsonga",
+            "PERSON",
+            "Operate_In",
+            "Men\u2019s Tennis",
+            "CONCEPT"
+        ],
+        [
+            "Jo-Wilfried Tsonga",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Denis Shapovalov",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Denis Shapovalov",
+            "PERSON",
+            "Negative_Impact_On",
+            "Denis Shapovalov",
+            "PERSON"
+        ],
+        [
+            "Tsonga",
+            "PERSON",
+            "Produce",
+            "Trademark Fireworks",
+            "CONCEPT"
+        ],
+        [
+            "Tsonga",
+            "PERSON",
+            "Control",
+            "Calf Injury",
+            "CONCEPT"
+        ],
+        [
+            "Shapovalov",
+            "PERSON",
+            "Control",
+            "Favorite Backhand",
+            "CONCEPT"
+        ],
+        [
+            "Tsonga",
+            "PERSON",
+            "Has",
+            "16 Five-set Victory",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Tsonga",
+            "PERSON",
+            "Perform",
+            "Crowd-pleasing Celebratory Dance",
+            "CONCEPT"
+        ],
+        [
+            "Shapovalov",
+            "PERSON",
+            "Has",
+            "Exciting Career Ahead",
+            "CONCEPT"
+        ],
+        [
+            "Shapovalov",
+            "PERSON",
+            "Control",
+            "Firepower",
+            "CONCEPT"
+        ],
+        [
+            "Tsonga",
+            "PERSON",
+            "Control",
+            "Physical Presence",
+            "CONCEPT"
+        ],
+        [
+            "Shapovalov",
+            "PERSON",
+            "Learn",
+            "Lesson",
+            "CONCEPT"
+        ]
+    ]
+}

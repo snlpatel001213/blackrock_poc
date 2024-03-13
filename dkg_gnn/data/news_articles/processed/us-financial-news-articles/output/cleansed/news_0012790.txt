@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Suheung Co Ltd",
+            "COMP",
+            "Announce",
+            "Repurchase",
+            "EVENT"
+        ],
+        [
+            "Suheung Co Ltd",
+            "COMP",
+            "Control",
+            "150,000 common shares",
+            "PRODUCT"
+        ],
+        [
+            "150,000 common shares",
+            "PRODUCT",
+            "Worth",
+            "4.56 billion won",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Suheung Co Ltd",
+            "COMP",
+            "Operate_In",
+            "Beijing Headline News",
+            "GPE"
+        ],
+        [
+            "Suheung Co Ltd",
+            "COMP",
+            "Relate_To",
+            "Thomson Reuters Trust Principles",
+            "CONCEPT"
+        ]
+    ]
+}

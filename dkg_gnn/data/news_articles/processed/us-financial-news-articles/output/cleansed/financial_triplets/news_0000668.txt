@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Zurich",
+            "GPE",
+            "Has",
+            "6150 Zurich taxpayers",
+            "PERSON"
+        ],
+        [
+            "Zurich",
+            "GPE",
+            "Operate_In",
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Has",
+            "rule letting taxpayers self-declare untaxed assets",
+            "CONCEPT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Participates_In",
+            "Automatic Exchange of Information programme",
+            "EVENT"
+        ],
+        [
+            "Switzerland",
+            "GPE",
+            "Control",
+            "offshore wealth",
+            "CONCEPT"
+        ]
+    ]
+}

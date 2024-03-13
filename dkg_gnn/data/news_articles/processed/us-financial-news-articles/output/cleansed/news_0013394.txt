@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Nordstrom Inc.",
+            "COMP",
+            "Has",
+            "Geevy Thomas",
+            "PERSON"
+        ],
+        [
+            "Geevy Thomas",
+            "PERSON",
+            "Relate_To",
+            "Chief Innovation Officer",
+            "CONCEPT"
+        ],
+        [
+            "Nordstrom Inc.",
+            "COMP",
+            "Has",
+            "Karen Mckibbin",
+            "PERSON"
+        ],
+        [
+            "Karen Mckibbin",
+            "PERSON",
+            "Relate_To",
+            "Nordstrom Rack President",
+            "CONCEPT"
+        ],
+        [
+            "Karen Mckibbin",
+            "PERSON",
+            "Participates_In",
+            "Retire",
+            "EVENT"
+        ]
+    ]
+}

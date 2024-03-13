@@ -1,0 +1,18 @@
+{
+    "output": [
+        [
+            "Five-alarm fire",
+            "EVENT",
+            "Impact",
+            "Apartment building",
+            "COMP"
+        ],
+        [
+            "Apartment building",
+            "COMP",
+            "Negative_Impact_On",
+            "Several people",
+            "PERSON"
+        ]
+    ]
+}

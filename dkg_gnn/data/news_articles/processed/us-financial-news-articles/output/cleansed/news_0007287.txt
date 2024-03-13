@@ -1,0 +1,59 @@
+{
+    "output": [
+        [
+            "LG Electronics Inc",
+            "COMP",
+            "Estimate",
+            "Fourth-Quarter Operating Profit",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LG Electronics Inc",
+            "COMP",
+            "Operate_In",
+            "Home Appliances Business",
+            "SECTOR"
+        ],
+        [
+            "Home Appliances Business",
+            "SECTOR",
+            "Increase",
+            "Marketing Costs",
+            "ECON_INDICATOR"
+        ],
+        [
+            "LG Electronics Inc",
+            "COMP",
+            "Produce",
+            "Organic Light-Emitting Diode TV Sets",
+            "PRODUCT"
+        ],
+        [
+            "LG Electronics Inc",
+            "COMP",
+            "Operate_In",
+            "South Korean Exporters",
+            "SECTOR"
+        ],
+        [
+            "South Korean Exporters",
+            "SECTOR",
+            "Keep",
+            "Close Eye",
+            "Verb"
+        ],
+        [
+            "Won",
+            "ECON_INDICATOR",
+            "Hit",
+            "Three-Year High",
+            "CONCEPT"
+        ],
+        [
+            "Dollar",
+            "ECON_INDICATOR",
+            "Reversed Direction",
+            "CONCEPT"
+        ]
+    ]
+}

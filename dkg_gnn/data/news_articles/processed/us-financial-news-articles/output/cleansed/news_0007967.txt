@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Panasonic Corp",
+            "COMP",
+            "Has",
+            "WILAN Subsidiary",
+            "ORG"
+        ],
+        [
+            "WILAN Subsidiary",
+            "ORG",
+            "Acquire",
+            "Patent Portfolio",
+            "CONCEPT"
+        ],
+        [
+            "Patent Portfolio",
+            "CONCEPT",
+            "From",
+            "Panasonic",
+            "COMP"
+        ]
+    ]
+}

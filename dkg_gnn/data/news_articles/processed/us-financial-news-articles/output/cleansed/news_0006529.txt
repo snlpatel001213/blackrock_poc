@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Toshiba",
+            "COMP",
+            "Gain",
+            null,
+            "NA"
+        ],
+        [
+            "Canada's Brookfield Asset Management",
+            "ORG",
+            "Acquire",
+            "Westinghouse",
+            "COMP"
+        ],
+        [
+            "Westinghouse",
+            "COMP",
+            "Bankrupt",
+            null,
+            "NA"
+        ],
+        [
+            "Westinghouse",
+            "COMP",
+            "Subsidiary_Of",
+            "Canada's Brookfield Asset Management",
+            "ORG"
+        ],
+        [
+            "Westinghouse",
+            "COMP",
+            "Sell",
+            null,
+            "NA"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Struggle",
+            null,
+            "NA"
+        ],
+        [
+            "Toshiba",
+            "COMP",
+            "Closer_To",
+            "Closure",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Apple",
+            "PERSON",
+            "Is_Member_Of",
+            "Squawk on the Street",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Relate_To",
+            "Report",
+            "EVENT"
+        ],
+        [
+            "Report",
+            "EVENT",
+            "Control",
+            "Sen. John Thune",
+            "PERSON"
+        ],
+        [
+            "Sen. John Thune",
+            "PERSON",
+            "Demand",
+            "Answers",
+            "ORG"
+        ],
+        [
+            "Answers",
+            "ORG",
+            "Relate_To",
+            "Slowing down its iPhones",
+            "PRODUCT"
+        ]
+    ]
+}

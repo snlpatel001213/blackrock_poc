@@ -1,0 +1,235 @@
+{
+    "output": [
+        [
+            "J.P. Morgan Healthcare Conference",
+            "EVENT",
+            "Participates_In",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "Executives",
+            "PERSON",
+            "Has",
+            "New Federal Tax Law",
+            "ORG/GOV"
+        ],
+        [
+            "Biotech and Pharmaceutical Firm",
+            "COMP",
+            "Has",
+            "New Corporate Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Biotech and Pharmaceutical Firm",
+            "COMP",
+            "Has",
+            "Overseas Cash",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Analysts",
+            "PERSON",
+            "Predict",
+            "Spike in Dealmaking",
+            "EVENT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "Insist",
+            "Influx of Cash",
+            "FIN_INSTRUMENT",
+            "DoesNotChange",
+            "Plans for Capital",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Globally Competitive System",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Benefit",
+            "U.S. Economy",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Benefit",
+            "Job Creation in U.S.",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Dominic Caruso",
+            "PERSON",
+            "As",
+            "Chief Financial Officer"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Operate_In",
+            "Healthcare Sector",
+            "SECTOR"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Dividend",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Mergers",
+            "EVENT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Share Buybacks",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "More Globally Competitive System",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Will Benefit",
+            "U.S. Economy",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Will Benefit",
+            "Job Creation in U.S.",
+            "CONCEPT"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "First Priority",
+            "CONCEPT",
+            "Of",
+            "Dividend"
+        ],
+        [
+            "Johnson & Johnson",
+            "COMP",
+            "Has",
+            "Mergers and Share Buybacks",
+            "CONCEPT"
+        ],
+        [
+            "Medtronic",
+            "COMP",
+            "Has",
+            "Medical Device Giant",
+            "COMP"
+        ],
+        [
+            "Medtronic",
+            "COMP",
+            "Has",
+            "Omar Ishrak",
+            "PERSON",
+            "As",
+            "CEO"
+        ],
+        [
+            "Medtronic",
+            "COMP",
+            "Has",
+            "New Law",
+            "ORG/GOV",
+            "Allows",
+            "Access Nearly All of Cash"
+        ],
+        [
+            "Medtronic",
+            "COMP",
+            "Has",
+            "Repatriation",
+            "CONCEPT",
+            "Between",
+            "$2 Billion and $3 Billion",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Medtronic",
+            "COMP",
+            "Will Focus on",
+            "Reinvesting",
+            "CONCEPT",
+            "To Offset Cost"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Has",
+            "Biotech Company",
+            "COMP"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Has",
+            "Mark Alles",
+            "PERSON",
+            "As",
+            "CEO"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Has",
+            "Changes",
+            "CONCEPT",
+            "Allows",
+            "Access About 60 Percent of Cash"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Has",
+            "One-Time Tax",
+            "ECON_INDICATOR",
+            "Between",
+            "$800 Million and $1.3 Billion"
+        ],
+        [
+            "Celgene",
+            "COMP",
+            "Announce",
+            "Buy Impact Biomedicines",
+            "PRODUCT"
+        ],
+        [
+            "Companies",
+            "COMP",
+            "May Clarify",
+            "How Law Will Affect Them",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Speculators",
+            "PERSON",
+            "Raise",
+            "Net Short Bitcoin Positions",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Speculators",
+            "PERSON",
+            "Operate_In",
+            "CFTC",
+            "ORG/REG"
+        ],
+        [
+            "Bitcoin Futures",
+            "PRODUCT",
+            "Has",
+            "Selloff",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Kem Sokha",
+            "PERSON",
+            "Call_For",
+            "Free and Fair Elections",
+            "CONCEPT"
+        ],
+        [
+            "Kem Sokha",
+            "PERSON",
+            "Is_Member_Of",
+            "Banned Opposition Cambodia National Rescue Party",
+            "ORG"
+        ],
+        [
+            "Cambodia National Rescue Party",
+            "ORG",
+            "Dissolved_By",
+            "Supreme Court",
+            "ORG/GOV"
+        ],
+        [
+            "Cambodia",
+            "GPE",
+            "Lose",
+            "Aid and Export Markets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cambodia",
+            "GPE",
+            "Receive_Condemnation",
+            "International Community",
+            "GPE"
+        ],
+        [
+            "Kem Sokha",
+            "PERSON",
+            "Call_For",
+            "National Unity and Non-Violence",
+            "CONCEPT"
+        ],
+        [
+            "Cambodia",
+            "GPE",
+            "Undergo",
+            "Crackdown by Government",
+            "ORG/GOV"
+        ],
+        [
+            "Cambodia",
+            "GPE",
+            "Hold",
+            "General Election",
+            "EVENT"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Vow",
+            "Extend Power",
+            "CONCEPT"
+        ],
+        [
+            "Kem Sokha",
+            "PERSON",
+            "Marked",
+            "Big Political Crises",
+            "CONCEPT"
+        ],
+        [
+            "Cambodia",
+            "GPE",
+            "Experience",
+            "Democracy Walked Backward",
+            "CONCEPT"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Rule",
+            "More Than 30 Years",
+            "DURATION"
+        ],
+        [
+            "Opposition Politicians",
+            "PERSON",
+            "Create",
+            "New Party",
+            "ORG"
+        ],
+        [
+            "Hun Sen",
+            "PERSON",
+            "Have",
+            "Political Rights",
+            "CONCEPT"
+        ],
+        [
+            "Opposition Politicians",
+            "PERSON",
+            "Compete",
+            "New Party",
+            "ORG"
+        ]
+    ]
+}

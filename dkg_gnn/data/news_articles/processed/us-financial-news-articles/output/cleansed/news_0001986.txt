@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "Protests",
+            "EVENT",
+            "Relate_To",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Protesters",
+            "PERSON",
+            "Participates_In",
+            "Protests",
+            "EVENT"
+        ],
+        [
+            "Police Stations",
+            "ORG",
+            "Tried_To_Take_Over_By",
+            "Armed Protesters",
+            "PERSON"
+        ],
+        [
+            "Military Bases",
+            "ORG",
+            "Tried_To_Take_Over_By",
+            "Armed Protesters",
+            "PERSON"
+        ],
+        [
+            "Security Forces",
+            "ORG",
+            "Resisted",
+            "Armed Protesters",
+            "PERSON"
+        ],
+        [
+            "Instagram",
+            "PRODUCT",
+            "Blocked_Access_To_By",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Telegram",
+            "PRODUCT",
+            "Blocked_Access_To_By",
+            "Iran",
+            "GPE"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Acknowledged",
+            "Publics Anger",
+            "CONCEPT"
+        ],
+        [
+            "Hassan Rouhani",
+            "PERSON",
+            "Warned",
+            "Those_Considered_Lawbreakers",
+            "PERSON"
+        ]
+    ]
+}

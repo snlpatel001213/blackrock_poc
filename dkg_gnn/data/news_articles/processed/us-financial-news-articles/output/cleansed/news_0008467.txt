@@ -1,0 +1,88 @@
+{
+    "output": [
+        [
+            "Huawei",
+            "PERSON",
+            "Announce",
+            "partnership",
+            "ORG"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Produce",
+            "flagship Mate 10 Pro",
+            "PRODUCT"
+        ],
+        [
+            "AT&T",
+            "COMP",
+            "Participates_In",
+            "US smartphone mkt",
+            "GPE"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Control",
+            "0.5 pct share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Operate_In",
+            "Chinese investment",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "CFIUS",
+            "ORG/REG"
+        ],
+        [
+            "CFIUS",
+            "ORG/REG",
+            "Impact",
+            "Chinese deals",
+            "COMP"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "foreign investment rules",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Introduce",
+            "Mate 10 Pro",
+            "PRODUCT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Raise",
+            "brand awareness",
+            "CONCEPT"
+        ],
+        [
+            "Huawei",
+            "PERSON",
+            "Has",
+            "proprietary mobile chips",
+            "PRODUCT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Control",
+            "national security concerns",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "output": [
+        [
+            "Microsoft",
+            "COMP",
+            "Announce",
+            "Avere Systems Acquisition",
+            "ORG"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Operate_In",
+            "Cloud Computing Industry",
+            "SECTOR"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Produce",
+            "Data Storage Technology",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Control",
+            "Azure",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Azure",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Customer Experience",
+            "CONCEPT"
+        ],
+        [
+            "Microsoft",
+            "COMP",
+            "Positive_Impact_On",
+            "Azure Revenue",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Participates_In",
+            "Amazon Web Services",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Participates_In",
+            "Google Cloud Platform",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Is_Member_Of",
+            "Pittsburgh",
+            "GPE"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Control",
+            "Johns Hopkins University",
+            "ORG/GOV"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Control",
+            "Sony Pictures Imageworks",
+            "ORG"
+        ],
+        [
+            "Avere Systems",
+            "ORG",
+            "Control",
+            "Library of Congress",
+            "ORG/GOV"
+        ],
+        [
+            "Google",
+            "COMP",
+            "Invests_In",
+            "Avere Systems",
+            "ORG"
+        ],
+        [
+            "Alphabet",
+            "COMP",
+            "Invests_In",
+            "Avere Systems",
+            "ORG"
+        ]
+    ]
+}

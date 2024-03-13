@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Liverpool",
+            "GPE",
+            "Participates_In",
+            "FA Cup",
+            "EVENT"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Is_Member_Of",
+            "Liverpool",
+            "GPE"
+        ],
+        [
+            "Juergen Klopp",
+            "PERSON",
+            "Operate_In",
+            "Soccer Football",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Impact",
+            "Trophy Drought",
+            "CONCEPT"
+        ],
+        [
+            "Liverpool",
+            "GPE",
+            "Control",
+            "Merseyside Club",
+            "GPE"
+        ]
+    ]
+}

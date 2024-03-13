@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Trader",
+            "PERSON",
+            "Bet",
+            "Biotech Stocks",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Biotech Stocks",
+            "FIN_INSTRUMENT",
+            "Relate_To",
+            "Comeback",
+            "CONCEPT"
+        ],
+        [
+            "Trader",
+            "PERSON",
+            "Operate_In",
+            "Global Markets",
+            "FIN_INSTRUMENT"
+        ]
+    ]
+}

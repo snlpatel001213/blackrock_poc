@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "White House",
+            "GPE",
+            "Operate_In",
+            "West Wing",
+            "GPE"
+        ],
+        [
+            "White House",
+            "GPE",
+            "Has",
+            "Employees",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "GPE",
+            "Has",
+            "Aides",
+            "PERSON"
+        ],
+        [
+            "White House",
+            "GPE",
+            "Has",
+            "Top Priority",
+            "CONCEPT"
+        ],
+        [
+            "White House",
+            "GPE",
+            "Has",
+            "Official",
+            "PERSON"
+        ]
+    ]
+}

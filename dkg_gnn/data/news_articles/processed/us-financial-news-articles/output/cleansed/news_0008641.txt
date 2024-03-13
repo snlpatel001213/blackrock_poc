@@ -1,0 +1,116 @@
+{
+    "output": [
+        [
+            "Costa Rican authorities",
+            "GPE",
+            "Raid",
+            "Nature Air",
+            "ORG"
+        ],
+        [
+            "Nature Air",
+            "ORG",
+            "Relate_To",
+            "New Year\u2019s Eve plane crash",
+            "EVENT"
+        ],
+        [
+            "New Year\u2019s Eve plane crash",
+            "EVENT",
+            "Impact",
+            "Two Costa Rican pilots and 10 Americans",
+            "PERSON"
+        ],
+        [
+            "Walter Espinoza",
+            "PERSON",
+            "Tell",
+            "Reporters",
+            "PERSON"
+        ],
+        [
+            "Walter Espinoza",
+            "PERSON",
+            "Describe",
+            "Operations as Routine",
+            "CONCEPT"
+        ],
+        [
+            "Operations",
+            "CONCEPT",
+            "Collect",
+            "Information",
+            "CONCEPT"
+        ],
+        [
+            "Walter Espinoza",
+            "PERSON",
+            "Say",
+            "Too Soon to Speculate",
+            "CONCEPT"
+        ],
+        [
+            "Cessna 208B Grand Caravan",
+            "PRODUCT",
+            "Plummet",
+            "Sky",
+            "CONCEPT"
+        ],
+        [
+            "Cessna 208B Grand Caravan",
+            "PRODUCT",
+            "Takeoff",
+            "Punta Islita beach town",
+            "GPE"
+        ],
+        [
+            "Enio Cubillo",
+            "PERSON",
+            "Director",
+            "Civil Aviation Agency",
+            "ORG/GOV"
+        ],
+        [
+            "Civil Aviation Agency",
+            "ORG/GOV",
+            "Assist",
+            "Probe",
+            "CONCEPT"
+        ],
+        [
+            "Experts from U.S. National Transportation Safety Board and Federal Aviation Administration",
+            "ORG/REG",
+            "Assist",
+            "Probe",
+            "CONCEPT"
+        ],
+        [
+            "Representatives from Cessna",
+            "ORG",
+            "Assist",
+            "Probe",
+            "CONCEPT"
+        ],
+        [
+            "Investigators",
+            "PERSON",
+            "Focus",
+            "Weather Conditions",
+            "CONCEPT"
+        ],
+        [
+            "Investigators",
+            "PERSON",
+            "Focus",
+            "Possible Mechanical Failures",
+            "CONCEPT"
+        ],
+        [
+            "Investigators",
+            "PERSON",
+            "Focus",
+            "Human Error",
+            "CONCEPT"
+        ]
+    ]
+}

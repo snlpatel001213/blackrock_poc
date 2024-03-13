@@ -1,0 +1,95 @@
+{
+    "output": [
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Announce",
+            "2017 fourth-quarter earnings",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Operate_In",
+            "Insurance sector",
+            "SECTOR"
+        ],
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Control",
+            "Subsidiaries",
+            "ORG"
+        ],
+        [
+            "Subsidiaries",
+            "ORG",
+            "Produce",
+            "Insurance products",
+            "PRODUCT"
+        ],
+        [
+            "Subsidiaries",
+            "ORG",
+            "Produce",
+            "Related services",
+            "PRODUCT"
+        ],
+        [
+            "Subsidiaries",
+            "ORG",
+            "Produce",
+            "Risk management services",
+            "PRODUCT"
+        ],
+        [
+            "Subsidiaries",
+            "ORG",
+            "Produce",
+            "Third-party administration services",
+            "PRODUCT"
+        ],
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Participates_In",
+            "Investor update conference call",
+            "EVENT"
+        ],
+        [
+            "Brown & Brown, Inc.",
+            "ORG",
+            "Invests_In",
+            "Windows Media Player software",
+            "PRODUCT"
+        ],
+        [
+            "Certain statements",
+            "CONCEPT",
+            "Relate_To",
+            "Future results",
+            "CONCEPT"
+        ],
+        [
+            "Certain statements",
+            "CONCEPT",
+            "Relate_To",
+            "Forward-looking statements",
+            "CONCEPT"
+        ],
+        [
+            "Factors",
+            "CONCEPT",
+            "Relate_To",
+            "Company financial results",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

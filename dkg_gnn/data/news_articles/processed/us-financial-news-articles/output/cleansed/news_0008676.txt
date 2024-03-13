@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "France",
+            "GPE",
+            "Register",
+            "Record Asylum Requests",
+            "EVENT"
+        ],
+        [
+            "France",
+            "GPE",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ],
+        [
+            "Albanians",
+            "PERSON",
+            "Top",
+            "Asylum Requests",
+            "EVENT"
+        ],
+        [
+            "Albanians",
+            "PERSON",
+            "Have",
+            "Low Acceptance Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Syria",
+            "GPE",
+            "Have",
+            "High Acceptance Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Afghanistan",
+            "GPE",
+            "Have",
+            "High Acceptance Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sudan",
+            "GPE",
+            "Have",
+            "Medium Acceptance Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Albanians",
+            "PERSON",
+            "Experience",
+            "Cyclical Phenomenon",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Record",
+            "High Number of Asylum Requests",
+            "EVENT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Debate",
+            "Inflow Limits",
+            "CONCEPT"
+        ],
+        [
+            "Chancellor Angela Merkel",
+            "PERSON",
+            "Negotiate",
+            "Governing Coalition",
+            "EVENT"
+        ]
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "output": [
+        [
+            "Donald Trump",
+            "PERSON",
+            "Threaten",
+            "Legal Action",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Has",
+            "Lawyer",
+            "ORG"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Relate_To",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Make",
+            "Disparaging Statements",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Make",
+            "Defamatory Statements",
+            "CONCEPT"
+        ],
+        [
+            "Steve Bannon",
+            "PERSON",
+            "Speak_To",
+            "Michael Wolff",
+            "PERSON"
+        ],
+        [
+            "Michael Wolff",
+            "PERSON",
+            "Write",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Chronicle",
+            "Trump First Year",
+            "CONCEPT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Send",
+            "Letter",
+            "PRODUCT"
+        ],
+        [
+            "Charles Harder",
+            "PERSON",
+            "Demand",
+            "Cease and Desist",
+            "CONCEPT"
+        ],
+        [
+            "Trump Tower",
+            "GPE",
+            "Location_Of",
+            "Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Eldest Son",
+            "Donald Jr.",
+            "PERSON"
+        ],
+        [
+            "Russian Lawyer",
+            "PERSON",
+            "Attend",
+            "Meeting",
+            "CONCEPT"
+        ],
+        [
+            "Book",
+            "PRODUCT",
+            "Hit",
+            "Shelves",
+            "CONCEPT"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Blame",
+            "Bannon",
+            "PERSON"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Leave",
+            "White House",
+            "ORG"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Criticize",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Bannon",
+            "PERSON",
+            "Call",
+            "Firing Comey",
+            "CONCEPT",
+            "Biggest Mistake",
+            "CONCEPT"
+        ],
+        [
+            "Harder",
+            "PERSON",
+            "Send",
+            "Cease and Desist Letter",
+            "PRODUCT"
+        ],
+        [
+            "Harder",
+            "PERSON",
+            "Demand",
+            "Apology",
+            "CONCEPT"
+        ],
+        [
+            "Wolff",
+            "PERSON",
+            "Write",
+            "Book",
+            "PRODUCT"
+        ],
+        [
+            "Publisher",
+            "ORG",
+            "Henry Holt",
+            "ORG",
+            "Co.",
+            "ORG"
+        ]
+    ]
+}

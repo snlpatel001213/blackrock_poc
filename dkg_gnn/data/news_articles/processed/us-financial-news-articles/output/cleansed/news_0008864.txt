@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Seoul",
+            "GPE",
+            "Credits",
+            "Trump",
+            "PERSON"
+        ],
+        [
+            "Trump",
+            "PERSON",
+            "Help",
+            "North Korea Talks",
+            "EVENT"
+        ],
+        [
+            "North Korea Talks",
+            "EVENT",
+            "First",
+            "Inter-Korean Talks",
+            "EVENT"
+        ],
+        [
+            "Inter-Korean Talks",
+            "EVENT",
+            "In",
+            "Two Years",
+            "TIME"
+        ],
+        [
+            "Seoul",
+            "GPE",
+            "Warns",
+            "Pyongyang",
+            "GPE"
+        ],
+        [
+            "Pyongyang",
+            "GPE",
+            "Face",
+            "Stronger Sanctions",
+            "CONCEPT"
+        ]
+    ]
+}

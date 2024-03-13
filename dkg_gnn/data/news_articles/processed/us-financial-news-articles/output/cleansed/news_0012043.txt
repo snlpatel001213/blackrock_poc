@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "James Paulsen",
+            "PERSON",
+            "Relate_To",
+            "Rising rates and inflation fears",
+            "CONCEPT"
+        ],
+        [
+            "James Paulsen",
+            "PERSON",
+            "Participates_In",
+            "Outlook on the markets",
+            "EVENT"
+        ],
+        [
+            "The Leuthold Group",
+            "ORG",
+            "Is_Member_Of",
+            "Outlook on the markets",
+            "EVENT"
+        ],
+        [
+            "Tom Manning",
+            "PERSON",
+            "Participates_In",
+            "Outlook on the markets",
+            "EVENT"
+        ],
+        [
+            "F.L. Putnam Investment Management",
+            "ORG",
+            "Is_Member_Of",
+            "Outlook on the markets",
+            "EVENT"
+        ],
+        [
+            "Rising rates and inflation fears",
+            "CONCEPT",
+            "Impact",
+            "Markets",
+            "SECTOR"
+        ]
+    ]
+}

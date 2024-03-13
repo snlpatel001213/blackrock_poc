@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "Bank of Marin Bancorp",
+            "ORG",
+            "Announce",
+            "fourth quarter earnings call",
+            "EVENT"
+        ],
+        [
+            "Russell A. Colombo",
+            "PERSON",
+            "Participates_In",
+            "fourth quarter earnings call",
+            "EVENT"
+        ],
+        [
+            "Tani Girton",
+            "PERSON",
+            "Participates_In",
+            "fourth quarter earnings call",
+            "EVENT"
+        ],
+        [
+            "Bank of Marin",
+            "COMP",
+            "Operate_In",
+            "San Francisco Bay Area",
+            "GPE"
+        ],
+        [
+            "Bank of Marin",
+            "COMP",
+            "Has",
+            "assets",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bank of Marin",
+            "COMP",
+            "Relate_To",
+            "Top 200 Community Bank",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Marin",
+            "COMP",
+            "Relate_To",
+            "Top Corporate Philanthropist",
+            "CONCEPT"
+        ],
+        [
+            "Bank of Marin",
+            "COMP",
+            "Relate_To",
+            "Best Places to Work",
+            "CONCEPT"
+        ]
+    ]
+}

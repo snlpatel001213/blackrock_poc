@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Black Mirror",
+            "EVENT",
+            "Operate_In",
+            "High-tech Spin",
+            "CONCEPT"
+        ],
+        [
+            "Black Mirror",
+            "EVENT",
+            "Relate_To",
+            "The Twilight Zone",
+            "EVENT"
+        ],
+        [
+            "Season Four",
+            "EVENT",
+            "Participates_In",
+            "Black Mirror",
+            "EVENT"
+        ],
+        [
+            "Arkangel",
+            "EVENT",
+            "Introduce",
+            "Service",
+            "PRODUCT"
+        ],
+        [
+            "Parent",
+            "PERSON",
+            "Invests_In",
+            "Arkangel",
+            "EVENT"
+        ]
+    ]
+}

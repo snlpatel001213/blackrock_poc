@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Freeport-Mcmoran Inc.",
+            "ORG",
+            "Control",
+            "Freeport Indonesia",
+            "ORG"
+        ],
+        [
+            "Freeport Indonesia",
+            "ORG",
+            "Has",
+            "Temporary Mining Permit Extension",
+            "CONCEPT"
+        ],
+        [
+            "Temporary Mining Permit Extension",
+            "CONCEPT",
+            "Until",
+            "June 30",
+            "DATE"
+        ],
+        [
+            "Freeport Indonesia",
+            "ORG",
+            "Has",
+            "Current Mining Permit",
+            "CONCEPT"
+        ],
+        [
+            "Current Mining Permit",
+            "CONCEPT",
+            "Due To Expire In",
+            "January 10, 2018",
+            "DATE"
+        ],
+        [
+            "Freeport Indonesia",
+            "ORG",
+            "To Submit",
+            "Export Recommendation Proposal",
+            "CONCEPT"
+        ],
+        [
+            "Export Recommendation Proposal",
+            "CONCEPT",
+            "To",
+            "Energy Ministry",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "NOC",
+            "ORG",
+            "Investigate",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "NOC",
+            "ORG",
+            "Operate_In",
+            "Libya",
+            "GPE"
+        ],
+        [
+            "Unidentified Plane",
+            "COMP",
+            "Relate_To",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "Helicopter",
+            "COMP",
+            "Relate_To",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "Mellitah Oil and Gas",
+            "ORG",
+            "Is_Member_Of",
+            "NOC",
+            "ORG"
+        ],
+        [
+            "Mellitah Oil and Gas",
+            "ORG",
+            "Is_Member_Of",
+            "Eni",
+            "COMP"
+        ],
+        [
+            "Staff",
+            "PERSON",
+            "Participates_In",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "Sabratha Marine Platform",
+            "COMP",
+            "Relate_To",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "Tripoli",
+            "GPE",
+            "Relate_To",
+            "Incident",
+            "EVENT"
+        ],
+        [
+            "NOC",
+            "ORG",
+            "Impact",
+            "Grave Violations",
+            "CONCEPT"
+        ],
+        [
+            "NOC",
+            "ORG",
+            "Contact",
+            "Parties Concerned",
+            "PERSON"
+        ]
+    ]
+}

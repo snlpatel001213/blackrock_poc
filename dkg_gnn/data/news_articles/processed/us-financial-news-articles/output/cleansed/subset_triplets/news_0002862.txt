@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Orbotech",
+            "ORG",
+            "Announce",
+            "Alon Rozner",
+            "PERSON"
+        ],
+        [
+            "Alon Rozner",
+            "PERSON",
+            "Is_Member_Of",
+            "Orbotech",
+            "ORG"
+        ],
+        [
+            "Orbotech",
+            "ORG",
+            "Relate_To",
+            "Ran Bareket",
+            "PERSON"
+        ],
+        [
+            "Orbotech",
+            "ORG",
+            "Operate_In",
+            "Further company coverage",
+            "SECTOR"
+        ]
+    ]
+}

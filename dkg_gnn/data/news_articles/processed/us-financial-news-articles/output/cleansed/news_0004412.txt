@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Boeing",
+            "COMP",
+            "Talks_About",
+            "Embraer",
+            "COMP"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Relate_To",
+            "Joint_Ventures",
+            "CONCEPT"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Relate_To",
+            "Joint_Business_Agreements",
+            "CONCEPT"
+        ],
+        [
+            "Boeing",
+            "COMP",
+            "Not",
+            "Control",
+            "ORG/REG"
+        ],
+        [
+            "Embraer",
+            "COMP",
+            "Relate_To",
+            "Joint_Ventures",
+            "CONCEPT"
+        ],
+        [
+            "Embraer",
+            "COMP",
+            "Relate_To",
+            "Joint_Business_Agreements",
+            "CONCEPT"
+        ]
+    ]
+}

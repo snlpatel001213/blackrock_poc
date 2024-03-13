@@ -1,0 +1,80 @@
+{
+    "output": [
+        [
+            "Diane Kruger",
+            "PERSON",
+            "Participates_In",
+            "In The Fade",
+            "EVENT"
+        ],
+        [
+            "Diane Kruger",
+            "PERSON",
+            "Play",
+            "Katja",
+            "PERSON"
+        ],
+        [
+            "Diane Kruger",
+            "PERSON",
+            "Relate_To",
+            "Neo-Nazis",
+            "ORG"
+        ],
+        [
+            "Fatih Akin",
+            "PERSON",
+            "Direct",
+            "In The Fade",
+            "EVENT"
+        ],
+        [
+            "Fatih Akin",
+            "PERSON",
+            "Express",
+            "Anger",
+            "CONCEPT"
+        ],
+        [
+            "Fatih Akin",
+            "PERSON",
+            "Of Turkish Descent",
+            "null"
+        ],
+        [
+            "In The Fade",
+            "EVENT",
+            "Garner",
+            "Praise",
+            "CONCEPT"
+        ],
+        [
+            "In The Fade",
+            "EVENT",
+            "Germany_s Entry",
+            "Oscars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "In The Fade",
+            "EVENT",
+            "Short-Listed",
+            "Foreign Language Film Category",
+            "SECTOR"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Entry",
+            "Oscars",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Neo-Nazis",
+            "ORG",
+            "Behind",
+            "Loss",
+            "CONCEPT"
+        ]
+    ]
+}

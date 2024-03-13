@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Vietnam",
+            "GPE",
+            "Operate_In",
+            "Energy Sector",
+            "SECTOR"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Operate_In",
+            "Banking Sector",
+            "SECTOR"
+        ],
+        [
+            "PetroVietnam",
+            "ORG",
+            "Has",
+            "Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "PetroVietnam",
+            "ORG",
+            "Participates_In",
+            "Trial",
+            "EVENT"
+        ],
+        [
+            "PetroVietnam",
+            "ORG",
+            "Impact",
+            "Communist State",
+            "ORG/GOV"
+        ],
+        [
+            "PetroVietnam",
+            "ORG",
+            "Has",
+            "Executives",
+            "PERSON"
+        ],
+        [
+            "Hanoi",
+            "GPE",
+            "Location_Of",
+            "Trial",
+            "EVENT"
+        ],
+        [
+            "Phung Dinh Thuc",
+            "PERSON",
+            "Former_Position",
+            "PetroVietnam",
+            "ORG"
+        ],
+        [
+            "Phung Dinh Thuc",
+            "PERSON",
+            "Former_Position",
+            "Politburo Member",
+            "PERSON"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused_Of",
+            "Corruption",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused_Of",
+            "Breaking State Rules",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Accused_Of",
+            "Losses",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Arrived",
+            "Court",
+            "EVENT"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Arrested",
+            "Hanoi",
+            "GPE"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Accused_Of",
+            "Immigration Offences",
+            "CONCEPT"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Claims_To_Be",
+            "Senior Officer",
+            "PERSON"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Trying_To_Reach",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "May_Have_Details",
+            "Operation",
+            "CONCEPT"
+        ],
+        [
+            "Nguyen Tan Dung",
+            "PERSON",
+            "Lost_Out",
+            "Power Struggle",
+            "CONCEPT"
+        ]
+    ]
+}

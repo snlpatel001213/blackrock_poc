@@ -1,0 +1,32 @@
+{
+    "output": [
+        [
+            "Israel",
+            "GPE",
+            "Participates_In",
+            "Hedgehogs Diet",
+            "CONCEPT"
+        ],
+        [
+            "Hedgehogs",
+            "PERSON",
+            "Go_On",
+            "Diets",
+            "CONCEPT"
+        ],
+        [
+            "Hedgehogs",
+            "PERSON",
+            "Exercise",
+            "Regimes",
+            "CONCEPT"
+        ],
+        [
+            "Streets of Israel",
+            "GPE",
+            "Has",
+            "Overweight Hedgehogs",
+            "PERSON"
+        ]
+    ]
+}

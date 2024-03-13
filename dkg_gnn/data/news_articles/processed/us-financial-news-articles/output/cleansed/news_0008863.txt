@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Warren Buffett",
+            "PERSON",
+            "Succeed",
+            "chief executive",
+            "ORG/REG"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Operate_In",
+            "Conglomerate",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Own",
+            "Geico",
+            "ORG"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Own",
+            "Dairy Queen",
+            "ORG"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Promoted",
+            "board of directors",
+            "ORG/REG"
+        ],
+        [
+            "Ajit Jain",
+            "PERSON",
+            "Oversee",
+            "day-to-day operations",
+            "ORG/REG"
+        ],
+        [
+            "Greg Abel",
+            "PERSON",
+            "Promoted",
+            "board of directors",
+            "ORG/REG"
+        ],
+        [
+            "Greg Abel",
+            "PERSON",
+            "Oversee",
+            "day-to-day operations",
+            "ORG/REG"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Has",
+            "Warren Buffett",
+            "PERSON"
+        ],
+        [
+            "Berkshire Hathaway Inc.",
+            "COMP",
+            "Grown",
+            "under his leadership",
+            "CONCEPT"
+        ]
+    ]
+}

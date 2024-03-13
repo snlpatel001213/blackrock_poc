@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "MRC Global",
+            "ORG",
+            "Announce",
+            "Fourth Quarter 2017 Earnings",
+            "EVENT"
+        ],
+        [
+            "MRC Global",
+            "ORG",
+            "Operate_In",
+            "Energy Industry",
+            "SECTOR"
+        ],
+        [
+            "Fourth Quarter 2017 Earnings",
+            "EVENT",
+            "Relate_To",
+            "MRC Global",
+            "ORG"
+        ],
+        [
+            "Friday, February 16, 2018 at 10:00 a.m. Eastern / 9:00 a.m. Central",
+            "TIME",
+            "Participates_In",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Dial 412- 902-0003",
+            "PHONE",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Webcast",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "Replay",
+            "EVENT",
+            "Relate_To",
+            "Conference Call",
+            "EVENT"
+        ],
+        [
+            "March 2, 2018",
+            "DATE",
+            "Relate_To",
+            "Replay",
+            "EVENT"
+        ],
+        [
+            "MRC Global",
+            "ORG",
+            "Has",
+            "Headquarter",
+            "LOCATION"
+        ],
+        [
+            "Houston",
+            "GPE",
+            "Is_Member_Of",
+            "LOCATION",
+            "GPE"
+        ],
+        [
+            "MRC Global",
+            "ORG",
+            "Is_Member_Of",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Pipe",
+            "PRODUCT",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Valves",
+            "PRODUCT",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Fittings",
+            "PRODUCT",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Energy Industry",
+            "SECTOR",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Upstream",
+            "SECTOR",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Midstream",
+            "SECTOR",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "Downstream",
+            "SECTOR",
+            "Relate_To",
+            "Largest Global Distributor",
+            "CONCEPT"
+        ],
+        [
+            "MRC Global",
+            "ORG",
+            "Has",
+            "Website",
+            "PRODUCT"
+        ],
+        [
+            "Website",
+            "PRODUCT",
+            "Relate_To",
+            "MRC Global",
+            "ORG"
+        ],
+        [
+            "Investor Relations",
+            "PRODUCT",
+            "Relate_To",
+            "MRC Global",
+            "ORG"
+        ],
+        [
+            "Monica Broughton",
+            "PERSON",
+            "Invests_In",
+            "MRC Global",
+            "ORG"
+        ]
+    ]
+}

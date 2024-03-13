@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Redis Labs",
+            "ORG",
+            "Has",
+            "Redis Enterprise",
+            "PRODUCT"
+        ],
+        [
+            "Redis Labs",
+            "ORG",
+            "Has_Member",
+            "Scott McNealy",
+            "PERSON"
+        ],
+        [
+            "Scott McNealy",
+            "PERSON",
+            "Serve_In",
+            "Sun Microsystems",
+            "ORG/GOV"
+        ],
+        [
+            "Sun Microsystems",
+            "ORG/GOV",
+            "Produce",
+            "Java",
+            "PRODUCT"
+        ],
+        [
+            "Scott McNealy",
+            "PERSON",
+            "Influence",
+            "Redis Labs",
+            "ORG"
+        ],
+        [
+            "Redis Labs",
+            "ORG",
+            "Provide",
+            "Redis Enterprise",
+            "PRODUCT"
+        ],
+        [
+            "Redis",
+            "PRODUCT",
+            "Be",
+            "Redis Enterprise",
+            "PRODUCT"
+        ]
+    ]
+}

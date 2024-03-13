@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Inflation",
+            "CONCEPT",
+            "Worry",
+            "null",
+            "NONE"
+        ],
+        [
+            "Vadim Zlotnikov",
+            "PERSON",
+            "Say",
+            "Inflation is a worry",
+            "CONCEPT"
+        ],
+        [
+            "AB",
+            "ORG",
+            "Include",
+            "Vadim Zlotnikov",
+            "PERSON"
+        ],
+        [
+            "Wages",
+            "CONCEPT",
+            "Gain",
+            "Greater Market Attention",
+            "CONCEPT"
+        ],
+        [
+            "Inflation Factors",
+            "CONCEPT",
+            "Gain",
+            "Greater Market Attention",
+            "CONCEPT"
+        ],
+        [
+            "Second Half",
+            "CONCEPT",
+            "Occur",
+            "2018",
+            "GPE"
+        ]
+    ]
+}

@@ -1,0 +1,185 @@
+{
+    "output": [
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "Highest Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Believe",
+            "Prices Jumped",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "Severe Economic Crisis",
+            "CONCEPT"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "Opposition-led National Assembly",
+            "ORG"
+        ],
+        [
+            "Opposition-led National Assembly",
+            "ORG",
+            "Say",
+            "Prices Inflation",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Opposition-led National Assembly",
+            "ORG",
+            "Say",
+            "Prices Jumped",
+            "ECON_INDICATOR",
+            "Last Year"
+        ],
+        [
+            "Opposition Politicians",
+            "PERSON",
+            "Put",
+            "December Inflation",
+            "ECON_INDICATOR",
+            "At",
+            "85 Percent"
+        ],
+        [
+            "Lawmaker Jos\u00e9 Guerra",
+            "PERSON",
+            "Say",
+            "Inflation In December",
+            "ECON_INDICATOR",
+            "Greater",
+            "Than",
+            "Accumulated Inflation",
+            "ECON_INDICATOR",
+            "For",
+            "All",
+            "Of",
+            "Latin America"
+        ],
+        [
+            "Venezuelan Authorities",
+            "ORG/GOV",
+            "Did",
+            "Not Respond",
+            "Relate_To",
+            "Request For Comment"
+        ],
+        [
+            "Venezuela",
+            "GPE",
+            "Has",
+            "Minimum Wage",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Minimum Wage",
+            "ECON_INDICATOR",
+            "Went Up",
+            "40 Percent",
+            "PERCENTAGE"
+        ],
+        [
+            "Minimum Wage",
+            "ECON_INDICATOR",
+            "Worth",
+            "Just Over",
+            "2 Per Month",
+            "ECON_INDICATOR",
+            "On",
+            "Black Market Exchange"
+        ],
+        [
+            "Bolivar Currency",
+            "PRODUCT",
+            "Weakened",
+            "About",
+            "35 Percent",
+            "PERCENTAGE",
+            "Against",
+            "Dollar",
+            "FIN_INSTRUMENT",
+            "In",
+            "Last Month",
+            "TIME"
+        ],
+        [
+            "Authorities",
+            "ORG",
+            "Promised",
+            "Price Cuts",
+            "CONCEPT"
+        ],
+        [
+            "Hundreds",
+            "QUANTITY",
+            "Mobbed",
+            "Some",
+            "Supermarkets",
+            "ORG"
+        ],
+        [
+            "Central Bank",
+            "ORG",
+            "Has",
+            "Not Published",
+            "Relate_To",
+            "Inflation",
+            "ECON_INDICATOR",
+            "Or",
+            "Gross Domestic Product Data",
+            "ECON_INDICATOR",
+            "For",
+            "Two Years"
+        ],
+        [
+            "Money Supply",
+            "ECON_INDICATOR",
+            "Expanded",
+            "More Than",
+            "1000 Percent",
+            "PERCENTAGE",
+            "Last Year"
+        ],
+        [
+            "President Nicol\u00e1s Maduro",
+            "PERSON",
+            "Says",
+            "Problems",
+            "CONCEPT",
+            "Stem",
+            "From",
+            "Economic War",
+            "CONCEPT",
+            "Waged",
+            "By",
+            "Washington",
+            "GPE",
+            "And",
+            "Opposition",
+            "PERSON",
+            "Against",
+            "His Government"
+        ],
+        [
+            "Critics",
+            "PERSON",
+            "Blame",
+            "Government\u2019s Strict Currency",
+            "CONCEPT",
+            "And",
+            "Price Controls",
+            "CONCEPT"
+        ]
+    ]
+}

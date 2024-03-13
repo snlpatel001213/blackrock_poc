@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Announce",
+            "Completion of Acquisition",
+            "EVENT"
+        ],
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Operate_In",
+            "Value-based Care Platform",
+            "SECTOR"
+        ],
+        [
+            "New Mexico Health Connections",
+            "ORG",
+            "Sell",
+            "Certain Assets",
+            "EVENT"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Is_Member_Of",
+            "Evolent Health, Inc.",
+            "ORG"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Operate_In",
+            "New Mexico",
+            "GPE"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Enter_Into",
+            "Managed Services Agreement",
+            "EVENT"
+        ],
+        [
+            "New Mexico Health Connections",
+            "ORG",
+            "Continue",
+            "Operate as Independent Non-profit",
+            "EVENT"
+        ],
+        [
+            "New Mexico Health Connections",
+            "ORG",
+            "Offer",
+            "Individual Health Insurance Products",
+            "PRODUCT"
+        ],
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Expect",
+            "Extend Capital-only Reinsurance Arrangement",
+            "EVENT"
+        ],
+        [
+            "Evolent Health, Inc.",
+            "ORG",
+            "Underwrite",
+            "Reinsurance Contract",
+            "EVENT"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Provide",
+            "Balance Sheet Support",
+            "EVENT"
+        ],
+        [
+            "True Health New Mexico",
+            "ORG",
+            "Not_At_Risk",
+            "Cash Payments on behalf of NMHC",
+            "EVENT"
+        ],
+        [
+            "Evolent Health",
+            "ORG",
+            "Partner",
+            "Leading Provider Organizations",
+            "EVENT"
+        ],
+        [
+            "Evolent Health",
+            "ORG",
+            "Operate",
+            "More than 30 U.S. Health Care Markets",
+            "EVENT"
+        ],
+        [
+            "Evolent Health",
+            "ORG",
+            "Manage",
+            "Care across Medicare, Medicaid, Commercial",
+            "EVENT"
+        ]
+    ]
+}

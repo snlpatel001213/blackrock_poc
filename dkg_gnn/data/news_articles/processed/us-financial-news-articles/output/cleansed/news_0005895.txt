@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Tenet Healthcare Corp",
+            "ORG",
+            "Announce",
+            "Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Tenet Healthcare Corp",
+            "ORG",
+            "Sell",
+            "Des Peres Hospital",
+            "GPE"
+        ],
+        [
+            "St. Luke\u2018s Hospital",
+            "ORG",
+            "Buy",
+            "Des Peres Hospital",
+            "GPE"
+        ],
+        [
+            "St. Luke\u2018s Hospital",
+            "ORG",
+            "Participates_In",
+            "Agreement",
+            "CONCEPT"
+        ],
+        [
+            "Tenet-Owned Physician Practices",
+            "ORG",
+            "Sell",
+            "null",
+            "null"
+        ]
+    ]
+}

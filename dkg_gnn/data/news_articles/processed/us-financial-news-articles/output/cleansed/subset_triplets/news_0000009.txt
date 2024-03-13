@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Sun Pacific Holding Corp.",
+            "ORG",
+            "Announce",
+            "Acquire",
+            "ORG/REG"
+        ],
+        [
+            "Sun Pacific Holding Corp.",
+            "ORG",
+            "Operate_In",
+            "Alternative Energy Business Segment",
+            "SECTOR"
+        ],
+        [
+            "Facility",
+            "COMP",
+            "Operate_In",
+            "Solar Power and Wind Turbines",
+            "SECTOR"
+        ],
+        [
+            "Blockchain Technology",
+            "CONCEPT",
+            "Relate_To",
+            "Cryptocurrency Transactions",
+            "CONCEPT"
+        ],
+        [
+            "Mr. Nicholas B Campanella",
+            "PERSON",
+            "Is_Member_Of",
+            "Sun Pacific Holding Corp.",
+            "ORG"
+        ]
+    ]
+}

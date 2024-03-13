@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Gasoline Prices",
+            "ECON_INDICATOR",
+            "Increase",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Tortilla Prices",
+            "ECON_INDICATOR",
+            "Increase",
+            "Mexico",
+            "GPE"
+        ],
+        [
+            "Mexico",
+            "GPE",
+            "Has",
+            "General Elections",
+            "EVENT"
+        ],
+        [
+            "Price Increase",
+            "ECON_INDICATOR",
+            "Trigger",
+            "Discontent",
+            "CONCEPT"
+        ],
+        [
+            "Price Increase",
+            "ECON_INDICATOR",
+            "Relate_To",
+            "Looting",
+            "CONCEPT"
+        ]
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "output": [
+        [
+            "Clifford Redekop",
+            "PERSON",
+            "Announce",
+            "Costas, Inc.",
+            "ORG"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Acquire",
+            "Authentatrade PTE, Ltd",
+            "ORG"
+        ],
+        [
+            "Authentatrade PTE, Ltd",
+            "ORG",
+            "Locate_In",
+            "Republic of Seychelles",
+            "GPE"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Previously_Own",
+            "Authentatrade PTE, Ltd",
+            "ORG"
+        ],
+        [
+            "Authentatrade",
+            "ORG",
+            "Has",
+            "Leading-edge platform assets",
+            "CONCEPT"
+        ],
+        [
+            "Authentatrade",
+            "ORG",
+            "Has",
+            "Experienced team",
+            "CONCEPT"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Intend_To",
+            "Leverage",
+            "VERB"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Intend_To",
+            "Generate",
+            "VERB"
+        ],
+        [
+            "Cryptocurrency",
+            "CONCEPT",
+            "Has",
+            "Market capitalization",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Global cryptocurrency markets",
+            "CONCEPT",
+            "Average",
+            "Same daily trading volumes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Cryptocurrency market",
+            "CONCEPT",
+            "Passed",
+            "$50 billion mark",
+            "ECON_INDICATOR"
+        ],
+        [
+            "New York Stock Exchange",
+            "ORG",
+            "Average",
+            "Daily trading volumes",
+            "ECON_INDICATOR"
+        ],
+        [
+            "London Stock Exchange",
+            "ORG",
+            "Hover",
+            "About 5 billion Euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Binance.com",
+            "ORG",
+            "Exchange",
+            "More than $4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Poloniex.com",
+            "ORG",
+            "Exchange",
+            "More than $4 billion",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Bitcoin",
+            "CRYPTO",
+            "Metoric rise",
+            "Value",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Recognize",
+            "Need for evolving regulations",
+            "CONCEPT"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Commit",
+            "Strict adherence",
+            "CONCEPT"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Trade",
+            "On the OTC Markets",
+            "ORG"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Invest",
+            "In early stage Digital Currency projects",
+            "CONCEPT"
+        ],
+        [
+            "Costas, Inc.",
+            "ORG",
+            "Believe",
+            "Strongly in the growth of Distributed Asset Technology",
+            "CONCEPT"
+        ],
+        [
+            "FINTech",
+            "CONCEPT",
+            "Approximately",
+            "$1.24 Trillion",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "output": [
+        [
+            "Hong Kong Finance Group Ltd",
+            "COMP",
+            "Enter",
+            "Deal",
+            "EVENT"
+        ],
+        [
+            "Hong Kong Finance Group Ltd",
+            "COMP",
+            "Lend",
+            "Customer Secured Loan",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Customer Secured Loan",
+            "FIN_INSTRUMENT",
+            "In_Principal_Amount_Of",
+            "HK$37.0 Million",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Deal",
+            "EVENT",
+            "At",
+            "Interest Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interest Rate",
+            "ECON_INDICATOR",
+            "Ten",
+            "Percent",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Interest Rate",
+            "ECON_INDICATOR",
+            "Per",
+            "Annum",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

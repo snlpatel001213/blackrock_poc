@@ -1,0 +1,127 @@
+{
+    "output": [
+        [
+            "Americans",
+            "GPE",
+            "Report",
+            "Anxiety and Depression",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "GPE",
+            "More Likely",
+            "Smoke",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "GPE",
+            "Take Less",
+            "Exercise",
+            "CONCEPT"
+        ],
+        [
+            "Americans",
+            "GPE",
+            "Report Trouble",
+            "Sleeping",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "ORG",
+            "Conduct",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Researchers",
+            "ORG",
+            "Publish",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Columbia University\u2019s Mailman School of Public Health",
+            "ORG",
+            "Participates_In",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "City University of New York",
+            "ORG",
+            "Participates_In",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Journal of Occupational and Environmental Medicine",
+            "ORG",
+            "Relate_To",
+            "Study",
+            "CONCEPT"
+        ],
+        [
+            "Workers",
+            "GPE",
+            "Took",
+            "Business Trips",
+            "EVENT"
+        ],
+        [
+            "Global Business Travel Association Foundation",
+            "ORG",
+            "Report",
+            "Business Trips",
+            "EVENT"
+        ],
+        [
+            "Andrew Rundle",
+            "PERSON",
+            "Associate Professor",
+            "Epidemiology",
+            "SECTOR"
+        ],
+        [
+            "Employees",
+            "GPE",
+            "Undergo",
+            "Health Assessment",
+            "CONCEPT"
+        ],
+        [
+            "Employees",
+            "GPE",
+            "Have",
+            "Corporate Wellness Work Benefits Program",
+            "CONCEPT"
+        ],
+        [
+            "Employees",
+            "GPE",
+            "Take Responsibility",
+            "Decisions",
+            "CONCEPT"
+        ],
+        [
+            "Employees",
+            "GPE",
+            "Need",
+            "Workplace Training",
+            "CONCEPT"
+        ],
+        [
+            "Quentin Fottrell",
+            "PERSON",
+            "Personal Finance Editor",
+            "CONCEPT"
+        ],
+        [
+            "MarketWatch Partner Center",
+            "ORG",
+            "CONCEPT"
+        ]
+    ]
+}

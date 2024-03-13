@@ -1,0 +1,74 @@
+{
+    "output": [
+        [
+            "Dominion Energy",
+            "COMP",
+            "Operate_In",
+            "Utility Sector",
+            "SECTOR"
+        ],
+        [
+            "Scana",
+            "COMP",
+            "Operate_In",
+            "Utility Sector",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "COMP",
+            "Decrease",
+            "Rates",
+            "SECTOR"
+        ],
+        [
+            "Scana",
+            "COMP",
+            "Decrease",
+            "Rates",
+            "SECTOR"
+        ],
+        [
+            "Dominion Energy",
+            "COMP",
+            "Control",
+            "SCE&G",
+            "COMP"
+        ],
+        [
+            "Dominion Energy",
+            "COMP",
+            "Raise",
+            "Customer Cash Refund",
+            "CONCEPT"
+        ],
+        [
+            "Dominion Energy",
+            "COMP",
+            "Relate_To",
+            "Tax Bill",
+            "CONCEPT"
+        ],
+        [
+            "Dominion Energy",
+            "COMP",
+            "Relate_To",
+            "Federal Corporate Taxes",
+            "CONCEPT"
+        ],
+        [
+            "Scana",
+            "COMP",
+            "Relate_To",
+            "Tax Bill",
+            "CONCEPT"
+        ],
+        [
+            "Scana",
+            "COMP",
+            "Relate_To",
+            "Federal Corporate Taxes",
+            "CONCEPT"
+        ]
+    ]
+}

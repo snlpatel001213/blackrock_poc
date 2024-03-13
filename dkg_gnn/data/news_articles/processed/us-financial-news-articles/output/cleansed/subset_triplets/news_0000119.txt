@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Announce",
+            "fourth-quarter and full-year fiscal 2017 financial results",
+            "ECON_INDICATOR"
+        ],
+        [
+            "conference call",
+            "EVENT",
+            "Relate_To",
+            "Shiloh Industries fourth-quarter",
+            "EVENT"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "North America",
+            "GPE"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "Asia",
+            "GPE"
+        ],
+        [
+            "Shiloh Industries",
+            "ORG",
+            "Operate_In",
+            "Europe",
+            "GPE"
+        ]
+    ]
+}

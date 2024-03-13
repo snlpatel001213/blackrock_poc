@@ -1,0 +1,60 @@
+{
+    "output": [
+        [
+            "American Express Co",
+            "COMP",
+            "Relate_To",
+            "Tax Legislation",
+            "CONCEPT"
+        ],
+        [
+            "American Express Co",
+            "COMP",
+            "Operate_In",
+            "US",
+            "GPE"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Tax Overhaul Bill",
+            "CONCEPT"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Congress",
+            "ORG"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "President Donald Trump",
+            "PERSON"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Corporate Tax Rate",
+            "ECON_INDICATOR"
+        ],
+        [
+            "US",
+            "GPE",
+            "Has",
+            "Taxed",
+            "CONCEPT"
+        ],
+        [
+            "Goldman Sachs Group Inc",
+            "COMP",
+            "Relate_To",
+            "Tax Legislation",
+            "CONCEPT"
+        ]
+    ]
+}

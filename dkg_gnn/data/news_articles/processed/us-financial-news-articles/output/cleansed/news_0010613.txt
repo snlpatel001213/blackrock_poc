@@ -1,0 +1,124 @@
+{
+    "output": [
+        [
+            "Tesco",
+            "COMP",
+            "Best_Performer",
+            "Christmas",
+            "EVENT"
+        ],
+        [
+            "Tesco",
+            "COMP",
+            "Increase",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Asda",
+            "COMP",
+            "Increase",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Increase",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Sainsbury\u2019s",
+            "COMP",
+            "Increase",
+            "Sales",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Aldi",
+            "COMP",
+            "Outpace",
+            "Big Four",
+            "GPE"
+        ],
+        [
+            "Lidl",
+            "COMP",
+            "Outpace",
+            "Big Four",
+            "GPE"
+        ],
+        [
+            "Fraser McKevitt",
+            "PERSON",
+            "Say",
+            "Supermarket Sales Increase",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Shoppers",
+            "PERSON",
+            "Spend",
+            "1.35 Billion Dollars",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Beat",
+            "Forecasts",
+            "CONCEPT"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Lure",
+            "Shoppers",
+            "PERSON"
+        ],
+        [
+            "Morrisons",
+            "COMP",
+            "Report",
+            "Christmas Trade",
+            "EVENT"
+        ],
+        [
+            "Sainsbury\u2019s",
+            "COMP",
+            "Report",
+            "Christmas Trade",
+            "EVENT"
+        ],
+        [
+            "Tesco",
+            "COMP",
+            "Update",
+            "Christmas Trade",
+            "EVENT"
+        ],
+        [
+            "Nielsen",
+            "COMP",
+            "Name",
+            "Tesco",
+            "Best Christmas Performer",
+            "EVENT"
+        ],
+        [
+            "Asda",
+            "COMP",
+            "Outpace",
+            "Tesco",
+            "COMP"
+        ],
+        [
+            "Grocery Inflation",
+            "CONCEPT",
+            "Stand",
+            "3.7 Percent",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

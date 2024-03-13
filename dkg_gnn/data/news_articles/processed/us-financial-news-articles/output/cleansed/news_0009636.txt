@@ -1,0 +1,109 @@
+{
+    "output": [
+        [
+            "Alkermes",
+            "COMP",
+            "Is",
+            "Biotechnology Company",
+            "ORG"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "Control",
+            "Vivitrol",
+            "PRODUCT"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "Control",
+            "Aristada",
+            "PRODUCT"
+        ],
+        [
+            "Vivitrol",
+            "PRODUCT",
+            "Treat",
+            "Opioid Addiction",
+            "CONCEPT"
+        ],
+        [
+            "Vivitrol",
+            "PRODUCT",
+            "Prevent",
+            "Relapses",
+            "CONCEPT"
+        ],
+        [
+            "Vivitrol",
+            "PRODUCT",
+            "Operate_In",
+            "Opioid Dependence Treatment",
+            "SECTOR"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "CEO",
+            "Richard Pops",
+            "PERSON"
+        ],
+        [
+            "Richard Pops",
+            "PERSON",
+            "Tell",
+            "CNBC",
+            "ORG"
+        ],
+        [
+            "Richard Pops",
+            "PERSON",
+            "Talk",
+            "Mad Money",
+            "TV_SHOW"
+        ],
+        [
+            "Richard Pops",
+            "PERSON",
+            "Positive_Impact_On",
+            "Vivitrol",
+            "PRODUCT"
+        ],
+        [
+            "Vivitrol",
+            "PRODUCT",
+            "Impact",
+            "Addiction Treatment",
+            "CONCEPT"
+        ],
+        [
+            "Vivitrol",
+            "PRODUCT",
+            "Has",
+            "FDA Approval",
+            "REG"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "Present",
+            "Clinical Trial Results",
+            "EVENT"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "Present",
+            "Forward-looking Guidance",
+            "EVENT"
+        ],
+        [
+            "Alkermes",
+            "COMP",
+            "Participates_In",
+            "J.P. Morgan Health Care Conference",
+            "EVENT"
+        ]
+    ]
+}

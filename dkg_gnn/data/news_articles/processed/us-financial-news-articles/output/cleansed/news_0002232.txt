@@ -1,0 +1,76 @@
+{
+    "output": [
+        [
+            "Benjamin Netanyahu",
+            "PERSON",
+            "Support",
+            "anti-government protests",
+            "EVENT"
+        ],
+        [
+            "Donald Trump",
+            "PERSON",
+            "Support",
+            "anti-government protests",
+            "EVENT"
+        ],
+        [
+            "Mevlut Cavusoglu",
+            "PERSON",
+            "Quote",
+            "CNN Turk",
+            "ORG"
+        ],
+        [
+            "Mevlut Cavusoglu",
+            "PERSON",
+            "Cited",
+            "as saying",
+            "RELATE_TO"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Against",
+            "foreign interventions",
+            "EVENT"
+        ],
+        [
+            "Turkey",
+            "GPE",
+            "Not make",
+            "assurances",
+            "RELATE_TO",
+            "United States",
+            "GPE"
+        ],
+        [
+            "Mevlut Cavusoglu",
+            "PERSON",
+            "Meet",
+            "Sigmar Gabriel",
+            "PERSON"
+        ],
+        [
+            "Sigmar Gabriel",
+            "PERSON",
+            "Counterpart",
+            "Mevlut Cavusoglu",
+            "PERSON"
+        ],
+        [
+            "ANKARA",
+            "GPE",
+            "Reporting",
+            "Tuvan Gumrukcu and Ece Toksabay",
+            "PERSON"
+        ],
+        [
+            "ANKARA",
+            "GPE",
+            "Editing",
+            "Dominic Evans",
+            "PERSON"
+        ]
+    ]
+}

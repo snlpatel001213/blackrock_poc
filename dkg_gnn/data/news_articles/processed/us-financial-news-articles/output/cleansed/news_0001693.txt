@@ -1,0 +1,242 @@
+{
+    "output": [
+        [
+            "John Geddie",
+            "PERSON",
+            "Write",
+            "Vietnamese fugitive detained in Singapore seeks passage to Germany",
+            "EVENT"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Seek",
+            "Passage to Germany",
+            "GPE"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Detain",
+            "Singapore",
+            "GPE"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Try",
+            "Leave for Malaysia",
+            "GPE"
+        ],
+        [
+            "Remy Choo",
+            "PERSON",
+            "Represent",
+            "Phan Van Anh Vu",
+            "PERSON"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Senior officer",
+            "Vietnam secret police",
+            "ORG"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Property developer",
+            "N/A",
+            "NA"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Involve",
+            "Vietnamese corruption crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Phan Van Anh Vu",
+            "PERSON",
+            "Know",
+            "Disappearance of Trinh Xuan Thanh",
+            "PERSON"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Face",
+            "Corruption-related charges",
+            "CONCEPT"
+        ],
+        [
+            "Trinh Xuan Thanh",
+            "PERSON",
+            "Potentially",
+            "Death penalty",
+            "CONCEPT"
+        ],
+        [
+            "Vietnamese media",
+            "ORG",
+            "Quote",
+            "Police",
+            "ORG"
+        ],
+        [
+            "Police",
+            "ORG",
+            "Say",
+            "Vu wanted for revealing state secrets",
+            "CONCEPT"
+        ],
+        [
+            "Victor Pfaff",
+            "PERSON",
+            "Represent",
+            "Phan Van Anh Vu",
+            "PERSON"
+        ],
+        [
+            "Victor Pfaff",
+            "PERSON",
+            "File",
+            "Application to German authorities",
+            "ORG/GOV"
+        ],
+        [
+            "Victor Pfaff",
+            "PERSON",
+            "Make use",
+            "Rules",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Allow",
+            "Foreign national to enter",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Not",
+            "Possible",
+            "CONCEPT"
+        ],
+        [
+            "Germany",
+            "GPE",
+            "Decline",
+            "Comment",
+            "CONCEPT"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "No extradition treaty",
+            "Vietnam",
+            "GPE"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Has power",
+            "Repatriate people",
+            "CONCEPT"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Seek",
+            "Arrest of Vu",
+            "PERSON"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Shake up",
+            "Local leadership",
+            "CONCEPT"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Corruption accusations",
+            "Last year",
+            "TIME"
+        ],
+        [
+            "Singapore Immigration and Checkpoints Authority",
+            "ORG",
+            "Arrest",
+            "Vu",
+            "PERSON"
+        ],
+        [
+            "Vietnam foreign ministry",
+            "ORG",
+            "Not respond",
+            "Request for comment",
+            "CONCEPT"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Have serious security offences",
+            "Carry death penalty",
+            "CONCEPT"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Have death penalty",
+            "Some crimes",
+            "CONCEPT"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Close diplomatic and trade ties",
+            "Vietnam",
+            "GPE"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Chairing",
+            "ASEAN grouping",
+            "ORG"
+        ],
+        [
+            "Singapore",
+            "GPE",
+            "Strengthen",
+            "Regional cooperation",
+            "CONCEPT"
+        ],
+        [
+            "Dozens",
+            "NUM",
+            "Arrest",
+            "Vietnamese officials and business figures",
+            "SECTOR"
+        ],
+        [
+            "Vietnam",
+            "GPE",
+            "Gather pace",
+            "Corruption crackdown",
+            "CONCEPT"
+        ],
+        [
+            "Security establishment",
+            "ORG",
+            "Gain greater sway",
+            "Ruling Communist Party",
+            "ORG"
+        ]
+    ]
+}

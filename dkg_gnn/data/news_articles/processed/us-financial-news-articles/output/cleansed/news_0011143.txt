@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Mercadolibre Inc.",
+            "COMP",
+            "Has",
+            "bearish tendencies",
+            "CONCEPT"
+        ],
+        [
+            "Mercadolibre Inc.",
+            "COMP",
+            "Is",
+            "bullish stock",
+            "CONCEPT"
+        ],
+        [
+            "Mercadolibre Inc.",
+            "COMP",
+            "Participates_In",
+            "Latin America",
+            "GPE"
+        ],
+        [
+            "Mercadolibre Inc.",
+            "COMP",
+            "Relate_To",
+            "eBay",
+            "COMP"
+        ],
+        [
+            "Nutrien Ltd",
+            "COMP",
+            "Operate_In",
+            "Agriculture",
+            "SECTOR"
+        ],
+        [
+            "Nutrien Ltd",
+            "COMP",
+            "Control",
+            "Deere",
+            "COMP"
+        ],
+        [
+            "Analog Devices, Inc.",
+            "COMP",
+            "Has",
+            "transformational merger",
+            "CONCEPT"
+        ],
+        [
+            "Analog Devices, Inc.",
+            "COMP",
+            "Invests_In",
+            "ADI",
+            "COMP"
+        ],
+        [
+            "Seattle Genetics, Inc.",
+            "COMP",
+            "Trade_With",
+            "biotechs",
+            "SECTOR"
+        ],
+        [
+            "Seattle Genetics, Inc.",
+            "COMP",
+            "Have",
+            "stuff in pipeline",
+            "CONCEPT"
+        ],
+        [
+            "Seattle Genetics, Inc.",
+            "COMP",
+            "Relate_To",
+            "bearish phase",
+            "CONCEPT"
+        ],
+        [
+            "AbbVie Inc.",
+            "COMP",
+            "Is",
+            "fabulous",
+            "CONCEPT"
+        ],
+        [
+            "AbbVie Inc.",
+            "COMP",
+            "Can",
+            "go higher",
+            "CONCEPT"
+        ],
+        [
+            "Teradyne, Inc.",
+            "COMP",
+            "Has",
+            "cost basis",
+            "CONCEPT"
+        ],
+        [
+            "Teradyne, Inc.",
+            "COMP",
+            "Operate_In",
+            "Lam Research",
+            "COMP"
+        ],
+        [
+            "Antero Midstream Partners",
+            "COMP",
+            "Is",
+            "very, very good company",
+            "CONCEPT"
+        ],
+        [
+            "Platform Specialty Products Corp.",
+            "COMP",
+            "Not_Recommend",
+            "Platform",
+            "COMP"
+        ],
+        [
+            "Platform Specialty Products Corp.",
+            "COMP",
+            "Recommend",
+            "DowDuPont",
+            "COMP"
+        ],
+        [
+            "DowDuPont",
+            "COMP",
+            "Run_By",
+            "Ed Breen",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,256 @@
+{
+    "output": [
+        [
+            "21Vianet Group",
+            "COMP",
+            "Announce",
+            "Terry Wang\u2019s Resignation",
+            "EVENT"
+        ],
+        [
+            "Terry Wang",
+            "PERSON",
+            "Control",
+            "Company\u2019s CFO",
+            "ORG/REG"
+        ],
+        [
+            "Terry Wang",
+            "PERSON",
+            "Participates_In",
+            "CFO Transition",
+            "EVENT"
+        ],
+        [
+            "Terry Wang",
+            "PERSON",
+            "Relate_To",
+            "21Vianet",
+            "COMP"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Announce",
+            "Sharon Xiao Liu as CFO",
+            "EVENT"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Company\u2019s Finance",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Legal",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Internal Controls",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Merger and Acquisitions",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Capital Markets",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Control",
+            "Investor Relations",
+            "ORG/REG"
+        ],
+        [
+            "Sharon Xiao Liu",
+            "PERSON",
+            "Relate_To",
+            "21Vianet",
+            "COMP"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Operate_In",
+            "China",
+            "GPE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Produce",
+            "Hosting and Related Services",
+            "SERVICE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Produce",
+            "Cloud Services",
+            "SERVICE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Produce",
+            "Business VPN Services",
+            "SERVICE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Control",
+            "Customers",
+            "PERSON"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Control",
+            "Data Centers",
+            "FACILITY"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Control",
+            "Fiber Optic Network",
+            "INFRA"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Impact",
+            "Reliability",
+            "CONCEPT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Impact",
+            "Security",
+            "CONCEPT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Impact",
+            "Speed",
+            "CONCEPT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "More than 30 Cities",
+            "GPE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "More than 4,000 Hosting Enterprise Customers",
+            "PERSON"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Diversified and Loyal Base of Customers",
+            "PERSON"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Internet Companies",
+            "COMP"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Government Entities",
+            "ORG/GOV"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Blue-Chip Enterprises",
+            "COMP"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Small- to Mid-Sized Enterprises",
+            "COMP"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Raise",
+            "Financial Resources",
+            "FIN_INSTRUMENT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Invests_In",
+            "Research and Development",
+            "SECTOR"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Invests_In",
+            "Solution and Service Offerings",
+            "PRODUCT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Solutions and Services",
+            "PRODUCT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Regions",
+            "GPE"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Solutions",
+            "PRODUCT"
+        ],
+        [
+            "21Vianet Group",
+            "COMP",
+            "Has",
+            "Services",
+            "SERVICE"
+        ]
+    ]
+}

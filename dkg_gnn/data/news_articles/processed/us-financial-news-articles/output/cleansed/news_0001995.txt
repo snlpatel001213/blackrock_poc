@@ -1,0 +1,100 @@
+{
+    "output": [
+        [
+            "AG Barr",
+            "COMP",
+            "Produce",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "AG Barr",
+            "COMP",
+            "Decrease",
+            "Sugar",
+            "ECON_INDICATOR",
+            "in",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "Scotland",
+            "GPE",
+            "Has",
+            "Irn Bru",
+            "PRODUCT",
+            "as",
+            "Second National Drink",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Allen",
+            "PERSON",
+            "Raise",
+            "Petition",
+            "ORG",
+            "to",
+            "Reverse",
+            "Decision",
+            "of",
+            "AG Barr",
+            "COMP",
+            "on",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "Ryan Allen",
+            "PERSON",
+            "Has",
+            "Stockpiled",
+            "Irn Bru",
+            "PRODUCT"
+        ],
+        [
+            "British Government",
+            "ORG/GOV",
+            "Impose",
+            "Levy",
+            "FIN_INSTRUMENT",
+            "on",
+            "Makers",
+            "ORG",
+            "of",
+            "Sugary Drinks"
+        ],
+        [
+            "AG Barr",
+            "COMP",
+            "Replace",
+            "Sugar",
+            "ECON_INDICATOR",
+            "with",
+            "Sweeteners",
+            "PRODUCT"
+        ],
+        [
+            "Irn Bru",
+            "PRODUCT",
+            "Relate_To",
+            "Hangover Cure",
+            "CONCEPT"
+        ],
+        [
+            "Ryan Allen",
+            "PERSON",
+            "Think",
+            "to",
+            "Deny",
+            "People",
+            "their",
+            "Crutch",
+            "PRODUCT",
+            "would",
+            "be",
+            "a",
+            "Crime",
+            "CONCEPT"
+        ]
+    ]
+}

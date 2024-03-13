@@ -1,0 +1,25 @@
+{
+    "output": [
+        [
+            "Chase Corp",
+            "ORG",
+            "Announce",
+            "Q1 Earnings Per Share",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chase Corp",
+            "ORG",
+            "Announce",
+            "Q1 Revenue",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Chase Corp",
+            "ORG",
+            "Operate_In",
+            "Further company coverage",
+            "SECTOR"
+        ]
+    ]
+}

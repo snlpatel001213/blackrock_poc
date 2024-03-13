@@ -1,0 +1,81 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Publish",
+            "EMERGING MARKETS-LatAm currencies tread water after mixed U.S. jobs data",
+            "EVENT"
+        ],
+        [
+            "Latin American currencies",
+            "GPE",
+            "Tread",
+            "null",
+            "null"
+        ],
+        [
+            "U.S.",
+            "GPE",
+            "Release",
+            "Mixed batch of U.S. employment figures",
+            "EVENT"
+        ],
+        [
+            "U.S. job growth",
+            "ECON_INDICATOR",
+            "Slow",
+            "More than expected in December",
+            "TIME"
+        ],
+        [
+            "U.S. employment figures",
+            "EVENT",
+            "Support",
+            "Case for a March interest rate hike",
+            "EVENT"
+        ],
+        [
+            "Economists",
+            "PERSON",
+            "See",
+            "Few clues over monetary policy further on",
+            "EVENT"
+        ],
+        [
+            "Higher U.S. rates",
+            "ECON_INDICATOR",
+            "Could",
+            "Dampen demand for emerging market assets",
+            "GPE"
+        ],
+        [
+            "Currencies from Brazil, Mexico and Chile",
+            "GPE",
+            "Nearly flat",
+            "Following a rally in the first days of the year",
+            "TIME"
+        ],
+        [
+            "Brazil's benchmark Bovespa stock index",
+            "COMP",
+            "Hold",
+            "Near all-time highs",
+            "CONCEPT"
+        ],
+        [
+            "Shares of homebuilder Cyrela Brazil Realty SA",
+            "COMP",
+            "Among the biggest gainers",
+            "After Morgan Stanley upgraded its recommendation on the stock",
+            "EVENT"
+        ],
+        [
+            "Morgan Stanley",
+            "ORG",
+            "Upgrade",
+            "Recommendation on Cyrela Brazil Realty SA stock",
+            "EVENT"
+        ]
+    ]
+}

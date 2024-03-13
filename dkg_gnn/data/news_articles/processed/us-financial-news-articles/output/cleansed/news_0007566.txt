@@ -1,0 +1,53 @@
+{
+    "output": [
+        [
+            "Don Reisinger",
+            "PERSON",
+            "Write",
+            "Article",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Introduce",
+            "6.5-inch iPhone",
+            "PRODUCT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Clarify",
+            "Battery Replacement",
+            "PRODUCT"
+        ],
+        [
+            "Jimmy Iovine",
+            "PERSON",
+            "Leave",
+            "Apple",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Vulnerable",
+            "Chip Flaws",
+            "CONCEPT"
+        ],
+        [
+            "Apple",
+            "COMP",
+            "Acquire",
+            "Buddybuild",
+            "COMP"
+        ],
+        [
+            "Buddybuild",
+            "COMP",
+            "Work",
+            "Apple Xcode",
+            "PRODUCT"
+        ]
+    ]
+}

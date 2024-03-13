@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Mogo Finance Technology Inc",
+            "COMP",
+            "Has_Joined",
+            "Anthony Di Iorio",
+            "PERSON"
+        ],
+        [
+            "Anthony Di Iorio",
+            "PERSON",
+            "Is_Member_Of",
+            "Mogo Finance Technology Inc",
+            "COMP"
+        ],
+        [
+            "Mogo Finance Technology Inc",
+            "COMP",
+            "Introduce",
+            "Cryptocurrency Account",
+            "PRODUCT"
+        ],
+        [
+            "Cryptocurrency Account",
+            "PRODUCT",
+            "Relate_To",
+            "Ethereum",
+            "CONCEPT"
+        ],
+        [
+            "Anthony Di Iorio",
+            "PERSON",
+            "Founder",
+            "Jaxx Blockchain Wallet",
+            "COMP"
+        ]
+    ]
+}

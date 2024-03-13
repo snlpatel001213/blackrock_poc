@@ -1,0 +1,67 @@
+{
+    "output": [
+        [
+            "JPMorgan",
+            "COMP",
+            "Report",
+            "results",
+            "EVENT"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Report",
+            "results",
+            "EVENT"
+        ],
+        [
+            "Tax Overhaul",
+            "CONCEPT",
+            "Roil",
+            "results",
+            "EVENT"
+        ],
+        [
+            "JPMorgan",
+            "COMP",
+            "Forecast",
+            "changes",
+            "CONCEPT",
+            "Bolster",
+            "profitability",
+            "CONCEPT"
+        ],
+        [
+            "Wells Fargo",
+            "COMP",
+            "Forecast",
+            "changes",
+            "CONCEPT",
+            "Bolster",
+            "profitability",
+            "CONCEPT"
+        ],
+        [
+            "Facebook",
+            "COMP",
+            "Plan",
+            "changes",
+            "EVENT",
+            "Impact",
+            "Digital Publishers",
+            "COMP"
+        ],
+        [
+            "Pickens",
+            "PERSON",
+            "Close",
+            "energy hedge fund",
+            "COMP",
+            "Cite",
+            "health",
+            "CONCEPT",
+            "Weak Results",
+            "CONCEPT"
+        ]
+    ]
+}

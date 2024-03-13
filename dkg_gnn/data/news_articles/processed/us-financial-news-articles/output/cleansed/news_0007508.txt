@@ -1,0 +1,165 @@
+{
+    "output": [
+        [
+            "Dermapharm",
+            "COMP",
+            "Plan",
+            "March IPO",
+            "EVENT"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Operate_In",
+            "Germany",
+            "GPE"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Value",
+            "1 billion euros",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "List",
+            "Frankfurt Stock Exchange",
+            "ORG"
+        ],
+        [
+            "Family Owner",
+            "ORG",
+            "Ask",
+            "Berenberg",
+            "ORG",
+            "Organize",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "First Stock Market Listing",
+            "Germany",
+            "GPE",
+            "Year",
+            "2018",
+            "TIME"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Alongside",
+            "Siemens\u2019s",
+            "COMP",
+            "Healthineers",
+            "UNIT",
+            "IPO",
+            "EVENT"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Owned",
+            "Wilhelm Beier",
+            "PERSON"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Make",
+            "Treatments",
+            "PRODUCT",
+            "Against",
+            "Skin Diseases",
+            "PRODUCT",
+            "Insect Bites",
+            "PRODUCT",
+            "Hair Loss",
+            "PRODUCT",
+            "Allergy Drugs",
+            "PRODUCT",
+            "Dietary Supplements",
+            "PRODUCT"
+        ],
+        [
+            "Dermapharm",
+            "COMP",
+            "Post",
+            "Earnings",
+            "ECON_INDICATOR",
+            "More",
+            "100 million euros",
+            "ECON_INDICATOR",
+            "This Year",
+            "TIME"
+        ],
+        [
+            "Beier",
+            "PERSON",
+            "Cancel",
+            "Planned Sale",
+            "EVENT",
+            "Company",
+            "Dermapharm",
+            "COMP",
+            "Private Equity Group",
+            "ORG",
+            "2016",
+            "TIME"
+        ],
+        [
+            "BC Partners",
+            "ORG",
+            "Nordic Capital",
+            "ORG",
+            "Vied",
+            "Take Control",
+            "Group",
+            "COMP",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Private Equity Group",
+            "ORG",
+            "View",
+            "Over-the-counter Drugs Portfolio",
+            "PRODUCT",
+            "Attractive",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Private Equity Group",
+            "ORG",
+            "Regard",
+            "Group\u2019s Business",
+            "COMP",
+            "Parallel Trade",
+            "PRODUCT",
+            "Little Growth Potential",
+            "CONCEPT",
+            "2016",
+            "TIME"
+        ],
+        [
+            "Healthcare Distribution Firms",
+            "COMP",
+            "Make Money",
+            "Re-labelling",
+            "PRODUCT",
+            "Re-importing",
+            "PRODUCT",
+            "Without",
+            "Explicit Consent",
+            "CONCEPT",
+            "Drugmaker",
+            "COMP",
+            "2018",
+            "TIME"
+        ]
+    ]
+}

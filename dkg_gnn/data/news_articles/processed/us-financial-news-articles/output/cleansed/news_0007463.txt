@@ -1,0 +1,68 @@
+{
+    "output": [
+        [
+            "Amgen Inc.",
+            "COMP",
+            "Expects",
+            "Launch",
+            "EVENT"
+        ],
+        [
+            "Amgen Inc.",
+            "COMP",
+            "Launch",
+            "Aimovig",
+            "PRODUCT"
+        ],
+        [
+            "Aimovig",
+            "PRODUCT",
+            "Relate_To",
+            "Migraine Drug",
+            "PRODUCT"
+        ],
+        [
+            "Amgen Inc.",
+            "COMP",
+            "Expects",
+            "Launch",
+            "EVENT",
+            "Humira Biosimilar"
+        ],
+        [
+            "Humira Biosimilar",
+            "PRODUCT",
+            "Operate_In",
+            "Outside U.S.",
+            "GPE"
+        ],
+        [
+            "Amgen Inc.",
+            "COMP",
+            "Business_Development",
+            "Deals",
+            "EVENT",
+            "Remain",
+            "Stay",
+            "PRIORITY",
+            "IN_2018"
+        ],
+        [
+            "Amgen Inc.",
+            "COMP",
+            "In",
+            "Stronger",
+            "CONCEPT",
+            "Strategic",
+            "CONCEPT",
+            "Position",
+            "CONCEPT",
+            "After",
+            "CONCEPT",
+            "Tax",
+            "CONCEPT",
+            "Reform",
+            "EVENT"
+        ]
+    ]
+}

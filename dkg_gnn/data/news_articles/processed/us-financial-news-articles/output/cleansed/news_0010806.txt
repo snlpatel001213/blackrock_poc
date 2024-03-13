@@ -1,0 +1,103 @@
+{
+    "output": [
+        [
+            "Pope Francis",
+            "PERSON",
+            "Order",
+            "Vatican takeover",
+            "ORG"
+        ],
+        [
+            "Vatican",
+            "ORG",
+            "Announce",
+            "takeover",
+            "ORG"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Follow",
+            "group\u2019s situation",
+            "ORG"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Take_action",
+            "after",
+            "O",
+            "Detailed_analysis",
+            "of",
+            "all_the_documentation",
+            "O"
+        ],
+        [
+            "SCV",
+            "ORG",
+            "Operate_In",
+            "Peru",
+            "GPE"
+        ],
+        [
+            "SCV",
+            "ORG",
+            "Control",
+            "Religious_formation",
+            "CONCEPT"
+        ],
+        [
+            "SCV",
+            "ORG",
+            "Impact_On",
+            "Economic_and_financial_management",
+            "CONCEPT"
+        ],
+        [
+            "Pope Francis",
+            "PERSON",
+            "Concerned",
+            "gravity_of_information",
+            "CONCEPT"
+        ],
+        [
+            "Lawyer",
+            "PERSON",
+            "for_victims",
+            "Say",
+            "O",
+            "Public_prosecutor",
+            "Seek",
+            "pre-trial_detention",
+            "O",
+            "Figari",
+            "PERSON",
+            "and_three_other_former_leaders",
+            "PERSON",
+            "of_the_group",
+            "ORG"
+        ],
+        [
+            "Vatican",
+            "ORG",
+            "Prohibit",
+            "Figari",
+            "PERSON",
+            "from",
+            "having",
+            "contact",
+            "O",
+            "members",
+            "O",
+            "SCV",
+            "ORG"
+        ],
+        [
+            "SCV",
+            "ORG",
+            "Run_by",
+            "Colombian_Bishop_Noel_Antonio_Londono_Buitrago",
+            "PERSON"
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "output": [
+        [
+            "Future Fintech Group Inc",
+            "COMP",
+            "Announce",
+            "5% Stake",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Future Fintech Group Inc",
+            "COMP",
+            "Is_Member_Of",
+            "Blockchain Technology Company",
+            "ORG"
+        ],
+        [
+            "Future Fintech Group Inc",
+            "COMP",
+            "Received",
+            "5% Equity Interest",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nova Realm Limited",
+            "COMP",
+            "Has",
+            "Yongke Xue",
+            "PERSON"
+        ],
+        [
+            "Yongke Xue",
+            "PERSON",
+            "Gifted",
+            "5% Equity Interest",
+            "ECON_INDICATOR"
+        ]
+    ]
+}

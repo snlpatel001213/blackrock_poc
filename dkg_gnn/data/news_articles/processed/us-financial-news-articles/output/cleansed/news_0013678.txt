@@ -1,0 +1,63 @@
+{
+    "output": [
+        [
+            "MELBOURNE",
+            "GPE",
+            "Hosts",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Australian Open",
+            "EVENT",
+            "Is_Member_Of",
+            "Grand Slam Tournaments",
+            "EVENT"
+        ],
+        [
+            "Venus Williams",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Belinda Bencic",
+            "PERSON",
+            "Participates_In",
+            "Australian Open",
+            "EVENT"
+        ],
+        [
+            "Roger Federer",
+            "PERSON",
+            "Mentions",
+            "36 years old",
+            "ECON_INDICATOR"
+        ],
+        [
+            "Nick Kyrgios",
+            "PERSON",
+            "Mentioned_By",
+            "Becker",
+            "PERSON"
+        ],
+        [
+            "Becker",
+            "PERSON",
+            "Predicts",
+            "Kyrgios",
+            "PERSON",
+            "Can_Become",
+            "Global Superstar",
+            "CONCEPT"
+        ],
+        [
+            "Bernard Tomic",
+            "PERSON",
+            "Experiences",
+            "Australian Open Failure",
+            "EVENT"
+        ]
+    ]
+}

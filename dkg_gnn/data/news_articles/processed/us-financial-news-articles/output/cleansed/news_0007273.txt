@@ -1,0 +1,105 @@
+{
+    "output": [
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Multi-Industry",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Aerospace",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Operate_In",
+            "Elevator",
+            "SECTOR"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Produce",
+            "Geared TurboFan engine",
+            "PRODUCT"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Upgrade",
+            "United Technologies",
+            "COMP"
+        ],
+        [
+            "Goldman Sachs",
+            "ORG",
+            "Set_Price_Target",
+            "173",
+            "ECON_INDICATOR",
+            "USD"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Positive_Impact_On",
+            "Goldman Sachs",
+            "ORG"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Acquire",
+            "Rockwell Collins",
+            "COMP"
+        ],
+        [
+            "Rockwell Collins",
+            "COMP",
+            "Relate_To",
+            "Aviation Technology",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Control",
+            "Large overseas cash balance",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Benefit_From",
+            "US tax reform",
+            "CONCEPT"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Impact",
+            "Dow",
+            "COMP"
+        ],
+        [
+            "Dow",
+            "COMP",
+            "Gain",
+            "27",
+            "ECON_INDICATOR",
+            "Percent"
+        ],
+        [
+            "United Technologies",
+            "COMP",
+            "Gain",
+            "17",
+            "ECON_INDICATOR",
+            "Percent"
+        ]
+    ]
+}

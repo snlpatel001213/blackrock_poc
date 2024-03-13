@@ -1,0 +1,137 @@
+{
+    "output": [
+        [
+            "Reuters",
+            "ORG",
+            "Publish",
+            "New York family of five among the dead in Costa Rican plane crash",
+            "EVENT"
+        ],
+        [
+            "Family",
+            "PERSON",
+            "Comprise",
+            "Steinberg family",
+            "PERSON"
+        ],
+        [
+            "Steinberg family",
+            "PERSON",
+            "Member_Of",
+            "New York City suburb of Scarsdale",
+            "GPE"
+        ],
+        [
+            "Steinberg family",
+            "PERSON",
+            "Die_In",
+            "Plane crash",
+            "EVENT"
+        ],
+        [
+            "Plane crash",
+            "EVENT",
+            "Locate_In",
+            "Popular beach resort in Costa Rica",
+            "GPE"
+        ],
+        [
+            "Costa Rican government",
+            "ORG/GOV",
+            "Announce",
+            "12 people aboard killed",
+            "PERSON"
+        ],
+        [
+            "Cessna 208B Grand Caravan aircraft",
+            "PRODUCT",
+            "Crash",
+            "Plane crash",
+            "EVENT"
+        ],
+        [
+            "Plane crash",
+            "EVENT",
+            "Locate_In",
+            "Mountainous area off the beach town of Punta Islita",
+            "GPE"
+        ],
+        [
+            "Punta Islita",
+            "GPE",
+            "Popular_Among",
+            "North American and European tourists",
+            "PERSON"
+        ],
+        [
+            "Nature Air",
+            "COMP",
+            "Operate",
+            "Flight",
+            "PRODUCT"
+        ],
+        [
+            "Flight",
+            "PRODUCT",
+            "Involve",
+            "10 U.S. citizens",
+            "PERSON"
+        ],
+        [
+            "Flight",
+            "PRODUCT",
+            "Involve",
+            "2 Costa Rican pilots",
+            "PERSON"
+        ],
+        [
+            "Bruce Steinberg",
+            "PERSON",
+            "Work",
+            "Investment banking",
+            "SECTOR"
+        ],
+        [
+            "Irene Steinberg",
+            "PERSON",
+            "Volunteer",
+            "Many nonprofit groups",
+            "ORG"
+        ],
+        [
+            "Matthew",
+            "PERSON",
+            "Attend",
+            "Private school",
+            "ORG"
+        ],
+        [
+            "William",
+            "PERSON",
+            "Attend",
+            "University of Pennsylvania",
+            "ORG"
+        ],
+        [
+            "Zachary",
+            "PERSON",
+            "Attend",
+            "Johns Hopkins University",
+            "ORG"
+        ],
+        [
+            "Steinberg family",
+            "PERSON",
+            "Close",
+            "Family",
+            "PERSON"
+        ],
+        [
+            "Punta Islita",
+            "GPE",
+            "Popular_For",
+            "Pristine beaches and lush landscape",
+            "CONCEPT"
+        ]
+    ]
+}
