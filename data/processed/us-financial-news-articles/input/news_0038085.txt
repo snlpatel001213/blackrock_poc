@@ -1,0 +1,9 @@
+Jan 22 (Reuters) - Intel Corp has asked computer makers to stop rolling out a set of faulty patches it issued to fix security flaws in its chips and instead start testing an updated version.
+The company said on Monday that it wanted computer manufacturers and data center owners to stop using the current fixes for the so-called Meltdown and Spectre security flaws, which can let hackers steal sensitive information from computers made with its processors. The patches, which the company spent months crafting, cause computers to reboot more often than normal.
+Instead, Intel asked customers to start testing an updated version of its patches that it began sending out on Saturday and Sunday. Intel also said it had identified the root cause of the reboot problem in its older Broadwell and Haswell processors.
+“We ask that our industry partners focus efforts on testing early versions of the updated solution so we can accelerate its release,” Navin Shenoy, general manager of Intel’s data center group, said in a posting on the company’s website. “I apologize for any disruption this change in guidance may cause.”
+On Jan. 3 Intel confirmed that Spectre and Meltdown affected its chips.
+Meltdown was specific to chips from Intel, as well as one from Softbank Group Corp’s ARM Holdings. Spectre affected nearly every modern computing device, including those with chips from those companies and Advanced Micro Devices Inc .
+As Intel began to roll out patches for the flaws, problems cropped up. On Jan. 11, Intel acknowledged that the patches were causing higher reboot rates in its older chips.
+Last week, Intel said the problem also affected its most recent Ivy Bridge, Sandy Bridge, Skylake and Kaby Lake processors. (Reporting by Stephen Nellis; Editing by Lisa Von Ahn)
+ 

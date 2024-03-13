@@ -1,0 +1,5 @@
+By Emily Price January 23, 2018 
+You may want to think twice before swiping right on Tinder in a public place. Researchers recently discovered that the app lacks the basic encryption needed to keep your swipes, as well as your photos and matches, hidden from online snoops nearby, Wired reports . 
+Researchers at Tel Aviv-based app security firm Checkmarx recently demonstrated that Tinder lacks basic HTTPS encryption for photos. That means that if they were on the same Wi-Fi network as someone using Tinder, they would be able to see the same photos that the Tinder user does on their phone and even inject their own images into the mix as well. 
+Additionally, researchers were able to tell things like whether or not a user decided to swipe left or right or whether or not they matched with another user. In a video, they show how they were able to essentially reconstruct a user’s entire Tinder session using a laptop connected to the same Wi-Fi network. 
+Checkmarx says its notified Tinder about its findings, but the dating site has yet to correct any of the issues. SPONSORED FINANCIAL CONTENT 

@@ -1,0 +1,1 @@
+{'output': [['Trump Administration', 'ORG/GOV', 'Release', 'new tax law', 'EVENT'], ['new tax law', 'EVENT', 'Relate_To', 'tax tables', 'PRODUCT'], ['Trump Administration', 'ORG/GOV', 'Operate_In', 'Government', 'GPE'], ['tax tables', 'PRODUCT', 'Withholding tables for', 'new tax law', 'EVENT']]}

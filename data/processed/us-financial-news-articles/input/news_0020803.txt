@@ -1,0 +1,22 @@
+January 12, 2018 / 12:55 AM / Updated 10 hours ago Explainer: How chip flaws Spectre, Meltdown work and what's next Paresh Dave 4 Min Read 
+LAS VEGAS (Reuters) - Smartphones, PCs and servers across the world have received software updates in recent days to plug security gaps on computer chips that cyber security researchers have described as the most serious threat in years. 
+Researchers identified the problem last year, shared details with chip manufacturers last summer, and then made a public announcement Jan. 3. 
+What is the problem? 
+The vulnerabilities, known as Meltdown and Spectre, can allow passwords and other sensitive data on chips to be read. The flaws result from the way computers try to guess what users are likely to do next, a process called speculative execution. 
+Simon Segars, the chief executive of chip designer ARM Holdings, described speculative execution as the equivalent of spinning a bunch of plates in the air, with the plates holding data. 
+Watching the order in which the plates land lets observers infer the data, he told Reuters during an interview on Wednesday at the tech industry’s CES conference in Las Vegas. 
+How bad is it? 
+Affected chipmakers and large technology companies including Alphabet Inc’s ( GOOGL.O ) Google say they have not seen any malicious hackers use Meltdown or Spectre in attacks, but the vulnerabilities affect most modern computing devices. 
+Security analysts have said that Meltdown, which affects Intel Corp ( INTC.O ) chips and one processor from SoftBank Group Corp’s ( 9984.T ) ARM, is easier to exploit because the program to steal passwords and other data can be hidden on a website. 
+Spectre, meanwhile, requires more direct access to the microchip, but affects central processing units from Intel, Advanced Micro Devices Inc ( AMD.O ) and ARM. 
+How have chipmakers and technology companies responded? 
+Chipmakers have teamed up with Google, Microsoft Corp ( MSFT.O ), Apple Inc ( AAPL.O ), and other leading tech companies since the summer to devise software patches. 
+Do the fixes have side effects? 
+Intel said on Wednesday that the performance decline is as much as 10 percent, but that a typical home and business PC user should not see big changes in how long it takes to save a document or open a photo stored on a computer. 
+The patches, however, do not always work with other software. For example, a fix for Spectre led to issues turning on some computers with AMD chips, and a Meltdown patch for Microsoft Windows required changes from antivirus makers. 
+What is being done to prevent similar problems in the future? 
+ARM’s Segars said his company has been tweaking designs for future chips to add “maximum flexibility.” 
+The biggest change is adding more transistors to chips, a negligible cost, to make it easier to turn chip features on and off, he said. 
+Giving yourself “maximum flexibility” means it will be easier to respond to future flaw discoveries, Segars said. 
+Chipmakers and operating system makers must also collaborate more. “What’s important to establish there is guidelines around how to write software so you don’t run afoul,” he said. 
+(Corrects paragraph 7 to say Intel chips are not the only products affected) Reporting by Paresh Dave, editing by Peter Henderson and G Crosse

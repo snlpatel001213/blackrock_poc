@@ -1,0 +1,1 @@
+{"output": [["Publisher", "ORG", "Produce", "Book", "PRODUCT"], ["Book", "PRODUCT", "Relate_To", "First Year of Trump Administration", "CONCEPT"], ["Trump", "PERSON", "Control", "Administration", "ORG/GOV"], ["Lawyers", "PERSON", "Act_For", "Trump", "PERSON"], ["Legal Action", "CONCEPT", "Threaten", "Publisher", "ORG"]], "published": "2018-01-05T21:16:00.000+02:00"}

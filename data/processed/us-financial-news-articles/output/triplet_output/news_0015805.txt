@@ -1,0 +1,1 @@
+{'output': [['Donald Trump', 'PERSON', 'Has', 'Presidential Physical', 'EVENT'], ['Donald Trump', 'PERSON', 'Operate_In', 'U.S. Government', 'ORG/GOV'], ['U.S. Government', 'ORG/GOV', 'Control', 'Presidential Physical', 'EVENT'], ['Donald Trump', 'PERSON', 'Relate_To', 'Mental Fitness', 'CONCEPT'], ['Mental Fitness', 'CONCEPT', 'Negative_Impact_On', 'Donald Trump', 'PERSON']]}

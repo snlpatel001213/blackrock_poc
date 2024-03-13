@@ -1,0 +1,1 @@
+{'output': [['Trump', 'PERSON', 'Participates_In', 'Davos', 'EVENT'], ['Trump', 'PERSON', 'Relate_To', 'World Economic Forum', 'EVENT'], ['IHS Markit', 'ORG', 'Has', 'John Raines', 'PERSON'], ['John Raines', 'PERSON', 'Is_Member_Of', 'IHS Markit', 'ORG'], ['John Raines', 'PERSON', 'Comment_On', 'Trump', 'PERSON'], ['John Raines', 'PERSON', 'Comment_On', 'Davos', 'EVENT']]}

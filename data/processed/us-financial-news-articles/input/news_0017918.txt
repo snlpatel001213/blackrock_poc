@@ -1,0 +1,13 @@
+By Robert Hackett January 11, 2018 
+Apple Mac computers running the latest version of Apple’s High Sierra operating system have a flaw that lets just about anyone unlock and edit a person’s App Store preferences with any password. 
+The vulnerability isn’t nearly as bad as one discovered in late November that allowed anyone to obtain higher, administrative privileges on Apple Mac computers merely by entering the username “root” while logging into the “User & Groups” section of a Mac computer’s System Preferences menu. That earlier security hole, since patched , enabled anyone with physical access to a machine to view any files or change and reset any passwords for other users. 
+The new flaw, uncovered by Eric Holtam , an IT systems administrator, and posted to Open Radar , a bug-reporting website, is troubling nonetheless. The finding, though far, far less serious than the past blunder, raises concerns about Apple’s (aapl) security design, given that this is the second trivial login bug to come to light in recent months. 
+MacRumors, a blog devoted to Apple coverage, first spotted Holtam’s post on Tuesday. 
+Here are the steps to follow to exploit the hole. Open “System Preferences” Click the padlock icon to “lock” it (if it is “unlocked”). Click the padlock icon to “unlock” it. Enter your user name and any password. 
+Here’s what the screen should display: Screenshot 
+Fortune successfully tested the bypass on a 2012 Macbook Pro running the latest version of macOS High Sierra. 
+After unlocking App Store preferences, a person can tweak certain password settings, such as the frequency with which a system asks for a user’s password when approving app-related purchases. Even so, attackers cannot go on prolonged spending sprees: the two options are “Always require” or “Require after 15 minutes.” 
+One big caveat: anyone looking to take advantage of this authentication sidestep has to be logged in as an administrator. When Fortune tested the approach on a 2015 Macbook Air using a non-administrator account, all attempts failed. 
+Get Data Sheet , Fortune’s technology newsletter. 
+Apple appears to be testing a patch for the bug in an early version of a coming macOS High Sierra upgrade (10.3.3). It’s likely the issue will be resolved in a future software update. 
+Apple did not immediately reply to a request for comment. SPONSORED FINANCIAL CONTENT
